@@ -3,6 +3,7 @@ languageCode: "en-us"
 title: "Custom Paper Box Manufacturer | Rigid Boxes, Folding Cartons | Bincai"
 theme: "bincai"
 enableRobotsTXT: true
+buildFuture: true
 
 params:
   description: "Custom paper box manufacturer with 22 years experience. ISO 9001 & FSC certified. 10,000 sqm factory with KBA and Heidelberg presses. Daily output 1.5M boxes."
