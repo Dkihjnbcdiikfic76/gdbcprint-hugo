@@ -1,0 +1,30 @@
+baseURL: "https://gdbcprint.com/"
+languageCode: "en-us"
+title: "Custom Paper Box Manufacturer | Rigid Boxes, Folding Cartons | Bincai"
+theme: "bincai"
+enableRobotsTXT: true
+
+params:
+  description: "Custom paper box manufacturer with 22 years experience. ISO 9001 & FSC certified. 10,000 sqm factory with KBA and Heidelberg presses. Daily output 1.5M boxes."
+  email: "qo82@icloud.com"
+  phone: "+86-18934352881"
+  address: "Shunde District, Foshan, Guangdong, China"
+
+menus:
+  main:
+    - name: "Products"
+      url: "/products/"
+      weight: 1
+    - name: "About"
+      url: "/about/"
+      weight: 2
+    - name: "Contact"
+      url: "/contact/"
+      weight: 3
+
+taxonomies:
+  category: categories
+
+sitemap:
+  changefreq: weekly
+  priority: 0.7
