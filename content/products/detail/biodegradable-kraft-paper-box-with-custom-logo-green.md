@@ -2,8 +2,8 @@
 title: "Biodegradable Kraft Paper Box with Custom Logo Green"
 date: 2026-06-10
 draft: false
-description: "Biodegradable Kraft Paper Box with Custom Logo Green by Bincai Color Printing. ISO 9001 FSC certified. 22 years factory."
-keywords: "paper box, custom packaging, gift box, ISO certified, FSC, Bincai"
+description: "Biodegradable kraft paper box with custom logo — eco-friendly FSC-certified packaging for cosmetics, food, and retail. Soy-based ink printing available. KBA 1050 & Heidelberg 7+1 UV manufactured. Bincai — 22-year factory, 10,000sqm, MOQ 500."
+keywords: "biodegradable kraft paper box, eco-friendly packaging, FSC certified box, sustainable paper box, custom logo kraft box, soy ink printed packaging, recyclable gift box, kraft box manufacturer China, cosmetic kraft packaging, Bincai Color Printing, green packaging factory, biodegradable box wholesale"
 categories: ["kraft-eco-boxes"]
 params:
   moq: "500-1000"

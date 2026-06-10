@@ -2,8 +2,8 @@
 title: "Custom Tuck Top Folding Carton CMYK Offset Printing"
 date: 2026-06-10
 draft: false
-description: "Custom Tuck Top Folding Carton CMYK Offset Printing by Bincai Color Printing. ISO 9001 FSC certified. 22 years factory."
-keywords: "paper box, custom packaging, gift box, ISO certified, FSC, Bincai"
+description: "Custom tuck-top folding carton with CMYK offset printing, Pantone spot colors, hot foil stamping, and spot UV. KBA 1050 & Heidelberg 7+1 UV manufactured. ISO 9001 & FSC certified. Bincai — 22-year factory, 10,000sqm, MOQ 500."
+keywords: "tuck top folding carton, custom folding carton, CMYK offset printing box, Pantone spot color box, hot foil stamping box, spot UV packaging, retail display carton, folding carton factory China, ISO 9001 FSC packaging, Bincai Color Printing, Guangdong packaging manufacturer"
 categories: ["folding-cartons"]
 params:
   moq: "500-1000"
