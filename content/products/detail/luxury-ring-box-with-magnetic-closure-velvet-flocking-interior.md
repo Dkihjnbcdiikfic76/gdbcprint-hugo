@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Jewelry Boxes](/images/jewelry-box.jpg)
+![Bincai Jewelry Boxes](/images/cat-rigid-jewelry.jpg)
 
 Elegant luxury ring box with magnetic closure and premium velvet flocking interior — designed and manufactured by Guangdong Bincai Color Printing Co., Ltd. With 22 years of jewelry packaging expertise, ISO 9001 & FSC certifications, and precision craftsmanship, we create ring boxes that transform the unboxing moment into a brand experience. Every box is produced on our KBA 1050 4-color and Heidelberg 7+1 UV presses in a 10,000 sqm facility.
 

@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Corrugated Mailers](/images/corrugated-mailer.jpg)
+![Bincai Corrugated Mailers](/images/cat-fold-mailer.jpg)
 
 Premium white corrugated shipping box engineered for cosmetic and apparel e-commerce delivery — by Guangdong Bincai Color Printing Co., Ltd. (founded 2003), a 22-year full-chain packaging manufacturer. 10,000 sqm factory with KBA 1050 4-color offset and Heidelberg 7+1 UV presses, integrated corrugated production line. Daily output 1.7 million boxes. ISO 9001 & FSC certified. Custom sizes, branded printing, and ISTA-tested structural integrity.
 

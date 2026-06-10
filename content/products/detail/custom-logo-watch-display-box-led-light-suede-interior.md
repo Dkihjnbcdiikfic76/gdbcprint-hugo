@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Jewelry Boxes](/images/jewelry-box.jpg)
+![Bincai Jewelry Boxes](/images/cat-rigid-jewelry.jpg)
 
 Luxury custom logo watch display box with integrated LED light and premium suede interior — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). 10,000 sqm factory with KBA and Heidelberg presses. Daily output 1.7 million boxes.
 
