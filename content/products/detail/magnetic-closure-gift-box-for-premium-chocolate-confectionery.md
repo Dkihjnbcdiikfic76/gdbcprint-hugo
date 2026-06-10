@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Magnetic Closure Boxes](/images/cat-rigid-others.jpg)
+![Bincai Magnetic Closure Boxes](/images/magnetic-closure-box.jpg)
 
 Custom magnetic closure gift box for premium chocolate and confectionery — produced by Guangdong Bincai Color Printing Co., Ltd., a 22-year packaging specialist (founded 2003) operating KBA 1050 4-color and Heidelberg 7+1 UV presses on a 10,000 sqm factory floor. Designed for chocolatiers, patisseries, and gourmet food brands, this magnetic lid box features food-safe interior materials, a custom PET tray insert for individual chocolate cavities, and elegant gold foil branding. Daily output 1.7 million boxes.
 

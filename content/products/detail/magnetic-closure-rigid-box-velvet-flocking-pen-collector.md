@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Magnetic Closure Boxes](/images/cat-rigid-others.jpg)
+![Bincai Magnetic Closure Boxes](/images/magnetic-closure-box.jpg)
 
 Elegant magnetic closure rigid box with sumptuous velvet flocking interior — purpose-designed for luxury pen sets and high-end collector writing instruments. Manufactured at **Guangdong Bincai Color Printing Co., Ltd.** (founded 2003), our 10,000 sqm Foshan factory runs KBA 1050 4-color and Heidelberg 7+1 UV presses, delivering 1.7 million boxes daily. ISO 9001:2015 and FSC certified. The deep velvet-flocked interior cradles each pen securely, while N52 neodymium magnets ensure a refined snap-shut closure.
 

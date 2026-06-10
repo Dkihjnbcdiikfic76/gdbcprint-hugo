@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Magnetic Closure Boxes](/images/cat-rigid-others.jpg)
+![Bincai Magnetic Closure Boxes](/images/magnetic-closure-box.jpg)
 
 Premium magnetic flap rigid box for luxury cosmetics and skincare — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). Designed for high-end beauty brands, this rigid box features a magnetic flip cover with soft-touch lamination and satin interior lining for an elevated unboxing experience. KBA 1050 4-color and Heidelberg 7+1 UV presses deliver precision printing on 10,000 sqm factory floor. Daily output 1.7 million boxes.
 
