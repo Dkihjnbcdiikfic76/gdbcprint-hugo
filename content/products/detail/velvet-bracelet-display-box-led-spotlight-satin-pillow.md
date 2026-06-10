@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Jewelry Boxes](/images/cat-fold-cosmetic.jpg)
+![Bincai Jewelry Boxes](/images/cat-rigid-jewelry.jpg)
 
 Luxury velvet bracelet display box with integrated LED spotlight and satin pillow insert — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). 10,000 sqm factory with KBA 1050 4-color and Heidelberg 7+1 UV presses. Daily output 1.7 million boxes.
 
