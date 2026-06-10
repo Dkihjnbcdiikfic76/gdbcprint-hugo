@@ -35,6 +35,58 @@ With ISO 9001:2015 certification and a daily output capacity of 1.5 million boxe
 - **Inserts & Dividers** — Optional corrugated partitions, cardboard dividers, or molded pulp inserts for multi-product shipment protection.
 - **Low 500-Unit MOQ** — Startup-friendly minimums with volume pricing for subscription box and e-commerce scaling; standard sizes in stock for faster turnaround.
 
+## Customization Options
+
+| Option | Available Choices |
+|---|---|
+| **Flute Type** | B-flute (3mm, heavy duty), E-flute (1.5mm, standard), F-flute (0.8mm, ultra-slim), BC double-wall (6mm, maximum protection) |
+| **Liner Material** | Kraft (natural brown), white-top kraft (bright print surface), coated white (photo-quality CMYK), recycled grey-back |
+| **Print Method** | Offset CMYK (KBA 1050), flexographic (1–4 colors), no-print (plain kraft) |
+| **Print Coverage** | Exterior only, exterior + interior, full flood coat + logo, pattern/design all-over |
+| **Closure Style** | Tuck-top, self-locking crash-lock bottom, tear-strip mailer, RSC (regular slotted), HSC (half-slotted) with separate lid |
+| **Coating Options** | Aqueous (matte/gloss), UV spot varnish, soft-touch matte, no coating (natural kraft) |
+| **Special Finishes** | Hot foil stamp, emboss/deboss, window cut-out + PET film, QR code printing, sequential numbering |
+| **Inserts** | Corrugated dividers (1–6 cells), molded pulp trays, EVA foam cut-outs, cardboard tiered trays |
+| **Tape & Seal** | Self-seal strip (cold-seal adhesive), water-activated kraft tape, standard packing tape, tear strip with pull tab |
+| **MOQ Range** | 500 units (standard sizes), 1000 units (custom dimensions), 3000+ (multi-color flexo) |
+
+## Applications & Industry Use Cases
+
+Kraft corrugated mailers serve the entire e-commerce value chain — from warehouse-to-customer shipping to branded retail presentation:
+
+| Industry | Use Case | Recommended Spec |
+|---|---|---|
+| **Apparel & Fashion** | T-shirt mailers, folded garment boxes, shoe boxes | E-flute, 300×250×50mm, branded CMYK |
+| **Beauty & Cosmetics** | Subscription beauty boxes, skincare shipment boxes | F-flute, white-top kraft, soft-touch matte |
+| **Supplements & Wellness** | Vitamin bottles, protein pouches, wellness kits | B-flute, dividers, tamper-evident tear strip |
+| **Electronics & Accessories** | Phone cases, cables, earbuds, small gadgets | E-flute, EVA foam insert, anti-static option |
+| **Food & Beverage** | Gourmet snack boxes, coffee subscription, tea sets | Food-grade certified liner, grease-resistant coating |
+| **Books & Media** | Book mailers, vinyl record shippers, print packaging | B-flute, adjustable depth, crush corners |
+| **Jewelry & Accessories** | Small-item mailers, ring boxes, bracelet packs | F-flute, velvet insert, foil-stamped logo |
+| **Subscription Boxes** | Monthly curated boxes, lifestyle kits, discovery boxes | E-flute, custom CMYK, tear-strip + magnetic combo |
+| **Corporate & Promo** | Swag boxes, welcome kits, event giveaways | White-top kraft, full CMYK, custom inserts |
+| **Industrial & B2B** | Parts shipping, sample kits, bulk small-item boxes | BC double-wall, heavy-duty, ECT 44+ |
+
+## Production Quality & Testing
+
+Every corrugated mailer batch passes through rigorous QC aligned with ISTA and ASTM standards:
+
+| Test | Standard | Specification |
+|---|---|---|
+| **Edge Crush Test (ECT)** | TAPPI T-811 | B-flute: 32+ lb/in; E-flute: 26+ lb/in; BC double-wall: 44+ lb/in |
+| **Burst Strength (Mullen)** | TAPPI T-810 | Minimum 200 PSI for single-wall; 275 PSI for double-wall |
+| **Flat Crush (FCT)** | TAPPI T-808 | Flute rigidity verified at minimum 30 PSI before converting |
+| **Print Registration** | Internal | Four-color register ±0.15mm; density variation ≤0.10D across run |
+| **Glue Bond** | Internal | Adhesive coverage ≥90% on manufacturer's joint; peel strength ≥2.0 N/cm |
+| **Dimensional** | Internal | Length/width/height within ±2mm of spec; squareness within 1.5° |
+| **ISTA 1A Transit** | ISTA | 10-drop sequence + 1h vibration at 200 RPM; no structural failure |
+| **Humidity Conditioning** | Internal | 24h at 90% RH, 38°C; ECT degradation ≤15% after conditioning |
+| **Tear Strip Function** | Internal | Strips cleanly in single pull without tearing liner; pull force 3–8N |
+| **Print Rub Resistance** | ASTM D5264 | Sutherland rub test: 100 cycles minimum with no visible ink transfer |
+| **Color Accuracy** | Internal | X-Rite spectrophotometer; ΔE ≤ 3.0 vs. approved proof under D65 |
+
+**Production workflow:** Dieline approval (24h) → 3D digital proof (24h) → Physical sample (3–5 days) → Customer approval → Mass production (7–12 days) → QC sampling → Flat-pack bundling → Container loading.
+
 ## Factory
 
 Guangdong Bincai Color Printing Co., Ltd. runs a dedicated corrugated mailer production line within our fully integrated 10,000 sqm facility:

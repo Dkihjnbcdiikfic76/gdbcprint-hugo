@@ -27,9 +27,68 @@ Our custom magnetic closure folding gift box with CMYK printing delivers a premi
 - **Material Choices:** 1200–2000 gsm greyboard wrapped in 157–350 gsm art paper, kraft paper, or specialty textured stocks — all FSC certified.
 - **Value-Added Finishes:** Hot foil stamping (gold, silver, rose gold, holographic), debossing/embossing, soft-touch lamination, and window patching available.
 
-## Factory
+## Customization Options
 
-Guangdong Bincai Color Printing operates a 10,000 sqm production facility in Foshan, China, with 22 years of paper packaging expertise. Our factory runs 5 automated production lines including the KBA 1050 4-color offset press, Heidelberg 7+1 UV press, automatic die-cutting machines, folder-gluers, and magnetic insertion equipment — yielding a daily output of 1.5 million boxes. We are ISO 9001:2015 quality management certified and FSC Chain-of-Custody certified, ensuring consistent quality and responsible material sourcing for every order.
+| Option | Available Choices |
+|---|---|
+| **Size Range** | 60×60×20mm to 450×350×120mm (custom any dimension) |
+| **Box Style** | One-piece folding, two-piece rigid lid+base, book-style hinge, drawer-slide, mailer flap |
+| **Magnet Configuration** | Single flap, double flap, side-panel magnets, wrap-around magnetic belt |
+| **Paper Wrap** | 157gsm / 200gsm / 250gsm / 350gsm art paper; kraft, black, white, textured finishes |
+| **Board Thickness** | 1.5mm / 2.0mm / 2.5mm / 3.0mm greyboard core |
+| **Print Coverage** | Full exterior CMYK; interior print available; white ink on dark substrates |
+| **Foil Colors** | Gold, silver, rose gold, copper, holographic, matte gold, black foil |
+| **Lamination** | Gloss, matte, soft-touch velvet, anti-scratch, linen-texture |
+| **Spot UV** | High-gloss spot UV on logo, pattern, or full-coverage design |
+| **Interior** | Velvet flocking, satin fabric, custom-printed paper lining, EVA foam insert, cardboard partitions, ribbon pull-tab |
+| **MOQ** | 500 units per design; 1000+ for complex multi-piece structures |
+
+## Applications
+
+Magnetic closure boxes are the preferred packaging format where premium presentation, reusability, and secure closure are essential:
+
+| Industry | Application | Key Feature |
+|---|---|---|
+| **Cosmetics & Beauty** | Skincare sets, makeup palettes, fragrance gift sets | Soft-touch matte + foil logo |
+| **Jewelry** | Necklace, bracelet, ring, earring presentation boxes | Velvet interior + magnetic snap |
+| **Electronics** | Earphones, smartwatches, phone accessories, cables | Rigid protection + sleek unboxing |
+| **Corporate Gifts** | Branded gift boxes, employee welcome kits, event giveaways | CMYK branding + reusable design |
+| **Watches** | Luxury watch boxes, collector display cases | Suede interior + book-style hinge |
+| **Apparel** | Premium t-shirt boxes, tie boxes, scarf packaging | Magnetic mailer with tear strip |
+| **Food & Confectionery** | Chocolate boxes, tea sets, gourmet gift packaging | Food-safe inks + magnetic lid |
+| **Subscription Boxes** | Monthly beauty boxes, curated gift boxes | Self-locking + magnetic flap combo |
+
+## Production Quality
+
+Our magnetic closure boxes undergo a comprehensive 12-step QC process:
+
+1. **Material Verification** — Board grammage (±5%), paper GSM, FSC chain-of-custody documentation
+2. **Die-Cutting Precision** — Crease depth (±0.05mm), cutting edge sharpness, nicking optimization for clean stripping
+3. **Print Registration** — Four-color registration marks (±0.1mm), density consistency across print run
+4. **Lamination Bond** — Peel strength test (≥2.0 N/cm), surface smoothness inspection, no bubbles or wrinkles
+5. **Magnet Calibration** — Neodymium N35 grade minimum, pull-force test (≥3N per magnet pair), polarity consistency
+6. **Magnet Placement** — XY position (±0.5mm), embedding depth (flush with surface), polarity orientation verified
+7. **Folding & Gluing** — Seam bonding strength, automatic folder-gluer speed calibration, glue bead consistency
+8. **Closure Test** — 500 open/close cycle durability test, flap alignment (±1mm), magnetic catch engagement
+9. **Color Accuracy** — X-Rite spectrophotometer check against Pantone references, ΔE ≤ 2.0 across production run
+10. **Drop & Vibration** — ISTA 1A transit simulation: 10-drop sequence + 1-hour vibration table test
+11. **Environmental Stress** — 48h at 40°C/85% RH (tropical shipping simulation), cold cycle at -20°C (24h)
+12. **Final Inspection** — AQL 2.5 sampling under D65 lighting, barcode verification, carton labeling audit
+
+## Why Bincai
+
+| Differentiator | Detail |
+|---|---|
+| **22-Year Specialist** | Dedicated paper packaging manufacturer since 2003 — not a general printer |
+| **10,000 sqm Integrated Facility** | Prepress → printing → die-cutting → gluing → magnetic assembly → QC all in-house |
+| **KBA 1050 + Heidelberg 7+1** | German-engineered offset presses for best-in-class CMYK reproduction |
+| **1.5 Million Boxes Daily** | Industrial capacity supports enterprise-scale orders with consistent quality |
+| **ISO 9001:2015 + FSC** | Internationally audited quality management and sustainable sourcing |
+| **Free Structural Design** | In-house dieline engineers design your box from concept to production file |
+| **3D Digital Proofing** | 24-hour turnaround on photorealistic 3D renders before sampling |
+| **Free Pre-Production Samples** | Physical samples shipped in 5–7 business days |
+| **Low 500 MOQ** | Startup-friendly minimums with competitive volume pricing |
+| **Global Shipping** | FOB Foshan/Shenzhen, flat-packed for container efficiency, Amazon FBA compliant |
 
 ## Contact
 
