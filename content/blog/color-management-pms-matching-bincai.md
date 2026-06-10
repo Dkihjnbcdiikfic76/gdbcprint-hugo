@@ -2,7 +2,7 @@
 title: "Color Management & PMS Matching: How Bincai Keeps Your Brand Colors Flawless Across 1.5 Million Boxes a Day"
 date: 2026-06-11
 draft: false
-description: "How Guangdong Bincai achieves Pantone PMS spot color accuracy within ΔE ≤ 2.0 across 1.5 million daily boxes — Heidelberg 7+1 UV inline spectrophotometry, KBA 1050 densitometry, ISO 12647-2 compliance, and a 6-stage color QC process. 22 years of paper box manufacturing with zero color drift."
+description: "How Guangdong Bincai achieves Pantone PMS spot color accuracy within ΔE ≤ 2.0 across 1.7 million daily boxes — Heidelberg 7+1 UV inline spectrophotometry, KBA 1050 densitometry, ISO 12647-2 compliance, and a 6-stage color QC process. 22 years of paper box manufacturing with zero color drift."
 categories: ["Manufacturing", "Print Quality", "Color Management"]
 tags: ["PMS matching", "Pantone", "color consistency", "Heidelberg", "KBA 1050", "brand packaging", "offset printing", "ISO 12647-2", "Bincai"]
 keywords: ["PMS color matching", "Pantone spot color", "brand color consistency", "paper box printing", "Heidelberg 7+1 UV", "KBA 1050", "offset color management", "paper packaging manufacturer China", "custom box printing"]
@@ -12,7 +12,7 @@ keywords: ["PMS color matching", "Pantone spot color", "brand color consistency"
 
 For brands selling cosmetics, luxury goods, electronics, and premium food products, **color is non-negotiable**. That signature Tiffany blue, Hermès orange, or Chanel black-and-white must be identical whether the box was printed today, last month, or next year — and whether you ordered 5,000 or 500,000 units.
 
-At **Guangdong Bincai Color Printing**, we've spent 22 years perfecting the art and science of color management. With **1.5 million boxes produced daily** across our **10,000 sqm ISO 9001 & FSC certified facility**, we maintain color accuracy within **ΔE ≤ 2.0** — a tolerance tighter than most global brands require.
+At **Guangdong Bincai Color Printing**, we've spent 22 years perfecting the art and science of color management. With **1.7 million boxes produced daily** across our **10,000 sqm ISO 9001 & FSC certified facility**, we maintain color accuracy within **ΔE ≤ 2.0** — a tolerance tighter than most global brands require.
 
 Here's how we do it.
 
@@ -135,7 +135,7 @@ Bincai maintains an extensive **Pantone Formula Guide library** (coated, uncoate
 - **10,000 sqm ISO 9001 & FSC certified** factory in Shunde, Foshan
 - **Heidelberg Speedmaster XL 105-7+UV** with inline spectrophotometry (continuous sheet-level color control)
 - **KBA Rapida 105 4-color** with densitometric quality control
-- **Daily output exceeding 1.5 million boxes** with consistent color across every unit
+- **Daily output exceeding 1.7 million boxes** with consistent color across every unit
 - Full **ISO 12647-2** compliance with documented, auditable color data
 - **In-house ink kitchen** for same-day PMS spot color mixing
 - **GMG color proofing** on actual production substrates

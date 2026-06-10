@@ -5,7 +5,7 @@ draft: false
 description: "How Guangdong Bincai's 6-stage quality control system ensures every paper box meets international standards — material testing, in-line color monitoring, structural stress tests, AQL sampling, and pre-shipment inspection for a 1.5M daily output."
 ---
 
-When you order 50,000 custom rigid boxes for a new product launch, "one bad batch" isn't an option. At Bincai's 10,000 sqm factory, where **1.5 million paper boxes roll off the line every day**, quality isn't a final checkbox — it's woven into every stage of production. Here's the full QC system that keeps our defect rate below 0.3%.
+When you order 50,000 custom rigid boxes for a new product launch, "one bad batch" isn't an option. At Bincai's 10,000 sqm factory, where **1.7 million paper boxes roll off the line every day**, quality isn't a final checkbox — it's woven into every stage of production. Here's the full QC system that keeps our defect rate below 0.3%.
 
 ## Stage 1: Incoming Material Inspection
 
@@ -73,7 +73,7 @@ The last line of defense before global dispatch:
 
 When your product sits on a retail shelf, the box is the first thing customers touch. A misaligned print, a weak magnetic closure, or a cracked hinge signals "cheap" — no matter how good the product inside. Our 6-stage QC chain catches those issues before they catch your customer's eye.
 
-**22 years. ISO 9001 & FSC certified. 10,000 sqm factory. 1.5 million boxes a day. Every one inspected.**
+**22 years. ISO 9001 & FSC certified. 10,000 sqm factory. 1.7 million boxes a day. Every one inspected.**
 
 ---
 
