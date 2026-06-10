@@ -12,6 +12,6 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Jewelry Boxes](/images/cat-rigid-jewelry.jpg)
+![Bincai Jewelry Boxes](/images/cat-rigid-others.jpg)
 
 Premium luxury watch jewelry rigid paper box with magnetic flap by Guangdong Bincai Color Printing, ISO 9001 FSC certified factory with 20+ years in Foshan, China. Custom sizes, CMYK printing, embossing, foil stamping, matte/gloss lamination. MOQ 500 pcs. Free samples.
