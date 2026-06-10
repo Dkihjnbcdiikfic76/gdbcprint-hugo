@@ -2,8 +2,8 @@
 title: "Custom Folding Carton Box CMYK Offset Printing Retail Packaging"
 date: 2026-06-10
 draft: false
-description: "Custom folding carton box with CMYK offset printing for retail packaging. KBA 1050 4-color press, ISO 9001 & FSC certified. 10,000 sqm factory, MOQ 500."
-keywords: "folding carton box, CMYK offset printing, retail packaging box, custom folding carton, paper packaging manufacturer, ISO FSC certified, folding carton China, Bincai"
+description: "Custom folding carton box with CMYK offset printing for retail, cosmetics, food, and electronics packaging. Produced on KBA 1050 4-color press and Heidelberg 7+1 UV line in our ISO 9001:2015 & FSC certified 10,000 sqm factory. Guangdong Bincai Color Printing — 22 years manufacturing heritage, 1.7M daily output, free samples, MOQ 500. Matte/gloss lamination, spot UV, foil stamping available."
+keywords: "folding carton box, CMYK offset printing, retail packaging box, custom folding carton, paper packaging manufacturer, ISO 9001 folding carton, FSC certified packaging, folding carton China, Bincai Color Printing, wholesale folding carton, custom retail box manufacturer, Heidelberg UV printing box, matte lamination carton, food-safe folding carton, cosmetic packaging box, Guangdong packaging factory, offset printed retail box"
 categories: ["folding-cartons"]
 params:
   moq: "500-1000"

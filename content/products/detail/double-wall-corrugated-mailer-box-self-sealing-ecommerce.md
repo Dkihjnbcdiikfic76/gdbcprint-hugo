@@ -2,8 +2,8 @@
 title: "Double-Wall Corrugated Mailer Box with Self-Sealing Strip for E-Commerce"
 date: 2026-06-10
 draft: false
-description: "Double-wall corrugated mailer box with self-sealing tear strip for e-commerce shipping. Custom branded printing, ISO 9001 & FSC certified. 22yr factory, MOQ 1000."
-keywords: "double-wall corrugated mailer box, self-sealing shipping box, e-commerce mailer box, custom printed corrugated box, branded subscription box, tear strip mailer, Bincai, corrugated box manufacturer China"
+description: "Double-wall corrugated mailer box with self-sealing tear strip for e-commerce, subscription, and DTC shipping. BC/BE flute construction, custom branded flexo/litho printing, ISTA 1A transit tested. Manufactured by Guangdong Bincai Color Printing — 22 years experience, ISO 9001:2015 & FSC certified, 10,000 sqm factory + smart factory, Heidelberg 7+1 UV + KBA 1050 presses, 1.7M daily output. FBA-ready sizing, MOQ 1000-3000."
+keywords: "double-wall corrugated mailer box, self-sealing shipping box, e-commerce mailer box, custom printed corrugated box, branded subscription box, tear strip mailer, Bincai Color Printing, corrugated box manufacturer China, FBA shipping box, BC flute mailer, ISTA tested corrugated box, double wall ecommerce box, self-sealing tear strip mailer, Guangdong corrugated factory, ISO 9001 corrugated packaging, wholesale subscription box"
 categories: ["corrugated-mailers"]
 params:
   moq: "1000-3000"

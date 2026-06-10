@@ -2,8 +2,8 @@
 title: "Straight Tuck End Folding Carton Box with Matte Lamination"
 date: 2026-06-10
 draft: false
-description: "Straight tuck end folding carton with matte lamination. KBA 1050 offset, ISO 9001 & FSC certified. 22-year factory in Foshan. MOQ 500. Free samples."
-keywords: "straight tuck end carton, matte lamination box, folding carton wholesale, custom retail packaging, Bincai color printing, offset printed box, tuck-end box factory, cosmetic packaging box, ISO 9001 folding carton, FSC paper box"
+description: "Straight tuck end (STE) folding carton box with premium matte lamination — ideal for cosmetics, skincare, food, electronics, and retail packaging. CMYK offset printed on KBA 1050 4-color press with optional Heidelberg 7+1 UV spot finishes. Manufactured by Guangdong Bincai Color Printing: 22 years experience, ISO 9001:2015 & FSC Chain-of-Custody certified, 10,000 sqm factory + smart factory, 1.7M daily box output. Custom sizes 50–450mm, MOQ 500, free samples in 3-5 days."
+keywords: "straight tuck end carton, matte lamination box, folding carton wholesale, custom retail packaging, Bincai Color Printing, offset printed box, tuck-end box factory, cosmetic packaging box, ISO 9001 folding carton, FSC paper box, STE carton manufacturer, wholesale matte lamination box, Heidelberg UV folding carton, Guangdong packaging factory, food-safe folding carton, custom printed retail box, skincare packaging box"
 categories: ["folding-cartons"]
 params:
   moq: "500-1000"
