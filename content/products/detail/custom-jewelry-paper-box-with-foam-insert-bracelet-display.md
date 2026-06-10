@@ -23,7 +23,7 @@ Showcase bracelets, bangles, and fine jewelry with this premium custom jewelry b
 - **Press**: Heidelberg 7+1 UV / KBA 1050 4-color offset
 - **Construction**: Rigid greyboard 1200–1600gsm, wrapped in 157gsm art paper
 - **Insert**: Custom die-cut EVA foam, velvet flocking, or satin-lined cavities
-- **Daily output**: 200K+ rigid gift boxes per day
+- **Daily output**: 220,000+ rigid gift boxes per day
 - **Board tolerance**: ±0.3mm precision die-cut with Bobst flatbed
 - **Certifications**: ISO 9001:2015, FSC Chain-of-Custody
 

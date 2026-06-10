@@ -64,7 +64,7 @@ Luxury rigid paper box with silver hot foil stamping designed for premium corpor
 - KBA 1050 4-color + Heidelberg 7+1 UV + Bobst foil stamping + fully automatic rigid box assembly line
 - In-house foil stamping, embossing, die-cutting, and edge gilding — no subcontracting
 - Export to 40+ countries with rigid gift boxes as a flagship product category
-- Daily capacity: 1.7 million boxes total (200,000+ dedicated rigid gift box capacity)
+- Daily capacity: 1.7 million boxes total (220,000+ dedicated rigid gift box capacity)
 
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Factory visits welcome. Send us your corporate gift specifications for a custom silver-foil sample.

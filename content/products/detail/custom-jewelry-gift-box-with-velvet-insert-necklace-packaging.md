@@ -14,7 +14,7 @@ params:
 
 ![Bincai Jewelry Boxes](/images/cat-rigid-jewelry.jpg)
 
-Custom jewelry gift box with velvet insert for necklace, bracelet, ring, and earring packaging — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). Designed to showcase fine jewelry with elegance and protection. The plush velvet or satin interior with die-cut cavities holds each piece securely, while the rigid box structure protects against impact during shipping and retail handling. Produced on KBA 1050 and Heidelberg 7+1 UV presses across 10,000 sqm of factory space. Daily output over 200,000 gift boxes.
+Custom jewelry gift box with velvet insert for necklace, bracelet, ring, and earring packaging — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). Designed to showcase fine jewelry with elegance and protection. The plush velvet or satin interior with die-cut cavities holds each piece securely, while the rigid box structure protects against impact during shipping and retail handling. Produced on KBA 1050 and Heidelberg 7+1 UV presses across 10,000 sqm of factory space. Daily output over 220,000+ gift boxes (post-2025 smart factory expansion).
 
 ## Applications
 - Necklace and pendant gift boxes
