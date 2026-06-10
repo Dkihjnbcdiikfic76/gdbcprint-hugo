@@ -2,8 +2,8 @@
 title: "Recyclable Kraft Rigid Box with Soy Ink Printing Eco Luxury"
 date: 2026-06-10
 draft: false
-description: "100% recyclable kraft rigid box with soy-based ink printing. FSC certified, plastic-free construction, MOQ 500."
-keywords: "kraft rigid box, eco luxury packaging, recyclable gift box, soy ink packaging, sustainable rigid box, kraft paper box China, Bincai eco box, plastic-free packaging manufacturer"
+description: "100% recyclable kraft rigid luxury box with soy-based ink printing, water-based adhesive, and zero-plastic construction. FSC Chain-of-Custody certified, home-compostable per EN 13432. KBA 1050 4-color press, 10,000 sqm factory, 22 years, 1.7M daily output. MOQ 500."
+keywords: "kraft rigid box, eco luxury packaging, recyclable gift box, soy ink packaging, sustainable rigid box, FSC certified box, plastic-free packaging, biodegradable gift box, compostable box, zero waste packaging, kraft paper box China, Bincai eco box, environmentally friendly rigid box, water-based adhesive packaging, soy ink printed box, home compostable packaging"
 categories: ["kraft-eco-boxes"]
 params:
   moq: "500"

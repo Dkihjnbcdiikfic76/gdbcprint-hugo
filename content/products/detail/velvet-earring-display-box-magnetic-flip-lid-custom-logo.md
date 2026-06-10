@@ -2,8 +2,8 @@
 title: "Velvet Earring Display Box Magnetic Flip Lid Custom Logo"
 date: 2026-06-10
 draft: false
-description: "Custom velvet earring display box with magnetic flip lid. ISO 9001 & FSC certified, perfect for jewelry brands, MOQ 500."
-keywords: "velvet earring box, jewelry display box, magnetic flip lid box, custom jewelry packaging, earring gift box, velvet jewelry box China, Bincai jewelry box, earring display packaging"
+description: "Custom velvet earring display box with invisible N52 magnetic flip lid, precision die-cut velvet foam insert, and 12+ velvet color options. Gold/silver foil stamping, satin interior. KBA 1050 + Heidelberg 7+1 UV, 10,000 sqm ISO 9001 & FSC factory, 22 years, 80,000+ daily capacity. MOQ 500."
+keywords: "velvet earring box, jewelry display box, magnetic flip lid box, custom jewelry packaging, earring gift box, velvet jewelry box China, N52 magnet jewelry box, gold foil earring box, stud earring box, hoop earring packaging, Bincai jewelry box, velvet covered jewelry box, jewelry packaging manufacturer, custom logo earring box, satin lined jewelry box"
 categories: ["jewelry-boxes"]
 params:
   moq: "500"

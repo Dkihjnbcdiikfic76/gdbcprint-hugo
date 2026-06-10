@@ -2,8 +2,8 @@
 title: "Wooden Look Rigid Jewelry Box Gold Foil Interior LED Light"
 date: 2026-06-10
 draft: false
-description: "Wooden-texture rigid jewelry box with gold foil interior, LED ring light, and magnetic closure. ISO 9001 & FSC certified, MOQ 500."
-keywords: "wooden jewelry box, LED jewelry display box, gold foil interior box, luxury jewelry packaging, ring display box with light, wooden look rigid box China, Bincai jewelry box, illuminated jewelry packaging"
+description: "Premium woodgrain-texture rigid jewelry box with full gold foil interior, integrated LED ring light with magnetic reed switch, and N52 magnet closure. 20+ woodgrain patterns, warm/cool/RGB LED, battery or USB-C. KBA 1050 + Heidelberg 7+1 UV, 10,000 sqm ISO 9001 & FSC factory, 22 years. CE/RoHS/REACH components. MOQ 500."
+keywords: "wooden jewelry box, LED jewelry display box, gold foil interior box, luxury jewelry packaging, ring display box with light, woodgrain rigid box, illuminated jewelry box, engagement ring box, wedding ring presentation, battery operated jewelry box, magnetic reed switch jewelry box, Bincai jewelry box, premium jewelry packaging, wood-texture gift box, LED ring box, USB-C rechargeable jewelry box"
 categories: ["jewelry-boxes"]
 params:
   moq: "500"

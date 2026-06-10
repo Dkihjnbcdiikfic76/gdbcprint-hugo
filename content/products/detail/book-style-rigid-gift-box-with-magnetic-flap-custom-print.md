@@ -2,8 +2,8 @@
 title: "Book Style Rigid Gift Box with Magnetic Flap Custom Print"
 date: 2026-06-10
 draft: false
-description: "Book Style Rigid Gift Box with Magnetic Flap Custom Print by Bincai Color Printing. ISO 9001 FSC certified. 22 years factory."
-keywords: "paper box, custom packaging, gift box, ISO certified, FSC, Bincai"
+description: "Premium book-style rigid gift box with hidden magnetic flap closure, full-color CMYK offset printing, and custom die-cut foam/satin/velvet insert. KBA 1050 4-color + Heidelberg 7+1 UV presses in 10,000 sqm ISO 9001 & FSC certified factory. Gold/silver foil stamping, embossing, spot UV. 22 years, 220,000+ daily rigid box capacity. MOQ 500."
+keywords: "book style gift box, magnetic flap rigid box, rigid gift box manufacturer, luxury gift packaging, custom printed rigid box, gold foil rigid box, book-shaped packaging, corporate gift box, perfume gift box, jewelry rigid box, wine gift box, chocolate gift box, KBA offset gift box, Heidelberg UV gift box, Bincai rigid box, ISO 9001 FSC gift box, custom foam insert box"
 categories: ["rigid-gift-boxes"]
 params:
   moq: "500-1000"
