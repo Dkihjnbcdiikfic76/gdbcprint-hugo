@@ -1,5 +1,5 @@
 baseURL: "https://gdbcprint.com/"
-languageCode: "en-us"
+locale: "en-us"
 title: "Custom Paper Box Manufacturer | Rigid Boxes, Folding Cartons | Bincai"
 theme: "bincai"
 enableRobotsTXT: true
