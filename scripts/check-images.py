@@ -38,6 +38,14 @@ FOLDING_CARTON_OK = {
     "/images/folding-carton.jpg",
 }
 
+# Rigid-gift-boxes sub-images that are acceptable alternatives to the default
+RIGID_BOX_OK = {
+    "/images/cat-rigid-others.jpg",
+    "/images/cat-rigid-perfume.jpg",
+    "/images/cat-rigid-cosmetic.jpg",
+    "/images/cat-rigid-health.jpg",
+}
+
 
 def extract_frontmatter(path: str) -> tuple[str, str, list[str]]:
     """Return (title, first_category, first_image_path) from a Hugo .md file."""
@@ -68,6 +76,13 @@ def check_image(category: str, image: str) -> str:
 
     if category == "folding-cartons":
         if image in FOLDING_CARTON_OK:
+            return "ok"
+        elif image == expected:
+            return "ok"
+        else:
+            return "mismatch"
+    elif category == "rigid-gift-boxes":
+        if image in RIGID_BOX_OK:
             return "ok"
         elif image == expected:
             return "ok"
