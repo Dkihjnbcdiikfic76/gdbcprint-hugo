@@ -1,0 +1,62 @@
+---
+title: "Custom Folding Carton Die-Cut Handle Spot UV Retail Luxury Box"
+date: 2026-06-11
+draft: false
+description: "Custom folding carton with integrated die-cut handle and premium spot UV finish for luxury retail packaging. KBA 1050 + Heidelberg 7+1 UV presses, 10,000 sqm factory, ISO 9001 & FSC certified. 22 years manufacturing, daily output 1.5M boxes. MOQ 1000 units, free samples."
+keywords: "custom folding carton with handle, die-cut handle retail box, spot UV folding carton, luxury retail packaging box, premium paper box with handle, custom printed folding carton, Bincai folding carton, ISO 9001 FSC retail box, China folding carton manufacturer"
+categories: ["folding-cartons"]
+params:
+  moq: "1000"
+  price: "0.40-2.00"
+  material: "Art Paper 250–400gsm / Greyboard 800–1200gsm (optional) / Matte Lamination / Spot UV"
+  certification: "ISO 9001, FSC"
+---
+
+![Bincai Folding Cartons](/images/cat-fold-autolock.jpg)
+
+Premium custom folding carton with integrated die-cut carry handle and striking spot UV finish — the ultimate luxury retail packaging that doubles as a shopping bag. Built at **Guangdong Bincai Color Printing Co., Ltd.** (founded 2003), our 10,000 sqm Foshan factory operates KBA 1050 4-color and Heidelberg 7+1 UV presses, producing 1.7 million boxes daily. ISO 9001:2015 and FSC certified. The ergonomic die-cut handle eliminates the need for separate shopping bags, reducing plastic waste while elevating the customer unboxing experience.
+
+## Applications
+- Premium fashion and apparel retail packaging
+- Luxury cosmetics and skincare brand packaging
+- High-end confectionery and gourmet food gift boxes
+- Boutique shoe and accessory packaging
+- Premium home fragrance and candle gift sets
+- Department store and duty-free luxury packaging
+
+## Customization Options
+- **Box Style**: Tuck-top, auto-lock bottom, crash-lock, gable-top with handle, five-panel hanger box
+- **Paper**: 250–400gsm C1S/C2S art paper (gloss, matte, silk); 300–400gsm FSC kraft with spot UV; metallic and pearlescent paper
+- **Handle**: Integrated die-cut (rounded rectangle, oval, brand-logo-shaped); reinforced cord handle (cotton, poly, ribbon); plastic-free paper twist handle
+- **Printing**: CMYK offset with spot Pantone colors; metallic Pantone ink for premium shimmer
+- **Finishes**: Matte/gloss lamination, spot UV (gloss patterns: logo, stripes, all-over pattern), soft-touch velvet coating, textured embossing, foil stamping accents
+- **Window**: Die-cut open window or PET/PVC transparent window for product visibility
+- **Size**: 150×100×80mm to 400×300×150mm; custom dimensions available
+- **Additional**: Magnetic closure flap, ribbon tie closure, tear-strip for tamper evidence, euro hang tab for pegboard retail
+
+## Production Specifications
+- **Press**: KBA Rapida 105 4-color at 15,000 sheets/hour + Heidelberg Speedmaster CD 102 7+1 UV with inter-deck UV curing
+- **Substrate**: 250–400gsm C1S/C2S art paper; optional lamination to 800–1200gsm greyboard for rigid feel
+- **Spot UV**: Screen-printed UV varnish at 50–80 micron thickness; ±0.3mm registration to artwork
+- **Die-Cutting**: Bobst SP 102 with ±0.15mm precision; integrated handle die-cutting in single pass
+- **Assembly**: Automatic folding-gluing line with handle reinforcement patches
+- **Daily Capacity**: 280,000+ folding cartons
+- **Lead Time**: 8–12 working days new tooling; 5–7 days repeat orders
+
+## Quality Assurance
+- **Handle Strength**: 8kgF sustained load — zero tearing or deformation (≥2× rated load)
+- **Spot UV Registration**: ±0.3mm tolerance; 100% visual inspection under UV light
+- **Glue Bond**: Tear test along glue flap — ≥90% fiber tear (substrate failure, not bond failure)
+- **Folding Crease**: ±0.5mm crease-to-trim alignment; zero cracking on 180° fold
+- **Color Consistency**: ΔE ≤2.0 measured across production run (ISO 12647-2)
+- **ISO 9001:2015** quality gates at every production stage
+- **FSC Chain-of-Custody** certified sustainable paperboard
+- Free pre-production samples in 5–7 working days
+
+## Factory
+- 22 years of manufacturing since 2003 in Foshan, Guangdong, China
+- 10,000 sqm main factory + 8,000 sqm smart factory (commissioned 2025)
+- 80+ skilled employees across design, prepress, printing, and finishing
+- KBA 1050 4-color + Heidelberg 7+1 UV + Bobst die-cutting + automatic folding-gluing
+- Daily capacity: 1.7 million color boxes + 280,000+ folding cartons
+ 

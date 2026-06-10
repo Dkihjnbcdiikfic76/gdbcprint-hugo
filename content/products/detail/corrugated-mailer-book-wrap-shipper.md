@@ -72,3 +72,4 @@ Bincai's corrugated book wrap mailer is engineered for e-commerce fulfillment of
 ## Contact
 
 MOQ 1,000 units. Free sample within 5 days. Lead time 12-20 days. Phone: +86-18934352881. Email: qo82@icloud.com.
+ 

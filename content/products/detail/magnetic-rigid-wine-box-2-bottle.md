@@ -62,3 +62,4 @@ Guangdong Bincai Color Printing's magnetic rigid wine box is engineered for prem
 ## Contact
 
 MOQ 500 units. Sample available within 5 days. Lead time 15-25 days. Phone: +86-18934352881. Email: qo82@icloud.com.
+ 

@@ -64,3 +64,4 @@ Bincai's magnetic rigid gift box for premium electronics is designed for brands 
 ## Contact
 
 MOQ 500 units. Custom insert tooling available. Sample within 5 days. Lead time 15-25 days. Phone: +86-18934352881. Email: qo82@icloud.com.
+ 

@@ -72,3 +72,4 @@ Bincai's premium necklace and pendant jewelry box features a plush velvet interi
 ## Contact
 
 MOQ 500 units. Velvet/satin color samples available. Sample within 5 days. Lead time 15-25 days. Phone: +86-18934352881. Email: qo82@icloud.com.
+ 
