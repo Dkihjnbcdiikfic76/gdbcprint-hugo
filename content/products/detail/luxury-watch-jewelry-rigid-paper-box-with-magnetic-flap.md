@@ -14,7 +14,7 @@ params:
 
 ![Bincai Jewelry Boxes](/images/cat-rigid-others.jpg)
 
-Luxury watch and jewelry rigid paper box with magnetic flap closure — the definitive premium packaging for timepiece and fine jewelry brands. Manufactured at **Guangdong Bincai Color Printing Co., Ltd.**, a 22-year specialist in rigid luxury boxes (founded 2003). Our 10,000 sqm factory in Foshan operates KBA 1050 4-color and Heidelberg 7+1 UV presses with Bobst foil stamping, producing 200,000+ rigid boxes daily. ISO 9001:2015 and FSC certified. Every box features precision N52 magnetic flap closure, plush velvet or suede interior, and custom watch/jewelry cushion inserts.
+Luxury watch and jewelry rigid paper box with magnetic flap closure — the definitive premium packaging for timepiece and fine jewelry brands. Manufactured at **Guangdong Bincai Color Printing Co., Ltd.**, a 22-year specialist in rigid luxury boxes (founded 2003). Our 10,000 sqm factory in Foshan operates KBA 1050 4-color and Heidelberg 7+1 UV presses with Bobst foil stamping, producing 220,000+ rigid boxes daily. ISO 9001:2015 and FSC certified. Every box features precision N52 magnetic flap closure, plush velvet or suede interior, and custom watch/jewelry cushion inserts.
 
 ## Applications
 - Luxury watch packaging for retail and e-commerce
@@ -44,7 +44,7 @@ Luxury watch and jewelry rigid paper box with magnetic flap closure — the defi
 - **Magnet Integration**: Machine-pressed N52 neodymium magnets; polarity sensor verification on-line; pull-force 0.8–2.5 kgF
 - **Velvet Flocking**: Electrostatic flocking — 0.8–1.5mm polyester fiber pile; adhesive cured at 55–65°C
 - **Assembly**: Fully automatic rigid box line — wrapping, flocking, magnet insertion, hinge assembly, cushion placement
-- **Daily Capacity**: 200,000+ rigid boxes total; 30,000–50,000 dedicated watch/jewelry box capacity
+- **Daily Capacity**: 220,000+ rigid boxes total; 30,000–50,000 dedicated watch/jewelry box capacity
 - **Lead Time**: 10–15 working days new tooling; 7–10 days repeat orders
 
 ## Quality Assurance
@@ -64,7 +64,7 @@ Luxury watch and jewelry rigid paper box with magnetic flap closure — the defi
 - 80+ skilled craftspeople including dedicated luxury box assembly specialists
 - KBA 1050 4-color + Heidelberg 7+1 UV + Bobst foil stamping + automatic rigid box line
 - In-house flocking, magnet insertion, and cushion fabrication — zero subcontracting
-- Daily capacity: 1.5 million boxes total; 200,000+ rigid boxes with 50,000+ watch/jewelry capacity
+- Daily capacity: 1.7 million boxes total; 220,000+ rigid boxes with 50,000+ watch/jewelry capacity
 - Export to 40+ countries with luxury packaging as a flagship product category
 
 ## Contact

@@ -12,9 +12,9 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Corrugated Mailers](/images/cat-fold-mailer.jpg)
+![Bincai Corrugated Mailers](/images/corrugated-mailer.jpg)
 
-Double-wall corrugated mailer box with integrated self-sealing tear strip — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). 10,000 sqm factory with KBA 1050 4-color and Heidelberg 7+1 UV presses. Daily output 1.5 million boxes.
+Double-wall corrugated mailer box with integrated self-sealing tear strip — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). 10,000 sqm factory with KBA 1050 4-color and Heidelberg 7+1 UV presses. Daily output 1.7 million boxes.
 
 ## Applications
 - E-commerce product shipping and fulfillment
@@ -56,6 +56,6 @@ Double-wall corrugated mailer box with integrated self-sealing tear strip — ma
 - 80+ skilled employees across design, prepress, printing, and finishing
 - KBA 1050 4-color + Heidelberg 7+1 UV presses
 - Fully automatic die-cutting, gluing, and box assembly lines
-- Daily capacity: 1.5 million color boxes + 200,000+ gift boxes
+- Daily capacity: 1.7 million color boxes + 220,000+ gift boxes
 
 ## Contact

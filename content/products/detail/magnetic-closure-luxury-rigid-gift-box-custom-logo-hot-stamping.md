@@ -14,7 +14,7 @@ params:
 
 ![Bincai Rigid Gift Boxes](/images/cat-rigid-others.jpg)
 
-Luxury magnetic closure rigid gift box with custom logo hot foil stamping — crafted at **Guangdong Bincai Color Printing Co., Ltd.**, a full-chain paper box manufacturer with 22 years of rigid box expertise (founded 2003). Our 10,000 sqm factory in Foshan operates KBA 1050 4-color and Heidelberg 7+1 UV presses, producing 1.5 million boxes daily. ISO 9001:2015 and FSC certified. Every magnetic closure box features precision-aligned N52-grade neodymium magnets for a satisfying snap-shut action.
+Luxury magnetic closure rigid gift box with custom logo hot foil stamping — crafted at **Guangdong Bincai Color Printing Co., Ltd.**, a full-chain paper box manufacturer with 22 years of rigid box expertise (founded 2003). Our 10,000 sqm factory in Foshan operates KBA 1050 4-color and Heidelberg 7+1 UV presses, producing 1.7 million boxes daily. ISO 9001:2015 and FSC certified. Every magnetic closure box features precision-aligned N52-grade neodymium magnets for a satisfying snap-shut action.
 
 ## Applications
 - Luxury corporate gift packaging for premium brands
@@ -40,7 +40,7 @@ Luxury magnetic closure rigid gift box with custom logo hot foil stamping — cr
 - **Board**: Rigid greyboard 1200–1600gsm with double-wrapped construction
 - **Foil Stamping**: Bobst SP 102 BMA with ±0.15mm registration, multi-zone temperature control
 - **Assembly**: Fully automatic rigid box line — corner taping, wrapping lamination, magnet insertion
-- **Daily Capacity**: 200,000+ rigid magnetic closure boxes
+- **Daily Capacity**: 220,000+ rigid magnetic closure boxes
 - **Lead Time**: 10–15 working days new tooling; 7–10 days repeat orders
 
 ## Quality Assurance
@@ -57,7 +57,7 @@ Luxury magnetic closure rigid gift box with custom logo hot foil stamping — cr
 - 10,000 sqm main factory + 8,000 sqm smart factory (commissioned 2025)
 - 80+ skilled employees across design, prepress, printing, and finishing
 - KBA 1050 4-color + Heidelberg 7+1 UV + Bobst foil stamping + automatic rigid box line
-- Daily capacity: 1.5 million color boxes + 200,000+ rigid gift boxes
+- Daily capacity: 1.7 million color boxes + 220,000+ rigid gift boxes
 - Export to 40+ countries across six continents
 
 ## Contact

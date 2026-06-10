@@ -14,7 +14,7 @@ params:
 
 ![Bincai Kraft Eco Boxes](/images/kraft-eco-box.jpg)
 
-Biodegradable kraft paper box engineered for eco-conscious cosmetics brands — by Guangdong Bincai Color Printing Co., Ltd. (founded 2003), a full-chain packaging enterprise with 22 years of manufacturing excellence. 10,000 sqm factory equipped with KBA 1050 4-color and Heidelberg 7+1 UV presses, daily output 1.5 million boxes. FSC Chain-of-Custody certified with soy-based inks and 100% recyclable materials.
+Biodegradable kraft paper box engineered for eco-conscious cosmetics brands — by Guangdong Bincai Color Printing Co., Ltd. (founded 2003), a full-chain packaging enterprise with 22 years of manufacturing excellence. 10,000 sqm factory equipped with KBA 1050 4-color and Heidelberg 7+1 UV presses, daily output 1.7 million boxes. FSC Chain-of-Custody certified with soy-based inks and 100% recyclable materials.
 
 ## Applications
 - Organic skincare and natural cosmetics product packaging
@@ -59,7 +59,7 @@ Biodegradable kraft paper box engineered for eco-conscious cosmetics brands — 
 - 80+ skilled employees across design, prepress, printing, and finishing
 - KBA 1050 4-color + Heidelberg 7+1 UV + Bobst die-cutting + automatic folder-gluer
 - FSC-certified material sourcing with dedicated eco-grade inventory
-- Daily capacity: 1.5 million boxes (50,000+ kraft eco boxes dedicated)
+- Daily capacity: 1.7 million boxes (50,000+ kraft eco boxes dedicated)
 - Export to 40+ countries with sustainable packaging as a strategic product category
 
 ## Contact

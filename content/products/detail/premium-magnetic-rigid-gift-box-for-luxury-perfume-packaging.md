@@ -14,7 +14,7 @@ params:
 
 ![Bincai Rigid Gift Boxes](/images/cat-rigid-others.jpg)
 
-Premium magnetic rigid gift box for luxury perfume packaging — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). 10,000 sqm factory with KBA 1050 4-color and Heidelberg 7+1 UV presses. Daily output 1.5 million boxes.
+Premium magnetic rigid gift box for luxury perfume packaging — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). 10,000 sqm factory with KBA 1050 4-color and Heidelberg 7+1 UV presses. Daily output 1.7 million boxes.
 
 ## Applications
 - Luxury perfume and fragrance packaging
@@ -55,7 +55,7 @@ Premium magnetic rigid gift box for luxury perfume packaging — manufactured by
 - 80+ skilled employees across design, prepress, printing, and finishing
 - KBA 1050 4-color + Heidelberg 7+1 UV presses
 - Fully automatic die-cutting, gluing, and rigid box assembly lines
-- Daily capacity: 1.5 million color boxes + 200,000+ gift boxes
+- Daily capacity: 1.7 million color boxes + 220,000+ gift boxes
 
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Factory visits welcome.

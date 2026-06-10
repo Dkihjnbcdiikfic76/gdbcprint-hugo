@@ -14,7 +14,7 @@ params:
 
 ![Bincai Rigid Gift Boxes](/images/cat-rigid-others.jpg)
 
-Luxury rigid paper box with silver hot foil stamping designed for premium corporate gifting — manufactured by Guangdong Bincai Color Printing Co., Ltd., a 22-year full-chain packaging enterprise (founded 2003) in Foshan, China. 10,000 sqm factory with KBA 1050 4-color and Heidelberg 7+1 UV offset presses plus Bobst hot foil stamping. Daily output 1.5 million boxes. ISO 9001 & FSC certified.
+Luxury rigid paper box with silver hot foil stamping designed for premium corporate gifting — manufactured by Guangdong Bincai Color Printing Co., Ltd., a 22-year full-chain packaging enterprise (founded 2003) in Foshan, China. 10,000 sqm factory with KBA 1050 4-color and Heidelberg 7+1 UV offset presses plus Bobst hot foil stamping. Daily output 1.7 million boxes. ISO 9001 & FSC certified.
 
 ## Applications
 - Executive corporate gift sets and year-end appreciation gifts
@@ -44,7 +44,7 @@ Luxury rigid paper box with silver hot foil stamping designed for premium corpor
 - **Greyboard**: 1000gsm–2000gsm FSC-certified recycled greyboard; double-ply lamination for structural integrity
 - **Foil Film**: High-grade polyester-based silver foil — 12μm thickness for crisp edge definition
 - **Lead Time**: 10–15 working days for new tooling; 7–10 days for repeat orders
-- **Daily Capacity**: 200,000+ rigid gift boxes per day
+- **Daily Capacity**: 220,000+ rigid gift boxes per day
 
 ## Quality Details
 - **ISO 9001:2015** certified — documented quality gates from material receiving through final packaging
@@ -64,7 +64,7 @@ Luxury rigid paper box with silver hot foil stamping designed for premium corpor
 - KBA 1050 4-color + Heidelberg 7+1 UV + Bobst foil stamping + fully automatic rigid box assembly line
 - In-house foil stamping, embossing, die-cutting, and edge gilding — no subcontracting
 - Export to 40+ countries with rigid gift boxes as a flagship product category
-- Daily capacity: 1.5 million boxes total (200,000+ dedicated rigid gift box capacity)
+- Daily capacity: 1.7 million boxes total (200,000+ dedicated rigid gift box capacity)
 
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Factory visits welcome. Send us your corporate gift specifications for a custom silver-foil sample.

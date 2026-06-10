@@ -56,7 +56,7 @@ Black magnetic rigid box for electronics premium packaging — manufactured by G
 - 80+ skilled employees across design, prepress, printing, and finishing
 - KBA 1050 4-color + Heidelberg 7+1 UV presses
 - Fully automatic die-cutting, gluing, and rigid box assembly lines
-- Daily capacity: 1.5 million color boxes + 200,000+ gift boxes
+- Daily capacity: 1.7 million color boxes + 220,000+ gift boxes
 - High-Tech Enterprise certified; ISO 9001:2015 & FSC certified
 
 ## Contact

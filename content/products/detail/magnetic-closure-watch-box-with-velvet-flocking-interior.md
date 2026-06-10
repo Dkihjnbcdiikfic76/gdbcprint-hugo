@@ -12,6 +12,6 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Magnetic Closure Boxes](/images/cat-rigid-others.jpg)
+![Bincai Magnetic Closure Boxes](/images/magnetic-closure-box.jpg)
 
 Premium magnetic closure watch box with velvet flocking interior by Guangdong Bincai Color Printing, ISO 9001 FSC certified factory with 20+ years in Foshan, China. Custom sizes, CMYK printing, embossing, foil stamping, matte/gloss lamination. MOQ 500 pcs. Free samples.

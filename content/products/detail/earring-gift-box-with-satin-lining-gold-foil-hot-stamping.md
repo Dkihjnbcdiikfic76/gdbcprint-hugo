@@ -12,13 +12,13 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Jewelry Boxes](/images/cat-rigid-jewelry.jpg)
+![Bincai Jewelry Boxes](/images/jewelry-box.jpg)
 
 ## Description
 
 Our earring gift box with satin lining and gold foil hot stamping elevates jewelry presentation for retail, e-commerce, and gifting occasions. Each box is produced in our 10,000 sqm Foshan manufacturing facility, where 22 years of packaging expertise meet state-of-the-art offset and finishing technology. The rigid construction provides crush resistance, while the soft satin interior cradles delicate earrings and prevents surface scratches.
 
-Printing runs on KBA 1050 4-color offset presses for precise color reproduction of brand artwork, with specialty coatings applied on our Heidelberg 7+1 UV line — delivering soft-touch, high-gloss spot UV, or matte finishes in a single pass. As an ISO 9001:2015 and FSC certified factory producing 1.5 million boxes daily, we handle both boutique small-batch orders and large-scale jewelry brand runs with equal attention to detail.
+Printing runs on KBA 1050 4-color offset presses for precise color reproduction of brand artwork, with specialty coatings applied on our Heidelberg 7+1 UV line — delivering soft-touch, high-gloss spot UV, or matte finishes in a single pass. As an ISO 9001:2015 and FSC certified factory producing 1.7 million boxes daily, we handle both boutique small-batch orders and large-scale jewelry brand runs with equal attention to detail.
 
 Custom finishing options include gold, silver, rose gold, or holographic foil hot stamping; embossing and debossing for raised logos; magnetic closures; ribbon pulls; and custom inserts (satin, velvet, flocked plastic, EVA foam, or cardboard). We offer free pre-production samples with 3D digital proofs so you can evaluate materials, colors, and finishes before committing to bulk production.
 
@@ -43,7 +43,7 @@ Guangdong Bincai Color Printing Co., Ltd. operates a dedicated jewelry packaging
 |---|---|
 | Factory Size | 10,000 sqm |
 | Years in Business | 22 years |
-| Daily Output | 1.5 million boxes |
+| Daily Output | 1.7 million boxes |
 | Primary Presses | KBA 1050 4-color, Heidelberg 7+1 UV |
 | Certifications | ISO 9001:2015, FSC Chain of Custody |
 | Location | Foshan, Guangdong, China |

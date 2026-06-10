@@ -14,7 +14,7 @@ params:
 
 ![Bincai Folding Cartons](/images/cat-fold-cosmetic.jpg)
 
-Auto-lock bottom folding carton box with full-color CMYK offset printing for food, bakery, and confectionery packaging — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). 10,000 sqm factory with KBA 1050 4-color and Heidelberg 7+1 UV presses. Daily output 1.5 million boxes.
+Auto-lock bottom folding carton box with full-color CMYK offset printing for food, bakery, and confectionery packaging — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). 10,000 sqm factory with KBA 1050 4-color and Heidelberg 7+1 UV presses. Daily output 1.7 million boxes.
 
 ## Applications
 - Bakery and pastry takeout boxes
@@ -57,6 +57,6 @@ Auto-lock bottom folding carton box with full-color CMYK offset printing for foo
 - 80+ skilled employees across design, prepress, printing, and finishing
 - KBA 1050 4-color + Heidelberg 7+1 UV presses
 - Fully automatic die-cutting, gluing, and box assembly lines
-- Daily capacity: 1.5 million color boxes + 200,000+ gift boxes
+- Daily capacity: 1.7 million color boxes + 220,000+ gift boxes
 
 ## Contact

@@ -22,7 +22,7 @@ Custom printed folding carton boxes designed specifically for electronics access
 
 - **Press**: Heidelberg 7+1 UV and KBA 1050 4-color offset presses
 - **Die-cutting**: Bobst flatbed die-cutters with ±0.5mm precision
-- **Daily output**: Up to 1.5 million color boxes per day
+- **Daily output**: Up to 1.7 million color boxes per day
 - **Board stock**: SBS C1S (15-24pt), CCNB, coated art paper (250-450gsm)
 - **Inks**: Soy-based, low-VOC, food-safe upon request
 - **Certifications**: ISO 9001:2015 Quality Management, FSC Chain-of-Custody

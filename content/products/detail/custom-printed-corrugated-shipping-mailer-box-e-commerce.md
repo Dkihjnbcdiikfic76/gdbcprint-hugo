@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Corrugated Mailers](/images/cat-fold-mailer.jpg)
+![Bincai Corrugated Mailers](/images/corrugated-mailer.jpg)
 
 ## Product Overview
 
@@ -24,7 +24,7 @@ Custom printed corrugated shipping mailer boxes engineered for e-commerce fulfil
 - **Board grades**: Kraft liner (125-200gsm), white top kraft, test liner, recycled
 - **Printing**: Flexo 1-3 color or offset litho-laminated for photo-quality graphics
 - **Die-cutting**: Bobst rotary and flatbed die-cutters, ±1mm precision
-- **Daily output**: 1.5 million boxes across all production lines
+- **Daily output**: 1.7 million boxes across all production lines
 - **Adhesives**: Hot-melt and cold water-based, compliant with EU REACH and US FDA
 
 ## Customization Options

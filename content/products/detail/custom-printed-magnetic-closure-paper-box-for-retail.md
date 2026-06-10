@@ -12,9 +12,9 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Magnetic Closure Boxes](/images/cat-rigid-others.jpg)
+![Bincai Magnetic Closure Boxes](/images/magnetic-closure-box.jpg)
 
-Custom printed magnetic closure paper box for retail display — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). The hidden magnetic closure provides a premium opening experience while keeping the box securely closed during retail handling. Rigid board construction with luxury surface finishes. KBA 1050 4-color and Heidelberg 7+1 UV presses deliver precision printing on 10,000 sqm factory floor. Daily output 1.5 million boxes.
+Custom printed magnetic closure paper box for retail display — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). The hidden magnetic closure provides a premium opening experience while keeping the box securely closed during retail handling. Rigid board construction with luxury surface finishes. KBA 1050 4-color and Heidelberg 7+1 UV presses deliver precision printing on 10,000 sqm factory floor. Daily output 1.7 million boxes.
 
 ## Applications
 - Retail shelf display packaging for cosmetics and beauty
@@ -59,7 +59,7 @@ Custom printed magnetic closure paper box for retail display — manufactured by
 - 80+ skilled employees across design, prepress, printing, and finishing
 - KBA 1050 4-color + Heidelberg 7+1 UV presses
 - Fully automatic die-cutting, gluing, and rigid box assembly lines
-- Daily capacity: 1.5 million color boxes + 200,000+ gift boxes
+- Daily capacity: 1.7 million color boxes + 220,000+ gift boxes
 - High-Tech Enterprise certified; ISO 9001:2015 & FSC certified
 
 ## Contact

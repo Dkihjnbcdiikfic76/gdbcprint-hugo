@@ -14,7 +14,7 @@ params:
 
 ![Bincai Folding Cartons](/images/cat-fold-cosmetic.jpg)
 
-Auto-bottom folding carton for food, soap, and candle packaging — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). The auto-lock bottom design folds flat for storage and pops open instantly for filling, making it ideal for high-speed production lines. KBA 1050 4-color and Heidelberg 7+1 UV presses deliver precision printing on 10,000 sqm factory floor. Daily output 1.5 million boxes.
+Auto-bottom folding carton for food, soap, and candle packaging — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). The auto-lock bottom design folds flat for storage and pops open instantly for filling, making it ideal for high-speed production lines. KBA 1050 4-color and Heidelberg 7+1 UV presses deliver precision printing on 10,000 sqm factory floor. Daily output 1.7 million boxes.
 
 ## Applications
 - Gourmet food and confectionery packaging
@@ -55,7 +55,7 @@ Auto-bottom folding carton for food, soap, and candle packaging — manufactured
 - 80+ skilled employees across design, prepress, printing, and finishing
 - KBA 1050 4-color + Heidelberg 7+1 UV presses
 - Fully automatic die-cutting, gluing, and folding carton assembly lines
-- Daily capacity: 1.5 million color boxes + 200,000+ gift boxes
+- Daily capacity: 1.7 million color boxes + 220,000+ gift boxes
 - High-Tech Enterprise certified; ISO 9001:2015 & FSC certified
 
 ## Contact

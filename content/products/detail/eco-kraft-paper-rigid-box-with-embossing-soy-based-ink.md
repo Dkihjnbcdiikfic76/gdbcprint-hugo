@@ -14,7 +14,7 @@ params:
 
 ![Bincai Kraft Eco Boxes](/images/kraft-eco-box.jpg)
 
-Eco kraft paper rigid box with embossing and soy-based ink — manufactured by Guangdong Bincai Color Printing Co., Ltd., an ISO 9001:2015 and FSC-certified packaging enterprise with 22 years of experience (founded 2003). Designed for brands committed to sustainable packaging, this rigid box combines the natural aesthetic of kraft paper with precision embossing and environmentally responsible soy-based inks. Produced on KBA 1050 and Heidelberg 7+1 UV presses across 18,000 sqm of factory space. Daily output 1.5 million boxes.
+Eco kraft paper rigid box with embossing and soy-based ink — manufactured by Guangdong Bincai Color Printing Co., Ltd., an ISO 9001:2015 and FSC-certified packaging enterprise with 22 years of experience (founded 2003). Designed for brands committed to sustainable packaging, this rigid box combines the natural aesthetic of kraft paper with precision embossing and environmentally responsible soy-based inks. Produced on KBA 1050 and Heidelberg 7+1 UV presses across 18,000 sqm of factory space. Daily output 1.7 million boxes.
 
 ## Applications
 - Sustainable luxury gift packaging
@@ -56,7 +56,7 @@ Eco kraft paper rigid box with embossing and soy-based ink — manufactured by G
 - 80+ skilled employees across design, prepress, printing, and finishing
 - KBA 1050 4-color + Heidelberg 7+1 UV presses
 - Fully automatic die-cutting, gluing, and rigid box assembly lines
-- Daily capacity: 1.5 million color boxes + 200,000+ gift boxes
+- Daily capacity: 1.7 million color boxes + 220,000+ gift boxes
 - High-Tech Enterprise certified; ISO 9001:2015 & FSC certified
 
 ## Contact

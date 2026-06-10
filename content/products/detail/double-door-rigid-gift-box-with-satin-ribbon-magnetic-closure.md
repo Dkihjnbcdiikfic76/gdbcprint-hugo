@@ -16,7 +16,7 @@ params:
 
 ## Description
 
-The double-door rigid gift box with satin ribbon magnetic closure delivers an unforgettable unboxing experience — two side panels open like French doors to reveal the product nestled inside, secured by a luxurious satin ribbon tie with hidden neodymium magnetic closure. Manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003) on our 10,000 sqm factory floor in Foshan, running KBA 1050 4-color offset presses and Heidelberg 7+1 UV press with inline coating. ISO 9001:2015 & FSC certified. Daily output 1.5 million boxes.
+The double-door rigid gift box with satin ribbon magnetic closure delivers an unforgettable unboxing experience — two side panels open like French doors to reveal the product nestled inside, secured by a luxurious satin ribbon tie with hidden neodymium magnetic closure. Manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003) on our 10,000 sqm factory floor in Foshan, running KBA 1050 4-color offset presses and Heidelberg 7+1 UV press with inline coating. ISO 9001:2015 & FSC certified. Daily output 1.7 million boxes.
 
 The double-door design creates a dramatic reveal that elevates brand perception — ideal for luxury jewelry sets, premium corporate gifts, high-end cosmetics, collector's edition products, and VIP client presentations. The rigid 2mm greyboard construction provides structural integrity and a substantial hand-feel, while the satin ribbon closure adds tactile elegance. Hidden magnets in the door edges ensure a clean, seamless exterior profile when closed.
 
@@ -70,7 +70,7 @@ The double-door design creates a dramatic reveal that elevates brand perception 
 |---|---|
 | Factory Size | 10,000 sqm + 8,000 sqm smart factory (2025 expansion) |
 | Years in Business | 22 years (founded 2003) |
-| Daily Output | 1.5 million boxes |
+| Daily Output | 1.7 million boxes |
 | Primary Presses | KBA 1050 4-color, Heidelberg 7+1 UV |
 | Certifications | ISO 9001:2015, FSC Chain of Custody |
 | Location | Foshan, Guangdong, China |

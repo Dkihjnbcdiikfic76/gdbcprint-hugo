@@ -24,7 +24,7 @@ A 100% plastic-free, fully recyclable and compostable gift box made from FSC-cer
 - **Printing**: Soy-based offset ink on KBA 1050 4-color press — low-VOC, food-safe
 - **Handle**: 6mm natural cotton rope, knotted internally, tensile strength 8kg
 - **Adhesive**: Water-based PVA glue — solvent-free, non-toxic
-- **Daily output**: 1.5 million boxes total factory capacity
+- **Daily output**: 1.7 million boxes total factory capacity
 - **Lamination**: None (compostable) or water-based matte coating (industrial compostable)
 - **Window option**: PLA (polylactic acid) biodegradable film instead of PET
 

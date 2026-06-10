@@ -16,7 +16,7 @@ params:
 
 ## Description
 
-The hexagonal rigid paper box with custom foam insert stands apart from standard rectangular packaging — the distinctive six-sided geometry creates instant shelf differentiation and a premium unboxing experience that customers remember. Manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003), on KBA 1050 4-color offset presses and Heidelberg 7+1 UV press in our 10,000 sqm ISO 9001:2015 & FSC certified factory. Daily output 1.5 million boxes.
+The hexagonal rigid paper box with custom foam insert stands apart from standard rectangular packaging — the distinctive six-sided geometry creates instant shelf differentiation and a premium unboxing experience that customers remember. Manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003), on KBA 1050 4-color offset presses and Heidelberg 7+1 UV press in our 10,000 sqm ISO 9001:2015 & FSC certified factory. Daily output 1.7 million boxes.
 
 The hexagonal shape requires precision die-cutting and case-making expertise — our specialized hexagonal wrapping and assembly lines ensure consistent geometry across production runs, with tight tolerances on all six panels. The custom EVA or PU foam insert is precision die-cut to cradle your product securely, preventing movement during transit while showcasing it elegantly upon opening. Available with magnetic closure, ribbon pull, or friction-fit lid options.
 
@@ -70,7 +70,7 @@ The hexagonal shape requires precision die-cutting and case-making expertise —
 |---|---|
 | Factory Size | 10,000 sqm + 8,000 sqm smart factory (2025) |
 | Years in Business | 22 years (founded 2003) |
-| Daily Output | 1.5 million boxes |
+| Daily Output | 1.7 million boxes |
 | Primary Presses | KBA 1050 4-color, Heidelberg 7+1 UV |
 | Certifications | ISO 9001:2015, FSC Chain of Custody |
 | Location | Foshan, Guangdong, China |

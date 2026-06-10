@@ -60,7 +60,7 @@ Fully recyclable kraft rigid box with soy-based ink printing — combining luxur
 - Dedicated eco-packaging line with soy ink press setup and water-based adhesive systems
 - KBA 1050 4-color press optimized for kraft paper and soy ink
 - Export to 40+ countries worldwide
-- Daily output: 1.5 million boxes total
+- Daily output: 1.7 million boxes total
 
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Ask about our eco-packaging audit program.

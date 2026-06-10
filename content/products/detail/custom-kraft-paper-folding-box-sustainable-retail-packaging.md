@@ -14,7 +14,7 @@ params:
 
 |![Bincai Kraft Eco Boxes](/images/kraft-eco-box.jpg)
 
-Premium custom kraft paper folding box for sustainable retail packaging — manufactured by Guangdong Bincai Color Printing Co., Ltd., an ISO 9001 & FSC certified factory with 22 years of experience. Our 10,000 sqm Foshan facility produces 1.5 million boxes daily on KBA and Heidelberg presses, delivering eco-friendly packaging without compromising on print quality.
+Premium custom kraft paper folding box for sustainable retail packaging — manufactured by Guangdong Bincai Color Printing Co., Ltd., an ISO 9001 & FSC certified factory with 22 years of experience. Our 10,000 sqm Foshan facility produces 1.7 million boxes daily on KBA and Heidelberg presses, delivering eco-friendly packaging without compromising on print quality.
 
 ## Applications
 Kraft paper folding boxes communicate natural, organic, and sustainable brand values — perfect for today's eco-conscious consumers. Ideal for:
@@ -37,7 +37,7 @@ Kraft paper folding boxes communicate natural, organic, and sustainable brand va
 - **Die-Cutting**: Automatic flatbed die-cutting with stripping; precision ±0.5mm
 - **Folding & Gluing**: Automatic folder-gluer lines with window patching capability
 - **Eco Process**: Water-based inks and adhesives; waste paper recycled on-site through closed-loop system
-- **Daily Capacity**: 1.5 million folding cartons per day
+- **Daily Capacity**: 1.7 million folding cartons per day
 - **Lead Time**: 10–15 working days for standard orders; express 7-day production available
 
 ## Quality Assurance

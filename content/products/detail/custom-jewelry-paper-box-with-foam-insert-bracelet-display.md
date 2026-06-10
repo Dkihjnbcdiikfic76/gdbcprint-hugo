@@ -12,11 +12,11 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Jewelry Boxes](/images/cat-rigid-jewelry.jpg)
+![Bincai Jewelry Boxes](/images/jewelry-box.jpg)
 
 ## Product Overview
 
-Showcase bracelets, bangles, and fine jewelry with this premium custom jewelry box featuring a precision-cut foam insert. Manufactured by Guangdong Bincai Color Printing — an ISO 9001 & FSC certified factory with 22 years of packaging expertise and daily output exceeding 1.5 million boxes. Each box is hand-finished by our 80+ skilled craftspeople in Foshan, Guangdong.
+Showcase bracelets, bangles, and fine jewelry with this premium custom jewelry box featuring a precision-cut foam insert. Manufactured by Guangdong Bincai Color Printing — an ISO 9001 & FSC certified factory with 22 years of packaging expertise and daily output exceeding 1.7 million boxes. Each box is hand-finished by our 80+ skilled craftspeople in Foshan, Guangdong.
 
 ## Manufacturing Specifications
 

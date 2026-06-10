@@ -24,7 +24,7 @@ A sophisticated rectangular rigid gift box with an integrated magnetic flap clos
 - **Spot UV**: Heidelberg 7+1 UV press — precision registration ±0.1mm on logo, patterns, or full-surface flood + spot
 - **Magnets**: Neodymium disc magnets (8mm × 1mm), hidden between board layers, 1.2kg hold force per pair
 - **Lamination**: Soft-touch matte base with high-gloss spot UV contrast
-- **Daily rigid box output**: 200,000+ gift boxes across dedicated production line
+- **Daily rigid box output**: 220,000+ gift boxes across dedicated production line
 - **Interior**: Custom die-cut EVA foam, velvet flocking, or satin-lined cavity
 
 ## Customization Options

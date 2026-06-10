@@ -12,6 +12,6 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Magnetic Closure Boxes](/images/cat-rigid-others.jpg)
+![Bincai Magnetic Closure Boxes](/images/magnetic-closure-box.jpg)
 
-Luxury magnetic closure watch box with premium suede interior by Guangdong Bincai Color Printing. Crafted in our ISO 9001 & FSC certified 10,000 sqm facility in Foshan, Guangdong, with 22 years of paper packaging expertise. Features rigid greyboard construction, soft-touch matte lamination, microsuede-lined watch cushion, and hidden magnetic flap closure. Available with gold/silver hot stamping, embossed logo, and custom die-cut insert for single or multi-watch configurations. Daily output capacity of 1.5 million boxes ensures reliable bulk delivery.
+Luxury magnetic closure watch box with premium suede interior by Guangdong Bincai Color Printing. Crafted in our ISO 9001 & FSC certified 10,000 sqm facility in Foshan, Guangdong, with 22 years of paper packaging expertise. Features rigid greyboard construction, soft-touch matte lamination, microsuede-lined watch cushion, and hidden magnetic flap closure. Available with gold/silver hot stamping, embossed logo, and custom die-cut insert for single or multi-watch configurations. Daily output capacity of 1.7 million boxes ensures reliable bulk delivery.

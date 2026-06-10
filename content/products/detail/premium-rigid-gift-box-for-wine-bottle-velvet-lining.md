@@ -14,7 +14,7 @@ params:
 
 ![Bincai Rigid Gift Boxes](/images/cat-rigid-others.jpg)
 
-Luxury rigid gift box for wine bottle packaging with plush velvet lining interior — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). This premium presentation box elevates single and dual-bottle wine packaging for wineries, distilleries, corporate gifting, and duty-free retail. The rigid greyboard construction provides superior protection during transport while delivering a tactile unboxing experience. KBA 1050 4-color offset press and Heidelberg 7+1 UV press deliver precision printing across our 10,000 sqm ISO 9001 & FSC certified factory. Daily output capacity of 1.5 million boxes ensures reliable supply for large-volume orders.
+Luxury rigid gift box for wine bottle packaging with plush velvet lining interior — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). This premium presentation box elevates single and dual-bottle wine packaging for wineries, distilleries, corporate gifting, and duty-free retail. The rigid greyboard construction provides superior protection during transport while delivering a tactile unboxing experience. KBA 1050 4-color offset press and Heidelberg 7+1 UV press deliver precision printing across our 10,000 sqm ISO 9001 & FSC certified factory. Daily output capacity of 1.7 million boxes ensures reliable supply for large-volume orders.
 
 ## Applications
 - Single and dual-bottle wine gift packaging for vineyards and wineries

@@ -24,7 +24,7 @@ A premium custom rigid gift box featuring a satin ribbon closure and elegant gol
 - **Ribbon**: High-density satin ribbon, color-matched to brand palette
 - **Foil stamping**: Heidelberg cylinder press with heated brass die, gold/silver/copper/rose gold
 - **Embossing**: Multi-level blind embossing up to 1.5mm depth on 2.5mm board
-- **Daily rigid box output**: 200,000+ gift boxes
+- **Daily rigid box output**: 220,000+ gift boxes
 - **Lamination**: Soft-touch matte, high-gloss, or anti-scratch
 - **Interior lining**: Velvet flocking, satin fabric, or custom-printed paper
 

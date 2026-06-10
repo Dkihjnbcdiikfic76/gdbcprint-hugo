@@ -14,7 +14,7 @@ params:
 
 |![Bincai Rigid Gift Boxes](/images/cat-rigid-others.jpg)
 
-Premium book style rigid gift box with magnetic flap custom print — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). 10,000 sqm factory with KBA and Heidelberg presses. Daily output 1.5 million boxes.
+Premium book style rigid gift box with magnetic flap custom print — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). 10,000 sqm factory with KBA and Heidelberg presses. Daily output 1.7 million boxes.
 
 ## Applications
 Book-style rigid boxes open like a hardcover book, creating an elegant unboxing experience that enhances brand perception. Ideal for:
@@ -38,7 +38,7 @@ Book-style rigid boxes open like a hardcover book, creating an elegant unboxing 
 - **Die-Cutting**: Automatic Bobst-style die-cutting with ±0.5mm precision
 - **Gluing**: Automatic rigid box forming lines with inline corner taping
 - **Assembly**: Hand-finishing station for premium detailing (ribbon threading, insert placement)
-- **Daily Capacity**: 200,000+ rigid gift boxes per day
+- **Daily Capacity**: 220,000+ rigid gift boxes per day
 - **Lead Time**: 10–15 working days for standard orders; 7–10 days for repeat orders
 - **MOQ**: 500–1000 units; trial orders and small batches welcome
 
@@ -56,7 +56,7 @@ Book-style rigid boxes open like a hardcover book, creating an elegant unboxing 
 - 10,000 sqm production facility in Foshan, Guangdong, China
 - KBA 1050 4-color + Heidelberg 7+1 UV presses
 - Fully automatic die-cutting and gluing lines
-- Daily capacity: 1.5 million color boxes + 200,000+ gift boxes
+- Daily capacity: 1.7 million color boxes + 220,000+ gift boxes
 - Export to 40+ countries across Europe, North America, Middle East, and Southeast Asia
 
 ## Contact

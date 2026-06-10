@@ -14,7 +14,7 @@ params:
 
 ![Bincai Folding Cartons](/images/cat-fold-cosmetic.jpg)
 
-Luxury folding carton with gold foil hot stamping for high-end gift and retail packaging — manufactured by Guangdong Bincai Color Printing Co., Ltd. With 22 years of experience, ISO 9001 & FSC certifications, and a 10,000 sqm factory producing 1.5 million boxes daily, we craft folding cartons that elevate brand perception at retail and unboxing moments.
+Luxury folding carton with gold foil hot stamping for high-end gift and retail packaging — manufactured by Guangdong Bincai Color Printing Co., Ltd. With 22 years of experience, ISO 9001 & FSC certifications, and a 10,000 sqm factory producing 1.7 million boxes daily, we craft folding cartons that elevate brand perception at retail and unboxing moments.
 
 ## Applications
 Gold foil stamped folding cartons deliver premium tactile and visual impact for luxury brand positioning. Ideal for:
@@ -61,7 +61,7 @@ Gold foil stamped folding cartons deliver premium tactile and visual impact for 
 - 80+ skilled employees across design, prepress, printing, finishing, and QC
 - KBA 1050 4-color + Heidelberg 7+1 UV + Bobst foil stamping and die-cutting
 - Export to 40+ countries across six continents
-- Daily capacity: 1.5 million boxes across all product lines
+- Daily capacity: 1.7 million boxes across all product lines
 
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Factory visits welcome.

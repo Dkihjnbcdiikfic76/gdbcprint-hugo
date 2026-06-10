@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Magnetic Closure Boxes](/images/cat-rigid-others.jpg)
+![Bincai Magnetic Closure Boxes](/images/magnetic-closure-box.jpg)
 
 Luxury drawer-slide magnetic rigid box with satin ribbon pull-tab and custom die-cut foam insert — the premium unboxing format for high-value products. The smooth sliding action, magnetic lock, and ribbon pull create an elegant reveal experience. Manufactured by Guangdong Bincai Color Printing Co., Ltd.
 
@@ -62,7 +62,7 @@ Luxury drawer-slide magnetic rigid box with satin ribbon pull-tab and custom die
 - KBA 1050 4-color + Heidelberg 7+1 UV presses
 - Specialized rigid box assembly line for complex constructions
 - Export to 40+ countries across six continents
-- Daily output: 1.5 million boxes total
+- Daily output: 1.7 million boxes total
 
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Factory visits welcome.

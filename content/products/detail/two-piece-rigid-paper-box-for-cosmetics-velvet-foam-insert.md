@@ -63,7 +63,7 @@ Two-piece rigid boxes with foam inserts provide the ultimate protection and pres
 - 80+ skilled craftspeople across rigid box assembly, foam fabrication, and finishing
 - KBA 1050 4-color + Heidelberg 7+1 UV presses + fully automatic rigid box production line
 - Export to 40+ countries across six continents — North America, Europe, Middle East, Asia-Pacific, Africa, South America
-- Daily capacity: 1.5 million boxes total (200,000+ rigid/gift boxes)
+- Daily capacity: 1.7 million boxes total (220,000+ rigid/gift boxes)
 
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Factory visits welcome anytime.

@@ -14,7 +14,7 @@ params:
 
 ![Bincai Kraft Eco Boxes](/images/kraft-eco-box.jpg)
 
-FSC certified kraft paper box with clear PET window for food packaging — designed for bakeries, confectionery brands, and organic food companies seeking sustainable packaging with product visibility. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** (founded 2003) in a 10,000 sqm ISO 9001 and FSC certified factory. Printed on KBA 1050 4-color and Heidelberg 7+1 UV presses with food-safe, low-migration inks. 22 years of expertise delivering 1.5 million boxes daily to clients in 40+ countries.
+FSC certified kraft paper box with clear PET window for food packaging — designed for bakeries, confectionery brands, and organic food companies seeking sustainable packaging with product visibility. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** (founded 2003) in a 10,000 sqm ISO 9001 and FSC certified factory. Printed on KBA 1050 4-color and Heidelberg 7+1 UV presses with food-safe, low-migration inks. 22 years of expertise delivering 1.7 million boxes daily to clients in 40+ countries.
 
 ## Applications
 - Bakery and pastry takeaway boxes (croissants, donuts, cookies, muffins)
@@ -43,7 +43,7 @@ FSC certified kraft paper box with clear PET window for food packaging — desig
 - **Window Patching**: Automatic window patching machine — high-clarity PET, precision die-cut apertures
 - **Die-Cutting**: Rotary and flatbed steel-rule die-cutting with ±0.3mm accuracy
 - **Glue**: Food-safe hot-melt and cold-set adhesives compliant with FDA/GB standards
-- **Daily Capacity**: 1.5 million boxes; dedicated kraft eco line for food-grade production
+- **Daily Capacity**: 1.7 million boxes; dedicated kraft eco line for food-grade production
 - **Lead Time**: 10–15 working days new design; 7–10 days repeat orders
 
 ## Quality Assurance
@@ -67,7 +67,7 @@ FSC certified kraft paper box with clear PET window for food packaging — desig
 - 10,000 sqm facility + 8,000 sqm smart factory (2025) in Foshan, Guangdong
 - 80+ employees, full in-house prepress-to-finishing, dedicated food-grade production area
 - KBA 1050 4-color + Heidelberg 7+1 UV presses with food-safe ink management
-- Daily output: 1.5 million color boxes across all product categories
+- Daily output: 1.7 million color boxes across all product categories
 - Export to 40+ countries with food packaging as a certified specialization
 
 ## Contact

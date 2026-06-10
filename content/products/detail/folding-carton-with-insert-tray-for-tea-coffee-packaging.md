@@ -30,7 +30,7 @@ Our custom folding carton with insert tray is purpose-built for tea and coffee p
 
 ## Factory
 
-Guangdong Bincai Color Printing operates a 10,000 sqm production facility in Foshan, China, with 22 years of folding carton manufacturing expertise. Our factory integrates KBA 1050 4-color offset printing, Heidelberg 7+1 UV coating, automatic die-cutting, folder-gluer lines, and insert-tray assembly stations — achieving a daily output of 1.5 million boxes. We hold ISO 9001:2015 quality management certification and FSC Chain-of-Custody certification, ensuring every tea and coffee carton meets international quality and sustainability standards.
+Guangdong Bincai Color Printing operates a 10,000 sqm production facility in Foshan, China, with 22 years of folding carton manufacturing expertise. Our factory integrates KBA 1050 4-color offset printing, Heidelberg 7+1 UV coating, automatic die-cutting, folder-gluer lines, and insert-tray assembly stations — achieving a daily output of 1.7 million boxes. We hold ISO 9001:2015 quality management certification and FSC Chain-of-Custody certification, ensuring every tea and coffee carton meets international quality and sustainability standards.
 
 ## Contact
 

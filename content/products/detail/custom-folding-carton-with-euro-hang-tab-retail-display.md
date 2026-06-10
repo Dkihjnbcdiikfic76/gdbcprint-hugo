@@ -23,7 +23,7 @@ A versatile folding carton with an integrated Euro hang tab — engineered for r
 - **Press**: KBA 1050 4-color offset press with automatic register control
 - **Die-cutting**: Heidelberg cylinder die-cutter with Euro hang tab integrated into cutting forme
 - **Board stock**: 350gsm CCNB, 400gsm white kraft, or 450gsm SBS (FSC-certified options)
-- **Daily folding carton output**: 1.5 million boxes across 4 production lines
+- **Daily folding carton output**: 1.7 million boxes across 4 production lines
 - **Gluing**: High-speed folder-gluer with crash-lock bottom or auto-lock bottom
 - **Lamination**: Gloss, matte, or soft-touch — applied in-line for cost efficiency
 - **Ink**: Soy-based offset inks, low-VOC, food-safe certification available
@@ -50,7 +50,7 @@ In-line quality control at every stage: spectrophotometer color verification on 
 
 - **22 years** folding carton manufacturing since 2003
 - **KBA 1050 4-color press** with 15,000 sheets/hour speed
-- **1.5 million boxes daily** total factory output
+- **1.7 million boxes daily** total factory output
 - **10,000 sqm facility** with in-house design, prepress, printing, die-cutting, and gluing
 - **ISO 9001 & FSC certified** — quality and sustainability
 - **Free pre-production samples** in 3-5 working days

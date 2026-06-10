@@ -12,9 +12,9 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Corrugated Mailers](/images/cat-fold-mailer.jpg)
+![Bincai Corrugated Mailers](/images/corrugated-mailer.jpg)
 
-Premium white corrugated shipping box engineered for cosmetic and apparel e-commerce delivery — by Guangdong Bincai Color Printing Co., Ltd. (founded 2003), a 22-year full-chain packaging manufacturer. 10,000 sqm factory with KBA 1050 4-color offset and Heidelberg 7+1 UV presses, integrated corrugated production line. Daily output 1.5 million boxes. ISO 9001 & FSC certified. Custom sizes, branded printing, and ISTA-tested structural integrity.
+Premium white corrugated shipping box engineered for cosmetic and apparel e-commerce delivery — by Guangdong Bincai Color Printing Co., Ltd. (founded 2003), a 22-year full-chain packaging manufacturer. 10,000 sqm factory with KBA 1050 4-color offset and Heidelberg 7+1 UV presses, integrated corrugated production line. Daily output 1.7 million boxes. ISO 9001 & FSC certified. Custom sizes, branded printing, and ISTA-tested structural integrity.
 
 ## Applications
 - Cosmetic and skincare product e-commerce shipping
@@ -65,7 +65,7 @@ Premium white corrugated shipping box engineered for cosmetic and apparel e-comm
 - KBA 1050 4-color + Heidelberg 7+1 UV + Bobst die-cutting + integrated corrugator + automatic folder-gluer
 - In-house corrugated board production — quality-controlled from raw paper roll to finished box
 - Export to 40+ countries with e-commerce packaging as a growth category
-- Daily capacity: 1.5 million boxes total (300,000+ corrugated mailers dedicated)
+- Daily capacity: 1.7 million boxes total (300,000+ corrugated mailers dedicated)
 
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Factory visits welcome. Send us your product dimensions and shipping requirements for an ISTA-tested sample.

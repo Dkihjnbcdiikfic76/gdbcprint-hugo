@@ -12,9 +12,9 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Corrugated Mailers](/images/cat-fold-mailer.jpg)
+![Bincai Corrugated Mailers](/images/corrugated-mailer.jpg)
 
-Single-wall corrugated shipping box with integrated tear strip — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). The tear-strip design enables consumers to open the box cleanly without tools, making it ideal for e-commerce and direct-to-consumer fulfillment. KBA 1050 4-color and Heidelberg 7+1 UV presses deliver precision printing on 10,000 sqm factory floor. Daily output 1.5 million boxes.
+Single-wall corrugated shipping box with integrated tear strip — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). The tear-strip design enables consumers to open the box cleanly without tools, making it ideal for e-commerce and direct-to-consumer fulfillment. KBA 1050 4-color and Heidelberg 7+1 UV presses deliver precision printing on 10,000 sqm factory floor. Daily output 1.7 million boxes.
 
 ## Applications
 - E-commerce product shipping and fulfillment
@@ -58,7 +58,7 @@ Single-wall corrugated shipping box with integrated tear strip — manufactured 
 - 80+ skilled employees across design, prepress, printing, and finishing
 - KBA 1050 4-color + Heidelberg 7+1 UV presses
 - Fully automatic die-cutting, gluing, and folding carton assembly lines
-- Daily capacity: 1.5 million color boxes + 200,000+ gift boxes
+- Daily capacity: 1.7 million color boxes + 220,000+ gift boxes
 - High-Tech Enterprise certified; ISO 9001:2015 & FSC certified
 
 ## Contact

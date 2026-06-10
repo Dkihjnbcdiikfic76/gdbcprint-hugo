@@ -12,6 +12,6 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Jewelry Boxes](/images/cat-rigid-jewelry.jpg)
+![Bincai Jewelry Boxes](/images/jewelry-box.jpg)
 
 Premium velvet jewelry display box with integrated LED lighting for rings and earrings by Guangdong Bincai Color Printing. Manufactured in our 10,000 sqm factory in Foshan, China, using KBA 1050 4-color offset press with Heidelberg 7+1 UV coating. Features soft velvet exterior, satin-lined interior, foam insert with pre-cut slots, and battery-operated LED strip. Available with hot stamping, embossing, and magnetic closure. MOQ 500 units with 7-10 day turnaround.

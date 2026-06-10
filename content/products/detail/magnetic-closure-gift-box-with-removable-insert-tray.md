@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Magnetic Closure Boxes](/images/cat-rigid-others.jpg)
+![Bincai Magnetic Closure Boxes](/images/magnetic-closure-box.jpg)
 
 ## Product Overview
 
@@ -25,7 +25,7 @@ A premium magnetic closure gift box featuring a removable insert tray — the ul
 - **Tray cavities**: Precision die-cut — square, rectangular, circular, or custom contour; depth from 10mm to 80mm
 - **Printing**: Heidelberg 7+1 UV press — CMYK + spot color + UV coating in single pass
 - **Magnets**: 4 hidden neodymium magnets (10mm × 1.5mm), 1.5kg total hold force
-- **Daily output**: 200,000+ rigid boxes
+- **Daily output**: 220,000+ rigid boxes
 
 ## Customization Options
 

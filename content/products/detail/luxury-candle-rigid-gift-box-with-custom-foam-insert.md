@@ -18,7 +18,7 @@ params:
 
 Our luxury candle rigid gift box with custom foam insert delivers premium protection and presentation for high-end candle products. Each box is manufactured in our 10,000 sqm Foshan facility — a fully integrated rigid box production line backed by 22 years of packaging expertise. The rigid construction uses dense greyboard (800–1600 gsm) wrapped in art paper or specialty stock, while the custom-cut foam insert cradles candles securely during transit and retail display.
 
-We run KBA 1050 4-color offset presses for vibrant CMYK printing and a Heidelberg 7+1 UV press for specialty coatings, soft-touch finishes, and high-gloss spot UV effects. With an ISO 9001 quality management system and FSC chain-of-custody certification, every order meets international standards for quality and sustainability. Our daily output of 1.5 million boxes ensures even large-volume orders ship on time.
+We run KBA 1050 4-color offset presses for vibrant CMYK printing and a Heidelberg 7+1 UV press for specialty coatings, soft-touch finishes, and high-gloss spot UV effects. With an ISO 9001 quality management system and FSC chain-of-custody certification, every order meets international standards for quality and sustainability. Our daily output of 1.7 million boxes ensures even large-volume orders ship on time.
 
 Customization options include matte or gloss lamination, embossing, debossing, foil hot stamping (gold, silver, rose gold), magnetic closure, ribbon pull, or die-cut window. Available in any size, with custom inner fitments (foam, EVA, velvet, or cardboard partitions). Free pre-production samples and 3D digital proofs are provided before bulk production.
 
@@ -43,7 +43,7 @@ Guangdong Bincai Color Printing Co., Ltd. operates one of South China's largest 
 |---|---|
 | Factory Size | 10,000 sqm |
 | Years in Business | 22 years |
-| Daily Output | 1.5 million boxes |
+| Daily Output | 1.7 million boxes |
 | Primary Presses | KBA 1050 4-color, Heidelberg 7+1 UV |
 | Certifications | ISO 9001:2015, FSC Chain of Custody |
 | Location | Foshan, Guangdong, China |

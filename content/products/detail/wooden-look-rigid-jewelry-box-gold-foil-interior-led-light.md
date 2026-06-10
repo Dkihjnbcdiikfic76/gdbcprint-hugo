@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Jewelry Boxes](/images/cat-rigid-jewelry.jpg)
+![Bincai Jewelry Boxes](/images/jewelry-box.jpg)
 
 Premium woodgrain-texture rigid jewelry box with gold foil interior and integrated LED ring light — the ultimate presentation format for high-value jewelry pieces. The warm LED illumination highlights product brilliance while the woodgrain exterior conveys natural luxury. Manufactured by Guangdong Bincai Color Printing Co., Ltd.
 
@@ -60,7 +60,7 @@ Premium woodgrain-texture rigid jewelry box with gold foil interior and integrat
 - KBA 1050 + Heidelberg 7+1 UV presses
 - Dedicated jewelry box assembly line with LED module integration station
 - Export to 40+ countries globally
-- Daily output: 1.5 million boxes total
+- Daily output: 1.7 million boxes total
 
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Factory visits welcome.

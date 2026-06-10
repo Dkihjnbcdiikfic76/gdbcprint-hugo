@@ -14,7 +14,7 @@ params:
 
 ![Bincai Folding Cartons](/images/cat-fold-cosmetic.jpg)
 
-Premium custom printed folding carton with gold hot stamping retail — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). 10,000 sqm factory with KBA and Heidelberg presses. Daily output 1.5 million boxes.
+Premium custom printed folding carton with gold hot stamping retail — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). 10,000 sqm factory with KBA and Heidelberg presses. Daily output 1.7 million boxes.
 
 ## Features
 - ISO 9001:2015 & FSC certified quality management
@@ -30,7 +30,7 @@ Premium custom printed folding carton with gold hot stamping retail — manufact
 - 10,000 sqm production facility in Foshan, China
 - KBA 1050 4-color + Heidelberg 7+1 UV presses
 - Fully automatic die-cutting and gluing lines
-- Daily capacity: 1.5 million color boxes + 200,000+ gift boxes
+- Daily capacity: 1.7 million color boxes + 220,000+ gift boxes
 
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Factory visits welcome.

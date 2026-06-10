@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Corrugated Mailers](/images/cat-fold-mailer.jpg)
+![Bincai Corrugated Mailers](/images/corrugated-mailer.jpg)
 
 ## Description
 
@@ -20,7 +20,7 @@ Our eco-friendly kraft corrugated mailer box with custom print combines sustaina
 
 The corrugated mailer boxes are produced from FSC certified kraft linerboard with B-flute, E-flute, or F-flute corrugation — chosen for optimal crush resistance while maintaining a slim, lightweight profile that reduces dimensional weight shipping costs. Custom printing runs on KBA 1050 4-color offset presses for crisp, vibrant branding directly on kraft or coated white-top liner, while our Heidelberg 7+1 UV line provides protective overcoat varnishes and specialty finishes such as matte or gloss UV.
 
-With ISO 9001:2015 certification and a daily output capacity of 1.5 million boxes, we support everything from startup mailer runs (MOQ 500) to enterprise-scale subscription box programs. All mailers are fully recyclable and manufactured with soy-based inks on request. Self-locking bottom, tuck-top, or tear-strip closure styles available. Free structural design support and pre-production samples included with every project.
+With ISO 9001:2015 certification and a daily output capacity of 1.7 million boxes, we support everything from startup mailer runs (MOQ 500) to enterprise-scale subscription box programs. All mailers are fully recyclable and manufactured with soy-based inks on request. Self-locking bottom, tuck-top, or tear-strip closure styles available. Free structural design support and pre-production samples included with every project.
 
 ## Features
 
@@ -95,7 +95,7 @@ Guangdong Bincai Color Printing Co., Ltd. runs a dedicated corrugated mailer pro
 |---|---|
 | Factory Size | 10,000 sqm |
 | Years in Business | 22 years |
-| Daily Output | 1.5 million boxes |
+| Daily Output | 1.7 million boxes |
 | Primary Presses | KBA 1050 4-color, Heidelberg 7+1 UV |
 | Certifications | ISO 9001:2015, FSC Chain of Custody |
 | Location | Foshan, Guangdong, China |
