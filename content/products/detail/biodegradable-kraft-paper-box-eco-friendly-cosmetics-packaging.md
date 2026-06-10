@@ -12,6 +12,6 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Kraft Eco Boxes](/images/cat-paper-bag.jpg)
+![Bincai Kraft Eco Boxes](/images/kraft-eco-box.jpg)
 
 Premium biodegradable kraft paper box eco-friendly cosmetics packaging by Guangdong Bincai Color Printing, ISO 9001 FSC certified factory with 20+ years in Foshan, China. Custom sizes, CMYK printing, embossing, foil stamping, matte/gloss lamination. MOQ 500 pcs. Free samples.

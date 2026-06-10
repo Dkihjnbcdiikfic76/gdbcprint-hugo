@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Kraft Eco Boxes](/images/cat-paper-bag.jpg)
+![Bincai Kraft Eco Boxes](/images/kraft-eco-box.jpg)
 
 Eco kraft paper rigid box with embossing and soy-based ink — manufactured by Guangdong Bincai Color Printing Co., Ltd., an ISO 9001:2015 and FSC-certified packaging enterprise with 22 years of experience (founded 2003). Designed for brands committed to sustainable packaging, this rigid box combines the natural aesthetic of kraft paper with precision embossing and environmentally responsible soy-based inks. Produced on KBA 1050 and Heidelberg 7+1 UV presses across 18,000 sqm of factory space. Daily output 1.5 million boxes.
 

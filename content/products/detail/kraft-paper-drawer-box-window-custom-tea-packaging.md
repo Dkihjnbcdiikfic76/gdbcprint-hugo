@@ -12,6 +12,6 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Kraft Eco Boxes](/images/cat-paper-bag.jpg)
+![Bincai Kraft Eco Boxes](/images/kraft-eco-box.jpg)
 
 Eco-friendly kraft paper drawer box with die-cut window for premium tea packaging by Guangdong Bincai Color Printing. Made from FSC certified kraft paperboard in our ISO 9001 certified 10,000 sqm factory. Features pull-out drawer design with ribbon pull tab, clear PET window for product visibility, and biodegradable soy-based inks printed on Heidelberg 7+1 UV press. Customizable with blind embossing, foil stamping, and matte aqueous coating. Perfect for loose leaf tea, tea bags, herbal blends, and gourmet food gifting. MOQ 500 with free samples available.
