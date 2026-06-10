@@ -2,7 +2,7 @@
 title: "FSC Certified Kraft Paper Box with Window Food Packaging"
 date: 2026-06-10
 draft: false
-description: "FSC certified kraft paper box with PET window for food packaging. KBA 1050 4-color press, Heidelberg 7+1 UV, 10,000 sqm factory. ISO 9001 & FSC Chain-of-Custody certified. 22 years manufacturing, daily output 1.5M boxes. Food-safe inks, MOQ 500."
+description: "FSC certified kraft paper box with PET window for food packaging. KBA 1050 4-color press, Heidelberg 7+1 UV, 10,000 sqm factory. ISO 9001 & FSC Chain-of-Custody certified. 22 years manufacturing, daily output 1.7M boxes. Food-safe inks, MOQ 500."
 keywords: "FSC certified kraft box, kraft paper window box, food packaging box, eco-friendly food carton, biodegradable window box, sustainable food packaging, kraft window carton, FSC food box China, Bincai kraft packaging, ISO certified food box"
 categories: ["kraft-eco-boxes"]
 params:

@@ -2,7 +2,7 @@
 title: "Hexagonal Rigid Paper Box with Custom Foam Insert Luxury"
 date: 2026-06-10
 draft: false
-description: "Hexagonal rigid paper box with precision die-cut foam insert — distinctive 6-sided luxury packaging for premium gifts, cosmetics, and jewelry. KBA 1050 & Heidelberg 7+1 UV printed in 10,000 sqm ISO 9001 & FSC certified factory. 22 years experience, 1.5M boxes daily, MOQ 500."
+description: "Hexagonal rigid paper box with precision die-cut foam insert — distinctive 6-sided luxury packaging for premium gifts, cosmetics, and jewelry. KBA 1050 & Heidelberg 7+1 UV printed in 10,000 sqm ISO 9001 & FSC certified factory. 22 years experience, 1.7M boxes daily, MOQ 500."
 keywords: "hexagonal rigid paper box, custom foam insert luxury box, 6-sided gift box manufacturer, premium rigid packaging China, die-cut foam insert box, luxury gift box hexagonal, unique shaped rigid box, rigid box factory ISO FSC, magnetic closure hexagon box, Bincai Guangdong"
 categories: ["rigid-gift-boxes"]
 params:

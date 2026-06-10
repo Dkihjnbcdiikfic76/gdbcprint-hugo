@@ -2,7 +2,7 @@
 title: "Heavy-Duty Corrugated E-Commerce Shipping Box with Perforated Tear Strip"
 date: 2026-06-10
 draft: false
-description: "Heavy-duty corrugated e-commerce shipping box with perforated tear strip — B-Flute/E-Flute/double-wall, self-locking bottom. Manufactured on KBA 1050 & Heidelberg 7+1 UV presses in 10,000 sqm ISO 9001 & FSC certified factory. 22 years experience, 1.5M boxes daily output. MOQ 500."
+description: "Heavy-duty corrugated e-commerce shipping box with perforated tear strip — B-Flute/E-Flute/double-wall, self-locking bottom. Manufactured on KBA 1050 & Heidelberg 7+1 UV presses in 10,000 sqm ISO 9001 & FSC certified factory. 22 years experience, 1.7M boxes daily output. MOQ 500."
 keywords: "heavy-duty corrugated shipping box, perforated tear strip mailer, e-commerce packaging manufacturer, self-locking corrugated box, B-flute E-flute shipping box, double-wall corrugated mailer, custom branded shipping box, subscription box packaging China, corrugated box factory ISO FSC, Bincai Guangdong"
 categories: ["corrugated-mailers"]
 params:

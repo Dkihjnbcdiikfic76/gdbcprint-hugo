@@ -2,7 +2,7 @@
 title: "Die-Cut Folding Carton with Window Display Cosmetic Box"
 date: 2026-06-10
 draft: false
-description: "Custom die-cut folding carton with window display for cosmetic packaging. KBA 1050 printed, PET/PVC window film, CMYK offset with spot UV. ISO 9001 & FSC certified factory — 22 years, 10,000 sqm, 1.5M daily output. MOQ 500. Bincai Color Printing, Foshan Guangdong."
+description: "Custom die-cut folding carton with window display for cosmetic packaging. KBA 1050 printed, PET/PVC window film, CMYK offset with spot UV. ISO 9001 & FSC certified factory — 22 years, 10,000 sqm, 1.7M daily output. MOQ 500. Bincai Color Printing, Foshan Guangdong."
 keywords: "die-cut folding carton, cosmetic packaging box, window display carton, custom cosmetic box China, folding carton manufacturer, PET window box, spot UV cosmetic packaging, ISO 9001 FSC folding carton, beauty product packaging, Guangdong Bincai"
 categories: ["folding-cartons"]
 params:
@@ -54,5 +54,5 @@ Custom die-cut folding carton with transparent window display for cosmetics, ski
 - KBA 1050 + Heidelberg 7+1 UV for vibrant, consistent color replication batch to batch
 - ISO 9001 quality management + FSC Chain of Custody for sustainable packaging
 - Full in-house production: pre-press → printing → lamination → die-cutting → window patching → gluing → inspection
-- 10,000 sqm factory with 1.5M daily box capacity — no outsourcing, no delays
+- 10,000 sqm factory with 1.7M daily box capacity — no outsourcing, no delays
 - Cosmetic packaging export experience: serving beauty brands in Europe, North America, Middle East, and Southeast Asia

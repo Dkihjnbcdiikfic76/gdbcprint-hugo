@@ -2,7 +2,7 @@
 title: "White Corrugated Shipping Box for Cosmetic Apparel Delivery"
 date: 2026-06-10
 draft: false
-description: "Custom white corrugated shipping box for cosmetic and apparel e-commerce delivery. Single/double-wall B/C/E-flute, self-locking bottom, tear strip, CMYK flexo + offset printing. ISO 9001 & FSC certified, KBA 1050 + Heidelberg 7+1 UV, 10,000 sqm, 22 years, 1.5M daily output. MOQ 500."
+description: "Custom white corrugated shipping box for cosmetic and apparel e-commerce delivery. Single/double-wall B/C/E-flute, self-locking bottom, tear strip, CMYK flexo + offset printing. ISO 9001 & FSC certified, KBA 1050 + Heidelberg 7+1 UV, 10,000 sqm, 22 years, 1.7M daily output. MOQ 500."
 keywords: "white corrugated shipping box, cosmetic shipping box, apparel delivery box, e-commerce corrugated box, branded shipping box, custom corrugated mailer, white mailer box China, Bincai corrugated box, cosmetic e-commerce packaging"
 categories: ["corrugated-mailers"]
 params:

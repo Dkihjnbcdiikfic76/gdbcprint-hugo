@@ -2,7 +2,7 @@
 title: "Premium Magnetic Rigid Gift Box for Luxury Perfume Packaging"
 date: 2026-06-10
 draft: false
-description: "Custom magnetic rigid gift box for luxury perfume packaging. KBA Heidelberg printed, hot stamping, embossing, ISO 9001 & FSC certified. 22yr factory, MOQ 500."
+description: "Custom magnetic rigid gift box for luxury perfume & fragrance packaging. KBA 1050 + Heidelberg 7+1 UV printing, hot foil stamping, embossing, spot UV. ISO 9001 & FSC certified. 22-year Bincai factory, 18,000 sqm, 1.7M daily output. Velvet/satin lining, hidden magnet closure. MOQ 500. Free samples."
 keywords: "magnetic rigid gift box, luxury perfume packaging, custom rigid box, hot foil stamping, magnetic closure box, premium gift box manufacturer, rigid paper box China, Bincai"
 categories: ["rigid-gift-boxes"]
 params:
@@ -42,12 +42,14 @@ Premium magnetic rigid gift box for luxury perfume packaging — manufactured by
 - FSC-certified paper sourcing for sustainable packaging
 
 ## Quality Details
-- Precision magnetic alignment — flap closes flush every time
-- Consistent color reproduction across production runs
-- 100% inspection on finishing: lamination, stamping, assembly
-- Drop-tested structure for e-commerce and retail shipping
-- Free pre-production samples with 5–7 day turnaround
-- MOQ 500–1000 units, trial orders and OEM/ODM accepted
+| Test | Standard | Specification |
+|---|---|---|
+| Magnetic Alignment | Internal | Flap closes flush, gap ≤1.0mm |
+| Color Consistency | Internal | ΔE ≤ 2.0 across production runs |
+| Foil Registration | Internal | ±0.15mm alignment |
+| Drop Test | ISTA 1A | 10-drop sequence, 760mm |
+| Lamination Adhesion | Internal | 100% peel-resistance tested |
+| Visual Inspection | Internal | 100% finishing QC (stamping, assembly) |
 
 ## Factory
 - 22 years of manufacturing excellence since 2003
@@ -56,6 +58,12 @@ Premium magnetic rigid gift box for luxury perfume packaging — manufactured by
 - KBA 1050 4-color + Heidelberg 7+1 UV presses
 - Fully automatic die-cutting, gluing, and rigid box assembly lines
 - Daily capacity: 1.7 million color boxes + 220,000+ gift boxes
+
+## Related Products
+- [Magnetic Rigid Wine Box — 2-Bottle Luxury Gift Packaging](/products/detail/magnetic-rigid-wine-box-2-bottle/)
+- [Black Magnetic Rigid Box for Electronics Premium Packaging](/products/detail/black-magnetic-rigid-box-for-electronics-premium-packaging/)
+- [Magnetic Book-Style Rigid Gift Box with Gold Foil](/products/detail/book-style-rigid-gift-box-with-magnetic-flap-custom-print/)
+- [All Rigid Gift Boxes](/categories/rigid-gift-boxes/)
 
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Factory visits welcome.

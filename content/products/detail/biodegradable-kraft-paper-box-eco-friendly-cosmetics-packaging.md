@@ -2,7 +2,7 @@
 title: "Biodegradable Kraft Paper Box Eco-Friendly Cosmetics Packaging"
 date: 2026-06-10
 draft: false
-description: "Custom biodegradable kraft paper box for eco-friendly cosmetics packaging. FSC-certified recycled kraft, soy-based ink printing, water-based adhesive. ISO 9001 & FSC certified factory, KBA 1050 4-color + Heidelberg 7+1 UV, 10,000 sqm, 22 years, daily output 1.5M boxes. MOQ 500."
+description: "Custom biodegradable kraft paper box for eco-friendly cosmetics packaging. FSC-certified recycled kraft, soy-based ink printing, water-based adhesive. ISO 9001 & FSC certified factory, KBA 1050 4-color + Heidelberg 7+1 UV, 10,000 sqm, 22 years, daily output 1.7M boxes. MOQ 500."
 keywords: "biodegradable kraft paper box, eco-friendly cosmetics packaging, FSC certified kraft box, sustainable packaging box, soy-based ink box, recyclable cosmetics packaging, eco packaging manufacturer China, Bincai kraft box, custom eco box"
 categories: ["kraft-eco-boxes"]
 params:

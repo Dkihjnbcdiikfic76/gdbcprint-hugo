@@ -2,7 +2,7 @@
 title: "Luxury Candle Rigid Gift Box with Custom Foam Insert"
 date: 2026-06-10
 draft: false
-description: "Custom luxury candle rigid gift box with precision-cut foam insert. Manufactured on KBA 1050 4-color & Heidelberg 7+1 UV presses in a 10,000 sqm ISO 9001 & FSC certified factory with 22 years experience and 1.5M boxes daily output."
+description: "Custom luxury candle rigid gift box with precision-cut foam insert. Manufactured on KBA 1050 4-color & Heidelberg 7+1 UV presses in a 10,000 sqm ISO 9001 & FSC certified factory with 22 years experience and 1.7M boxes daily output."
 keywords: "rigid gift box manufacturer, luxury rigid boxes, custom foam insert packaging, candle gift box wholesale, rigid paper box factory, magnetic closure gift box, custom rigid box printing, premium gift packaging, greyboard rigid box, two-piece gift box"
 categories: ["rigid-gift-boxes"]
 params:
@@ -33,7 +33,7 @@ Customization options include matte or gloss lamination, embossing, debossing, f
 - **Embossing & Debossing** — Raised or recessed textures add dimension to logos, patterns, and branding elements.
 - **Die-Cut Window Options** — PET or PVC windows allow the candle to be visible while protected inside the box.
 - **Sustainable Materials** — FSC certified greyboard and art paper; recyclable, soy-based inks available on request.
-- **Low MOQ & Fast Turnaround** — 500–1000 unit MOQ with bulk production speeds backed by 1.5M daily box output.
+- **Low MOQ & Fast Turnaround** — 500–1000 unit MOQ with bulk production speeds backed by 1.7M daily box output.
 
 ## Factory
 

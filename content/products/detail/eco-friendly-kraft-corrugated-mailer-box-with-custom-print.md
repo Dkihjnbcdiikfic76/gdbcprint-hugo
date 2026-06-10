@@ -2,7 +2,7 @@
 title: "Eco-Friendly Kraft Corrugated Mailer Box with Custom Print"
 date: 2026-06-10
 draft: false
-description: "Custom eco-friendly kraft corrugated mailer box with branded print. Manufactured on KBA 1050 4-color & Heidelberg 7+1 UV presses in a 10,000 sqm ISO 9001 & FSC certified factory with 22 years experience and 1.5M boxes daily output."
+description: "Custom eco-friendly kraft corrugated mailer box with branded print. Manufactured on KBA 1050 4-color & Heidelberg 7+1 UV presses in a 10,000 sqm ISO 9001 & FSC certified factory with 22 years experience and 1.7M boxes daily output."
 keywords: "corrugated mailer box, kraft mailer box, eco-friendly shipping box, custom printed mailer box, corrugated shipping box wholesale, sustainable mailer packaging, custom kraft corrugated box, ecommerce mailer box, brown shipping box, branded shipping box, recycled mailer box, subscription box packaging"
 categories: ["corrugated-mailers"]
 params:

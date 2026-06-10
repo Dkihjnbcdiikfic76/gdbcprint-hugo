@@ -2,7 +2,7 @@
 title: "Double Door Rigid Gift Box with Satin Ribbon Magnetic Closure"
 date: 2026-06-10
 draft: false
-description: "Double-door rigid gift box with satin ribbon tie and hidden magnetic closure — premium unboxing for luxury jewelry, corporate gifts, and high-end cosmetics. KBA 1050 & Heidelberg 7+1 UV printed in 10,000 sqm ISO 9001 & FSC certified factory. 22 years experience, 1.5M boxes daily output, MOQ 500."
+description: "Double-door rigid gift box with satin ribbon tie and hidden magnetic closure — premium unboxing for luxury jewelry, corporate gifts, and high-end cosmetics. KBA 1050 & Heidelberg 7+1 UV printed in 10,000 sqm ISO 9001 & FSC certified factory. 22 years experience, 1.7M boxes daily output, MOQ 500."
 keywords: "double door rigid gift box, satin ribbon magnetic closure box, luxury rigid gift box manufacturer, premium unboxing packaging, two-door gift box, rigid paper box factory China, custom rigid box hot stamping, corporate gift box ISO FSC, jewelry presentation box, Bincai Guangdong"
 categories: ["rigid-gift-boxes"]
 params:
@@ -31,7 +31,7 @@ The double-door design creates a dramatic reveal that elevates brand perception 
 - **Embossing & Debossing** — Raised or recessed textures for dimensional branding and pattern effects
 - **Custom Interior Fitments** — Precision die-cut EVA foam, velvet-lined trays, satin-covered inserts, or cardboard partitions tailored to your product
 - **Sustainable Materials** — FSC-certified greyboard and art paper; recyclable; soy-based inks available on request
-- **Low MOQ & Fast Turnaround** — 500–1000 unit MOQ with bulk production backed by 1.5M daily box output
+- **Low MOQ & Fast Turnaround** — 500–1000 unit MOQ with bulk production backed by 1.7M daily box output
 - **Free Pre-Production Samples** — 3D structural design and digital proofs within 24 hours; physical samples in 5–7 days
 
 ## Applications

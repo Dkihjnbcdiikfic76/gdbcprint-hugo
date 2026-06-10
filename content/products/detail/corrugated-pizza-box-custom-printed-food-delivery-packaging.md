@@ -2,7 +2,7 @@
 title: "Corrugated Pizza Box Custom Printed Food Delivery Packaging"
 date: 2026-06-10
 draft: false
-description: "Custom printed corrugated pizza box for food delivery and takeout. E-flute and B-flute corrugated, food-grade kraft, flexo or offset printed with your brand. ISO 9001 & FSC certified Bincai — 22 years factory, 10,000 sqm, 1.5M daily capacity. MOQ 500."
+description: "Custom printed corrugated pizza box for food delivery and takeout. E-flute and B-flute corrugated, food-grade kraft, flexo or offset printed with your brand. ISO 9001 & FSC certified Bincai — 22 years factory, 10,000 sqm, 1.7M daily capacity. MOQ 500."
 keywords: "custom pizza box, corrugated pizza packaging, printed pizza box China, food delivery packaging, takeout pizza box, branded pizza box, corrugated box manufacturer, kraft pizza box, eco-friendly food packaging, ISO 9001 FSC food box, Guangdong Bincai"
 categories: ["corrugated-mailers"]
 params:
@@ -54,6 +54,6 @@ Custom printed corrugated pizza box for food delivery and takeout packaging — 
 - FSC Chain of Custody certified — sustainable, recyclable corrugated from responsibly managed forests
 - Food-grade production environment with segregated lines for food-contact packaging
 - Full in-house: corrugating → printing → die-cutting → gluing → inspection — no subcontracting delays
-- 10,000 sqm factory in Foshan, Guangdong with 1.5M daily box output
+- 10,000 sqm factory in Foshan, Guangdong with 1.7M daily box output
 - Export experience: serving food delivery chains and pizzerias across Asia, Middle East, Europe, and North America
 - Cost-competitive with fast turnaround — ideal for chain rollouts and seasonal promotions

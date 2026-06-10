@@ -2,7 +2,7 @@
 title: "Custom Printed Corrugated Mailer Box E-Commerce Branded"
 date: 2026-06-10
 draft: false
-description: "Custom printed corrugated mailer box for e-commerce branding. Self-locking bottom, tear strip, KBA Heidelberg printing. ISO 9001 & FSC certified, 1.5M daily output."
+description: "Custom printed corrugated mailer box for e-commerce branding. Self-locking bottom, tear strip, KBA Heidelberg printing. ISO 9001 & FSC certified, 1.7M daily output."
 keywords: "corrugated mailer box, e-commerce shipping box, custom printed mailer, subscription box packaging, branded corrugated box, tear strip mailer, corrugated box manufacturer China, Bincai"
 categories: ["corrugated-mailers"]
 params:

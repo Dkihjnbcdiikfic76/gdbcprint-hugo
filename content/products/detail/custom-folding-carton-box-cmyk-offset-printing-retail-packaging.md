@@ -55,7 +55,7 @@ Custom folding carton box with CMYK offset printing for retail packaging — man
 - 10,000 sqm main facility + 8,000 sqm smart factory (2025)
 - 80+ employees, full in-house prepress through finishing
 - KBA Heidelberg press lineup with fully automatic post-press
-- Daily output 1.5M+ color boxes serving 200+ global clients
+- Daily output 1.7M+ color boxes serving 200+ global clients
 
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Factory visits welcome.

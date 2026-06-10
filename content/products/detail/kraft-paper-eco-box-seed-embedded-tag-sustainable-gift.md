@@ -2,7 +2,7 @@
 title: "Kraft Paper Eco Box with Seed-Embedded Tag Sustainable Gift Packaging"
 date: 2026-06-11
 draft: false
-description: "Biodegradable kraft paper eco gift box with plantable seed-embedded hang tag for sustainable gifting. KBA 1050 + Heidelberg 7+1 UV, 10,000 sqm factory, ISO 9001 & FSC certified. 22 years manufacturing, daily output 1.5M boxes. MOQ 1000 units, free samples."
+description: "Biodegradable kraft paper eco gift box with plantable seed-embedded hang tag for sustainable gifting. KBA 1050 + Heidelberg 7+1 UV, 10,000 sqm factory, ISO 9001 & FSC certified. 22 years manufacturing, daily output 1.7M boxes. MOQ 1000 units, free samples."
 keywords: "kraft paper eco box, seed-embedded tag gift box, plantable packaging, sustainable gift box FSC, biodegradable kraft box, eco-friendly packaging manufacturer, Bincai kraft box, ISO 9001 FSC sustainable box, China eco packaging factory"
 categories: ["kraft-eco-boxes"]
 params:

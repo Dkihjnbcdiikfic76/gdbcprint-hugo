@@ -2,7 +2,7 @@
 title: "Eco Kraft Folding Carton with Soy-Based Ink Sustainable"
 date: 2026-06-10
 draft: false
-description: "Eco kraft folding carton printed with soy-based ink for sustainable retail packaging. KBA 1050 + Heidelberg 7+1 UV, ISO 9001 & FSC certified. 10,000 sqm factory, 22 years experience, daily output 1.5M boxes. Biodegradable, recyclable, MOQ 500."
+description: "Eco kraft folding carton printed with soy-based ink for sustainable retail packaging. KBA 1050 + Heidelberg 7+1 UV, ISO 9001 & FSC certified. 10,000 sqm factory, 22 years experience, daily output 1.7M boxes. Biodegradable, recyclable, MOQ 500."
 keywords: "eco kraft folding carton, soy-based ink packaging, sustainable folding carton, biodegradable retail box, eco-friendly paper box, kraft folding box China, FSC certified carton, green packaging manufacturer, Bincai eco box, recyclable folding carton"
 categories: ["folding-cartons"]
 params:
@@ -43,7 +43,7 @@ Eco kraft folding carton with soy-based ink — a fully sustainable retail packa
 - **Coating**: Water-based aqueous (no solvents) — matte, gloss, or satin finish; fully repulpable
 - **Die-Cutting**: Rotary and flatbed with ±0.3mm tolerance; steel-rule dies re-sharpened for clean kraft cuts
 - **Gluing**: Water-based biodegradable adhesive; auto-bottom gluer lines for efficient assembly
-- **Daily Capacity**: 1.5M folding cartons; dedicated eco-line for kraft and soy-ink production
+- **Daily Capacity**: 1.7M folding cartons; dedicated eco-line for kraft and soy-ink production
 - **Lead Time**: 10–15 days new design; 7–10 days repeat orders
 
 ## Quality Assurance

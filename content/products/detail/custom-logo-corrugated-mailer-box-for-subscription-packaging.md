@@ -62,7 +62,7 @@ Custom logo corrugated mailer box engineered for subscription box brands that de
 - 10,000 sqm main facility + 8,000 sqm smart factory (2025)
 - 80+ employees; dedicated corrugated division with structural engineering team
 - KBA flexo line + Heidelberg 7+1 UV for litho-laminated corrugated
-- Daily output: 500,000 corrugated boxes + 1.5M total boxes across all categories
+- Daily output: 500,000 corrugated boxes + 1.7M total boxes across all categories
 - Export to 40+ countries; experienced in subscription box fulfillment requirements
 - Free design support — structural engineers optimize for shipping weight and unboxing experience
 

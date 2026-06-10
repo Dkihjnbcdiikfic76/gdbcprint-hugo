@@ -2,7 +2,7 @@
 title: "Custom Folding Carton Die-Cut Handle Spot UV Retail Luxury Box"
 date: 2026-06-11
 draft: false
-description: "Custom folding carton with integrated die-cut handle and premium spot UV finish for luxury retail packaging. KBA 1050 + Heidelberg 7+1 UV presses, 10,000 sqm factory, ISO 9001 & FSC certified. 22 years manufacturing, daily output 1.5M boxes. MOQ 1000 units, free samples."
+description: "Custom folding carton with integrated die-cut handle and premium spot UV finish for luxury retail packaging. KBA 1050 + Heidelberg 7+1 UV presses, 10,000 sqm factory, ISO 9001 & FSC certified. 22 years manufacturing, daily output 1.7M boxes. MOQ 1000 units, free samples."
 keywords: "custom folding carton with handle, die-cut handle retail box, spot UV folding carton, luxury retail packaging box, premium paper box with handle, custom printed folding carton, Bincai folding carton, ISO 9001 FSC retail box, China folding carton manufacturer"
 categories: ["folding-cartons"]
 params:

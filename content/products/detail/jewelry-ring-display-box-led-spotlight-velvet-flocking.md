@@ -2,7 +2,7 @@
 title: "Jewelry Ring Display Box LED Spotlight Velvet Flocking Interior"
 date: 2026-06-11
 draft: false
-description: "Premium jewelry ring display box with integrated LED spotlight and deep velvet flocking interior. KBA 1050 + Heidelberg 7+1 UV presses, 10,000 sqm factory, ISO 9001 & FSC certified. 22 years manufacturing since 2003, daily output 1.5M boxes. MOQ 300–500 units, free samples."
+description: "Premium jewelry ring display box with integrated LED spotlight and deep velvet flocking interior. KBA 1050 + Heidelberg 7+1 UV presses, 10,000 sqm factory, ISO 9001 & FSC certified. 22 years manufacturing since 2003, daily output 1.7M boxes. MOQ 300–500 units, free samples."
 keywords: "jewelry ring display box, LED spotlight ring box, velvet flocking jewelry box, custom ring packaging, luxury ring display box, magnetic closure ring box, Bincai jewelry box, ISO 9001 FSC ring packaging, China luxury jewelry box factory"
 categories: ["jewelry-boxes"]
 params:

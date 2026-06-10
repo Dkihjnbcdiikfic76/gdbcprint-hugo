@@ -2,7 +2,7 @@
 title: "Folding Carton with Insert Tray for Tea Coffee Packaging"
 date: 2026-06-10
 draft: false
-description: "Custom folding carton with insert tray for tea and coffee packaging. Manufactured on KBA 1050 4-color press & Heidelberg 7+1 UV in a 10,000 sqm ISO 9001 & FSC certified factory. 22 years experience, daily output 1.5M boxes. MOQ 500-1000 units."
+description: "Custom folding carton with insert tray for tea and coffee packaging. Manufactured on KBA 1050 4-color press & Heidelberg 7+1 UV in a 10,000 sqm ISO 9001 & FSC certified factory. 22 years experience, daily output 1.7M boxes. MOQ 500-1000 units."
 keywords: "folding carton, tea packaging box, coffee packaging box, custom folding carton, insert tray box, tea box with tray, coffee gift box packaging, folding carton manufacturer, cardboard tea box, custom coffee packaging box, tea bag packaging box, folding paper box"
 categories: ["folding-cartons"]
 params:

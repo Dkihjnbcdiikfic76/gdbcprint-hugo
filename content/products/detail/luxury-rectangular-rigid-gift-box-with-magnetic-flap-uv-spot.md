@@ -49,7 +49,7 @@ Every box passes 14 quality checkpoints: board caliper verification, magnet adhe
 
 - **22 years** manufacturing premium packaging since 2003
 - **Heidelberg 7+1 UV press** with inline coating for flawless spot UV
-- **10,000 sqm factory** with 1.5M boxes daily total output
+- **10,000 sqm factory** with 1.7M boxes daily total output
 - **High-Tech Enterprise** certified by Guangdong Province
 - **ISO 9001 & FSC certified** — quality management and sustainable forestry
 - **Free pre-production samples** in 3-5 working days

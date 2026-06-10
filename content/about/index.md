@@ -13,7 +13,7 @@ Guangdong Bincai Color Printing Co., Ltd. was founded in 2003 in Guangzhou, now 
 
 - **Factory Area:** 10,000+ sqm (with new 8,000 sqm smart factory opened 2025)
 - **Employees:** 80+ skilled workers
-- **Daily Output:** 1.5 million color boxes + 200,000+ gift boxes
+- **Daily Output:** 1.7 million color boxes + 200,000+ gift boxes
 - **Annual Output:** 10+ million boxes exported globally
 
 ### Equipment

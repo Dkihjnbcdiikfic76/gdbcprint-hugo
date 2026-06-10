@@ -23,7 +23,7 @@ An FSC Chain-of-Custody certified kraft paper gift box that proves sustainabilit
 - **Press**: Heidelberg 7+1 UV / KBA 1050 4-color offset with soy-based ink system
 - **Board**: FSC-certified kraft paper 175–400gsm, 100% recycled greyboard option available
 - **Construction**: Die-cut folding carton with precision gluing (Bobst flatbed)
-- **Daily output**: 1.5M color boxes, including dedicated kraft eco line capacity
+- **Daily output**: 1.7M color boxes, including dedicated kraft eco line capacity
 - **Ink**: Low-VOC soy-based inks, water-based varnish, heavy-metal-free pigments
 - **Certifications**: ISO 9001:2015, FSC Chain-of-Custody, High-Tech Enterprise
 
@@ -47,7 +47,7 @@ Ideal for organic cosmetics, artisan foods, handmade crafts, zero-waste brands, 
 - **18,000 sqm** total facility in Foshan, Guangdong
 - FSC Chain-of-Custody certified — full material traceability from forest to box
 - Soy-based inks, water-based varnishes, heavy-metal-free pigments
-- **80+** skilled employees, 1.5M boxes daily output
+- **80+** skilled employees, 1.7M boxes daily output
 - Free physical samples within 5–7 business days, MOQ 500 pcs
 - 10–15 day production lead time
 - Contact: +86-18934352881 or qo82@icloud.com

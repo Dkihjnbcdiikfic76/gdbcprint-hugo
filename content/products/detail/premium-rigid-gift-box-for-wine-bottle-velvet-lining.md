@@ -2,7 +2,7 @@
 title: "Premium Rigid Gift Box for Wine Bottle Velvet Lining"
 date: 2026-06-10
 draft: false
-description: "Luxury rigid gift box for wine bottle packaging with velvet lining interior. KBA 1050 4-color offset printed, Heidelberg 7+1 UV, gold foil stamping, embossing. ISO 9001 & FSC certified Guangdong Bincai — 22 years factory, 10,000 sqm, daily output 1.5M boxes. MOQ 500."
+description: "Luxury rigid gift box for wine bottle packaging with velvet lining interior. KBA 1050 4-color offset printed, Heidelberg 7+1 UV, gold foil stamping, embossing. ISO 9001 & FSC certified Guangdong Bincai — 22 years factory, 10,000 sqm, daily output 1.7M boxes. MOQ 500."
 keywords: "wine bottle gift box, rigid paper box with velvet lining, luxury wine packaging, custom wine box China, rigid gift box manufacturer, gold foil stamped gift box, magnetic closure wine box, ISO 9001 FSC wine packaging, Guangdong Bincai"
 categories: ["rigid-gift-boxes"]
 params:
@@ -52,5 +52,5 @@ Luxury rigid gift box for wine bottle packaging with plush velvet lining interio
 - Heidelberg 7+1 UV press for spot UV, drip-off, and specialty coating effects
 - FSC Chain of Custody certified — sustainable paper sourcing for eco-conscious wine brands
 - Full in-house capability: printing → die-cutting → wrapping → velvet lining → inspection
-- 10,000 sqm factory in Foshan, Guangdong with 1.5M daily box output
+- 10,000 sqm factory in Foshan, Guangdong with 1.7M daily box output
 - Export experience to 60+ countries with wine packaging clients in France, Italy, Australia, and California

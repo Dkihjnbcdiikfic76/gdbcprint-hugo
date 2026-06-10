@@ -2,7 +2,7 @@
 title: "Recyclable Brown Kraft Paper Box with Window Display Food Packaging"
 date: 2026-06-10
 draft: false
-description: "FSC-certified recyclable brown kraft paper box with window display for food packaging — sustainable, food-safe, custom-printed. ISO 9001 & FSC, KBA 1050 + Heidelberg 7+1 UV, 22 years, 10,000 sqm factory, 1.5M boxes daily, MOQ 500."
+description: "FSC-certified recyclable brown kraft paper box with window display for food packaging — sustainable, food-safe, custom-printed. ISO 9001 & FSC, KBA 1050 + Heidelberg 7+1 UV, 22 years, 10,000 sqm factory, 1.7M boxes daily, MOQ 500."
 keywords: "recyclable kraft paper box, window display food packaging, FSC certified food box, eco-friendly food packaging box, brown kraft window box manufacturer, sustainable food carton China, Bincai kraft packaging, ISO 9001 food box, soy-ink food packaging, biodegradable food box, Guangdong eco packaging factory"
 categories: ["kraft-eco-boxes"]
 params:

@@ -2,7 +2,7 @@
 title: "Earring Gift Box with Satin Lining Gold Foil Hot Stamping"
 date: 2026-06-10
 draft: false
-description: "Custom earring gift box with satin lining and gold foil hot stamping. Manufactured on KBA 1050 4-color & Heidelberg 7+1 UV presses in a 10,000 sqm ISO 9001 & FSC certified factory with 22 years experience and 1.5M boxes daily output."
+description: "Custom earring gift box with satin lining and gold foil hot stamping. Manufactured on KBA 1050 4-color & Heidelberg 7+1 UV presses in a 10,000 sqm ISO 9001 & FSC certified factory with 22 years experience and 1.7M boxes daily output."
 keywords: "jewelry gift box manufacturer, satin lining jewelry box, gold foil hot stamping box, earring packaging box, custom jewelry box wholesale, velvet jewelry box supplier, luxury jewelry packaging, ring gift box factory, necklace gift box, cardboard jewelry box"
 categories: ["jewelry-boxes"]
 params:

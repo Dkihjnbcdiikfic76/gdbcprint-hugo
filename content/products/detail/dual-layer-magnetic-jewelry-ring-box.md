@@ -2,7 +2,7 @@
 title: "Dual-Layer Magnetic Jewelry Ring Box"
 date: 2026-06-11
 draft: false
-description: "Dual-layer magnetic ring box with velvet flocking and satin ribbon by Bincai. KBA 1050 4-color press, Heidelberg 7+1 UV, 10,000 sqm factory, 22 years experience. ISO 9001 & FSC certified. Daily output 1.5M boxes. Free samples, MOQ 500."
+description: "Dual-layer magnetic ring box with velvet flocking and satin ribbon by Bincai. KBA 1050 4-color press, Heidelberg 7+1 UV, 10,000 sqm factory, 22 years experience. ISO 9001 & FSC certified. Daily output 1.7M boxes. Free samples, MOQ 500."
 keywords: "dual layer ring box, magnetic ring box, jewelry display box, velvet ring case, custom ring packaging, luxury jewelry box, Bincai ring box, magnetic closure jewelry, wholesale ring box, engagement ring packaging, rigid ring box, satin lined box, hot stamping box, custom logo packaging, jewelry gift box, ring presentation case, FSC certified packaging, ISO 9001 factory, Guangdong manufacturer"
 categories: ["jewelry-boxes"]
 params:

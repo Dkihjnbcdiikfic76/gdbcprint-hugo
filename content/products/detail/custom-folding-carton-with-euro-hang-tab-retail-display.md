@@ -2,7 +2,7 @@
 title: "Custom Folding Carton with Euro Hang Tab Retail Display"
 date: 2026-06-10
 draft: false
-description: "Custom folding carton with integrated Euro hang tab for retail pegboard display. KBA 1050 4-color offset printing, 10,000 sqm factory, 1.5M boxes daily output. ISO 9001 & FSC certified, 22 years manufacturing experience. MOQ 1000 units."
+description: "Custom folding carton with integrated Euro hang tab for retail pegboard display. KBA 1050 4-color offset printing, 10,000 sqm factory, 1.7M boxes daily output. ISO 9001 & FSC certified, 22 years manufacturing experience. MOQ 1000 units."
 keywords: "folding carton, euro hang tab, retail display box, pegboard packaging, CMYK offset printing, KBA 1050 press, FSC certified box, Guangdong manufacturer, custom retail packaging"
 categories: ["folding-cartons"]
 params:
