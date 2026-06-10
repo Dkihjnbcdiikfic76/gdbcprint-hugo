@@ -2,8 +2,8 @@
 title: "Premium Magnetic Rigid Box Single Door Custom Ribbon Tie"
 date: 2026-06-10
 draft: false
-description: "Custom single-door magnetic rigid box with satin ribbon tie closure. ISO 9001 & FSC certified, KBA 1050 + Heidelberg 7+1 UV, 22 years experience, MOQ 500."
-keywords: "magnetic rigid box, single door gift box, ribbon tie box, luxury packaging box, custom magnetic closure box, Bincai rigid box, premium gift box China, magnetic flip box manufacturer"
+description: "Custom single-door magnetic rigid box with satin ribbon tie closure. N42-grade concealed magnets provide reliable snap-closure — 2.0mm greyboard lid and base with 157gsm art paper wrap. Foil stamping, embossing, spot UV, and soft-touch lamination available. Manufactured by Bincai in Foshan Guangdong — 22 years experience, ISO 9001 & FSC certified. 18,000 sqm factory (10,000 + 8,000 smart factory 2025), daily output 1.7M boxes + 220K+ gift boxes. 15 QC checkpoints from greyboard inspection to finished pack-out. Free samples in 3-5 days. MOQ 500."
+keywords: "magnetic rigid box, single door gift box, ribbon tie closure box, luxury magnetic closure box, single-door rigid box, premium gift box wholesale, custom magnetic box manufacturer, Bincai magnetic box, Heidelberg printed magnetic box, FSC certified gift box, ISO 9001 rigid box, Guangdong gift box factory, foil stamped magnetic box, embossed logo gift box, satin ribbon box"
 categories: ["magnetic-closure-boxes"]
 params:
   moq: "500-1000"

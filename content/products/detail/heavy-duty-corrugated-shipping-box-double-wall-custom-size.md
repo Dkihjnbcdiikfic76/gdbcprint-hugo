@@ -2,8 +2,8 @@
 title: "Heavy Duty Corrugated Shipping Box Double Wall Custom Size"
 date: 2026-06-10
 draft: false
-description: "Heavy-duty double wall corrugated shipping box, custom size. BC/BE flute, ISTA 1A tested. ISO 9001 & FSC factory in Foshan. MOQ 500. FBA-ready sizing."
-keywords: "heavy duty corrugated box, double wall shipping box, custom corrugated mailer, BC flute box, FBA shipping box, ISTA tested corrugated, ecommerce shipping box, custom size mailer, industrial packaging box, Bincai corrugated"
+description: "Heavy-duty double wall corrugated shipping box, fully custom sizes and print. BC/BE flute construction with ISTA 1A drop-test certification. Manufactured by Bincai in Foshan Guangdong — 22 years experience, 18,000 sqm integrated factory (10,000 + 8,000 smart factory 2025), KBA 1050 4-color + Heidelberg 7+1 UV offset. ISO 9001 & FSC certified, daily output 1.7M boxes. FBA-ready sizing, self-sealing tear strip, flexo or offset print. MOQ 500 units, free pre-production samples in 3-5 days."
+keywords: "heavy duty corrugated box, double wall shipping box, custom corrugated mailer, BC flute box, EB flute shipping box, FBA shipping box, ISTA tested corrugated, ecommerce shipping box, custom size mailer, industrial packaging box, corrugated shipping carton, heavy duty mailer box, Bincai corrugated box, Guangdong corrugated manufacturer, FSC certified mailer"
 categories: ["corrugated-mailers"]
 params:
   moq: "500-1000"

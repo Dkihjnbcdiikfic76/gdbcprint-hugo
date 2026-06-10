@@ -2,8 +2,8 @@
 title: "Custom Printed Rigid Box with Embossed Logo Gold Foil Stamping"
 date: 2026-06-10
 draft: false
-description: "Custom rigid gift box with embossed logo and gold foil stamping. Heidelberg 7+1 UV, 1.5–3.0mm greyboard. ISO 9001 & FSC. 22-year factory. Free samples."
-keywords: "custom rigid box, embossed logo box, gold foil stamped box, luxury gift box wholesale, rigid set-up box, magnetic closure box, hot stamping box, custom rigid packaging, Bincai rigid box, premium gift packaging"
+description: "Custom rigid gift box with deep embossed logo and hot gold foil stamping. Manufactured on Heidelberg 7+1 UV offset with Bobst flatbed die-cutting — 1.5–3.0mm greyboard, precision ±0.15mm registration. ISO 9001 & FSC certified, 22-year Bincai factory in Foshan Guangdong. 18,000 sqm production base (10,000 + 8,000 new smart factory 2025), daily output 1.7M color boxes + 220K+ rigid boxes. Matte/gloss lamination, spot UV, soft-touch coating available. Free samples in 3-5 days, MOQ 500 units."
+keywords: "custom rigid box, embossed logo box, gold foil stamped box, luxury rigid gift box, debossed gift box, rigid set-up box wholesale, hot stamping rigid box, premium gift packaging, embossing and foil box, magnetic closure box, custom rigid packaging manufacturer, Bincai rigid box, Heidelberg printed gift box, FSC certified rigid box, Guangdong gift box factory"
 categories: ["rigid-gift-boxes"]
 params:
   moq: "500-1000"
