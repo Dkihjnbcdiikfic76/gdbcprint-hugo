@@ -22,7 +22,7 @@ CATEGORY_IMAGE = {
     "rigid-gift-boxes":      "/images/cat-rigid-others.jpg",
     "folding-cartons":       "/images/cat-fold-cosmetic.jpg",
     "corrugated-mailers":    "/images/corrugated-mailer.jpg",
-    "magnetic-closure-boxes": "/images/cat-rigid-others.jpg",
+    "magnetic-closure-boxes": "/images/magnetic-closure-box.jpg",
     "kraft-eco-boxes":       "/images/kraft-eco-box.jpg",
     "jewelry-boxes":         "/images/cat-rigid-jewelry.jpg",
 }
@@ -35,6 +35,7 @@ FOLDING_CARTON_OK = {
     "/images/cat-fold-gift.jpg",
     "/images/cat-fold-mailer.jpg",
     "/images/cat-fold-aircraft.jpg",
+    "/images/folding-carton.jpg",
 }
 
 

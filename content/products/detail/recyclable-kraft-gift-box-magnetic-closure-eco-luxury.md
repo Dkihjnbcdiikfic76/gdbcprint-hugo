@@ -14,7 +14,7 @@ params:
 
 ![Bincai Recyclable Kraft Gift Box](/images/kraft-eco-box.jpg)
 
-Recyclable brown kraft paper rigid gift box with magnetic closure — designed by Guangdong Bincai Color Printing Co., Ltd. for brands that want luxurious presentation without compromising on sustainability. Made from 100% recycled greyboard and wrapped in natural kraft paper, the entire box is fully recyclable in standard paper waste streams. Printed with soy-based inks that are low-VOC and biodegradable, while the magnetic closure delivers the premium unboxing experience customers expect. The natural kraft aesthetic with subtle branding creates an authentic, artisanal feel that resonates with eco-conscious consumers. Produced across 10,000 sqm of factory space on Heidelberg 7+1 UV and KBA 1050 presses. Daily output capacity of 1.5 million boxes.
+Recyclable brown kraft paper rigid gift box with magnetic closure — designed by Guangdong Bincai Color Printing Co., Ltd. for brands that want luxurious presentation without compromising on sustainability. Made from 100% recycled greyboard and wrapped in natural kraft paper, the entire box is fully recyclable in standard paper waste streams. Printed with soy-based inks that are low-VOC and biodegradable, while the magnetic closure delivers the premium unboxing experience customers expect. The natural kraft aesthetic with subtle branding creates an authentic, artisanal feel that resonates with eco-conscious consumers. Produced across 10,000 sqm of factory space on Heidelberg 7+1 UV and KBA 1050 presses. Daily output capacity of 1.7 million boxes.
 
 ## Applications
 - Sustainable fashion and apparel brands

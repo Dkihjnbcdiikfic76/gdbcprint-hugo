@@ -14,7 +14,7 @@ params:
 
 ![Bincai Corrugated Mailer with Security Seal](/images/corrugated-mailer.jpg)
 
-Custom printed corrugated mailer box with an integrated tamper-evident security seal — engineered by Guangdong Bincai Color Printing Co., Ltd. for e-commerce and pharmaceutical brands that require visible proof of package integrity. The security seal system uses a destructible adhesive strip that leaves irreversible fiber-tear evidence when removed, ensuring customers can instantly verify their package has not been opened in transit. The self-locking bottom eliminates tape during assembly, speeding up fulfillment center operations. Produced on KBA 1050 and Heidelberg 7+1 UV offset presses across 10,000 sqm of factory space. Daily output capacity of 1.5 million boxes.
+Custom printed corrugated mailer box with an integrated tamper-evident security seal — engineered by Guangdong Bincai Color Printing Co., Ltd. for e-commerce and pharmaceutical brands that require visible proof of package integrity. The security seal system uses a destructible adhesive strip that leaves irreversible fiber-tear evidence when removed, ensuring customers can instantly verify their package has not been opened in transit. The self-locking bottom eliminates tape during assembly, speeding up fulfillment center operations. Produced on KBA 1050 and Heidelberg 7+1 UV offset presses across 10,000 sqm of factory space. Daily output capacity of 1.7 million boxes.
 
 ## Applications
 - Pharmaceutical and healthcare product shipping
