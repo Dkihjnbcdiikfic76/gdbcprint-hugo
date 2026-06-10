@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Rigid Perfume Boxes](/images/cat-rigid-perfume.jpg)
+![Bincai Rigid Perfume Boxes](/images/cat-rigid-others.jpg)
 
 ## Overview
 
