@@ -2,8 +2,8 @@
 title: "Custom Kraft Paper Folding Box Sustainable Retail Packaging"
 date: 2026-06-10
 draft: false
-description: "Custom Custom Kraft Paper Folding Box Sustainable Retail Packaging. ISO 9001 FSC certified paper box manufacturer. MOQ 500-1000 units."
-keywords: "paper box, custom packaging, gift box, ISO certified, FSC"
+description: "Eco-friendly kraft paper folding box with soy-based ink printing for sustainable retail and e-commerce packaging. Recycled kraft liner, FSC certified, biodegradable. ISO 9001, 22-year Bincai factory."
+keywords: "kraft folding box, eco-friendly packaging, sustainable retail box, recycled kraft box, soy ink packaging, FSC kraft box, biodegradable paper box, custom eco packaging, kraft box manufacturer China, ISO 9001 eco packaging"
 categories: ["kraft-eco-boxes"]
 params:
   moq: "500-1000"

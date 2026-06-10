@@ -2,8 +2,8 @@
 title: "Folding Carton Die-Cut Display Tray — Retail Counter Packaging"
 date: 2026-06-11
 draft: false
-description: "Custom die-cut folding carton display tray for retail counter and shelf merchandising. Auto-lock bottom, window option, KBA 1050 offset. ISO 9001, FSC, 22-year factory."
-keywords: "die-cut display tray, retail counter packaging, folding carton tray, auto-lock bottom box, window display box, product display tray China, FSC folding carton"
+description: "Custom die-cut folding carton display tray for retail counter, shelf merchandising, and product showcasing. Auto-lock bottom assembly, PET window option, KBA 1050 offset printing. ISO 9001, FSC, 22-year factory."
+keywords: "die-cut display tray, retail counter packaging, folding carton tray, auto-lock bottom box, window display box, product display tray China, FSC folding carton, retail merchandising box, PET window carton, custom display packaging"
 categories: ["folding-cartons"]
 params:
   moq: "1000"

@@ -2,8 +2,8 @@
 title: "Magnetic Gift Box for Premium Electronics — Custom Rigid Packaging"
 date: 2026-06-11
 draft: false
-description: "Custom magnetic closure gift box for headphones, smartwatches, and premium electronics. EVA foam insert, soft-touch finish, Heidelberg 7+1 UV print. ISO 9001, FSC."
-keywords: "magnetic electronics gift box, premium electronics packaging, custom headphone box, smartwatch gift box, EVA foam insert box, magnetic rigid box China, soft-touch electronics packaging"
+description: "Premium magnetic closure rigid gift box for headphones, smartwatches, earbuds, and luxury electronics. Precision EVA foam insert, soft-touch matte finish, Heidelberg 7+1 UV offset. ISO 9001, FSC."
+keywords: "magnetic electronics gift box, premium electronics packaging, custom headphone box, smartwatch gift box, EVA foam insert box, magnetic rigid box China, soft-touch electronics packaging, luxury unboxing box, electronic accessory packaging, FSC rigid gift box"
 categories: ["magnetic-closure-boxes"]
 params:
   moq: "500-1000"

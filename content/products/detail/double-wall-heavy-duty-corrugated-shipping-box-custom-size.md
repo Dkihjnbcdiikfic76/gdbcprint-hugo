@@ -2,13 +2,13 @@
 title: "Double Wall Heavy Duty Corrugated Shipping Box Custom Size"
 date: 2026-06-10
 draft: false
-description: "Custom Double Wall Heavy Duty Corrugated Shipping Box Custom Size. ISO 9001 FSC certified paper box manufacturer. MOQ 500-1000 units."
-keywords: "paper box, custom packaging, gift box, ISO certified, FSC"
+description: "Heavy-duty double wall corrugated shipping box in custom sizes for e-commerce FBA, industrial parts, and electronics. BC-flute ECT 44+, crush-resistant, ISTA 1A tested. ISO 9001, FSC."
+keywords: "double wall corrugated box, heavy duty shipping box, custom corrugated mailer, e-commerce shipping box, FBA packaging, BC-flute corrugated, ISTA shipping box, industrial packaging box, corrugated box manufacturer China, FSC shipping box"
 categories: ["corrugated-mailers"]
 params:
   moq: "500-1000"
   price: "0.25-3.00"
-  material: "Greyboard / Art Paper / Kraft"
+  material: "BC-Flute Corrugated / Kraft Liner / 200gsm Test Liner"
   certification: "ISO 9001, FSC"
 ---
 
