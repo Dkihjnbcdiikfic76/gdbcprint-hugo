@@ -20,34 +20,67 @@ An FSC Chain-of-Custody certified kraft paper gift box that proves sustainabilit
 
 ## Manufacturing Specifications
 
-- **Press**: Heidelberg 7+1 UV / KBA 1050 4-color offset with soy-based ink system
-- **Board**: FSC-certified kraft paper 175–400gsm, 100% recycled greyboard option available
-- **Construction**: Die-cut folding carton with precision gluing (Bobst flatbed)
-- **Daily output**: 1.7M color boxes, including dedicated kraft eco line capacity
-- **Ink**: Low-VOC soy-based inks, water-based varnish, heavy-metal-free pigments
-- **Certifications**: ISO 9001:2015, FSC Chain-of-Custody, High-Tech Enterprise
+| Parameter | Specification |
+|-----------|--------------|
+| Press | Heidelberg 7+1 UV / KBA 1050 4-color offset with soy-based ink system |
+| Board | FSC-certified kraft paper 175–400gsm, 100% recycled greyboard option |
+| Construction | Die-cut folding carton with precision gluing (Bobst flatbed) |
+| Daily output | 1.7M color boxes across 4 production lines |
+| Ink | Low-VOC soy-based inks, water-based varnish, heavy-metal-free pigments |
+| Die-cutting | Heidelberg cylinder die-cutter, ±0.3mm tolerance |
+| Gluing | High-speed folder-gluer, crash-lock and auto-lock bottom |
+| Certifications | ISO 9001:2015, FSC Chain-of-Custody, High-Tech Enterprise |
+| Factory | 10,000 sqm main + 8,000 sqm smart factory (2025 expansion) |
 
 ## Customization Options
 
-- **Sizing**: 50 × 50 × 30mm to 500 × 400 × 200mm
-- **Printing**: CMYK offset, 1–4 Pantone spots, flexo for simple designs
-- **Kraft grades**: Natural brown, bleached white, black kraft, recycled speckle
-- **Finishes**: Water-based matte varnish, embossing, debossing, foil stamping on kraft
-- **Closure**: Tuck-top, auto-lock bottom, magnetic flap, jute string tie
-- **Inserts**: Recycled cardboard tray, molded pulp insert, kraft paper cushion
-- **Add-ons**: Cotton/jute ribbon, die-cut handle, window patching with PLA film
+| Category | Available Options |
+|----------|------------------|
+| Sizing | 50 × 50 × 30mm to 500 × 400 × 200mm |
+| Kraft Grades | Natural brown, bleached white, black kraft, recycled speckle |
+| Board Weight | 175gsm (lightweight) to 400gsm (heavy-duty structural) |
+| Printing | CMYK offset, 1–4 Pantone spots, flexo for simple designs |
+| Finishes | Water-based matte varnish, embossing, debossing, foil stamping on kraft |
+| Closure | Tuck-top, auto-lock bottom, magnetic flap, jute/twine string tie |
+| Inserts | Recycled cardboard tray, molded pulp insert, kraft paper cushion, corrugated divider |
+| Add-ons | Cotton/jute ribbon, die-cut handle, window patching with biodegradable PLA film |
+| Lamination | None (natural texture) or water-based matte for added durability |
 
 ## Sustainability & Applications
 
-Ideal for organic cosmetics, artisan foods, handmade crafts, zero-waste brands, subscription boxes, eco-conscious retail, wedding favors, and corporate gift sets targeting ESG-conscious consumers. Every box carries the FSC logo — a credible sustainability signal for your brand.
+Ideal for organic cosmetics, artisan foods, handmade crafts, zero-waste brands, subscription boxes, eco-conscious retail, wedding favors, and corporate gift sets targeting ESG-conscious consumers.
+
+| Industry | Application Examples |
+|----------|---------------------|
+| Organic Cosmetics | Skincare sets, soap gift boxes, natural deodorant packaging, lip balm multi-packs |
+| Artisan Food & Beverage | Craft chocolate boxes, tea sachet cartons, coffee sampler packs, honey gift sets |
+| Handmade & Crafts | Candle gift boxes, jewelry display, ceramic ware packaging, textile presentation |
+| Zero-Waste Retail | Refill product packaging, naked product boxes, plastic-free retail display |
+| Corporate ESG | Employee welcome kits, sustainability report presentation, conference swag boxes |
+| Subscription Boxes | Monthly beauty boxes, snack subscription, eco-product discovery boxes |
+| Wedding & Events | Favor boxes, welcome gift sets, table place-card holders, bridal party gifts |
+
+Every box carries the FSC logo — a credible sustainability signal verified by 3rd-party chain-of-custody audit.
+
+## Production Quality
+
+- **Ink Color**: Spectrophotometer verification against Pantone standards on every production run
+- **Die-cut Precision**: ±0.3mm dimensional tolerance, 100% first-article inspection
+- **Glue Bond**: Peel adhesion test per batch, minimum 2.5N/cm bond strength
+- **Board Consistency**: Moisture content 6–8%, caliper tolerance ±5%
+- **Print Registration**: Automatic register control on KBA 1050, ±0.1mm
+- **FSC Traceability**: Full chain-of-custody documentation from certified mill to finished box
+- **VOC Compliance**: All inks and coatings tested for heavy metals, phthalates, and solvent residues
+- **Biodegradability**: ASTM D6400 / EN 13432 compostable materials available on request
 
 ## Why Bincai
 
 - **22 years** of paper box manufacturing since 2003
-- **18,000 sqm** total facility in Foshan, Guangdong
+- **18,000 sqm** total facility (10,000 main + 8,000 smart factory) in Foshan, Guangdong
 - FSC Chain-of-Custody certified — full material traceability from forest to box
 - Soy-based inks, water-based varnishes, heavy-metal-free pigments
-- **80+** skilled employees, 1.7M boxes daily output
+- **150+** skilled employees, 1.7 million boxes daily output
 - Free physical samples within 5–7 business days, MOQ 500 pcs
-- 10–15 day production lead time
+- 10–15 day production lead time with rush orders available
+- FOB Foshan/Shenzhen with global logistics — serving 40+ countries
 - Contact: +86-18934352881 or qo82@icloud.com
