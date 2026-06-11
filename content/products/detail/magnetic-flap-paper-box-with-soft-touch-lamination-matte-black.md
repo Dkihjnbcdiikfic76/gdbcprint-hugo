@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Magnetic Closure Boxes](/images/cat-magnetic-closure.jpg)
+![Bincai Magnetic Closure Boxes](/images/magnetic-closure-box.jpg)
 
 Magnetic flap paper box with soft touch lamination in matte black — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). 10,000 sqm factory with KBA 1050 4-color and Heidelberg 7+1 UV presses. The soft-touch lamination creates a velvety tactile finish that elevates brand perception while the hidden magnetic flap ensures secure closure and effortless opening. Daily output 1.5 million boxes.
 
