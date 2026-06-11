@@ -84,3 +84,20 @@ Every box carries the FSC logo — a credible sustainability signal verified by 
 - 10–15 day production lead time with rush orders available
 - FOB Foshan/Shenzhen with global logistics — serving 40+ countries
 - Contact: +86-18934352881 or qo82@icloud.com
+
+## Why Choose Bincai
+
+| Feature | Detail |
+|---------|--------|
+| 🏭 Experience | 22 years since 2003 |
+| 📐 Factory | 10,000m² with KBA & Heidelberg presses |
+| ✅ Quality | ISO 9001:2015 certified |
+| 🌿 Eco | FSC certified sustainable materials |
+| 🚀 Capacity | 1.5M boxes daily output |
+| 🌍 Clients | 200+ brands across 50+ countries |
+| 🎨 Custom | Any size, color, finish, insert |
+| 📦 MOQ | 500-1000 pcs, trial orders accepted |
+| 🆓 Sample | Free pre-production sample (freight collect) |
+| ✈️ Shipping | Worldwide DHL/FedEx/UPS/Sea |
+
+[Request your free quote →](/contact/)

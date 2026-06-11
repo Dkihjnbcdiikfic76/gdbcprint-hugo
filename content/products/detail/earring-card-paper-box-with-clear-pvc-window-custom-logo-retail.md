@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Earring Card Box](/images/cat-jewelry-necklace.jpg)
+![Earring Card Box](/images/cat-rigid-jewelry.jpg)
 
 Premium earring card paper box with clear PVC window and custom logo printing — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). Our 18,000 sqm production facility (10,000 sqm primary plant + 8,000 sqm auxiliary workshop) houses KBA 1050 4-color offset and Heidelberg Speedmaster 7+1 UV presses, delivering a daily output of 1.7 million boxes. ISO 9001:2015 and FSC Chain of Custody certified, we produce card-style earring packaging that combines product visibility with brand presentation — the clear PVC window showcases earrings while the printed card surface communicates your brand identity at retail point of sale.
 
@@ -84,3 +84,20 @@ A: Our card boxes are engineered for durability. 300–400 gsm paperboard with m
 
 ## Contact
 [Request free quote →](/contact/) — response within 24 hours. Factory visits welcome in Foshan, Guangdong.
+
+## Why Choose Bincai
+
+| Feature | Detail |
+|---------|--------|
+| 🏭 Experience | 22 years since 2003 |
+| 📐 Factory | 10,000m² with KBA & Heidelberg presses |
+| ✅ Quality | ISO 9001:2015 certified |
+| 🌿 Eco | FSC certified sustainable materials |
+| 🚀 Capacity | 1.5M boxes daily output |
+| 🌍 Clients | 200+ brands across 50+ countries |
+| 🎨 Custom | Any size, color, finish, insert |
+| 📦 MOQ | 500-1000 pcs, trial orders accepted |
+| 🆓 Sample | Free pre-production sample (freight collect) |
+| ✈️ Shipping | Worldwide DHL/FedEx/UPS/Sea |
+
+[Request your free quote →](/contact/)
