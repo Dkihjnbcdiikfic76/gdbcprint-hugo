@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Paper Box](/images/corrugated-mailer.jpg)
+![Bincai Corrugated Mailers](/images/corrugated-mailer.jpg)
 
 Premium printed corrugated box custom logo mailer packaging by Guangdong Bincai Color Printing — Diamond Member on Made-in-China.com. 22 years factory. ISO 9001 & FSC.
 

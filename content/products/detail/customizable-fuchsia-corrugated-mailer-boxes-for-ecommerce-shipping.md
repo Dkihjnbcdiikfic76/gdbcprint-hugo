@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Paper Box](/images/corrugated-mailer.jpg)
+![Bincai Corrugated Mailers](/images/corrugated-mailer.jpg)
 
 Premium customizable fuchsia corrugated mailer boxes for ecommerce shipping by Guangdong Bincai Color Printing — Diamond Member on Made-in-China.com. 22 years factory. ISO 9001 & FSC.
 

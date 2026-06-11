@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Category Image](/images/kraft-eco-box.jpg)
+![Bincai Kraft Eco Boxes](/images/kraft-eco-box.jpg)
 
 ## Product Overview
 

@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Paper Box](/images/cat-fold-cosmetic.jpg)
+![Bincai Folding Cartons](/images/cat-fold-cosmetic.jpg)
 
 Premium printed toy gift box with insert cardboard packaging by Guangdong Bincai Color Printing — Diamond Member on Made-in-China.com. 22 years factory. ISO 9001 & FSC.
 
