@@ -1,0 +1,39 @@
+{{ define "schema" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "{{ if .IsHome }}Organization{{ else if eq .Section "products" }}Product{{ else if eq .Section "blog" }}BlogPosting{{ else }}WebPage{{ end }}",
+  "name": "{{ .Title }}",
+  "description": "{{ .Description }}",
+  "url": "{{ .Permalink }}",
+  {{ if .IsHome }}
+  "address": {"@type":"PostalAddress","addressCountry":"China","addressRegion":"Guangdong","addressLocality":"Foshan","streetAddress":"No. 6-7 Shunyuan North Road, Shunde District"},
+  "contactPoint":{"@type":"ContactPoint","telephone":"+86-18934352881","contactType":"sales","email":"qo82@icloud.com"},
+  "sameAs":["https://bincaipaperbox.en.made-in-china.com"]
+  {{ else if eq .Section "products" }}
+  "brand":{"@type":"Brand","name":"Bincai"},
+  "offers":{"@type":"Offer","price":"{{ .Params.price }}","priceCurrency":"USD","availability":"https://schema.org/InStock","eligibleQuantity":{"@type":"QuantitativeValue","value":"{{ .Params.moq }}","unitCode":"PCS"}},
+  "manufacturer":{"@type":"Organization","name":"Guangdong Bincai Color Printing Co., Ltd."}
+  {{ else if eq .Section "blog" }}
+  "datePublished":"{{ .Date.Format "2006-01-02" }}",
+  "author":{"@type":"Organization","name":"Bincai Paper Box"},
+  "publisher":{"@type":"Organization","name":"Bincai Paper Box"}
+  {{ else }}
+  "about":{"@type":"Organization","name":"Guangdong Bincai Color Printing Co., Ltd."}
+  {{ end }}
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {"@type":"ListItem","position":1,"name":"Home","item":"https://gdbcprint.com/"}
+    {{ if not .IsHome }}
+    ,{"@type":"ListItem","position":2,"name":"{{ .Title }}","item":"{{ .Permalink }}"}
+    {{ end }}
+  ]
+}
+</script>
+{{ end }}
