@@ -1,4 +1,7 @@
 ---
+
+![Electronics Packaging](/images/industry-electronics.jpg)
+
 title: "Custom Electronics Paper Box Packaging"
 date: 2026-06-11
 draft: false

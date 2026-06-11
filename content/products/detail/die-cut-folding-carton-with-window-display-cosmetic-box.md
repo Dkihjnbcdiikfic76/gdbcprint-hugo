@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Folding Cartons](/images/product-fold-2.jpg)
+![Bincai Folding Cartons](/images/cat-fold-cosmetic.jpg)
 
 Custom die-cut folding carton with transparent window display for cosmetics, skincare, and beauty product packaging — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). The precision die-cut window with crystal-clear PET or PVC film lets consumers see the product inside before purchase, driving shelf appeal and retail conversion. Research shows window-packaged cosmetics achieve 24–37% higher in-store purchase intent compared to fully opaque cartons. KBA 1050 4-color offset press and Heidelberg 7+1 UV press deliver vibrant, batch-consistent printing across our 10,000 sqm ISO 9001 & FSC certified factory. The folding carton structure is engineered for flat shipping (reducing freight cost by up to 60%) and easy assembly on automated or manual packaging lines. Daily output capacity of 1.7 million boxes with fully automatic folder-gluer lines and integrated window-patching systems.
 
@@ -100,7 +100,7 @@ Custom die-cut folding carton with transparent window display for cosmetics, ski
 | 📐 Factory | 10,000m² with KBA & Heidelberg presses |
 | ✅ Quality | ISO 9001:2015 certified |
 | 🌿 Eco | FSC certified sustainable materials |
-| 🚀 Capacity | 1.5M boxes daily output |
+| 🚀 Capacity | 1.7M+ color boxes + 220K+ gift boxes daily |
 | 🌍 Clients | 200+ brands across 50+ countries |
 | 🎨 Custom | Any size, color, finish, insert |
 | 📦 MOQ | 500-1000 pcs, trial orders accepted |

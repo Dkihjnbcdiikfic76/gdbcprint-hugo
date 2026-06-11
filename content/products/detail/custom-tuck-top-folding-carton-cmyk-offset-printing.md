@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Folding Cartons](/images/product-fold-1.jpg)
+![Bincai Folding Cartons](/images/cat-fold-cosmetic.jpg)
 
 Premium custom tuck top folding carton with full CMYK offset printing — manufactured by **Guangdong Bincai Color Printing Co., Ltd.**, a full-chain packaging enterprise with 22 years of experience (founded 2003). Our 10,000 sqm Foshan factory operates KBA 1050 4-color and Heidelberg 7+1 UV presses, delivering 1.7 million boxes daily. ISO 9001:2015 and FSC certified. The classic tuck-top design offers secure closure with effortless opening — ideal for retail shelf display where end caps and side panels double as brand real estate.
 
@@ -76,7 +76,7 @@ Premium custom tuck top folding carton with full CMYK offset printing — manufa
 | 📐 Factory | 10,000m² with KBA & Heidelberg presses |
 | ✅ Quality | ISO 9001:2015 certified |
 | 🌿 Eco | FSC certified sustainable materials |
-| 🚀 Capacity | 1.5M boxes daily output |
+| 🚀 Capacity | 1.7M+ color boxes + 220K+ gift boxes daily |
 | 🌍 Clients | 200+ brands across 50+ countries |
 | 🎨 Custom | Any size, color, finish, insert |
 | 📦 MOQ | 500-1000 pcs, trial orders accepted |

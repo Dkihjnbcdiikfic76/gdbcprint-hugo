@@ -3,7 +3,10 @@ title: "Beyond the Print: Die-Cutting, Foil Stamping & Finishing at Bincai"
 date: 2026-06-10
 draft: false
 description: "How Guangdong Bincai uses Bobst flatbed die-cutters, Heidelberg cylinder presses, and precision finishing — foil stamping, embossing, spot UV, soft-touch lamination — to turn printed sheets into luxury paper boxes with ±0.15mm accuracy."
+
 ---
+
+![Bincai Blog](/images/hero-banner-wide.jpg)
 
 If offset printing puts the artwork on paper, **die-cutting and finishing** give the box its soul. At Bincai's 10,000 sqm factory in Foshan, where 1.7 million color boxes and 220,000+ rigid gift boxes ship daily, the difference between "good enough" and "luxury" lives in fractions of a millimeter — and in the right equipment, operated the right way.
 

@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Rigid Gift Boxes](/images/product-rigid-1.jpg)
+![Bincai Rigid Gift Boxes](/images/cat-rigid-others.jpg)
 
 Black magnetic rigid box for electronics premium packaging — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). Engineered for high-end electronics including headphones, smartwatches, mobile accessories, and premium gadgets. The hidden N52 neodymium magnetic flap closure provides a satisfying tactile unboxing experience while protecting contents during shipping. Each box features 2.5mm precision-wrapped greyboard construction, soft-touch matte lamination for luxury tactile feel, and velvet-flocked or custom die-cut foam interior. Produced on German-engineered KBA Rapida 105 4-color offset press (15,000 sheets/hour) and Heidelberg Speedmaster CD 102 7+1 UV press (inter-deck UV curing, single-pass CMYK+spot+coating) with Bobst SP 102 BMA foil stamping (±0.15mm registration). Our 18,000 sqm Foshan facility (10,000 sqm main + 8,000 sqm smart factory commissioned 2025) operates fully automatic rigid box production lines with CNC corner wrapping, delivering 220,000+ rigid boxes daily under ISO 9001:2015 quality management and FSC Chain-of-Custody certification.
 
@@ -70,7 +70,7 @@ Black magnetic rigid box for electronics premium packaging — manufactured by G
 | 📐 Factory | 10,000m² with KBA & Heidelberg presses |
 | ✅ Quality | ISO 9001:2015 certified |
 | 🌿 Eco | FSC certified sustainable materials |
-| 🚀 Capacity | 1.5M boxes daily output |
+| 🚀 Capacity | 1.7M+ color boxes + 220K+ gift boxes daily |
 | 🌍 Clients | 200+ brands across 50+ countries |
 | 🎨 Custom | Any size, color, finish, insert |
 | 📦 MOQ | 500-1000 pcs, trial orders accepted |

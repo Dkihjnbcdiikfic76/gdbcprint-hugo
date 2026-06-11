@@ -3,7 +3,10 @@ title: "Export-Ready Packaging: ISTA Compliance, FBA Sizing, and Flat-Ship Desig
 date: 2026-06-11
 draft: false
 description: "Complete guide to designing export-ready paper box packaging — ISTA/ASTM transit testing standards, Amazon FBA dimensional requirements, flat-ship knock-down design for container efficiency, and how Guangdong Bincai's 22-year manufacturing expertise delivers compliance-ready packaging from Foshan, China."
+
 ---
+
+![Bincai Blog](/images/hero-banner-wide.jpg)
 
 ## Packaging That Survives the Journey — Not Just the Shelf
 

@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Folding Cartons](/images/product-fold-2.jpg)
+![Bincai Folding Cartons](/images/cat-fold-cosmetic.jpg)
 
 Custom folding retail box with hang tab for pegboard and hook display — the workhorse of retail packaging, engineered for shelf efficiency and brand visibility. Manufactured by Guangdong Bincai Color Printing Co., Ltd. on KBA 1050 4-color and Heidelberg 7+1 UV presses in our 10,000 sqm ISO 9001:2015 & FSC certified factory. With 22 years of experience (founded 2003) and a daily output of 1.7 million boxes, we supply hang-tab retail cartons to brands and retailers across 40+ countries.
 
@@ -84,7 +84,7 @@ Hang-tab folding cartons maximize retail space utilization while keeping your br
 | 📐 Factory | 10,000m² with KBA & Heidelberg presses |
 | ✅ Quality | ISO 9001:2015 certified |
 | 🌿 Eco | FSC certified sustainable materials |
-| 🚀 Capacity | 1.5M boxes daily output |
+| 🚀 Capacity | 1.7M+ color boxes + 220K+ gift boxes daily |
 | 🌍 Clients | 200+ brands across 50+ countries |
 | 🎨 Custom | Any size, color, finish, insert |
 | 📦 MOQ | 500-1000 pcs, trial orders accepted |

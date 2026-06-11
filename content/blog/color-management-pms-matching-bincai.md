@@ -6,7 +6,10 @@ description: "How Guangdong Bincai achieves Pantone PMS spot color accuracy with
 categories: ["Manufacturing", "Print Quality", "Color Management"]
 tags: ["PMS matching", "Pantone", "color consistency", "Heidelberg", "KBA 1050", "brand packaging", "offset printing", "ISO 12647-2", "Bincai"]
 keywords: ["PMS color matching", "Pantone spot color", "brand color consistency", "paper box printing", "Heidelberg 7+1 UV", "KBA 1050", "offset color management", "paper packaging manufacturer China", "custom box printing"]
+
 ---
+
+![Bincai Blog](/images/hero-banner-wide.jpg)
 
 # Color Management & PMS Matching: How Bincai Keeps Your Brand Colors Flawless Across 1.7 Million Boxes a Day
 

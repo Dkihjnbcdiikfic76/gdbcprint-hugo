@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Corrugated Mailers](/images/product-corr-1.jpg)
+![Bincai Paper Box](/images/corrugated-mailer.jpg)
 
 ## Product Overview
 

@@ -3,7 +3,10 @@ title: "From Design to Delivery: How a Custom Paper Box Is Made at Bincai"
 date: 2026-06-10
 draft: false
 description: "A step-by-step walkthrough of Bincai's 10,000 sqm custom paper box manufacturing process — design, prepress, offset printing (KBA 1050 + Heidelberg 7+1 UV), die-cutting, gluing, and global shipping."
+
 ---
+
+![Bincai Blog](/images/hero-banner-wide.jpg)
 
 Whether you're launching a new cosmetic line or rebranding a premium spirit, understanding how your packaging is made helps you communicate better with your manufacturer — and get better results. Here's exactly how a custom paper box moves through Bincai's 10,000 sqm factory.
 

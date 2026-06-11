@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Rigid Gift Boxes](/images/product-rigid-2.jpg)
+![Bincai Rigid Gift Boxes](/images/cat-rigid-others.jpg)
 
 Luxury rigid gift box for wine bottle packaging with plush velvet lining interior — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). This premium presentation box elevates single and dual-bottle wine packaging for wineries, distilleries, corporate gifting, and duty-free retail. The rigid greyboard construction (2–3mm thickness over 1,200gsm chipboard) provides superior crush-resistance during transport while delivering a satisfying, weighty unboxing experience that signals luxury. KBA 1050 4-color offset press and Heidelberg 7+1 UV press deliver precision printing across our 10,000 sqm ISO 9001 & FSC certified factory. Daily output capacity of 1.7 million boxes ensures reliable supply for large-volume orders. The velvet-lined bottle cavity is precision die-cut to cradle the bottle securely, preventing movement and label scuffing during shipping. Neodymium N35 magnetic closure provides a flush, silent close with over 1,000 cycles of durability tested.
 
@@ -124,7 +124,7 @@ A: Yes. FSC-certified greyboard, recycled-content board, water-based adhesives, 
 | 📐 Factory | 10,000m² with KBA & Heidelberg presses |
 | ✅ Quality | ISO 9001:2015 certified |
 | 🌿 Eco | FSC certified sustainable materials |
-| 🚀 Capacity | 1.5M boxes daily output |
+| 🚀 Capacity | 1.7M+ color boxes + 220K+ gift boxes daily |
 | 🌍 Clients | 200+ brands across 50+ countries |
 | 🎨 Custom | Any size, color, finish, insert |
 | 📦 MOQ | 500-1000 pcs, trial orders accepted |

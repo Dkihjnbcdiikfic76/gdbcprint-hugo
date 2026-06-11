@@ -16,12 +16,18 @@ menus:
     - name: "Products"
       url: "/products/"
       weight: 1
+    - name: "Categories"
+      url: "/categories/"
+      weight: 2
+    - name: "Industries"
+      url: "/industries/"
+      weight: 3
     - name: "About"
       url: "/about/"
-      weight: 2
+      weight: 4
     - name: "Contact"
       url: "/contact/"
-      weight: 3
+      weight: 5
 
 taxonomies:
   category: categories

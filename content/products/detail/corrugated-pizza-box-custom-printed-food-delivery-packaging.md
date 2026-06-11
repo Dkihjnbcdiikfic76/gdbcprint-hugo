@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Corrugated Mailers](/images/product-corr-1.jpg)
+![Bincai Corrugated Mailers](/images/corrugated-mailer.jpg)
 
 Custom printed corrugated pizza box for food delivery and takeout packaging — manufactured by **Guangdong Bincai Color Printing Co., Ltd.**, a full-chain packaging enterprise with 22 years of experience (founded 2003). Engineered for heat retention, grease resistance, and structural integrity during delivery transport, these corrugated pizza boxes keep pizzas hot, crisp, and presentable from oven to doorstep. Available in standard square formats (8" to 18") plus custom sizes, with single-wall E-flute or B-flute corrugated construction. **KBA 1050** offset and **Heidelberg 7+1 UV** presses print vibrant branding directly onto kraft or white-top liner across our 10,000 sqm **ISO 9001 & FSC certified** factory. Daily output capacity of 1.7 million boxes meets the demands of chain pizzerias and ghost kitchens worldwide.
 
@@ -110,7 +110,7 @@ Contact +86-18934352881 or qo82@icloud.com for custom pizza box design and sampl
 | 📐 Factory | 10,000m² with KBA & Heidelberg presses |
 | ✅ Quality | ISO 9001:2015 certified |
 | 🌿 Eco | FSC certified sustainable materials |
-| 🚀 Capacity | 1.5M boxes daily output |
+| 🚀 Capacity | 1.7M+ color boxes + 220K+ gift boxes daily |
 | 🌍 Clients | 200+ brands across 50+ countries |
 | 🎨 Custom | Any size, color, finish, insert |
 | 📦 MOQ | 500-1000 pcs, trial orders accepted |

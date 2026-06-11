@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-|![Bincai Rigid Gift Boxes](/images/product-rigid-2.jpg)
+|![Bincai Rigid Gift Boxes](/images/cat-rigid-others.jpg)
 
 Two-piece rigid setup box with precision die-cut foam insert for electronics premium packaging — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). 10,000 sqm factory with KBA and Heidelberg presses. Daily output 1.7 million boxes.
 

@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Corrugated Mailers](/images/product-corr-2.jpg)
+![Bincai Corrugated Mailers](/images/corrugated-mailer.jpg)
 
 Double-wall heavy-duty corrugated shipping box engineered for glassware, ceramics, and fragile items — manufactured by **Guangdong Bincai Color Printing Co., Ltd.**, a full-chain packaging enterprise with 22 years of experience (founded 2003). Our 18,000 sqm Foshan facility combines a 10,000 sqm main factory with KBA 1050 4-color and Heidelberg 7+1 UV presses and an 8,000 sqm smart factory (commissioned 2025) featuring dedicated corrugated production lines with automatic flatbed die-cutters. Daily output of 1.7 million boxes with ISO 9001:2015 and FSC Chain-of-Custody certifications. Every box is engineered for ISTA protocol compliance with burst strength testing, edge crush verification, and in-house drop-test certification.
 
@@ -83,7 +83,7 @@ Double-wall heavy-duty corrugated shipping box engineered for glassware, ceramic
 | 📐 Factory | 10,000m² with KBA & Heidelberg presses |
 | ✅ Quality | ISO 9001:2015 certified |
 | 🌿 Eco | FSC certified sustainable materials |
-| 🚀 Capacity | 1.5M boxes daily output |
+| 🚀 Capacity | 1.7M+ color boxes + 220K+ gift boxes daily |
 | 🌍 Clients | 200+ brands across 50+ countries |
 | 🎨 Custom | Any size, color, finish, insert |
 | 📦 MOQ | 500-1000 pcs, trial orders accepted |

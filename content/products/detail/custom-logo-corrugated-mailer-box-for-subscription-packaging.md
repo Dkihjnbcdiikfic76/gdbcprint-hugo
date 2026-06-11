@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Corrugated Mailers](/images/product-corr-1.jpg)
+![Bincai Corrugated Mailers](/images/corrugated-mailer.jpg)
 
 Custom logo corrugated mailer box engineered for subscription box brands that demand a memorable unboxing experience. Manufactured at **Guangdong Bincai Color Printing Co., Ltd.** — a 22-year packaging expert with ISO 9001 & FSC certifications, operating from a 10,000 sqm facility with KBA flexographic and Heidelberg litho-laminated presses. Our dedicated corrugated line produces 500,000 boxes daily. Tear strip opening, self-locking crash-lock bottom, and full-color logo printing transform your shipping box into a brand moment.
 
@@ -77,7 +77,7 @@ Custom logo corrugated mailer box engineered for subscription box brands that de
 | 📐 Factory | 10,000m² with KBA & Heidelberg presses |
 | ✅ Quality | ISO 9001:2015 certified |
 | 🌿 Eco | FSC certified sustainable materials |
-| 🚀 Capacity | 1.5M boxes daily output |
+| 🚀 Capacity | 1.7M+ color boxes + 220K+ gift boxes daily |
 | 🌍 Clients | 200+ brands across 50+ countries |
 | 🎨 Custom | Any size, color, finish, insert |
 | 📦 MOQ | 500-1000 pcs, trial orders accepted |

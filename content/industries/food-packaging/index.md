@@ -1,4 +1,7 @@
 ---
+
+![Food Packaging](/images/industry-food.jpg)
+
 title: "Custom Food Paper Box Packaging"
 date: 2026-06-11
 draft: false

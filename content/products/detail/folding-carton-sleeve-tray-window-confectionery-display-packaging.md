@@ -2,7 +2,7 @@
 title: "Folding Carton Sleeve Tray with Window for Confectionery Display Packaging"
 date: 2026-06-11
 draft: false
-description: "Custom printed folding carton with sliding sleeve + inner tray and die-cut PET window for confectionery, chocolate, and gift food display. KBA 1050 4-color + Heidelberg 7+1 UV presses, gold/silver foil stamping, embossing, soft-touch lamination. Sleeve-tray construction offers premium unboxing experience. 10,000 sqm ISO 9001 & FSC certified factory. 22 years experience, 1.5M+ cartons daily. MOQ 1000."
+description: "Custom printed folding carton with sliding sleeve + inner tray and die-cut PET window for confectionery, chocolate, and gift food display. KBA 1050 4-color + Heidelberg 7+1 UV presses, gold/silver foil stamping, embossing, soft-touch lamination. Sleeve-tray construction offers premium unboxing experience. 10,000 sqm ISO 9001 & FSC certified factory. 22 years experience, 1.7M+ color boxes + 220K+ gift boxes daily. MOQ 1000."
 keywords: "sleeve tray carton, sliding sleeve box, confectionery packaging, chocolate box, window carton box, gift food packaging, sleeve and tray, custom printed sleeve box, display carton, Bincai folding carton, ISO 9001 FSC, KBA offset carton, chocolate packaging China, soft-touch carton, gold foil carton, sliding drawer box, premium confectionery box, 10,000 sqm factory, 22 years manufacturing, 1.7M daily output, OEM carton China, Guangdong packaging factory"
 categories: ["folding-cartons"]
 params:
@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-|![Bincai Folding Cartons](/images/product-fold-2.jpg)
+|![Bincai Folding Cartons](/images/cat-fold-cosmetic.jpg)
 
 Folding carton sleeve tray with window for confectionery display packaging — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). 10,000 sqm factory with KBA and Heidelberg presses. Daily output 1.7 million boxes.
 
@@ -40,7 +40,7 @@ The sleeve-tray combination delivers an elevated unboxing experience — slide t
 - **Window Patching**: Inline PET/PLA film application with food-safe adhesive
 - **Gluing**: Precision folder-gluer for sleeve forming; tray formed on automatic tray erector
 - **Assembly**: Sleeve slides over filled tray; optional shrink-wrap or tamper-evident seal
-- **Daily Capacity**: 1.5 million+ folding cartons per day
+- **Daily Capacity**: 1.7 million+ color boxes + 220K+ gift boxes per day
 - **Lead Time**: 10–15 working days for new tooling; 7–10 days for repeats
 - **MOQ**: 1000–3000 units per design
 

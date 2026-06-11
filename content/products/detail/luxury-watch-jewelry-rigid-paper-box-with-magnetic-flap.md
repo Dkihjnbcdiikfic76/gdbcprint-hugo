@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Rigid Gift Boxes](/images/product-rigid-2.jpg)
+![Bincai Rigid Gift Boxes](/images/cat-rigid-others.jpg)
 
 Luxury watch and jewelry rigid paper box with magnetic flap closure — the definitive premium packaging for timepiece and fine jewelry brands. Manufactured at **Guangdong Bincai Color Printing Co., Ltd.**, a 22-year specialist in rigid luxury boxes (founded 2003). Our 10,000 sqm factory in Foshan operates KBA 1050 4-color and Heidelberg 7+1 UV presses with Bobst foil stamping, producing 220,000+ rigid boxes daily. ISO 9001:2015 and FSC certified. Every box features precision N52 magnetic flap closure, plush velvet or suede interior, and custom watch/jewelry cushion inserts.
 
@@ -78,7 +78,7 @@ Luxury watch and jewelry rigid paper box with magnetic flap closure — the defi
 | 📐 Factory | 10,000m² with KBA & Heidelberg presses |
 | ✅ Quality | ISO 9001:2015 certified |
 | 🌿 Eco | FSC certified sustainable materials |
-| 🚀 Capacity | 1.5M boxes daily output |
+| 🚀 Capacity | 1.7M+ color boxes + 220K+ gift boxes daily |
 | 🌍 Clients | 200+ brands across 50+ countries |
 | 🎨 Custom | Any size, color, finish, insert |
 | 📦 MOQ | 500-1000 pcs, trial orders accepted |

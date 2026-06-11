@@ -1,4 +1,7 @@
 ---
+
+![Cosmetics Packaging](/images/industry-cosmetics.jpg)
+
 title: "Custom Cosmetic Paper Box Packaging"
 date: 2026-06-11
 draft: false
