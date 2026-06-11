@@ -57,4 +57,4 @@ Our production capacity has earned us partnerships with brands across cosmetics,
 
 ---
 
-**[Request a quote](/contact/)** — let us show you what 22 years of manufacturing excellence and 10,000 sqm of production capacity can do for your packaging.
+**[Request a quote](/contact/)** — let us show you what 22 years of manufacturing excellence and 18,000 sqm of production capacity (10,000+8,000 smart factory) can do for your packaging.
