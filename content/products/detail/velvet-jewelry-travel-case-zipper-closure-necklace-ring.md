@@ -16,7 +16,7 @@ params:
 
 ## Product Overview
 
-The Bincai Velvet Jewelry Travel Case solves the universal jewelry traveler's dilemma: how to carry multiple pieces securely without tangling, scratching, or losing small items. Designed with a **full-wrap YKK zipper closure**, elastic retention straps, and a padded center divider, this compact case organizes necklaces, rings, earrings, and bracelets in one portable package. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — an ISO 9001:2015 and FSC Chain-of-Custody certified factory with 22 years of expertise — each travel case undergoes 12-point QC inspection including zipper cycle testing (2,000+ open/close), velvet abrasion resistance (Martindale 50,000+ rubs), and compartment fitment verification. Our 10,000 sqm Foshan plant plus 8,000 sqm smart facility produces 1.5 million+ boxes daily.
+The Bincai Velvet Jewelry Travel Case solves the universal jewelry traveler's dilemma: how to carry multiple pieces securely without tangling, scratching, or losing small items. Designed with a **full-wrap YKK zipper closure**, elastic retention straps, and a padded center divider, this compact case organizes necklaces, rings, earrings, and bracelets in one portable package. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — an ISO 9001:2015 and FSC Chain-of-Custody certified factory with 22 years of expertise — each travel case undergoes 12-point QC inspection including zipper cycle testing (2,000+ open/close), velvet abrasion resistance (Martindale 50,000+ rubs), and compartment fitment verification. Our 10,000 sqm Foshan plant plus 8,000 sqm smart facility produces 1.7 million+ boxes daily.
 
 ## Applications
 
