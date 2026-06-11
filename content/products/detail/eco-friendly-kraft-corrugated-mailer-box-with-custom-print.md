@@ -109,8 +109,8 @@ Our corrugated workflow spans in-house die-cutting, flexo and offset printing, g
 
 For a custom quote or free sample of your corrugated mailer box project, contact our sales team. We provide complimentary structural design, dieline creation, and 3D digital proofs within 24 hours. Let us know your product dimensions, desired print coverage, and closure preference.
 
-- **Email:** sales@gdbcprint.com
-- **Phone:** +86-757-8123-4567
+- **Email:** qo82@icloud.com
+- **Phone:** +86-18934352881
 - **Factory Address:** Bincai Industrial Park, Nanhai District, Foshan City, Guangdong Province, China
 - **Website:** www.gdbcprint.com
 

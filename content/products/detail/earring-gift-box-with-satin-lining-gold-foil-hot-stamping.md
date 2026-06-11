@@ -57,8 +57,8 @@ Our jewelry box line integrates printing, foil stamping, satin lining insertion,
 
 For a custom quote or free sample of your jewelry packaging project, contact our sales team. We provide complimentary 3D structural design, material recommendations, and digital proofs within 24 hours.
 
-- **Email:** sales@gdbcprint.com
-- **Phone:** +86-757-8123-4567
+- **Email:** qo82@icloud.com
+- **Phone:** +86-18934352881
 - **Factory Address:** Bincai Industrial Park, Nanhai District, Foshan City, Guangdong Province, China
 - **Website:** www.gdbcprint.com
 

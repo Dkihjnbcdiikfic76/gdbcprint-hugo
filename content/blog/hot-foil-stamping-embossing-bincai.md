@@ -68,7 +68,7 @@ Debossing is embossing's reverse — the design is pressed *into* the surface ra
 
 ## Bincai's Finishing Arsenal
 
-At our 10,000 sqm Dongguan factory, finishing is not an afterthought — it's a dedicated department with specialized equipment:
+At our 10,000 sqm Foshan factory, finishing is not an afterthought — it's a dedicated department with specialized equipment:
 
 | Equipment | Capability | Daily Output |
 |---|---|---|

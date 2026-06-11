@@ -57,8 +57,8 @@ Our integrated workflow — from prepress and die-making through printing, lamin
 
 For a custom quote on your luxury candle rigid gift box project, reach out to our sales team. We provide free 3D structural design and digital proofs within 24 hours. Specify your desired dimensions, closure type, foam insert layout, and finishing preferences.
 
-- **Email:** sales@gdbcprint.com
-- **Phone:** +86-757-8123-4567
+- **Email:** qo82@icloud.com
+- **Phone:** +86-18934352881
 - **Factory Address:** Bincai Industrial Park, Nanhai District, Foshan City, Guangdong Province, China
 - **Website:** www.gdbcprint.com
 
