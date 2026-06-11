@@ -6,7 +6,7 @@ description: "How our KBA 1050 4-color offset press powers mass production acros
 
 ---
 
-![Bincai Blog](/images/hero-banner-wide.jpg)
+![Bincai Custom Paper Box Manufacturing — Factory ![Bincai Blog] Production](/images/hero-banner-wide.jpg)
 
 Behind every paper box shipped from Guangdong Bincai Color Printing is a manufacturing engine that runs with German precision. At the heart of our 10,000 sqm factory in Dongguan's Pearl River Delta manufacturing hub sits the **KBA 1050 4-color offset press** — a workhorse that anchors our daily output of **1.7 million boxes**.
 

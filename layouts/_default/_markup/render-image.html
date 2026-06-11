@@ -1,0 +1,7 @@
+{{/* Hugo render-image hook — adds lazy loading + async decoding to all content images */}}
+<img src="{{ .Destination | safeURL }}"
+     alt="{{ .Text }}"
+     {{ with .Title }}title="{{ . }}"{{ end }}
+     loading="lazy"
+     decoding="async"
+     style="max-width:100%;height:auto;border-radius:8px">

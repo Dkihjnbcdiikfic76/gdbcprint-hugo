@@ -6,7 +6,7 @@ description: "Complete guide to designing export-ready paper box packaging — I
 
 ---
 
-![Bincai Blog](/images/hero-banner-wide.jpg)
+![Bincai Custom Paper Box Manufacturing — Factory ![Bincai Blog] Production](/images/hero-banner-wide.jpg)
 
 ## Packaging That Survives the Journey — Not Just the Shelf
 

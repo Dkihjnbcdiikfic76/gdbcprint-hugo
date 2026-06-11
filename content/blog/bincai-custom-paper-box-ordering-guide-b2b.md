@@ -6,7 +6,7 @@ description: "Everything international buyers need to know about ordering custom
 
 ---
 
-![Bincai Blog](/images/hero-banner-wide.jpg)
+![Bincai Custom Paper Box Manufacturing — Factory ![Bincai Blog] Production](/images/hero-banner-wide.jpg)
 
 For procurement managers sourcing custom paper packaging from China, the process can feel opaque. What's the minimum order? How long does sampling take? Can I get FSC-certified material? This guide answers those questions using real data from Guangdong Bincai Color Printing — a 22-year manufacturer with ISO 9001 and FSC certification, producing 1.7 million boxes daily from an 18,000 sqm factory in Foshan.
 

@@ -6,7 +6,7 @@ description: "Guangdong Bincai adds 8,000 sqm smart factory in 2025, bringing to
 
 ---
 
-![Bincai Blog](/images/hero-banner-wide.jpg)
+![Bincai Smart Factory Expansion 2025 — 8,000 sqm New Facility](/images/hero-banner-wide.jpg)
 
 ## Meeting Global Demand with Automated Capacity
 
