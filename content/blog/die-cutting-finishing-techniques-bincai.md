@@ -8,7 +8,7 @@ description: "How Guangdong Bincai uses Bobst flatbed die-cutters, Heidelberg cy
 
 ![Bincai Custom Paper Box Manufacturing — Factory & Production](/images/hero-banner-wide.jpg)
 
-If offset printing puts the artwork on paper, **die-cutting and finishing** give the box its soul. At Bincai's 10,000 sqm factory in Foshan, where 1.7 million color boxes and 220,000+ rigid gift boxes ship daily, the difference between "good enough" and "luxury" lives in fractions of a millimeter — and in the right equipment, operated the right way.
+If offset printing puts the artwork on paper, **die-cutting and finishing** give the box its soul. At Bincai's 18,000 sqm factory (10,000+8,000 smart factory) in Foshan, where 1.7 million color boxes and 220,000+ rigid gift boxes ship daily, the difference between "good enough" and "luxury" lives in fractions of a millimeter — and in the right equipment, operated the right way.
 
 ## The Die-Cutting Core: Bobst Flatbed Accuracy
 

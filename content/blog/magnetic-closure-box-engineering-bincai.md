@@ -82,7 +82,7 @@ Every new design undergoes our 7-point closure test:
 | **Magnet grades** | N35, N42, N52 neodymium, ±0.1mm dimensional tolerance |
 | **Wrap options** | 40+ paper stocks, 15+ finishes (foil, spot UV, emboss, deboss, soft-touch, matte/gloss lamination) |
 | **QC testing** | 7-point closure protocol per design |
-| **Capacity** | 220,000+ rigid boxes daily across 10,000 sqm |
+| **Capacity** | 220,000+ rigid boxes daily across 18,000 sqm (10,000+8,000 smart factory) |
 | **Certifications** | ISO 9001:2015, FSC Chain of Custody |
 | **MOQ** | 500 units per design (standard), 200 units (sampling) |
 | **Standard lead time** | 15–20 working days after artwork approval |

@@ -8,7 +8,7 @@ description: "FSC Certified Packaging: What It Means for Your Brand - Guangdong 
 
 ![Bincai Custom Paper Box Manufacturing — Factory & Production](/images/hero-banner-wide.jpg)
 
-Forest Stewardship Council (FSC) certification is the global gold standard for responsible forest management. At Bincai, all our paper packaging can be produced with FSC certified materials — from rigid gift boxes to corrugated mailers to folding cartons. With 22 years of manufacturing experience and a 10,000 sqm factory in Guangdong, we help global brands meet sustainability goals without compromising on quality or cost.
+Forest Stewardship Council (FSC) certification is the global gold standard for responsible forest management. At Bincai, all our paper packaging can be produced with FSC certified materials — from rigid gift boxes to corrugated mailers to folding cartons. With 22 years of manufacturing experience and a 18,000 sqm factory (10,000+8,000 smart factory) in Guangdong, we help global brands meet sustainability goals without compromising on quality or cost.
 
 ## What FSC Certification Means for Packaging
 

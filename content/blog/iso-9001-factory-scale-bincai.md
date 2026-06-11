@@ -8,11 +8,11 @@ description: "Bincai's 18,000 sqm ISO 9001 factory (10,000+8,000 smart factory) 
 
 ![Bincai Custom Paper Box Manufacturing — Factory & Production](/images/hero-banner-wide.jpg)
 
-When you source custom paper boxes from Guangdong Bincai Color Printing, you're not dealing with a small workshop — you're partnering with a 10,000-square-meter, ISO 9001 certified manufacturing facility that produces **over 1.7 million boxes per day**.
+When you source custom paper boxes from Guangdong Bincai Color Printing, you're not dealing with a small workshop — you're partnering with a 18,000 sqm (10,000+8,000 smart factory), ISO 9001 certified manufacturing facility that produces **over 1.7 million boxes per day**.
 
 ## The Scale Advantage
 
-- **10,000 sqm factory floor** — purpose-built for high-volume paper box production with dedicated zones for printing, die-cutting, gluing, and quality inspection
+- **18,000 sqm factory (10,000+8,000 smart factory) floor** — purpose-built for high-volume paper box production with dedicated zones for printing, die-cutting, gluing, and quality inspection
 - **1.7 million boxes daily output** — powered by our KBA 1050 4-color press and Heidelberg Speedmaster 7+1 UV press running in tandem
 - **22 years of continuous operation** — since 2004, we've served brands across North America, Europe, Middle East, and Asia-Pacific
 
