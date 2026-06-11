@@ -9,15 +9,15 @@
 <div style="background:#f5f5f7;border-radius:10px;padding:24px;">
 <h3 style="font-size:15px;font-weight:600;margin-bottom:12px;">Quick Specs</h3>
 <table style="width:100%;font-size:14px;border-collapse:collapse;">
-<tr><td style="padding:5px 0;color:#888;">Material</td><td style="font-weight:500;">{{ .Params.material }}</td></tr>
-<tr><td style="padding:5px 0;color:#888;">MOQ</td><td style="font-weight:500;">{{ .Params.moq }} units</td></tr>
-<tr><td style="padding:5px 0;color:#888;">Price</td><td style="font-weight:500;">${{ .Params.price }}/pc</td></tr>
-<tr><td style="padding:5px 0;color:#888;">Certification</td><td style="font-weight:500;">{{ .Params.certification }}</td></tr>
-<tr><td style="padding:5px 0;color:#888;">Sample</td><td style="font-weight:500;">3-5 days</td></tr>
-<tr><td style="padding:5px 0;color:#888;">Production</td><td style="font-weight:500;">7-15 days</td></tr>
-<tr><td style="padding:5px 0;color:#888;">Printing</td><td style="font-weight:500;">CMYK + Pantone + Foil</td></tr>
-<tr><td style="padding:5px 0;color:#888;">Packing</td><td style="font-weight:500;">Flat/Knockdown/Assembled</td></tr>
-<tr><td style="padding:5px 0;color:#888;">Shipping</td><td style="font-weight:500;">DHL/FedEx/UPS/Sea</td></tr>
+<tr><td style="padding:10px 12px 10px 0;color:#888;">Material</td><td style="font-weight:500;padding:10px 12px;">{{ .Params.material }}</td></tr>
+<tr><td style="padding:10px 12px 10px 0;color:#888;">MOQ</td><td style="font-weight:500;padding:10px 12px;">{{ .Params.moq }} units</td></tr>
+<tr><td style="padding:10px 12px 10px 0;color:#888;">Price</td><td style="font-weight:500;padding:10px 12px;">${{ .Params.price }}/pc</td></tr>
+<tr><td style="padding:10px 12px 10px 0;color:#888;">Certification</td><td style="font-weight:500;padding:10px 12px;">{{ .Params.certification }}</td></tr>
+<tr><td style="padding:10px 12px 10px 0;color:#888;">Sample</td><td style="font-weight:500;padding:10px 12px;">3-5 days</td></tr>
+<tr><td style="padding:10px 12px 10px 0;color:#888;">Production</td><td style="font-weight:500;padding:10px 12px;">7-15 days</td></tr>
+<tr><td style="padding:10px 12px 10px 0;color:#888;">Printing</td><td style="font-weight:500;padding:10px 12px;">CMYK + Pantone + Foil</td></tr>
+<tr><td style="padding:10px 12px 10px 0;color:#888;">Packing</td><td style="font-weight:500;padding:10px 12px;">Flat/Knockdown/Assembled</td></tr>
+<tr><td style="padding:10px 12px 10px 0;color:#888;">Shipping</td><td style="font-weight:500;padding:10px 12px;">DHL/FedEx/UPS/Sea</td></tr>
 </table>
 </div>
 <div style="background:#f5f5f7;border-radius:10px;padding:24px;text-align:center;">
@@ -28,7 +28,8 @@
 </div>
 </div>
 
-<div style="font-size:15px;line-height:1.7;color:#444;">
+<div style="font-size:15px;line-height:1.7;color:#444;max-width:100%;overflow:hidden;">
+<img src="" style="display:none"><style scoped>p img{max-width:100%!important;height:auto!important;border-radius:8px}</style>
 {{ .Content }}
 </div>
 
