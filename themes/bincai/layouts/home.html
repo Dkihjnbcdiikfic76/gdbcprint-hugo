@@ -129,7 +129,7 @@
 <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:16px;">
 {{ range first 3 (where .Site.RegularPages "Section" "blog") }}
 <div class="card" style="padding:0;">
-<img src="{{ with .Params.image }}{{ . }}{{ else }}/images/hero-banner-wide.jpg{{ end }}" alt="{{ $.Title }}" style="width:100%;aspect-ratio:1.8;object-fit:cover;border-radius:12px 12px 0 0;" loading="lazy">
+<img src="{{ with .Params.image }}{{ . }}{{ else }}/images/hero-banner-wide.jpg{{ end }}" alt="{{ .Title }}" style="width:100%;aspect-ratio:1.8;object-fit:cover;border-radius:12px 12px 0 0;" loading="lazy">
 <div style="padding:20px;">
 <h3 style="font-size:15px;font-weight:600;line-height:1.4;margin-bottom:8px;"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
 <p style="font-size:13px;color:#888;line-height:1.5;">{{ .Summary | plainify | truncate 120 }}</p>
