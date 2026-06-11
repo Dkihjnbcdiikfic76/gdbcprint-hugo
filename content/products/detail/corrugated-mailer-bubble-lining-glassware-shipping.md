@@ -87,6 +87,6 @@ Custom corrugated mailer box with integrated bubble lining for glassware and fra
 - **Full in-house**: corrugation → printing → die-cutting → bubble lamination → folding/gluing → QC → packing — no subcontractor delays
 - Direct factory pricing with no middlemen — competitive rates for startup to enterprise volumes
 
-**Guangdong Bincai Color Printing Co., Ltd.** — 22 years. 10,000 sqm. ISO 9001 & FSC certified. Protective packaging engineered for fragile confidence.
+**Guangdong Bincai Color Printing Co., Ltd.** — 22 years. 18,000 sqm (10,000+8,000 smart factory). ISO 9001 & FSC certified. Protective packaging engineered for fragile confidence.
 
 [Request your free quote →](/contact/)

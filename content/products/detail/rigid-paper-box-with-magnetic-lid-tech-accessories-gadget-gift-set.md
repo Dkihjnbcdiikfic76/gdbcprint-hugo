@@ -92,6 +92,6 @@ Custom rigid paper box with magnetic lid for tech accessories and gadget gift se
 - **Soy-based ink** and water-based adhesive options for brands with sustainability procurement policies
 - Free 3D structural design with foam insert CAD and pre-production sampling with Pantone color matching
 
-**Guangdong Bincai Color Printing Co., Ltd.** — 22 years. 10,000 sqm. ISO 9001 & FSC certified. Premium packaging for premium technology.
+**Guangdong Bincai Color Printing Co., Ltd.** — 22 years. 18,000 sqm (10,000+8,000 smart factory). ISO 9001 & FSC certified. Premium packaging for premium technology.
 
 [Request your free quote →](/contact/)

@@ -16,7 +16,7 @@ params:
 
 ## Overview
 
-Guangdong Bincai Color Printing's natural kraft paper gift box with jute ribbon combines rustic elegance with uncompromising sustainability. Raw kraft texture, natural jute tie, soy-based ink printing — every detail communicates eco-conscious quality. FSC certified, fully recyclable, zero plastic. Manufactured in our ISO 9001:2015 certified 10,000 sqm factory with 22 years of expertise and daily output of 1.7 million boxes.
+Guangdong Bincai Color Printing's natural kraft paper gift box with jute ribbon combines rustic elegance with uncompromising sustainability. Raw kraft texture, natural jute tie, soy-based ink printing — every detail communicates eco-conscious quality. FSC certified, fully recyclable, zero plastic. Manufactured in our ISO 9001:2015 certified 18,000 sqm factory (10,000+8,000 smart factory) with 22 years of expertise and daily output of 1.7 million boxes.
 
 ## Applications
 
@@ -73,7 +73,7 @@ Guangdong Bincai Color Printing's natural kraft paper gift box with jute ribbon 
 
 ## Why Bincai
 
-22 years of manufacturing excellence (founded 2003). 10,000 sqm integrated factory in Foshan — Pearl River Delta packaging ecosystem. KBA 1050 4-color + Heidelberg 7+1 UV presses, 150+ skilled craftspeople. Serving 40+ countries with 98%+ on-time delivery.
+22 years of manufacturing excellence (founded 2003). 18,000 sqm (10,000+8,000 smart factory) integrated factory in Foshan — Pearl River Delta packaging ecosystem. KBA 1050 4-color + Heidelberg 7+1 UV presses, 150+ skilled craftspeople. Serving 40+ countries with 98%+ on-time delivery.
 
 [Request free quote & samples →](/contact/) — Response within 24 hours. Factory visits welcome.
 

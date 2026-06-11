@@ -2,7 +2,7 @@
 title: "Luxury Candle Rigid Gift Box with Custom Foam Insert"
 date: 2026-06-10
 draft: false
-description: "Custom luxury candle rigid gift box with precision-cut foam insert. Manufactured on KBA 1050 4-color & Heidelberg 7+1 UV presses in a 10,000 sqm ISO 9001 & FSC certified factory with 22 years experience and 1.7M boxes daily output."
+description: "Custom luxury candle rigid gift box with precision-cut foam insert. Manufactured on KBA 1050 4-color & Heidelberg 7+1 UV presses in a 18,000 sqm (10,000+8,000 smart factory) ISO 9001 & FSC certified factory with 22 years experience and 1.7M boxes daily output."
 keywords: "rigid gift box manufacturer, luxury rigid boxes, custom foam insert packaging, candle gift box wholesale, rigid paper box factory, magnetic closure gift box, custom rigid box printing, premium gift packaging, greyboard rigid box, two-piece gift box"
 categories: ["rigid-gift-boxes"]
 params:
@@ -16,7 +16,7 @@ params:
 
 ## Description
 
-Our luxury candle rigid gift box with custom foam insert delivers premium protection and presentation for high-end candle products. Each box is manufactured in our 10,000 sqm Foshan facility — a fully integrated rigid box production line backed by 22 years of packaging expertise. The rigid construction uses dense greyboard (800–1600 gsm) wrapped in art paper or specialty stock, while the custom-cut foam insert cradles candles securely during transit and retail display.
+Our luxury candle rigid gift box with custom foam insert delivers premium protection and presentation for high-end candle products. Each box is manufactured in our 18,000 sqm Foshan facility (10,000+8,000 smart factory) — a fully integrated rigid box production line backed by 22 years of packaging expertise. The rigid construction uses dense greyboard (800–1600 gsm) wrapped in art paper or specialty stock, while the custom-cut foam insert cradles candles securely during transit and retail display.
 
 We run KBA 1050 4-color offset presses for vibrant CMYK printing and a Heidelberg 7+1 UV press for specialty coatings, soft-touch finishes, and high-gloss spot UV effects. With an ISO 9001 quality management system and FSC chain-of-custody certification, every order meets international standards for quality and sustainability. Our daily output of 1.7 million boxes ensures even large-volume orders ship on time.
 
@@ -41,7 +41,7 @@ Guangdong Bincai Color Printing Co., Ltd. operates one of South China's largest 
 
 | Specification | Detail |
 |---|---|
-| Factory Size | 10,000 sqm |
+| Factory Size | 18,000 sqm (10,000+8,000 smart factory) |
 | Years in Business | 22 years |
 | Daily Output | 1.7 million boxes |
 | Primary Presses | KBA 1050 4-color, Heidelberg 7+1 UV |

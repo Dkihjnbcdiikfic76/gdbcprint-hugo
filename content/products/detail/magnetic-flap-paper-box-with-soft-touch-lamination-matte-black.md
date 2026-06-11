@@ -2,7 +2,7 @@
 title: "Magnetic Flap Paper Box with Soft Touch Lamination Matte Black"
 date: 2026-06-11
 draft: false
-description: "Custom magnetic flap paper box with soft touch lamination matte black. KBA 1050 + Heidelberg 7+1 UV printing, soft-touch coating, hidden magnet closure. ISO 9001 & FSC certified. 22-year Bincai factory, 10,000 sqm, 1.7M daily output. Matte black exterior with velvet-touch finish for premium unboxing. MOQ 500."
+description: "Custom magnetic flap paper box with soft touch lamination matte black. KBA 1050 + Heidelberg 7+1 UV printing, soft-touch coating, hidden magnet closure. ISO 9001 & FSC certified. 22-year Bincai factory, 18,000 sqm (10,000+8,000 smart factory), 1.7M daily output. Matte black exterior with velvet-touch finish for premium unboxing. MOQ 500."
 keywords: "magnetic flap paper box, soft touch lamination, matte black gift box, magnetic closure box, custom rigid box, luxury packaging manufacturer, Bincai"
 categories: ["magnetic-closure-boxes"]
 params:

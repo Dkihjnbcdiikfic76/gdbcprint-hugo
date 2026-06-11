@@ -55,7 +55,7 @@ Magnetic flip-top rigid box for luxury perfume gift set packaging — manufactur
 
 ## Why Bincai for Perfume Gift Boxes
 - **22 years** of luxury rigid box manufacturing
-- **10,000 sqm** integrated factory under one roof
+- **18,000 sqm** integrated factory (10,000+8,000 smart factory) under one roof
 - **1.7 million boxes/day** capacity for reliable delivery
 - Dedicated luxury packaging line with velvet lining expertise
 - Neodymium magnet sourcing with pull-force certification

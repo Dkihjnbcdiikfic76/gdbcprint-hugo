@@ -2,7 +2,7 @@
 title: "FSC Certified Kraft Tray Box with Soy Ink Food-Safe Packaging"
 date: 2026-06-11
 draft: false
-description: "FSC-certified kraft paper tray box with soy-based ink printing for food-safe packaging. Foldable tray design, 100% compostable, no plastic lamination. ISO 9001 & FSC, 10,000 sqm factory, 22 years. Perfect for bakeries, organic food brands, and meal kit delivery."
+description: "FSC-certified kraft paper tray box with soy-based ink printing for food-safe packaging. Foldable tray design, 100% compostable, no plastic lamination. ISO 9001 & FSC, 18,000 sqm factory (10,000+8,000 smart factory), 22 years. Perfect for bakeries, organic food brands, and meal kit delivery."
 keywords: "FSC kraft tray box, soy ink food packaging, compostable tray box, food safe packaging, kraft paper tray, biodegradable food box, organic food packaging, Bincai kraft box, sustainable bakery box, eco food tray, plastic free food packaging, FSC certified food box"
 categories: ["kraft-eco-boxes"]
 params:
@@ -16,7 +16,7 @@ params:
 
 ## Product Overview
 
-The FSC-certified kraft tray box with soy-based ink is purpose-built for food brands that refuse to compromise between sustainability and food safety. Every component — from the FSC Chain-of-Custody certified kraft board to the soy-based offset inks to the water-based adhesive — is food-contact safe and fully compostable in industrial facilities (EN 13432 certified). Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — ISO 9001:2015 and FSC certified with 22 years of packaging expertise — this tray box is printed on our KBA 1050 4-color offset press with vegetable-based inks that contain zero petroleum-derived solvents. Our 10,000 sqm Foshan factory has a dedicated food-grade production zone with positive air pressure, UV-C sterilization, and full material traceability from forest to box.
+The FSC-certified kraft tray box with soy-based ink is purpose-built for food brands that refuse to compromise between sustainability and food safety. Every component — from the FSC Chain-of-Custody certified kraft board to the soy-based offset inks to the water-based adhesive — is food-contact safe and fully compostable in industrial facilities (EN 13432 certified). Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — ISO 9001:2015 and FSC certified with 22 years of packaging expertise — this tray box is printed on our KBA 1050 4-color offset press with vegetable-based inks that contain zero petroleum-derived solvents. Our 18,000 sqm Foshan factory (10,000+8,000 smart factory) has a dedicated food-grade production zone with positive air pressure, UV-C sterilization, and full material traceability from forest to box.
 
 ## Design Features
 

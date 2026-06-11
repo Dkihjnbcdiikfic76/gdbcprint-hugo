@@ -2,7 +2,7 @@
 title: "Magnetic Closure Book-Style Gift Box with Gold Foil Hot Stamping"
 date: 2026-06-10
 draft: false
-description: "Premium magnetic closure book-style gift box with gold foil hot stamping by Bincai. Neodymium magnets, rigid 2mm greyboard, velvet interior. ISO 9001 & FSC. 22yr factory, 10,000 sqm."
+description: "Premium magnetic closure book-style gift box with gold foil hot stamping by Bincai. Neodymium magnets, rigid 2mm greyboard, velvet interior. ISO 9001 & FSC. 22yr factory, 18,000 sqm (10,000+8,000 smart factory)."
 keywords: "magnetic closure box, book-style gift box, gold foil stamping, luxury packaging box, corporate gift box, magnetic rigid box, Bincai packaging, custom book box, neodymium magnet box, foil stamped gift box, premium rigid box, luxury brand packaging"
 categories: ["magnetic-closure-boxes"]
 params:

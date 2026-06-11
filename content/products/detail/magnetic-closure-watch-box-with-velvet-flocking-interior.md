@@ -16,7 +16,7 @@ params:
 
 ## Overview
 
-Guangdong Bincai Color Printing's magnetic closure watch box with velvet flocking interior delivers luxury unboxing for premium timepieces. The 2.5mm rigid board construction, magnetic closure, and plush velvet-flocked interior cradle watches securely while the exterior wrap — available in matte, leatherette, or pearlescent finishes — offers full brand customization. Manufactured in our ISO 9001:2015 certified 10,000 sqm factory with 22 years of expertise and daily output of 1.7 million boxes.
+Guangdong Bincai Color Printing's magnetic closure watch box with velvet flocking interior delivers luxury unboxing for premium timepieces. The 2.5mm rigid board construction, magnetic closure, and plush velvet-flocked interior cradle watches securely while the exterior wrap — available in matte, leatherette, or pearlescent finishes — offers full brand customization. Manufactured in our ISO 9001:2015 certified 18,000 sqm factory (10,000+8,000 smart factory) with 22 years of expertise and daily output of 1.7 million boxes.
 
 ## Applications
 
@@ -64,7 +64,7 @@ Guangdong Bincai Color Printing's magnetic closure watch box with velvet flockin
 
 ## Why Bincai
 
-22 years of luxury packaging manufacturing (founded 2003). 10,000 sqm integrated factory, KBA 1050 + Heidelberg 7+1 UV presses, 150+ skilled staff. ISO 9001 & FSC certified. 98%+ on-time delivery to 40+ countries.
+22 years of luxury packaging manufacturing (founded 2003). 18,000 sqm (10,000+8,000 smart factory) integrated factory, KBA 1050 + Heidelberg 7+1 UV presses, 150+ skilled staff. ISO 9001 & FSC certified. 98%+ on-time delivery to 40+ countries.
 
 [Request free quote & samples →](/contact/) — Response within 24 hours. Factory visits welcome.
 

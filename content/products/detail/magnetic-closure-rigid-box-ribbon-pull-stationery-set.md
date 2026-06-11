@@ -2,7 +2,7 @@
 title: "Magnetic Closure Rigid Box with Ribbon Pull for Luxury Stationery Sets"
 date: 2026-06-11
 draft: false
-description: "Magnetic closure rigid box with satin ribbon pull tab for luxury stationery sets, desk accessories, and executive gifts. KBA 1050 + Heidelberg 7+1 UV, 10,000 sqm factory, ISO 9001 & FSC certified. 22 years experience, daily output 1.7M boxes. MOQ 500–1000, free samples."
+description: "Magnetic closure rigid box with satin ribbon pull tab for luxury stationery sets, desk accessories, and executive gifts. KBA 1050 + Heidelberg 7+1 UV, 18,000 sqm factory (10,000+8,000 smart factory), ISO 9001 & FSC certified. 22 years experience, daily output 1.7M boxes. MOQ 500–1000, free samples."
 keywords: "magnetic closure stationery box, ribbon pull rigid box, luxury desk accessory box, executive gift packaging, custom stationery set box, premium magnetic rigid box, Bincai stationery packaging, ISO 9001 FSC gift box, China luxury box manufacturer"
 categories: ["magnetic-closure-boxes"]
 params:
@@ -14,7 +14,7 @@ params:
 
 ![Bincai Magnetic Closure Boxes](/images/magnetic-closure-box.jpg)
 
-Sophisticated magnetic closure rigid box with satin ribbon pull tab — thoughtfully designed for luxury stationery sets, premium desk accessories, and executive corporate gifts. Crafted at **Guangdong Bincai Color Printing Co., Ltd.** (founded 2003), our 10,000 sqm Foshan factory operates KBA 1050 4-color and Heidelberg 7+1 UV presses, producing 1.7 million boxes daily. ISO 9001:2015 and FSC certified. The integrated ribbon pull-tab provides effortless lid opening while N52 neodymium magnets deliver a refined closure.
+Sophisticated magnetic closure rigid box with satin ribbon pull tab — thoughtfully designed for luxury stationery sets, premium desk accessories, and executive corporate gifts. Crafted at **Guangdong Bincai Color Printing Co., Ltd.** (founded 2003), our 18,000 sqm Foshan factory (10,000+8,000 smart factory) operates KBA 1050 4-color and Heidelberg 7+1 UV presses, producing 1.7 million boxes daily. ISO 9001:2015 and FSC certified. The integrated ribbon pull-tab provides effortless lid opening while N52 neodymium magnets deliver a refined closure.
 
 ## Applications
 - Luxury writing paper and stationery gift sets

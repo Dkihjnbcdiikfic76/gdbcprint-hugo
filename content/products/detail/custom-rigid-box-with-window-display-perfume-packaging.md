@@ -16,7 +16,7 @@ params:
 
 ## Overview
 
-Guangdong Bincai Color Printing's custom rigid box with die-cut window display for perfume packaging merges shelf impact with luxury protection. A precision die-cut window showcases the bottle through optional PET or PLA film, while the rigid board construction, magnetic closure, and velvet/foam interior cradle the product securely. Manufactured in our ISO 9001:2015 certified 10,000 sqm factory — KBA 1050 4-color and Heidelberg 7+1 UV presses, 22 years of expertise, 1.7M daily output.
+Guangdong Bincai Color Printing's custom rigid box with die-cut window display for perfume packaging merges shelf impact with luxury protection. A precision die-cut window showcases the bottle through optional PET or PLA film, while the rigid board construction, magnetic closure, and velvet/foam interior cradle the product securely. Manufactured in our ISO 9001:2015 certified 18,000 sqm factory (10,000+8,000 smart factory) — KBA 1050 4-color and Heidelberg 7+1 UV presses, 22 years of expertise, 1.7M daily output.
 
 ## Applications
 
@@ -65,7 +65,7 @@ Guangdong Bincai Color Printing's custom rigid box with die-cut window display f
 
 ## Why Bincai
 
-22 years of luxury packaging manufacturing (founded 2003), 10,000 sqm integrated factory in Foshan, Pearl River Delta. KBA 1050 + Heidelberg 7+1 UV presses, 150+ skilled staff, ISO 9001 & FSC certified. 98%+ on-time delivery to 40+ countries.
+22 years of luxury packaging manufacturing (founded 2003), 18,000 sqm (10,000+8,000 smart factory) integrated factory in Foshan, Pearl River Delta. KBA 1050 + Heidelberg 7+1 UV presses, 150+ skilled staff, ISO 9001 & FSC certified. 98%+ on-time delivery to 40+ countries.
 
 [Request free quote & samples →](/contact/) — Response within 24 hours. Factory visits welcome.
 

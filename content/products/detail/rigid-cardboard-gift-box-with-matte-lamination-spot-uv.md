@@ -16,7 +16,7 @@ params:
 
 ## Overview
 
-Guangdong Bincai Color Printing's rigid cardboard gift box with matte lamination and spot UV creates a tactile luxury experience through contrast: the velvety soft-touch matte surface meets precisely registered high-gloss spot UV accents. Magnetic closure, custom foam/satin interior, and rigid 2.0–3.0mm board construction convey premium quality. Manufactured in our ISO 9001:2015 certified 10,000 sqm facility with Heidelberg 7+1 UV and KBA 1050 presses — 22 years, daily output 1.7 million boxes.
+Guangdong Bincai Color Printing's rigid cardboard gift box with matte lamination and spot UV creates a tactile luxury experience through contrast: the velvety soft-touch matte surface meets precisely registered high-gloss spot UV accents. Magnetic closure, custom foam/satin interior, and rigid 2.0–3.0mm board construction convey premium quality. Manufactured in our ISO 9001:2015 certified 18,000 sqm facility (10,000+8,000 smart factory) with Heidelberg 7+1 UV and KBA 1050 presses — 22 years, daily output 1.7 million boxes.
 
 ## Applications
 
@@ -65,7 +65,7 @@ Guangdong Bincai Color Printing's rigid cardboard gift box with matte lamination
 
 ## Why Bincai
 
-22 years of luxury packaging manufacturing (founded 2003). 10,000 sqm integrated factory in Foshan, Pearl River Delta packaging hub. KBA 1050 4-color + Heidelberg 7+1 UV presses, 150+ skilled staff. ISO 9001 & FSC certified. 98%+ on-time delivery serving brands in 40+ countries.
+22 years of luxury packaging manufacturing (founded 2003). 18,000 sqm (10,000+8,000 smart factory) integrated factory in Foshan, Pearl River Delta packaging hub. KBA 1050 4-color + Heidelberg 7+1 UV presses, 150+ skilled staff. ISO 9001 & FSC certified. 98%+ on-time delivery serving brands in 40+ countries.
 
 [Request free quote & samples →](/contact/) — Response within 24 hours. Factory visits welcome.
 

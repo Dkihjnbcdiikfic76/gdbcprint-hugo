@@ -2,7 +2,7 @@
 title: "Rigid Paper Box with Silver Hot Stamping for Corporate Gifts"
 date: 2026-06-10
 draft: false
-description: "Custom rigid paper box with silver hot foil stamping for premium corporate gifts. ISO 9001 & FSC certified, KBA 1050 4-color + Heidelberg 7+1 UV + Bobst foil stamping, 10,000 sqm factory, 22 years experience, daily output 1.7M boxes. MOQ 500."
+description: "Custom rigid paper box with silver hot foil stamping for premium corporate gifts. ISO 9001 & FSC certified, KBA 1050 4-color + Heidelberg 7+1 UV + Bobst foil stamping, 18,000 sqm factory (10,000+8,000 smart factory), 22 years experience, daily output 1.7M boxes. MOQ 500."
 keywords: "rigid paper box, silver hot stamping box, corporate gift box, custom rigid box, luxury corporate packaging, silver foil stamping box, premium gift box manufacturer China, Bincai rigid box, corporate packaging factory"
 categories: ["rigid-gift-boxes"]
 params:

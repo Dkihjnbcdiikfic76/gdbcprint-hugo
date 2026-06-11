@@ -2,7 +2,7 @@
 title: "Double Door Rigid Gift Box with Satin Ribbon Magnetic Closure"
 date: 2026-06-10
 draft: false
-description: "Double-door rigid gift box with satin ribbon tie and hidden magnetic closure — premium unboxing for luxury jewelry, corporate gifts, and high-end cosmetics. KBA 1050 & Heidelberg 7+1 UV printed in 10,000 sqm ISO 9001 & FSC certified factory. 22 years experience, 1.7M boxes daily output, MOQ 500."
+description: "Double-door rigid gift box with satin ribbon tie and hidden magnetic closure — premium unboxing for luxury jewelry, corporate gifts, and high-end cosmetics. KBA 1050 & Heidelberg 7+1 UV printed in 18,000 sqm (10,000+8,000 smart factory) ISO 9001 & FSC certified factory. 22 years experience, 1.7M boxes daily output, MOQ 500."
 keywords: "double door rigid gift box, satin ribbon magnetic closure box, luxury rigid gift box manufacturer, premium unboxing packaging, two-door gift box, rigid paper box factory China, custom rigid box hot stamping, corporate gift box ISO FSC, jewelry presentation box, Bincai Guangdong"
 categories: ["rigid-gift-boxes"]
 params:
@@ -16,7 +16,7 @@ params:
 
 ## Description
 
-The double-door rigid gift box with satin ribbon magnetic closure delivers an unforgettable unboxing experience — two side panels open like French doors to reveal the product nestled inside, secured by a luxurious satin ribbon tie with hidden neodymium magnetic closure. Manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003) on our 10,000 sqm factory floor in Foshan, running KBA 1050 4-color offset presses and Heidelberg 7+1 UV press with inline coating. ISO 9001:2015 & FSC certified. Daily output 1.7 million boxes.
+The double-door rigid gift box with satin ribbon magnetic closure delivers an unforgettable unboxing experience — two side panels open like French doors to reveal the product nestled inside, secured by a luxurious satin ribbon tie with hidden neodymium magnetic closure. Manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003) on our 18,000 sqm factory (10,000+8,000 smart factory) floor in Foshan, running KBA 1050 4-color offset presses and Heidelberg 7+1 UV press with inline coating. ISO 9001:2015 & FSC certified. Daily output 1.7 million boxes.
 
 The double-door design creates a dramatic reveal that elevates brand perception — ideal for luxury jewelry sets, premium corporate gifts, high-end cosmetics, collector's edition products, and VIP client presentations. The rigid 2mm greyboard construction provides structural integrity and a substantial hand-feel, while the satin ribbon closure adds tactile elegance. Hidden magnets in the door edges ensure a clean, seamless exterior profile when closed.
 

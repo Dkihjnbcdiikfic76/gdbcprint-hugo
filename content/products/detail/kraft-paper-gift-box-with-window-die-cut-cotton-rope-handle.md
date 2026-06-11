@@ -14,7 +14,7 @@ params:
 
 ![Bincai Kraft Eco Boxes](/images/kraft-eco-box.jpg)
 
-Eco-friendly kraft paper gift box with die-cut display window and cotton rope handle — produced by Guangdong Bincai Color Printing Co., Ltd., a 22-year sustainable packaging manufacturer (founded 2003). Engineered for brands that prioritize environmental responsibility without compromising on presentation, this box combines natural brown kraft paperboard with a precision die-cut window for product visibility and a natural cotton rope carry handle. Printed with soy-based inks on KBA 1050 4-color and Heidelberg 7+1 UV presses. 100% recyclable and FSC certified. Daily output 1.7 million boxes across 10,000 sqm factory.
+Eco-friendly kraft paper gift box with die-cut display window and cotton rope handle — produced by Guangdong Bincai Color Printing Co., Ltd., a 22-year sustainable packaging manufacturer (founded 2003). Engineered for brands that prioritize environmental responsibility without compromising on presentation, this box combines natural brown kraft paperboard with a precision die-cut window for product visibility and a natural cotton rope carry handle. Printed with soy-based inks on KBA 1050 4-color and Heidelberg 7+1 UV presses. 100% recyclable and FSC certified. Daily output 1.7 million boxes across 18,000 sqm factory (10,000+8,000 smart factory).
 
 ## Applications
 - Organic and natural skincare product gift sets
@@ -55,7 +55,7 @@ Eco-friendly kraft paper gift box with die-cut display window and cotton rope ha
 ## Sustainability Credentials
 This box is part of Bincai's Green Packaging Line — FSC-certified kraft paperboard, soy-based printing inks, water-based varnishes (no solvent coatings), natural cotton rope handles, and 100% recyclable after end-of-life. Optional compostable PLA window film available in place of traditional PET. Carbon footprint is tracked from material sourcing (Pearl River Delta mills) through factory production to finished goods.
 
-**Guangdong Bincai Color Printing Co., Ltd.** — 22 years. 10,000 sqm. ISO 9001 & FSC certified. Sustainable packaging made beautifully.
+**Guangdong Bincai Color Printing Co., Ltd.** — 22 years. 18,000 sqm (10,000+8,000 smart factory). ISO 9001 & FSC certified. Sustainable packaging made beautifully.
 
 ## Why Bincai
 

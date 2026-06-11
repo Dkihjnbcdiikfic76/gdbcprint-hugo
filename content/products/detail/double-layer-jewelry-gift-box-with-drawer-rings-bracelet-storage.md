@@ -2,7 +2,7 @@
 title: "Double Layer Jewelry Gift Box with Drawer Rings Bracelet Storage"
 date: 2026-06-11
 draft: false
-description: "Custom double layer jewelry gift box with pull-out drawer for rings, bracelets, and earrings. Velvet-lined compartments, magnetic closure, hot foil stamping. KBA 1050 + Heidelberg 7+1 UV printing. ISO 9001 & FSC certified. 22-year Bincai factory, 10,000 sqm, 1.7M daily output. MOQ 500."
+description: "Custom double layer jewelry gift box with pull-out drawer for rings, bracelets, and earrings. Velvet-lined compartments, magnetic closure, hot foil stamping. KBA 1050 + Heidelberg 7+1 UV printing. ISO 9001 & FSC certified. 22-year Bincai factory, 18,000 sqm (10,000+8,000 smart factory), 1.7M daily output. MOQ 500."
 keywords: "double layer jewelry box, jewelry gift box with drawer, velvet jewelry box, ring bracelet storage box, custom jewelry packaging, luxury jewelry box manufacturer, Bincai"
 categories: ["jewelry-boxes"]
 params:

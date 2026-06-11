@@ -16,7 +16,7 @@ params:
 
 ## Overview
 
-Guangdong Bincai Color Printing's velvet jewelry display box with integrated LED light transforms jewelry presentation. As the magnetic flip lid opens, a soft LED illuminates the velvet interior, making rings and earrings sparkle with gallery-quality lighting. Premium velvet flocking, gold foil branding, and rigid construction create a luxury unboxing experience. Manufactured in our ISO 9001:2015 certified 10,000 sqm factory — 22 years, Heidelberg 7+1 UV + KBA 1050 presses, 1.7M daily output.
+Guangdong Bincai Color Printing's velvet jewelry display box with integrated LED light transforms jewelry presentation. As the magnetic flip lid opens, a soft LED illuminates the velvet interior, making rings and earrings sparkle with gallery-quality lighting. Premium velvet flocking, gold foil branding, and rigid construction create a luxury unboxing experience. Manufactured in our ISO 9001:2015 certified 18,000 sqm factory (10,000+8,000 smart factory) — 22 years, Heidelberg 7+1 UV + KBA 1050 presses, 1.7M daily output.
 
 ## Applications
 
@@ -67,7 +67,7 @@ Guangdong Bincai Color Printing's velvet jewelry display box with integrated LED
 
 ## Why Bincai
 
-22 years of premium packaging manufacturing (founded 2003). 10,000 sqm integrated factory in Foshan, Pearl River Delta packaging hub. KBA 1050 + Heidelberg 7+1 UV presses, 150+ skilled staff. ISO 9001 & FSC certified. Serving 40+ countries with 98%+ on-time delivery.
+22 years of premium packaging manufacturing (founded 2003). 18,000 sqm (10,000+8,000 smart factory) integrated factory in Foshan, Pearl River Delta packaging hub. KBA 1050 + Heidelberg 7+1 UV presses, 150+ skilled staff. ISO 9001 & FSC certified. Serving 40+ countries with 98%+ on-time delivery.
 
 [Request free quote & samples →](/contact/) — Response within 24 hours. Factory visits welcome.
 

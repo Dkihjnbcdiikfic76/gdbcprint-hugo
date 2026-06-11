@@ -16,7 +16,7 @@ params:
 
 ## Overview
 
-Guangdong Bincai Color Printing's heavy-duty corrugated shipping box with custom die-cut foam insert provides military-grade protection for fragile, high-value items during transit. Double-wall BC flute corrugated board (6–7mm thickness) plus precision die-cut EVA or PE foam cradles each item individually. ISTA 1A drop-tested, self-locking bottom, optional tear strip for easy recipient opening. Manufactured in our ISO 9001:2015 certified 10,000 sqm factory — 22 years, KBA 1050 + Heidelberg 7+1 UV presses, 1.7M daily output.
+Guangdong Bincai Color Printing's heavy-duty corrugated shipping box with custom die-cut foam insert provides military-grade protection for fragile, high-value items during transit. Double-wall BC flute corrugated board (6–7mm thickness) plus precision die-cut EVA or PE foam cradles each item individually. ISTA 1A drop-tested, self-locking bottom, optional tear strip for easy recipient opening. Manufactured in our ISO 9001:2015 certified 18,000 sqm factory (10,000+8,000 smart factory) — 22 years, KBA 1050 + Heidelberg 7+1 UV presses, 1.7M daily output.
 
 ## Applications
 
@@ -69,7 +69,7 @@ Guangdong Bincai Color Printing's heavy-duty corrugated shipping box with custom
 
 ## Why Bincai
 
-22 years of protective packaging manufacturing (founded 2003). 10,000 sqm integrated factory in Foshan, Pearl River Delta. KBA 1050 4-color + Heidelberg 7+1 UV presses, in-house die-cutting and foam fabrication. ISO 9001 & FSC certified. ISTA certified testing lab partnerships (SGS, Intertek). 98%+ on-time delivery to 40+ countries.
+22 years of protective packaging manufacturing (founded 2003). 18,000 sqm (10,000+8,000 smart factory) integrated factory in Foshan, Pearl River Delta. KBA 1050 4-color + Heidelberg 7+1 UV presses, in-house die-cutting and foam fabrication. ISO 9001 & FSC certified. ISTA certified testing lab partnerships (SGS, Intertek). 98%+ on-time delivery to 40+ countries.
 
 [Request free quote & samples →](/contact/) — Response within 24 hours. Factory visits welcome.
 

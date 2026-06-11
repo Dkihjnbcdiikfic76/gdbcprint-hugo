@@ -2,7 +2,7 @@
 title: "Velvet Lined Pendant Necklace Gift Box with Magnetic Flip Lid"
 date: 2026-06-10
 draft: false
-description: "Luxury velvet-lined pendant necklace gift box with magnetic flip lid by Bincai. Custom insert, foil stamping, soft-touch finish. ISO 9001 & FSC certified. 22yr factory, 10,000 sqm."
+description: "Luxury velvet-lined pendant necklace gift box with magnetic flip lid by Bincai. Custom insert, foil stamping, soft-touch finish. ISO 9001 & FSC certified. 22yr factory, 18,000 sqm (10,000+8,000 smart factory)."
 keywords: "jewelry box, necklace packaging, velvet lined gift box, magnetic flip lid box, pendant display box, jewelry gift packaging, custom jewelry box, Bincai jewelry box, soft-touch jewelry packaging, foil stamped jewelry box, velvet insert box, bridal jewelry packaging"
 categories: ["jewelry-boxes"]
 params:

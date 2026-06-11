@@ -2,7 +2,7 @@
 title: "White Corrugated Shipping Box for Cosmetic Apparel Delivery"
 date: 2026-06-10
 draft: false
-description: "Custom white corrugated shipping box for cosmetic and apparel e-commerce delivery. Single/double-wall B/C/E-flute, self-locking bottom, tear strip, CMYK flexo + offset printing. ISO 9001 & FSC certified, KBA 1050 + Heidelberg 7+1 UV, 10,000 sqm, 22 years, 1.7M daily output. MOQ 500."
+description: "Custom white corrugated shipping box for cosmetic and apparel e-commerce delivery. Single/double-wall B/C/E-flute, self-locking bottom, tear strip, CMYK flexo + offset printing. ISO 9001 & FSC certified, KBA 1050 + Heidelberg 7+1 UV, 18,000 sqm (10,000+8,000 smart factory), 22 years, 1.7M daily output. MOQ 500."
 keywords: "white corrugated shipping box, cosmetic shipping box, apparel delivery box, e-commerce corrugated box, branded shipping box, custom corrugated mailer, white mailer box China, Bincai corrugated box, cosmetic e-commerce packaging"
 categories: ["corrugated-mailers"]
 params:
@@ -83,7 +83,7 @@ A: Yes, all our corrugated mailers undergo ISTA 1A (10-drop sequence from 760mm)
 
 **Q: What is the lead time for custom corrugated shipping boxes?**
 
-A: Standard configurations (flexo-printed, B/C-flute single-wall): 7–12 working days. Offset litho-laminated configurations (white-top with CMYK): 12–18 working days. Repeat orders with existing tooling: 5–7 working days. We ship worldwide via DHL/FedEx/UPS (express) or sea freight (economy) from our 10,000 sqm factory in Foshan, Guangdong.
+A: Standard configurations (flexo-printed, B/C-flute single-wall): 7–12 working days. Offset litho-laminated configurations (white-top with CMYK): 12–18 working days. Repeat orders with existing tooling: 5–7 working days. We ship worldwide via DHL/FedEx/UPS (express) or sea freight (economy) from our 18,000 sqm factory (10,000+8,000 smart factory) in Foshan, Guangdong.
 
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Factory visits welcome. Send us your product dimensions and shipping requirements for an ISTA-tested sample.

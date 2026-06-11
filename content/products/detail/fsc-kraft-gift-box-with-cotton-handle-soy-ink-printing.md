@@ -2,7 +2,7 @@
 title: "FSC Kraft Gift Box with Cotton Handle Soy Ink Printing"
 date: 2026-06-10
 draft: false
-description: "FSC-certified kraft paper gift box with natural cotton rope handle and soy-based ink printing. 100% recyclable, compostable, plastic-free packaging. ISO 9001 & FSC certified Guangdong factory, 22 years experience, 10,000 sqm facility, daily output 1.7M boxes. MOQ 500 units."
+description: "FSC-certified kraft paper gift box with natural cotton rope handle and soy-based ink printing. 100% recyclable, compostable, plastic-free packaging. ISO 9001 & FSC certified Guangdong factory, 22 years experience, 18,000 sqm facility (10,000+8,000 smart factory), daily output 1.7M boxes. MOQ 500 units."
 keywords: "kraft gift box, FSC certified packaging, soy ink printing, eco-friendly box, cotton handle box, sustainable packaging, plastic-free gift box, Guangdong manufacturer, recyclable paper box"
 categories: ["kraft-eco-boxes"]
 params:
@@ -61,7 +61,7 @@ In-line QC: board caliper verification, FSC chain-of-custody tracking, soy ink a
 - **22 years** manufacturing since 2003 — evolving with sustainability demands
 - **FSC chain-of-custody certified** — traceable from forest to finished box
 - **ISO 9001** quality management — consistent eco-friendly production
-- **10,000 sqm factory** with energy-efficient LED lighting and waste recycling programs
+- **18,000 sqm factory (10,000+8,000 smart factory)** with energy-efficient LED lighting and waste recycling programs
 - **Soy-based ink** printing across all KBA offset presses
 - **Free pre-production samples** in 3-5 working days
 - **FOB Foshan/Shenzhen** — global shipping with sustainable logistics partners

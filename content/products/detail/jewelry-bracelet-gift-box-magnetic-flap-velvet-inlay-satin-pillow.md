@@ -89,6 +89,6 @@ Custom bracelet gift box with magnetic flap closure — manufactured by Guangdon
 - **Foshan, Guangdong** location — 1.5 hours from Guangzhou Baiyun Airport and Shenzhen Yantian Port for efficient logistics
 - Free 3D structural design, Pantone color matching, and pre-production sampling
 
-**Guangdong Bincai Color Printing Co., Ltd.** — 22 years. 10,000 sqm. ISO 9001 & FSC certified. Jewelry packaging that elevates your brand.
+**Guangdong Bincai Color Printing Co., Ltd.** — 22 years. 18,000 sqm (10,000+8,000 smart factory). ISO 9001 & FSC certified. Jewelry packaging that elevates your brand.
 
 [Request your free quote →](/contact/)

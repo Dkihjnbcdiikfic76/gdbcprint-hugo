@@ -2,8 +2,8 @@
 title: "Rigid Gift Box with Ribbon Closure Custom Print Luxury Packaging"
 date: 2026-06-11
 draft: false
-description: "Elegant rigid gift box with satin ribbon closure, full-color CMYK offset printing on KBA 1050 4-color + Heidelberg 7+1 UV presses. Custom die-cut foam/satin/velvet interior, gold/silver foil stamping, embossing, spot UV, soft-touch lamination. 10,000 sqm ISO 9001 & FSC certified factory. 22 years experience, 220,000+ daily rigid box capacity. MOQ 500."
-keywords: "rigid gift box ribbon closure, luxury ribbon gift box, custom rigid box manufacturer, satin ribbon packaging, gold foil rigid box, ribbon tie gift box, premium gift packaging, Bincai rigid box, ISO 9001 FSC gift box, custom insert box, 10,000 sqm factory, 22 years manufacturing, 1.7M daily output, soft-touch lamination, Bobst die-cutting, greyboard rigid box, two-piece gift box, satin ribbon box, velvet interior gift box, OEM rigid box China, Guangdong packaging factory, KBA offset gift box, Heidelberg UV gift box"
+description: "Elegant rigid gift box with satin ribbon closure, full-color CMYK offset printing on KBA 1050 4-color + Heidelberg 7+1 UV presses. Custom die-cut foam/satin/velvet interior, gold/silver foil stamping, embossing, spot UV, soft-touch lamination. 18,000 sqm (10,000+8,000 smart factory) ISO 9001 & FSC certified factory. 22 years experience, 220,000+ daily rigid box capacity. MOQ 500."
+keywords: "rigid gift box ribbon closure, luxury ribbon gift box, custom rigid box manufacturer, satin ribbon packaging, gold foil rigid box, ribbon tie gift box, premium gift packaging, Bincai rigid box, ISO 9001 FSC gift box, custom insert box, 18,000 sqm factory (10,000+8,000 smart factory), 22 years manufacturing, 1.7M daily output, soft-touch lamination, Bobst die-cutting, greyboard rigid box, two-piece gift box, satin ribbon box, velvet interior gift box, OEM rigid box China, Guangdong packaging factory, KBA offset gift box, Heidelberg UV gift box"
 categories: ["rigid-gift-boxes"]
 params:
   moq: "500-1000"

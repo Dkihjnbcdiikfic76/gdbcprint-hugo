@@ -2,7 +2,7 @@
 title: "Book Style Rigid Gift Box with Magnetic Flap Custom Print"
 date: 2026-06-10
 draft: false
-description: "Premium book-style rigid gift box with hidden magnetic flap closure, full-color CMYK offset printing, and custom die-cut foam/satin/velvet insert. KBA 1050 4-color + Heidelberg 7+1 UV presses in 10,000 sqm ISO 9001 & FSC certified factory. Gold/silver foil stamping, embossing, spot UV. 22 years, 220,000+ daily rigid box capacity. MOQ 500."
+description: "Premium book-style rigid gift box with hidden magnetic flap closure, full-color CMYK offset printing, and custom die-cut foam/satin/velvet insert. KBA 1050 4-color + Heidelberg 7+1 UV presses in 18,000 sqm (10,000+8,000 smart factory) ISO 9001 & FSC certified factory. Gold/silver foil stamping, embossing, spot UV. 22 years, 220,000+ daily rigid box capacity. MOQ 500."
 keywords: "book style gift box, magnetic flap rigid box, rigid gift box manufacturer, luxury gift packaging, custom printed rigid box, gold foil rigid box, book-shaped packaging, corporate gift box, perfume gift box, jewelry rigid box, wine gift box, chocolate gift box, KBA offset gift box, Heidelberg UV gift box, Bincai rigid box, ISO 9001 FSC gift box, custom foam insert box, 18,000 sqm factory, 22 years manufacturing, 1.7M daily output, soft-touch lamination, embossed rigid box, luxury unboxing experience, Bobst die-cutting, N52 neodymium magnets, greyboard rigid box, two-piece gift box, satin ribbon box, velvet interior gift box, FSC chain of custody, OEM rigid box China, Guangdong packaging factory"
 categories: ["rigid-gift-boxes"]
 params:

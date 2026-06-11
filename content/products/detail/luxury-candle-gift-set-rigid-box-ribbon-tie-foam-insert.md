@@ -53,7 +53,7 @@ Luxury candle gift set rigid box with ribbon tie closure and custom foam insert 
 
 ## Why Bincai for Candle Gift Boxes
 - **22 years** of rigid box manufacturing expertise
-- **10,000 sqm** integrated factory — printing to assembly under one roof
+- **18,000 sqm** integrated factory (10,000+8,000 smart factory) — printing to assembly under one roof
 - **1.7 million boxes/day** production capacity
 - Dedicated candle packaging line with foam insert expertise
 - Direct manufacturer pricing — no intermediaries

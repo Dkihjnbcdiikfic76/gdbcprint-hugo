@@ -2,7 +2,7 @@
 title: "Magnetic Closure Folding Gift Box Custom Printed CMYK"
 date: 2026-06-10
 draft: false
-description: "Custom magnetic closure folding gift box with CMYK printing. Manufactured on KBA 1050 4-color press & Heidelberg 7+1 UV in a 10,000 sqm ISO 9001 & FSC certified factory. 22 years experience, daily output 1.7M boxes. MOQ 500-1000 units."
+description: "Custom magnetic closure folding gift box with CMYK printing. Manufactured on KBA 1050 4-color press & Heidelberg 7+1 UV in a 18,000 sqm (10,000+8,000 smart factory) ISO 9001 & FSC certified factory. 22 years experience, daily output 1.7M boxes. MOQ 500-1000 units."
 keywords: "magnetic closure box, magnetic folding gift box, custom magnetic closure packaging, luxury magnetic gift box, CMYK printed magnetic box, magnetic rigid box, magnetic flap box, wholesale magnetic closure boxes, premium magnetic gift box packaging, custom printed folding magnetic box"
 categories: ["magnetic-closure-boxes"]
 params:
@@ -80,7 +80,7 @@ Our magnetic closure boxes undergo a comprehensive 12-step QC process:
 | Differentiator | Detail |
 |---|---|
 | **22-Year Specialist** | Dedicated paper packaging manufacturer since 2003 — not a general printer |
-| **10,000 sqm Integrated Facility** | Prepress → printing → die-cutting → gluing → magnetic assembly → QC all in-house |
+| **18,000 sqm Integrated Facility (10,000+8,000 smart factory)** | Prepress → printing → die-cutting → gluing → magnetic assembly → QC all in-house |
 | **KBA 1050 + Heidelberg 7+1** | German-engineered offset presses for best-in-class CMYK reproduction |
 | **1.7 Million Boxes Daily** | Industrial capacity supports enterprise-scale orders with consistent quality |
 | **ISO 9001:2015 + FSC** | Internationally audited quality management and sustainable sourcing |

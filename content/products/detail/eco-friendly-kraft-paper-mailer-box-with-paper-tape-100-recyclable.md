@@ -2,7 +2,7 @@
 title: "Eco-Friendly Kraft Paper Mailer Box with Paper Tape 100 Recyclable"
 date: 2026-06-11
 draft: false
-description: "100% recyclable eco-friendly kraft paper mailer box with paper tape closure — no plastic. FSC-certified kraft, soy-based ink printing, biodegradable adhesive. ISO 9001 & FSC certified. 22-year Bincai factory, 10,000 sqm, 1.7M daily output. Custom stamp logo, tear strip for easy opening. MOQ 500."
+description: "100% recyclable eco-friendly kraft paper mailer box with paper tape closure — no plastic. FSC-certified kraft, soy-based ink printing, biodegradable adhesive. ISO 9001 & FSC certified. 22-year Bincai factory, 18,000 sqm (10,000+8,000 smart factory), 1.7M daily output. Custom stamp logo, tear strip for easy opening. MOQ 500."
 keywords: "eco-friendly mailer box, kraft paper mailer box, 100% recyclable packaging, paper tape box, sustainable packaging, FSC certified box, eco mailer, Bincai"
 categories: ["kraft-eco-boxes"]
 params:

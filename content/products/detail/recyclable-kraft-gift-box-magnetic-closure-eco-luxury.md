@@ -2,7 +2,7 @@
 title: "Recyclable Kraft Paper Magnetic Gift Box — Eco-Luxury Sustainable Packaging"
 date: 2026-06-11
 draft: false
-description: "Recyclable brown kraft paper rigid gift box with magnetic closure for eco-luxury branding. 100% recycled greyboard, natural unbleached kraft wrap, soy-based ink printing, water-based adhesive. Fully recyclable in standard paper streams. ISO 9001 & FSC certified. Bincai — 22-year factory, 10,000 sqm, KBA 1050 4-color + Heidelberg 7+1 UV, 1.7M daily boxes. MOQ 500. Free samples."
+description: "Recyclable brown kraft paper rigid gift box with magnetic closure for eco-luxury branding. 100% recycled greyboard, natural unbleached kraft wrap, soy-based ink printing, water-based adhesive. Fully recyclable in standard paper streams. ISO 9001 & FSC certified. Bincai — 22-year factory, 18,000 sqm (10,000+8,000 smart factory), KBA 1050 4-color + Heidelberg 7+1 UV, 1.7M daily boxes. MOQ 500. Free samples."
 keywords: "recyclable kraft gift box, eco luxury packaging, kraft paper magnetic box, sustainable gift box, soy ink printed box, eco-friendly gift packaging, FSC certified kraft box, Bincai eco box, recyclable rigid box, kraft magnetic closure box, sustainable packaging China, eco luxury rigid box, recycled greyboard box, natural kraft gift packaging, zero waste packaging box, ISO 9001 eco box, compostable packaging box, branded kraft box, KBA 1050 eco box, Heidelberg UV sustainable packaging"
 categories: ["kraft-eco-boxes"]
 params:

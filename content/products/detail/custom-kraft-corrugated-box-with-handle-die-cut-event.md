@@ -16,7 +16,7 @@ params:
 
 ## Overview
 
-Guangdong Bincai Color Printing's custom kraft corrugated box with integrated die-cut handle is engineered for maximum portability and brand impact. The elegant single-piece design eliminates the need for separate bagging — the handle is precision die-cut into the box body during manufacturing. Ideal for event giveaways, trade show swag, retail carry-out, festival merchandise, and DTC (direct-to-consumer) subscription shipments. Manufactured in our ISO 9001:2015 & FSC certified 10,000 sqm factory with 22 years of expertise.
+Guangdong Bincai Color Printing's custom kraft corrugated box with integrated die-cut handle is engineered for maximum portability and brand impact. The elegant single-piece design eliminates the need for separate bagging — the handle is precision die-cut into the box body during manufacturing. Ideal for event giveaways, trade show swag, retail carry-out, festival merchandise, and DTC (direct-to-consumer) subscription shipments. Manufactured in our ISO 9001:2015 & FSC certified 18,000 sqm factory (10,000+8,000 smart factory) with 22 years of expertise.
 
 ## Applications
 
@@ -71,7 +71,7 @@ Guangdong Bincai Color Printing's custom kraft corrugated box with integrated di
 
 ## Why Bincai
 
-22 years of manufacturing excellence. 10,000 sqm facility in Foshan's Pearl River Delta packaging cluster. KBA 1050 4-color + Heidelberg 7+1 UV presses. Full in-house die-cutting, gluing, and assembly lines. 150+ craftspeople. We export to 40+ countries with on-time delivery rate exceeding 98%.
+22 years of manufacturing excellence. 18,000 sqm facility (10,000+8,000 smart factory) in Foshan's Pearl River Delta packaging cluster. KBA 1050 4-color + Heidelberg 7+1 UV presses. Full in-house die-cutting, gluing, and assembly lines. 150+ craftspeople. We export to 40+ countries with on-time delivery rate exceeding 98%.
 
 [Request free quote & samples →](/contact/) — Response within 24 hours. Factory visits welcome.
 

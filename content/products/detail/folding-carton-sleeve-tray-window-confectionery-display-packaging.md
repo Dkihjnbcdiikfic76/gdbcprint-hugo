@@ -2,8 +2,8 @@
 title: "Folding Carton Sleeve Tray with Window for Confectionery Display Packaging"
 date: 2026-06-11
 draft: false
-description: "Custom printed folding carton with sliding sleeve + inner tray and die-cut PET window for confectionery, chocolate, and gift food display. KBA 1050 4-color + Heidelberg 7+1 UV presses, gold/silver foil stamping, embossing, soft-touch lamination. Sleeve-tray construction offers premium unboxing experience. 10,000 sqm ISO 9001 & FSC certified factory. 22 years experience, 1.7M+ color boxes + 220K+ gift boxes daily. MOQ 1000."
-keywords: "sleeve tray carton, sliding sleeve box, confectionery packaging, chocolate box, window carton box, gift food packaging, sleeve and tray, custom printed sleeve box, display carton, Bincai folding carton, ISO 9001 FSC, KBA offset carton, chocolate packaging China, soft-touch carton, gold foil carton, sliding drawer box, premium confectionery box, 10,000 sqm factory, 22 years manufacturing, 1.7M daily output, OEM carton China, Guangdong packaging factory"
+description: "Custom printed folding carton with sliding sleeve + inner tray and die-cut PET window for confectionery, chocolate, and gift food display. KBA 1050 4-color + Heidelberg 7+1 UV presses, gold/silver foil stamping, embossing, soft-touch lamination. Sleeve-tray construction offers premium unboxing experience. 18,000 sqm (10,000+8,000 smart factory) ISO 9001 & FSC certified factory. 22 years experience, 1.7M+ color boxes + 220K+ gift boxes daily. MOQ 1000."
+keywords: "sleeve tray carton, sliding sleeve box, confectionery packaging, chocolate box, window carton box, gift food packaging, sleeve and tray, custom printed sleeve box, display carton, Bincai folding carton, ISO 9001 FSC, KBA offset carton, chocolate packaging China, soft-touch carton, gold foil carton, sliding drawer box, premium confectionery box, 18,000 sqm factory (10,000+8,000 smart factory), 22 years manufacturing, 1.7M daily output, OEM carton China, Guangdong packaging factory"
 categories: ["folding-cartons"]
 params:
   moq: "1000-3000"

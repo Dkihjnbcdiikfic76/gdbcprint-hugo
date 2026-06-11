@@ -16,7 +16,7 @@ params:
 
 ## Product Overview
 
-Custom printed folding carton boxes designed specifically for electronics accessories — USB cables, chargers, earbuds, phone cases, adapters, dongles, and small consumer electronics. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** (founded 2003) in our 10,000 sqm Foshan factory with an additional 8,000 sqm smart factory commissioned in 2025. Our folding cartons combine precision Bobst die-cutting, vibrant CMYK offset printing on KBA 1050 and Heidelberg 7+1 UV presses, and durable board stock to protect and present your products. Daily output of 1.7 million boxes under ISO 9001:2015 quality management and FSC Chain-of-Custody certification.
+Custom printed folding carton boxes designed specifically for electronics accessories — USB cables, chargers, earbuds, phone cases, adapters, dongles, and small consumer electronics. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** (founded 2003) in our 18,000 sqm Foshan factory (10,000+8,000 smart factory) with an additional 8,000 sqm smart factory commissioned in 2025. Our folding cartons combine precision Bobst die-cutting, vibrant CMYK offset printing on KBA 1050 and Heidelberg 7+1 UV presses, and durable board stock to protect and present your products. Daily output of 1.7 million boxes under ISO 9001:2015 quality management and FSC Chain-of-Custody certification.
 
 ## Manufacturing Specifications
 

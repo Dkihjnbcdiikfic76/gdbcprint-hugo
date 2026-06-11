@@ -16,7 +16,7 @@ params:
 
 ## Product Overview
 
-The octagonal (8-sided) rigid gift box breaks free from the rectangular box paradigm with a geometric form that commands attention before it's even opened. Hand-tied with a generous satin ribbon bow and secured by concealed neodymium magnets, this box transforms gift-giving into theater. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — an ISO 9001:2015 and FSC Chain-of-Custody certified factory with 22 years of luxury packaging expertise — each octagonal box requires specialized die-cutting, angle-calibrated wrapping, and precision magnet placement that only experienced artisans can execute. Our 10,000 sqm Foshan factory (plus 8,000 sqm smart factory expansion, 2025) produces 220,000+ rigid boxes daily on Heidelberg 7+1 UV and KBA 1050 presses.
+The octagonal (8-sided) rigid gift box breaks free from the rectangular box paradigm with a geometric form that commands attention before it's even opened. Hand-tied with a generous satin ribbon bow and secured by concealed neodymium magnets, this box transforms gift-giving into theater. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — an ISO 9001:2015 and FSC Chain-of-Custody certified factory with 22 years of luxury packaging expertise — each octagonal box requires specialized die-cutting, angle-calibrated wrapping, and precision magnet placement that only experienced artisans can execute. Our 18,000 sqm Foshan factory (10,000+8,000 smart factory) (plus 8,000 sqm smart factory expansion, 2025) produces 220,000+ rigid boxes daily on Heidelberg 7+1 UV and KBA 1050 presses.
 
 ## Design Features
 

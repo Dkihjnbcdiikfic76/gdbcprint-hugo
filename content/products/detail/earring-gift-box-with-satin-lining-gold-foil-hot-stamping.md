@@ -2,7 +2,7 @@
 title: "Earring Gift Box with Satin Lining Gold Foil Hot Stamping"
 date: 2026-06-10
 draft: false
-description: "Custom earring gift box with satin lining and gold foil hot stamping. Manufactured on KBA 1050 4-color & Heidelberg 7+1 UV presses in a 10,000 sqm ISO 9001 & FSC certified factory with 22 years experience and 1.7M boxes daily output."
+description: "Custom earring gift box with satin lining and gold foil hot stamping. Manufactured on KBA 1050 4-color & Heidelberg 7+1 UV presses in a 18,000 sqm (10,000+8,000 smart factory) ISO 9001 & FSC certified factory with 22 years experience and 1.7M boxes daily output."
 keywords: "jewelry gift box manufacturer, satin lining jewelry box, gold foil hot stamping box, earring packaging box, custom jewelry box wholesale, velvet jewelry box supplier, luxury jewelry packaging, ring gift box factory, necklace gift box, cardboard jewelry box"
 categories: ["jewelry-boxes"]
 params:
@@ -16,7 +16,7 @@ params:
 
 ## Description
 
-Our earring gift box with satin lining and gold foil hot stamping elevates jewelry presentation for retail, e-commerce, and gifting occasions. Each box is produced in our 10,000 sqm Foshan manufacturing facility, where 22 years of packaging expertise meet state-of-the-art offset and finishing technology. The rigid construction provides crush resistance, while the soft satin interior cradles delicate earrings and prevents surface scratches.
+Our earring gift box with satin lining and gold foil hot stamping elevates jewelry presentation for retail, e-commerce, and gifting occasions. Each box is produced in our 18,000 sqm Foshan manufacturing facility (10,000+8,000 smart factory), where 22 years of packaging expertise meet state-of-the-art offset and finishing technology. The rigid construction provides crush resistance, while the soft satin interior cradles delicate earrings and prevents surface scratches.
 
 Printing runs on KBA 1050 4-color offset presses for precise color reproduction of brand artwork, with specialty coatings applied on our Heidelberg 7+1 UV line — delivering soft-touch, high-gloss spot UV, or matte finishes in a single pass. As an ISO 9001:2015 and FSC certified factory producing 1.7 million boxes daily, we handle both boutique small-batch orders and large-scale jewelry brand runs with equal attention to detail.
 
@@ -37,11 +37,11 @@ Custom finishing options include gold, silver, rose gold, or holographic foil ho
 
 ## Factory
 
-Guangdong Bincai Color Printing Co., Ltd. operates a dedicated jewelry packaging production line within our 10,000 sqm Foshan facility:
+Guangdong Bincai Color Printing Co., Ltd. operates a dedicated jewelry packaging production line within our 18,000 sqm Foshan facility (10,000+8,000 smart factory):
 
 | Specification | Detail |
 |---|---|
-| Factory Size | 10,000 sqm |
+| Factory Size | 18,000 sqm (10,000+8,000 smart factory) |
 | Years in Business | 22 years |
 | Daily Output | 1.7 million boxes |
 | Primary Presses | KBA 1050 4-color, Heidelberg 7+1 UV |

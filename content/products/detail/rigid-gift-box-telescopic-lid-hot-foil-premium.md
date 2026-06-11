@@ -14,7 +14,7 @@ params:
 
 ![Bincai Rigid Gift Boxes](/images/cat-rigid-others.jpg)
 
-Custom rigid gift box with telescopic lid and hot foil stamping — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). The telescopic lid design features a two-piece construction where the lid extends partially over the base, creating an elegant reveal effect favored by premium cosmetic, jewelry, and corporate gift brands. Produced on KBA 1050 4-color and Heidelberg 7+1 UV presses across 10,000 sqm factory floor. Daily output 1.7 million boxes.
+Custom rigid gift box with telescopic lid and hot foil stamping — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). The telescopic lid design features a two-piece construction where the lid extends partially over the base, creating an elegant reveal effect favored by premium cosmetic, jewelry, and corporate gift brands. Produced on KBA 1050 4-color and Heidelberg 7+1 UV presses across 18,000 sqm factory (10,000+8,000 smart factory) floor. Daily output 1.7 million boxes.
 
 ## Applications
 - Luxury cosmetic and skincare gift sets
@@ -46,7 +46,7 @@ Custom rigid gift box with telescopic lid and hot foil stamping — manufactured
 - FSC Chain-of-Custody certified for sustainable paper sourcing
 - 100% inline inspection with camera-based defect detection
 - 22 years manufacturing expertise — founded 2003
-- 10,000 sqm factory with 220+ skilled workers
+- 18,000 sqm factory (10,000+8,000 smart factory) with 220+ skilled workers
 
 ## Why Bincai
 - 22 years of rigid box manufacturing specialization

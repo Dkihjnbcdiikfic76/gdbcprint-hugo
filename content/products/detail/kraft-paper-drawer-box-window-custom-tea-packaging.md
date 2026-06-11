@@ -16,7 +16,7 @@ params:
 
 ## Overview
 
-Guangdong Bincai Color Printing's kraft paper drawer box with die-cut PET window delivers a premium unboxing experience for tea and gourmet products while maintaining full eco-credentials. The slide-out drawer design — complete with ribbon pull tab — reveals product through a crystal-clear PET window, combining shelf appeal with sustainable packaging. Every box is manufactured in our ISO 9001:2015 certified 10,000 sqm facility using FSC certified kraft paperboard and biodegradable soy-based inks.
+Guangdong Bincai Color Printing's kraft paper drawer box with die-cut PET window delivers a premium unboxing experience for tea and gourmet products while maintaining full eco-credentials. The slide-out drawer design — complete with ribbon pull tab — reveals product through a crystal-clear PET window, combining shelf appeal with sustainable packaging. Every box is manufactured in our ISO 9001:2015 certified 18,000 sqm facility (10,000+8,000 smart factory) using FSC certified kraft paperboard and biodegradable soy-based inks.
 
 ## Applications
 
@@ -70,7 +70,7 @@ Guangdong Bincai Color Printing's kraft paper drawer box with die-cut PET window
 
 ## Why Bincai
 
-With 22 years of manufacturing excellence and 10,000 sqm of production floor in Foshan's Pearl River Delta packaging hub, we operate KBA 1050 4-color and Heidelberg 7+1 UV presses achieving daily output of 1.7 million color boxes plus 220,000+ rigid gift boxes. Our 150+ skilled craftspeople deliver packaging for brands across 40+ countries.
+With 22 years of manufacturing excellence and 18,000 sqm of production floor (10,000+8,000 smart factory) in Foshan's Pearl River Delta packaging hub, we operate KBA 1050 4-color and Heidelberg 7+1 UV presses achieving daily output of 1.7 million color boxes plus 220,000+ rigid gift boxes. Our 150+ skilled craftspeople deliver packaging for brands across 40+ countries.
 
 [Request free quote & samples →](/contact/) — Response within 24 hours. Factory visits welcome.
 

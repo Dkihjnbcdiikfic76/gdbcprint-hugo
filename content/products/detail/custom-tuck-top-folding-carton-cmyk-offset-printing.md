@@ -2,7 +2,7 @@
 title: "Custom Tuck Top Folding Carton CMYK Offset Printing"
 date: 2026-06-10
 draft: false
-description: "Custom tuck-top folding carton with CMYK offset printing, Pantone spot colors, hot foil stamping, and spot UV. KBA 1050 + Heidelberg 7+1 UV manufactured at 10,000 sqm factory. ISO 9001 & FSC certified, 22 years experience, daily output 1.7M boxes. MOQ 500, free samples."
+description: "Custom tuck-top folding carton with CMYK offset printing, Pantone spot colors, hot foil stamping, and spot UV. KBA 1050 + Heidelberg 7+1 UV manufactured at 18,000 sqm factory (10,000+8,000 smart factory). ISO 9001 & FSC certified, 22 years experience, daily output 1.7M boxes. MOQ 500, free samples."
 keywords: "tuck top folding carton, custom folding carton, CMYK offset printing box, Pantone spot color box, hot foil stamping box, spot UV packaging, retail display carton, folding carton factory China, ISO 9001 FSC packaging, Bincai Color Printing, Guangdong packaging manufacturer, custom tuck-top box, retail folding carton wholesale"
 categories: ["folding-cartons"]
 params:
@@ -14,7 +14,7 @@ params:
 
 ![Bincai Folding Cartons](/images/cat-fold-cosmetic.jpg)
 
-Premium custom tuck top folding carton with full CMYK offset printing — manufactured by **Guangdong Bincai Color Printing Co., Ltd.**, a full-chain packaging enterprise with 22 years of experience (founded 2003). Our 10,000 sqm Foshan factory operates KBA 1050 4-color and Heidelberg 7+1 UV presses, delivering 1.7 million boxes daily. ISO 9001:2015 and FSC certified. The classic tuck-top design offers secure closure with effortless opening — ideal for retail shelf display where end caps and side panels double as brand real estate.
+Premium custom tuck top folding carton with full CMYK offset printing — manufactured by **Guangdong Bincai Color Printing Co., Ltd.**, a full-chain packaging enterprise with 22 years of experience (founded 2003). Our 18,000 sqm Foshan factory (10,000+8,000 smart factory) operates KBA 1050 4-color and Heidelberg 7+1 UV presses, delivering 1.7 million boxes daily. ISO 9001:2015 and FSC certified. The classic tuck-top design offers secure closure with effortless opening — ideal for retail shelf display where end caps and side panels double as brand real estate.
 
 ## Applications
 - Retail shelf packaging for cosmetics, skincare, and personal care products

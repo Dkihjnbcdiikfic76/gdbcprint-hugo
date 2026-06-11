@@ -2,7 +2,7 @@
 title: "Custom Folding Carton with Euro Hang Tab Retail Display"
 date: 2026-06-10
 draft: false
-description: "Custom folding carton with integrated Euro hang tab for retail pegboard display. KBA 1050 4-color offset press, 10,000 sqm factory, 1.7M boxes daily output. ISO 9001 & FSC certified, 22 years manufacturing experience at Bincai Color Printing. MOQ 1000 units."
+description: "Custom folding carton with integrated Euro hang tab for retail pegboard display. KBA 1050 4-color offset press, 18,000 sqm factory (10,000+8,000 smart factory), 1.7M boxes daily output. ISO 9001 & FSC certified, 22 years manufacturing experience at Bincai Color Printing. MOQ 1000 units."
 keywords: "folding carton, euro hang tab, retail display box, pegboard packaging, CMYK offset printing, KBA 1050 press, FSC certified box, Guangdong manufacturer, custom retail packaging"
 categories: ["folding-cartons"]
 params:
@@ -16,7 +16,7 @@ params:
 
 ## Product Overview
 
-A versatile folding carton with an integrated Euro hang tab — engineered for retail pegboard display while maintaining the structural integrity and print quality of premium folding carton packaging. The Euro hang tab is die-cut in-line during production on the **Heidelberg cylinder die-cutter**, ensuring perfect registration with the carton body and zero additional assembly cost. This eliminates the need for secondary retail-ready packaging — the shipping carton IS the display carton. Produced on the **KBA 1050 4-color offset press** at Guangdong Bincai's 10,000 sqm factory, this carton delivers vibrant CMYK printing with optional Pantone spot colors on board stocks from 300gsm to 500gsm. Daily folding carton output reaches 1.7 million units across four high-speed production lines.
+A versatile folding carton with an integrated Euro hang tab — engineered for retail pegboard display while maintaining the structural integrity and print quality of premium folding carton packaging. The Euro hang tab is die-cut in-line during production on the **Heidelberg cylinder die-cutter**, ensuring perfect registration with the carton body and zero additional assembly cost. This eliminates the need for secondary retail-ready packaging — the shipping carton IS the display carton. Produced on the **KBA 1050 4-color offset press** at Guangdong Bincai's 18,000 sqm factory (10,000+8,000 smart factory), this carton delivers vibrant CMYK printing with optional Pantone spot colors on board stocks from 300gsm to 500gsm. Daily folding carton output reaches 1.7 million units across four high-speed production lines.
 
 ## Manufacturing Specifications
 
@@ -92,12 +92,12 @@ In-line quality control at every production stage ensures consistent excellence:
 - **KBA 1050 4-color press** at 15,000 sheets/hour with automatic register — consistent color from first sheet to millionth
 - **Heidelberg 7+1 UV** — specialty finishes (spot UV, metallic, white underprint) that elevate retail shelf appeal
 - **1.7 million boxes daily** total factory output across 4 folding carton production lines
-- **10,000 sqm facility** in Foshan, Guangdong — in-house design, prepress, printing, die-cutting, window patching, and gluing
+- **18,000 sqm facility (10,000+8,000 smart factory)** in Foshan, Guangdong — in-house design, prepress, printing, die-cutting, window patching, and gluing
 - **ISO 9001:2015 & FSC Chain of Custody certified** — internationally audited quality management and sustainable sourcing
 - **Free pre-production samples** in 3–5 working days with physical color proof
 - **FOB Foshan/Shenzhen** — global logistics with 22 years of export experience to 30+ countries
 
-**Guangdong Bincai Color Printing Co., Ltd.** — 22 years. 10,000 sqm. ISO 9001 & FSC certified. Your product deserves to be seen.
+**Guangdong Bincai Color Printing Co., Ltd.** — 22 years. 18,000 sqm (10,000+8,000 smart factory). ISO 9001 & FSC certified. Your product deserves to be seen.
 
 Contact +86-18934352881 or qo82@icloud.com for design consultation and complimentary samples.
 

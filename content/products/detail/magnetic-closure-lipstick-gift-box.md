@@ -2,7 +2,7 @@
 title: "Magnetic Closure Lipstick Gift Box"
 date: 2026-06-11
 draft: false
-description: "Slim magnetic closure lipstick gift box by Bincai. Rigid construction, soft-touch finish, custom foil logo, Heidelberg 7+1 UV press, KBA 1050, 10,000 sqm factory, 22 years experience. ISO 9001 & FSC certified. Daily output 1.7M boxes, MOQ 500."
+description: "Slim magnetic closure lipstick gift box by Bincai. Rigid construction, soft-touch finish, custom foil logo, Heidelberg 7+1 UV press, KBA 1050, 18,000 sqm factory (10,000+8,000 smart factory), 22 years experience. ISO 9001 & FSC certified. Daily output 1.7M boxes, MOQ 500."
 keywords: "magnetic lipstick box, cosmetic packaging box, lipstick gift box, custom magnetic box, beauty packaging, rigid cosmetic box, Bincai packaging, wholesale cosmetic box, custom printed lipstick box, brand cosmetic pack, soft touch box, spot UV packaging, foil stamped cosmetic box, luxury beauty packaging, magnetic closure cosmetic box, ISO certified cosmetic packaging, FSC packaging supplier, Guangdong cosmetic box factory"
 categories: ["magnetic-closure-boxes"]
 params:

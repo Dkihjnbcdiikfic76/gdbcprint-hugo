@@ -14,7 +14,7 @@ params:
 
 ![Bincai Jewelry Boxes](/images/cat-rigid-jewelry.jpg)
 
-Luxury velvet bracelet display box with integrated LED spotlight and satin pillow insert — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). The moment the lid opens, a magnetic reed switch activates the warm LED spotlight, illuminating the bracelet against a backdrop of premium velvet flocking and a sculpted satin pillow. Designed for boutique jewelry brands, high-end retailers, and direct-to-consumer luxury brands that demand showroom-quality presentation at every price point. Produced on KBA 1050 4-color and Heidelberg 7+1 UV presses across 10,000 sqm factory floor. Daily output 1.7 million boxes with 220+ skilled workers.
+Luxury velvet bracelet display box with integrated LED spotlight and satin pillow insert — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). The moment the lid opens, a magnetic reed switch activates the warm LED spotlight, illuminating the bracelet against a backdrop of premium velvet flocking and a sculpted satin pillow. Designed for boutique jewelry brands, high-end retailers, and direct-to-consumer luxury brands that demand showroom-quality presentation at every price point. Produced on KBA 1050 4-color and Heidelberg 7+1 UV presses across 18,000 sqm factory (10,000+8,000 smart factory) floor. Daily output 1.7 million boxes with 220+ skilled workers.
 
 ## Applications
 

@@ -14,7 +14,7 @@ params:
 
 ![Bincai Jewelry Boxes](/images/cat-rigid-jewelry.jpg)
 
-Elegant luxury ring box with magnetic closure and premium velvet flocking interior — designed and manufactured by Guangdong Bincai Color Printing Co., Ltd. With 22 years of jewelry packaging expertise, ISO 9001 & FSC certifications, and precision craftsmanship, we create ring boxes that transform the unboxing moment into a brand experience. Every box is produced on our KBA 1050 4-color and Heidelberg 7+1 UV presses in a 10,000 sqm facility.
+Elegant luxury ring box with magnetic closure and premium velvet flocking interior — designed and manufactured by Guangdong Bincai Color Printing Co., Ltd. With 22 years of jewelry packaging expertise, ISO 9001 & FSC certifications, and precision craftsmanship, we create ring boxes that transform the unboxing moment into a brand experience. Every box is produced on our KBA 1050 4-color and Heidelberg 7+1 UV presses in a 18,000 sqm facility (10,000+8,000 smart factory).
 
 ## Applications
 Our magnetic-closure velvet ring boxes serve diverse jewelry retail and gifting scenarios:

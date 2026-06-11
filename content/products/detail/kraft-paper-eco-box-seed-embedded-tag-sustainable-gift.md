@@ -2,7 +2,7 @@
 title: "Kraft Paper Eco Box with Seed-Embedded Tag Sustainable Gift Packaging"
 date: 2026-06-11
 draft: false
-description: "Biodegradable kraft paper eco gift box with plantable seed-embedded hang tag for sustainable gifting. KBA 1050 + Heidelberg 7+1 UV, 10,000 sqm factory, ISO 9001 & FSC certified. 22 years manufacturing, daily output 1.7M boxes. MOQ 1000 units, free samples."
+description: "Biodegradable kraft paper eco gift box with plantable seed-embedded hang tag for sustainable gifting. KBA 1050 + Heidelberg 7+1 UV, 18,000 sqm factory (10,000+8,000 smart factory), ISO 9001 & FSC certified. 22 years manufacturing, daily output 1.7M boxes. MOQ 1000 units, free samples."
 keywords: "kraft paper eco box, seed-embedded tag gift box, plantable packaging, sustainable gift box FSC, biodegradable kraft box, eco-friendly packaging manufacturer, Bincai kraft box, ISO 9001 FSC sustainable box, China eco packaging factory"
 categories: ["kraft-eco-boxes"]
 params:
@@ -14,7 +14,7 @@ params:
 
 ![Bincai Kraft Eco Boxes](/images/kraft-eco-box.jpg)
 
-Earth-conscious kraft paper eco gift box with a plantable seed-embedded hang tag — packaging that gives back to the planet after unboxing. Produced at **Guangdong Bincai Color Printing Co., Ltd.** (founded 2003), our Foshan factory spans 10,000 sqm with KBA 1050 4-color and Heidelberg 7+1 UV presses, delivering 1.7 million boxes daily. ISO 9001:2015 and FSC certified. Printed with soy-based inks on FSC-certified kraft paperboard. The detachable hang tag is embedded with wildflower seeds — customers plant it and grow flowers, transforming packaging waste into blooming gardens.
+Earth-conscious kraft paper eco gift box with a plantable seed-embedded hang tag — packaging that gives back to the planet after unboxing. Produced at **Guangdong Bincai Color Printing Co., Ltd.** (founded 2003), our Foshan factory spans 18,000 sqm (10,000+8,000 smart factory) with KBA 1050 4-color and Heidelberg 7+1 UV presses, delivering 1.7 million boxes daily. ISO 9001:2015 and FSC certified. Printed with soy-based inks on FSC-certified kraft paperboard. The detachable hang tag is embedded with wildflower seeds — customers plant it and grow flowers, transforming packaging waste into blooming gardens.
 
 ## Applications
 - Sustainable brand and eco-conscious retail gift packaging

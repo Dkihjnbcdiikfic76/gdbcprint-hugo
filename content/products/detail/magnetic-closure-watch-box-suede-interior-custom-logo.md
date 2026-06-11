@@ -16,7 +16,7 @@ params:
 
 ## Overview
 
-Guangdong Bincai Color Printing's magnetic closure watch box with suede interior delivers understated luxury for discerning watch brands. The premium suede microfiber lining — softer and more durable than flocking — cradles timepieces without risk of micro-scratches. Rigid 2.5mm board, magnetic closure, removable watch pillow, and full custom logo options. Manufactured in our ISO 9001:2015 certified 10,000 sqm factory — 22 years, Heidelberg 7+1 UV + KBA 1050 presses, 1.7M daily output.
+Guangdong Bincai Color Printing's magnetic closure watch box with suede interior delivers understated luxury for discerning watch brands. The premium suede microfiber lining — softer and more durable than flocking — cradles timepieces without risk of micro-scratches. Rigid 2.5mm board, magnetic closure, removable watch pillow, and full custom logo options. Manufactured in our ISO 9001:2015 certified 18,000 sqm factory (10,000+8,000 smart factory) — 22 years, Heidelberg 7+1 UV + KBA 1050 presses, 1.7M daily output.
 
 ## Applications
 
@@ -65,7 +65,7 @@ Guangdong Bincai Color Printing's magnetic closure watch box with suede interior
 
 ## Why Bincai
 
-22 years of luxury packaging manufacturing (founded 2003). 10,000 sqm integrated factory in Foshan, Pearl River Delta packaging hub. KBA 1050 + Heidelberg 7+1 UV presses, 150+ skilled staff. ISO 9001 & FSC certified. Serving 40+ countries with 98%+ on-time delivery.
+22 years of luxury packaging manufacturing (founded 2003). 18,000 sqm (10,000+8,000 smart factory) integrated factory in Foshan, Pearl River Delta packaging hub. KBA 1050 + Heidelberg 7+1 UV presses, 150+ skilled staff. ISO 9001 & FSC certified. Serving 40+ countries with 98%+ on-time delivery.
 
 [Request free quote & samples →](/contact/) — Response within 24 hours. Factory visits welcome.
 

@@ -16,7 +16,7 @@ params:
 
 ## Overview
 
-Guangdong Bincai Color Printing's recyclable kraft cardboard box with soy ink printing represents the purest expression of sustainable packaging. Every component — from the FSC certified kraft paperboard and recycled greyboard core to the soy-based inks and water-based adhesives — is chosen for end-of-life recyclability and biodegradability. Zero plastic. Zero solvent emissions. Full compostability in industrial facilities. Manufactured in our ISO 9001:2015 certified 10,000 sqm factory backed by 22 years of expertise.
+Guangdong Bincai Color Printing's recyclable kraft cardboard box with soy ink printing represents the purest expression of sustainable packaging. Every component — from the FSC certified kraft paperboard and recycled greyboard core to the soy-based inks and water-based adhesives — is chosen for end-of-life recyclability and biodegradability. Zero plastic. Zero solvent emissions. Full compostability in industrial facilities. Manufactured in our ISO 9001:2015 certified 18,000 sqm factory (10,000+8,000 smart factory) backed by 22 years of expertise.
 
 ## Applications
 
@@ -73,7 +73,7 @@ Guangdong Bincai Color Printing's recyclable kraft cardboard box with soy ink pr
 
 ## Why Bincai
 
-With 22 years of manufacturing excellence (founded 2003), we operate a 10,000 sqm fully integrated facility in Foshan, China — the heart of the Pearl River Delta packaging ecosystem. Our KBA 1050 4-color and Heidelberg 7+1 UV presses achieve daily output exceeding 1.7 million boxes, supported by 150+ skilled craftspeople. We serve brands in 40+ countries with a 98%+ on-time delivery rate.
+With 22 years of manufacturing excellence (founded 2003), we operate a 18,000 sqm fully integrated facility (10,000+8,000 smart factory) in Foshan, China — the heart of the Pearl River Delta packaging ecosystem. Our KBA 1050 4-color and Heidelberg 7+1 UV presses achieve daily output exceeding 1.7 million boxes, supported by 150+ skilled craftspeople. We serve brands in 40+ countries with a 98%+ on-time delivery rate.
 
 [Request free quote & samples →](/contact/) — Response within 24 hours. Factory visits welcome.
 

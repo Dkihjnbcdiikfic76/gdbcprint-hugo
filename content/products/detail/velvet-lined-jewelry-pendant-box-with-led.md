@@ -2,7 +2,7 @@
 title: "Velvet Lined Jewelry Pendant Box with LED"
 date: 2026-06-11
 draft: false
-description: "Premium velvet-lined jewelry pendant box with built-in LED light by Bincai. Magnetic reed switch auto-illumination, KBA 1050 4-color press, Heidelberg 7+1 UV, 10,000 sqm factory, 22 years experience. ISO 9001 & FSC certified. Daily output 1.7M boxes. Free samples."
+description: "Premium velvet-lined jewelry pendant box with built-in LED light by Bincai. Magnetic reed switch auto-illumination, KBA 1050 4-color press, Heidelberg 7+1 UV, 18,000 sqm factory (10,000+8,000 smart factory), 22 years experience. ISO 9001 & FSC certified. Daily output 1.7M boxes. Free samples."
 keywords: "jewelry pendant box, LED jewelry box, velvet lined box, necklace display box, custom jewelry packaging, rigid jewelry box, Bincai jewelry box, lighted display box, wholesale jewelry packaging, branded jewelry case, LED pendant box, magnetic closure jewelry box, foil stamped box, luxury necklace box, illuminated gift box, ISO certified jewelry packaging, FSC jewelry box, Guangdong jewelry box factory"
 categories: ["jewelry-boxes"]
 params:

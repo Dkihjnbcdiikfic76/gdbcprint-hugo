@@ -2,7 +2,7 @@
 title: "Custom Folding Retail Box with Hang Tab Display Packaging"
 date: 2026-06-10
 draft: false
-description: "Custom folding retail box with hang tab for pegboard display — CMYK offset printing on KBA 1050 + Heidelberg 7+1 UV. ISO 9001 & FSC certified, 22 years experience, 10,000 sqm factory, 1.7M boxes daily, MOQ 500."
+description: "Custom folding retail box with hang tab for pegboard display — CMYK offset printing on KBA 1050 + Heidelberg 7+1 UV. ISO 9001 & FSC certified, 22 years experience, 18,000 sqm factory (10,000+8,000 smart factory), 1.7M boxes daily, MOQ 500."
 keywords: "folding retail box with hang tab, pegboard display packaging, hang tab carton manufacturer, retail folding box China, Euro slot packaging, custom retail display box, Bincai folding carton, hang hole display box, CMYK offset retail packaging, ISO 9001 FSC carton, Guangdong paper box factory"
 categories: ["folding-cartons"]
 params:
@@ -14,7 +14,7 @@ params:
 
 ![Bincai Folding Cartons](/images/cat-fold-cosmetic.jpg)
 
-Custom folding retail box with hang tab for pegboard and hook display — the workhorse of retail packaging, engineered for shelf efficiency and brand visibility. Manufactured by Guangdong Bincai Color Printing Co., Ltd. on KBA 1050 4-color and Heidelberg 7+1 UV presses in our 10,000 sqm ISO 9001:2015 & FSC certified factory. With 22 years of experience (founded 2003) and a daily output of 1.7 million boxes, we supply hang-tab retail cartons to brands and retailers across 40+ countries.
+Custom folding retail box with hang tab for pegboard and hook display — the workhorse of retail packaging, engineered for shelf efficiency and brand visibility. Manufactured by Guangdong Bincai Color Printing Co., Ltd. on KBA 1050 4-color and Heidelberg 7+1 UV presses in our 18,000 sqm (10,000+8,000 smart factory) ISO 9001:2015 & FSC certified factory. With 22 years of experience (founded 2003) and a daily output of 1.7 million boxes, we supply hang-tab retail cartons to brands and retailers across 40+ countries.
 
 ## Applications
 

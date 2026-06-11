@@ -2,7 +2,7 @@
 title: "FSC Certified Kraft Paper Box with Window Food Packaging"
 date: 2026-06-10
 draft: false
-description: "FSC certified kraft paper box with PET window for food packaging. KBA 1050 4-color press, Heidelberg 7+1 UV, 10,000 sqm factory. ISO 9001 & FSC Chain-of-Custody certified. 22 years manufacturing, daily output 1.7M boxes. Food-safe inks, MOQ 500."
+description: "FSC certified kraft paper box with PET window for food packaging. KBA 1050 4-color press, Heidelberg 7+1 UV, 18,000 sqm factory (10,000+8,000 smart factory). ISO 9001 & FSC Chain-of-Custody certified. 22 years manufacturing, daily output 1.7M boxes. Food-safe inks, MOQ 500."
 keywords: "FSC certified kraft box, kraft paper window box, food packaging box, eco-friendly food carton, biodegradable window box, sustainable food packaging, kraft window carton, FSC food box China, Bincai kraft packaging, ISO certified food box"
 categories: ["kraft-eco-boxes"]
 params:
@@ -14,7 +14,7 @@ params:
 
 ![Bincai Kraft Eco Boxes](/images/kraft-eco-box.jpg)
 
-FSC certified kraft paper box with clear PET window for food packaging — designed for bakeries, confectionery brands, and organic food companies seeking sustainable packaging with product visibility. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** (founded 2003) in a 10,000 sqm ISO 9001 and FSC certified factory. Printed on KBA 1050 4-color and Heidelberg 7+1 UV presses with food-safe, low-migration inks. 22 years of expertise delivering 1.7 million boxes daily to clients in 40+ countries.
+FSC certified kraft paper box with clear PET window for food packaging — designed for bakeries, confectionery brands, and organic food companies seeking sustainable packaging with product visibility. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** (founded 2003) in a 18,000 sqm (10,000+8,000 smart factory) ISO 9001 and FSC certified factory. Printed on KBA 1050 4-color and Heidelberg 7+1 UV presses with food-safe, low-migration inks. 22 years of expertise delivering 1.7 million boxes daily to clients in 40+ countries.
 
 ## Applications
 - Bakery and pastry takeaway boxes (croissants, donuts, cookies, muffins)
@@ -59,7 +59,7 @@ FSC certified kraft paper box with clear PET window for food packaging — desig
 - 100% FSC certified kraft paper with full chain-of-custody documentation
 - Soy-based and water-based inks — biodegradable and renewable
 - Recyclable kraft board (repulpable); PLA window option for full compostability
-- 10,000 sqm factory with energy-efficient LED lighting and waste paper recycling system
+- 18,000 sqm factory (10,000+8,000 smart factory) with energy-efficient LED lighting and waste paper recycling system
 - Carbon-conscious manufacturing with optimized logistics from Foshan/Shenzhen ports
 
 ## Factory

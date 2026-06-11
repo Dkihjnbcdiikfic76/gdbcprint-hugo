@@ -16,7 +16,7 @@ params:
 
 ## Product Overview
 
-Custom printed corrugated shipping mailer boxes engineered for e-commerce fulfillment — the workhorse of direct-to-consumer shipping. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** in our 10,000 sqm Foshan facility, these mailers combine corrugated strength with high-quality flexo or offset printing, turning your shipping box into a branded unboxing experience. Available in single-wall, double-wall, and self-sealing configurations.
+Custom printed corrugated shipping mailer boxes engineered for e-commerce fulfillment — the workhorse of direct-to-consumer shipping. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** in our 18,000 sqm Foshan facility (10,000+8,000 smart factory), these mailers combine corrugated strength with high-quality flexo or offset printing, turning your shipping box into a branded unboxing experience. Available in single-wall, double-wall, and self-sealing configurations.
 
 ## Manufacturing Specifications
 

@@ -2,7 +2,7 @@
 title: "Magnetic Closure Luxury Rigid Gift Box Custom Logo Hot Stamping"
 date: 2026-06-10
 draft: false
-description: "Luxury magnetic closure rigid gift box with custom logo hot foil stamping. KBA 1050 + Heidelberg 7+1 UV presses, 10,000 sqm factory, ISO 9001 & FSC certified. 22 years manufacturing since 2003, daily output 1.7M boxes. MOQ 500–1000 units, free samples."
+description: "Luxury magnetic closure rigid gift box with custom logo hot foil stamping. KBA 1050 + Heidelberg 7+1 UV presses, 18,000 sqm factory (10,000+8,000 smart factory), ISO 9001 & FSC certified. 22 years manufacturing since 2003, daily output 1.7M boxes. MOQ 500–1000 units, free samples."
 keywords: "magnetic closure rigid gift box, luxury rigid paper box, magnetic flap gift box, custom logo hot stamping box, gold foil rigid box, premium gift packaging box, rigid magnetic box manufacturer, Bincai rigid box, ISO 9001 FSC gift box, China luxury packaging factory"
 categories: ["rigid-gift-boxes"]
 params:
@@ -14,7 +14,7 @@ params:
 
 ![Bincai Rigid Gift Boxes](/images/cat-rigid-others.jpg)
 
-Luxury magnetic closure rigid gift box with custom logo hot foil stamping — crafted at **Guangdong Bincai Color Printing Co., Ltd.**, a full-chain paper box manufacturer with 22 years of rigid box expertise (founded 2003). Our 10,000 sqm factory in Foshan operates KBA 1050 4-color and Heidelberg 7+1 UV presses, producing 1.7 million boxes daily. ISO 9001:2015 and FSC certified. Every magnetic closure box features precision-aligned N52-grade neodymium magnets for a satisfying snap-shut action.
+Luxury magnetic closure rigid gift box with custom logo hot foil stamping — crafted at **Guangdong Bincai Color Printing Co., Ltd.**, a full-chain paper box manufacturer with 22 years of rigid box expertise (founded 2003). Our 18,000 sqm factory (10,000+8,000 smart factory) in Foshan operates KBA 1050 4-color and Heidelberg 7+1 UV presses, producing 1.7 million boxes daily. ISO 9001:2015 and FSC certified. Every magnetic closure box features precision-aligned N52-grade neodymium magnets for a satisfying snap-shut action.
 
 ## Applications
 - Luxury corporate gift packaging for premium brands

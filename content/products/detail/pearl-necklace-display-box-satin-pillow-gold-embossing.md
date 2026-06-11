@@ -16,7 +16,7 @@ params:
 
 ## Product Overview
 
-The Bincai Pearl Necklace Display Box is engineered for jewelry retailers who need premium presentation for high-value pearl strands, pendant necklaces, and heirloom pieces. The removable satin pillow cradles the necklace chain while the gold-embossed exterior conveys luxury before the box is opened. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — an ISO 9001:2015 and FSC Chain-of-Custody certified factory with 22 years of packaging expertise — each box undergoes 12-point QC inspection including gold foil registration verification, magnet pull-force testing, and velvet adhesion thermal cycling. Our 10,000 sqm Foshan factory (plus 8,000 sqm smart facility, 2025) produces 220,000+ gift boxes daily on Heidelberg 7+1 UV and KBA 1050 press lines.
+The Bincai Pearl Necklace Display Box is engineered for jewelry retailers who need premium presentation for high-value pearl strands, pendant necklaces, and heirloom pieces. The removable satin pillow cradles the necklace chain while the gold-embossed exterior conveys luxury before the box is opened. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — an ISO 9001:2015 and FSC Chain-of-Custody certified factory with 22 years of packaging expertise — each box undergoes 12-point QC inspection including gold foil registration verification, magnet pull-force testing, and velvet adhesion thermal cycling. Our 18,000 sqm Foshan factory (10,000+8,000 smart factory) (plus 8,000 sqm smart facility, 2025) produces 220,000+ gift boxes daily on Heidelberg 7+1 UV and KBA 1050 press lines.
 
 ## Applications
 

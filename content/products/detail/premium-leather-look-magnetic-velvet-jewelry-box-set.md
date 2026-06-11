@@ -2,7 +2,7 @@
 title: "Premium Leather-Look Magnetic Velvet Jewelry Box Set — 3-Piece Nesting Gift Packaging"
 date: 2026-06-11
 draft: false
-description: "Premium leather-look magnetic velvet jewelry box 3-piece nesting set — ring, bracelet, necklace boxes with gold foil stamping, PU leather exterior, velvet flocking interior, N35 neodymium magnetic closure. Manufactured by Guangdong Bincai (22 years, ISO 9001 & FSC, 10,000 sqm, KBA 1050 4-color + Heidelberg 7+1 UV, 1.7M daily boxes). Custom sizes, colors, inserts. MOQ 500. Free samples 3-5 days."
+description: "Premium leather-look magnetic velvet jewelry box 3-piece nesting set — ring, bracelet, necklace boxes with gold foil stamping, PU leather exterior, velvet flocking interior, N35 neodymium magnetic closure. Manufactured by Guangdong Bincai (22 years, ISO 9001 & FSC, 18,000 sqm (10,000+8,000 smart factory), KBA 1050 4-color + Heidelberg 7+1 UV, 1.7M daily boxes). Custom sizes, colors, inserts. MOQ 500. Free samples 3-5 days."
 keywords: "jewelry box set, magnetic jewelry box, leather-look box, velvet jewelry box, nesting gift box, ring box, bracelet box, necklace box, Bincai jewelry packaging, luxury jewelry box, Guangdong box manufacturer, premium jewelry packaging China, ISO 9001 jewelry box, magnetic closure gift box, gold foil logo box, wholesale jewelry box set, custom velvet flocking box, FSC certified jewelry packaging, PU leather box, velvet flocking box, gift box set wholesale, KBA 1050 printed box, Heidelberg UV jewelry box"
 categories: ["jewelry-boxes"]
 params:

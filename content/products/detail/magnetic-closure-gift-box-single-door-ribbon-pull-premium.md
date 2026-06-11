@@ -16,7 +16,7 @@ params:
 
 ## Product Overview
 
-The single-door magnetic closure gift box with ribbon pull elevates the unboxing experience to a ritual. A gentle tug on the satin ribbon releases the concealed neodymium magnets with a satisfying resistance — then the lid swings open like a fine book cover, revealing the velvet-flocked interior. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — an ISO 9001:2015 and FSC Chain-of-Custody certified factory with 22 years of rigid box expertise (founded 2003) — each box is hand-assembled by our 80+ skilled craftspeople using precision CNC-wrapped greyboard (1200-1600gsm), art paper (157gsm), and 3M-grade neodymium magnets rated for 10,000+ open/close cycles. Our 10,000 sqm Foshan facility with the 2025 8,000 sqm smart factory expansion produces 220,000+ rigid gift boxes daily.
+The single-door magnetic closure gift box with ribbon pull elevates the unboxing experience to a ritual. A gentle tug on the satin ribbon releases the concealed neodymium magnets with a satisfying resistance — then the lid swings open like a fine book cover, revealing the velvet-flocked interior. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — an ISO 9001:2015 and FSC Chain-of-Custody certified factory with 22 years of rigid box expertise (founded 2003) — each box is hand-assembled by our 80+ skilled craftspeople using precision CNC-wrapped greyboard (1200-1600gsm), art paper (157gsm), and 3M-grade neodymium magnets rated for 10,000+ open/close cycles. Our 18,000 sqm Foshan facility (10,000+8,000 smart factory) with the 2025 8,000 sqm smart factory expansion produces 220,000+ rigid gift boxes daily.
 
 ## Design Features
 

@@ -83,7 +83,7 @@ Every rigid box passes through 15 quality control checkpoints across our dedicat
 | **Dedicated Rigid Box Line** | 200,000+ daily output with handcrafted quality at industrial scale |
 | **High-Tech Enterprise** | Certified by Guangdong Province for advanced manufacturing capabilities |
 | **ISO 9001 & FSC Certified** | Quality management and responsible forestry — full chain of custody |
-| **10,000 sqm Factory** | Integrated production: prepress → printing → die-cutting → assembly → QC → shipping under one roof |
+| **18,000 sqm Factory (10,000+8,000 smart factory)** | Integrated production: prepress → printing → die-cutting → assembly → QC → shipping under one roof |
 | **KBA + Heidelberg Press Fleet** | KBA 1050 4-color + Heidelberg 7+1 UV for premium offset printing |
 | **Free Samples** | Pre-production samples in 3-5 working days with 3D digital proof first |
 | **Global Logistics** | FOB Foshan/Shenzhen, Amazon FBA-compliant packaging, flat-pack for container efficiency |

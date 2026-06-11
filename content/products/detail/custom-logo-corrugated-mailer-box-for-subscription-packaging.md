@@ -2,7 +2,7 @@
 title: "Custom Logo Corrugated Mailer Box for Subscription Packaging"
 date: 2026-06-10
 draft: false
-description: "Custom logo corrugated mailer box for subscription box packaging. Flexo/litho printed, B/C/E/BC flute, tear strip, self-locking bottom. KBA 1050 + Heidelberg 7+1, 10,000 sqm factory, ISO 9001 & FSC certified. 22 years, daily output 500K corrugated boxes. MOQ 500."
+description: "Custom logo corrugated mailer box for subscription box packaging. Flexo/litho printed, B/C/E/BC flute, tear strip, self-locking bottom. KBA 1050 + Heidelberg 7+1, 18,000 sqm factory (10,000+8,000 smart factory), ISO 9001 & FSC certified. 22 years, daily output 500K corrugated boxes. MOQ 500."
 keywords: "custom logo mailer box, subscription box packaging, branded shipping box, corrugated mailer, e-commerce subscription box, custom printed mailer, tear strip shipping box, subscription box manufacturer, Bincai corrugated, FSC certified mailer"
 categories: ["corrugated-mailers"]
 params:
@@ -14,7 +14,7 @@ params:
 
 ![Bincai Corrugated Mailers](/images/corrugated-mailer.jpg)
 
-Custom logo corrugated mailer box engineered for subscription box brands that demand a memorable unboxing experience. Manufactured at **Guangdong Bincai Color Printing Co., Ltd.** — a 22-year packaging expert with ISO 9001 & FSC certifications, operating from a 10,000 sqm facility with KBA flexographic and Heidelberg litho-laminated presses. Our dedicated corrugated line produces 500,000 boxes daily. Tear strip opening, self-locking crash-lock bottom, and full-color logo printing transform your shipping box into a brand moment.
+Custom logo corrugated mailer box engineered for subscription box brands that demand a memorable unboxing experience. Manufactured at **Guangdong Bincai Color Printing Co., Ltd.** — a 22-year packaging expert with ISO 9001 & FSC certifications, operating from a 18,000 sqm facility (10,000+8,000 smart factory) with KBA flexographic and Heidelberg litho-laminated presses. Our dedicated corrugated line produces 500,000 boxes daily. Tear strip opening, self-locking crash-lock bottom, and full-color logo printing transform your shipping box into a brand moment.
 
 ## Applications
 - Monthly subscription box fulfillment (beauty, snacks, books, lifestyle, pet, hobby)

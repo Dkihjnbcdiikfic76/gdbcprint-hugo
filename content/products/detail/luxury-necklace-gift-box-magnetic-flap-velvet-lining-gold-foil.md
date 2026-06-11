@@ -2,7 +2,7 @@
 title: "Luxury Necklace Gift Box Magnetic Flap Velvet Lining Gold Foil Logo"
 date: 2026-06-11
 draft: false
-description: "Luxury necklace gift box with magnetic flap closure, plush velvet flocking interior, and custom gold foil logo stamping. 1.5-2.5mm rigid greyboard construction, N42 neodymium magnets, 157gsm art paper wrap. ISO 9001:2015 & FSC certified. 22 years manufacturing, 10,000 sqm factory, Heidelberg 7+1 UV press, daily output 1.7M boxes. MOQ 500, free samples."
+description: "Luxury necklace gift box with magnetic flap closure, plush velvet flocking interior, and custom gold foil logo stamping. 1.5-2.5mm rigid greyboard construction, N42 neodymium magnets, 157gsm art paper wrap. ISO 9001:2015 & FSC certified. 22 years manufacturing, 18,000 sqm factory (10,000+8,000 smart factory), Heidelberg 7+1 UV press, daily output 1.7M boxes. MOQ 500, free samples."
 keywords: "luxury necklace gift box, velvet necklace packaging, magnetic flap jewelry box, gold foil necklace box, custom logo jewelry packaging, necklace display box, premium jewelry box wholesale, Bincai necklace box, ISO 9001 jewelry packaging, FSC gift box, Foshan jewelry box manufacturer, velvet lined necklace case, rigid necklace gift box, velvet flocking interior box, gold foil hot stamping jewelry box, luxury jewelry packaging, necklace presentation box, custom rigid jewelry box, Guangdong jewelry box factory, N42 magnet closure box"
 categories: ["jewelry-boxes"]
 params:

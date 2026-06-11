@@ -16,7 +16,7 @@ params:
 
 ## Overview
 
-Guangdong Bincai Color Printing's custom folding carton with soft-touch matte lamination delivers premium tactile experience for cosmetics and skincare brands. The velvety soft-touch surface invites handling, while precise spot UV accents and gold foil branding create visual depth. Auto-lock bottom for quick assembly, food-safe soy inks optional. Manufactured in our ISO 9001:2015 certified 10,000 sqm factory — 22 years, Heidelberg 7+1 UV + KBA 1050 presses, 1.7M daily output.
+Guangdong Bincai Color Printing's custom folding carton with soft-touch matte lamination delivers premium tactile experience for cosmetics and skincare brands. The velvety soft-touch surface invites handling, while precise spot UV accents and gold foil branding create visual depth. Auto-lock bottom for quick assembly, food-safe soy inks optional. Manufactured in our ISO 9001:2015 certified 18,000 sqm factory (10,000+8,000 smart factory) — 22 years, Heidelberg 7+1 UV + KBA 1050 presses, 1.7M daily output.
 
 ## Applications
 
@@ -66,7 +66,7 @@ Guangdong Bincai Color Printing's custom folding carton with soft-touch matte la
 
 ## Why Bincai
 
-22 years of folding carton manufacturing (founded 2003). 10,000 sqm integrated factory in Foshan, Pearl River Delta packaging hub. KBA 1050 + Heidelberg 7+1 UV presses, 150+ skilled staff. ISO 9001 & FSC certified. 98%+ on-time delivery to 40+ countries.
+22 years of folding carton manufacturing (founded 2003). 18,000 sqm (10,000+8,000 smart factory) integrated factory in Foshan, Pearl River Delta packaging hub. KBA 1050 + Heidelberg 7+1 UV presses, 150+ skilled staff. ISO 9001 & FSC certified. 98%+ on-time delivery to 40+ countries.
 
 [Request free quote & samples →](/contact/) — Response within 24 hours. Factory visits welcome.
 
