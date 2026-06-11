@@ -14,7 +14,7 @@ params:
 
 ![Bincai Corrugated Mailers](/images/corrugated-mailer.jpg)
 
-Custom printed corrugated mailer box for e-commerce branding — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). 10,000 sqm factory with KBA 1050 4-color and Heidelberg 7+1 UV presses. Daily output 1.7 million boxes.
+Custom printed corrugated mailer box for e-commerce branding — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). 18,000 sqm factory (10,000+8,000 smart factory) with KBA 1050 4-color and Heidelberg 7+1 UV presses. Daily output 1.7 million boxes.
 
 ## Applications
 - E-commerce and DTC brand shipping

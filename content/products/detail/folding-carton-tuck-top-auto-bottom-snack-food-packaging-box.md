@@ -14,7 +14,7 @@ params:
 
 |![Bincai Folding Cartons](/images/cat-fold-cosmetic.jpg)
 
-Folding carton with tuck-top closure and auto-lock bottom for snack food packaging — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). 10,000 sqm factory with KBA and Heidelberg presses. Daily output 1.7 million boxes.
+Folding carton with tuck-top closure and auto-lock bottom for snack food packaging — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). 18,000 sqm factory (10,000+8,000 smart factory) with KBA and Heidelberg presses. Daily output 1.7 million boxes.
 
 ## Applications
 Tuck-top auto-bottom folding cartons combine simple assembly with secure closure, making them the industry standard for food packaging. Ideal for:
@@ -55,7 +55,7 @@ Tuck-top auto-bottom folding cartons combine simple assembly with secure closure
 
 ## Factory
 - 22 years of manufacturing excellence
-- 10,000 sqm production facility in Foshan, Guangdong, China
+- 18,000 sqm production facility (10,000+8,000 smart factory) in Foshan, Guangdong, China
 - KBA 1050 4-color + Heidelberg 7+1 UV presses
 - High-speed folder-gluer lines with auto-bottom capability
 - Daily capacity: 1.7 million color boxes

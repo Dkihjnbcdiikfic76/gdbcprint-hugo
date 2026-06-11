@@ -14,7 +14,7 @@ params:
 
 ![Bincai Corrugated Mailers](/images/corrugated-mailer.jpg)
 
-Premium white corrugated shipping box engineered for cosmetic and apparel e-commerce delivery — by Guangdong Bincai Color Printing Co., Ltd. (founded 2003), a 22-year full-chain packaging manufacturer. 10,000 sqm factory with KBA 1050 4-color offset and Heidelberg 7+1 UV presses, integrated corrugated production line. Daily output 1.7 million boxes. ISO 9001 & FSC certified. Custom sizes, branded printing, and ISTA-tested structural integrity.
+Premium white corrugated shipping box engineered for cosmetic and apparel e-commerce delivery — by Guangdong Bincai Color Printing Co., Ltd. (founded 2003), a 22-year full-chain packaging manufacturer. 18,000 sqm factory (10,000+8,000 smart factory) with KBA 1050 4-color offset and Heidelberg 7+1 UV presses, integrated corrugated production line. Daily output 1.7 million boxes. ISO 9001 & FSC certified. Custom sizes, branded printing, and ISTA-tested structural integrity.
 
 ## Applications
 - Cosmetic and skincare product e-commerce shipping

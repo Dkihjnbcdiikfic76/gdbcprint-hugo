@@ -14,7 +14,7 @@ params:
 
 |![Bincai Folding Cartons](/images/cat-fold-cosmetic.jpg)
 
-Folding carton sleeve tray with window for confectionery display packaging — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). 10,000 sqm factory with KBA and Heidelberg presses. Daily output 1.7 million boxes.
+Folding carton sleeve tray with window for confectionery display packaging — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). 18,000 sqm factory (10,000+8,000 smart factory) with KBA and Heidelberg presses. Daily output 1.7 million boxes.
 
 ## Applications
 The sleeve-tray combination delivers an elevated unboxing experience — slide the outer sleeve off to reveal a beautifully presented inner tray. The window provides product visibility without compromising protection. Ideal for:
@@ -56,7 +56,7 @@ The sleeve-tray combination delivers an elevated unboxing experience — slide t
 
 ## Factory
 - 22 years of manufacturing excellence
-- 10,000 sqm production facility in Foshan, Guangdong, China
+- 18,000 sqm production facility (10,000+8,000 smart factory) in Foshan, Guangdong, China
 - KBA 1050 4-color + Heidelberg 7+1 UV presses
 - Automatic window-patching and sleeve-forming lines
 - Daily capacity: 1.7 million color boxes

@@ -14,7 +14,7 @@ params:
 
 ![Bincai Jewelry Boxes](/images/cat-rigid-jewelry.jpg)
 
-Premium rigid watch display box with custom velvet pillow insert and embossed logo branding — manufactured by Guangdong Bincai Color Printing Co., Ltd. With 22 years of manufacturing heritage (founded 2003), ISO 9001:2015 & FSC Chain-of-Custody certifications, and a 10,000 sqm factory featuring KBA 1050 4-color and Heidelberg 7+1 UV presses, we produce watch packaging trusted by brands in over 40 countries. Daily capacity of 1.7 million boxes ensures reliable volume delivery for seasonal launches and permanent collections.
+Premium rigid watch display box with custom velvet pillow insert and embossed logo branding — manufactured by Guangdong Bincai Color Printing Co., Ltd. With 22 years of manufacturing heritage (founded 2003), ISO 9001:2015 & FSC Chain-of-Custody certifications, and an 18,000 sqm factory (10,000+8,000 smart factory) featuring KBA 1050 4-color and Heidelberg 7+1 UV presses, we produce watch packaging trusted by brands in over 40 countries. Daily capacity of 1.7 million boxes ensures reliable volume delivery for seasonal launches and permanent collections.
 
 ## Applications
 

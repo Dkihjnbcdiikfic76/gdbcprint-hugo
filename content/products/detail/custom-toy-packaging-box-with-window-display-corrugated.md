@@ -16,7 +16,7 @@ params:
 
 ## Custom Toy Packaging Box with Window Display
 
-Custom toy packaging box with window display in corrugated board by Guangdong Bincai Color Printing Co., Ltd. — a 22-year ISO 9001 & FSC certified manufacturer. Our toy display boxes combine corrugated structural protection with a clear PVC or PET window that lets kids and parents see the toy inside. CMYK offset printing on white-top kraft liner delivers vibrant, shelf-ready graphics. Produced at our 10,000 sqm factory with KBA 1050 and Heidelberg presses, delivering 1.7M+ boxes daily.
+Custom toy packaging box with window display in corrugated board by Guangdong Bincai Color Printing Co., Ltd. — a 22-year ISO 9001 & FSC certified manufacturer. Our toy display boxes combine corrugated structural protection with a clear PVC or PET window that lets kids and parents see the toy inside. CMYK offset printing on white-top kraft liner delivers vibrant, shelf-ready graphics. Produced at our 18,000 sqm factory (10,000+8,000 smart factory) with KBA 1050 and Heidelberg presses, delivering 1.7M+ boxes daily.
 
 ## Applications
 

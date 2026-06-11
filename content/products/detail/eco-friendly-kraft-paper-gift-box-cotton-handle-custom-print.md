@@ -14,7 +14,7 @@ params:
 
 ![Bincai Kraft Eco Boxes](/images/kraft-eco-box.jpg)
 
-Eco-friendly kraft paper gift box with natural cotton rope handle and custom print — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). 10,000 sqm factory with KBA and Heidelberg presses. Daily output 1.7 million boxes.
+Eco-friendly kraft paper gift box with natural cotton rope handle and custom print — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). 18,000 sqm factory (10,000+8,000 smart factory) with KBA and Heidelberg presses. Daily output 1.7 million boxes.
 
 ## Features
 - 100% recyclable and biodegradable kraft paperboard construction
@@ -43,7 +43,7 @@ Eco-friendly kraft paper gift box with natural cotton rope handle and custom pri
 
 ## Factory
 - 22 years of manufacturing excellence
-- 10,000 sqm production facility in Foshan, China
+- 18,000 sqm production facility (10,000+8,000 smart factory) in Foshan, China
 - KBA 1050 4-color + Heidelberg 7+1 UV presses
 - Fully automatic die-cutting and gluing lines
 - Daily capacity: 1.7 million color boxes + 220,000+ gift boxes

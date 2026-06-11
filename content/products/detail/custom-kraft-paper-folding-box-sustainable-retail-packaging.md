@@ -51,7 +51,7 @@ Kraft paper folding boxes communicate natural, organic, and sustainable brand va
 
 ## Factory
 - 22 years of manufacturing excellence (founded 2003)
-- 10,000 sqm production facility in Foshan, Guangdong, China
+- 18,000 sqm production facility (10,000+8,000 smart factory) in Foshan, Guangdong, China
 - KBA 1050 4-color + Heidelberg 7+1 UV presses
 - Fully automatic die-cutting and gluing lines
 - On-site recycling and waste reduction systems

@@ -14,7 +14,7 @@ params:
 
 |![Bincai Rigid Gift Boxes](/images/cat-rigid-others.jpg)
 
-Two-piece rigid setup box with precision die-cut foam insert for electronics premium packaging — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). 10,000 sqm factory with KBA and Heidelberg presses. Daily output 1.7 million boxes.
+Two-piece rigid setup box with precision die-cut foam insert for electronics premium packaging — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). 18,000 sqm factory (10,000+8,000 smart factory) with KBA and Heidelberg presses. Daily output 1.7 million boxes.
 
 ## Applications
 Two-piece telescopic rigid boxes provide unmatched structural integrity for heavy or delicate items. The base and lid separate cleanly, revealing a perfectly fitted foam interior. Ideal for:
@@ -56,7 +56,7 @@ Two-piece telescopic rigid boxes provide unmatched structural integrity for heav
 
 ## Factory
 - 22 years of manufacturing excellence
-- 10,000 sqm production facility in Foshan, Guangdong, China
+- 18,000 sqm production facility (10,000+8,000 smart factory) in Foshan, Guangdong, China
 - KBA 1050 4-color + Heidelberg 7+1 UV presses
 - CNC foam cutting and die-cutting equipment
 - Daily capacity: 1.7 million color boxes + 220,000+ gift boxes

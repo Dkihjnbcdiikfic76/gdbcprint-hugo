@@ -14,7 +14,7 @@ params:
 
 ![Bincai Jewelry Boxes](/images/cat-rigid-jewelry.jpg)
 
-Double layer jewelry gift box with pull-out drawer for rings, bracelets, and earring storage — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). 10,000 sqm factory with KBA 1050 4-color and Heidelberg 7+1 UV presses. The innovative two-tier design features an upper lid compartment for necklaces and a smooth-gliding lower drawer for rings and bracelets, each lined with plush velvet. Daily output 1.7 million boxes.
+Double layer jewelry gift box with pull-out drawer for rings, bracelets, and earring storage — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). 18,000 sqm factory (10,000+8,000 smart factory) with KBA 1050 4-color and Heidelberg 7+1 UV presses. The innovative two-tier design features an upper lid compartment for necklaces and a smooth-gliding lower drawer for rings and bracelets, each lined with plush velvet. Daily output 1.7 million boxes.
 
 ## Applications
 - Jewelry retail display and gift packaging

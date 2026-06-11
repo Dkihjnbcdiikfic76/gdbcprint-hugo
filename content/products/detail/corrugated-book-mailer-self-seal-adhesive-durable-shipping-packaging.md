@@ -14,7 +14,7 @@ params:
 
 |![Bincai Corrugated Mailers](/images/corrugated-mailer.jpg)
 
-Corrugated book mailer with self-seal adhesive and durable crush-resistant construction for shipping packaging — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). 10,000 sqm factory with KBA and Heidelberg presses. Daily output 1.7 million boxes.
+Corrugated book mailer with self-seal adhesive and durable crush-resistant construction for shipping packaging — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). 18,000 sqm factory (10,000+8,000 smart factory) with KBA and Heidelberg presses. Daily output 1.7 million boxes.
 
 ## Applications
 Corrugated book mailers are the gold standard for shipping flat, rectangular items that need crush protection without the bulk of a full carton. Ideal for:
@@ -56,7 +56,7 @@ Corrugated book mailers are the gold standard for shipping flat, rectangular ite
 
 ## Factory
 - 22 years of manufacturing excellence
-- 10,000 sqm production facility in Foshan, Guangdong, China
+- 18,000 sqm production facility (10,000+8,000 smart factory) in Foshan, Guangdong, China
 - KBA 1050 4-color + Heidelberg 7+1 UV presses (for litho-laminated exterior)
 - Automatic corrugator and die-cutting lines
 - Daily capacity: 1.7 million boxes

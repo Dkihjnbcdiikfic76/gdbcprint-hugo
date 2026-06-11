@@ -14,7 +14,7 @@ params:
 
 |![Bincai Corrugated Mailers](/images/corrugated-mailer.jpg)
 
-Premium double wall heavy duty corrugated shipping box in custom sizes — manufactured by Guangdong Bincai Color Printing Co., Ltd. With 22 years of experience, ISO 9001 & FSC certifications, and a 10,000 sqm factory producing 1.7 million boxes daily, we deliver industrial-grade packaging that protects your products through the toughest supply chains.
+Premium double wall heavy duty corrugated shipping box in custom sizes — manufactured by Guangdong Bincai Color Printing Co., Ltd. With 22 years of experience, ISO 9001 & FSC certifications, and an 18,000 sqm factory (10,000+8,000 smart factory) producing 1.7 million boxes daily, we deliver industrial-grade packaging that protects your products through the toughest supply chains.
 
 ## Applications
 Double wall corrugated boxes provide maximum crush resistance for heavy, fragile, or high-value shipments. Ideal for:
@@ -53,7 +53,7 @@ Double wall corrugated boxes provide maximum crush resistance for heavy, fragile
 
 ## Factory
 - 22 years of manufacturing excellence (founded 2003)
-- 10,000 sqm production facility in Foshan, Guangdong, China
+- 18,000 sqm production facility (10,000+8,000 smart factory) in Foshan, Guangdong, China
 - KBA 1050 4-color + Heidelberg 7+1 UV presses for litho-laminated corrugated
 - In-house corrugator, automatic die-cutting, and gluing lines
 - Daily capacity: 1.7 million boxes across all product lines
