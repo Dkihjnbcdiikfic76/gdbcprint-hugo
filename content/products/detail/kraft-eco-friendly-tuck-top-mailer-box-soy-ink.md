@@ -2,8 +2,8 @@
 title: "Kraft Eco-Friendly Tuck-Top Mailer Box with Soy Ink Print"
 date: 2026-06-11
 draft: false
-description: "Eco-friendly kraft tuck-top mailer box by Bincai. 100% recycled kraft, soy-based ink printing, FSC certified, biodegradable. Ideal for e-commerce. MOQ 500."
-keywords: "kraft mailer box, eco-friendly box, tuck-top mailer, soy ink box, recycled kraft box, FSC box, sustainable packaging, e-commerce box, Bincai eco packaging, Guangdong box manufacturer"
+description: "Guangdong Bincai kraft eco-friendly tuck-top mailer box manufactured with 100% post-consumer recycled kraft board and soy-based ink. FSC Chain-of-Custody certified, fully biodegradable and curbside recyclable. KBA 1050 4-color and Heidelberg 7+1 UV equipped 18,000 sqm factory with 22 years experience, ISO 9001:2015 certified. Self-locking tuck-top closure, 350-400gsm kraft, custom die-cut windows, tear strips, and interior printing. Daily output 1.7 million boxes + 220,000+ gift boxes. Ideal for e-commerce subscription boxes, organic food, natural cosmetics, and sustainable fashion brands. MOQ 500, free samples 3-5 days. Foshan, Guangdong, China."
+keywords: "kraft eco-friendly mailer box, recycled kraft tuck-top box, soy-based ink mailer, FSC certified shipping box, biodegradable packaging box, e-commerce subscription box mailer, sustainable kraft packaging, custom die-cut window mailer, Bincai eco box manufacturer, Guangdong recycled packaging factory, organic food mailer box, natural cosmetics packaging, 100% post-consumer recycled kraft, curbside recyclable box, ISO 9001 kraft box manufacturer"
 categories: ["kraft-eco-boxes"]
 params:
   moq: "500-1000"

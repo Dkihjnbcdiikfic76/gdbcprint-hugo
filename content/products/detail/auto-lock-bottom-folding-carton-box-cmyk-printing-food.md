@@ -2,8 +2,8 @@
 title: "Auto-Lock Bottom Folding Carton Box with Full-Color CMYK for Food Packaging"
 date: 2026-06-10
 draft: false
-description: "Auto-lock bottom folding carton box with full-color CMYK offset printing for food, bakery, and confectionery. ISO 9001 & FSC certified, 22yr factory, MOQ 1000."
-keywords: "auto-lock bottom folding carton, food packaging box, CMYK printed carton, custom folding carton manufacturer, bakery box, confectionery packaging, folding paper box China, Bincai"
+description: "Guangdong Bincai auto-lock bottom folding carton box for food packaging with full-color CMYK offset printing. Manufactured on KBA 1050 4-color and Heidelberg 7+1 UV presses in an ISO 9001:2015 and FSC certified 18,000 sqm factory. 22 years experience since 2003, daily output 1.7 million boxes + 220,000+ gift boxes. Food-grade inks and coatings (FDA 21 CFR, EU 1935/2004 compliant), SBS board 250-400gsm, art paper 200-350gsm. Auto-lock bottom mechanism assembles instantly without tape. Window cutout with PET or PLA film, hot foil stamping, matte/gloss aqueous coating. Ideal for bakery, chocolate, confectionery, tea, coffee, and dry food retail packaging. MOQ 1000, free pre-production samples 5-7 days. Foshan, Guangdong, China."
+keywords: "auto-lock bottom folding carton, food packaging box, CMYK offset printed carton, auto-lock bottom box manufacturer, bakery packaging box, confectionery gift box, chocolate packaging box, tea packaging carton, coffee pod retail box, food-grade folding carton, FDA compliant carton box, SBS board folding carton, window cutout food box, Bincai folding carton factory, Guangdong paper box manufacturer, ISO 9001 FSC carton box"
 categories: ["folding-cartons"]
 params:
   moq: "1000-3000"
