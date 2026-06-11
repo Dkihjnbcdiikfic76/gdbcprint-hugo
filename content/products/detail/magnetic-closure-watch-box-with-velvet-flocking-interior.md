@@ -49,7 +49,7 @@ Guangdong Bincai Color Printing's magnetic closure watch box with velvet flockin
 | Watch Pillow | Satin or velvet over HD foam, removable |
 | Magnet | N35 neodymium, recessed flush mount, pull-force tested |
 | Daily Capacity | 220,000+ luxury rigid gift boxes |
-| Factory | 10,000 sqm main + 8,000 sqm smart factory (2025) |
+| Factory | 18,000m² (10,000+8,000 smart factory) |
 
 ## Quality Assurance
 

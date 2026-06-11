@@ -50,7 +50,7 @@ Guangdong Bincai Color Printing's natural kraft paper gift box with jute ribbon 
 | Ink System | Soy-based vegetable inks, USDA BioPreferred, EN 71-3 compliant |
 | Jute Ribbon | Natural jute fiber, tensile tested, colorfast dyed |
 | Daily Capacity | 1.7 million color boxes + 220,000+ gift boxes |
-| Factory | 10,000 sqm main + 8,000 sqm smart factory (2025) |
+| Factory | 18,000m² (10,000+8,000 smart factory) |
 
 ## Quality Assurance
 

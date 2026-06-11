@@ -90,7 +90,7 @@ A: Our telescopic fit is precision-engineered with 0.5–1.0mm clearance between
 | Feature | Detail |
 |---------|--------|
 | Experience | 22 years since 2003 |
-| Factory | 10,000m² with KBA & Heidelberg presses |
+| Factory | 18,000m² (10,000+8,000 smart factory) with KBA & Heidelberg presses |
 | Quality | ISO 9001:2015 certified |
 | Eco | FSC certified sustainable materials |
 | Capacity | 1.7M boxes daily output |

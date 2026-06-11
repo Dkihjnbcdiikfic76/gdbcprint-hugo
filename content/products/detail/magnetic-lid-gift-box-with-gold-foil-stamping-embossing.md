@@ -50,7 +50,7 @@ Guangdong Bincai Color Printing's magnetic lid gift box combines gold foil stamp
 | Embossing | Brass die, single or multi-level, up to 1.5mm depth |
 | Magnet | N35 neodymium, 8–12mm discs, recessed flush mount |
 | Daily Capacity | 220,000+ luxury rigid gift boxes + 1.7M color boxes |
-| Factory | 10,000 sqm main + 8,000 sqm smart factory (2025) |
+| Factory | 18,000m² (10,000+8,000 smart factory) |
 
 ## Quality Assurance
 

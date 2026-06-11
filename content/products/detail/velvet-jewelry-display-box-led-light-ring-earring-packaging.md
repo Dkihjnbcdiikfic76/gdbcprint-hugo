@@ -52,7 +52,7 @@ Guangdong Bincai Color Printing's velvet jewelry display box with integrated LED
 | Power | CR2032 coin cell, 2×AAA, or USB-C rechargeable Li-ion |
 | Magnet | N35 neodymium, recessed, magnetic reed switch integration |
 | Daily Capacity | 220,000+ luxury rigid boxes |
-| Factory | 10,000 sqm main + 8,000 sqm smart factory (2025) |
+| Factory | 18,000m² (10,000+8,000 smart factory) |
 
 ## Quality Assurance
 

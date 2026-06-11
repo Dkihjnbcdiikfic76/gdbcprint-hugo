@@ -95,9 +95,4 @@ Standard MOQ is 500 units for boxes using existing die-cut templates (choose fro
 
 Yes. We use soy-based inks that comply with EN 71-3 and FDA indirect food contact standards. For bakery, tea, chocolate, and dry food applications, our kraft boxes are fully food-safe when used without additional inner liners. For moist or greasy foods, we recommend a grease-resistant kraft liner (available as an add-on) or a PLA bio-film inner bag. Always specify "food-grade" when requesting samples to ensure the correct material path.
 
-## Related Products
 
-- [Brown Kraft Paper Folding Box with Jute Handle - Eco Retail Packaging](/products/detail/brown-kraft-paper-folding-box-with-jute-handle-eco-retail-packaging/)
-- [Natural Kraft Paper Gift Box with Jute Ribbon - Eco-Friendly](/products/detail/natural-kraft-paper-gift-box-with-jute-ribbon-eco-friendly/)
-- [Kraft Paper Gift Box with Hemp Rope Handle - Soy Ink Printed](/products/detail/kraft-paper-gift-box-hemp-rope-handle-soy-ink/)
-- [Recycled Kraft Paper Gift Box - 100% Biodegradable with Soy Ink](/products/detail/recycled-kraft-paper-gift-box-with-soy-ink-printing-100-biodegradable/)

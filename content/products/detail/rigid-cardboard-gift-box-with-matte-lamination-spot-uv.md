@@ -51,7 +51,7 @@ Guangdong Bincai Color Printing's rigid cardboard gift box with matte lamination
 | Spot UV | High-gloss, registered to ±0.2mm, 70–80 Shore D |
 | Magnet | N35 neodymium, 8–12mm discs, recessed flush mount |
 | Daily Capacity | 220,000+ luxury rigid gift boxes + 1.7M color boxes |
-| Factory | 10,000 sqm main + 8,000 sqm smart factory (2025) |
+| Factory | 18,000m² (10,000+8,000 smart factory) |
 
 ## Quality Assurance
 

@@ -87,7 +87,7 @@ A: E-flute (1.2mm) for lightweight items under 2kg and crisp printing. B-flute (
 | Feature | Detail |
 |---------|--------|
 | Experience | 22 years since 2003 |
-| Factory | 10,000m² with KBA & Heidelberg presses |
+| Factory | 18,000m² (10,000+8,000 smart factory) with KBA & Heidelberg presses |
 | Quality | ISO 9001:2015 certified |
 | Eco | FSC certified sustainable materials |
 | Capacity | 1.7M+ color boxes + 220K+ gift boxes daily |

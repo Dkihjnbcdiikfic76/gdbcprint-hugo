@@ -53,7 +53,7 @@ Guangdong Bincai Color Printing's heavy-duty corrugated shipping box with custom
 | Adhesive | Hot melt, water-based PVA for food-safe requirements |
 | Testing | ISTA 1A / 3A drop and vibration as required |
 | Daily Capacity | 1.7 million boxes |
-| Factory | 10,000 sqm main + 8,000 sqm smart factory (2025) |
+| Factory | 18,000m² (10,000+8,000 smart factory) |
 
 ## Quality Assurance
 

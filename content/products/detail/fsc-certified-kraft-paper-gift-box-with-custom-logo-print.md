@@ -30,7 +30,7 @@ An FSC Chain-of-Custody certified kraft paper gift box that proves sustainabilit
 | Die-cutting | Heidelberg cylinder die-cutter, ±0.3mm tolerance |
 | Gluing | High-speed folder-gluer, crash-lock and auto-lock bottom |
 | Certifications | ISO 9001:2015, FSC Chain-of-Custody, High-Tech Enterprise |
-| Factory | 10,000 sqm main + 8,000 sqm smart factory (2025 expansion) |
+| Factory | 18,000m² (10,000+8,000 smart factory) |
 
 ## Customization Options
 

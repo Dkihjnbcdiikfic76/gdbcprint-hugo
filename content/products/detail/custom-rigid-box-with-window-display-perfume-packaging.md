@@ -50,7 +50,7 @@ Guangdong Bincai Color Printing's custom rigid box with die-cut window display f
 | Interior | Velvet flocking, satin, or custom-fit foam/EVA |
 | Magnet | N35 neodymium, 8–12mm diameter discs, recessed mount |
 | Daily Capacity | 220,000+ luxury rigid gift boxes |
-| Factory | 10,000 sqm main + 8,000 sqm smart factory (2025) |
+| Factory | 18,000m² (10,000+8,000 smart factory) |
 
 ## Quality Assurance
 

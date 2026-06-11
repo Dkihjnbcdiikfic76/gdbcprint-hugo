@@ -93,10 +93,4 @@ A: We offer multiple tamper-evident solutions: perforated tear strips, security 
 **Q: Do you support serialization and track-and-trace for pharmaceutical cartons?**
 A: Yes. Our production lines support variable data printing including GS1 DataMatrix barcodes, serial numbers, lot numbers, expiry dates, and 2D codes required for pharmaceutical track-and-trace compliance (DSCSA, EU FMD). Barcode verification systems ensure 100% readability.
 
-## Related Products
 
-- [Custom Folding Carton Box CMYK Offset Printing — Retail Packaging](/products/detail/custom-folding-carton-box-cmyk-offset-printing-retail-packaging/) — General-purpose CMYK folding carton
-- [Export-Ready Packaging ISTA FBA Flat-Ship — Blog](/blog/export-ready-packaging-ista-fba-flat-ship-bincai/) — Guide to export-compliant packaging standards
-- [ISO 9001 & FSC Certification Paper Box Guide](/blog/iso-9001-fsc-certification-paper-box-guide/) — Deep dive on certifications and compliance
-
-[Request your free quote →](/contact/)

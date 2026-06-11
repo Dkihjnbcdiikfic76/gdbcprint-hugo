@@ -3,7 +3,7 @@ title: "Hot Foil Stamping & Embossing: How Bincai Creates Tactile Luxury"
 date: 2026-06-12
 draft: false
 image: "/images/cat-fold-cosmetic.jpg"
-description: "Master hot foil stamping and embossing at Bincai — gold/silver/metallic foils, blind & registered embossing, debossing, 3D multi-level sculpted emboss. 22 years experience, ISO 9001 & FSC certified, Heidelberg 7+1 UV and KBA 1050 presses, 10,000 sqm factory. Learn how these tactile finishing techniques transform ordinary paper boxes into premium brand experiences."
+description: "Master hot foil stamping and embossing at Bincai — gold/silver/metallic foils, blind & registered embossing, debossing, 3D multi-level sculpted emboss. 22 years experience, ISO 9001 & FSC certified, Heidelberg 7+1 UV and KBA 1050 presses, 18,000 sqm factory (10,000+8,000 smart factory). Learn how these tactile finishing techniques transform ordinary paper boxes into premium brand experiences."
 keywords: "hot foil stamping paper box, embossing packaging, debossing gift box, gold foil stamping China, metallic foil packaging, blind emboss, registered emboss, 3D emboss, Bincai foil stamping, luxury paper box finishing, tactile packaging, Heidelberg foil, custom embossed box manufacturer, ISO 9001 FSC packaging"
 
 ---
@@ -69,7 +69,7 @@ Debossing is embossing's reverse — the design is pressed *into* the surface ra
 
 ## Bincai's Finishing Arsenal
 
-At our 10,000 sqm Foshan factory, finishing is not an afterthought — it's a dedicated department with specialized equipment:
+At our 18,000 sqm Foshan factory (10,000+8,000 smart factory), finishing is not an afterthought — it's a dedicated department with specialized equipment:
 
 | Equipment | Capability | Daily Output |
 |---|---|---|
@@ -101,4 +101,4 @@ For foil and embossing jobs, our QC process adds three checkpoints on top of sta
 
 *At Guangdong Bincai, every foil-stamped and embossed box passes through hands that have been doing this for two decades. Our presses are modern, but our QC is old-school: we look at every sheet. Because when a customer opens your box, that moment of tactile delight is the difference between a product and a gift.*
 
-**Guangdong Bincai Color Printing Co., Ltd.** — ISO 9001:2015 & FSC® certified, 22 years of paper box manufacturing, 10,000 sqm factory, daily output 1.7 million boxes. [Request a quote →](/contact/)
+**Guangdong Bincai Color Printing Co., Ltd.** — ISO 9001:2015 & FSC® certified, 22 years of paper box manufacturing, 18,000 sqm factory (10,000+8,000 smart factory), daily output 1.7 million boxes. [Request a quote →](/contact/)

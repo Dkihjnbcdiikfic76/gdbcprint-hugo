@@ -39,7 +39,7 @@ The integrated perforated tear strip eliminates the need for knives or scissors 
 | Gluing | Automatic folder-gluer, self-locking bottom, 4-corner or 6-corner |
 | Tear Strip | Integrated perforation, 10mm wide reinforced tape, 3–6kg pull force |
 | Capacity | 1.7M color boxes + 220,000+ rigid boxes daily |
-| Factory | 10,000 sqm main + 8,000 sqm smart factory (2025) |
+| Factory | 18,000m² (10,000+8,000 smart factory) |
 | Certifications | ISO 9001:2015, FSC Chain-of-Custody, ISTA transit testing |
 
 ## Applications
@@ -98,7 +98,7 @@ The integrated perforated tear strip eliminates the need for knives or scissors 
 | Feature | Detail |
 |---------|--------|
 | Experience | 22 years since 2003 |
-| Factory | 10,000m² with KBA & Heidelberg presses |
+| Factory | 18,000m² (10,000+8,000 smart factory) with KBA & Heidelberg presses |
 | Quality | ISO 9001:2015 certified |
 | Eco | FSC certified sustainable materials |
 | Capacity | 1.7M+ color boxes + 220K+ gift boxes daily |

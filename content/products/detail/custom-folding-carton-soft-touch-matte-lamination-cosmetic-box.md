@@ -51,7 +51,7 @@ Guangdong Bincai Color Printing's custom folding carton with soft-touch matte la
 | Foil Stamping | Hot stamp, brass/copper die, 80–120°C |
 | Die Cutting | ±0.3mm precision, 100% folding/gluing verification |
 | Daily Capacity | 1.7 million color boxes |
-| Factory | 10,000 sqm main + 8,000 sqm smart factory (2025) |
+| Factory | 18,000m² (10,000+8,000 smart factory) |
 
 ## Quality Assurance
 
