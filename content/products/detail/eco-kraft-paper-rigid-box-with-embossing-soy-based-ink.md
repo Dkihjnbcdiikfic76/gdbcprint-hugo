@@ -2,8 +2,8 @@
 title: "Eco Kraft Paper Rigid Box with Embossing Soy-Based Ink"
 date: 2026-06-10
 draft: false
-description: "Eco-friendly kraft paper rigid box with embossing and soy-based ink printing. FSC certified sustainable packaging. ISO 9001. Bincai — 22-year factory, 10,000sqm, MOQ 500."
-keywords: "eco kraft rigid box, sustainable paper box, soy-based ink packaging, embossed kraft box, FSC certified packaging, eco-friendly gift box, green packaging manufacturer, biodegradable box, ISO 9001, Bincai"
+description: "Eco-friendly FSC-certified kraft paper rigid box with blind embossing, debossing, and soy-based ink printing. Manufactured on KBA 1050 4-color and Heidelberg 7+1 UV presses at Guangdong Bincai's 18,000 sqm ISO 9001:2015 certified factory. 22 years of sustainable packaging experience since 2003, 1.7M boxes daily output. Biodegradable, recyclable, food-safe inks. MOQ 500 with free samples."
+keywords: "eco kraft rigid box, sustainable paper box, soy-based ink packaging, embossed kraft box, FSC certified packaging, eco-friendly gift box, green packaging manufacturer, biodegradable box, ISO 9001, Bincai, KBA 1050 offset, Heidelberg 7+1 UV, 18,000 sqm factory, soy ink rigid box, 22 years factory, recyclable gift box, sustainable rigid box, Guangdong eco packaging, kraft embossed box, 1.7M daily output"
 categories: ["kraft-eco-boxes"]
 params:
   moq: "500-1000"
@@ -14,7 +14,14 @@ params:
 
 ![Bincai Kraft Eco Boxes](/images/kraft-eco-box.jpg)
 
-Eco kraft paper rigid box with embossing and soy-based ink — manufactured by Guangdong Bincai Color Printing Co., Ltd., an ISO 9001:2015 and FSC-certified packaging enterprise with 22 years of experience (founded 2003). Designed for brands committed to sustainable packaging, this rigid box combines the natural aesthetic of kraft paper with precision embossing and environmentally responsible soy-based inks. Produced on KBA 1050 and Heidelberg 7+1 UV presses across 18,000 sqm of factory space. Daily output 1.7 million boxes.
+Eco kraft paper rigid box with embossing and soy-based ink — manufactured by Guangdong Bincai Color Printing Co., Ltd., an ISO 9001:2015 and FSC Chain-of-Custody certified packaging enterprise with 22 years of experience (founded 2003). Designed for brands committed to sustainable packaging, this rigid box combines the natural aesthetic of FSC-certified kraft paper with precision blind embossing, debossing, and environmentally responsible soy-based inks. Produced on German-engineered KBA Rapida 105 4-color offset and Heidelberg Speedmaster CD 102 7+1 UV presses across 18,000 sqm of factory space (10,000 sqm main + 8,000 sqm smart factory commissioned 2025). Daily output of 1.7 million color boxes plus 220,000+ rigid gift boxes. Every box is fully biodegradable, recyclable, and printed with low-VOC soy inks — meeting EU EN 13432 and US ASTM D6400 compostability standards.
+
+### Why Soy-Based Ink Matters
+- **Low VOCs**: Soy inks emit <10% of the volatile organic compounds of petroleum-based inks — better for workers and the planet
+- **Biodegradable**: Soy ink breaks down naturally in composting environments, unlike petroleum inks
+- **Food-Safe**: Certified for indirect food contact — ideal for organic food, tea, and confectionery packaging
+- **Color Vibrancy**: Soy ink produces brighter, more intense colors on uncoated kraft paper than petroleum inks
+- **Recyclability**: Soy inks de-ink more easily during paper recycling, yielding cleaner recycled pulp
 
 ## Applications
 - Sustainable luxury gift packaging

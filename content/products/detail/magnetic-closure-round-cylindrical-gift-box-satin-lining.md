@@ -2,8 +2,8 @@
 title: "Magnetic Closure Round Gift Box with Satin Lining — Cylindrical Premium Packaging"
 date: 2026-06-11
 draft: false
-description: "Cylindrical magnetic closure gift box with satin interior lining and custom CMYK printing. Round rigid construction with N42 magnet closure, ideal for candles, cosmetics, and luxury gifts. 2.0mm greyboard, 157gsm art paper wrap. KBA 1050 4-color offset. 22-year Bincai factory, ISO 9001 and FSC certified, 1.7M daily output."
-keywords: "round gift box, cylindrical gift box, magnetic closure round box, satin lined box, candle gift box, cosmetics round box, tubular packaging, China round box manufacturer, KBA 1050 printed round box, FSC round box, luxury cylindrical packaging, Bincai round box"
+description: "Cylindrical magnetic closure gift box with satin interior lining and 360° custom CMYK offset printing. Round rigid construction — 2.0mm greyboard wrapped tube, N42 neodymium magnetic lid. Available diameters 80mm-250mm. Manufactured on KBA Rapida 105 4-color with Heidelberg 7+1 UV at Bincai's 18,000 sqm ISO 9001:2015 & FSC factory. 22 years in Foshan Guangdong since 2003. Bobst foil stamping, embossing, spot UV. 1.7M daily output. Ideal for candles, cosmetics jars, wine accessories, luxury gifts. MOQ 500."
+keywords: "round gift box, cylindrical gift box, magnetic closure round box, satin lined box, candle gift box, cosmetics round box, tubular packaging, China round box manufacturer, KBA 1050 printed round box, FSC round box, luxury cylindrical packaging, Bincai round box, Heidelberg 7+1 UV, Bobst foil stamping, 18,000 sqm factory, 22 years factory, N42 magnets, 360 degree printed box, cylindrical rigid box, Guangdong round box"
 categories: ["magnetic-closure-boxes"]
 params:
   moq: "500-1000"
@@ -16,7 +16,7 @@ params:
 
 ## Product Overview
 
-Bincai's cylindrical magnetic closure gift box stands apart from standard rectangular packaging with its elegant round silhouette. The 360° printable exterior wraps around a rigid 2.0mm greyboard cylinder, available in diameters from 80mm to 250mm. A precision-fit lid with embedded N42 magnets provides seamless magnetic closure. The interior is lined with your choice of satin, velvet, or flocking. Perfect for premium candles, cosmetics jars, wine accessories, and luxury gift sets. 22 years of rigid box craftsmanship.
+Bincai's cylindrical magnetic closure gift box stands apart from standard rectangular packaging with its elegant 360°-printable round silhouette. The rigid 2.0mm greyboard tube is precision-rolled to ±0.5mm diameter tolerance with a seamless exterior wrap in 157gsm art paper — full CMYK offset printing covers the entire cylinder in a single continuous image. A precision-fit lid with embedded N42 neodymium magnets (≥8N pull force) provides invisible magnetic closure with a satisfying snap. The interior is lined with your choice of satin, velvet, suede, or electrostatic flocking. Available in 7 standard diameters from 80mm to 250mm with custom heights from 40mm to 300mm. Manufactured on KBA Rapida 105 4-color offset with Heidelberg Speedmaster CD 102 7+1 UV and Bobst SP 102 BMA foil stamping at our 18,000 sqm ISO 9001:2015 & FSC certified facility in Foshan Guangdong. 22 years of rigid box craftsmanship since 2003 — 220,000+ boxes daily output.
 
 ## Manufacturing Specifications
 

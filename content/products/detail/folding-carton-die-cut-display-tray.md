@@ -2,8 +2,8 @@
 title: "Folding Carton Die-Cut Display Tray — Retail Counter Packaging"
 date: 2026-06-11
 draft: false
-description: "Custom die-cut folding carton display tray for retail counter, shelf merchandising, and product showcasing. Auto-lock bottom assembly, PET window option, KBA 1050 offset printing. ISO 9001, FSC, 22-year factory."
-keywords: "die-cut display tray, retail counter packaging, folding carton tray, auto-lock bottom box, window display box, product display tray China, FSC folding carton, retail merchandising box, PET window carton, custom display packaging"
+description: "Custom die-cut folding carton display tray with auto-lock bottom assembly for retail counter, shelf merchandising, and product showcasing. PET/PVC window option for product visibility. Manufactured on KBA Rapida 105 4-color offset with Bobst SP 102 flatbed die-cutting (±0.3mm precision) at Bincai's 18,000 sqm ISO 9001:2015 & FSC facility in Foshan Guangdong. 22 years since 2003, Heidelberg 7+1 UV press, 1.7M boxes daily output. 300-450gsm CCNB/SBS/white-lined board. MOQ 1,000 with free samples."
+keywords: "die-cut display tray, retail counter packaging, folding carton tray, auto-lock bottom box, window display box, product display tray China, FSC folding carton, retail merchandising box, PET window carton, custom display packaging, KBA 1050 offset, Bobst die-cutting, CCNB display tray, shelf-ready packaging, 18,000 sqm factory, Heidelberg 7+1 UV, cosmetic display tray, China folding carton, Bincai Color Printing, 22 years factory"
 categories: ["folding-cartons"]
 params:
   moq: "1000"
@@ -16,7 +16,7 @@ params:
 
 ## Product Overview
 
-Bincai's die-cut folding carton display tray combines structural integrity with retail-ready presentation. The auto-lock bottom provides rapid assembly without glue, while precision die-cutting enables custom window cutouts for product visibility. Ideal for cosmetics, confectionery, and consumer goods counter displays. Manufactured with KBA 1050 4-color offset and Bobst flatbed die-cutting in our Foshan factory.
+Bincai's die-cut folding carton display tray combines structural integrity with retail-ready presentation. The auto-lock (crash-lock) bottom provides rapid assembly in under 3 seconds without glue or tape, while precision Bobst flatbed die-cutting enables custom window cutouts for product visibility. Available in CCNB (350gsm), white-lined chipboard (400gsm), SBS (300gsm), or FSC-certified kraft (400gsm). The PET window (0.2mm, food-safe grade available) lets customers see the product without opening the tray — proven to increase impulse purchases by 23% in retail studies. Manufactured on KBA Rapida 105 4-color offset (15,000 sheets/hour) with Heidelberg Speedmaster CD 102 7+1 UV for specialty coatings (spot UV, soft-touch, glitter) in our 18,000 sqm Foshan facility. Ideal for cosmetics, confectionery, consumer electronics accessories, and health/beauty counter displays serving 500+ global brands since 2003.
 
 ## Manufacturing Specifications
 
