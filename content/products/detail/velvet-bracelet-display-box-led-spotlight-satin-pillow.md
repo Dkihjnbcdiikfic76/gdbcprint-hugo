@@ -123,21 +123,11 @@ A: Yes. Each box passes ISTA 1A drop testing (10 drops from 760mm). We also offe
 
 ## Contact
 
-For custom velvet bracelet display box inquiries, please contact Bincai through Made-in-China.com or visit gdbcprint.com.
+For custom velvet bracelet display box inquiries, contact Bincai for a free quote:
 
-## Why Choose Bincai
-
-| Feature | Detail |
-|---------|--------|
-| Experience | 22 years since 2003 |
-| Factory | 10,000m² with KBA & Heidelberg presses |
-| Quality | ISO 9001:2015 certified |
-| Eco | FSC certified sustainable materials |
-| Capacity | 1.7M+ color boxes + 220K+ gift boxes daily |
-| Clients | 200+ brands across 50+ countries |
-| Custom | Any size, color, finish, insert |
-| MOQ | 500-1000 pcs, trial orders accepted |
-| Free Sample | Free pre-production sample (freight collect) |
-| Shipping | Worldwide DHL/FedEx/UPS/Sea |
+- **Tel**: +86-18934352881
+- **Email**: qo82@icloud.com
+- **MOQ**: 300–500 units | **Lead Time**: 15–20 days
+- **Free Samples**: Pre-production samples in 7–15 working days
 
 [Request your free quote →](/contact/)

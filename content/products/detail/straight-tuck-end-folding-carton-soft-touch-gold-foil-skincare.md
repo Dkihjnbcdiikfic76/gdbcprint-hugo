@@ -74,6 +74,30 @@ The Bincai Straight Tuck End (STE) Folding Carton with Soft-Touch Lamination del
 
 *Guangdong Bincai Color Printing Co., Ltd. — 22 years of packaging excellence. ISO 9001:2015 & FSC certified. 10,000 sqm Foshan factory + 8,000 sqm smart facility. Daily output: 1.7M+ boxes. Serving 60+ countries worldwide.*
 
+## FAQ
+
+**Q: What is the minimum order quantity (MOQ) for custom folding cartons with soft-touch lamination?**
+A: MOQ starts at 500 units for standard straight tuck end cartons with soft-touch finish. For gold foil stamping combinations, MOQ is 1,000 units due to foil die fabrication. We offer free structural samples and 3D renderings before production commitment.
+
+**Q: Can you match my brand's specific Pantone color?**
+A: Yes. Our Heidelberg 7+1 UV press achieves ΔE ≤ 2.0 color accuracy for Pantone spot colors. We also provide CMYK proofing before full production run. Standard turnaround for Pantone-matched cartons is 15–18 working days.
+
+**Q: Is soft-touch lamination durable for e-commerce shipping?**
+A: Soft-touch (velvet) lamination is scratch-resistant and fingerprint-proof, rated for 500+ rub cycles (Sutherland Rub Test). For direct-to-consumer shipping, we recommend pairing with a corrugated mailer outer box for added protection during transit.
+
+**Q: What paperboard grades do you recommend for folding cartons?**
+A: We recommend 300–400gsm CCNB (Clay Coated News Back) for standard retail cartons, 350gsm SBS (Solid Bleached Sulphate) for premium cosmetic packaging, and 250–300gsm duplex board for cost-sensitive projects. All boards are FSC-certified and available with recycled content options.
+
+**Q: Can the gold foil be combined with embossing for a 3D effect?**
+A: Yes. Our Bobst BMA foil stampers can register hot foil with embossing in a single pass, creating raised metallic logos and decorative patterns. This combination is especially effective on soft-touch surfaces where the contrast between matte texture and shiny foil creates a premium sensory experience.
+
+## Related Products
+
+- [Auto Bottom Folding Carton for Food and Soap Packaging](/products/detail/auto-bottom-folding-carton-for-food-soap-candle-packaging/) — auto-lock base with tuck-top closure for food-safe applications
+- [Custom Folding Carton with Spot UV and Soft-Touch Lamination](/products/detail/cosmetic-folding-carton-spot-uv-soft-touch-lamination/) — dual-finish luxury folding carton for cosmetics
+- [Custom Folding Carton with Die-Cut Handle and Full-Flap Lid](/products/detail/custom-folding-carton-full-flap-lid-insert-apparel/) — premium apparel box with integrated handle
+- [Straight Tuck End Folding Carton with Matte Lamination](/products/detail/straight-tuck-end-folding-carton-box-with-matte-lamination/) — clean matte finish for minimalist retail packaging
+
 ## Why Choose Bincai
 
 | Feature | Detail |
