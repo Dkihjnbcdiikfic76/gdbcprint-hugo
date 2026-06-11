@@ -2,6 +2,7 @@
 title: "8 Surface Finishing Techniques That Transform Paper Boxes into Luxury Packaging"
 date: 2026-06-11
 draft: false
+image: "/images/carousel-factory.jpg"
 description: "From matte lamination to hot foil stamping — how Bincai's 10,000 sqm factory combines KBA 1050 offset, Heidelberg 7+1 UV, and post-press finishing to produce 1.7M premium paper boxes daily. ISO 9001 & FSC certified, 22 years experience."
 
 ---
