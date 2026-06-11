@@ -93,4 +93,29 @@ The Bincai Kraft Paper Gift Box with Natural Hemp Rope Handle represents our com
 | Free Sample | Free pre-production sample (freight collect) |
 | Shipping | Worldwide DHL/FedEx/UPS/Sea |
 
+## FAQ
+
+**Q: What percentage of recycled content is in the kraft board — and is the entire box compostable?**
+
+A: Our FSC Mix Credit kraft board contains 40–70% post-consumer recycled fiber depending on the grade (350gsm standard is 55% recycled). All components — uncoated kraft board, 5mm natural hemp rope, soy-based inks (VOC <3%), and water-based PVA adhesive (formaldehyde-free) — are certified EN 13432 compostable. The entire box breaks down in industrial composting facilities within 90 days. Note: if you choose the magnetic closure option, the neodymium magnets are recyclable metal — they should be removed before composting.
+
+**Q: Will the water-based coating provide enough protection compared to plastic lamination?**
+
+A: Our water-based acrylic varnish provides scuff resistance equivalent to 3H pencil hardness and passes 200-cycle Sutherland rub testing without visible wear. For retail environments with high handling (repeated shelf stocking, customer inspection), we recommend the water-based varnish option. For short-term use (event favors, gift packaging), uncoated kraft performs well. Neither option uses plastic film — both maintain full recyclability. For heavy-duty protection, the 400gsm board upgrade reduces denting and corner crush without adding plastic.
+
+**Q: Is soy-based ink safe for direct food contact packaging?**
+
+A: Yes. Our soy-based CMYK inks meet FDA 21 CFR 175.300 for indirect food contact and Swiss Ordinance SR 817.023.21 for direct dry food contact. The ink system contains ≥20% renewable soy content with VOC emissions below 3%. For direct unpackaged food contact (chocolates, baked goods, loose tea), we recommend adding an uncoated kraft tissue liner as a barrier — standard across all food-grade orders at no extra cost. Full migration test reports available on request.
+
+**Q: How does the hemp rope handle hold up in humid conditions?**
+
+A: Natural 3-strand hemp rope (5mm, tensile strength ≥50kg) is hygroscopic — it absorbs ambient moisture and can lose 5–10% tensile strength at >85% RH. In practice, this has never caused a failure in our 22 years of production because the handle is rated for 50kg and the heaviest gift boxes weigh under 3kg (17× safety margin). For tropical shipping destinations, we offer a cotton rope alternative (8mm, 80kg tensile, less hygroscopic) at the same price. The die-cut slot attachment is the real strength point — tested to 15kg pull without tear initiation, far exceeding the rope's capacity.
+
+## Related Products
+
+- [Biodegradable Kraft Paper Box for Eco-Friendly Cosmetics](/products/detail/biodegradable-kraft-paper-box-eco-friendly-cosmetics-packaging/) — Compostable kraft box with PLA window, molded pulp tray, and soy ink. Ideal for organic skincare and zero-waste beauty brands.
+- [Compostable Kraft Paper Food Box with PLA Window](/products/detail/compostable-kraft-paper-food-box-with-pla-window-sustainable/) — FDA-compliant food-grade kraft box with corn-starch PLA window, water-based adhesive. EN 13432 certified.
+- [Brown Kraft Paper Folding Box with Jute Handle](/products/detail/brown-kraft-paper-folding-box-with-jute-handle-eco-retail-packaging/) — Eco retail packaging with jute rope handle, flat-ship design, FSC certified. MOQ 500.
+- [Custom Kraft Paper Folding Box — Sustainable Retail Packaging](/products/detail/custom-kraft-paper-folding-box-sustainable-retail-packaging/) — Versatile kraft folding carton with full CMYK soy ink, custom die-cut windows, and water-based coating. ISO 9001.
+
 [Request your free quote →](/contact/)

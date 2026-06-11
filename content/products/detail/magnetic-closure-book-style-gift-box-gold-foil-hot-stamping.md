@@ -97,6 +97,31 @@ Elegant magnetic closure book-style gift box with gold foil hot stamping, manufa
 | **12-Point QC** | Material inspection through pre-shipment audit with photographic record |
 | **Free Samples** | 3-5 day pre-production samples with your artwork and foil selection |
 
+## FAQ
+
+**Q: How strong are the neodymium magnets — will the box stay closed during shipping?**
+
+A: Bincai uses N35 to N52 grade neodymium magnets with pull force ranging from 4–7N (N35) to 8–14N (N52). All magnet assemblies undergo Gauss meter verification and 500+ cycle testing. For shipping, we recommend N42 magnets (6–10N) which provide secure closure during transit while remaining easy to open. Every production batch passes ISTA 2A drop testing — magnet retention is verified across 10 drops from 1m.
+
+**Q: Can these book-style boxes be used year-round or are they seasonal?**
+
+A: Absolutely year-round. While gold foil and velvet interiors make them ideal for Christmas and holiday gifting, our clients use them across all seasons: Valentine's Day (rose gold + satin), Mother's Day (soft-touch white + silver foil), corporate Q4 awards (matte navy + gold), and spring product launches (pastel wraps + debossed logos). The book-style format is timeless — change the wrap color and foil to match your campaign.
+
+**Q: What's the difference between custom size and template MOQ?**
+
+A: Template sizes (A6/A5/A4, 120–250mm square) start at 500 units because the die-cutting tooling already exists. Custom dimensions require a new die (CNC-machined, 3–5 day lead time) and start at 1,000 units. Multi-color foil stamping adds 2–3 days to tooling and may raise MOQ to 1,000+. We recommend starting with a template size for first orders, then transitioning to custom dimensions for full production runs.
+
+**Q: Can these boxes be shipped flat to save on freight?**
+
+A: Yes — magnetic closure book-style boxes can be designed for flat-ship. The spine is creased but not pre-glued, and the magnet assemblies are positioned so the box folds flat. Assembly at destination takes 10–15 seconds per unit (fold spine, insert product, close magnetic flap). Flat-ship typically reduces freight volume by 60–70%. We provide assembly instruction videos with every flat-ship order.
+
+## Related Products
+
+- [2026 Christmas Gift Box with Magnetic Closure](/products/detail/2026-christmas-gift-box-with-magnetic-closure-holiday-packaging/) — Seasonal holiday packaging with foil snowflake design, velvet flocking, and magnetic closure. MOQ 500.
+- [Custom Magnetic Closure Wine Bottle Gift Box](/products/detail/custom-magnetic-closure-wine-bottle-gift-box/) — Single-bottle rigid box with magnetic flap, velvet cradle insert, and gold foil. ISO 9001 · FSC.
+- [Custom Printed Magnetic Closure Paper Box for Retail](/products/detail/custom-printed-magnetic-closure-paper-box-for-retail/) — Retail-ready magnetic box with full CMYK print, matte lamination, and custom insert. 1,000 sqm smart factory line.
+- [Drawer Slide Magnetic Rigid Box with Ribbon Pull](/products/detail/drawer-slide-magnetic-rigid-box-ribbon-pull-custom-insert/) — Drawer-style rigid box with hidden magnetic stop, satin ribbon pull, and custom foam insert.
+
 ## Contact
 
 MOQ from 500 units. Free pre-production samples (freight collect). Lead time: 15-20 working days (includes tooling for custom sizes). Foil color samples and material swatches available. Phone: +86-18934352881. Email: qo82@icloud.com. Factory: No.6-7 Shunyuan North Rd, Wusha, Daliang, Shunde, Foshan, Guangdong, China.
