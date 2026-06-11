@@ -74,13 +74,6 @@ A: Yes. Our auto-lock bottom design is engineered for products up to 500g in sta
 
 **Q: Can you add a resealable feature?**
 A: Yes. Options include a tear-strip with adhesive reseal strip, a press-to-close tab, or a tuck-top with extended flap for repeated opening/closing.
-
-## Related Products
-- [Auto Lock Bottom Folding Carton Box CMYK Printing Food](/products/detail/auto-lock-bottom-folding-carton-box-cmyk-printing-food/) — auto-lock bottom variant
-- [Auto Bottom Folding Carton for Food Soap Candle Packaging](/products/detail/auto-bottom-folding-carton-for-food-soap-candle-packaging/) — multi-use auto-bottom
-- [Custom Folding Paper Box with PVC Window Display Food Safe](/products/detail/custom-folding-paper-box-with-pvc-window-display-food-safe/) — window display
-- [Custom Folding Carton Box CMYK Offset Printing Retail Packaging](/products/detail/custom-folding-carton-box-cmyk-offset-printing-retail-packaging/) — general retail
-
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Factory visits welcome.
 

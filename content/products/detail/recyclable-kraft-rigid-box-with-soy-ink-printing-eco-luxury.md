@@ -81,13 +81,6 @@ A: Rigid greyboard construction (1200–1800gsm) provides equivalent crush resis
 
 **Q: What certifications do you hold for eco packaging?**
 A: FSC Chain-of-Custody, ISO 9001:2015, EN 13432 compostability certification, American Soybean Association soy ink seal, EN 71-3 toy safety, and FDA 21 CFR 175.105 for indirect food contact.
-
-## Related Products
-- [Recyclable Kraft Folding Carton Eco-Friendly Food Packaging](/products/detail/recyclable-kraft-folding-carton-eco-friendly-food-packaging/) — folding carton for food and bakery
-- [Kraft Paper Gift Box with Hemp Rope Handle Soy Ink](/products/detail/kraft-paper-gift-box-hemp-rope-handle-soy-ink/) — hemp rope handle eco gift box
-- [Natural Kraft Paper Gift Box with Jute Ribbon Eco-Friendly](/products/detail/natural-kraft-paper-gift-box-with-jute-ribbon-eco-friendly/) — jute ribbon closure with rustic finish
-- [Kraft Eco-Friendly Tuck-Top Mailer Box Soy Ink](/products/detail/kraft-eco-friendly-tuck-top-mailer-box-soy-ink/) — tuck-top mailer box with soy ink printing
-
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Ask about our eco-packaging audit program.
 

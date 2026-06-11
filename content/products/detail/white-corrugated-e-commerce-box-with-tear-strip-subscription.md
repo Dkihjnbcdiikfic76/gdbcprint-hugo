@@ -108,12 +108,3 @@ A: MOQ is 500 units for standard configurations with single-color flexo printing
 
 **Q: How does the tear strip work, and is it reliable for customer unboxing?**  
 A: The tear strip is an integrated PET tape or perforated line that runs along the box perimeter — the end user pulls the exposed tab and the strip cleanly separates, opening the box without tools or tearing the package. Initiation force is calibrated to ≤4.5N for ease of use. Every batch undergoes tear strip function testing: clean separation along the full length with no tearing of the corrugated liner. Dual tear strip configurations are available for tamper-evident applications.
-
-## Related Products
-
-- [Printed Corrugated Box with Custom Logo Mailer Packaging](/products/detail/printed-corrugated-box-custom-logo-mailer-packaging/) — Full-color CMYK printed corrugated box for brand-forward DTC shipping
-- [Single-Wall Corrugated Shipping Box with Tear Strip](/products/detail/single-wall-corrugated-shipping-box-with-tear-strip/) — Lightweight single-wall corrugated with integrated tear strip for e-commerce
-- [Tri-Wall Corrugated Heavy-Duty Shipping Box for Pallet Export](/products/detail/tri-wall-corrugated-heavy-duty-shipping-box-pallet-export/) — Triple-wall construction for international freight and palletized shipments
-- [White Corrugated Shipping Box for Cosmetic & Apparel Delivery](/products/detail/white-corrugated-shipping-box-for-cosmetic-apparel-delivery/) — Clean white corrugated with tear strip for fashion and beauty DTC brands
-
-[Request your free quote →](/contact/)

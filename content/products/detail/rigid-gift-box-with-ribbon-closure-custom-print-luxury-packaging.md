@@ -75,13 +75,6 @@ A: Standard widths are 10mm, 15mm, 20mm, and 25mm. Custom widths available on re
 
 **Q: Can you produce ribbon-closure boxes without a lid (open-top presentation)?**
 A: Yes, we produce ribbon-tie boxes in open-top and two-piece telescopic lid configurations. Open-top ribbon boxes are popular for wedding favors and retail counter displays.
-
-## Related Products
-- [Book Style Rigid Gift Box with Magnetic Flap Custom Print](/products/detail/book-style-rigid-gift-box-with-magnetic-flap-custom-print/) — hidden magnetic flap
-- [Custom Rigid Gift Box with Ribbon Gold Foil Embossing](/products/detail/custom-rigid-gift-box-with-ribbon-gold-foil-embossing/) — flagship luxury presentation
-- [Rigid Gift Box Telescopic Lid Hot Foil Premium](/products/detail/rigid-gift-box-telescopic-lid-hot-foil-premium/) — two-piece telescopic
-- [Luxury Rectangular Rigid Gift Box with Magnetic Flap UV Spot](/products/detail/luxury-rectangular-rigid-gift-box-with-magnetic-flap-uv-spot/) — spot UV contrast
-
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Factory visits welcome.
 

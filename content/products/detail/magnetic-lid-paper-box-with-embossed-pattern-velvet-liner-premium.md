@@ -119,14 +119,6 @@ A: Yes, multi-level sculpted embossing with registered foil stamping is one of B
 
 **Q: What is the MOQ for custom velvet-lined magnetic lid boxes, and what sampling options are available before committing to a large order?**
 A: Our standard minimum order quantity is 500–1000 units per design for custom velvet-lined magnetic lid boxes with embossed patterns, which is highly competitive for fully bespoke luxury rigid packaging. For startups, boutique brands, and market testing, we accept trial orders as low as 200 units with a modest per-unit premium. Before production, you receive a free digital 3D structural design proof within 48 hours, followed by a white-glue mockup (structural sample without final materials) in 5–7 working days, and a pre-production sample with your actual wrapping paper, velvet color, embossing pattern, and magnetic closure in 7–10 working days (freight collect). This incremental sampling process allows you to physically evaluate the embossing depth, velvet texture, magnet feel, and overall build quality before authorizing the full production run. Custom Pantone-dyed velvet liners require a minimum of 3,000 units due to dye-lot minimums at our textile partner.
-
-## Related Products
-
-- [Magnetic Closure Luxury Rigid Gift Box Custom Logo Hot Stamping](/products/detail/magnetic-closure-luxury-rigid-gift-box-custom-logo-hot-stamping/) — Premium magnetic closure rigid box with hot-stamped logo branding, ideal for luxury retail packaging across jewelry, cosmetics, and spirits.
-- [Velvet Jewelry Gift Box Magnetic Closure Gold Foil Ring Packaging](/products/detail/velvet-jewelry-gift-box-magnetic-closure-gold-foil-ring-packaging/) — Compact velvet-lined jewelry box with magnetic snap closure and gold foil accents, designed for ring and small jewelry presentation.
-- [Luxury Necklace Gift Box Magnetic Flap Velvet Lining Gold Foil](/products/detail/luxury-necklace-gift-box-magnetic-flap-velvet-lining-gold-foil/) — Elegant magnetic flap box with full velvet interior and gold foil detailing, purpose-built for necklace and pendant display.
-- [Magnetic Closure Book-Style Box Velvet Lining Corporate Gift](/products/detail/magnetic-closure-book-style-box-velvet-lining-corporate-gift/) — Book-style opening rigid box with magnetic closure and plush velvet lining, perfect for premium corporate gifts and executive presentation sets.
-
 ## Contact
 
 - **Phone:** +86-18934352881

@@ -90,12 +90,3 @@ A: Yes. Our KBA 1050 4-color press with aqueous or lamination coating provides s
 
 **Q: What is the lead time for corrugated display boxes?**
 A: Standard lead time is 15–20 days from artwork approval. Complex multi-color + window designs take 20–25 days. Rush orders (10–12 days) available with expedited die-cutting.
-
-## Related Products
-
-- [Customizable Fuchsia Corrugated Mailer Boxes for Ecommerce Shipping](/products/detail/customizable-fuchsia-corrugated-mailer-boxes-for-ecommerce-shipping/) — Corrugated mailers for ecommerce fulfillment
-- [Custom Toy Packaging Box with Window Display Corrugated](/products/detail/custom-toy-packaging-box-with-window-display-corrugated/) — Corrugated toy display with window cutout
-- [Printed Toy Gift Box with Insert Cardboard Packaging](/products/detail/printed-toy-gift-box-with-insert-cardboard-packaging/) — Gift-ready corrugated packaging with inserts
-- [Kraft Eco-Friendly Tuck-Top Mailer Box with Soy Ink Print](/products/detail/kraft-eco-friendly-tuck-top-mailer-box-with-soy-ink-print/) — Eco-friendly corrugated mailer alternative
-
-[Request your free quote →](/contact/)

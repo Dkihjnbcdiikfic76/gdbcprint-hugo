@@ -76,11 +76,3 @@ A: Yes — we can reverse-engineer any paper box from a physical sample or detai
 
 **Q: What material thickness options are available for rigid special-shape boxes?**
 A: Greyboard thickness ranges from 800gsm (lightweight, ~1mm) to 2,500gsm (heavy luxury, ~3mm). Most rigid gift boxes use 1,200–1,600gsm for the optimal balance of weight and structural integrity. For very small boxes (jewelry), 800–1,000gsm is sufficient; for large format boxes, 1,600–2,000gsm ensures rigidity.
-
-## Related Products
-- [Custom Shape Rigid Paper Box with Die-Cut Window Display](/products/detail/custom-shape-rigid-paper-box-with-die-cut-window-display/) — rigid box with transparent window for product visibility
-- [Custom Rigid Gift Box with Ribbon Gold Foil Embossing](/products/detail/custom-rigid-gift-box-with-ribbon-gold-foil-embossing/) — premium rigid box with decorative ribbon and foil stamping
-- [Book Style Rigid Gift Box with Magnetic Flap Custom Print](/products/detail/book-style-rigid-gift-box-with-magnetic-flap-custom-print/) — book-style opening with magnetic closure
-- [Double Door Rigid Gift Box with Satin Ribbon Magnetic Closure](/products/detail/double-door-rigid-gift-box-with-satin-ribbon-magnetic-closure/) — elegant double-door presentation box
-
-[Request your free quote →](/contact/)

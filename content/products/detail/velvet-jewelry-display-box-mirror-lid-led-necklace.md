@@ -104,14 +104,6 @@ Luxurious velvet jewelry display box with an integrated full-lid mirror and auto
 
 Phone: +86-18934352881 (Mr. Zhou) | Email: qo82@icloud.com  
 MOQ 500 units. Trial orders with sample approval before production. Response within 24 hours. Factory visits welcome at No.6-7 Shunyuan North Rd, Wusha, Daliang, Shunde, Foshan, Guangdong.
-
-## Related Products
-
-- [Velvet Ring Display Box with Built-in LED Spotlight Custom Logo Gold Foil](/products/detail/velvet-ring-display-box-led-spotlight-custom-logo-gold-foil/) — Single ring presentation box with built-in LED spotlight, custom gold foil logo, and velvet flocked interior for premium jewelry retail
-- [Velvet Bracelet Display Box with LED Spotlight and Satin Pillow](/products/detail/velvet-bracelet-display-box-led-spotlight-satin-pillow/) — Bracelet display box featuring LED spotlight illumination, satin pillow insert, and magnetic closure for luxury bracelet presentation
-- [Velvet Lined Jewelry Pendant Box with LED](/products/detail/velvet-lined-jewelry-pendant-box-with-led/) — Compact velvet-lined pendant box with auto-activating LED strip, custom die-cut insert, and magnetic flip lid
-- [Velvet Jewelry Display Box with LED Light Ring Earring Packaging](/products/detail/velvet-jewelry-display-box-led-light-ring-earring-packaging/) — Multi-purpose velvet jewelry display box with LED light, designed for rings and earrings with custom flocked insert tray
-
 ## FAQ
 
 **Q: How long does the LED battery last in the jewelry display box?**

@@ -53,12 +53,3 @@ A: Yes, we provide free pre-production samples so you can evaluate the materials
 
 **Q: What interior materials are available for LED jewelry boxes?**
 A: We offer a wide range of interior materials including velvet, suede, satin, flocking, and foam inserts — all available in custom colors to match your brand. For necklace display boxes, velvet and suede are our most popular choices due to their soft touch and premium presentation that complements LED lighting. All interior materials are sourced from FSC-certified supply chains and meet ISO 9001:2015 quality standards.
-
-## Related Products
-
-- [Velvet Jewelry Display Box with LED Light Ring Earring Packaging](/products/detail/velvet-jewelry-display-box-led-light-ring-earring-packaging/) — Premium LED-lit velvet display box designed for ring and earring sets
-- [Velvet Lined Jewelry Pendant Box with LED](/products/detail/velvet-lined-jewelry-pendant-box-with-led/) — Compact velvet-lined pendant box with integrated LED illumination
-- [Jewelry Ring Display Box LED Spotlight Velvet Flocking Interior](/products/detail/jewelry-ring-display-box-led-spotlight-velvet-flocking/) — Ring display box with focused LED spotlight and soft velvet flocking
-- [Velvet Jewelry Display Box with Mirror Lid and LED Strip for Necklace Packaging](/products/detail/velvet-jewelry-display-box-mirror-lid-led-necklace/) — Elegant velvet necklace box with mirror lid and LED strip lighting
-
-[Request your free quote →](/contact/)

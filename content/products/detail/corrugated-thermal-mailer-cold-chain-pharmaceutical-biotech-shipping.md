@@ -98,14 +98,6 @@ A: Yes — the same box construction supports frozen shipping with a different g
 **Q: What are the lead time, MOQ, and regulatory compliance considerations?**
 
 A: Standard lead time is 15-20 days for existing validated configurations and stock materials. Custom size requiring new die-board tooling adds 5-7 days. New ISTA thermal validation for custom payload adds 14-21 days. MOQ is 500 units for standard configurations, 1000+ for custom thermal liner or new ISTA validation. Our facility is ISO 9001:2015 certified with full batch traceability — GDP (Good Distribution Practice) documentation package available including: certificate of conformance per batch, ISTA 7D test reports, material certificates (board, liner, adhesive), and chain-of-custody documentation. We also support 21 CFR Part 11 compliant electronic documentation for FDA-regulated products.
-
-## Related Products
-
-- [Double-Wall Corrugated Mailer — Wine Bottle Shipping with Foam Insert](/products/detail/double-wall-corrugated-mailer-wine-bottle-shipping-foam-insert/) — Double-wall construction for fragile product protection
-- [Heavy-Duty Corrugated Mailer with Pinch-Bottom Seal](/products/detail/heavy-duty-corrugated-mailer-with-pinch-bottom-seal/) — Secure pinch-bottom closure for sensitive shipments
-- [Corrugated Bubble-Lined Mailer — Glassware Shipping](/products/detail/corrugated-mailer-bubble-lining-glassware-shipping/) — Protective liner concept adapted for fragile product categories
-- [Double-Wall Heavy-Duty Corrugated Shipping Box — Glassware](/products/detail/double-wall-heavy-duty-corrugated-shipping-box-glassware/) — Double-wall board construction for maximum crush protection
-
 ## Contact
 
 MOQ 500 units. ISTA 7D thermal validation reports, liner samples, and gel-pack configuration guides available. Sample within 5 days. Lead time 15-40 days (depending on validation requirements). Phone: +86-18934352881. Email: qo82@icloud.com.

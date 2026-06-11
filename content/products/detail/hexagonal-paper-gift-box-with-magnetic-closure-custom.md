@@ -88,12 +88,3 @@ No. Magnets are embedded between layers of greyboard during assembly so they are
 **What interior lining options work best for jewelry presentation?**
 
 For rings, we recommend a velvet-flocked insert with a dedicated ring slot. For necklaces and bracelets, a satin-lined interior with foam padding prevents tangling and scratching. For multi-piece jewelry sets, custom-fit foam trays with individual compartments offer the most secure and elegant presentation.
-
-## Related Products
-
-- [Custom Luxury Magnetic Closure Gift Box for Premium Corporate Gifts](/products/detail/custom-luxury-magnetic-closure-gift-box-premium/)
-- [Custom Rigid Magnetic Closure Gift Box with Ribbon for Jewelry Packaging](/products/detail/custom-rigid-magnetic-closure-gift-box-ribbon/)
-- [Custom Magnetic Closure Paper Box with Foam Insert for Luxury Candles](/products/detail/custom-magnetic-closure-paper-box-foam-insert/)
-- [Custom Paper Watch Box with Magnetic Closure and Velvet Interior](/products/detail/custom-paper-watch-box-magnetic-closure-velvet/)
-
-[Request your free quote →](/contact/)

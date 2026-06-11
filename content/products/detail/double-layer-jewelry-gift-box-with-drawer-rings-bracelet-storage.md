@@ -65,13 +65,6 @@ Double layer jewelry gift box with pull-out drawer for rings, bracelets, and ear
 - KBA 1050 4-color + Heidelberg 7+1 UV presses
 - Dedicated jewelry box assembly line with precision drawer integration
 - Daily capacity: 1.7 million color boxes + 220,000+ gift boxes
-
-## Related Products
-- [Custom Jewelry Gift Box with Velvet Insert Necklace Packaging](/products/detail/custom-jewelry-gift-box-with-velvet-insert-necklace-packaging/)
-- [Velvet Earring Stud Display Box Magnetic Double Deck](/products/detail/velvet-earring-stud-display-box-magnetic-double-deck/)
-- [Jewelry 3-Tier Velvet Display Box with LED Mirror Lid](/products/detail/jewelry-3-tier-velvet-display-box-led-mirror-lid-necklace-earring-ring/)
-- [All Jewelry Boxes](/categories/jewelry-boxes/)
-
 ## FAQ
 
 **Q: What is the MOQ for custom jewelry boxes at Bincai?**

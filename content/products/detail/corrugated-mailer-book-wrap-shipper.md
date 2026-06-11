@@ -82,14 +82,6 @@ A: Yes. We offer flexo printing (1-2 colors) inline during corrugation for cost-
 
 **Q: Is this mailer compliant with Amazon FBA and ISTA standards?**
 A: Yes. All Bincai corrugated mailers are designed to meet Amazon FBA dimensional tier requirements and pass ISTA 1A drop test protocols (10-drop sequence). We also offer ISTA 3A pre-certification testing for high-volume fulfillment programs.
-
-## Related Products
-
-- [Corrugated Tuck-Top Mailer with Perforated Tear Strip](/products/detail/corrugated-tuck-top-mailer-perforated-tear-strip-ecommerce/) — E-commerce mailer with easy-open tear strip for apparel and consumer goods
-- [Heavy-Duty Double-Wall Corrugated Shipping Box](/products/detail/double-wall-heavy-duty-corrugated-shipping-box-custom-size/) — Double-wall BC-flute for fragile and heavy items
-- [Single-Wall Corrugated Shipping Box with Tear Strip](/products/detail/single-wall-corrugated-shipping-box-with-tear-strip/) — Lightweight single-wall option with tear-strip convenience
-- [Custom Printed Corrugated Mailer Box for E-Commerce Branding](/products/detail/custom-printed-corrugated-mailer-box-e-commerce-branded/) — Full-color branded mailer for subscription and DTC e-commerce
-
 ## Contact
 
 MOQ 1,000 units. Free sample within 5 days. Lead time 12-20 days. Phone: +86-18934352881. Email: qo82@icloud.com.

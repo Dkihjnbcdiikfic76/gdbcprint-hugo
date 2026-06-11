@@ -64,13 +64,6 @@ Eco-friendly kraft paper mailer box with paper tape closure — 100% recyclable,
 - KBA 1050 4-color + Heidelberg 7+1 UV presses
 - Dedicated kraft paper production line for eco-friendly packaging
 - Daily capacity: 1.7 million color boxes + 220,000+ gift boxes
-
-## Related Products
-- [Eco-Friendly Kraft Paper Gift Box with Cotton Handle Custom Print](/products/detail/eco-friendly-kraft-paper-gift-box-cotton-handle-custom-print/)
-- [FSC Certified Kraft Paper Box with Custom Stamp Logo Natural Look](/products/detail/fsc-certified-kraft-paper-box-with-custom-stamp-logo-natural-look/)
-- [Biodegradable Kraft Paper Box for Eco-Friendly Cosmetics](/products/detail/biodegradable-kraft-paper-box-eco-friendly-cosmetics-packaging/)
-- [All Kraft Eco Boxes](/categories/kraft-eco-boxes/)
-
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Free samples available. Factory visits welcome.
 

@@ -90,14 +90,6 @@ A: Custom die-cut insert trays are the core of this product. Options include: si
 
 **Q: What is the minimum order quantity and lead time?**
 A: Standard MOQ is 1,000 units for existing tooling. Custom die-cut insert trays requiring new tooling have a 2,000-unit MOQ. Lead time is 15-25 days depending on finishing complexity (spot UV + foil adds 3-5 days vs standard CMYK). Pre-production samples ship in 3-5 days. Bincai runs 1.7M color boxes daily on KBA 1050 and Heidelberg 7+1 UV presses, so production capacity is always available.
-
-## Related Products
-
-- [Folding Carton — Die-Cut Handle & Spot UV Luxury Retail](/products/detail/custom-folding-carton-die-cut-handle-spot-uv-retail-luxury/) — Integrated carry handle with spot UV branding for premium retail carry-out
-- [Auto-Lock Bottom Folding Carton — Food, Soap & Candle](/products/detail/auto-lock-bottom-folding-carton-for-food-soap-candle-packaging/) — Tool-free assembly auto-lock bottom for fast-fill production lines
-- [Cosmetic Folding Carton — Spot UV & Soft-Touch Lamination](/products/detail/cosmetic-folding-carton-spot-uv-soft-touch-lamination/) — Same premium finish combination optimized for cosmetics and skincare
-- [Folding Carton with Euro Hang Tab — Retail Display](/products/detail/custom-folding-carton-with-euro-hang-tab-retail-display/) — Pegboard-ready with integrated Euro hang tab for retail shelf merchandising
-
 ## Contact
 
 MOQ 1,000 units (standard), 2,000+ (custom insert tooling). Soft-touch/foil finish samples available. Sample within 5 days. Lead time 15-25 days. Phone: +86-18934352881. Email: qo82@icloud.com.

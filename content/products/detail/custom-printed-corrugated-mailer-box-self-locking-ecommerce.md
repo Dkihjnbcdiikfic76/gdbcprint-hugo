@@ -102,14 +102,6 @@ A: Yes. We manufacture to Amazon FBA packaging requirements including: 6-sided i
 
 **Q: What's the lead time for a new custom mailer design?**
 A: Standard timeline: digital proof (1–2 days) → physical sample with actual flute, print, and die-cut (5–7 days) → mass production (7–12 days). Rush service: 5 days total. New custom die fabrication adds approximately 3 working days to the initial order.
-
-## Related Products
-
-- [Custom Corrugated Mailer with Self-Locking Bottom & Tear Strip](/products/detail/custom-corrugated-mailer-with-self-locking-bottom-tear-strip/) — Self-locking bottom with integrated tear strip for easy opening
-- [Corrugated Tuck-Top Mailer with Perforated Tear Strip](/products/detail/corrugated-tuck-top-mailer-perforated-tear-strip-ecommerce/) — Tuck-top mailer variant with e-commerce-ready features
-- [Custom Corrugated Subscription Box — Kraft with CMYK Label](/products/detail/custom-corrugated-subscription-box-kraft-cmyk-label-tear-strip/) — Kraft-based subscription box with label-style branding
-- [Custom Printed Corrugated Display Box with CMYK Retail Graphics](/products/detail/custom-corrugated-display-box-with-cmyk-print-retail/) — Corrugated box with retail-quality CMYK offset printing
-
 ## Why Bincai
 
 | Feature | Detail |

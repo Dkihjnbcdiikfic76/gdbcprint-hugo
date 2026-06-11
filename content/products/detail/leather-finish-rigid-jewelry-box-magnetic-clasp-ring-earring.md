@@ -92,11 +92,3 @@ A: Yes. Our velvet flocking is pH-neutral and free from sulfur compounds that co
 
 **Q: What's the minimum order quantity for custom leatherette jewelry boxes?**
 A: Our standard MOQ is 500 units with stock leatherette colors. Custom Pantone-matched leatherette requires 3000+ units. We accept trial orders and provide free pre-production samples (freight collect) with 5–7 day turnaround. Rush production available for 1000+ unit orders.
-
-## Related Products
-
-- [Custom Jewelry Display Box with LED Lighting — Velvet Interior Necklace](/products/detail/custom-jewelry-display-box-with-led-lighting-velvet-interior-necklace/) — LED-lit jewelry display box
-- [Luxury Watch Box with Magnetic Lid and Velvet Interior](/products/detail/luxury-magnetic-closure-rigid-box-velvet-watch-jewelry-gift-bincai/) — Magnetic closure rigid box for watches and jewelry
-- [Two-Piece Rigid Gift Box with Gold Foil Logo](/products/detail/two-piece-rigid-gift-box-gold-foil-logo-custom-print/) — Two-piece rigid construction with foil branding
-
-[Request your free quote →](/contact/)

@@ -90,14 +90,6 @@ A: We recommend 300–400gsm CCNB (Clay Coated News Back) for standard retail ca
 
 **Q: Can the gold foil be combined with embossing for a 3D effect?**
 A: Yes. Our Bobst BMA foil stampers can register hot foil with embossing in a single pass, creating raised metallic logos and decorative patterns. This combination is especially effective on soft-touch surfaces where the contrast between matte texture and shiny foil creates a premium sensory experience.
-
-## Related Products
-
-- [Auto Bottom Folding Carton for Food and Soap Packaging](/products/detail/auto-bottom-folding-carton-for-food-soap-candle-packaging/) — auto-lock base with tuck-top closure for food-safe applications
-- [Custom Folding Carton with Spot UV and Soft-Touch Lamination](/products/detail/cosmetic-folding-carton-spot-uv-soft-touch-lamination/) — dual-finish luxury folding carton for cosmetics
-- [Custom Folding Carton with Die-Cut Handle and Full-Flap Lid](/products/detail/custom-folding-carton-full-flap-lid-insert-apparel/) — premium apparel box with integrated handle
-- [Straight Tuck End Folding Carton with Matte Lamination](/products/detail/straight-tuck-end-folding-carton-box-with-matte-lamination/) — clean matte finish for minimalist retail packaging
-
 ## Why Bincai
 
 | Feature | Detail |

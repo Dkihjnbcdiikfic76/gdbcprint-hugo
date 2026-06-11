@@ -75,13 +75,6 @@ A: Standard PET windows are technically recyclable but should be separated from 
 
 **Q: How does the sleeve stay in place during shipping?**
 A: The sleeve-tray fit is precision-engineered with controlled friction. For shipping we recommend a shrink-wrap overwrap or a small clear adhesive dot seal, both of which we can apply in-line.
-
-## Related Products
-- [Custom Folding Paper Box with PVC Window Display Food Safe](/products/detail/custom-folding-paper-box-with-pvc-window-display-food-safe/) — window display carton
-- [Cosmetic Folding Carton Spot UV Soft Touch Lamination](/products/detail/cosmetic-folding-carton-spot-uv-soft-touch-lamination/) — soft-touch cosmetic carton
-- [Custom Folding Carton Soft Touch Matte Lamination Cosmetic Box](/products/detail/custom-folding-carton-soft-touch-matte-lamination-cosmetic-box/) — soft-touch + matte
-- [Custom Folding Carton Box CMYK Offset Printing Retail Packaging](/products/detail/custom-folding-carton-box-cmyk-offset-printing-retail-packaging/) — general retail
-
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Factory visits welcome.
 

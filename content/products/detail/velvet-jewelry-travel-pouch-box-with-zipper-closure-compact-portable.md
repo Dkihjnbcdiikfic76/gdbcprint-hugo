@@ -53,12 +53,3 @@ A: Yes, the interior of this pouch box is fully customizable with die-cut foam i
 
 **Q: What is the minimum order quantity, and how quickly can I receive samples?**
 A: The standard MOQ for this velvet jewelry travel pouch box is 500-1000 units, with trial orders accepted for first-time clients. Free pre-production samples are provided (freight collect) and typically ship within 3-5 business days after artwork approval. Full production lead time is 7-15 days for standard orders, and we ship worldwide via DHL, FedEx, UPS, or sea freight depending on volume. Bincai's daily capacity of 1.7M+ color boxes means even large orders are fulfilled on schedule — we have never missed a delivery commitment in 22+ years of operation.
-
-## Related Products
-
-- [Recyclable Kraft Gift Box with Magnetic Closure Eco Luxury](/products/detail/recyclable-kraft-gift-box-magnetic-closure-eco-luxury/) — Premium recyclable kraft rigid box with magnetic closure combining eco credentials with luxury presentation
-- [Kraft Paper Drawer Box with Cotton Pull Handle Sustainable](/products/detail/kraft-paper-drawer-box-cotton-pull-handle-sustainable/) — Eco-friendly kraft drawer box with natural cotton pull handle for premium unboxing
-- [Kraft Shoulder Box with Magnetic Snap and Custom Divider Eco Gift](/products/detail/kraft-shoulder-box-magnetic-snap-custom-divider-eco-gift/) — Sustainable kraft shoulder box featuring magnetic snap closure and customizable internal dividers
-- [Kraft Paper Eco Box with Seed-Embedded Tag Sustainable Gift](/products/detail/kraft-paper-eco-box-seed-embedded-tag-sustainable-gift/) — Innovative kraft gift box with plantable seed-embedded hang tag for a zero-waste unboxing experience
-
-[Request your free quote →](/contact/)

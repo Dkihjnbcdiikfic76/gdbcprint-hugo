@@ -96,14 +96,6 @@ A: Yes — this is one of the most common configurations for gift sets. The CNC 
 **Q: What are the lead time and MOQ considerations for custom satin and foam combinations?**
 
 A: Standard lead time is 15-20 days for existing materials and tooling. Custom-dyed satin interior adds 5-7 days. New foam tray CNC tooling adds 3-5 days (we route from CAD directly — no physical die required). MOQ is 500 units for standard configurations, 1,000 for custom satin color or custom foam layout. Pre-production samples with your exact candle dimensions ship within 5 days for fit verification before full production.
-
-## Related Products
-
-- [Luxury Candle Rigid Gift Box — Custom Foam Insert](/products/detail/luxury-candle-rigid-gift-box-with-custom-foam-insert/) — Rigid two-piece box with custom foam insert for single luxury candles
-- [Luxury Candle Gift Set Rigid Box — Ribbon Tie](/products/detail/luxury-candle-gift-set-rigid-box-ribbon-tie-foam-insert/) — Rigid box with satin ribbon closure for multi-candle gift sets
-- [Magnetic Closure Tea Set Gift Box — Custom Foam Insert](/products/detail/magnetic-closure-tea-set-gift-box-custom-foam-insert/) — Similar magnetic construction with foam tray for premium tea collections
-- [Magnetic Closure Premium Chocolate Box](/products/detail/magnetic-closure-gift-box-for-premium-chocolate-confectionery/) — Magnetic box for luxury confectionery with custom insert options
-
 ## Contact
 
 MOQ 500 units. Satin swatches, foam density samples, and magnet strength demo available. Sample within 5 days. Lead time 15-25 days. Phone: +86-18934352881. Email: qo82@icloud.com.

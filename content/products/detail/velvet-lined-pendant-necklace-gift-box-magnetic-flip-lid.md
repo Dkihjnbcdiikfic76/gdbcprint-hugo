@@ -117,12 +117,3 @@ A: Velvet interior in black, navy, burgundy, cream, or custom Pantone-matched co
 
 **Q: Are your materials certified for sustainable jewelry packaging?**
 A: Yes. Bincai is ISO 9001:2015 and FSC Chain-of-Custody certified. All greyboard contains 100% recycled fiber. FSC-certified virgin paper and soy-based inks available upon request. Our 18,000 sqm facility includes 10,000 sqm main factory plus 8,000 sqm smart factory expansion (2025).
-
-## Related Products
-
-- [Premium Magnetic Rigid Gift Box for Luxury Perfume Packaging](/products/detail/premium-magnetic-rigid-gift-box-for-luxury-perfume-packaging/) — magnetic closure with velvet interior for luxury cosmetics and fragrance
-- [Square Rigid Gift Box with Magnetic Lid Matte Lamination](/products/detail/square-rigid-gift-box-magnetic-lid-matte-lamination-custom/) — custom-printed magnetic closure rigid box with soft-touch finish
-- [Custom Paper Jewelry Box with Foam Insert Velvet Lining](/products/detail/custom-paper-jewelry-box-with-foam-insert-velvet-lining/) — foam insert jewelry box with velvet lining for rings and earrings
-- [Octagonal Rigid Gift Box with Ribbon Bow](/products/detail/octagonal-rigid-gift-box-with-ribbon-bow-luxury/) — luxury confectionery and gift presentation with satin ribbon closure
-
-[Request your free quote →](/contact/)

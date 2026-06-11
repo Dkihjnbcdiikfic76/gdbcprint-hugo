@@ -72,13 +72,6 @@ A: Standard MOQ is 500 units. We also accept trial orders of 100–300 units for
 
 **Q: How long from artwork approval to delivery?**
 A: 10–15 working days for new tooling, 7–10 days for repeat orders. Pre-production samples ship in 5–7 working days with full finishing. Sea freight to EU/US ports: 25–35 days; air freight: 5–7 days.
-
-## Related Products
-- [Custom Rigid Gift Box with Ribbon Gold Foil Embossing](/products/detail/custom-rigid-gift-box-with-ribbon-gold-foil-embossing/) — flagship luxury presentation
-- [Rigid Gift Box Telescopic Lid Hot Foil Premium](/products/detail/rigid-gift-box-telescopic-lid-hot-foil-premium/) — two-piece telescopic construction
-- [Magnetic Closure Book Style Box Satin Ribbon Velvet Insert](/products/detail/magnetic-closure-book-style-box-satin-ribbon-velvet-insert/) — satin ribbon + velvet
-- [Luxury Rectangular Rigid Gift Box with Magnetic Flap UV Spot](/products/detail/luxury-rectangular-rigid-gift-box-with-magnetic-flap-uv-spot/) — spot UV contrast finish
-
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Factory visits welcome.
 

@@ -78,14 +78,6 @@ A: B-flute (2.5mm, ~47 flutes/ft) is our standard — it provides the best balan
 
 **Q: Can the mailer include a return label for easy customer returns?**
 A: Yes — we offer an integrated dual-perforation design. The first perforation is the standard tear strip for opening; a second perforation line with pre-printed return address and prepaid postage indicia creates a built-in return mailer. The customer opens at tear strip 1, removes the product, reverses the mailer, seals with included double-sided tape strip, and drops in any mailbox. This reverse-logistics feature is popular with subscription apparel and book rental services. Return mailer USPS/FedEx/UPS compliant printing available.
-
-## Related Products
-
-- [Corrugated Mailer — Book Wrap Shipper with Custom Print](/products/detail/corrugated-mailer-book-wrap-shipper/) — Wrap-style corrugated shipper for variable-thickness books with custom flexo printing
-- [Self-Locking Corrugated Mailer — E-Commerce Branded](/products/detail/custom-printed-corrugated-mailer-box-self-locking-ecommerce/) — Self-locking bottom corrugated mailer with full CMYK branding for e-commerce
-- [Heavy-Duty Corrugated E-Commerce Shipper — Perforated Tear Strip](/products/detail/heavy-duty-corrugated-ecommerce-shipping-box-perforated-tear-strip/) — Double-wall B/C-flute heavy-duty shipping box with perforated tear strip
-- [Multi-Depth Corrugated Subscription Box — Tear Strip](/products/detail/corrugated-multi-depth-shipping-box-tear-strip-subscription/) — Multi-depth scored corrugated box for subscription services with tear-open convenience
-
 ## Contact
 
 MOQ 1,000-3,000 units. Sample within 5 days. Lead time 15-20 days. Phone: +86-18934352881. Email: qo82@icloud.com.

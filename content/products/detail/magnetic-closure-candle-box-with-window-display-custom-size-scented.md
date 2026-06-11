@@ -93,12 +93,3 @@ A: All window films (PVC, PET, biodegradable) are RoHS-compliant and suitable fo
 
 **Q: What is the MOQ for magnetic closure candle boxes?**
 A: Standard MOQ is 500 units. For complex designs with custom window die-cuts, foil stamping, and embossing, MOQ is 1000 units. We also accept trial orders of 100–300 pcs for first-time buyers.
-
-## Related Products
-
-- [Luxury Two-Piece Magnetic Gift Box with Ribbon Pull](/products/detail/luxury-two-piece-magnetic-gift-box-ribbon-pull/) — Premium two-piece magnetic box with satin ribbon pull
-- [Custom Magnetic Closure Box with Ribbon Tie Jewelry Packaging](/products/detail/custom-magnetic-closure-box-with-ribbon-tie-jewelry-packaging/) — Magnetic closure with elegant ribbon tie for jewelry
-- [Magnetic Closure Book-Style Box with Satin Ribbon Velvet Insert](/products/detail/magnetic-closure-book-style-box-satin-ribbon-velvet-insert/) — Book-style magnetic box with velvet interior
-- [Drawer Slide Magnetic Rigid Box with Ribbon Pull Custom Insert](/products/detail/drawer-slide-magnetic-rigid-box-ribbon-pull-custom-insert/) — Drawer-slide variant with magnetic closure and custom foam insert
-
-[Request your free quote →](/contact/)

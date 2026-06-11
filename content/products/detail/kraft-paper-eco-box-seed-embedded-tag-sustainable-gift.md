@@ -100,12 +100,3 @@ A: Yes. For custom seed blends, minimum order is 5,000 tags (typically added to 
 **Q: How does the kraft eco box compare to a laminated rigid box on cost and minimums?**
 
 A: Kraft eco boxes are typically 30–50% lower cost than laminated rigid boxes because they use fewer materials (no greyboard, no lamination, no magnet) and simpler production (single-pass print + die-cut vs. multi-step rigid box assembly). MOQ starts at 500 units vs. rigid boxes at 1,000+, and tooling costs are lower (single steel-rule die vs. multi-cavity rigid box tooling). The trade-off: kraft boxes have a softer, more organic aesthetic — ideal for natural/artisan brands — while rigid boxes project luxury and heft. Many clients use both: rigid for flagship products, kraft for seasonal and promotional lines.
-
-## Related Products
-
-- [Biodegradable Kraft Paper Box for Eco-Friendly Cosmetics](/products/detail/biodegradable-kraft-paper-box-eco-friendly-cosmetics-packaging/) — PLA window, molded pulp tray, soy ink. Perfect for organic skincare and zero-waste beauty brands. MOQ 500.
-- [Compostable Kraft Paper Food Box with PLA Window](/products/detail/compostable-kraft-paper-food-box-with-pla-window-sustainable/) — FDA-compliant food-grade kraft with corn-starch window. EN 13432 certified, 10–15 day lead time.
-- [Kraft Paper Gift Box with Natural Hemp Rope Handle](/products/detail/kraft-paper-gift-box-hemp-rope-handle-soy-ink/) — Hemp rope handle, soy-based ink, 100% plastic-free. Bestseller for sustainable fashion and organic food brands.
-- [Brown Kraft Paper Folding Box with Jute Handle](/products/detail/brown-kraft-paper-folding-box-with-jute-handle-eco-retail-packaging/) — Eco retail packaging with jute handle, flat-ship design, FSC certified. MOQ 500.
-
-[Request your free quote →](/contact/)

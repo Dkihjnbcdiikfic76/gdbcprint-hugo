@@ -113,14 +113,6 @@ A: We recommend hot foil stamping (gold or rose gold are most popular for jewelr
 
 **Q: Are these boxes suitable for international e-commerce shipping?**
 A: Yes. Each box passes ISTA 1A drop testing (10 drops from 760mm). We also offer custom corrugated mailer outer boxes with foam cushioning for direct-to-consumer shipping. Our jewelry-grade protective packaging has been tested across 30+ export countries.
-
-## Related Products
-
-- [Jewelry Bracelet Gift Box with Magnetic Flap Velvet Inlay Satin Pillow](/products/detail/jewelry-bracelet-gift-box-magnetic-flap-velvet-inlay-satin-pillow/) — magnetic flap bracelet box with velvet inlay
-- [Jewelry Ring Display Box with LED Spotlight Velvet Flocking](/products/detail/jewelry-ring-display-box-led-spotlight-velvet-flocking/) — LED ring display with velvet flocking
-- [Velvet Jewelry Display Box with LED Light for Ring and Earring Packaging](/products/detail/velvet-jewelry-display-box-led-light-ring-earring-packaging/) — multi-purpose LED jewelry display
-- [Velvet Bracelet Gift Box with Magnetic Closure Two-Tone Lining](/products/detail/velvet-bracelet-gift-box-magnetic-closure-two-tone-lining/) — two-tone velvet bracelet packaging
-
 ## Contact
 
 For custom velvet bracelet display box inquiries, contact Bincai for a free quote:

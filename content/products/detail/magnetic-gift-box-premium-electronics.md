@@ -105,14 +105,6 @@ A: Standard lead time is 15–20 working days for new designs (including foam to
 
 **Q: Do you offer soft-touch and anti-fingerprint finishes?**
 A: Yes. Our aqueous soft-touch coating provides a premium velvety feel with fingerprint-resistant properties. We also offer anti-scratch gloss lamination and matte finishes with spot UV contrast effects.
-
-## Related Products
-
-- [Black Magnetic Rigid Box for Electronics Premium Packaging](/products/detail/black-magnetic-rigid-box-for-electronics-premium-packaging/) — premium electronics unboxing with soft-touch finish
-- [Rigid Paper Box with Magnetic Lid for Tech Accessories Gadget Gift Set](/products/detail/rigid-paper-box-with-magnetic-lid-tech-accessories-gadget-gift-set/) — multi-compartment tech accessory packaging
-- [Custom Printed Folding Carton Box for Electronics Accessories](/products/detail/custom-printed-folding-carton-box-for-electronics-accessories/) — cost-effective folding carton for electronics
-- [Luxury Two-Piece Magnetic Gift Box with Ribbon Pull](/products/detail/luxury-two-piece-magnetic-gift-box-ribbon-pull/) — two-piece magnetic closure for premium gifts
-
 ## Contact
 
 MOQ 500 units. Custom EVA foam insert tooling available. Free sample within 5 days. Lead time 15–25 days. Phone: +86-18934352881. Email: qo82@icloud.com.

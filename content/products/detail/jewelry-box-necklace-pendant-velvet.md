@@ -92,14 +92,6 @@ A: The satin cushion is fully removable — customers lift it to access hidden c
 
 **Q: What certifications does Bincai hold for jewelry packaging?**
 A: ISO 9001:2015 quality management system covers all production processes from material receiving through final inspection. FSC Chain-of-Custody (FSC-STD-40-004) ensures all paperboard is sourced from responsibly managed forests — important for brands with ESG commitments. REACH and RoHS compliance available upon request for European market distribution. Full batch traceability with AQL 2.5 statistical sampling.
-
-## Related Products
-
-- [Luxury Necklace Box — Magnetic Flap & Gold Foil](/products/detail/luxury-necklace-gift-box-magnetic-flap-velvet-lining-gold-foil/) — Premium magnetic-flap alternative with gold foil hot-stamping and wider color palette
-- [Jewelry Bracelet Gift Box — Magnetic Flap & Satin Pillow](/products/detail/jewelry-bracelet-gift-box-magnetic-flap-velvet-inlay-satin-pillow/) — Bracelet-specific form with magnetic closure and satin display pillow
-- [LED Ring Display Box — Velvet Flocking & Spotlight](/products/detail/jewelry-ring-display-box-led-spotlight-velvet-flocking/) — Battery-powered LED spotlight ring box with auto-on lid sensor for jewelry stores
-- [Dual-Layer Magnetic Jewelry Ring Box](/products/detail/dual-layer-magnetic-jewelry-ring-box/) — Two-tier storage with removable tray for ring + earring sets
-
 ## Contact
 
 MOQ 500 units. Velvet/satin color samples available. Sample within 5 days. Lead time 15-25 days. Phone: +86-18934352881. Email: qo82@icloud.com.

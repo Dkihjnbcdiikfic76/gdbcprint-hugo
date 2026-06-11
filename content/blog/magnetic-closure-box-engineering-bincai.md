@@ -2,7 +2,7 @@
 title: "The Perfect 'Click': Engineering Magnetic Closure Boxes at Bincai"
 date: 2026-06-11
 draft: false
-description: "How Bincai engineers magnetic closure gift boxes — from neodymium magnet grade selection (N35/N42/N52) and greyboard construction to wrapping precision, closure force testing, and luxury finishing. 22 years experience, ISO 9001 & FSC certified, 10,000 sqm factory with Heidelberg 7+1 UV and KBA 1050 presses."
+description: "How Bincai engineers magnetic closure gift boxes — from neodymium magnet grade selection (N35/N42/N52) and greyboard construction to wrapping precision, closure force testing, and luxury finishing. 22 years experience, ISO 9001 & FSC certified, 18,000 sqm factory (10,000+8,000 smart factory) with Heidelberg 7+1 UV and KBA 1050 presses."
 keywords: "magnetic closure box manufacturer, magnetic gift box China, neodymium magnet packaging, luxury magnetic box, rigid magnetic closure box, custom magnetic box, Bincai magnetic box, N52 magnet gift box, greyboard magnetic box, ISO 9001 FSC packaging, Heidelberg UV printing, rigid set-up box with magnet"
 
 ---

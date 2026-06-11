@@ -103,15 +103,6 @@ A: Standard MOQ is 500–1000 units per design. We offer free pre-production sam
 
 **Q: Is this box suitable for international e-commerce shipping?**
 A: Yes. The 2.5mm greyboard construction provides robust crush resistance. We test to ISTA 1A standards (1.0m drop test). The rigid structure outperforms folding cartons for protecting glass bottles, electronics, and delicate items during international transit. We ship worldwide via DHL/FedEx/UPS/Sea from our Foshan logistics hub.
-
-## Related Products
-
-- [Magnetic Closure Rigid Gift Box with Ribbon Pull — Luxury Packaging](/products/detail/2026-christmas-gift-box-with-magnetic-closure-holiday-packaging/) — Seasonal magnetic closure box with premium finish options
-- [Luxury Watch Box with Magnetic Lid and Velvet Interior](/products/detail/luxury-magnetic-closure-rigid-box-velvet-watch-jewelry-gift-bincai/) — Rigid box with velvet flocking for premium jewelry and watches
-- [Two-Piece Rigid Gift Box with Gold Foil Logo and LED Lighting](/products/detail/custom-jewelry-display-box-with-led-lighting-velvet-interior-necklace/) — High-end rigid box with LED lighting and velvet interior
-- [Matte Black Magnetic Rigid Box with Gold Foil for Electronics](/products/detail/matte-black-magnetic-rigid-box-gold-foil-electronic-gift-packaging/) — Similar magnetic rigid construction with soft-touch finish
-- [Luxury Candle Gift Set Rigid Box with Ribbon Tie and Foam Insert](/products/detail/luxury-candle-gift-set-rigid-box-ribbon-tie-foam-insert/) — Rigid box for candle sets with protective foam cavity
-
 ## Why Bincai
 
 | Feature | Detail |

@@ -77,9 +77,3 @@ A: For flexo-printed custom boxes, MOQ is 500 units with 1–4 color printing. F
 
 **Q: Can the boxes be made from recycled materials?**
 A: Yes. We offer 100% recycled kraft liner options with up to 90% post-consumer recycled content. FSC-certified virgin fiber is also available for brands requiring chain-of-custody certification. All water-based inks and starch-based adhesives ensure the entire box remains recyclable in standard cardboard recycling streams.
-
-## Related Products
-- [White Corrugated E-Commerce Box with Tear Strip Subscription](/products/detail/white-corrugated-e-commerce-box-with-tear-strip-subscription/) — Premium white corrugated mailer with tear-strip opening, ideal for subscription boxes, apparel, and cosmetics.
-- [Custom Corrugated Display Box with CMYK Print Retail](/products/detail/custom-corrugated-display-box-with-cmyk-print-retail/) — Eye-catching corrugated display box with full-color CMYK print for retail shelf and countertop product presentation.
-- [Customizable Fuchsia Corrugated Mailer Boxes for Ecommerce Shipping](/products/detail/customizable-fuchsia-corrugated-mailer-boxes-for-ecommerce-shipping/) — Vibrant fuchsia corrugated mailers with custom printing, designed for fashion, beauty, and lifestyle e-commerce brands.
-- [White Corrugated Shipping Box for Cosmetic Apparel Delivery](/products/detail/white-corrugated-shipping-box-for-cosmetic-apparel-delivery/) — Clean white corrugated shipping box with custom logo printing, optimized for cosmetic and apparel e-commerce deliveries.

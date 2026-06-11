@@ -110,12 +110,3 @@ A: Yes. Our soy-based CMYK inks meet FDA 21 CFR 175.300 for indirect food contac
 **Q: How does the hemp rope handle hold up in humid conditions?**
 
 A: Natural 3-strand hemp rope (5mm, tensile strength ≥50kg) is hygroscopic — it absorbs ambient moisture and can lose 5–10% tensile strength at >85% RH. In practice, this has never caused a failure in our 22 years of production because the handle is rated for 50kg and the heaviest gift boxes weigh under 3kg (17× safety margin). For tropical shipping destinations, we offer a cotton rope alternative (8mm, 80kg tensile, less hygroscopic) at the same price. The die-cut slot attachment is the real strength point — tested to 15kg pull without tear initiation, far exceeding the rope's capacity.
-
-## Related Products
-
-- [Biodegradable Kraft Paper Box for Eco-Friendly Cosmetics](/products/detail/biodegradable-kraft-paper-box-eco-friendly-cosmetics-packaging/) — Compostable kraft box with PLA window, molded pulp tray, and soy ink. Ideal for organic skincare and zero-waste beauty brands.
-- [Compostable Kraft Paper Food Box with PLA Window](/products/detail/compostable-kraft-paper-food-box-with-pla-window-sustainable/) — FDA-compliant food-grade kraft box with corn-starch PLA window, water-based adhesive. EN 13432 certified.
-- [Brown Kraft Paper Folding Box with Jute Handle](/products/detail/brown-kraft-paper-folding-box-with-jute-handle-eco-retail-packaging/) — Eco retail packaging with jute rope handle, flat-ship design, FSC certified. MOQ 500.
-- [Custom Kraft Paper Folding Box — Sustainable Retail Packaging](/products/detail/custom-kraft-paper-folding-box-sustainable-retail-packaging/) — Versatile kraft folding carton with full CMYK soy ink, custom die-cut windows, and water-based coating. ISO 9001.
-
-[Request your free quote →](/contact/)

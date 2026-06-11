@@ -67,13 +67,6 @@ Eco-friendly kraft paper gift box with natural cotton rope handle and custom pri
 | **Soy-Based Inks** | Low-VOC, eco-friendly, food-safe compatible |
 | **Heidelberg + KBA** | German-engineered offset presses |
 | **Free Samples** | 5-7 day pre-production turnaround |
-
-## Related Products
-- [FSC Certified Kraft Paper Gift Box with Custom Logo Print](/products/detail/fsc-certified-kraft-paper-gift-box-with-custom-logo-print/)
-- [Kraft Paper Drawer Box with Cotton Pull Handle](/products/detail/kraft-paper-drawer-box-cotton-pull-handle-sustainable/)
-- [Biodegradable Kraft Paper Box for Eco-Friendly Cosmetics](/products/detail/biodegradable-kraft-paper-box-eco-friendly-cosmetics-packaging/)
-- [All Kraft & Eco Boxes](/categories/kraft-eco-boxes/)
-
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Factory visits welcome.
 

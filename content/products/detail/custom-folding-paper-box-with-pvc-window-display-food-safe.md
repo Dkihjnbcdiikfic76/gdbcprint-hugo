@@ -92,12 +92,3 @@ A: For cookies, macarons, and pastries, we recommend the auto-lock bottom with t
 
 **Q: What is the MOQ for custom folding cartons with windows?**
 A: MOQ is 500 units for standard window shapes (rectangle/oval using existing tooling) and 3,000+ units for custom contour die-cut windows requiring new tooling. Lead time is 15-25 business days. Free pre-production samples are available in 3-5 days for quality evaluation.
-
-## Related Products
-
-- [Die-Cut Folding Carton with Window Display Cosmetic Box](/products/detail/die-cut-folding-carton-with-window-display-cosmetic-box/) — Window carton for cosmetics and skincare
-- [FSC Kraft Hinged Lid Box Compostable Window Food](/products/detail/fsc-kraft-hinged-lid-box-compostable-window-food/) — Eco-friendly window carton with compostable film
-- [Auto-Lock Bottom Folding Carton Box CMYK Printing Food](/products/detail/auto-lock-bottom-folding-carton-box-cmyk-printing-food/) — Food-grade auto-lock carton with full CMYK printing
-- [Custom Tuck-Top Folding Carton Hot Foil Stamping Cosmetic Box](/products/detail/custom-tuck-top-folding-carton-hot-foil-stamping-cosmetic-box/) — Tuck-top carton with luxury foil finishes
-
-[Request your free quote →](/contact/)

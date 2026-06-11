@@ -75,13 +75,6 @@ A: Yes. CNC routing creates multi-cavity layouts with different depths for each 
 
 **Q: Is the telescopic lid easy to open but secure during shipping?**
 A: Our telescopic fit is precision-engineered with 0.5–1.0mm clearance between lid interior and base exterior. Combined with shrink-wrap or a branded belly band, the box stays securely closed during transit while remaining easy to open for the end user.
-
-## Related Products
-- [Black Magnetic Rigid Box for Electronics Premium Packaging](/products/detail/black-magnetic-rigid-box-for-electronics-premium-packaging/) — magnetic closure electronics
-- [Rigid Gift Box Telescopic Lid Hot Foil Premium](/products/detail/rigid-gift-box-telescopic-lid-hot-foil-premium/) — telescopic lid construction
-- [Magnetic Closure Box with Die-Cut Insert Electronics Accessories](/products/detail/magnetic-closure-box-with-die-cut-insert-electronics-accessories/) — magnetic + insert
-- [Custom Rigid Gift Box with Ribbon Gold Foil Embossing](/products/detail/custom-rigid-gift-box-with-ribbon-gold-foil-embossing/) — flagship luxury
-
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Factory visits welcome.
 

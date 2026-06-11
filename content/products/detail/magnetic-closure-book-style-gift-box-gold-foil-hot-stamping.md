@@ -114,14 +114,6 @@ A: Template sizes (A6/A5/A4, 120–250mm square) start at 500 units because the 
 **Q: Can these boxes be shipped flat to save on freight?**
 
 A: Yes — magnetic closure book-style boxes can be designed for flat-ship. The spine is creased but not pre-glued, and the magnet assemblies are positioned so the box folds flat. Assembly at destination takes 10–15 seconds per unit (fold spine, insert product, close magnetic flap). Flat-ship typically reduces freight volume by 60–70%. We provide assembly instruction videos with every flat-ship order.
-
-## Related Products
-
-- [2026 Christmas Gift Box with Magnetic Closure](/products/detail/2026-christmas-gift-box-with-magnetic-closure-holiday-packaging/) — Seasonal holiday packaging with foil snowflake design, velvet flocking, and magnetic closure. MOQ 500.
-- [Custom Magnetic Closure Wine Bottle Gift Box](/products/detail/custom-magnetic-closure-wine-bottle-gift-box/) — Single-bottle rigid box with magnetic flap, velvet cradle insert, and gold foil. ISO 9001 · FSC.
-- [Custom Printed Magnetic Closure Paper Box for Retail](/products/detail/custom-printed-magnetic-closure-paper-box-for-retail/) — Retail-ready magnetic box with full CMYK print, matte lamination, and custom insert. 1,000 sqm smart factory line.
-- [Drawer Slide Magnetic Rigid Box with Ribbon Pull](/products/detail/drawer-slide-magnetic-rigid-box-ribbon-pull-custom-insert/) — Drawer-style rigid box with hidden magnetic stop, satin ribbon pull, and custom foam insert.
-
 ## Contact
 
 MOQ from 500 units. Free pre-production samples (freight collect). Lead time: 15-20 working days (includes tooling for custom sizes). Foil color samples and material swatches available. Phone: +86-18934352881. Email: qo82@icloud.com. Factory: No.6-7 Shunyuan North Rd, Wusha, Daliang, Shunde, Foshan, Guangdong, China.

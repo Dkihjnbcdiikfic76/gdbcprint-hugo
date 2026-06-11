@@ -96,13 +96,6 @@ A: Yes. We use low-migration UV and conventional offset inks meeting EUPIA guide
 
 **Q: What lead time should I expect?**
 A: 10–15 working days for new designs (die production + printing), 5–7 working days for repeat orders. Free pre-production samples within 3–5 working days. Express service available for urgent launches.
-
-## Related Products
-- [Straight Tuck End Folding Carton Box with Matte Lamination](/products/detail/straight-tuck-end-folding-carton-box-with-matte-lamination/) — straight tuck structure with premium matte finish
-- [Sleeve-Style Folding Carton Premium Chocolate Confectionery](/products/detail/sleeve-style-folding-carton-premium-chocolate-confectionery/) — sleeve carton for confectionery and gifts
-- [Luxury Folding Carton with Gold Foil Stamping Gift Packaging](/products/detail/luxury-folding-carton-with-gold-foil-stamping-gift-packaging/) — gold foil stamped luxury folding carton
-- [Pharmaceutical Folding Carton Tamper-Evident Seal Braille](/products/detail/pharmaceutical-folding-carton-tamper-evident-seal-braille/) — tamper-evident folding carton for regulated industries
-
 ## Contact
 
 Phone: +86-18934352881 (Mr. Zhou) | Email: qo82@icloud.com  

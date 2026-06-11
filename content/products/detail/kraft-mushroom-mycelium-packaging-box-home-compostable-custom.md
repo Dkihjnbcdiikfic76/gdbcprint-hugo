@@ -94,14 +94,6 @@ A: Yes — this is the unique advantage of grown-to-shape mycelium packaging. We
 **Q: What certifications does the mushroom packaging carry for compostability claims?**
 
 A: Our mycelium packaging is certified to EN 13432 (European standard for industrially compostable packaging) and carries the TÜV Austria OK Compost HOME certification — the gold standard proving home compostability without industrial facilities. Additionally, the kraft outer wrap is FSC-certified, and the soy-based inks are certified for food-safe indirect contact. We also provide a lifecycle analysis (LCA) report showing the carbon-negative profile: each kg of mycelium packaging sequesters approximately 0.3 kg CO₂ equivalent during the growth phase.
-
-## Related Products
-
-- [Eco Kraft Rigid Box with Embossing — Soy-Based Ink](/products/detail/eco-kraft-paper-rigid-box-with-embossing-soy-based-ink/) — Rigid kraft construction with blind embossing and soy-ink branding
-- [FSC-Certified Kraft Tray Box — Food-Safe Soy Ink](/products/detail/fsc-certified-kraft-tray-box-with-soy-ink-food-safe/) — Open kraft tray for bakery and confectionery with food-safe certification
-- [Biodegradable Kraft Box — Eco Cosmetics Packaging](/products/detail/biodegradable-kraft-paper-box-eco-friendly-cosmetics-packaging/) — Fully biodegradable kraft box for organic skincare brands
-- [Kraft Gift Box with Seed-Embedded Tag — Sustainable Gift](/products/detail/kraft-paper-eco-box-seed-embedded-tag-sustainable-gift/) — Kraft gift box with plantable seed tag for zero-waste brand messaging
-
 ## Contact
 
 MOQ 500 units. Mycelium texture samples, density swatches, and compostability certificates available. Sample within 7 days (growth cycle). Lead time 18-25 days. Phone: +86-18934352881. Email: qo82@icloud.com.

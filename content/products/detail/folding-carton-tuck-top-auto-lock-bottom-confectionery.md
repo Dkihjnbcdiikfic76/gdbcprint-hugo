@@ -113,10 +113,3 @@ Standard MOQ is 1,000 units per design. However, for common box sizes that match
 ### What is the typical turnaround time from order to delivery?
 
 Standard production lead time is 10-15 working days after sample approval. Rush 7-day service is available for time-sensitive launches. Shipping via DHL/FedEx/UPS express takes 3-5 working days to most international destinations; sea freight options are available for larger volumes at 15-30 days depending on destination.
-
-## Related Products
-
-- [Folding Carton Sleeve Tray with Window for Confectionery Display Packaging](/products/detail/folding-carton-sleeve-tray-window-confectionery-display-packaging/)
-- [Custom Sleeve-Style Folding Carton for Premium Chocolate Confectionery](/products/detail/sleeve-style-folding-carton-premium-chocolate-confectionery/)
-- [Folding Carton Tuck Top Auto-Bottom for Snack Food Packaging](/products/detail/folding-carton-tuck-top-auto-bottom-snack-food-packaging-box/)
-- [Auto-Lock Bottom Folding Carton Box with Full-Color CMYK for Food Packaging](/products/detail/auto-lock-bottom-folding-carton-box-cmyk-printing-food/)

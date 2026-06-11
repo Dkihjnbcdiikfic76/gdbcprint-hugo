@@ -105,14 +105,6 @@ A: Yes — we can custom-dye the 3mm braided cotton cord to match any Pantone te
 
 **Q: What is the lead time for custom kraft drawer boxes?**
 A: Standard production lead time is 15-20 days for existing tooling and stock materials. Custom sizes requiring new die tooling add 5-7 days. Custom-dyed cotton handles add 3-5 days. Pre-production samples ship in 3-5 days. Bincai produces 1.7M boxes daily across our 18,000 sqm integrated facility, so production capacity is always available.
-
-## Related Products
-
-- [FSC-Certified Kraft Gift Box — Custom Logo & Cotton Handle](/products/detail/fsc-certified-kraft-paper-gift-box-with-custom-logo-print/) — FSC-certified hinged-lid kraft box with cotton handle and multi-color soy-ink printing
-- [Biodegradable Kraft Box — Eco Cosmetics Packaging](/products/detail/biodegradable-kraft-paper-box-eco-friendly-cosmetics-packaging/) — Fully biodegradable kraft box designed for organic skincare and natural cosmetic brands
-- [Kraft Rigid Box with Embossing — Soy Ink](/products/detail/eco-kraft-paper-rigid-box-with-embossing-soy-based-ink/) — Rigid kraft construction with blind embossing and soy-ink branding for premium eco positioning
-- [FSC Kraft Tray Box — Food-Safe Soy Ink](/products/detail/fsc-certified-kraft-tray-box-with-soy-ink-food-safe/) — Open-tray kraft box with food-safe soy ink for bakery, confectionery, and tea packaging
-
 ## Contact
 
 MOQ 500 units. Cotton handle color swatches and kraft paper samples available. Sample within 5 days. Lead time 15-25 days. Phone: +86-18934352881. Email: qo82@icloud.com.

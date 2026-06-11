@@ -53,12 +53,3 @@ A: Our magnetic closures use industrial-grade neodymium magnets embedded within 
 
 **Q: What is your typical production lead time for custom watch cases?**
 A: Standard production lead time is 12–18 business days after sample approval. With our expanded 10,000 sqm + 8,000 sqm smart factory (commissioned in 2025), we maintain a daily output capacity of 1.7M color boxes and 220K+ gift boxes, allowing us to handle urgent orders with expedited turnaround. Rush orders can be completed in as few as 7 days depending on complexity and current production schedule. Contact us at +86-18934352881 or qo82@icloud.com for a specific timeline on your project.
-
-## Related Products
-
-- [Watch Display Box with Velvet Pillow Custom Logo Embossing](/products/detail/watch-display-box-with-velvet-pillow-custom-logo-embossing/) — Premium watch display box with velvet pillow and custom embossed logo
-- [Magnetic Closure Watch Box with Suede Interior Custom Logo](/products/detail/magnetic-closure-watch-box-suede-interior-custom-logo/) — Elegant magnetic-closure watch box with soft suede interior
-- [Custom Logo Watch Display Box with LED Light and Suede Interior](/products/detail/custom-logo-watch-display-box-led-light-suede-interior/) — LED-lit watch display box with suede interior and custom branding
-- [Luxury Ring Box with Magnetic Closure Velvet Flocking Interior](/products/detail/luxury-ring-box-with-magnetic-closure-velvet-flocking-interior/) — Compact luxury ring box with magnetic closure and velvet flocking
-
-[Request your free quote →](/contact/)

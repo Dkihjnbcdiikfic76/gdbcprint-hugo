@@ -75,14 +75,6 @@ A: Absolutely. The rigid greyboard construction (800-1600 gsm) provides crush re
 
 **Q: What certifications does Bincai hold for jewelry packaging?**
 A: Bincai is ISO 9001:2015 certified for quality management and FSC Chain-of-Custody certified for sustainable paper sourcing. All materials — greyboard, art paper, satin fabric, and inks — are sourced from certified suppliers. EN 71-3 compliance (safe for jewelry contact) available upon request.
-
-## Related Products
-
-- [Luxury Ring Box with Magnetic Closure and Velvet Flocking](/products/detail/luxury-ring-box-with-magnetic-closure-velvet-flocking-interior/) — Premium magnetic ring box for engagement and wedding bands
-- [Velvet Jewelry Travel Case with Zipper Closure](/products/detail/velvet-jewelry-travel-case-zipper-closure-necklace-ring/) — Portable jewelry case for travel and gifting
-- [Custom Jewelry Paper Box with Foam Insert Bracelet Display](/products/detail/custom-jewelry-paper-box-with-foam-insert-bracelet-display/) — Foam-lined jewelry box with die-cut cavities
-- [Velvet Jewelry Display Box with Mirror Lid and LED](/products/detail/velvet-jewelry-display-box-mirror-lid-led-necklace/) — Premium display box with mirror and LED lighting
-
 ## Why Bincai
 
 | Feature | Detail |

@@ -100,14 +100,6 @@ A: Our standard MOQ is 500 pieces, with flexible trial orders available for new 
 
 **Q: How does Bincai ensure sustainability across its manufacturing process?**
 A: Sustainability is built into our entire workflow: FSC-certified paperboard sourcing, soy-based inks with VOC-free printing on Heidelberg 7+1 UV and KBA 1050 presses, water-based adhesives, and energy-efficient production in our smart factory (8,000 sqm, 2025 expansion). We also offer carbon-offset shipping options and provide full chain-of-custody documentation.
-
-## Related Products
-
-- [Biodegradable Kraft Paper Box — Eco-Friendly Cosmetics Packaging](/products/detail/biodegradable-kraft-paper-box-eco-friendly-cosmetics-packaging/) — FSC-certified kraft with soy ink printing for beauty brands
-- [Brown Kraft Paper Folding Box with Jute Handle — Eco Retail Packaging](/products/detail/brown-kraft-paper-folding-box-with-jute-handle-eco-retail-packaging/) — Natural jute handle + kraft construction for boutique retail
-- [Compostable Kraft Paper Food Box with PLA Window — Sustainable](/products/detail/compostable-kraft-paper-food-box-with-pla-window-sustainable/) — PLA window + compostable kraft for food takeaway and bakery
-- [Custom Kraft Paper Folding Box — Sustainable Retail Packaging](/products/detail/custom-kraft-paper-folding-box-sustainable-retail-packaging/) — Fully customizable kraft folding box with eco credentials
-
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Factory visits welcome.
 

@@ -75,13 +75,6 @@ A: Yes. Our water-based PVA adhesive is FDA 21 CFR 175.105 compliant for indirec
 
 **Q: What are the shipping advantages of kraft boxes versus rigid boxes?**
 A: Kraft folding cartons ship flat — 80–90% volume reduction versus pre-assembled rigid boxes. A 40ft container can hold approximately 5× more kraft flat-pack boxes than rigid boxes, dramatically reducing your per-unit freight cost and carbon footprint.
-
-## Related Products
-- [FSC Certified Kraft Paper Box with Window Food Packaging](/products/detail/fsc-certified-kraft-paper-box-with-window-food-packaging/) — window + food-safe variant
-- [Recyclable Kraft Folding Carton Eco-Friendly Food Packaging](/products/detail/recyclable-kraft-folding-carton-eco-friendly-food-packaging/) — food-grade recyclable
-- [Eco Kraft Folding Carton with Soy-Based Ink Sustainable](/products/detail/eco-kraft-folding-carton-with-soy-based-ink-sustainable/) — soy ink focused version
-- [Kraft Paper Gift Box Cotton Handle Soy Ink FSC Certified Eco](/products/detail/kraft-paper-gift-box-cotton-handle-soy-ink-fsc-certified-eco/) — gift box with cotton handle
-
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Factory visits welcome. Send us your cosmetics line dimensions for a custom-fit eco packaging solution.
 

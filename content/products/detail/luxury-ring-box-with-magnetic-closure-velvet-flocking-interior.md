@@ -70,14 +70,6 @@ Our magnetic-closure velvet ring boxes serve diverse jewelry retail and gifting 
 
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Factory visits welcome. Send us your ring dimensions for a custom-fit sample.
-
-## Related Products
-
-- [Custom Jewelry Display Box with LED Lighting Velvet Interior Necklace Pendant](/products/detail/custom-jewelry-display-box-with-led-lighting-velvet-interior-necklace/) — LED-lit display box with velvet interior for necklaces and pendants
-- [Custom Jewelry Gift Box with Velvet Insert Necklace Packaging](/products/detail/custom-jewelry-gift-box-with-velvet-insert-necklace-packaging/) — Velvet-lined gift box for premium necklace presentation
-- [Custom Jewelry Paper Box with Foam Insert Bracelet Display](/products/detail/custom-jewelry-paper-box-with-foam-insert-bracelet-display/) — Foam-lined paper box with die-cut cavities for bracelets
-- [Custom Logo Watch Display Box with LED Light and Suede Interior](/products/detail/custom-logo-watch-display-box-led-light-suede-interior/) — LED watch display box with custom logo and suede interior
-
 ## Why Bincai
 
 | Feature | Detail |

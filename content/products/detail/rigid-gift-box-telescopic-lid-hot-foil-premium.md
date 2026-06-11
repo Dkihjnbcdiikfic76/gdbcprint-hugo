@@ -74,13 +74,6 @@ A: Yes. We are ISO 9001:2015 and FSC Chain-of-Custody certified. All greyboard c
 
 **Q: How long is the production lead time?**
 A: 15–20 working days for new tooling, 7–10 working days for repeat orders. Rush service available for time-sensitive projects.
-
-## Related Products
-- [Premium Magnetic Rigid Gift Box for Luxury Perfume Packaging](/products/detail/premium-magnetic-rigid-gift-box-for-luxury-perfume-packaging/) — magnetic closure for fragrance and cosmetics
-- [Square Rigid Gift Box with Magnetic Lid Matte Lamination](/products/detail/square-rigid-gift-box-magnetic-lid-matte-lamination-custom/) — custom-printed magnetic closure box
-- [Octagonal Rigid Gift Box with Ribbon Bow](/products/detail/octagonal-rigid-gift-box-with-ribbon-bow-luxury/) — luxury confectionery and gift presentation
-- [Rigid Cardboard Gift Box with Matte Lamination Spot UV](/products/detail/rigid-cardboard-gift-box-with-matte-lamination-spot-uv/) — spot UV contrast effects
-
 ## Contact
 For custom telescopic lid rigid gift box inquiries, please contact Bincai through Made-in-China.com or visit gdbcprint.com.
 

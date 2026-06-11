@@ -97,12 +97,3 @@ A: Our gold foil interior uses hot-stamped gold foil on 120gsm coated paper, lam
 | MOQ | 500-1000 pcs, trial orders accepted |
 | Free Sample | Free pre-production sample (freight collect) |
 | Shipping | Worldwide DHL/FedEx/UPS/Sea |
-
-## Related Products
-
-- [Custom Jewelry Display Box — LED Lighting & Velvet Interior](/products/detail/custom-jewelry-display-box-with-led-lighting-velvet-interior-necklace/) — Premium LED-illuminated display box for necklaces with velvet interior
-- [Custom Jewelry Gift Box — Velvet Insert Necklace Packaging](/products/detail/custom-jewelry-gift-box-with-velvet-insert-necklace-packaging/) — Classic jewelry gift box with velvet-lined insert for necklaces and pendants
-- [Double-Layer Jewelry Gift Box — Drawer Design for Rings & Bracelets](/products/detail/double-layer-jewelry-gift-box-with-drawer-rings-bracelet-storage/) — Two-tier jewelry storage box with pull-out drawer and ring slots
-- [Custom Logo Watch Display Box — LED Light & Suede Interior](/products/detail/custom-logo-watch-display-box-led-light-suede-interior/) — Luxury watch presentation box with integrated LED and suede lining
-
-[Request your free quote →](/contact/)

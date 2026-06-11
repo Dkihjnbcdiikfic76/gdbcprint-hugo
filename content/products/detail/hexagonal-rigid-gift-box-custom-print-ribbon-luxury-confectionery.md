@@ -86,13 +86,6 @@ A: Yes. Our KBA 1050 offset press handles full coverage on all six faces, and ou
 
 **Q: What is the standard lead time for a hexagonal rigid gift box order?**
 A: Standard lead time is 15–25 days from artwork approval. Pre-production samples (free) ship within 5 days. Rush orders of 10–12 days are available for an expedite fee on quantities under 5,000 units. Peak season (August–November) may add 5–7 days. Tooling fabrication for custom hexagon dies adds 3–5 days before production begins.
-
-## Related Products
-- [Octagonal Rigid Gift Box with Ribbon Bow](/products/detail/octagonal-rigid-gift-box-with-ribbon-bow-luxury/) — 8-sided luxury gift box with satin ribbon closure and custom foam insert for premium confectionery and spirits.
-- [Book-Style Rigid Gift Box with Magnetic Flap](/products/detail/book-style-rigid-gift-box-with-magnetic-flap-custom-print/) — Hardcover book-style rigid box with magnetic flap closure, ideal for premium gift sets and collector editions.
-- [Magnetic Lid Gift Box with Gold Foil Stamping & Embossing](/products/detail/magnetic-lid-gift-box-with-gold-foil-stamping-embossing/) — Classic rectangular rigid box with magnetic closure, hot foil stamping, and embossed texture for luxury retail packaging.
-- [Square Rigid Gift Box Magnetic Lid Matte Lamination Custom](/products/detail/square-rigid-gift-box-magnetic-lid-matte-lamination-custom/) — Clean square rigid box with magnetic lid, matte lamination finish, and full CMYK custom printing.
-
 ## Contact
 
 MOQ 500 units. Hexagon template and cavity layout samples available. Sample within 5 days. Lead time 15-25 days. Phone: +86-18934352881. Email: qo82@icloud.com.

@@ -75,13 +75,6 @@ A: Yes. While our standard MOQ is 500 units, we welcome trial orders of 100–30
 
 **Q: How do hanging earring card boxes hold up during shipping and retail handling?**
 A: Our card boxes are engineered for durability. 300–400 gsm paperboard with matte or gloss lamination resists bending and moisture. The euro-slot hang tab is reinforced and tested to support 500g+ without tearing. For e-commerce shipments, we recommend adding a corrugated mailer or padded envelope — the flat profile of card boxes stacks efficiently and resists crushing better than rigid boxes.
-
-## Related Products
-- [Earring Gift Box with Satin Lining Gold Foil Hot Stamping](/products/detail/earring-gift-box-with-satin-lining-gold-foil-hot-stamping/) — premium rigid earring box with satin insert
-- [Custom Jewelry Paper Box with Foam Insert Bracelet Display](/products/detail/custom-jewelry-paper-box-with-foam-insert-bracelet-display/) — foam-lined paper box for bracelets and bangles
-- [Velvet Earring Display Box Magnetic Flip Lid Custom Logo](/products/detail/velvet-earring-display-box-magnetic-flip-lid-custom-logo/) — velvet-lined magnetic flip box
-- [Double-Deck Velvet Earring Stud Display Box — Magnetic Lid with 24-Pair Tray](/products/detail/velvet-earring-stud-display-box-magnetic-double-deck/) — bulk stud earring display with 24-pair capacity
-
 ## Contact
 [Request free quote →](/contact/) — response within 24 hours. Factory visits welcome in Foshan, Guangdong.
 

@@ -80,14 +80,6 @@ A: Bincai's soy-based inks are manufactured from refined soybean oil (non-GMO) w
 
 **Q: What customization options are available for bakery branding and seasonal promotions?**
 A: Full CMYK offset printing on the kraft exterior with soy-based inks — your logo, brand colors, ingredient lists, and QR codes all printable. For seasonal promotions (Christmas, Valentine's Day, Mother's Day), we offer short-run digital printing at 500+ units with 5-day turnaround versus standard 15-day offset lead times. Finishing options include spot UV on logo areas for premium contrast against the matte kraft surface, embossing/debossing for tactile brand marks, and gold or silver foil stamping for luxury patisserie lines. Window shapes can be die-cut to your brand silhouette (heart, star, logo shape). MOQ as low as 500 for seasonal-limited runs.
-
-## Related Products
-
-- [Kraft Paper Gift Box — Die-Cut Window with Cotton Rope Handle](/products/detail/kraft-paper-gift-box-with-window-die-cut-cotton-rope-handle/) — Windowed kraft box with natural cotton rope handles for premium bakery and gift presentation
-- [FSC Certified Kraft Paper Box with Window — Food Packaging](/products/detail/fsc-certified-kraft-paper-box-with-window-food-packaging/) — FSC certified window box optimized for food-safe retail packaging with soy ink
-- [Kraft Food Delivery Box with Window — Eco Takeaway](/products/detail/kraft-food-delivery-box-with-window/) — Kraft window box designed for food delivery and takeaway applications
-- [Eco Kraft Paper Rigid Box — Embossing & Soy-Based Ink](/products/detail/eco-kraft-paper-rigid-box-with-embossing-soy-based-ink/) — Premium eco rigid box with embossing and soy ink for luxury bakery and gift sets
-
 ## Contact
 
 MOQ 1,000-3,000 units. Sample within 5 days. Lead time 15-25 days. Phone: +86-18934352881. Email: qo82@icloud.com.

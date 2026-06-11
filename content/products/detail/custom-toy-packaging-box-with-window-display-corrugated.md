@@ -92,12 +92,3 @@ A: Absolutely. Many toy brands are switching from PVC blisters to corrugated win
 
 **Q: What is the MOQ and lead time for toy packaging boxes?**
 A: Standard MOQ is 500 units. Custom window die-cut designs require 1000+ MOQ. Lead time is 15–20 days (standard), 20–25 days (with custom window die). Trial orders of 100–300 pcs available for first-time buyers.
-
-## Related Products
-
-- [Custom Corrugated Display Box with CMYK Print Retail](/products/detail/custom-corrugated-display-box-with-cmyk-print-retail/) — Corrugated retail display with vivid CMYK print
-- [Customizable Fuchsia Corrugated Mailer Boxes for Ecommerce Shipping](/products/detail/customizable-fuchsia-corrugated-mailer-boxes-for-ecommerce-shipping/) — Corrugated ecommerce mailer boxes
-- [Printed Toy Gift Box with Insert Cardboard Packaging](/products/detail/printed-toy-gift-box-with-insert-cardboard-packaging/) — Gift-ready toy box with custom insert
-- [Kraft Eco-Friendly Tuck-Top Mailer Box with Soy Ink Print](/products/detail/kraft-eco-friendly-tuck-top-mailer-box-with-soy-ink-print/) — Eco-friendly mailer with soy ink printing
-
-[Request your free quote →](/contact/)

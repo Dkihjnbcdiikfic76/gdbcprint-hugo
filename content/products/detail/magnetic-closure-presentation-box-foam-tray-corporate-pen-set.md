@@ -105,14 +105,6 @@ A: 15–20 working days for new designs including custom foam tooling. Repeat or
 
 **Q: Are your materials certified for sustainable sourcing?**
 A: Yes. Bincai holds ISO 9001:2015 (quality management) and FSC Chain-of-Custody (sustainable forestry) certifications. Our greyboard core uses 100% recycled fiber. FSC-certified paper wrap and soy-based ink printing available upon request.
-
-## Related Products
-
-- [Magnetic Closure Book-Style Box with Velvet Lining for Corporate Gifts](/products/detail/magnetic-closure-book-style-box-velvet-lining-corporate-gift/) — book-style opening for premium corporate presentation
-- [Magnetic Closure Rigid Box for Corporate Gift Set with Embossed Logo](/products/detail/magnetic-closure-rigid-box-corporate-gift-set-embossed-logo/) — embossed corporate branding with magnetic closure
-- [Rigid Drawer Box for Stationery Set with Custom EVA Insert](/products/detail/rigid-drawer-box-stationery-set-custom-eva-insert/) — drawer-style sliding box for premium stationery
-- [Magnetic Closure Rigid Box with Ribbon Pull for Stationery Set](/products/detail/magnetic-closure-rigid-box-ribbon-pull-stationery-set/) — ribbon-pull magnetic closure for elegant desk accessories
-
 ## Contact
 
 For custom magnetic closure presentation box inquiries, please contact Bincai through Made-in-China.com or visit gdbcprint.com.

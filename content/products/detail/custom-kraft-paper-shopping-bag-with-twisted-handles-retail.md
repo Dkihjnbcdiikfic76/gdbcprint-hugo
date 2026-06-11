@@ -87,12 +87,3 @@ We offer food-grade inner PE or PLA coatings that create a moisture barrier, mak
 **What is the typical lead time from order to delivery?**
 
 Pre-production samples ship within 5-7 business days after artwork approval. Bulk production takes 15-20 business days, with express shipping (DHL/FedEx/UPS) adding 3-7 days or sea freight adding 15-30 days depending on destination.
-
-## Related Products
-
-- [Custom Eco-Friendly Kraft Gift Box with Magnetic Lid](/products/detail/custom-eco-friendly-kraft-gift-box-with-magnetic-lid/)
-- [Custom Recycled Kraft Paper Box with Window for Eco-Friendly Packaging](/products/detail/custom-recycled-kraft-paper-box-with-window/)
-- [Custom Brown Kraft Paper Box for Eco-Friendly Bakery Packaging](/products/detail/custom-brown-kraft-paper-box-eco-bakery/)
-- [Custom Eco-Friendly Kraft Cardboard Box with Magnetic Closure](/products/detail/custom-eco-kraft-cardboard-box-magnetic/)
-
-[Request your free quote →](/contact/)

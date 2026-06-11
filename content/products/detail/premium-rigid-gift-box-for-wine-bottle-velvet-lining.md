@@ -107,13 +107,3 @@ A: MOQ is 500 units per design. For wedding and event favors, we accept orders a
 
 **Q: Do you offer sustainable options for wine packaging?**
 A: Yes. FSC-certified greyboard, recycled-content board, water-based adhesives, and soy-based inks are available. We can build a 100% recyclable rigid wine box — inquire about our eco-luxury wine packaging line.
-
-## Related Products
-- [Magnetic Rigid Wine Box 2-Bottle](/products/detail/magnetic-rigid-wine-box-2-bottle/) — dual-bottle magnetic closure wine presentation
-- [Two-Piece Rigid Paper Box for Cosmetics Velvet Foam Insert](/products/detail/two-piece-rigid-paper-box-for-cosmetics-velvet-foam-insert/) — velvet-lined rigid box for cosmetics and beauty
-- [Magnetic Closure Luxury Rigid Gift Box Custom Logo Hot Stamping](/products/detail/magnetic-closure-luxury-rigid-gift-box-custom-logo-hot-stamping/) — magnetic closure rigid box with custom foil branding
-- [Luxury Two-Piece Magnetic Gift Box Ribbon Pull](/products/detail/luxury-two-piece-magnetic-gift-box-ribbon-pull/) — premium two-piece magnetic box with satin ribbon
-
-**Guangdong Bincai Color Printing Co., Ltd.** — Your premium wine packaging partner since 2003. ISO 9001 & FSC certified.
-
-[Request your free quote →](/contact/)

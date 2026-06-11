@@ -77,13 +77,6 @@ A: N52 neodymium magnets (the strongest commercial grade) are embedded between 2
 
 **Q: What is the minimum order quantity and lead time for a custom chocolate gift box?**
 A: Standard MOQ is 500 units for fully custom boxes with branded printing, foil stamping, and die-cut foam trays. We also accept trial orders of 100–300 units for market testing (higher per-unit pricing at low volumes). Lead time is 12–18 working days for new tooling (including foam tray die creation), 7–10 days for repeat orders. Pre-production samples with full finishing and custom foam tray ship in 5–7 working days. Sea freight to EU/US ports: 25–35 days; air freight: 5–7 days.
-
-## Related Products
-- [Magnetic Closure Book Style Box Satin Ribbon Velvet Insert](/products/detail/magnetic-closure-book-style-box-satin-ribbon-velvet-insert/) — book-style with velvet interior
-- [Custom Rigid Gift Box with Ribbon Gold Foil Embossing](/products/detail/custom-rigid-gift-box-with-ribbon-gold-foil-embossing/) — flagship luxury presentation
-- [Luxury Rectangular Rigid Gift Box with Magnetic Flap UV Spot](/products/detail/luxury-rectangular-rigid-gift-box-with-magnetic-flap-uv-spot/) — spot UV contrast finish
-- [Rigid Gift Box Telescopic Lid Hot Foil Premium](/products/detail/rigid-gift-box-telescopic-lid-hot-foil-premium/) — two-piece telescopic construction
-
 ## Contact
 [Request free quote →](/contact/) — response within 24 hours. Factory visits welcome at our 18,000 sqm Foshan facility.
 

@@ -87,12 +87,3 @@ We offer pressure-sensitive adhesive strips with silicone-coated release liners 
 **What is the lead time for custom corrugated mailers?**
 
 Sample production and approval takes 5-7 business days. Bulk manufacturing runs 15-20 business days after sample sign-off. Express air shipping adds 3-7 days; sea freight adds 15-30 days depending on destination port.
-
-## Related Products
-
-- [Custom Printed Corrugated Shipping Boxes for Small Business Ecommerce](/products/detail/custom-printed-corrugated-shipping-boxes-small-business/)
-- [Custom Full-Color Corrugated Mailer Boxes with Self-Seal Strip](/products/detail/custom-corrugated-mailer-boxes-self-seal/)
-- [Custom White Corrugated Mailer Boxes with Logo for Subscription Business](/products/detail/custom-white-corrugated-mailer-boxes-subscription/)
-- [Custom E-Flute Corrugated Mailer Boxes for E-Commerce Retail Packaging](/products/detail/custom-e-flute-corrugated-mailer-boxes-retail/)
-
-[Request your free quote →](/contact/)

@@ -80,13 +80,6 @@ A: Single-wall corrugated construction is ECT-rated for shipping durability. We 
 
 **Q: What is the MOQ for custom corrugated shipping boxes?**
 A: MOQ is 500–1000 units per design. Trial orders and OEM/ODM accepted. Free pre-production samples within 5–7 working days. Lead time 10–15 working days for new orders.
-
-## Related Products
-- [Heavy-Duty Corrugated Shipping Box Double-Wall Custom Size](/products/detail/heavy-duty-corrugated-shipping-box-double-wall-custom-size/) — double-wall for heavy items and international shipping
-- [White Corrugated E-Commerce Box with Tear Strip Subscription](/products/detail/white-corrugated-e-commerce-box-with-tear-strip-subscription/) — white exterior e-commerce box with tear strip
-- [Corrugated Multi-Depth Shipping Box Tear Strip Subscription](/products/detail/corrugated-multi-depth-shipping-box-tear-strip-subscription/) — multi-depth adjustable height for subscription fulfillment
-- [Heavy-Duty Corrugated Shipping Box Foam Insert Fragile Items](/products/detail/heavy-duty-corrugated-shipping-box-foam-insert-fragile-items/) — protective foam insert for delicate products
-
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Factory visits welcome.
 

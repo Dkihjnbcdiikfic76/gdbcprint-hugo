@@ -2,7 +2,7 @@
 title: "KBA 1050 4-Color Press: The Backbone of Bincai's 1.7M Box Daily Output"
 date: 2026-06-11
 draft: false
-description: "How our KBA 1050 4-color offset press powers mass production across 10,000 sqm factory — 1.7 million boxes daily output, 22 years experience, ISO 9001 & FSC certified."
+description: "How our KBA 1050 4-color offset press powers mass production across 18,000 sqm factory (10,000+8,000 smart factory) — 1.7 million boxes daily output, 22 years experience, ISO 9001 & FSC certified."
 
 ---
 

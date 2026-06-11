@@ -64,13 +64,6 @@ Magnetic flap paper box with soft touch lamination in matte black — manufactur
 - KBA 1050 4-color + Heidelberg 7+1 UV presses
 - Fully automatic die-cutting, gluing, and rigid box assembly lines
 - Daily capacity: 1.7 million color boxes + 220,000+ gift boxes
-
-## Related Products
-- [Magnetic Book-Style Rigid Gift Box with Gold Foil Hot Stamping](/products/detail/magnetic-closure-book-style-gift-box-gold-foil-hot-stamping/)
-- [Magnetic Closure Box with Clear Sleeve Window Premium Gift](/products/detail/magnetic-closure-box-clear-sleeve-window-premium-gift/)
-- [Magnetic Closure Box with Die-Cut Insert Electronics Accessories](/products/detail/magnetic-closure-box-with-die-cut-insert-electronics-accessories/)
-- [All Magnetic Closure Boxes](/categories/magnetic-closure-boxes/)
-
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Free samples available. Factory visits welcome.
 

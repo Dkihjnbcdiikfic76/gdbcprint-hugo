@@ -118,10 +118,3 @@ A: We offer two print paths depending on your brand requirements. Flexographic p
 **Q: Are corrugated mailers durable enough for e-commerce shipping?**
 
 A: Yes. Our E-flute mailers pass ISTA 1A drop testing (10-drop sequence from 760mm) with the box intact and contents undamaged, achieving an Edge Crush Test of at least 24 lbs/in and burst strength of 125 PSI or higher. The tuck-top closure holds through 50+ inversion cycles with a pull-out force exceeding 8 N, and the integrated tear strip delivers a clean tear at 3-8 N force with less than 5mm fiber deviation. For heavier shipments up to 15 kg, B-flute or EB double-wall construction is available, with ECT values reaching 32 lbs/in or higher. Flat-packed design also reduces warehouse footprint by 10x versus assembled boxes, so your logistics chain stays efficient from factory to fulfillment center.
-
-## Related Products
-
-- [Custom Printed Corrugated Mailer Box -- Self-Locking E-commerce](custom-printed-corrugated-mailer-box-self-locking-ecommerce/)
-- [White Corrugated E-Commerce Box with Tear Strip -- Subscription](white-corrugated-e-commerce-box-with-tear-strip-subscription/)
-- [Custom Corrugated Mailer with Self-Locking Bottom Tear Strip](custom-corrugated-mailer-with-self-locking-bottom-tear-strip/)
-- [Single Wall Corrugated Shipping Box with Tear Strip](single-wall-corrugated-shipping-box-with-tear-strip/)

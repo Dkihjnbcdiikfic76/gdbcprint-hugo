@@ -100,14 +100,6 @@ A: Our LED strips are fully enclosed behind a diffuser panel — there is zero e
 **Q: What is the lead time for custom 3-tier configurations with LED and gold foil?**
 
 A: Standard production lead time is 18-22 days for existing tooling and stock materials. Custom LED configuration (color temperature, battery type) adds 3-5 days. Custom-dyed velvet flocking adds 7-10 days. New tier layout requiring new die-cut tooling adds 5-7 days. Pre-production samples with your exact tier layout and materials ship within 5-7 days. Bincai produces 1.7M boxes daily — capacity for orders from 500 to 50,000+ units.
-
-## Related Products
-
-- [Luxury Suede Double-Door Jewelry Box — LED Mirror](/products/detail/luxury-suede-double-door-jewelry-box-led-mirror/) — Double-door suede box with LED-lit mirror for premium jewelry sets
-- [Velvet Jewelry Display Box — Mirror Lid LED Necklace](/products/detail/velvet-jewelry-display-box-mirror-lid-led-necklace/) — Single-tier velvet box with mirror lid and LED for necklace display
-- [Dual-Layer Magnetic Jewelry Ring Box](/products/detail/dual-layer-magnetic-jewelry-ring-box/) — Two-layer magnetic box for ring presentation with velvet interior
-- [Premium Leather-Look Jewelry Set Box — 3-Tier Velvet Display](/products/detail/premium-leather-look-jewelry-set-box-3-tier-velvet-display/) — Leather-look exterior 3-tier box with velvet flocking
-
 ## Contact
 
 MOQ 500 units. Velvet color swatches, LED brightness demo video, and mirror finish samples available. Sample within 7 days. Lead time 18-27 days. Phone: +86-18934352881. Email: qo82@icloud.com.

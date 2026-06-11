@@ -75,13 +75,6 @@ A: E-flute (1.2mm) is thinner and more compact — ideal for lightweight books a
 
 **Q: Can you print my logo on the mailer exterior?**
 A: Yes. Flexo printing (1-3 colors) directly on kraft is the most economical option for branding. For full-color exterior printing we offer litho-laminated kraft (offset-printed paper sheet laminated onto corrugated), which delivers photo-quality brand presentation.
-
-## Related Products
-- [Corrugated Literature Mailer Self-Seal Book Catalog](/products/detail/corrugated-literature-mailer-self-seal-book-catalog/) — literature/catalog mailer
-- [Corrugated Mailer Book Wrap Shipper](/products/detail/corrugated-mailer-book-wrap-shipper/) — book wrap shipper
-- [Corrugated Tuck-Top Mailer Perforated Tear Strip Ecommerce](/products/detail/corrugated-tuck-top-mailer-perforated-tear-strip-ecommerce/) — tuck-top with tear strip
-- [Custom Corrugated Mailer with Self-Locking Bottom Tear Strip](/products/detail/custom-corrugated-mailer-with-self-locking-bottom-tear-strip/) — self-locking bottom mailer
-
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Factory visits welcome.
 

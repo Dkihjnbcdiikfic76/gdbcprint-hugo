@@ -8,7 +8,7 @@ description: "How Guangdong Bincai's 6-stage quality control system ensures ever
 
 ![Bincai Custom Paper Box Manufacturing — Factory & Production](/images/hero-banner-wide.jpg)
 
-When you order 50,000 custom rigid boxes for a new product launch, "one bad batch" isn't an option. At Bincai's 10,000 sqm factory, where **1.7 million paper boxes roll off the line every day**, quality isn't a final checkbox — it's woven into every stage of production. Here's the full QC system that keeps our defect rate below 0.3%.
+When you order 50,000 custom rigid boxes for a new product launch, "one bad batch" isn't an option. At Bincai's 18,000 sqm factory (10,000+8,000 smart factory), where **1.7 million paper boxes roll off the line every day**, quality isn't a final checkbox — it's woven into every stage of production. Here's the full QC system that keeps our defect rate below 0.3%.
 
 ## Stage 1: Incoming Material Inspection
 

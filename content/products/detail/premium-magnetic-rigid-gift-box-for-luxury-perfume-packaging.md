@@ -58,13 +58,6 @@ Premium magnetic rigid gift box for luxury perfume packaging — manufactured by
 - KBA 1050 4-color + Heidelberg 7+1 UV presses
 - Fully automatic die-cutting, gluing, and rigid box assembly lines
 - Daily capacity: 1.7 million color boxes + 220,000+ gift boxes
-
-## Related Products
-- [Magnetic Rigid Wine Box — 2-Bottle Luxury Gift Packaging](/products/detail/magnetic-rigid-wine-box-2-bottle/)
-- [Black Magnetic Rigid Box for Electronics Premium Packaging](/products/detail/black-magnetic-rigid-box-for-electronics-premium-packaging/)
-- [Magnetic Book-Style Rigid Gift Box with Gold Foil](/products/detail/book-style-rigid-gift-box-with-magnetic-flap-custom-print/)
-- [All Rigid Gift Boxes](/categories/rigid-gift-boxes/)
-
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Factory visits welcome.
 

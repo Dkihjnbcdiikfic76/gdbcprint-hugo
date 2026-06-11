@@ -91,11 +91,3 @@ A: Standard options include satin (most popular — elegant sheen, colors availa
 
 **Q: Are these boxes export-ready for international wine and spirits distribution?**
 A: Yes. All materials are FSC-certified. Boxes are ISTA-tested for export shipping — we've delivered wine boxes to distilleries, vineyards, and distributors across 50+ countries. Flat-pack shipping available for efficiency. Worldwide delivery via DHL/FedEx/UPS/Sea from our Foshan logistics hub.
-
-## Related Products
-
-- [Magnetic Closure Rigid Gift Box with Ribbon Pull](/products/detail/2026-christmas-gift-box-with-magnetic-closure-holiday-packaging/) — Premium magnetic closure gift box with seasonal finishes
-- [Book-Style Rigid Gift Box with Magnetic Flap](/products/detail/book-style-rigid-gift-box-with-magnetic-flap-custom-print/) — Book-style rigid box for luxury presentation
-- [Rigid Box vs Folding Carton — Bincai Guide](/blog/rigid-box-vs-folding-carton-bincai-packaging-guide/) — Guide to choosing the right box type
-
-[Request your free quote →](/contact/)

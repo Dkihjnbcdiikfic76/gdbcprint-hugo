@@ -121,14 +121,6 @@ A: We offer jute handles in natural golden-brown as standard, plus bleached whit
 **Q: How do these boxes ship, and what is the assembly process at my fulfillment center or retail store?**
 
 A: The boxes are shipped flat-packed with the jute handles bundled separately inside each master carton to minimize freight volume — this typically reduces shipping cubic volume by 60–70% compared to pre-assembled boxes, significantly lowering your landed cost per unit. Assembly at your facility takes approximately 15–20 seconds per box: (1) pop the flat box body open into its 3D shape and lock the auto-lock bottom panel; (2) thread each end of the jute twine through the pre-punched die-cut slots in the top flaps; (3) tie a simple overhand knot on the interior side of each slot to secure the handle. No glue, tape, or tools are required. Our packaging engineers provide a one-page illustrated assembly guide and a video tutorial link with every shipment. If you prefer fully pre-assembled delivery, we can accommodate this for an additional assembly labor charge and higher freight cost — please specify during quotation. For large-scale fulfillment operations, we also offer handle pre-threading with unknotted ends so your team only needs to tie the final knot, reducing assembly time to under 10 seconds per box.
-
-## Related Products
-
-- [Kraft Shoulder Box with Magnetic Snap and Custom Divider — Eco Gift](/products/detail/kraft-shoulder-box-magnetic-snap-custom-divider-eco-gift/) — A premium shoulder-box variant with magnetic snap closure and internal dividers, ideal for curated gift sets and luxury eco-brand presentations.
-- [Eco-Friendly Kraft Paper Gift Box with Cotton Handle Custom Print](/products/detail/eco-friendly-kraft-paper-gift-box-cotton-handle-custom-print/) — A cotton-handle alternative for brands preferring a softer, more refined handle texture with the same eco-friendly kraft aesthetic.
-- [Natural Kraft Paper Gift Box with Jute Ribbon — Eco-Friendly](/products/detail/natural-kraft-paper-gift-box-with-jute-ribbon-eco-friendly/) — A ribbon-closure companion product in matching natural kraft with jute ribbon ties, perfect for coordinating your product line packaging family.
-- [FSC Kraft Gift Box with Cotton Handle and Soy Ink Printing](/products/detail/fsc-kraft-gift-box-with-cotton-handle-soy-ink-printing/) — The FSC-certified cotton-handle version with soy ink printing, designed for brands requiring full FSC chain-of-custody documentation with a softer carry solution.
-
 ## Contact
 
 - **Phone:** +86-18934352881

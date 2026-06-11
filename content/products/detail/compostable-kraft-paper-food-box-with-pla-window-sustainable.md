@@ -117,14 +117,6 @@ A: Absolutely — every order is manufactured to your exact branding specificati
 **Q: What is the minimum order quantity for custom-sized compostable PLA window boxes, and how long does sampling take?**
 
 A: The standard MOQ for custom-sized and custom-printed compostable kraft boxes with PLA windows is 500–1000 units depending on box dimensions and print complexity — trial quantities as low as 300 units can be accommodated for simple single-color designs. Sampling follows a two-stage process: first, we produce a white (unprinted) structural sample in your exact dimensions and material specification within 3–5 working days so you can verify fit, closure, and board weight; once approved, we produce a pre-production printed sample with your artwork within an additional 5–7 working days. Both sample stages are free of charge — you pay only the courier freight (typically DHL/FedEx, 3–5 days to major global markets). Full production lead time after sample approval is 7–15 working days.
-
-## Related Products
-
-- [FSC Kraft Hinged Lid Box with Compostable Window for Food](/products/detail/fsc-kraft-hinged-lid-box-compostable-window-food/) — A hinged-lid variant with integrated compostable window, ideal for premium bakery and deli displays requiring one-hand opening and secure closure.
-- [Kraft Food Delivery Box with Window](/products/detail/kraft-food-delivery-box-with-window/) — A larger-capacity kraft delivery box with panoramic window designed specifically for multi-item meal delivery and catering portion packs.
-- [Recyclable Kraft Folding Carton for Eco-Friendly Food Packaging](/products/detail/recyclable-kraft-folding-carton-eco-friendly-food-packaging/) — A windowless kraft folding carton optimized for dry food products, cereal, snacks, and pantry items with full recyclability in paper streams.
-- [Eco-Friendly Kraft Paper Gift Box with Cotton Handle Custom Print](/products/detail/eco-friendly-kraft-paper-gift-box-cotton-handle-custom-print/) — A handled kraft gift box designed for retail shelf presentation of food gift sets, hampers, and seasonal confectionery collections.
-
 ## Contact
 
 - **Phone:** +86-18934352881

@@ -34,6 +34,6 @@ FSC certification means the paper materials come from responsibly managed forest
 
 ## Bincai's Certifications
 
-Guangdong Bincai Color Printing holds both ISO 9001:2015 and FSC certifications, audited annually. Our 10,000 sqm factory in Foshan, China operates KBA and Heidelberg presses with strict quality control.
+Guangdong Bincai Color Printing holds both ISO 9001:2015 and FSC certifications, audited annually. Our 18,000 sqm factory (10,000+8,000 smart factory) in Foshan, China operates KBA and Heidelberg presses with strict quality control.
 
 [Request certified packaging quote →](/contact/)

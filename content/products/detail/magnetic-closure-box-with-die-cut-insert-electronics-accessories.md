@@ -116,14 +116,6 @@ A: For the vast majority of consumer electronics — including smartphones, wire
 
 **Q: What is the minimum order quantity for custom die-cut insert magnetic closure boxes, and can I order samples first?**
 A: Our standard MOQ is 500–1000 units per design, which is among the lowest in the industry for fully custom rigid magnetic closure boxes with precision die-cut inserts. For brand startups and market testing, we accept trial orders as low as 200 units at a small per-unit surcharge. Before mass production, we provide a free digital structural design proof within 48 hours, a white-glue mockup sample in 5–7 working days, and a pre-production sample with your actual artwork and materials in 7–10 days (freight collect). This tiered sampling process lets you evaluate the insert fit, magnet feel, and overall quality before committing to a full production run.
-
-## Related Products
-
-- [Magnetic Gift Box Premium Electronics](/products/detail/magnetic-gift-box-premium-electronics/) — High-end rigid magnetic box designed for premium consumer electronics with custom foam cushioning and luxury finishes.
-- [Black Magnetic Rigid Box for Electronics Premium Packaging](/products/detail/black-magnetic-rigid-box-for-electronics-premium-packaging/) — Matte black magnetic closure rigid box with soft-touch lamination, engineered for high-value tech products and gadgets.
-- [Rigid Paper Box with Magnetic Lid Tech Accessories Gadget Gift Set](/products/detail/rigid-paper-box-with-magnetic-lid-tech-accessories-gadget-gift-set/) — Multi-compartment rigid gift box with magnetic lid, optimized for tech accessory bundles and gadget gift sets.
-- [Magnetic Closure Presentation Box Foam Tray Corporate Pen Set](/products/detail/magnetic-closure-presentation-box-foam-tray-corporate-pen-set/) — Professional presentation box with custom foam tray, ideal for corporate tech kits, executive pen sets, and branded promotional electronics.
-
 ## Contact
 
 - **Phone:** +86-18934352881

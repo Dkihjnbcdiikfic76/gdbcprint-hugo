@@ -76,9 +76,3 @@ A: For fully custom designs (new die, new size, new artwork), MOQ starts at 500 
 
 **Q: How do these boxes ship — are they assembled or flat?**
 A: All magnetic closure rigid boxes ship flat (knocked down) with the magnetic flap separated but attached. This reduces shipping volume by 60–75% compared to pre-assembled boxes. Assembly takes approximately 10–15 seconds per box — simply fold up the side walls, tuck the flaps, and the magnetic closure is ready. We include assembly instructions with every shipment.
-
-## Related Products
-- [Luxury Christmas Paper Gift Box with Gold Foil Snowflake](/products/detail/luxury-christmas-paper-gift-box-with-gold-foil-snowflake/) — Premium rigid box with hot gold foil snowflake pattern, velvet-lined interior, ideal for holiday jewelry and luxury gift presentation.
-- [Hexagonal Paper Gift Box with Magnetic Closure Custom](/products/detail/hexagonal-paper-gift-box-with-magnetic-closure-custom/) — Unique hexagonal rigid box with magnetic closure, custom CMYK printing, and satin insert tray for distinctive gift packaging.
-- [Magnetic Closure Luxury Paper Box Soft Touch Finish](/products/detail/magnetic-closure-luxury-paper-box-soft-touch-finish/) — Premium magnetic closure box with velvety soft-touch lamination, perfect for electronics, cosmetics, and high-end retail.
-- [Luxury Magnetic Flip-Top Box Custom CMYK Printing](/products/detail/luxury-magnetic-flip-top-box-custom-cmyk-printing/) — Modern flip-top design with concealed magnetic closure and full-color CMYK printing for premium unboxing experiences.

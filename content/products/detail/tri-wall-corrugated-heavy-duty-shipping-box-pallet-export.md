@@ -95,14 +95,6 @@ A: Yes. We offer flexographic printing (1–3 colors) directly on kraft or white
 
 **Q: What customization options are available for export pallet boxes?**
 A: Full customization includes: size (custom H×W×D), flute grade (AAA/AA/A), hand holes with reinforcement, fork-lift entry, pallet integration (attached base or separate), tear-strip opening, moisture barrier coating, anti-static treatment for electronics, and RFID tag pockets for supply chain tracking.
-
-## Related Products
-
-- [Corrugated Multi-Depth Shipping Box with Tear Strip for Subscription Boxes](/products/detail/corrugated-multi-depth-shipping-box-tear-strip-subscription/) — adjustable-depth e-commerce mailer with tear strip
-- [Single Wall Corrugated Shipping Box with Tear Strip for E-Commerce Delivery](/products/detail/single-wall-corrugated-shipping-box-with-tear-strip/) — lightweight single-wall box for e-commerce fulfillment
-- [Corrugated Mailer Book Wrap Shipper with Self-Seal Closure](/products/detail/corrugated-mailer-book-wrap-shipper/) — protective book and media mailer with self-seal adhesive
-- [White Corrugated E-Commerce Box with Tear Strip for Subscription Delivery](/products/detail/white-corrugated-e-commerce-box-with-tear-strip-subscription/) — clean white finish subscription box with easy-open tear strip
-
 ## Why Bincai
 
 | Feature | Detail |

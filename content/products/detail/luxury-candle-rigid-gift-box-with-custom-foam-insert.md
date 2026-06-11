@@ -75,14 +75,6 @@ A: Standard lead time is 15-20 business days from artwork approval. Pre-producti
 
 **Q: Are the materials used in Bincai's candle boxes sustainable?**
 A: Yes. All greyboard and art paper are FSC Chain-of-Custody certified. Soy-based inks are standard for interior printing, and the foam insert can be replaced with moulded pulp (fully biodegradable) or recycled EVA foam upon request. The entire box is designed for recyclability after the foam insert is removed.
-
-## Related Products
-
-- [Hexagonal Rigid Gift Box with Custom Print and Ribbon](/products/detail/hexagonal-rigid-gift-box-custom-print-ribbon-luxury-confectionery/) — Unique hexagonal shape for premium gift presentation
-- [Rigid Gift Box with Telescopic Lid and Hot Foil Stamping](/products/detail/rigid-gift-box-telescopic-lid-hot-foil-premium/) — Two-piece telescopic lid box with luxury finishes
-- [Drawer Slide Magnetic Rigid Box with Ribbon Pull](/products/detail/drawer-slide-magnetic-rigid-box-ribbon-pull-custom-insert/) — Drawer-style rigid box for premium product reveals
-- [Eco Kraft Paper Rigid Box with Embossing and Soy-Based Ink](/products/detail/eco-kraft-paper-rigid-box-with-embossing-soy-based-ink/) — Sustainable rigid box option for eco-conscious brands
-
 ## Why Bincai
 
 | Feature | Detail |

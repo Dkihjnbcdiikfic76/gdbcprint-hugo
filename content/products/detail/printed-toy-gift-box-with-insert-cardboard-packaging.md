@@ -95,14 +95,6 @@ A: MOQ starts at **500 units** for standard tuck-top or STE cartons with a singl
 
 **Q: Are your printing inks and materials safe if the toy box is handled by young children?**
 A: Yes. We use **soy-based or low-VOC offset inks** that meet EN 71-3 and CONEG (heavy metals) regulations. Our aqueous and BOPP lamination films are phthalate-free and non-toxic. For brands with the strictest requirements — such as infant/toddler toys (0–3 years) — we can produce with food-grade inks and water-based coatings only, eliminating solvent-based components entirely. Full material safety data sheets (MSDS) are provided with every order, and we recommend third-party testing for your specific market's regulatory requirements.
-
-## Related Products
-
-- [Eco Kraft Folding Carton with Soy-Based Ink](/products/detail/eco-kraft-folding-carton-with-soy-based-ink-sustainable/) — sustainable folding carton with FSC kraft and soy inks, ideal for eco-conscious toy brands
-- [Custom Tuck-Top Folding Carton with Hot Foil Stamping](/products/detail/custom-tuck-top-folding-carton-hot-foil-stamping-cosmetic-box/) — premium tuck-top carton with gold or silver foil for collectible toy presentation
-- [Sleeve-Style Folding Carton for Premium Confectionery](/products/detail/sleeve-style-folding-carton-premium-chocolate-confectionery/) — sleeve-and-tray structure with window display, easily adapted for toy gift sets
-- [Folding Carton Pillow Box with Curved Design](/products/detail/folding-carton-pillow-box-curved-design-luxury-gift/) — unique curved pillow box format perfect for small toy gifts, party favors, and blind-box collectibles
-
 ## Why Bincai
 
 | Feature | Detail |

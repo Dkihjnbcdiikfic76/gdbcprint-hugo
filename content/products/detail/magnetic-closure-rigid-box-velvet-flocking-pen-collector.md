@@ -73,13 +73,6 @@ A: Two key differentiators: (1) precision velvet-flocked pen grooves engineered 
 
 **Q: Can I order a single prototype for photography before committing to mass production?**
 A: Yes. We offer one-off pre-production samples with full finishing (your artwork, foil stamping, velvet color) in 5–7 working days. Sample cost is refundable against your first production order.
-
-## Related Products
-- [Magnetic Closure Presentation Box Foam Tray Corporate Pen Set](/products/detail/magnetic-closure-presentation-box-foam-tray-corporate-pen-set/) — foam tray corporate variant
-- [Magnetic Closure Rigid Box Ribbon Pull Stationery Set](/products/detail/magnetic-closure-rigid-box-ribbon-pull-stationery-set/) — ribbon pull stationery box
-- [Magnetic Closure Book Style Gift Box Gold Foil Hot Stamping](/products/detail/magnetic-closure-book-style-gift-box-gold-foil-hot-stamping/) — book-style luxury variant
-- [Magnetic Closure Rigid Box Corporate Gift Set Embossed Logo](/products/detail/magnetic-closure-rigid-box-corporate-gift-set-embossed-logo/) — embossed corporate edition
-
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Factory visits welcome.
 

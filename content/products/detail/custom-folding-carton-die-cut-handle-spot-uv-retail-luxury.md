@@ -73,13 +73,6 @@ A: No — our engineering ensures the handle is flush with the box surface when 
 
 **Q: What are the MOQ and typical lead times?**
 A: MOQ 1,000 units. New tooling: 8–12 working days; repeat orders: 5–7 days. Pre-production samples (with full finishing) ship in 5–7 working days. Rush service available for repeat orders.
-
-## Related Products
-- [Custom Folding Carton CMYK Offset Printing Retail Packaging](/products/detail/custom-folding-carton-box-cmyk-offset-printing-retail-packaging/) — full-color CMYK retail box
-- [Die-Cut Folding Carton with Window Display Cosmetic Box](/products/detail/die-cut-folding-carton-with-window-display-cosmetic-box/) — window + die-cut combo
-- [Folding Carton with Insert Tray for Tea Coffee Packaging](/products/detail/folding-carton-with-insert-tray-for-tea-coffee-packaging/) — insert tray version
-- [Straight Tuck End Folding Carton Box Matte Lamination](/products/detail/straight-tuck-end-folding-carton-box-with-matte-lamination/) — classic STE style
-
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Factory visits welcome.
 

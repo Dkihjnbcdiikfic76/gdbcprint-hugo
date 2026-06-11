@@ -90,11 +90,3 @@ A: We stock gold, silver, copper, rose gold, and holographic foils. Custom Panto
 
 **Q: Are these cartons export-ready and compliant with international standards?**
 A: Yes. All materials are FSC Chain-of-Custody certified. Our factory operates under ISO 9001:2015 quality management. Boxes are ISTA-tested for export shipping and available flat-packed for efficient container loading. Worldwide delivery via DHL/FedEx/UPS/Sea from our Foshan logistics hub.
-
-## Related Products
-
-- [Auto-Bottom Folding Carton for Food, Soap & Candle Packaging](/products/detail/auto-bottom-folding-carton-for-food-soap-candle-packaging/) — Auto-lock bottom carton for similar applications
-- [Custom Folding Carton with Hot Foil Stamping — Organic Skincare](/products/detail/custom-folding-carton-hot-foil-stamping-organic-skincare/) — Foil-stamped carton for beauty and personal care
-- [Custom Folding Carton with Euro Hang Tab — Retail Display](/products/detail/custom-folding-carton-with-euro-hang-tab-retail-display/) — Retail-ready carton with hang tab
-
-[Request your free quote →](/contact/)

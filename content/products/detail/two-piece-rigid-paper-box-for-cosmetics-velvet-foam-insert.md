@@ -81,14 +81,6 @@ A: Yes. All rigid boxes undergo ISTA 1A transit testing (76cm free-fall, 6 faces
 
 **Q: What customization options are available for cosmetics branding?**  
 A: Full customization across every element: outer wrapping (128–200gsm art paper in 8 finishes including soft-touch, linen, pearlescent, and metallic), printing (CMYK + 7 PMS spot colors with Heidelberg 7+1 UV), foil stamping (gold, silver, rose gold, copper, holographic), embossing/debossing, spot UV (gloss-on-matte for brand logo emphasis), edge gilding, magnetic closure, satin ribbon pull-tab, foil-stamped interior logo, and printed insert cards. Lead time is 10–15 working days for new orders, 5–7 days for repeats.
-
-## Related Products
-
-- [Two-Piece Rigid Setup Box with Foam Insert for Electronics](/products/detail/two-piece-rigid-setup-box-foam-insert-electronics-premium-packaging/) — Precision die-cut foam for tech accessories and gadgets
-- [Square Rigid Gift Box with Magnetic Lid and Matte Lamination](/products/detail/square-rigid-gift-box-magnetic-lid-matte-lamination-custom/) — Clean modern aesthetic with concealed magnetic closure
-- [Rigid Paper Box with Magnetic Lid for Tech Accessories](/products/detail/rigid-paper-box-with-magnetic-lid-tech-accessories-gadget-gift-set/) — Magnetic closure rigid box for premium electronics and gifts
-- [Rigid Paper Box with Silver Hot Stamping for Corporate Gifts](/products/detail/rigid-paper-box-with-silver-hot-stamping-for-corporate-gifts/) — Elegant silver-stamped rigid box for executive gifting
-
 ## Why Bincai
 
 | Feature | Detail |

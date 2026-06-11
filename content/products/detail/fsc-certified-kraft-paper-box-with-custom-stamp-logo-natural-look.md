@@ -118,14 +118,6 @@ A: FSC Recycled 100% board is manufactured entirely from post-consumer recovered
 **Q: Can the entire box be recycled in standard curbside paper streams, including after printing with soy inks?**
 
 A: Yes — our FSC-certified kraft boxes printed with soy-based inks and finished without plastic lamination are fully compatible with standard curbside paper and cardboard recycling streams worldwide. Soy-based and water-based inks de-ink effectively during the repulping process at paper recycling mills, and the natural kraft fibers maintain sufficient strength for 4–7 recycling cycles. We specifically avoid PE lamination, UV-cured coatings, and synthetic adhesives on our eco-box range to preserve end-of-life recyclability. For maximum recycling compatibility, we recommend selecting the uncoated natural finish or aqueous (water-based) coating options, both of which are repulpable. If your customers are in regions with industrial composting programs, the boxes are also suitable for organic waste collection as the board and soy inks will biodegrade — though we recommend removing any separate adhesive labels or stickers before composting.
-
-## Related Products
-
-- [Custom Kraft Paper Folding Box for Sustainable Retail Packaging](/products/detail/custom-kraft-paper-folding-box-sustainable-retail-packaging/) — A versatile folding kraft box with full CMYK offset printing for retail brands wanting vibrant graphics on an eco-friendly kraft substrate.
-- [FSC Kraft Gift Box with Cotton Handle and Soy Ink Printing](/products/detail/fsc-kraft-gift-box-with-cotton-handle-soy-ink-printing/) — A handled carry-box variant in FSC kraft with natural cotton rope handles, perfect for boutique retail and gift packaging with a premium unboxing experience.
-- [Biodegradable Kraft Paper Box for Eco-Friendly Cosmetics Packaging](/products/detail/biodegradable-kraft-paper-box-eco-friendly-cosmetics-packaging/) — A kraft box optimized for cosmetic and personal care products with optional interior coatings for oil and moisture resistance from natural formulations.
-- [Natural Kraft Paper Gift Box with Jute Ribbon — Eco-Friendly](/products/detail/natural-kraft-paper-gift-box-with-jute-ribbon-eco-friendly/) — A complementary gift-box design featuring natural jute ribbon closure on uncoated kraft board, ideal for coordinating product lines with a unified sustainable aesthetic.
-
 ## Contact
 
 - **Phone:** +86-18934352881

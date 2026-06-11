@@ -71,12 +71,3 @@ A: 1 to 12 cavities per tray, with customizable shapes — square, rectangular, 
 
 **Q: What is the minimum order quantity and lead time?**
 A: MOQ is 500-1,000 units per design. Lead time is 15-20 business days from artwork approval. Free pre-production samples with 3D digital proofs are provided within 3-5 working days. Rush service available for time-sensitive corporate gifting campaigns.
-
-## Related Products
-
-- [Magnetic Closure Watch Collector Box 6-Slot Carbon Fiber](/products/detail/magnetic-closure-watch-collector-box-6-slot-suede-carbon-fiber/) — Premium watch storage with carbon fiber finish
-- [Magnetic Closure Rigid Box with Velvet Flocking Pen Collector](/products/detail/magnetic-closure-rigid-box-velvet-flocking-pen-collector/) — Velvet-lined collector box for writing instruments
-- [Magnetic Closure Lipstick Gift Box](/products/detail/magnetic-closure-lipstick-gift-box/) — Compact magnetic box for cosmetic products
-- [Magnetic Closure Watch Box with Velvet Flocking Interior](/products/detail/magnetic-closure-watch-box-with-velvet-flocking-interior/) — Classic magnetic watch presentation box
-
-[Request your free quote →](/contact/)

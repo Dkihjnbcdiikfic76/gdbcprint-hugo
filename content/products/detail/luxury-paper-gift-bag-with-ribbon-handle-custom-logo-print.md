@@ -125,14 +125,6 @@ A: Our standard MOQ for full custom CMYK-printed gift bags is 500 units per size
 **Q: How durable are these paper gift bags, and what weight can they safely carry?**
 
 A: Bincai's luxury paper gift bags are engineered for real-world retail use, not just display. Standard construction uses 175gsm FSC kraft paper with reinforced die-cut gusset panels and a knotted interior handle attachment — laboratory-tested to safely carry 5 kg (11 lbs) of merchandise without handle detachment, seam separation, or structural collapse. For heavier applications — wine bottles, hardcover book collections, ceramic gift sets, or multiple cosmetic products — we upgrade to 200gsm kraft with metal-eyelet reinforced handle slots rated to 8 kg (17.6 lbs). Each handle style is tested for break strength: 15mm satin ribbon achieves ≥ 100 N tensile strength; 6mm cotton rope achieves ≥ 120 N; and 8mm jute twine achieves ≥ 150 N. Every production batch undergoes ISTA 1A drop testing — ten drops from 760mm across corners, edges, and faces at rated load weight — to verify real-world durability through courier handling, retail bagging, and customer carry. We recommend specifying your heaviest expected product weight during quotation so our engineers select the optimal paper grammage, gusset design, and handle reinforcement for your specific use case.
-
-## Related Products
-
-- [FSC Kraft Gift Box with Cotton Handle and Soy Ink Printing](/products/detail/fsc-kraft-gift-box-with-cotton-handle-soy-ink-printing/) — A rigid gift box alternative with braided cotton rope handle, FSC-certified kraft board, and soy-based ink printing — ideal for heavier gift sets requiring box structure over bag flexibility.
-- [Brown Kraft Paper Folding Box with Jute Handle — Eco Retail Packaging](/products/detail/brown-kraft-paper-folding-box-with-jute-handle-eco-retail-packaging/) — A folding kraft box with natural jute handle for brands preferring a box format with the same eco-friendly kraft and soy ink credentials.
-- [Kraft Paper Gift Box with Cotton Handle and Soy Ink Printing — FSC Certified](/products/detail/kraft-paper-gift-box-cotton-handle-soy-ink-fsc-certified-eco/) — A plastic-free gift box with cotton handle and soy ink on FSC-certified kraft, designed for eco-conscious brands requiring full material traceability.
-- [Recycled Kraft Paper Gift Box with Soy Ink Printing — 100% Biodegradable](/products/detail/recycled-kraft-paper-gift-box-with-soy-ink-printing-100-biodegradable/) — A 100% post-consumer recycled kraft box with biodegradable soy ink, complementing your gift bag range with a matching box format for multi-item gift sets.
-
 ## Contact
 
 - **Phone:** +86-18934352881 (Mr. Zhou)

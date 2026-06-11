@@ -108,15 +108,6 @@ A: **100% PCR** = paper made entirely from consumer-recycled waste (cereal boxes
 
 **Q: Can you do soy-based foil stamping for a fully compostable metallic finish?**
 A: Yes. We offer soy-based metallic foil alternatives to traditional petroleum-based foils. While slightly less brilliant than conventional hot stamping foil, soy-based foils maintain full compostability and deliver a subtle, organic metallic effect that aligns with natural brand aesthetics. Available in gold, silver, and copper tones.
-
-## Related Products
-
-- [FSC Certified Kraft Paper Box with Window — Food Packaging](/products/detail/fsc-certified-kraft-paper-box-with-window-food-packaging/) — Window + food-safe variant for product visibility
-- [Recyclable Kraft Folding Carton — Eco-Friendly Food Packaging](/products/detail/recyclable-kraft-folding-carton-eco-friendly-food-packaging/) — Food-grade recyclable kraft folding carton
-- [Eco Kraft Folding Carton with Soy-Based Ink — Sustainable Choice](/products/detail/eco-kraft-folding-carton-with-soy-based-ink-sustainable/) — Soy ink focused variant for maximum print eco-messaging
-- [Kraft Paper Gift Box with Cotton Handle — Soy Ink, FSC Certified](/products/detail/kraft-paper-gift-box-cotton-handle-soy-ink-fsc-certified-eco/) — Gift box with natural cotton carry handle
-- [Biodegradable Kraft Paper Box — Eco-Friendly Cosmetics Packaging](/products/detail/biodegradable-kraft-paper-box-eco-friendly-cosmetics-packaging/) — Cosmetics-focused biodegradable kraft box with full eco-specs
-
 ## Contact
 
 [Request free quote](/contact/) — response within 24 hours. Factory visits welcome at our Foshan, Guangdong facility. Send us your product dimensions and sustainability requirements — our eco-packaging specialists will configure the optimal material stack for your brand's sustainability goals and budget.

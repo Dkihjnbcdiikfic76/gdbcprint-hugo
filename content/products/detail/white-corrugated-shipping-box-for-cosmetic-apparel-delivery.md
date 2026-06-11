@@ -102,12 +102,3 @@ A: Standard configurations (flexo-printed, B/C-flute single-wall): 7–12 workin
 | MOQ | 500-1000 pcs, trial orders accepted |
 | Free Sample | Free pre-production sample (freight collect) |
 | Shipping | Worldwide DHL/FedEx/UPS/Sea |
-
-## Related Products
-
-- [Corrugated Book Mailer — Self-Seal & Adhesive Backing](/products/detail/corrugated-book-mailer-self-seal-adhesive-durable-shipping-packaging/) — Durable corrugated mailer for books, catalogs, and media with self-seal closure
-- [Corrugated Literature Mailer — Book & Catalog Shipper](/products/detail/corrugated-literature-mailer-self-seal-book-catalog/) — Light-duty corrugated mailer for literature, documents, and flat products
-- [Custom Corrugated Gift Box — Embossing & Spot UV](/products/detail/corrugated-gift-box-with-custom-print-embossing-spot-uv/) — Premium corrugated gift box with specialty print finishes
-- [Corrugated Mailer with Bubble Lining — Glassware Protection](/products/detail/corrugated-mailer-bubble-lining-glassware-shipping/) — Protective corrugated mailer with integrated bubble wrap for fragile items
-
-[Request your free quote →](/contact/)

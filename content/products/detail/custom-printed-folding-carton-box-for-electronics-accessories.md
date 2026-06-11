@@ -99,12 +99,3 @@ A: Yes. We use soy-based, low-VOC inks as standard and offer food-safe formulati
 
 **Q: What customization options are available for electronics packaging?**
 A: Full customization across board stock (SBS C1S, CCNB, coated art paper, FSC Kraft at 250–450gsm), printing (CMYK offset + Pantone spot + 7+1 UV), finishing (matte/gloss lamination, soft-touch, spot UV, foil stamping), structure (tuck-top, auto-lock bottom, reverse tuck, sleeve + tray), window patching (PVC/PET/PLA), and inserts (die-cut corrugated/foam). Hang tabs for pegboard retail and tamper-evident seals available.
-
-## Related Products
-
-- [Cosmetic Folding Carton with Spot UV and Soft-Touch Lamination](/products/detail/cosmetic-folding-carton-spot-uv-soft-touch-lamination/) — Premium folding cartons for beauty and skincare brands
-- [Custom Folding Carton Die-Cut Handle Spot UV Retail Luxury](/products/detail/custom-folding-carton-die-cut-handle-spot-uv-retail-luxury/) — Retail-ready folding cartons with die-cut handles
-- [Custom Folding Carton with Full-Flap Lid and Insert for Apparel](/products/detail/custom-folding-carton-full-flap-lid-insert-apparel/) — Full-flap folding cartons with custom inserts for clothing
-- [Custom Folding Carton with Hot Foil Stamping for Organic Skincare](/products/detail/custom-folding-carton-hot-foil-stamping-organic-skincare/) — Hot foil stamped folding cartons for premium skincare brands
-
-Contact us at +86-18934352881 or qo82@icloud.com for a free quote and sample kit.

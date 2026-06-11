@@ -72,13 +72,6 @@ A: Absolutely. Our KBA 1050 offset press can print CMYK graphics on the interior
 
 **Q: What flute type should I choose for my product?**
 A: E-flute (1.2mm) for lightweight items under 2kg and crisp printing. B-flute (2.5mm) for medium-weight items 2–8kg with good crush resistance. Double-wall BE for heavy/fragile items over 8kg or international shipping.
-
-## Related Products
-- [Corrugated Mailer Book Wrap Shipper](/products/detail/corrugated-mailer-book-wrap-shipper/) — adjustable book/media wrap
-- [Corrugated Tuck Top Mailer Perforated Tear Strip E-Commerce](/products/detail/corrugated-tuck-top-mailer-perforated-tear-strip-ecommerce/) — tuck-top alternative
-- [Double Wall Corrugated Mailer Box Self-Sealing E-Commerce](/products/detail/double-wall-corrugated-mailer-box-self-sealing-ecommerce/) — heavy-duty double wall
-- [Custom Corrugated Mailer Security Seal Tamper Evident](/products/detail/custom-corrugated-mailer-security-seal-tamper-evident/) — tamper-evident variant
-
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Factory visits welcome.
 

@@ -60,13 +60,3 @@ Guangdong Bincai Color Printing's magnetic rigid wine box is engineered for prem
 | **Free Samples** | 3-5 day pre-production samples |
 
 ## Contact
-
-## Related Products
-- [Magnetic Book-Style Rigid Gift Box with Gold Foil](/products/detail/book-style-rigid-gift-box-with-magnetic-flap-custom-print/)
-- [Magnetic Closure Book-Style Box with Velvet Lining](/products/detail/magnetic-closure-book-style-box-velvet-lining-corporate-gift/)
-- [Premium Magnetic Rigid Gift Box for Luxury Perfume](/products/detail/premium-magnetic-rigid-gift-box-for-luxury-perfume-packaging/)
-- [All Magnetic Closure Boxes](/categories/magnetic-closure-boxes/)
-
-MOQ 500 units. Sample available within 5 days. Lead time 15-25 days. Phone: +86-18934352881. Email: qo82@icloud.com.
-
-[Request your free quote →](/contact/)

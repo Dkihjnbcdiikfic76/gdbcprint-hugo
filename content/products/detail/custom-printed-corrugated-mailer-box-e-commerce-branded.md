@@ -91,11 +91,3 @@ A: Yes — we offer 60%, 80%, and 100% post-consumer recycled (PCR) corrugated o
 
 **Q: What ECT rating should I choose for my product?**
 A: ECT 32 is standard for lightweight items up to 3kg (apparel, cosmetics). ECT 40–44 is recommended for 3–8kg items (electronics, books, glassware). ECT 48+ is for heavy items 8–15kg or multi-unit shipments. We'll recommend the optimal board grade based on your product weight, stacking requirements, and shipping method — standard practice is to test with a pre-production sample before full production.
-
-## Related Products
-- [Corrugated Book Mailer with Self-Seal Adhesive](/products/detail/corrugated-book-mailer-self-seal-adhesive-durable-shipping-packaging/) — durable self-seal mailer for books and catalogs
-- [Corrugated Multi-Depth Shipping Box with Tear Strip](/products/detail/corrugated-multi-depth-shipping-box-tear-strip-subscription/) — variable-depth box for subscription fulfillment
-- [Corrugated Pizza Box Custom Printed Food Delivery](/products/detail/corrugated-pizza-box-custom-printed-food-delivery-packaging/) — food-grade printed pizza packaging
-- [Custom Corrugated Mailer Box with Integrated Bubble Lining](/products/detail/corrugated-mailer-bubble-lining-glassware-shipping/) — bubble-lined mailer for fragile glassware
-
-[Request your free quote →](/contact/)
