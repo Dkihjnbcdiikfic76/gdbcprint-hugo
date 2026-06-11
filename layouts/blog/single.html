@@ -1,0 +1,26 @@
+{{ define "main" }}
+<article style="max-width:760px;margin:0 auto;padding:40px 20px 60px;">
+<h1 style="font-size:28px;font-weight:700;line-height:1.2;color:#1d1d1f;margin-bottom:8px;">{{ .Title }}</h1>
+
+{{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
+{{ $dateHuman := .Date | time.Format ":date_long" }}
+<time datetime="{{ $dateMachine }}" style="display:block;font-size:13px;color:#888;margin-bottom:28px;">{{ $dateHuman }}</time>
+
+<div style="font-size:15px;line-height:1.7;color:#444;max-width:100%;overflow:hidden;">
+<span style="display:none"></span><style scoped>p img{max-width:100%!important;height:auto!important;border-radius:8px}</style>
+{{ .Content }}
+</div>
+
+<div style="margin-top:40px;background:#f0f4ff;border-radius:12px;padding:28px;text-align:center;border:1px solid #d6e4ff;">
+<h3 style="font-size:18px;font-weight:600;color:#1a56db;margin-bottom:8px;">Ready to Start Your Packaging Project?</h3>
+<p style="font-size:14px;color:#666;margin-bottom:16px;">Free consultation · Custom design · Factory-direct pricing</p>
+<a href="/contact/" class="btn-cta">Get a Free Quote</a>
+<p style="font-size:12px;color:#888;margin-top:12px;">📞 {{ .Site.Params.phone }} · ✉️ {{ .Site.Params.email }}</p>
+</div>
+
+<div style="margin-top:24px;padding-top:16px;border-top:1px solid #e0e0e0;text-align:center;">
+<a href="/blog/" class="btn-primary" style="font-size:13px;padding:10px 24px;">← Back to Blog</a>
+<a href="/products/" class="btn-outline" style="font-size:13px;padding:10px 24px;color:#1a56db!important;border-color:#1a56db;margin-left:8px;">Explore Products →</a>
+</div>
+</article>
+{{ end }}
