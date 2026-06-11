@@ -16,13 +16,18 @@ params:
 
 Custom folding carton box with CMYK offset printing for retail packaging — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience. ISO 9001 and FSC certified factory in Foshan, China, operating KBA 1050 4-color and Heidelberg 7+1 UV presses with 1.7 million boxes daily output.
 
-## Applications
-- Cosmetic and skincare product packaging
-- Food and confectionery boxes (food-safe inks available)
-- Electronics accessories and gadget packaging
-- Pharmaceutical and healthcare product cartons
-- Apparel and fashion accessory boxes
-- Candle, soap, and handmade product packaging
+## Applications & Industry Use Cases
+
+| Industry | Application | Recommended Spec |
+|---|---|---|
+| **Cosmetics & Skincare** | Serum cartons, cream boxes, lipstick sleeves, face mask cartons | 350gsm C1S + soft-touch matte lamination + gold foil logo + spot UV |
+| **Food & Confectionery** | Chocolate boxes, tea cartons, snack sleeves, bakery boxes | 300gsm food-grade board + grease-resistant coating + window patch (PLA film) |
+| **Electronics** | Earphone boxes, cable cartons, power bank packaging, accessory kits | 400gsm greyboard + EVA foam insert + magnetic tuck flap + anti-static option |
+| **Pharmaceutical** | OTC medicine cartons, supplement boxes, vitamin packs, medical device cartons | 350gsm + tamper-evident seal + Braille embossing + low-migration inks (GMP compliant) |
+| **Apparel & Fashion** | T-shirt fold boxes, tie cartons, scarf sleeves, lingerie gift boxes | 350gsm art paper + full flap lid + tissue insert + ribbon pull |
+| **Candles & Home Fragrance** | Scented candle boxes, diffuser cartons, wax melt sleeves | 400gsm + foil-stamped pattern + die-cut window + scented coating option |
+| **Toys & Games** | Puzzle boxes, card game cartons, action figure packaging, board game sleeves | 450gsm + clear PVC window + reinforced tuck flap + child-safe inks |
+| **Promotional & POS** | Counter display cartons, gift-with-purchase boxes, holiday special editions | 350gsm + full CMYK + holographic foil + embossed seasonal motif |
 
 ## Customization Options
 - Multiple carton styles: straight tuck end, reverse tuck end, auto-bottom, seal end
@@ -42,13 +47,28 @@ Custom folding carton box with CMYK offset printing for retail packaging — man
 - Food-safe and low-migration inks available for food contact packaging
 - FSC Chain of Custody certified — sustainable forestry sourcing
 
-## Quality Details
-- Color density monitoring throughout print runs for batch consistency
-- 100% glue-line inspection on auto-bottom and 4/6-corner cartons
-- Flatness control — cartons sit perfectly on retail shelves
-- Pre-production digital proofs and physical samples available
-- MOQ 500 units, fast 7–10 day turnaround on repeat orders
-- Free pre-production samples with courier freight collect
+## Production Quality & Testing
+
+Every folding carton batch undergoes rigorous QC aligned with international packaging standards:
+
+| Test | Standard | Specification |
+|---|---|---|
+| **Board Burst Strength** | ISO 2759 | ≥1200 kPa (300gsm), ≥1800 kPa (400gsm) — resists puncture in transit and on shelf |
+| **Crease & Fold** | Internal | 10 fold/unfold cycles per carton — no fiber cracking or delamination at score lines |
+| **Glue Bond** | Internal | Adhesive coverage ≥90% on manufacturer's joint; peel strength ≥2.5 N/cm |
+| **Print Registration** | Internal | Four-color registration ±0.10mm; density deviation ≤0.08D across run |
+| **Color Accuracy** | Internal | X-Rite spectrophotometer; ΔE ≤2.0 vs. approved proof under D65 lighting |
+| **Foil Adhesion** | ASTM D5264 Sutherland | 50 double rubs at 4-lb weight — no visible wear or metal transfer |
+| **Lamination Bond** | Internal | Peel strength ≥2.0 N/cm; no bubbling, delamination, or edge lifting |
+| **Flatness Control** | Internal | Sheet curl ≤3mm across 500mm diagonal — cartons sit flush on retail shelves |
+| **Dimensional** | Internal | Length/width/height within ±1mm of spec; squareness within 1.0° |
+| **Drop Test** | ISTA 1A | 10-drop sequence at product weight — no burst or content exposure |
+| **Vibration Test** | ISTA 1A | 1 hour at 200 RPM — no scuffing, abrasion, or structural loosening |
+| **Food Contact** | EU 10/2011 | Low-migration ink below detection limit for indirect food contact applications |
+| **Environmental** | Internal | 48h at 40°C / 85% RH — ≤3% dimensional change, no delamination |
+| **Visual Inspection** | AQL 2.5 Level II | ISO 2859-1 sampling; color consistency, print registration, structural integrity |
+
+**Production workflow:** Artwork preflight (4h) → Digital color proof (24h) → Die creation (48h) → Physical sample (3–5 days) → Customer approval → Mass production (7–12 days) → QC sampling per AQL → Flat-pack bundling → Pallet wrapping → Container loading.
 
 ## Factory
 - Founded 2003 — 22+ years of folding carton manufacturing
