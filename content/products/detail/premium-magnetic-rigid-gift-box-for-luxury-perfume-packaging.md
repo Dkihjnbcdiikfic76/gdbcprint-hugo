@@ -83,4 +83,24 @@ Premium magnetic rigid gift box for luxury perfume packaging — manufactured by
 | Free Sample | Free pre-production sample (freight collect) |
 | Shipping | Worldwide DHL/FedEx/UPS/Sea |
 
+## FAQ
+
+**Q: What makes a rigid box better than a folding carton for luxury perfume packaging?**
+A: Rigid boxes use thick greyboard (800–2500gsm) wrapped with premium surface paper, giving them a substantial, "hard" feel that folding cartons can't match. They protect fragile perfume bottles during shipping, create a premium unboxing experience, and accept luxury finishes like hot foil stamping, embossing, and magnetic closures. Bincai produces 220,000+ rigid boxes daily on fully automatic assembly lines.
+
+**Q: What magnetic closure options are available for rigid boxes?**
+A: Hidden magnet flap closure (seamless opening with embedded neodymium magnets), single-door magnetic lid, telescopic magnetic lid with tray, and book-style magnetic flap. All magnets are N35-grade neodymium for consistent closure force across production runs. Bincai quality control verifies flap-to-body gap ≤1.0mm on every order.
+
+**Q: What interior lining options are available for perfume bottle inserts?**
+A: Velvet flocking (most popular for luxury perfume), satin, EVA foam with die-cut cavities, or cardboard partitions. Custom die-cut cavities ensure the perfume bottle fits perfectly without movement during shipping. Linings are hand-assembled and quality-inspected for alignment and adhesion.
+
+**Q: Can you do custom shapes — not just rectangular boxes?**
+A: Yes. Hexagonal, octagonal, triangular, cylindrical hat-box style, drawer-style, and shoulder-neck boxes are all available. Custom shapes require a custom die, adding 3–5 working days to the lead time.
+
+**Q: What lead time should I expect?**
+A: 15–20 working days for new designs (die production + printing + assembly). Repeat orders: 10–15 working days. Free structural samples within 3–5 working days. Express service available for time-sensitive launches.
+
+**Q: What is the MOQ for custom magnetic rigid boxes?**
+A: 500 units for standard sizes and finishes. 1,000+ units for boxes requiring custom dies or specialty materials (velvet lining, metallic foils). Trial orders as low as 100 units are accepted for quality evaluation.
+
 [Request your free quote →](/contact/)
