@@ -58,12 +58,28 @@ article table,main table{display:block;overflow-x:auto;-webkit-overflow-scrollin
 body{font-family:'DM Sans','Inter',sans-serif;line-height:1.65;font-size:15px}
 article{font-size:15px;line-height:1.7;color:#444}
 
+/* Header & Navigation */
+header .container{display:flex;justify-content:space-between;align-items:center;height:64px}
+header nav{display:flex;align-items:center;gap:28px}
+header nav a{font-size:14px;font-weight:500;color:#1d1d1f;text-decoration:none;transition:color .2s}
+header nav a:hover{color:#1a56db}
+.logo{font-weight:700;font-size:17px;color:#1d1d1f;text-decoration:none;letter-spacing:-.02em}
+
+/* Hero certification badges */
+.cert-badge{display:inline-flex;align-items:center;gap:5px;padding:5px 14px;border-radius:16px;font-size:12px;font-weight:500;border:1px solid rgba(255,255,255,.3);color:rgba(255,255,255,.9);white-space:nowrap}
+.cert-badge.diamond{background:rgba(255,255,255,.15);border-color:rgba(255,255,255,.4)}
+.cert-badge.audited{background:rgba(255,255,255,.1);border-color:rgba(255,255,255,.3)}
+
 /* Footer compact on mobile */
 .footer-grid{grid-template-columns:2fr 1fr 1fr}
 @media(max-width:640px){
   .footer-grid{grid-template-columns:1fr}
   .btn-cta,.btn-primary{width:100%;justify-content:center;padding:14px 24px}
   .btn-outline{width:100%;justify-content:center;padding:13px 24px}
+  header .container{height:52px;padding:0 16px}
+  header nav{gap:12px;overflow-x:auto;-webkit-overflow-scrolling:touch}
+  header nav a{font-size:13px;white-space:nowrap}
+  .logo{font-size:15px}
 }
 </style>
 </head>
