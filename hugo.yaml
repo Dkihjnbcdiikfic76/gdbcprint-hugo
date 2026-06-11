@@ -16,18 +16,75 @@ menus:
     - name: "Products"
       url: "/products/"
       weight: 1
+      children:
+        - name: "Rigid Gift Boxes"
+          url: "/categories/rigid-gift-boxes/"
+          weight: 1
+        - name: "Folding Cartons"
+          url: "/categories/folding-cartons/"
+          weight: 2
+        - name: "Corrugated Mailers"
+          url: "/categories/corrugated-mailers/"
+          weight: 3
+        - name: "Magnetic Closure"
+          url: "/categories/magnetic-closure-boxes/"
+          weight: 4
+        - name: "Kraft Eco Boxes"
+          url: "/categories/kraft-eco-boxes/"
+          weight: 5
+        - name: "Jewelry Boxes"
+          url: "/categories/jewelry-boxes/"
+          weight: 6
     - name: "Categories"
       url: "/categories/"
       weight: 2
     - name: "Industries"
       url: "/industries/"
       weight: 3
+      children:
+        - name: "Cosmetics & Skincare"
+          url: "/industries/cosmetics-packaging/"
+          weight: 1
+        - name: "Food & Bakery"
+          url: "/industries/food-packaging/"
+          weight: 2
+        - name: "Electronics"
+          url: "/industries/electronics-packaging/"
+          weight: 3
+        - name: "Gift & Luxury"
+          url: "/industries/gift-packaging/"
+          weight: 4
+        - name: "Healthcare"
+          url: "/industries/healthcare-packaging/"
+          weight: 5
+    - name: "Innovation"
+      url: "/innovation/"
+      weight: 4
+    - name: "Sustainability"
+      url: "/sustainability/"
+      weight: 5
     - name: "About"
       url: "/about/"
-      weight: 4
+      weight: 6
+      children:
+        - name: "Company Profile"
+          url: "/about/#company"
+          weight: 1
+        - name: "Factory Tour"
+          url: "/about/#factory"
+          weight: 2
+        - name: "Quality Control"
+          url: "/about/#quality"
+          weight: 3
+        - name: "Certifications"
+          url: "/about/#certifications"
+          weight: 4
+    - name: "News"
+      url: "/blog/"
+      weight: 7
     - name: "Contact"
       url: "/contact/"
-      weight: 5
+      weight: 8
 
 taxonomies:
   category: categories
