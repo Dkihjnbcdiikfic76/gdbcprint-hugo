@@ -89,15 +89,15 @@ A: Our telescopic fit is precision-engineered with 0.5–1.0mm clearance between
 
 | Feature | Detail |
 |---------|--------|
-| 🏭 Experience | 22 years since 2003 |
-| 📐 Factory | 10,000m² with KBA & Heidelberg presses |
-| ✅ Quality | ISO 9001:2015 certified |
-| 🌿 Eco | FSC certified sustainable materials |
-| 🚀 Capacity | 1.7M boxes daily output |
-| 🌍 Clients | 200+ brands across 50+ countries |
-| 🎨 Custom | Any size, foam, finish, insert |
-| 📦 MOQ | 500-1000 pcs, trial orders accepted |
-| 🆓 Sample | Free pre-production sample (freight collect) |
+| Experience Experience | 22 years since 2003 |
+| Factory Factory | 10,000m² with KBA & Heidelberg presses |
+| Quality Quality | ISO 9001:2015 certified |
+| Eco Eco | FSC certified sustainable materials |
+| Capacity Capacity | 1.7M boxes daily output |
+| Clients Clients | 200+ brands across 50+ countries |
+| Custom Custom | Any size, foam, finish, insert |
+| MOQ MOQ | 500-1000 pcs, trial orders accepted |
+| Free Sample Sample | Free pre-production sample (freight collect) |
 | ✈️ Shipping | Worldwide DHL/FedEx/UPS/Sea |
 
 [Request your free quote →](/contact/)

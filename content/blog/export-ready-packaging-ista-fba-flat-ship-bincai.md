@@ -134,9 +134,9 @@ Every export packaging project starts with an ISTA 3A pre-compliance prototype. 
 
 **Contact Guangdong Bincai Color Printing today:**
 
-- 📞 **Phone**: +86-18934352881 (Mr. Zhou)
-- 📧 **Email**: qo82@icloud.com
-- 🏭 **Address**: No.6-7 Shunyuan North Rd, Wusha, Daliang, Shunde, Foshan, Guangdong, China
-- 🌐 **Website**: [gdbcprint.com](https://gdbcprint.com)
+- Tel **Phone**: +86-18934352881 (Mr. Zhou)
+- Email **Email**: qo82@icloud.com
+- Address **Address**: No.6-7 Shunyuan North Rd, Wusha, Daliang, Shunde, Foshan, Guangdong, China
+- Web **Website**: [gdbcprint.com](https://gdbcprint.com)
 
 **Free samples in 3–5 working days.** MOQ from 500 units. Export to 30+ countries since 2003.
