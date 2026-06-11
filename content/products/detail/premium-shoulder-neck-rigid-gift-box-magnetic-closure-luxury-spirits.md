@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Premium Shoulder-Neck Rigid Gift Box with Magnetic Closure for Luxury Spirits Packaging](/images/cat-rigid-gift.jpg)
+![Premium Shoulder-Neck Rigid Gift Box with Magnetic Closure for Luxury Spirits Packaging](/images/cat-rigid-others.jpg)
 
 ## Product Overview
 
