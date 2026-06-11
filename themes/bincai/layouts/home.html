@@ -1,87 +1,109 @@
 {{ define "main" }}
-<!-- HERO — with factory image -->
-<section style="background:#000;color:#fff;min-height:70vh;display:flex;align-items:center;justify-content:center;text-align:center;padding:clamp(60px,12vw,120px)32px;position:relative;">
-<div style="max-width:800px;position:relative;z-index:2;">
-<h1 style="font-family:system-ui,-apple-system,sans-serif;font-size:clamp(32px,6vw,56px);font-weight:600;line-height:1.07;letter-spacing:-0.28px;margin:0 0 16px;">Custom Paper Boxes</h1>
-<p style="font-size:clamp(17px,2vw,21px);font-weight:400;line-height:1.47;letter-spacing:-0.12px;opacity:0.85;max-width:500px;margin:0 auto 32px;">Premium rigid boxes, folding cartons, corrugated mailers. ISO 9001 & FSC certified. 22 years manufacturing since 2003.</p>
-<div style="display:flex;gap:12px;justify-content:center;flex-wrap:wrap;">
-<a href="/products/" style="background:#0071e3;color:#fff;padding:8px 15px;border-radius:8px;text-decoration:none;font-weight:400;font-size:17px;">View Products</a>
-<a href="/contact/" style="color:#fff;border-radius:980px;padding:6px 18px;text-decoration:none;font-size:17px;border:1px solid #fff;">Inquire Now &rarr;</a>
+<!-- HERO — MIC B2B -->
+<section class="hero">
+<div class="container">
+<h1>Custom Paper Box Manufacturer — Guangdong Bincai</h1>
+<p>22 years professional printing & packaging enterprise. ISO 9001, FSC certified. 10,000 sqm factory with KBA & Heidelberg presses. Daily output 1.5 million boxes.</p>
+<div class="badges">
+<span>✓ ISO 9001:2015</span><span>✓ FSC Certified</span><span>✓ SGS Audited</span><span>✓ MOQ 500 pcs</span><span>✓ Free Samples</span>
 </div>
+<div class="cta">
+<a href="/products/" class="primary">View Products</a>
+<a href="/contact/" class="secondary">Inquire Now</a>
 </div>
-</section>
-
-<!-- IMAGE STRIP: Factory & Products -->
-<section style="background:#fff;padding:60px 0;">
-<div style="max-width:980px;margin:0 auto;display:grid;grid-template-columns:repeat(4,1fr);gap:8px;padding:0 32px;">
-<img src="/images/factory.jpg" alt="Bincai 10,000 sqm factory" style="width:100%;aspect-ratio:1;object-fit:cover;border-radius:4px;" loading="lazy">
-<img src="/images/carousel-products.jpg" alt="Paper box product showcase" style="width:100%;aspect-ratio:1;object-fit:cover;border-radius:4px;" loading="lazy">
-<img src="/images/production-process.jpg" alt="Heidelberg and KBA printing presses" style="width:100%;aspect-ratio:1;object-fit:cover;border-radius:4px;" loading="lazy">
-<img src="/images/carousel-workshop.jpg" alt="Bincai packaging workshop" style="width:100%;aspect-ratio:1;object-fit:cover;border-radius:4px;" loading="lazy">
 </div>
 </section>
 
 <!-- STATS -->
-<section style="background:#f5f5f7;padding:60px 0;">
-<div style="max-width:980px;margin:0 auto;display:grid;grid-template-columns:repeat(4,1fr);gap:24px;text-align:center;padding:0 32px;">
-{{ range slice (slice "22+" "Years Since 2003") (slice "43" "Product Lines") (slice "200+" "Global Clients") (slice "1.5M" "Boxes/Day") }}
-<div><div style="font-family:system-ui;font-size:40px;font-weight:600;line-height:1.1;color:#1d1d1f;">{{ index . 0 }}</div><div style="font-size:14px;letter-spacing:-0.22px;color:rgba(0,0,0,0.48);margin-top:4px;">{{ index . 1 }}</div></div>
-{{ end }}
+<section class="stats">
+<div class="container">
+<div><div class="num">22+</div><div class="label">Years Since 2003</div></div>
+<div><div class="num">174</div><div class="label">Product Lines</div></div>
+<div><div class="num">1.5M</div><div class="label">Boxes Per Day</div></div>
+<div><div class="num">200+</div><div class="label">Global Clients</div></div>
 </div>
 </section>
 
-<!-- DARK SECTION: Categories with images -->
-<section style="background:#000;color:#fff;padding:80px 0;">
-<div style="max-width:980px;margin:0 auto;padding:0 32px;">
-<h2 style="font-size:clamp(28px,4vw,40px);font-weight:600;line-height:1.1;text-align:center;margin-bottom:48px;">Our Products</h2>
-<div style="display:grid;grid-template-columns:repeat(3,1fr);gap:20px;">
+<!-- CATEGORIES -->
+<section class="categories">
+<h2>Product Categories</h2>
+<div class="cat-grid">
 {{ $cats := slice 
-  (dict "name" "Rigid Gift Boxes" "slug" "rigid-gift-boxes" "img" "/images/cat-rigid-others.jpg")
-  (dict "name" "Folding Cartons" "slug" "folding-cartons" "img" "/images/cat-fold-cosmetic.jpg")
-  (dict "name" "Corrugated Mailers" "slug" "corrugated-mailers" "img" "/images/cat-fold-mailer.jpg")
-  (dict "name" "Magnetic Closure" "slug" "magnetic-closure-boxes" "img" "/images/cat-rigid-perfume.jpg")
-  (dict "name" "Kraft Eco Boxes" "slug" "kraft-eco-boxes" "img" "/images/cat-paper-bag.jpg")
-  (dict "name" "Jewelry Boxes" "slug" "jewelry-boxes" "img" "/images/cat-rigid-jewelry.jpg")
+  (dict "name" "Rigid Gift Boxes" "slug" "rigid-gift-boxes" "img" "/images/cat-rigid-others.jpg" "desc" "Premium two-piece magnetic closure boxes for luxury goods")
+  (dict "name" "Folding Cartons" "slug" "folding-cartons" "img" "/images/cat-fold-cosmetic.jpg" "desc" "Custom CMYK printed cartons for retail and e-commerce")
+  (dict "name" "Corrugated Mailers" "slug" "corrugated-mailers" "img" "/images/cat-fold-mailer.jpg" "desc" "Branded shipping boxes with tear strip")
+  (dict "name" "Magnetic Closure Boxes" "slug" "magnetic-closure-boxes" "img" "/images/cat-rigid-perfume.jpg" "desc" "Luxury unboxing experience with secure closure")
+  (dict "name" "Kraft Eco Boxes" "slug" "kraft-eco-boxes" "img" "/images/cat-paper-bag.jpg" "desc" "FSC certified sustainable packaging solutions")
+  (dict "name" "Jewelry Boxes" "slug" "jewelry-boxes" "img" "/images/cat-rigid-jewelry.jpg" "desc" "Premium boxes with velvet inserts")
 }}
 {{ range $cats }}
-<div style="background:#272729;border-radius:8px;overflow:hidden;transition:.3s;">
-<img src="{{ .img }}" alt="{{ .name }}" style="width:100%;aspect-ratio:1.5;object-fit:cover;" loading="lazy">
-<div style="padding:24px;">
-<h3 style="font-size:21px;font-weight:700;line-height:1.19;margin:0 0 8px;">
-<a href="/categories/{{ .slug }}/" style="color:#fff;text-decoration:none;">{{ .name }}</a>
-</h3>
-<a href="/categories/{{ .slug }}/" style="color:#2997ff;font-size:14px;text-decoration:none;">Explore &rarr;</a>
+<div class="cat-card">
+<img src="{{ .img }}" alt="{{ .name }}" loading="lazy">
+<div class="info">
+<h3><a href="/categories/{{ .slug }}/">{{ .name }}</a></h3>
+<p>{{ .desc }}</p>
 </div>
 </div>
 {{ end }}
 </div>
-</div>
 </section>
 
-<!-- LIGHT SECTION: Featured Products -->
-<section style="background:#f5f5f7;padding:80px 0;">
-<div style="max-width:980px;margin:0 auto;padding:0 32px;">
-<h2 style="font-size:clamp(28px,4vw,40px);font-weight:600;line-height:1.1;text-align:center;color:#1d1d1f;margin-bottom:48px;">Popular Products</h2>
-<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:20px;">
-{{ range first 6 (where .Site.RegularPages "Section" "products") }}
-<div style="background:#fff;border-radius:8px;overflow:hidden;box-shadow:rgba(0,0,0,0.22) 3px 5px 30px 0px;">
-<div style="padding:24px;">
-<h3 style="font-size:17px;font-weight:600;line-height:1.24;color:#1d1d1f;margin:0 0 8px;"><a href="{{ .RelPermalink }}" style="color:inherit;text-decoration:none;">{{ .Title | truncate 60 }}</a></h3>
-<p style="font-size:12px;color:rgba(0,0,0,0.48);margin:0;">MOQ 500-1000 · ISO 9001 · FSC</p>
+<!-- PRODUCTS -->
+<section class="products">
+<h2>Popular Products</h2>
+<div class="prod-grid">
+{{ range first 12 (where .Site.RegularPages "Section" "products") }}
+<div class="prod-card">
+<div class="info">
+<h3><a href="{{ .RelPermalink }}">{{ .Title | truncate 80 }}</a></h3>
+<div class="meta">{{ .Params.material | default "Greyboard / Art Paper" }}</div>
+<div class="moq">MOQ {{ .Params.moq }} · ISO 9001 · FSC</div>
 </div>
 </div>
 {{ end }}
 </div>
-<div style="text-align:center;margin-top:40px;">
-<a href="/products/" style="background:#0071e3;color:#fff;padding:8px 15px;border-radius:8px;text-decoration:none;font-weight:400;font-size:17px;">View All 43 Products</a>
+<div style="text-align:center;margin-top:24px;">
+<a href="/products/" style="background:#1a56db;color:#fff;padding:10px 24px;border-radius:6px;font-size:14px;font-weight:600;display:inline-block;">View All {{ len (where .Site.RegularPages "Section" "products") }} Products →</a>
+</div>
+</section>
+
+<!-- FACTORY SHOWCASE -->
+<section style="background:#fff;padding:40px 20px;">
+<div style="max-width:1200px;margin:0 auto;">
+<h2 style="font-size:24px;font-weight:700;margin-bottom:20px;">Our Factory</h2>
+<div style="display:grid;grid-template-columns:repeat(4,1fr);gap:8px;">
+<img src="/images/factory.jpg" alt="Bincai 10,000 sqm factory" style="width:100%;aspect-ratio:1.3;object-fit:cover;border-radius:8px;" loading="lazy">
+<img src="/images/carousel-products.jpg" alt="Product showcase" style="width:100%;aspect-ratio:1.3;object-fit:cover;border-radius:8px;" loading="lazy">
+<img src="/images/production-process.jpg" alt="Heidelberg printing press" style="width:100%;aspect-ratio:1.3;object-fit:cover;border-radius:8px;" loading="lazy">
+<img src="/images/carousel-workshop.jpg" alt="Packaging workshop" style="width:100%;aspect-ratio:1.3;object-fit:cover;border-radius:8px;" loading="lazy">
+</div>
+<div style="margin-top:16px;display:flex;gap:16px;flex-wrap:wrap;">
+<div style="flex:1;min-width:200px;background:#f5f5f5;border-radius:8px;padding:16px;text-align:center;">
+<div style="font-size:20px;font-weight:700;color:#1a56db;">KBA 1050</div>
+<div style="font-size:13px;color:#888;">4-Color Offset Press</div>
+</div>
+<div style="flex:1;min-width:200px;background:#f5f5f5;border-radius:8px;padding:16px;text-align:center;">
+<div style="font-size:20px;font-weight:700;color:#1a56db;">Heidelberg 7+1</div>
+<div style="font-size:13px;color:#888;">UV Printing Press</div>
+</div>
+<div style="flex:1;min-width:200px;background:#f5f5f5;border-radius:8px;padding:16px;text-align:center;">
+<div style="font-size:20px;font-weight:700;color:#1a56db;">10,000 m²</div>
+<div style="font-size:13px;color:#888;">Production Area</div>
+</div>
+<div style="flex:1;min-width:200px;background:#f5f5f5;border-radius:8px;padding:16px;text-align:center;">
+<div style="font-size:20px;font-weight:700;color:#1a56db;">80+</div>
+<div style="font-size:13px;color:#888;">Skilled Workers</div>
+</div>
 </div>
 </div>
 </section>
 
-<!-- DARK CTA -->
-<section style="background:#000;color:#fff;text-align:center;padding:80px 32px;">
-<h2 style="font-size:clamp(28px,4vw,40px);font-weight:600;line-height:1.1;margin-bottom:16px;">Start Your Custom Packaging Project</h2>
-<p style="font-size:17px;line-height:1.47;opacity:0.8;max-width:400px;margin:0 auto 24px;">Free quote in 24 hours. Factory visits welcome in Foshan, China.</p>
-<a href="/contact/" style="background:#0071e3;color:#fff;padding:8px 15px;border-radius:8px;text-decoration:none;font-weight:400;font-size:17px;">Request Quote</a>
+<!-- CTA -->
+<section class="hero" style="background:linear-gradient(135deg,#1a3a6b,#1a56db);text-align:center;">
+<div class="container">
+<h2 style="color:#fff;font-size:28px;font-weight:700;margin-bottom:12px;">Start Your Custom Packaging Project</h2>
+<p style="color:rgba(255,255,255,0.85);font-size:16px;max-width:500px;margin:0 auto 20px;">Free quote in 24 hours · Free samples · Factory visits welcome</p>
+<a href="/contact/" style="background:#ff6b35;color:#fff;padding:10px 24px;border-radius:6px;font-size:14px;font-weight:600;display:inline-block;">Request Quote Now</a>
+</div>
 </section>
 {{ end }}

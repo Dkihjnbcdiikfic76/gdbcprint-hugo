@@ -1,0 +1,58 @@
+{{ define "main" }}
+{{ with .Params.categories }}
+<div class="breadcrumb" style="background:#fff;padding:12px 20px;">
+<a href="/" style="color:#1a56db">Home</a> › <a href="/categories/{{ index . 0 }}/" style="color:#1a56db">{{ index . 0 | humanize | title }}</a> › {{ $.Title }}
+</div>
+{{ end }}
+
+<article style="max-width:900px;margin:0 auto;padding:40px 20px 60px;">
+<h1 style="font-size:28px;font-weight:700;line-height:1.2;margin-bottom:16px;color:#111;">{{ .Title }}</h1>
+
+<div style="display:flex;gap:16px;flex-wrap:wrap;margin-bottom:24px;font-size:13px;color:#666;">
+<span style="background:#e8f0fe;color:#1a56db;padding:4px 10px;border-radius:4px;">✓ ISO 9001</span>
+<span style="background:#e8f0fe;color:#1a56db;padding:4px 10px;border-radius:4px;">✓ FSC Certified</span>
+<span style="background:#fff3e0;color:#e65100;padding:4px 10px;border-radius:4px;">MOQ {{ .Params.moq }}</span>
+<span style="background:#e8f5e9;color:#2e7d32;padding:4px 10px;border-radius:4px;">Free Sample</span>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:32px;margin-bottom:40px;">
+<div style="background:#f5f5f5;border-radius:8px;padding:24px;">
+<h3 style="font-size:16px;font-weight:600;margin-bottom:12px;">Quick Specs</h3>
+<table style="width:100%;font-size:14px;">
+<tr><td style="padding:6px 0;color:#888;">Material</td><td style="font-weight:500;">{{ .Params.material }}</td></tr>
+<tr><td style="padding:6px 0;color:#888;">MOQ</td><td style="font-weight:500;">{{ .Params.moq }}</td></tr>
+<tr><td style="padding:6px 0;color:#888;">Price Range</td><td style="font-weight:500;">${{ .Params.price }}/pc</td></tr>
+<tr><td style="padding:6px 0;color:#888;">Certification</td><td style="font-weight:500;">{{ .Params.certification }}</td></tr>
+<tr><td style="padding:6px 0;color:#888;">Sample Time</td><td style="font-weight:500;">3-5 days</td></tr>
+<tr><td style="padding:6px 0;color:#888;">Production</td><td style="font-weight:500;">7-15 days</td></tr>
+</table>
+</div>
+<div style="background:#f5f5f5;border-radius:8px;padding:24px;text-align:center;">
+<h3 style="font-size:16px;font-weight:600;margin-bottom:12px;">Get a Quote</h3>
+<p style="font-size:13px;color:#666;margin-bottom:16px;">Free quote in 24 hours. Factory visits welcome.</p>
+<a href="/contact/" style="background:#ff6b35;color:#fff;padding:12px 32px;border-radius:6px;font-size:15px;font-weight:600;display:inline-block;">Inquire Now</a>
+<p style="font-size:12px;color:#888;margin-top:12px;">📞 {{ .Site.Params.phone }}<br>📧 {{ .Site.Params.email }}</p>
+</div>
+</div>
+
+<div style="line-height:1.7;font-size:15px;color:#444;">
+{{ .Content }}
+</div>
+
+<div style="margin-top:40px;padding-top:24px;border-top:1px solid #e0e0e0;">
+<h3 style="font-size:18px;font-weight:600;margin-bottom:16px;">Related Products</h3>
+<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:12px;">
+{{ $currentCat := "" }}
+{{ with .Params.categories }}{{ $currentCat = index . 0 }}{{ end }}
+{{ range first 4 (where (where .Site.RegularPages "Section" "products") "Params.categories" "intersect" (slice $currentCat)) }}
+{{ if ne .RelPermalink $.RelPermalink }}
+<div style="background:#fff;border:1px solid #e0e0e0;border-radius:6px;padding:12px;">
+<h4 style="font-size:13px;font-weight:600;margin-bottom:4px;"><a href="{{ .RelPermalink }}" style="color:#1a56db;">{{ .Title | truncate 60 }}</a></h4>
+<div style="font-size:11px;color:#888;">MOQ {{ .Params.moq }}</div>
+</div>
+{{ end }}
+{{ end }}
+</div>
+</div>
+</article>
+{{ end }}

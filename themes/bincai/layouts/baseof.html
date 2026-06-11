@@ -8,91 +8,64 @@
 <link rel="canonical" href="{{ .Permalink }}">
 <meta property="og:title" content="{{ .Title }}">
 <meta property="og:description" content="{{ .Description }}">
-<link href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;500;600;700&display=swap" rel="stylesheet">
+<meta property="og:url" content="{{ .Permalink }}">
+<link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,400;500;600;700&display=swap" rel="stylesheet">
 <style>
 *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
 html{scroll-behavior:smooth;-webkit-font-smoothing:antialiased}
-body{font-family:'DM Sans',system-ui,-apple-system,sans-serif;color:#222;font-size:16px;line-height:1.5;background:#f5f5f5}
-img{max-width:100%;height:auto;display:block}
+body{font-family:'Inter',system-ui,-apple-system,sans-serif;color:#1d1d1f;font-size:16px;line-height:1.5;background:#f5f5f7}
+img{max-width:100%;height:auto}
 a{color:inherit;text-decoration:none}
 
-/* NAV — MIC-style */
-nav{background:#fff;border-bottom:1px solid #e0e0e0;position:sticky;top:0;z-index:100}
-nav .container{max-width:1200px;margin:0 auto;display:flex;align-items:center;height:56px;padding:0 20px;justify-content:space-between}
-nav .logo{font-size:18px;font-weight:700;color:#1a56db;letter-spacing:-0.3px}
-nav a{font-size:14px;font-weight:500;color:#444;margin-left:20px;transition:color .2s}
-nav a:hover{color:#1a56db}
-nav .search{background:#f0f2f5;border-radius:20px;padding:8px 16px;font-size:13px;color:#666;min-width:300px}
+nav{background:rgba(255,255,255,.95);backdrop-filter:blur(20px);border-bottom:1px solid rgba(0,0,0,.08);position:sticky;top:0;z-index:100}
+nav .ctr{max-width:1200px;margin:0 auto;display:flex;align-items:center;height:52px;padding:0 20px;justify-content:space-between}
+nav .logo{font-size:17px;font-weight:700;color:#0071e3;letter-spacing:-.3px}
+nav a.navlink{font-size:13px;font-weight:500;color:#555;margin-left:24px;transition:color .2s}
+nav a.navlink:hover{color:#0071e3}
 
-/* HERO — MIC B2B */
-.hero{background:linear-gradient(135deg,#1a3a6b 0%,#1a56db 100%);color:#fff;padding:60px 20px}
-.hero .container{max-width:1200px;margin:0 auto}
-.hero h1{font-size:clamp(28px,4vw,42px);font-weight:700;line-height:1.15;margin-bottom:12px}
-.hero p{font-size:16px;opacity:0.9;max-width:600px;line-height:1.5;margin-bottom:20px}
-.hero .badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:20px}
-.hero .badges span{background:rgba(255,255,255,0.15);padding:5px 12px;border-radius:20px;font-size:12px;font-weight:500}
-.hero .cta{display:flex;gap:10px;flex-wrap:wrap}
-.hero .cta a{padding:10px 24px;border-radius:6px;font-size:14px;font-weight:600;transition:.2s}
-.hero .cta .primary{background:#ff6b35;color:#fff}
-.hero .cta .secondary{border:1.5px solid rgba(255,255,255,0.5);color:#fff}
-
-/* STATS */
-.stats{background:#fff;padding:32px 20px;text-align:center}
-.stats .container{max-width:900px;margin:0 auto;display:flex;justify-content:space-around;flex-wrap:wrap;gap:20px}
-.stats .num{font-size:36px;font-weight:700;color:#1a56db;line-height:1.1}
-.stats .label{font-size:13px;color:#888}
-
-/* CATEGORIES */
-.categories{padding:40px 20px;max-width:1200px;margin:0 auto}
-.categories h2{font-size:24px;font-weight:700;margin-bottom:20px;color:#222}
-.cat-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:16px}
-.cat-card{background:#fff;border-radius:12px;overflow:hidden;box-shadow:rgba(0,0,0,0.04) 0px 2px 6px,rgba(0,0,0,0.06) 0px 4px 12px;transition:.3s}
-.cat-card:hover{transform:translateY(-2px);box-shadow:rgba(0,0,0,0.08) 0px 4px 16px}
-.cat-card img{width:100%;aspect-ratio:1.6;object-fit:cover}
-.cat-card .info{padding:16px 20px 20px}
-.cat-card h3{font-size:16px;font-weight:600;margin-bottom:4px}
-.cat-card p{font-size:13px;color:#888}
-
-/* PRODUCT GRID */
-.products{padding:40px 20px;max-width:1200px;margin:0 auto}
-.products h2{font-size:24px;font-weight:700;margin-bottom:20px}
-.prod-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:16px}
-.prod-card{background:#fff;border-radius:8px;overflow:hidden;box-shadow:rgba(0,0,0,0.04) 0px 2px 6px;transition:.2s}
-.prod-card:hover{box-shadow:rgba(0,0,0,0.1) 0px 4px 12px}
-.prod-card .info{padding:16px}
-.prod-card h3{font-size:14px;font-weight:600;line-height:1.3;margin-bottom:6px}
-.prod-card .meta{font-size:12px;color:#888}
-.prod-card .moq{color:#1a56db;font-weight:600;font-size:12px}
-
-/* FOOTER — MIC */
-footer{background:#1a3a6b;color:rgba(255,255,255,0.7);padding:40px 20px;font-size:13px}
-footer .container{max-width:1200px;margin:0 auto;display:grid;grid-template-columns:2fr 1fr 1fr;gap:40px}
-footer h3{color:#fff;font-size:14px;font-weight:600;margin-bottom:12px}
-footer a{color:rgba(255,255,255,0.5);display:block;margin-bottom:4px;transition:color .2s}
+footer{background:#1d1d1f;color:rgba(255,255,255,.55);padding:60px 20px 40px;font-size:13px;line-height:1.8}
+footer .ctr{max-width:1200px;margin:0 auto;display:grid;grid-template-columns:2fr 1fr 1fr;gap:40px}
+footer h3{color:#fff;font-size:13px;font-weight:600;margin-bottom:12px;text-transform:uppercase;letter-spacing:.5px}
+footer a{color:rgba(255,255,255,.35);display:block}
 footer a:hover{color:#fff}
-footer .copy{border-top:1px solid rgba(255,255,255,0.1);margin-top:30px;padding-top:16px;text-align:center}
-@media(max-width:768px){footer .container{grid-template-columns:1fr}}
+footer .copy{border-top:1px solid rgba(255,255,255,.08);margin-top:32px;padding-top:16px;text-align:center;font-size:11px}
 
 .breadcrumb{max-width:1200px;margin:0 auto;padding:12px 20px;font-size:12px;color:#888}
-.breadcrumb a{color:#1a56db}
+.breadcrumb a{color:#0071e3}
+
+/* shared components */
+.btn-primary{display:inline-block;background:#0071e3;color:#fff;padding:12px 28px;border-radius:8px;font-size:15px;font-weight:600;transition:.2s}
+.btn-primary:hover{background:#0066cc}
+.btn-outline{display:inline-block;border:1.5px solid rgba(255,255,255,.5);color:#fff;padding:12px 28px;border-radius:8px;font-size:15px;font-weight:600;transition:.2s}
+.btn-outline:hover{border-color:#fff}
+.btn-cta{display:inline-block;background:#ff6b35;color:#fff;padding:12px 28px;border-radius:8px;font-size:15px;font-weight:600;transition:.2s}
+.btn-cta:hover{background:#e85d2a}
+
+.pill{display:inline-block;border-radius:20px;padding:4px 14px;font-size:11px;font-weight:600}
+.pill-blue{background:#e8f0fe;color:#0071e3}
+.pill-green{background:#e8f5e9;color:#2e7d32}
+.pill-orange{background:#fff3e0;color:#e65100}
+
+.card{background:#fff;border-radius:12px;overflow:hidden;box-shadow:0 1px 3px rgba(0,0,0,.06),0 2px 8px rgba(0,0,0,.04);transition:.25s}
+.card:hover{box-shadow:0 4px 16px rgba(0,0,0,.1);transform:translateY(-2px)}
+
+@media(max-width:768px){footer .ctr{grid-template-columns:1fr}}
 </style>
 </head>
 <body>
-<nav><div class="container">
+<nav><div class="ctr">
 <a href="/" class="logo">BINCAI</a>
-<div style="display:flex;align-items:center;gap:8px;">
-{{ range .Site.Menus.main }}<a href="{{ .URL }}">{{ .Name }}</a>{{ end }}
-</div>
+<div style="display:flex;align-items:center;">{{ range .Site.Menus.main }}<a href="{{ .URL }}" class="navlink">{{ .Name }}</a>{{ end }}</div>
 </div></nav>
 
 {{ if not .IsHome }}<div class="breadcrumb"><a href="/">Home</a> › {{ .Title }}</div>{{ end }}
 
 <main>{{ block "main" . }}{{ end }}</main>
 
-<footer><div class="container">
-<div><h3>Guangdong Bincai Color Printing Co., Ltd.</h3><p>22 years · ISO 9001 & FSC certified · 10,000 sqm factory · KBA & Heidelberg presses · Daily 1.5M boxes</p></div>
+<footer><div class="ctr">
+<div><h3>Guangdong Bincai Color Printing</h3><p>22 years · ISO 9001 & FSC · 10,000m² factory · KBA & Heidelberg presses · Daily 1.5M boxes · Serving 200+ global brands from Foshan, China.</p></div>
 <div><h3>Products</h3><a href="/categories/rigid-gift-boxes/">Rigid Gift Boxes</a><a href="/categories/folding-cartons/">Folding Cartons</a><a href="/categories/corrugated-mailers/">Corrugated Mailers</a><a href="/categories/jewelry-boxes/">Jewelry Boxes</a></div>
-<div><h3>Contact</h3><p>{{ .Site.Params.email }}</p><p>{{ .Site.Params.phone }}</p><p>{{ .Site.Params.address }}</p></div></div>
-<div class="copy">© 2003–2026 Guangdong Bincai Color Printing Co., Ltd. All Rights Reserved.</div></footer>
+<div><h3>Contact</h3><p>{{ .Site.Params.email }}<br>{{ .Site.Params.phone }}<br>{{ .Site.Params.address }}</p></div></div>
+<div class="copy">© 2003–2026 Guangdong Bincai Color Printing Co., Ltd.</div></footer>
 </body>
 </html>
