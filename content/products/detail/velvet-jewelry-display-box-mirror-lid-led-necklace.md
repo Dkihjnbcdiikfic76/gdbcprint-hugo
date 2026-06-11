@@ -105,6 +105,27 @@ Luxurious velvet jewelry display box with an integrated full-lid mirror and auto
 Phone: +86-18934352881 (Mr. Zhou) | Email: qo82@icloud.com  
 MOQ 500 units. Trial orders with sample approval before production. Response within 24 hours. Factory visits welcome at No.6-7 Shunyuan North Rd, Wusha, Daliang, Shunde, Foshan, Guangdong.
 
+## Related Products
+
+- [Velvet Ring Display Box with Built-in LED Spotlight Custom Logo Gold Foil](/products/detail/velvet-ring-display-box-led-spotlight-custom-logo-gold-foil/) — Single ring presentation box with built-in LED spotlight, custom gold foil logo, and velvet flocked interior for premium jewelry retail
+- [Velvet Bracelet Display Box with LED Spotlight and Satin Pillow](/products/detail/velvet-bracelet-display-box-led-spotlight-satin-pillow/) — Bracelet display box featuring LED spotlight illumination, satin pillow insert, and magnetic closure for luxury bracelet presentation
+- [Velvet Lined Jewelry Pendant Box with LED](/products/detail/velvet-lined-jewelry-pendant-box-with-led/) — Compact velvet-lined pendant box with auto-activating LED strip, custom die-cut insert, and magnetic flip lid
+- [Velvet Jewelry Display Box with LED Light Ring Earring Packaging](/products/detail/velvet-jewelry-display-box-led-light-ring-earring-packaging/) — Multi-purpose velvet jewelry display box with LED light, designed for rings and earrings with custom flocked insert tray
+
+## FAQ
+
+**Q: How long does the LED battery last in the jewelry display box?**
+A: The standard CR2032 coin cell battery provides 50+ hours of continuous illumination. For extended use, the CR2450 option delivers 200+ hours. Each box includes an auto-off feature (30 seconds) to prevent battery drain if the lid is left open. Replacement is tool-free — the battery housing is accessible behind the velvet insert.
+
+**Q: Can the mirror lid be customized with our brand logo?**
+A: Yes — Bincai offers laser-etched branding directly onto the 2mm glass mirror. The etching is permanent, scratch-resistant, and can include your logo, decorative border, or any custom pattern. We use precision laser etching at our Foshan factory to ensure crisp edges and consistent quality across every unit in your order.
+
+**Q: What is the minimum order quantity (MOQ) for LED mirror jewelry boxes?**
+A: Standard configurations start at 500 units. For custom LED color temperature, multi-material exterior, or custom-sized mirror inserts, the MOQ is 1,000 units. Bincai offers tiered pricing at 1,000 / 3,000 / 5,000 / 10,000 units. We also accept trial orders with pre-production sample approval before mass production.
+
+**Q: Are these jewelry boxes suitable for international shipping?**
+A: Absolutely. The box passes ISTA 1A drop testing — 10 drops from 760mm with no mirror crack, LED damage, or magnet disengagement. The rigid 1200-1600gsm greyboard construction and custom die-cut insert keep the jewelry secure during transit. We ship worldwide from Foshan/Shenzhen via DHL, FedEx, UPS, or sea freight with branded outer cartons and jewelry-safe void fill.
+
 ## Why Choose Bincai
 
 | Feature | Detail |
