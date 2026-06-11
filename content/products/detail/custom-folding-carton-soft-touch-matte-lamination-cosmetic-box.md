@@ -8,7 +8,7 @@ categories: ["folding-cartons"]
 params:
   moq: "500-1000"
   price: "0.25-3.00"
-  material: "Greyboard / Art Paper / Matte Lamination"
+  material: "SBS/CUK 250-400gsm / Art Paper 128-200gsm / Soft-Touch Matte Lamination / Hot Foil Stamp"
   certification: "ISO 9001, FSC"
 ---
 
