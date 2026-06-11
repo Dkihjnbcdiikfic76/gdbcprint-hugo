@@ -3,6 +3,7 @@ title: "Custom Cosmetic Paper Box Packaging"
 date: 2026-06-11
 draft: false
 description: "Premium paper boxes for cosmetics, skincare, perfume, and beauty products. ISO 9001 FSC certified."
+image: /images/industry-cosmetics.jpg
 ---
 
 ![Cosmetics Packaging](/images/industry-cosmetics.jpg)

@@ -3,6 +3,7 @@ title: "Custom Food Paper Box Packaging"
 date: 2026-06-11
 draft: false
 description: "Food-grade paper boxes, folding cartons for food, snacks, tea, coffee. FSC certified, food-safe inks."
+image: /images/industry-food.jpg
 ---
 
 ![Food Packaging](/images/industry-food.jpg)

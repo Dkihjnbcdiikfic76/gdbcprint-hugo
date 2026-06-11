@@ -3,6 +3,7 @@ title: "Custom Gift Paper Box Packaging"
 date: 2026-06-11
 draft: false
 description: "Premium gift boxes for corporate gifts, holidays, special occasions. Rigid boxes with magnetic closure, ribbon, foil stamping."
+image: /images/industry-gift.jpg
 ---
 
 ![Gift Packaging](/images/industry-gift.jpg)

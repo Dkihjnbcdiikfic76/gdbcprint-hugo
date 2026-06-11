@@ -3,6 +3,7 @@ title: "Custom Electronics Paper Box Packaging"
 date: 2026-06-11
 draft: false
 description: "Premium paper boxes for electronics, gadgets, accessories. Rigid boxes with custom foam inserts."
+image: /images/industry-electronics.jpg
 ---
 
 ![Electronics Packaging](/images/industry-electronics.jpg)

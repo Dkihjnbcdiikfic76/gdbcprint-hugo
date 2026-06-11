@@ -3,6 +3,7 @@ title: "Custom Luxury Paper Box Packaging"
 date: 2026-06-11
 draft: false
 description: "High-end luxury paper boxes for premium brands. Rigid boxes with magnetic closure, velvet interior, gold foil."
+image: /images/cat-rigid-others.jpg
 ---
 
 ![Luxury Packaging](/images/industry-gift.jpg)
