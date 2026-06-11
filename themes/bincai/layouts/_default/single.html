@@ -1,12 +1,13 @@
 {{ define "main" }}
-<article style="max-width:900px;margin:0 auto;padding:40px 20px 60px;">
+<article style="max-width:860px;margin:0 auto;padding:40px 20px 60px;">
 <h1 style="font-size:28px;font-weight:700;line-height:1.2;color:#1d1d1f;margin-bottom:12px;">{{ .Title }}</h1>
 
 {{ if ne .Section "products" }}
 {{ with .Date }}<p style="font-size:13px;color:#888;margin-bottom:20px;">{{ .Format "January 2, 2006" }}</p>{{ end }}
-{{ with .Params.image }}<img src="{{ . }}" alt="{{ $.Title }}" style="width:100%;max-height:420px;object-fit:cover;border-radius:10px;margin-bottom:28px;">{{ end }}
+{{ with .Params.image }}<img src="{{ . }}" alt="{{ $.Title }}" style="width:100%;aspect-ratio:2/1;object-fit:cover;border-radius:10px;margin-bottom:28px;">{{ end }}
 <style scoped>
   article p,article li{font-size:16px;line-height:1.8}
+  @media(max-width:768px){article .spec-quote-grid{grid-template-columns:1fr!important}}
   @media(max-width:640px){article p,article li{font-size:15px;line-height:1.7}}
 </style>
 {{ end }}
@@ -16,7 +17,7 @@
 <span class="pill-blue">ISO 9001</span><span class="pill-blue">FSC</span><span class="pill-orange">MOQ {{ .Params.moq }}</span><span class="pill-green">Free Sample</span>
 </div>
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:24px;margin-bottom:32px;">
+<div class="spec-quote-grid" style="display:grid;grid-template-columns:1fr 1fr;gap:24px;margin-bottom:32px;">
 <div style="background:#f5f5f7;border-radius:10px;padding:24px;overflow-x:auto;">
 <h3 style="font-size:15px;font-weight:600;margin-bottom:12px;">Quick Specs</h3>
 <table style="width:100%;font-size:14px;border-collapse:collapse;">
