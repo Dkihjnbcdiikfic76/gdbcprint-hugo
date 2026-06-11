@@ -1,12 +1,19 @@
 {{ define "main" }}
-<article style="max-width:760px;margin:0 auto;padding:40px 20px 60px;">
+<article style="max-width:860px;margin:0 auto;padding:40px 20px 60px;">
+{{/* Featured image */}}
+{{ with .Params.image }}
+<div style="margin-bottom:28px;border-radius:12px;overflow:hidden;box-shadow:0 2px 12px rgba(0,0,0,.08);">
+<img src="{{ . }}" alt="{{ $.Title }}" style="width:100%;aspect-ratio:2/1;object-fit:cover;display:block;" loading="eager" decoding="async">
+</div>
+{{ end }}
+
 <h1 style="font-size:28px;font-weight:700;line-height:1.2;color:#1d1d1f;margin-bottom:8px;">{{ .Title }}</h1>
 
 {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
 {{ $dateHuman := .Date | time.Format ":date_long" }}
 <time datetime="{{ $dateMachine }}" style="display:block;font-size:13px;color:#888;margin-bottom:28px;">{{ $dateHuman }}</time>
 
-<div style="font-size:15px;line-height:1.7;color:#444;max-width:100%;overflow:hidden;">
+<div style="font-size:16px;line-height:1.8;color:#333;max-width:100%;overflow:hidden;">
 <span style="display:none"></span><style scoped>p img{max-width:100%!important;height:auto!important;border-radius:8px}</style>
 {{ .Content }}
 </div>

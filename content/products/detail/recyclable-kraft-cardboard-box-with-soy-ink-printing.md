@@ -8,7 +8,7 @@ categories: ["kraft-eco-boxes"]
 params:
   moq: "500-1000"
   price: "0.25-3.00"
-  material: "Greyboard / Art Paper / Kraft"
+  material: "100% Recycled Kraft / FSC Virgin Kraft / Bagasse Board / Soy-Based Inks / Water-Based Adhesives"
   certification: "ISO 9001, FSC"
 ---
 
