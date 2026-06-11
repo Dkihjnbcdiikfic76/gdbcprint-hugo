@@ -2,8 +2,8 @@
 title: "Custom Kraft Paper Shopping Bag with Twisted Handles Retail"
 date: 2026-06-11
 draft: false
-description: "Custom Kraft Paper Shopping Bag with Twisted Handles Retail by Bincai Color Printing. ISO 9001 FSC certified 22 years."
-keywords: "paper box, custom packaging, paper bags, Bincai"
+description: "Custom kraft paper shopping bag with twisted handles for retail and boutique. Manufactured by Bincai Color Printing, Foshan Guangdong. FSC-certified sustainable kraft paper, soy ink printing, recycled content. 22 years experience, 18,000 sqm factory, Heidelberg & KBA presses. ISO 9001 certified. Custom sizes, logos, finishes. MOQ 500-1000 pcs."
+keywords: "custom kraft paper bag, twisted handle shopping bag, retail paper bag, eco-friendly packaging, FSC certified kraft, Bincai Color Printing, ISO 9001, Foshan Guangdong, 22 years, sustainable packaging, boutique bags, wholesale paper bags, soy ink printed, recycled paper bag, custom logo bag"
 categories: ["kraft-eco-boxes"]
 params:
   moq: "500-1000"
