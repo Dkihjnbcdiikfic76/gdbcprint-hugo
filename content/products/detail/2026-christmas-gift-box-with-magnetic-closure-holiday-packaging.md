@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Paper Box](/images/mic/mic-product-1.jpg)
+![Bincai Paper Box](/images/rigid-gift-boxes.jpg)
 
 Premium 2026 christmas gift box with magnetic closure holiday packaging by Guangdong Bincai Color Printing — Diamond Member on Made-in-China.com. 22 years factory. ISO 9001 & FSC.
 

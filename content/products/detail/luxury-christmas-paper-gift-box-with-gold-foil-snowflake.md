@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Paper Box](/images/mic/mic-product-1.jpg)
+![Bincai Paper Box](/images/rigid-gift-boxes.jpg)
 
 Premium luxury christmas paper gift box with gold foil snowflake by Guangdong Bincai Color Printing — Diamond Member on Made-in-China.com. 22 years factory. ISO 9001 & FSC.
 
