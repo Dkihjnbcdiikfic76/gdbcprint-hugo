@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Jewelry Boxes](/images/cat-rigid-others.jpg)
+![Bincai Jewelry Boxes](/images/cat-rigid-jewelry.jpg)
 
 Leather-finish rigid jewelry box with magnetic clasp for rings and earrings — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). Designed for fine jewelry brands, artisan jewelers, and luxury accessories requiring an elegant presentation that matches the quality of the piece inside. The exterior features premium PU leatherette in a range of textures — smooth, pebbled, or crocodile-embossed — with a discreet magnetic clasp closure for secure, satisfying opening. The interior is fully lined with plush velvet flocking and precision die-cut slots for rings, earrings, or bracelet presentation. Bobst SP 102 BMA foil stamping provides crisp metallic brand logos. Constructed with 2.5mm greyboard walls and wrapped corners for long-lasting durability. Our 18,000 sqm Foshan facility delivers 220,000+ rigid boxes daily under ISO 9001:2015 and FSC Chain-of-Custody certification.
 
