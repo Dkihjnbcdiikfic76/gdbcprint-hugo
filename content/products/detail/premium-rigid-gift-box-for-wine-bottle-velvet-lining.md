@@ -14,43 +14,78 @@ params:
 
 ![Bincai Rigid Gift Boxes](/images/cat-rigid-others.jpg)
 
-Luxury rigid gift box for wine bottle packaging with plush velvet lining interior — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). This premium presentation box elevates single and dual-bottle wine packaging for wineries, distilleries, corporate gifting, and duty-free retail. The rigid greyboard construction provides superior protection during transport while delivering a tactile unboxing experience. KBA 1050 4-color offset press and Heidelberg 7+1 UV press deliver precision printing across our 10,000 sqm ISO 9001 & FSC certified factory. Daily output capacity of 1.7 million boxes ensures reliable supply for large-volume orders.
+Luxury rigid gift box for wine bottle packaging with plush velvet lining interior — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). This premium presentation box elevates single and dual-bottle wine packaging for wineries, distilleries, corporate gifting, and duty-free retail. The rigid greyboard construction (2–3mm thickness over 1,200gsm chipboard) provides superior crush-resistance during transport while delivering a satisfying, weighty unboxing experience that signals luxury. KBA 1050 4-color offset press and Heidelberg 7+1 UV press deliver precision printing across our 10,000 sqm ISO 9001 & FSC certified factory. Daily output capacity of 1.7 million boxes ensures reliable supply for large-volume orders. The velvet-lined bottle cavity is precision die-cut to cradle the bottle securely, preventing movement and label scuffing during shipping. Neodymium N35 magnetic closure provides a flush, silent close with over 1,000 cycles of durability tested.
 
 ## Applications
-- Single and dual-bottle wine gift packaging for vineyards and wineries
-- Premium spirit and champagne presentation boxes
-- Corporate gift giving and holiday wine gift sets
-- Duty-free retail and travel retail wine packaging
-- Wedding favor and event wine box presentation
-- Limited edition and collector's bottle packaging
-- Olive oil and specialty beverage gift packaging
+| Application | Details |
+|:---|---|
+| Single-bottle wine gift sets | Standard 750ml Bordeaux, Burgundy, and Champagne bottle formats — velvet cavity with neck strap |
+| Dual-bottle presentation boxes | Side-by-side or stacked configuration for premium two-bottle gift sets |
+| Corporate gifting | Custom foil-stamped company logo, embossed branding, gift card slot |
+| Duty-free & travel retail | Compact footprint optimized for airport retail shelf display |
+| Wedding & event favors | Personalized with couple names, date, and event branding — MOQ 200 for events |
+| Collector's edition packaging | Archival-grade materials, numbered edition plaques, certificate holder |
+| Spirits & specialty beverages | Whisky, cognac, sake, olive oil, premium vinegar, and craft spirits |
+| Holiday seasonal editions | Christmas, Lunar New Year, Mid-Autumn Festival themed colorways and foils |
 
 ## Customization Options
-- 157gsm art paper wrapping over 2-3mm rigid greyboard for premium weight and durability
-- CMYK offset printing with Pantone spot color matching for exact brand colors
-- Hot foil stamping in gold, silver, rose gold, copper, or custom metallic finishes
-- Blind embossing and debossing for subtle tactile branding on lid and sides
-- Precision die-cut bottle cavity with soft velvet, flocking, or satin lining
-- Magnetic flap closure with hidden neodymium magnets for flush, satisfying close
-- Custom satin ribbon pull tab in brand-matched colors
-- Gloss or matte lamination with optional soft-touch velvet coating
-- Gold/silver edge gilding around board thickness for ultra-premium presentation
-- Custom dimensions to fit any bottle shape: Bordeaux, Burgundy, champagne, spirits
+| Option | Available Choices |
+|:---|---|
+| Box structure | Hinged lid (book-style), telescopic lid (two-piece), drawer-style slide-out, or flip-top magnetic |
+| Board thickness | 1.5mm, 2.0mm, 2.5mm, or 3.0mm greyboard — thicker boards for larger/heavier bottles |
+| Wrapping material | 157gsm art paper, 200gsm coated duplex, uncoated kraft, metallic pearl paper, linen-textured stock |
+| Printing | CMYK 4-color offset (KBA 1050), Pantone spot color, or Heidelberg 7+1 UV for specialty inks |
+| Hot foil stamping | Gold, silver, rose gold, copper, holographic, matte gold, or custom PMS metallic |
+| Embossing/debossing | Blind emboss, registered foil emboss, multi-level sculpted emboss, micro-emboss texture |
+| Interior lining | Velvet (polyester or cotton), flocking, suede, satin, silk, or premium Alcantara |
+| Lining color | Full Pantone textile color range — black, navy, burgundy, cream, grey are top sellers |
+| Bottle cavity | Precision die-cut EVA foam, rigid greyboard partition, or molded pulp insert |
+| Surface finish | Gloss lamination, matte lamination, soft-touch velvet coating, Spot UV, drip-off effect |
+| Edge treatment | Gold/silver edge gilding, colored edge painting, raw kraft edge for rustic aesthetic |
+| Closure type | Neodymium N35/N52 magnetic flap, ribbon tie, metal clasp, or elastic band |
+| Additional accessories | Satin ribbon pull tab, gold foil certificate card, corkscrew compartment, tasting notes booklet slot |
+| Dimensions | Custom to any bottle: Bordeaux (76mm Ø), Burgundy (82mm Ø), Champagne (88mm Ø), spirits (70–85mm Ø) |
 
 ## Production Specifications
-- Presses: KBA 1050 4-color offset (15,000 sheets/hour) + Heidelberg 7+1 UV with instant curing
-- Board: 2-3mm rigid greyboard, machine-wrapped with 157gsm art paper or specialty stock
-- Interior: bonded velvet, flocking, satin, or suede lining in custom colors
-- Surface finishes: matte/gloss lamination, Spot UV varnish, soft-touch coating, hot foil stamping
-- Assembly: manual expert wrapping — rigid box lids that fit flush with ±0.5mm tolerance
-- Quality control: 100% visual inspection on all rigid boxes with ISO 9001 process documentation
-- Lead time: 15-20 days for custom rigid boxes with tooling; 7-10 days for repeat orders
-- MOQ: 500 units; free pre-production samples with 3D mockup approval
+| Specification | Detail |
+|:---|---|
+| Primary press | KBA 1050 4-color offset — 15,000 sheets/hour, 1050×720mm max sheet |
+| Specialty press | Heidelberg Speedmaster XL 7+1 UV — instant curing, drip-off, hybrid inks |
+| Board substrate | 1,200–2,400gsm greyboard (machine-bonded from recycled fiber), FSC-certified available |
+| Wrapping paper | 157gsm C1S/C2S art paper, 200gsm coated duplex, specialty stocks |
+| Velvet lining | 100% polyester 250gsm velvet, tested for colorfastness (AATCC 61) and abrasion (Martindale) |
+| Magnetic closure | Neodymium N35 grade, 10–15mm Ø × 1.5mm, epoxied into greyboard cavity |
+| Hot foil stamping | Bobst BMA foil stamping press — ±0.2mm registration, up to 580×380mm stamping area |
+| Die-cutting | Laser-cut steel rule die, ±0.3mm tolerance for cavity and board edges |
+| Assembly | Manual expert rigid box wrapping — lid-to-base fit within ±0.5mm, 90° corner sharpness |
+| Capacity | 1.7 million boxes/day across 6 rigid box production lines |
+| Lead time | 15–20 days (new tooling), 7–10 days (repeat orders) |
+| MOQ | 500 pcs; free pre-production sample with 3D mockup approval |
+
+## Quality Assurance
+| Inspection Point | Method | Standard |
+|:---|---|:---|
+| Board thickness | Digital caliper ±0.1mm | Spec ±0.2mm |
+| Lid-to-base fit | Manual fit test on 100% of units | Gap ≤1.0mm, no binding |
+| Wrapping adhesion | Peel test at corners | No lifting at 180° bend |
+| Velvet bonding | Visual + tactile 100% | No bubbles, wrinkles, or adhesive bleed |
+| Foil stamp registration | Overlay template check | ±0.2mm from artwork |
+| Color consistency | Spectrophotometer (X-Rite) | ΔE ≤2.0 from master standard |
+| Magnetic closure force | Spring gauge pull test | 3–8N opening force |
+| Surface finish | Visual under 5000K D50 lighting | No scratches, scuffs, or lamination bubbles |
+| Drop test | 1m drop on concrete (packed) | No structural failure, contents protected |
+| Abrasion resistance | Sutherland rub test (2lb, 50 cycles) | No visible ink transfer or surface damage |
+| FSC chain of custody | Document audit per shipment | FSC-STD-40-004 compliance |
+| ISO 9001 | Process documentation at each station | Full traceability |
 
 ## Why Bincai for Wine Packaging
-- 22 years of rigid box manufacturing expertise since 2003
-- Heidelberg 7+1 UV press for spot UV, drip-off, and specialty coating effects
-- FSC Chain of Custody certified — sustainable paper sourcing for eco-conscious wine brands
-- Full in-house capability: printing → die-cutting → wrapping → velvet lining → inspection
-- 10,000 sqm factory in Foshan, Guangdong with 1.7M daily box output
-- Export experience to 60+ countries with wine packaging clients in France, Italy, Australia, and California
+- **22 years** of rigid box manufacturing expertise since 2003 — serving wineries from Bordeaux, Napa, Barossa, and Mendoza
+- **Heidelberg 7+1 UV** press for drip-off, hybrid UV, and specialty coating effects unique in the Pearl River Delta
+- **FSC Chain of Custody** certified (SGSHK-COC-008796) — sustainable paper sourcing for eco-conscious wine brands
+- **Dual factory** capacity: 10,000 sqm (Foshan HQ) + 8,000 sqm (satellite facility) = 1.7M boxes/day
+- **Bobst BMA** foil stamping press for precision metallic decoration — up to 580×380mm stamping area
+- Full in-house: pre-press CTP → KBA/Heidelberg printing → lamination → die-cutting → foil stamping → rigid box wrapping → velvet lining → QC inspection → packing
+- **Export experience** to 60+ countries with dedicated wine packaging clients in France, Italy, Australia, and California
+- Free 3D structural design and pre-production sampling with Pantone color matching
+
+**Guangdong Bincai Color Printing Co., Ltd.** — Your premium wine packaging partner since 2003. ISO 9001 & FSC certified.
