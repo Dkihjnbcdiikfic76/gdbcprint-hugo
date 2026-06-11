@@ -167,7 +167,7 @@ section[id]{scroll-margin-top:120px}
 
 /* ═══ FOOTER ═══ */
 footer{background:#0F2454;color:rgba(255,255,255,.5);padding:56px 0 0}
-.footer-grid{display:grid;grid-template-columns:2fr 1fr 1fr 1fr;gap:40px;margin-bottom:40px}
+.footer-grid{display:grid;grid-template-columns:2fr 1fr 1fr;gap:40px;margin-bottom:40px}
 footer h3,footer h4{font-family:'DM Sans','Inter',sans-serif;color:#fff;font-size:13px;font-weight:500;margin-bottom:16px;letter-spacing:.5px;text-transform:uppercase}
 footer p,footer li{font-size:13px;line-height:2;font-weight:400}
 footer ul{list-style:none}
