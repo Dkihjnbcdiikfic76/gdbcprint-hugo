@@ -61,5 +61,31 @@ Single-wall corrugated shipping box with integrated tear strip — manufactured 
 - Daily capacity: 1.7 million color boxes + 220,000+ gift boxes
 - High-Tech Enterprise certified; ISO 9001:2015 & FSC certified
 
+## FAQ
+
+**Q: How does the tear strip work?**
+A: An integrated perforated tear strip runs along the box, allowing consumers to open the package cleanly without knives or scissors. Simply pull the tear strip tab and the box opens in a straight, clean line — ideal for e-commerce unboxing experiences and subscription box packaging.
+
+**Q: What flute types are available?**
+A: B-flute (3mm, best for printing and die-cutting), C-flute (4mm, best all-around strength), and E-flute (1.5mm, best for retail display and fine print). We recommend B-flute for e-commerce shipping, E-flute for retail-ready packaging.
+
+**Q: What printing methods can you use on corrugated?**
+A: Flexographic printing for simple 1–3 color designs at high volume, or offset CMYK litho-laminate for photographic-quality brand graphics. The KBA 1050 4-color press delivers premium offset quality, while Heidelberg 7+1 UV handles specialty coatings.
+
+**Q: Can the box be printed inside and outside?**
+A: Yes. Interior printing is available for branded unboxing experiences — ideal for subscription boxes where the inside is visible upon opening. Water-based and soy-based inks available for eco-conscious brands.
+
+**Q: How durable are these boxes for shipping?**
+A: Single-wall corrugated construction is ECT-rated for shipping durability. We test edge crush resistance and burst strength per industry standards. For heavier items, double-wall corrugated options are available.
+
+**Q: What is the MOQ for custom corrugated shipping boxes?**
+A: MOQ is 500–1000 units per design. Trial orders and OEM/ODM accepted. Free pre-production samples within 5–7 working days. Lead time 10–15 working days for new orders.
+
+## Related Products
+- [Heavy-Duty Corrugated Shipping Box Double-Wall Custom Size](/products/detail/heavy-duty-corrugated-shipping-box-double-wall-custom-size/) — double-wall for heavy items and international shipping
+- [White Corrugated E-Commerce Box with Tear Strip Subscription](/products/detail/white-corrugated-e-commerce-box-with-tear-strip-subscription/) — white exterior e-commerce box with tear strip
+- [Corrugated Multi-Depth Shipping Box Tear Strip Subscription](/products/detail/corrugated-multi-depth-shipping-box-tear-strip-subscription/) — multi-depth adjustable height for subscription fulfillment
+- [Heavy-Duty Corrugated Shipping Box Foam Insert Fragile Items](/products/detail/heavy-duty-corrugated-shipping-box-foam-insert-fragile-items/) — protective foam insert for delicate products
+
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Factory visits welcome.

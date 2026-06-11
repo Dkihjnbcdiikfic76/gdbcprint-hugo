@@ -55,5 +55,31 @@ Custom rigid gift box with telescopic lid and hot foil stamping — manufactured
 - Direct factory pricing with no middlemen
 - 1.7 million boxes daily output capacity
 
+## FAQ
+
+**Q: What is the MOQ for telescopic lid rigid boxes?**
+A: MOQ is 500 units per design. We accept trial orders and provide free pre-production samples within 5–7 working days.
+
+**Q: What foil colors are available for hot stamping?**
+A: Gold, silver, rose gold, copper, holographic, matte gold, and custom PMS metallic foils. Our Bobst BMA foil stampers achieve ±0.2mm registration accuracy.
+
+**Q: Can the telescopic lid depth be customized?**
+A: Yes — lid depth from 30mm to 120mm, providing subtle overlay to dramatic reveal effects. We can also add magnetic closure inserts for secure lid retention.
+
+**Q: What board thickness is recommended?**
+A: 1200–2000gsm greyboard depending on box size and weight. Finished wall thickness ranges from 1.5mm to 3.0mm with 128–157gsm art paper wrapping.
+
+**Q: Are your materials sustainable and certified?**
+A: Yes. We are ISO 9001:2015 and FSC Chain-of-Custody certified. All greyboard contains 100% recycled fiber. FSC-certified paper sourcing available upon request.
+
+**Q: How long is the production lead time?**
+A: 15–20 working days for new tooling, 7–10 working days for repeat orders. Rush service available for time-sensitive projects.
+
+## Related Products
+- [Premium Magnetic Rigid Gift Box for Luxury Perfume Packaging](/products/detail/premium-magnetic-rigid-gift-box-for-luxury-perfume-packaging/) — magnetic closure for fragrance and cosmetics
+- [Square Rigid Gift Box with Magnetic Lid Matte Lamination](/products/detail/square-rigid-gift-box-magnetic-lid-matte-lamination-custom/) — custom-printed magnetic closure box
+- [Octagonal Rigid Gift Box with Ribbon Bow](/products/detail/octagonal-rigid-gift-box-with-ribbon-bow-luxury/) — luxury confectionery and gift presentation
+- [Rigid Cardboard Gift Box with Matte Lamination Spot UV](/products/detail/rigid-cardboard-gift-box-with-matte-lamination-spot-uv/) — spot UV contrast effects
+
 ## Contact
 For custom telescopic lid rigid gift box inquiries, please contact Bincai through Made-in-China.com or visit gdbcprint.com.
