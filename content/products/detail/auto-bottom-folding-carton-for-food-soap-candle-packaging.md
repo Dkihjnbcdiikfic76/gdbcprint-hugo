@@ -58,6 +58,26 @@ Auto-bottom folding carton for food, soap, and candle packaging — manufactured
 - Daily capacity: 1.7 million color boxes + 220,000+ gift boxes
 - High-Tech Enterprise certified; ISO 9001:2015 & FSC certified
 
+## FAQ
+
+**Q: How does the auto-bottom locking mechanism work, and does it require any glue or tape?**
+A: The auto-bottom (also called crash-lock or snap-lock bottom) uses precision-scored crease lines and interlocking flaps that fold flat during storage and automatically pop into a locked position when the carton is opened. The bottom panels are die-cut with tabs and slots that mechanically engage under tension — no adhesive, tape, or manual folding is needed. Simply square up the carton and the bottom locks itself in under a second, making it ideal for high-speed manual or automated filling lines.
+
+**Q: What is the maximum weight the auto-bottom carton can safely hold?**
+A: With 450gsm FBB (Folding Box Board) construction, the auto-lock bottom supports loads up to 1.5 kg (3.3 lb) in static storage. For heavier items up to 2.5 kg, we recommend upgrading to 500gsm board with reinforced bottom flaps and additional lock tabs. We validate every design with a 24-hour static load test at 1.5× the rated capacity as part of our ISO 9001 quality protocol.
+
+**Q: Are these cartons food-safe for direct food contact?**
+A: Yes. We offer food-grade configurations using water-based adhesives, soy-based or low-migration offset inks, and food-safe aqueous coatings that meet FDA 21 CFR and EU Framework Regulation (EC) No 1935/2004 standards. For direct food contact (e.g., unwrapped baked goods), we recommend an additional PE or PLA barrier lining. Standard configurations without the food-grade upgrade are suitable for packaged food items, soap, and candles.
+
+**Q: How do auto-bottom cartons ship — do they arrive assembled or flat?**
+A: All auto-bottom folding cartons ship flat (knocked down) for maximum transport efficiency. A pallet holds 3,000–8,000 flat cartons depending on size, compared to only 300–600 if pre-assembled. This reduces your freight cost by 70–85% and warehouse footprint by a similar margin. Cartons are shipped in corrugated master cases with internal dividers to prevent crushing during transit.
+
+## Related Products
+- [Custom Folding Carton Die-Cut Handle with Spot UV](/products/detail/custom-folding-carton-die-cut-handle-spot-uv-retail-luxury/) — Premium retail folding carton with integrated die-cut carry handle and spot UV accents for luxury shelf presentation.
+- [Folding Carton Die-Cut Display Tray](/products/detail/folding-carton-die-cut-display-tray/) — Open-top folding carton tray with die-cut contours, perfect for countertop product display and grab-and-go retail.
+- [Straight Tuck-End Folding Carton with Soft-Touch & Gold Foil](/products/detail/straight-tuck-end-folding-carton-soft-touch-gold-foil-skincare/) — Classic straight tuck-end carton with soft-touch lamination and hot gold foil for premium skincare and cosmetic packaging.
+- [Custom Tuck-Top Folding Carton CMYK Offset Printing](/products/detail/custom-tuck-top-folding-carton-cmyk-offset-printing/) — Versatile tuck-top folding carton with full-color CMYK offset printing, suitable for food, confectionery, and general retail products.
+
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Factory visits welcome.
 <!-- test comment -->
