@@ -2,8 +2,8 @@
 title: "Luxury Candle Gift Set Rigid Box with Ribbon Tie and Foam Insert"
 date: 2026-06-11
 draft: false
-description: "Luxury candle gift set rigid box with ribbon tie closure and custom foam insert. KBA 1050 + Heidelberg 7+1 UV printed, hot gold foil, embossing. ISO 9001 & FSC certified. Bincai 22yr factory, MOQ 500."
-keywords: "candle gift box, rigid box with ribbon, luxury candle packaging, foam insert gift box, custom rigid box manufacturer, candle set box China, hot stamping gift box, Bincai"
+description: "Luxury candle gift set rigid box with satin ribbon tie closure and custom die-cut EVA foam insert. Manufactured by Bincai: KBA 1050 4-color offset + Heidelberg 7+1 UV press, hot gold/silver foil stamping, embossing, 10,000sqm integrated factory, 22 years experience, ISO 9001:2015 & FSC certified, 1.7M daily output. PU leather or velvet exterior, magnetic side flap, ΔE≤2.0 color accuracy, magnet pull-force 3.5–5.0N. MOQ 500. Free 3D mockup. 7-15 day sample turnaround."
+keywords: "candle gift box, rigid box with ribbon, luxury candle packaging, foam insert gift box, custom rigid box manufacturer, candle set box China, hot stamping gift box, satin ribbon box, die cut foam insert, home fragrance packaging, velvet rigid box, PU leather gift box, magnetic closure candle box, Bincai, Guangdong packaging factory"
 categories: ["rigid-gift-boxes"]
 params:
   moq: "500-1000"

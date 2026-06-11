@@ -2,8 +2,8 @@
 title: "Auto Bottom Folding Carton for Food Soap Candle Packaging"
 date: 2026-06-10
 draft: false
-description: "Auto-bottom folding carton box for food, soap, candle, and retail packaging. KBA 1050 offset printed, ISO 9001 & FSC certified. Bincai — 22-year factory, 10,000sqm, MOQ 500."
-keywords: "auto bottom folding carton, food packaging box, soap candle box, custom folding carton, offset printed paper box, retail display box, folding carton manufacturer China, ISO 9001 FSC packaging, Bincai"
+description: "Auto-bottom folding carton for food, soap, candle, confectionery and retail packaging. Instant pop-open assembly — no tape or glue needed. Manufactured by Bincai: KBA 1050 4-color offset + Heidelberg 7+1 UV press, 250-450gsm FBB/SBS/kraft board, hot foil stamping, embossing, matte/gloss lamination, die-cut PET window, 10,000+8,000sqm dual factory, 22 years experience, ISO 9001:2015 & FSC certified, food-grade inks, 1.7M daily output, 80+ workers. MOQ 500. Free pre-production samples 5-7 days."
+keywords: "auto bottom folding carton, food packaging box, soap candle box, custom folding carton, offset printed paper box, retail display box, folding carton manufacturer China, ISO 9001 FSC packaging, die cut window box, food grade paper box, auto lock bottom carton, confectionery packaging box, KBA Heidelberg folding carton, Bincai, Guangdong folding carton factory"
 categories: ["folding-cartons"]
 params:
   moq: "500-1000"
