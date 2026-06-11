@@ -52,12 +52,21 @@ Bincai's premium necklace and pendant jewelry box features a plush velvet interi
 
 ## Production Quality
 
-| Test | Standard | Specification |
+| Inspection Point | Method/Metric | Standard |
 |---|---|---|
-| Lid Alignment | Internal | Gap ≤1.0mm |
-| Velvet Bond | Internal | ≥2.5 N/cm² peel strength |
-| Print Registration | Internal | ±0.15mm |
-| Color Consistency | Internal | ΔE ≤ 2.0 |
+| Board thickness | Digital caliper ±0.1mm | Spec ±0.2mm |
+| Lid-to-base alignment | Manual fit test on 100% of units | Gap ≤1.0mm |
+| Wrapping adhesion | Peel test at corners | No lifting at 180° bend |
+| Velvet flocking bond | Pull-force gauge | ≥2.5 N/cm² peel strength |
+| Satin cushion stitch | Visual inspection 100% | No loose threads, even tension |
+| Foil stamp registration | Overlay template check | ±0.2mm from artwork |
+| Print registration | Internal | ±0.15mm |
+| Color consistency | X-Rite spectrophotometer | ΔE ≤2.0 from master |
+| Surface finish QC | Visual under 5000K D50 lighting | No scratches, scuffs, or lamination bubbles |
+| Drop test | 1m drop on concrete (packed) | No structural failure, contents protected |
+| Abrasion resistance | Sutherland rub test (2lb, 50 cycles) | No visible ink transfer |
+| AQL sampling | ISO 2859-1 Level II | AQL 2.5 (major), AQL 1.0 (minor) |
+| FSC chain of custody | Document audit per shipment | FSC-STD-40-004 compliance |
 
 ## Why Bincai
 
@@ -65,9 +74,31 @@ Bincai's premium necklace and pendant jewelry box features a plush velvet interi
 |---|---|
 | **22-Year Legacy** | Manufacturing since 2003 — 500+ global brands served |
 | **18,000 sqm Facility** | 10,000 sqm + 8,000 sqm smart factory (2025) |
-| **KBA 1050 Press** | German-engineered offset precision |
+| **KBA 1050 + Heidelberg 7+1 UV** | German-engineered offset precision + specialty finishing |
 | **ISO 9001 & FSC** | Quality management + sustainable forestry |
+| **Jewelry Packaging Specialist** | Dedicated velvet flocking, satin cushion, and foam insert production lines |
 | **Free Samples** | 3-5 day pre-production samples |
+
+## Frequently Asked Questions
+
+**Q: What is the minimum order quantity for custom velvet necklace boxes?**
+A: Standard MOQ is 500 units for existing tooling and stock velvet colors. For custom cushion tooling (new slot shape, brace form, ring roll), MOQ is 1,000 units. Smaller trial orders of 200-300 are available at a small-unit surcharge — ideal for first-time brand buyers testing the market. Bincai runs velvet-lined boxes at 220,000+ gift boxes daily, so production slots are always available.
+
+**Q: Can the velvet lining color match my brand's Pantone?**
+A: Yes — Bincai stocks 20+ standard velvet colors (black, navy, burgundy, cream, grey, royal blue, forest green) and can custom-dye to any Pantone textile color with a 500-unit minimum. Color matching is verified with an X-Rite spectrophotometer under D50 lighting, maintaining ΔE ≤2.0 from the approved standard. Dye lot consistency is maintained across production runs.
+
+**Q: Is the satin cushion removable, and can I print my logo on it?**
+A: The satin cushion is fully removable — customers lift it to access hidden compartments or repurpose the box after purchase. Logo printing on the cushion is available via screen printing (Pantone colors) or heat-transfer foil (gold/silver). The cushion can also be ordered separately for replacement or retail refill programs. Choose from single-slot, double-slot, ring-roll, or bracelet-form cushion styles.
+
+**Q: What certifications does Bincai hold for jewelry packaging?**
+A: ISO 9001:2015 quality management system covers all production processes from material receiving through final inspection. FSC Chain-of-Custody (FSC-STD-40-004) ensures all paperboard is sourced from responsibly managed forests — important for brands with ESG commitments. REACH and RoHS compliance available upon request for European market distribution. Full batch traceability with AQL 2.5 statistical sampling.
+
+## Related Products
+
+- [Luxury Necklace Box — Magnetic Flap & Gold Foil](/products/detail/luxury-necklace-gift-box-magnetic-flap-velvet-lining-gold-foil/) — Premium magnetic-flap alternative with gold foil hot-stamping and wider color palette
+- [Jewelry Bracelet Gift Box — Magnetic Flap & Satin Pillow](/products/detail/jewelry-bracelet-gift-box-magnetic-flap-velvet-inlay-satin-pillow/) — Bracelet-specific form with magnetic closure and satin display pillow
+- [LED Ring Display Box — Velvet Flocking & Spotlight](/products/detail/jewelry-ring-display-box-led-spotlight-velvet-flocking/) — Battery-powered LED spotlight ring box with auto-on lid sensor for jewelry stores
+- [Dual-Layer Magnetic Jewelry Ring Box](/products/detail/dual-layer-magnetic-jewelry-ring-box/) — Two-tier storage with removable tray for ring + earring sets
 
 ## Contact
 
