@@ -21,7 +21,7 @@ For custom paper box inquiries, samples, or factory visits:
 - **22 Years** of manufacturing excellence since 2003
 - **ISO 9001 & FSC** certified quality and sustainability
 - **10,000 m²** factory with KBA & Heidelberg presses
-- **1.5 Million** boxes daily production capacity
+- **1.7 Million + 220K+ Gift Boxes** daily production capacity
 - **200+** global clients across 50 countries
 - **Free Samples** for qualified inquiries (freight collect)
 - **7-15 Days** production lead time

@@ -59,7 +59,9 @@ body{font-family:'DM Sans','Inter',sans-serif;line-height:1.65;font-size:15px}
 article{font-size:15px;line-height:1.7;color:#444}
 
 /* Footer compact on mobile */
+.footer-grid{grid-template-columns:2fr 1fr 1fr}
 @media(max-width:640px){
+  .footer-grid{grid-template-columns:1fr}
   .btn-cta,.btn-primary{width:100%;justify-content:center;padding:14px 24px}
   .btn-outline{width:100%;justify-content:center;padding:13px 24px}
 }
@@ -79,9 +81,9 @@ article{font-size:15px;line-height:1.7;color:#444}
 </main>
 <footer><div class="container">
 <div class="footer-grid">
-<div><h3>Bincai Packaging</h3><p>Premium custom paper box manufacturer since 2003. ISO 9001 & FSC certified.</p></div>
-<div><h3>Products</h3><a href="/products/rigid-gift-boxes/">Rigid Boxes</a><a href="/products/folding-cartons/">Folding Cartons</a><a href="/products/corrugated-mailers/">Corrugated Mailers</a></div>
-<div><h3>Contact</h3><p>{{ .Site.Params.email }}<br>{{ .Site.Params.phone }}</p></div>
+<div><h4>Bincai Packaging</h4><p>Premium custom paper box manufacturer since 2003. ISO 9001 & FSC certified.</p></div>
+<div><h4>Products</h4><a href="/products/rigid-gift-boxes/">Rigid Boxes</a><a href="/products/folding-cartons/">Folding Cartons</a><a href="/products/corrugated-mailers/">Corrugated Mailers</a></div>
+<div><h4>Contact</h4><p>{{ .Site.Params.email }}<br>{{ .Site.Params.phone }}</p></div>
 </div>
 <p>&copy; 2026 Guangdong Bincai Color Printing Co., Ltd.</p>
 </div></footer>
