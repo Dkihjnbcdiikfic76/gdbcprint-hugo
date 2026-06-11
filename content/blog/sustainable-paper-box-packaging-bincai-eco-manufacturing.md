@@ -6,7 +6,7 @@ description: "Sustainable Paper Box Packaging: How Bincai Delivers Eco-Friendly 
 
 ---
 
-![Bincai Custom Paper Box Manufacturing — Factory ![Bincai Blog] Production](/images/hero-banner-wide.jpg)
+![Bincai Custom Paper Box Manufacturing — Factory & Production](/images/hero-banner-wide.jpg)
 
 ## The Green Packaging Imperative
 

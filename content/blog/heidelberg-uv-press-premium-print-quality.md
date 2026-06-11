@@ -6,7 +6,7 @@ description: "How Our Heidelberg 7+1 UV Press Delivers Premium Print Quality - G
 
 ---
 
-![Bincai Custom Paper Box Manufacturing — Factory ![Bincai Blog] Production](/images/hero-banner-wide.jpg)
+![Bincai Custom Paper Box Manufacturing — Factory & Production](/images/hero-banner-wide.jpg)
 
 At Bincai, print quality starts with our Heidelberg 7+1 UV offset press — the gold standard in commercial printing. This advanced press enables:
 

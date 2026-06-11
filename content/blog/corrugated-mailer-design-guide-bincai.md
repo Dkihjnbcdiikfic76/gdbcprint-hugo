@@ -6,7 +6,7 @@ description: "Complete B2B guide to corrugated mailer box design — flute grade
 
 ---
 
-![Bincai Custom Paper Box Manufacturing — Factory ![Bincai Blog] Production](/images/hero-banner-wide.jpg)
+![Bincai Custom Paper Box Manufacturing — Factory & Production](/images/hero-banner-wide.jpg)
 
 ## The E-Commerce Packaging Workhorse
 
