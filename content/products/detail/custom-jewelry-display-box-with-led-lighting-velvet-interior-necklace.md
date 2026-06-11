@@ -8,7 +8,7 @@ categories: ["jewelry-boxes"]
 params:
   moq: "500-1000"
   price: "0.25-3.00"
-  material: "Greyboard / Art Paper / Kraft"
+  material: "Greyboard 1200-1600gsm / Velvet Flocking / Satin Lining / Art Paper 157gsm"
   certification: "ISO 9001, FSC"
 ---
 

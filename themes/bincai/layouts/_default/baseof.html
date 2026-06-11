@@ -54,6 +54,11 @@ article img{max-width:100%!important;height:auto!important;border-radius:8px}
 /* Mobile table overflow */
 article table,main table{display:block;overflow-x:auto;-webkit-overflow-scrolling:touch}
 
+/* Product detail 2-col grid stacks on mobile */
+@media(max-width:640px){
+  article > div[style*="grid-template-columns:1fr 1fr"]{grid-template-columns:1fr!important}
+}
+
 /* Body text */
 body{font-family:'DM Sans','Inter',sans-serif;line-height:1.65;font-size:15px}
 article{font-size:15px;line-height:1.7;color:#444}

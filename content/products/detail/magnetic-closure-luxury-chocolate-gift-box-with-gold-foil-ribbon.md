@@ -8,7 +8,7 @@ categories: ["magnetic-closure-boxes"]
 params:
   moq: "500-1000"
   price: "0.30-3.50"
-  material: "Greyboard / Art Paper / Kraft / Leatherette"
+  material: "Greyboard 1200-1600gsm / N52 Neodymium Magnets / Leatherette Wrap / Gold Foil"
   certification: "ISO 9001, FSC"
 ---
 

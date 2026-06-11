@@ -8,7 +8,7 @@ categories: ["corrugated-mailers"]
 params:
   moq: "500-1000"
   price: "0.25-3.00"
-  material: "Greyboard / Art Paper / Kraft"
+  material: "B/C/E/BC Flute Corrugated / Kraft / White Top / Test Liner"
   certification: "ISO 9001, FSC"
 ---
 

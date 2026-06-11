@@ -8,7 +8,7 @@ categories: ["folding-cartons"]
 params:
   moq: "500-1000"
   price: "0.25-3.00"
-  material: "Greyboard / Art Paper / Kraft"
+  material: "SBS C1S 15-24pt / CCNB / Art Paper 250-450gsm / Aqueous Coating"
   certification: "ISO 9001, FSC"
 ---
 

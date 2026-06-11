@@ -2,6 +2,15 @@
 <article style="max-width:900px;margin:0 auto;padding:40px 20px 60px;">
 <h1 style="font-size:28px;font-weight:700;line-height:1.2;color:#1d1d1f;margin-bottom:12px;">{{ .Title }}</h1>
 
+{{ if ne .Section "products" }}
+{{ with .Date }}<p style="font-size:13px;color:#888;margin-bottom:20px;">{{ .Format "January 2, 2006" }}</p>{{ end }}
+{{ with .Params.image }}<img src="{{ . }}" alt="{{ $.Title }}" style="width:100%;max-height:420px;object-fit:cover;border-radius:10px;margin-bottom:28px;">{{ end }}
+<style scoped>
+  article p,article li{font-size:16px;line-height:1.8}
+  @media(max-width:640px){article p,article li{font-size:15px;line-height:1.7}}
+</style>
+{{ end }}
+
 {{ if eq .Section "products" }}
 <div style="display:flex;gap:8px;flex-wrap:wrap;margin-bottom:24px;">
 <span class="pill-blue">ISO 9001</span><span class="pill-blue">FSC</span><span class="pill-orange">MOQ {{ .Params.moq }}</span><span class="pill-green">Free Sample</span>

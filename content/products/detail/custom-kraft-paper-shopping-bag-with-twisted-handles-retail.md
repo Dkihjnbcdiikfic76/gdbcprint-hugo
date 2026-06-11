@@ -8,7 +8,7 @@ categories: ["kraft-eco-boxes"]
 params:
   moq: "500-1000"
   price: "0.10-5.00"
-  material: "Greyboard / Art Paper / Kraft / Corrugated"
+  material: "Kraft Paper 300-400gsm / Soy Ink / FSC Certified / Recycled Content"
   certification: "ISO 9001, FSC"
 ---
 
