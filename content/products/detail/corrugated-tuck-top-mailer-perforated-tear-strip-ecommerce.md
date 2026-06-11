@@ -100,3 +100,28 @@ The Bincai Corrugated Tuck-Top Mailer with perforated tear strip is purpose-buil
 - **Factory Visit**: Welcome — schedule via email or phone
 
 [Request your free quote →](/contact/)
+
+## FAQ
+
+**Q: What is the minimum order quantity for custom corrugated mailers?**
+
+A: The standard MOQ is 500-1,000 units for custom-printed corrugated mailers. For first-time customers or market testing, we offer a trial run of as few as 200 units so you can validate fit, print quality, and tear strip performance before committing to a full production order. Tooling costs include a one-time printing plate fee of $60-120 (flexo) and a die charge of $80-150.
+
+**Q: How long does customization take -- from design approval to delivery?**
+
+A: Standard lead time is 7-15 days from final artwork approval to dispatch. Expedited production can ship in 5-7 days for urgent campaigns or peak-season restocks. Pre-production samples with actual tear strip and full CMYK print ship within 3-5 days of file receipt, so you can evaluate physical quality before the production run begins. All 1.7M daily units ship from our 18,000 sqm integrated facility in Foshan, Guangdong.
+
+**Q: What print quality can I expect on corrugated mailers?**
+
+A: We offer two print paths depending on your brand requirements. Flexographic printing delivers bold, crisp 1-3 color graphics at up to 100 LPI -- ideal for logos, patterns, and solid brand colors at the most economical price point. For photographic imagery, gradients, and premium shelf appeal, our offset litho presses (KBA 1050 and Heidelberg 7+1 UV) achieve 175 LPI CMYK plus spot colors with registration tolerance of +/-0.2mm on white-top or coated liners. Both methods are ISO 9001:2015 controlled and visually inspected at AQL 2.5 throughout the run.
+
+**Q: Are corrugated mailers durable enough for e-commerce shipping?**
+
+A: Yes. Our E-flute mailers pass ISTA 1A drop testing (10-drop sequence from 760mm) with the box intact and contents undamaged, achieving an Edge Crush Test of at least 24 lbs/in and burst strength of 125 PSI or higher. The tuck-top closure holds through 50+ inversion cycles with a pull-out force exceeding 8 N, and the integrated tear strip delivers a clean tear at 3-8 N force with less than 5mm fiber deviation. For heavier shipments up to 15 kg, B-flute or EB double-wall construction is available, with ECT values reaching 32 lbs/in or higher. Flat-packed design also reduces warehouse footprint by 10x versus assembled boxes, so your logistics chain stays efficient from factory to fulfillment center.
+
+## Related Products
+
+- [Custom Printed Corrugated Mailer Box -- Self-Locking E-commerce](custom-printed-corrugated-mailer-box-self-locking-ecommerce/)
+- [White Corrugated E-Commerce Box with Tear Strip -- Subscription](white-corrugated-e-commerce-box-with-tear-strip-subscription/)
+- [Custom Corrugated Mailer with Self-Locking Bottom Tear Strip](custom-corrugated-mailer-with-self-locking-bottom-tear-strip/)
+- [Single Wall Corrugated Shipping Box with Tear Strip](single-wall-corrugated-shipping-box-with-tear-strip/)

@@ -95,3 +95,28 @@ The Bincai Tuck-Top Auto-Lock Bottom Folding Carton is purpose-engineered for ar
 | Shipping | Worldwide DHL/FedEx/UPS/Sea |
 
 [Request your free quote →](/contact/)
+
+## FAQ
+
+### Are your folding cartons food-safe for direct confectionery contact?
+
+Yes. All Bincai folding cartons for confectionery use low-migration offset inks (<10ppb benzophenone) and water-based PVA adhesives that are formaldehyde-free and fully compliant with EU Framework Regulation (EC) No 1935/2004 for food contact materials. Migration testing documentation from TUV SUD certified lab is available upon request. For products requiring a functional barrier, we also offer inner glassine or PE liners.
+
+### How strong is the auto-lock bottom? Will it hold heavy chocolates without popping open?
+
+The auto-lock bottom is engineered for reliability. Our quality assurance protocol load-tests every batch at 3x the rated weight with zero pop-open failures. We rate the standard 350gsm C1S SBS auto-lock bottom for up to 500g, and heavier 400gsm board options can support up to 800g. Random sampling at 1:500 units and ISTA 1A drop testing (0.76m free-fall, 10 drops) confirm structural integrity during shipping.
+
+### What is the minimum order quantity (MOQ) for custom confectionery boxes?
+
+Standard MOQ is 1,000 units per design. However, for common box sizes that match existing tooling, we can accept orders as low as 500 units. Trial orders and sampling runs are welcome -- digital proofs are delivered within 2 working days, and physical samples with window and insert assembly in 5-7 days.
+
+### What is the typical turnaround time from order to delivery?
+
+Standard production lead time is 10-15 working days after sample approval. Rush 7-day service is available for time-sensitive launches. Shipping via DHL/FedEx/UPS express takes 3-5 working days to most international destinations; sea freight options are available for larger volumes at 15-30 days depending on destination.
+
+## Related Products
+
+- [Folding Carton Sleeve Tray with Window for Confectionery Display Packaging](/products/detail/folding-carton-sleeve-tray-window-confectionery-display-packaging/)
+- [Custom Sleeve-Style Folding Carton for Premium Chocolate Confectionery](/products/detail/sleeve-style-folding-carton-premium-chocolate-confectionery/)
+- [Folding Carton Tuck Top Auto-Bottom for Snack Food Packaging](/products/detail/folding-carton-tuck-top-auto-bottom-snack-food-packaging-box/)
+- [Auto-Lock Bottom Folding Carton Box with Full-Color CMYK for Food Packaging](/products/detail/auto-lock-bottom-folding-carton-box-cmyk-printing-food/)

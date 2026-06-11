@@ -76,3 +76,28 @@ The natural brown kraft paper package box with jute string handle is designed fo
 MOQ 500 units. Trial orders welcome. Free pre-production samples. Lead time 25-30 days. Phone: +86-18934352881 (Mr. Zhou). Email: qo82@icloud.com. [Request free quote →](/contact/)
 
 [Request your free quote →](/contact/)
+
+## FAQ
+
+**Q: Are these kraft paper boxes fully recyclable and biodegradable?**
+
+Yes. Our natural brown kraft paper boxes are made from FSC-certified recycled kraft board with soy-based inks and water-based coatings — no plastic lamination, no petroleum adhesives. The entire box (including the jute string) biodegrades within 6-12 months in home or industrial compost conditions. Simply remove any non-paper inserts before recycling in standard curbside paper streams.
+
+**Q: Can the jute string handle be customized or substituted?**
+
+Absolutely. The natural jute string is our most popular handle option, but we offer a full range of alternatives: cotton rope (softer hand feel), twisted paper cord (100% paper — no fiber mixing), flat cotton ribbon, or hemp twine. You can also customize the jute string by dyeing it to match your brand colors. MOQ for custom-dyed jute is 3000 units.
+
+**Q: What is the minimum order quantity for custom kraft eco boxes?**
+
+Standard MOQ is 500 units for boxes using existing die-cut templates (choose from 200+ sizes). For fully custom dimensions requiring a new die, MOQ is 3000 units. Trial orders of 100-300 units are available for quality verification before committing to full production runs.
+
+**Q: Are these boxes safe for direct food contact?**
+
+Yes. We use soy-based inks that comply with EN 71-3 and FDA indirect food contact standards. For bakery, tea, chocolate, and dry food applications, our kraft boxes are fully food-safe when used without additional inner liners. For moist or greasy foods, we recommend a grease-resistant kraft liner (available as an add-on) or a PLA bio-film inner bag. Always specify "food-grade" when requesting samples to ensure the correct material path.
+
+## Related Products
+
+- [Brown Kraft Paper Folding Box with Jute Handle - Eco Retail Packaging](/products/detail/brown-kraft-paper-folding-box-with-jute-handle-eco-retail-packaging/)
+- [Natural Kraft Paper Gift Box with Jute Ribbon - Eco-Friendly](/products/detail/natural-kraft-paper-gift-box-with-jute-ribbon-eco-friendly/)
+- [Kraft Paper Gift Box with Hemp Rope Handle - Soy Ink Printed](/products/detail/kraft-paper-gift-box-hemp-rope-handle-soy-ink/)
+- [Recycled Kraft Paper Gift Box - 100% Biodegradable with Soy Ink](/products/detail/recycled-kraft-paper-gift-box-with-soy-ink-printing-100-biodegradable/)
