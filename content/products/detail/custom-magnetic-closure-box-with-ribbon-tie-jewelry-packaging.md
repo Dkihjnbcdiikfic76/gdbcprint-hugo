@@ -50,7 +50,7 @@ An elegant magnetic closure box with a satin ribbon tie — the signature packag
 - **Foil Stamping**: Bobst SP 102 BMA with multi-zone temperature control, ±0.15mm registration, up to 6,000 sheets/hour
 - **Velvet Flocking**: Electrostatic flocking at 1.0–1.5mm nylon fiber length, ≥95% coverage density, 12+ color options
 - **Assembly**: Automatic rigid box line — corner taping, wrapping, magnet insertion, ribbon placement; manual interior finishing station
-- **Daily Output**: 200,000+ rigid boxes, including magnetic closure and ribbon tie variants
+- **Daily Output**: 220,000+ rigid boxes, including magnetic closure and ribbon tie variants
 - **Lead Time**: 10–15 working days new tooling; 7–10 days repeat orders
 
 ## Quality Assurance
