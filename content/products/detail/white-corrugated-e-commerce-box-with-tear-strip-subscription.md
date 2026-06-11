@@ -95,6 +95,27 @@ All constructions pre-tested to Amazon FBA packaging requirements (ISTA 6-Amazon
 Phone: +86-18934352881 (Mr. Zhou) | Email: qo82@icloud.com  
 MOQ 500 units. FBA-compliant sizing available. Response within 24 hours. Factory visits welcome at No.6-7 Shunyuan North Rd, Wusha, Daliang, Shunde, Foshan, Guangdong.
 
+## FAQ
+
+**Q: What flute type should I choose for my e-commerce subscription box?**  
+A: E-flute (1.2mm) is the standard for subscription boxes and cosmetics — it provides a fine print surface for full-color CMYK offset designs while maintaining adequate crush protection. B-flute (2.5mm) is better for heavier items like books, apparel bundles, or multi-product kits. For fragile or high-value items, BC-flute (6.0mm) offers heavy-duty protection. F-flute (0.8mm micro-flute) is ideal for luxury or jewelry subscription boxes where an ultra-fine print surface is needed. Bincai offers all four flute types with in-house corrugators at our 18,000 sqm Foshan campus.
+
+**Q: Are Bincai's corrugated mailers compliant with Amazon FBA requirements?**  
+A: Yes. All corrugated constructions are pre-tested to Amazon FBA packaging requirements including ISTA 6-Amazon.com-SIOC when specified. Edge Crush Test (ECT) ratings range from 26–71 lb/in depending on flute type — exceeding standard FBA minimums. Box Compression Test (BCT) values are verified per TAPPI T-804. We dimension boxes to optimize for FBA tier placement (small standard through large oversize) to minimize your fulfillment fees. Self-sealing latex strips and tear strips are FBA-compliant and eliminate the need for additional tape or void fill.
+
+**Q: What is the minimum order quantity for custom-printed corrugated boxes?**  
+A: MOQ is 500 units for standard configurations with single-color flexo printing. Multi-color CMYK offset printing on white-top liners requires 1000+ units. Custom die-cut shapes, dual tear strips, and specialty coatings (anti-scuff, soft-touch) also start at 1000 units. Trial/sample orders of 50-100 units are available for quality evaluation. Lead time is 10-15 working days for new tooling, 5-7 days for repeat orders.
+
+**Q: How does the tear strip work, and is it reliable for customer unboxing?**  
+A: The tear strip is an integrated PET tape or perforated line that runs along the box perimeter — the end user pulls the exposed tab and the strip cleanly separates, opening the box without tools or tearing the package. Initiation force is calibrated to ≤4.5N for ease of use. Every batch undergoes tear strip function testing: clean separation along the full length with no tearing of the corrugated liner. Dual tear strip configurations are available for tamper-evident applications.
+
+## Related Products
+
+- [Printed Corrugated Box with Custom Logo Mailer Packaging](/products/detail/printed-corrugated-box-custom-logo-mailer-packaging/) — Full-color CMYK printed corrugated box for brand-forward DTC shipping
+- [Single-Wall Corrugated Shipping Box with Tear Strip](/products/detail/single-wall-corrugated-shipping-box-with-tear-strip/) — Lightweight single-wall corrugated with integrated tear strip for e-commerce
+- [Tri-Wall Corrugated Heavy-Duty Shipping Box for Pallet Export](/products/detail/tri-wall-corrugated-heavy-duty-shipping-box-pallet-export/) — Triple-wall construction for international freight and palletized shipments
+- [White Corrugated Shipping Box for Cosmetic & Apparel Delivery](/products/detail/white-corrugated-shipping-box-for-cosmetic-apparel-delivery/) — Clean white corrugated with tear strip for fashion and beauty DTC brands
+
 ## Why Choose Bincai
 
 | Feature | Detail |

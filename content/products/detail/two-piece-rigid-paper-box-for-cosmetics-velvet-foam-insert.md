@@ -68,6 +68,27 @@ Two-piece rigid boxes with foam inserts provide the ultimate protection and pres
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Factory visits welcome anytime.
 
+## FAQ
+
+**Q: What is the MOQ for custom two-piece rigid boxes with foam inserts?**  
+A: Minimum order quantity is 500 units for standard configurations (single cavity, one-color printing). Complex multi-cavity die-cut foam inserts, multi-color printing, and specialty finishes (hot foil, embossing, spot UV) require 1000+ units. Trial orders of 100-200 units are accepted for sampling purposes. Bincai's foam die-cutting uses CNC knife cutting with ±0.2mm tolerance for precise cavity fit.
+
+**Q: What materials are used for the velvet lining and foam insert?**  
+A: Interior lining options include polyester velvet flocking (0.8–1.5mm pile height), premium suede microfiber, satin (polyester or silk blend), and brushed nylon. Foam inserts are die-cut EVA foam, PU foam, or flocked foam in any cavity configuration. All adhesives are water-based or hot-melt with temperature-controlled lamination — wrinkle-free guarantee on all visible surfaces. Accelerated aging tests (72h at 57°C / 95% RH) confirm no peeling, bubbling, or delamination.
+
+**Q: Are Bincai's rigid boxes suitable for international shipping and retail display?**  
+A: Yes. All rigid boxes undergo ISTA 1A transit testing (76cm free-fall, 6 faces, 3 edges, 1 corner). Double-ply greyboard lamination (1200–1800gsm) provides structural integrity for intercontinental freight. Boxes are flat-ship capable (lid + base nested) to reduce volume. For retail display, we recommend matte or soft-touch lamination with spot UV accents — the contrast creates shelf appeal under store lighting. ISO 9001:2015 certified quality management ensures batch-to-batch consistency.
+
+**Q: What customization options are available for cosmetics branding?**  
+A: Full customization across every element: outer wrapping (128–200gsm art paper in 8 finishes including soft-touch, linen, pearlescent, and metallic), printing (CMYK + 7 PMS spot colors with Heidelberg 7+1 UV), foil stamping (gold, silver, rose gold, copper, holographic), embossing/debossing, spot UV (gloss-on-matte for brand logo emphasis), edge gilding, magnetic closure, satin ribbon pull-tab, foil-stamped interior logo, and printed insert cards. Lead time is 10–15 working days for new orders, 5–7 days for repeats.
+
+## Related Products
+
+- [Two-Piece Rigid Setup Box with Foam Insert for Electronics](/products/detail/two-piece-rigid-setup-box-foam-insert-electronics-premium-packaging/) — Precision die-cut foam for tech accessories and gadgets
+- [Square Rigid Gift Box with Magnetic Lid and Matte Lamination](/products/detail/square-rigid-gift-box-magnetic-lid-matte-lamination-custom/) — Clean modern aesthetic with concealed magnetic closure
+- [Rigid Paper Box with Magnetic Lid for Tech Accessories](/products/detail/rigid-paper-box-with-magnetic-lid-tech-accessories-gadget-gift-set/) — Magnetic closure rigid box for premium electronics and gifts
+- [Rigid Paper Box with Silver Hot Stamping for Corporate Gifts](/products/detail/rigid-paper-box-with-silver-hot-stamping-for-corporate-gifts/) — Elegant silver-stamped rigid box for executive gifting
+
 ## Why Choose Bincai
 
 | Feature | Detail |
