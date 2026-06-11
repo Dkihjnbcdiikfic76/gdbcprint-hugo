@@ -103,7 +103,7 @@ A: Full customization includes: size (custom H×W×D), flute grade (AAA/AA/A), h
 - [Corrugated Mailer Book Wrap Shipper with Self-Seal Closure](/products/detail/corrugated-mailer-book-wrap-shipper/) — protective book and media mailer with self-seal adhesive
 - [White Corrugated E-Commerce Box with Tear Strip for Subscription Delivery](/products/detail/white-corrugated-e-commerce-box-with-tear-strip-subscription/) — clean white finish subscription box with easy-open tear strip
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

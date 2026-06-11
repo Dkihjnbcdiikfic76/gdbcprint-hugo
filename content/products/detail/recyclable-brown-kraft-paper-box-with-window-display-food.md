@@ -90,7 +90,7 @@ Window kraft boxes give consumers the transparency they demand while meeting the
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Factory visits welcome.
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

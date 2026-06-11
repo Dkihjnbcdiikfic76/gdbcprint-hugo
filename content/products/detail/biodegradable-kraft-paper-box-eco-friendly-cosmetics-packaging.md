@@ -85,7 +85,7 @@ A: Kraft folding cartons ship flat — 80–90% volume reduction versus pre-asse
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Factory visits welcome. Send us your cosmetics line dimensions for a custom-fit eco packaging solution.
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

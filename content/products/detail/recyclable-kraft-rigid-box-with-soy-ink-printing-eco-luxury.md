@@ -91,7 +91,7 @@ A: FSC Chain-of-Custody, ISO 9001:2015, EN 13432 compostability certification, A
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Ask about our eco-packaging audit program.
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

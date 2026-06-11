@@ -73,7 +73,7 @@ FSC certified kraft paper box with clear PET window for food packaging — desig
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Factory visits welcome. FSC certificate available on request.
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

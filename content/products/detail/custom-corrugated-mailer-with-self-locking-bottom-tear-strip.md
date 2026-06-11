@@ -82,7 +82,7 @@ A: E-flute (1.2mm) for lightweight items under 2kg and crisp printing. B-flute (
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Factory visits welcome.
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

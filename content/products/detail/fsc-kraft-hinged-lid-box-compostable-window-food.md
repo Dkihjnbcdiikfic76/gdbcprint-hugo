@@ -97,7 +97,7 @@ FSC-certified kraft paper hinged-lid box with compostable PLA window film for fo
 
 **Guangdong Bincai Color Printing Co., Ltd.** — 22 years. 10,000 sqm. ISO 9001 & FSC certified. Sustainable packaging that returns to the earth.
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

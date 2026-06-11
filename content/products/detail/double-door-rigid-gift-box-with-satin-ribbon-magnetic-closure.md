@@ -87,7 +87,7 @@ The double-door design creates a dramatic reveal that elevates brand perception 
 - **Factory Address:** Bincai Industrial Park, Nanhai District, Foshan City, Guangdong Province, China
 - **Website:** www.gdbcprint.com
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

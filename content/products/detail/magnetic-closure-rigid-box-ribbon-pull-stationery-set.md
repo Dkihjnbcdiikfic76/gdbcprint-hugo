@@ -61,7 +61,7 @@ Sophisticated magnetic closure rigid box with satin ribbon pull tab — thoughtf
 - KBA 1050 4-color + Heidelberg 7+1 UV + Bobst foil stamping + automatic rigid box line
 - Daily capacity: 1.7 million color boxes + 220,000+ rigid gift boxes
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

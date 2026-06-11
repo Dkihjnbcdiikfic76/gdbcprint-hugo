@@ -47,7 +47,8 @@
 <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:16px;">
 {{ range .Pages }}
 <div class="card">
-<div style="padding:24px;">
+<img src="{{ with .Params.image }}{{ . }}{{ else }}/images/hero-banner-wide.jpg{{ end }}" alt="{{ .Title }}" style="width:100%;aspect-ratio:1.8;object-fit:cover;" loading="lazy" decoding="async">
+<div style="padding:20px;">
 <h3 style="font-size:16px;font-weight:600;margin-bottom:8px;"><a href="{{ .RelPermalink }}" style="color:#1d1d1f;">{{ .Title }}</a></h3>
 {{ with .Description }}<p style="font-size:13px;color:#888;line-height:1.5;">{{ . }}</p>{{ end }}
 <a href="{{ .RelPermalink }}" style="display:inline-block;margin-top:12px;font-size:13px;font-weight:600;color:#1a56db;">Learn More →</a>

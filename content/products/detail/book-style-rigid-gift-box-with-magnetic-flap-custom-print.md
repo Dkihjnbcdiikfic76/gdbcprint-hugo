@@ -82,7 +82,7 @@ A: 10–15 working days for new tooling, 7–10 days for repeat orders. Pre-prod
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Factory visits welcome.
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

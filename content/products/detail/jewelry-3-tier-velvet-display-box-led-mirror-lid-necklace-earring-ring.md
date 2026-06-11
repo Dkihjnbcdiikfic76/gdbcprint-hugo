@@ -112,7 +112,7 @@ A: Standard production lead time is 18-22 days for existing tooling and stock ma
 
 MOQ 500 units. Velvet color swatches, LED brightness demo video, and mirror finish samples available. Sample within 7 days. Lead time 18-27 days. Phone: +86-18934352881. Email: qo82@icloud.com.
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

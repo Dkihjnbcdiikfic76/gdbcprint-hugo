@@ -60,7 +60,7 @@ Kraft paper folding boxes communicate natural, organic, and sustainable brand va
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Factory visits welcome.
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

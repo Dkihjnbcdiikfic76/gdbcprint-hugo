@@ -76,7 +76,7 @@ Hang-tab folding cartons maximize retail space utilization while keeping your br
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Factory visits welcome anytime.
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

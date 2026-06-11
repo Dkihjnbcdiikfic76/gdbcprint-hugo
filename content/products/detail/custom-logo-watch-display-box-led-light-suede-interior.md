@@ -85,7 +85,7 @@ Luxury custom logo watch display box with integrated LED light and premium suede
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Factory visits welcome.
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

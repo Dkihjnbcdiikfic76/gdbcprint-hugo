@@ -69,7 +69,7 @@ Custom logo corrugated mailer box engineered for subscription box brands that de
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Send your subscription box specs for a custom sample. Factory visits welcome.
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

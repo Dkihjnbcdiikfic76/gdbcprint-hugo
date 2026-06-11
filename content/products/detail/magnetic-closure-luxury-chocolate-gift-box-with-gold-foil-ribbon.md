@@ -87,7 +87,7 @@ A: Standard MOQ is 500 units for fully custom boxes with branded printing, foil 
 ## Contact
 [Request free quote →](/contact/) — response within 24 hours. Factory visits welcome at our 18,000 sqm Foshan facility.
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

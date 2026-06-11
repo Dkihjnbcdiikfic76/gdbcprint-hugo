@@ -60,7 +60,7 @@ Double-wall corrugated mailer box with integrated self-sealing tear strip — ma
 
 ## Contact
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

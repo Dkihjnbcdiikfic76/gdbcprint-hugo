@@ -75,7 +75,7 @@ Double-wall heavy-duty corrugated shipping box engineered for glassware, ceramic
 - **3-7 day sample turnaround** for new custom configurations — pre-production samples with your exact materials
 - **Foshan location advantage**: Adjacent to major container ports (Guangzhou Nansha, Shenzhen Yantian) for efficient FOB shipping
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

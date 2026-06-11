@@ -89,7 +89,7 @@ Custom corrugated mailer box with integrated bubble lining for glassware and fra
 
 **Guangdong Bincai Color Printing Co., Ltd.** — 22 years. 10,000 sqm. ISO 9001 & FSC certified. Protective packaging engineered for fragile confidence.
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

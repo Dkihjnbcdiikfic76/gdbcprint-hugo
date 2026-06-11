@@ -68,7 +68,7 @@ Premium magnetic rigid gift box for luxury perfume packaging — manufactured by
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Factory visits welcome.
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

@@ -25,7 +25,7 @@ Premium custom luxury watch case rigid paper box with pillow insert magnetic clo
 
 [Request free quote →](/contact/)
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

@@ -68,7 +68,7 @@ The FSC-certified kraft tray box with soy-based ink is purpose-built for food br
 | **ISO 9001:2015** | Quality management system certified since 2010 |
 | **BSCI** | Social compliance audited — ethical labor practices throughout supply chain |
 
-## Why Choose Bincai
+## Why Bincai
 
 - **22 Years of Sustainable Packaging Leadership** — producing eco-friendly packaging since 2003, long before sustainability became a market requirement
 - **Dedicated Food-Grade Facility** — separate production zone with ISO Class 8 cleanroom standards, not shared with industrial packaging lines

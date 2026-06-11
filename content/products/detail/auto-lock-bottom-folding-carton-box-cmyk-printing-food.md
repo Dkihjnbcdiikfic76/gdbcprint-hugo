@@ -61,7 +61,7 @@ Auto-lock bottom folding carton box with full-color CMYK offset printing for foo
 
 ## Contact
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

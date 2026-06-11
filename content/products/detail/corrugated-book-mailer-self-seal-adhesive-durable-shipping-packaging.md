@@ -85,7 +85,7 @@ A: Yes. Flexo printing (1-3 colors) directly on kraft is the most economical opt
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Factory visits welcome.
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

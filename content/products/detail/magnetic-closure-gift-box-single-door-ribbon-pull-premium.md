@@ -58,7 +58,7 @@ The single-door magnetic closure gift box with ribbon pull elevates the unboxing
 - **Factory**: 10,000 sqm + 8,000 sqm smart factory, 8 production lines, 220,000+ rigid boxes daily
 - **Lead Time**: 7-10 days sample, 18-22 days mass production
 
-## Why Choose Bincai
+## Why Bincai
 
 - **22 Years Rigid Box Mastery** — producing luxury rigid boxes before the category existed as a distinct market segment
 - **Magnet Engineering** — in-house magnet specification and testing ensures consistent closure feel across production runs

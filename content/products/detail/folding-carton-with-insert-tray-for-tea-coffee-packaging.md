@@ -83,7 +83,7 @@ Our custom folding carton with insert tray is purpose-built for tea and coffee p
 - **Lead Time:** 10–15 business days for bulk production
 - **Inquiry:** Contact us with your product dimensions, insert layout requirements, and artwork specifications for a custom quotation.
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

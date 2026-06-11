@@ -69,7 +69,7 @@ Luxury rigid paper box with silver hot foil stamping designed for premium corpor
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Factory visits welcome. Send us your corporate gift specifications for a custom silver-foil sample.
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

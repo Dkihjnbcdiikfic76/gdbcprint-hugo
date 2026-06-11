@@ -69,7 +69,7 @@ Eco kraft paper rigid box with embossing and soy-based ink — manufactured by G
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Factory visits welcome.
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

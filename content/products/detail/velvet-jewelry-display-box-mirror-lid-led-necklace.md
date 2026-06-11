@@ -126,19 +126,4 @@ A: Standard configurations start at 500 units. For custom LED color temperature,
 **Q: Are these jewelry boxes suitable for international shipping?**
 A: Absolutely. The box passes ISTA 1A drop testing — 10 drops from 760mm with no mirror crack, LED damage, or magnet disengagement. The rigid 1200-1600gsm greyboard construction and custom die-cut insert keep the jewelry secure during transit. We ship worldwide from Foshan/Shenzhen via DHL, FedEx, UPS, or sea freight with branded outer cartons and jewelry-safe void fill.
 
-## Why Choose Bincai
-
-| Feature | Detail |
-|---------|--------|
-| Experience | 22 years since 2003 |
-| Factory | 10,000m² with KBA & Heidelberg presses |
-| Quality | ISO 9001:2015 certified |
-| Eco | FSC certified sustainable materials |
-| Capacity | 1.7M+ color boxes + 220K+ gift boxes daily |
-| Clients | 200+ brands across 50+ countries |
-| Custom | Any size, color, finish, insert |
-| MOQ | 500-1000 pcs, trial orders accepted |
-| Free Sample | Free pre-production sample (freight collect) |
-| Shipping | Worldwide DHL/FedEx/UPS/Sea |
-
 [Request your free quote →](/contact/)

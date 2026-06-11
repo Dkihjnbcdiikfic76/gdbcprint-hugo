@@ -70,7 +70,7 @@ Premium white corrugated shipping box engineered for cosmetic and apparel e-comm
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Factory visits welcome. Send us your product dimensions and shipping requirements for an ISTA-tested sample.
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

@@ -106,7 +106,7 @@ A: Our mycelium packaging is certified to EN 13432 (European standard for indust
 
 MOQ 500 units. Mycelium texture samples, density swatches, and compostability certificates available. Sample within 7 days (growth cycle). Lead time 18-25 days. Phone: +86-18934352881. Email: qo82@icloud.com.
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

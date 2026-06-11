@@ -108,7 +108,7 @@ A: Standard lead time is 15-20 days for existing materials and tooling. Custom-d
 
 MOQ 500 units. Satin swatches, foam density samples, and magnet strength demo available. Sample within 5 days. Lead time 15-25 days. Phone: +86-18934352881. Email: qo82@icloud.com.
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

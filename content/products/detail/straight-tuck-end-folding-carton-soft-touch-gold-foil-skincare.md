@@ -98,7 +98,7 @@ A: Yes. Our Bobst BMA foil stampers can register hot foil with embossing in a si
 - [Custom Folding Carton with Die-Cut Handle and Full-Flap Lid](/products/detail/custom-folding-carton-full-flap-lid-insert-apparel/) — premium apparel box with integrated handle
 - [Straight Tuck End Folding Carton with Matte Lamination](/products/detail/straight-tuck-end-folding-carton-box-with-matte-lamination/) — clean matte finish for minimalist retail packaging
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

@@ -83,7 +83,7 @@ A: Bincai is ISO 9001:2015 certified for quality management and FSC Chain-of-Cus
 - [Custom Jewelry Paper Box with Foam Insert Bracelet Display](/products/detail/custom-jewelry-paper-box-with-foam-insert-bracelet-display/) — Foam-lined jewelry box with die-cut cavities
 - [Velvet Jewelry Display Box with Mirror Lid and LED](/products/detail/velvet-jewelry-display-box-mirror-lid-led-necklace/) — Premium display box with mirror and LED lighting
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

@@ -70,7 +70,7 @@ Luxury watch and jewelry rigid paper box with magnetic flap closure — the defi
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Factory visits welcome. Send us your watch dimensions for a precision-fit custom sample.
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

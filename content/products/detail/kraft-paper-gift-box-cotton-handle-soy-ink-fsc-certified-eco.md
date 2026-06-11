@@ -99,7 +99,7 @@ The Bincai Kraft Paper Gift Box with Cotton Handle and Soy Ink Printing offers a
 - **Phone**: +86-18934352881 (Mr. Zhou)
 - **Email**: qo82@icloud.com
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

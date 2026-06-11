@@ -82,7 +82,7 @@ A: All auto-bottom folding cartons ship flat (knocked down) for maximum transpor
 [Request free quote](/contact/) — response within 24 hours. Factory visits welcome.
 <!-- test comment -->
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

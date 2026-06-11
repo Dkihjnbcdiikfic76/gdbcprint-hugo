@@ -89,7 +89,7 @@ A: Full customization across every element: outer wrapping (128–200gsm art pap
 - [Rigid Paper Box with Magnetic Lid for Tech Accessories](/products/detail/rigid-paper-box-with-magnetic-lid-tech-accessories-gadget-gift-set/) — Magnetic closure rigid box for premium electronics and gifts
 - [Rigid Paper Box with Silver Hot Stamping for Corporate Gifts](/products/detail/rigid-paper-box-with-silver-hot-stamping-for-corporate-gifts/) — Elegant silver-stamped rigid box for executive gifting
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

@@ -106,7 +106,7 @@ A: Standard production lead time is 15-20 days for existing tooling and stock ma
 
 MOQ 500 units. Material swatches (art paper, leatherette, flocking colors) and foil samples available. Sample within 5 days. Lead time 15-25 days. Phone: +86-18934352881. Email: qo82@icloud.com.
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

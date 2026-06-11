@@ -25,7 +25,7 @@ Premium custom recycled kraft paper gift box with soy ink printing 100 biodegrad
 
 [Request free quote →](/contact/)
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

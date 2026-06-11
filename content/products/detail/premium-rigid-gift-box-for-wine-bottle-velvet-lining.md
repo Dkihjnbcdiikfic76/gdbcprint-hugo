@@ -116,7 +116,7 @@ A: Yes. FSC-certified greyboard, recycled-content board, water-based adhesives, 
 
 **Guangdong Bincai Color Printing Co., Ltd.** — Your premium wine packaging partner since 2003. ISO 9001 & FSC certified.
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

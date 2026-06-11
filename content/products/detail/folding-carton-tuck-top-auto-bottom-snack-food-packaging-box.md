@@ -84,7 +84,7 @@ A: Yes. Options include a tear-strip with adhesive reseal strip, a press-to-clos
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Factory visits welcome.
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

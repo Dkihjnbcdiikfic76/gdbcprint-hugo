@@ -60,7 +60,7 @@ Custom folding carton box with CMYK offset printing for retail packaging — man
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Factory visits welcome.
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

@@ -63,7 +63,7 @@ Luxury magnetic closure rigid gift box with custom logo hot foil stamping — cr
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Factory visits welcome. Send your design file for a custom sample.
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

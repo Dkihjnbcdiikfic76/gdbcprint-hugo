@@ -71,7 +71,7 @@ Our magnetic-closure velvet ring boxes serve diverse jewelry retail and gifting 
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Factory visits welcome. Send us your ring dimensions for a custom-fit sample.
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

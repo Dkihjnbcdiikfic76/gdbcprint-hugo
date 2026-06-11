@@ -85,7 +85,7 @@ A: The sleeve-tray fit is precision-engineered with controlled friction. For shi
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Factory visits welcome.
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

@@ -57,7 +57,7 @@ The pillow-shaped folding carton with its signature curved silhouette brings scu
 - **QC Protocol**: Color ΔE < 2.0 (ISO 12647-2), glue bond > 4.5N/cm peel strength, dimensional tolerance ±0.5mm
 - **Lead Time**: 5-7 days sample, 12-15 days mass production
 
-## Why Choose Bincai
+## Why Bincai
 
 - **Heidelberg 7+1 UV Technology** — one of only a handful of factories in the Pearl River Delta operating this press configuration, enabling CMYK + spot + coating + foil in a single pass
 - **22 Years of Luxury Packaging** — serving cosmetic, jewelry, and premium spirits brands since 2003

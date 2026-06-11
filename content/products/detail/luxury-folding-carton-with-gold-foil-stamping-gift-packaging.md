@@ -66,7 +66,7 @@ Gold foil stamped folding cartons deliver premium tactile and visual impact for 
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Factory visits welcome.
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

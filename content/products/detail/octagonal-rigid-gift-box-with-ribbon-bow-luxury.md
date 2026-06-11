@@ -59,7 +59,7 @@ The octagonal (8-sided) rigid gift box breaks free from the rectangular box para
 - **Daily Output**: 220,000+ rigid boxes across all production lines
 - **Lead Time**: 10-12 days sample (complex geometry), 20-25 days mass production
 
-## Why Choose Bincai
+## Why Bincai
 
 - **22 Years Complex Geometry Expertise** — octagonal, hexagonal, triangular, and custom-shaped rigid boxes are our specialty, not an afterthought
 - **Artisan Hand-Finishing** — 80+ skilled craftspeople with average 8+ years of rigid box experience

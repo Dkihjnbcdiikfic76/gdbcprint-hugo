@@ -83,7 +83,7 @@ A: Yes. We offer one-off pre-production samples with full finishing (your artwor
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Factory visits welcome.
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

@@ -25,7 +25,7 @@ Premium custom velvet jewelry travel pouch box with zipper closure compact porta
 
 [Request free quote →](/contact/)
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

@@ -91,7 +91,7 @@ Custom bracelet gift box with magnetic flap closure — manufactured by Guangdon
 
 **Guangdong Bincai Color Printing Co., Ltd.** — 22 years. 10,000 sqm. ISO 9001 & FSC certified. Jewelry packaging that elevates your brand.
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

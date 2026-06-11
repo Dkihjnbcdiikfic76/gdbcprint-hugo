@@ -85,7 +85,7 @@ A: Our card boxes are engineered for durability. 300–400 gsm paperboard with m
 ## Contact
 [Request free quote →](/contact/) — response within 24 hours. Factory visits welcome in Foshan, Guangdong.
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

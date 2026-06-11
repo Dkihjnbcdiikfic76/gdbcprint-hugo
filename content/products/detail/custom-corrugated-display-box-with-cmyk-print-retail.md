@@ -62,7 +62,7 @@ Professional custom corrugated display box with CMYK offset printing for retail 
 | Print Color | ISO 12647-2 | ΔE ≤ 2.0 |
 | Glue Bond | Internal | ≥ 2.5 N/cm², 48h cure verification |
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---|---|

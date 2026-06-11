@@ -85,7 +85,7 @@ A: Our telescopic fit is precision-engineered with 0.5–1.0mm clearance between
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Factory visits welcome.
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

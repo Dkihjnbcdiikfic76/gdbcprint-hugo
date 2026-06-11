@@ -25,7 +25,7 @@ Premium custom custom jewelry display box with led lighting velvet interior neck
 
 [Request free quote →](/contact/)
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

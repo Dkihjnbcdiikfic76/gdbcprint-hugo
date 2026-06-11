@@ -91,7 +91,7 @@ Every jewelry box passes through this QC gate system:
 
 Contact: +86-18934352881 or qo82@icloud.com for a free sample kit and quotation.
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

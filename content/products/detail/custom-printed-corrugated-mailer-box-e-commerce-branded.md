@@ -63,7 +63,7 @@ Custom printed corrugated mailer box for e-commerce branding — manufactured by
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Factory visits welcome.
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

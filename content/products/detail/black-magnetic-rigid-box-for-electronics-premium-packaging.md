@@ -62,7 +62,7 @@ Black magnetic rigid box for electronics premium packaging — manufactured by G
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Factory visits welcome.
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

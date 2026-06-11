@@ -93,7 +93,7 @@ The integrated perforated tear strip eliminates the need for knives or scissors 
 ## Contact
 [Request free quote →](/contact/) — Response within 24 hours. Factory visits welcome. +86-18934352881 or qo82@icloud.com.
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

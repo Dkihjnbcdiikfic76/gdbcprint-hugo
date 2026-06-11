@@ -65,7 +65,7 @@ Single-door magnetic boxes with ribbon tie add ceremony to the unboxing experien
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Factory visits welcome.
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

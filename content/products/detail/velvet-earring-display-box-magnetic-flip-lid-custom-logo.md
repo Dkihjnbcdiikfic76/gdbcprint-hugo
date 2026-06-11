@@ -65,7 +65,7 @@ Custom velvet earring display box with magnetic flip lid — the go-to packaging
 ## Contact
 [Request free quote](/contact/) — response within 24 hours.
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

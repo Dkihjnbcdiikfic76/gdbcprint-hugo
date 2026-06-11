@@ -56,7 +56,7 @@ The heavy-duty corrugated mailer with pinch-bottom self-sealing closure is engin
 - **Lead Time**: 7-10 days sample, 15-20 days mass production (30,000+ units)
 - **Certifications**: ISO 9001:2015, FSC Chain-of-Custody, BSCI social compliance
 
-## Why Choose Bincai
+## Why Bincai
 
 - **22 Years Manufacturing Excellence** — founded 2003, serving 200+ international brands
 - **Triple-Wall Expertise** — dedicated corrugated production line with in-house flute lamination

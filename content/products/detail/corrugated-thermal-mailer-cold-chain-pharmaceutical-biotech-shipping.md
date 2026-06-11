@@ -110,7 +110,7 @@ A: Standard lead time is 15-20 days for existing validated configurations and st
 
 MOQ 500 units. ISTA 7D thermal validation reports, liner samples, and gel-pack configuration guides available. Sample within 5 days. Lead time 15-40 days (depending on validation requirements). Phone: +86-18934352881. Email: qo82@icloud.com.
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

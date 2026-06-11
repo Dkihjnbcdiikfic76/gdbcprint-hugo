@@ -65,7 +65,7 @@ Custom printed magnetic closure paper box for retail display — manufactured by
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Factory visits welcome.
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

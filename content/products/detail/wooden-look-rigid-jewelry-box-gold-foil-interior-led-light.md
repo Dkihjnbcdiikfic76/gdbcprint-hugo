@@ -65,7 +65,7 @@ Premium woodgrain-texture rigid jewelry box with gold foil interior and integrat
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Factory visits welcome.
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

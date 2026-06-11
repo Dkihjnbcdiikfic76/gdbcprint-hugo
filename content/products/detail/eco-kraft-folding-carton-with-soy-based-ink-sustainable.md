@@ -76,7 +76,7 @@ Eco kraft folding carton with soy-based ink — a fully sustainable retail packa
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. FSC and soy-ink certifications available. Factory visits welcome.
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

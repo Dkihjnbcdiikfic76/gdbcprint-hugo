@@ -64,7 +64,7 @@ Custom toy packaging box with window display in corrugated board by Guangdong Bi
 | Ink Migration | EN 71-3 | Heavy metals < 1 ppm |
 | Assembly | AQL 2.5 (ISO 2859-1) | 100% visual for window clarity |
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---|---|

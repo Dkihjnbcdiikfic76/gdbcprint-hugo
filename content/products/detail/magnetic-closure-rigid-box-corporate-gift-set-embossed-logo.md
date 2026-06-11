@@ -81,7 +81,7 @@ Custom magnetic closure rigid box for corporate gift sets — engineered by Guan
 
 [Request free quote & samples →](/contact/) — Response within 24 hours. Factory visits welcome in Foshan, Guangdong.
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

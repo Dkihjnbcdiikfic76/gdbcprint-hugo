@@ -75,7 +75,7 @@ Double layer jewelry gift box with pull-out drawer for rings, bracelets, and ear
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Free samples available. Factory visits welcome.
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

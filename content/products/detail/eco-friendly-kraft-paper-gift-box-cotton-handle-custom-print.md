@@ -77,7 +77,7 @@ Eco-friendly kraft paper gift box with natural cotton rope handle and custom pri
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Factory visits welcome.
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

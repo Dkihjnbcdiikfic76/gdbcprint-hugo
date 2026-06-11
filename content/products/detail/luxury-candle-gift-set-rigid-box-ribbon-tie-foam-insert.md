@@ -60,7 +60,7 @@ Luxury candle gift set rigid box with ribbon tie closure and custom foam insert 
 - Free design proofing and 3D mockup service before production
 - 7-15 day sample turnaround for custom configurations
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

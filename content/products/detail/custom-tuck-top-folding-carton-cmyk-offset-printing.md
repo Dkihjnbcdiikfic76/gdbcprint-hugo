@@ -68,7 +68,7 @@ Premium custom tuck top folding carton with full CMYK offset printing — manufa
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Factory visits welcome.
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

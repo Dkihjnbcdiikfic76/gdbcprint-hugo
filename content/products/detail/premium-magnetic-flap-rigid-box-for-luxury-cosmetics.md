@@ -68,7 +68,7 @@ Premium magnetic flap rigid box for luxury cosmetics and skincare — manufactur
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Factory visits welcome.
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

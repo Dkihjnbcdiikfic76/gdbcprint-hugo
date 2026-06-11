@@ -57,7 +57,7 @@ This box is part of Bincai's Green Packaging Line — FSC-certified kraft paperb
 
 **Guangdong Bincai Color Printing Co., Ltd.** — 22 years. 10,000 sqm. ISO 9001 & FSC certified. Sustainable packaging made beautifully.
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

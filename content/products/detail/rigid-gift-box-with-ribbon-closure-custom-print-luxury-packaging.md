@@ -85,7 +85,7 @@ A: Yes, we produce ribbon-tie boxes in open-top and two-piece telescopic lid con
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Factory visits welcome.
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

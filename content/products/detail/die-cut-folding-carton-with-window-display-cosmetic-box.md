@@ -92,7 +92,7 @@ Custom die-cut folding carton with transparent window display for cosmetics, ski
 
 **Guangdong Bincai Color Printing Co., Ltd.** — Your beauty packaging manufacturing partner. 22 years. 10,000 sqm. ISO 9001 & FSC certified. Packaging that sells your product.
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

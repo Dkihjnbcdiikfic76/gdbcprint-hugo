@@ -103,7 +103,7 @@ A: Yes. We use **soy-based or low-VOC offset inks** that meet EN 71-3 and CONEG 
 - [Sleeve-Style Folding Carton for Premium Confectionery](/products/detail/sleeve-style-folding-carton-premium-chocolate-confectionery/) — sleeve-and-tray structure with window display, easily adapted for toy gift sets
 - [Folding Carton Pillow Box with Curved Design](/products/detail/folding-carton-pillow-box-curved-design-luxury-gift/) — unique curved pillow box format perfect for small toy gifts, party favors, and blind-box collectibles
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---|---|

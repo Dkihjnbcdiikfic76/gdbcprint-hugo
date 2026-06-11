@@ -102,7 +102,7 @@ Every corrugated pizza box is tailored to your brand identity and operational re
 
 Contact +86-18934352881 or qo82@icloud.com for custom pizza box design and samples.
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

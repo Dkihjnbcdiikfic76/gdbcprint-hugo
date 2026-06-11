@@ -102,7 +102,7 @@ Captivating jewelry ring display box with integrated LED spotlight and luxurious
 - **Phone**: +86-18934352881 (Mr. Zhou)
 - **Email**: qo82@icloud.com
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

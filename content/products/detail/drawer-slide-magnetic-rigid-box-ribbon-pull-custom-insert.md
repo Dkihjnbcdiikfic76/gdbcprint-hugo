@@ -67,7 +67,7 @@ Luxury drawer-slide magnetic rigid box with satin ribbon pull-tab and custom die
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Factory visits welcome.
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

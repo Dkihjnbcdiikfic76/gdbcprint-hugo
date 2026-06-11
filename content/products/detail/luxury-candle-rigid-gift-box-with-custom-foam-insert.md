@@ -83,7 +83,7 @@ A: Yes. All greyboard and art paper are FSC Chain-of-Custody certified. Soy-base
 - [Drawer Slide Magnetic Rigid Box with Ribbon Pull](/products/detail/drawer-slide-magnetic-rigid-box-ribbon-pull-custom-insert/) — Drawer-style rigid box for premium product reveals
 - [Eco Kraft Paper Rigid Box with Embossing and Soy-Based Ink](/products/detail/eco-kraft-paper-rigid-box-with-embossing-soy-based-ink/) — Sustainable rigid box option for eco-conscious brands
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

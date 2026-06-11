@@ -65,7 +65,7 @@ Our candle boxes undergo 6-stage QC at Bincai's 18,000 sqm facility:
 5. **Assembly**: AQL 2.5 sampling per ISO 2859-1, gap tolerance ±1mm
 6. **Pre-Shipment**: ISTA 1A drop test, humidity chamber 48h, 100% visual
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---|---|

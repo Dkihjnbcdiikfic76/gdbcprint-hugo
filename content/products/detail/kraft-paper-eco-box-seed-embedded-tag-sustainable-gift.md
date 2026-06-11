@@ -68,7 +68,7 @@ Earth-conscious kraft paper eco gift box with a plantable seed-embedded hang tag
 - KBA 1050 4-color + Heidelberg 7+1 UV + Bobst die-cutting + automatic folding-gluing
 - Daily capacity: 1.7 million color boxes + 220,000+ kraft eco boxes
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

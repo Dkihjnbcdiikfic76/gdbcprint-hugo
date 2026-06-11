@@ -75,7 +75,7 @@ Watch display boxes with velvet pillows serve as the critical first touchpoint b
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Factory visits welcome anytime.
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

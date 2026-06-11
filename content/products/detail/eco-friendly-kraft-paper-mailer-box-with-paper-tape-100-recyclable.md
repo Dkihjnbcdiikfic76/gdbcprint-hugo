@@ -74,7 +74,7 @@ Eco-friendly kraft paper mailer box with paper tape closure — 100% recyclable,
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Free samples available. Factory visits welcome.
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

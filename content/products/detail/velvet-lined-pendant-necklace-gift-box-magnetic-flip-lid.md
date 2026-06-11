@@ -104,19 +104,25 @@ Premium velvet-lined pendant necklace gift box with magnetic flip lid, manufactu
 
 MOQ from 500 units. Free pre-production samples (freight collect). Lead time: 12-18 working days. Custom inserts, sizes, and finishes available. Phone: +86-18934352881. Email: qo82@icloud.com. Factory: No.6-7 Shunyuan North Rd, Wusha, Daliang, Shunde, Foshan, Guangdong, China.
 
-## Why Choose Bincai
+## FAQ
 
-| Feature | Detail |
-|---------|--------|
-| Experience | 22 years since 2003 |
-| Factory | 10,000m² with KBA & Heidelberg presses |
-| Quality | ISO 9001:2015 certified |
-| Eco | FSC certified sustainable materials |
-| Capacity | 1.7M+ color boxes + 220K+ gift boxes daily |
-| Clients | 200+ brands across 50+ countries |
-| Custom | Any size, color, finish, insert |
-| MOQ | 500-1000 pcs, trial orders accepted |
-| Free Sample | Free pre-production sample (freight collect) |
-| Shipping | Worldwide DHL/FedEx/UPS/Sea |
+**Q: What is the MOQ for velvet-lined jewelry boxes with magnetic flip lids?**
+A: MOQ is 500-1,000 units per design. Bincai offers free pre-production samples within 3-5 working days. Trial orders welcomed for new client relationships.
+
+**Q: Can the interior insert be customized for different jewelry types?**
+A: Yes — we offer single pendant slots, multi-necklace trays, ring+necklace combo inserts, bracelet+earring trays, and watch cushion combinations. Die-cut EVA foam, velvet-covered cardboard, flocked plastic, or satin-covered inserts available. All inserts are made in-house with custom tooling.
+
+**Q: What velvet colors and foil options are available?**
+A: Velvet interior in black, navy, burgundy, cream, or custom Pantone-matched colors. Hot foil stamping available in gold, silver, rose gold, copper, holographic, matte gold, and matte silver with ±0.2mm registration accuracy on our Bobst BMA foil stampers.
+
+**Q: Are your materials certified for sustainable jewelry packaging?**
+A: Yes. Bincai is ISO 9001:2015 and FSC Chain-of-Custody certified. All greyboard contains 100% recycled fiber. FSC-certified virgin paper and soy-based inks available upon request. Our 18,000 sqm facility includes 10,000 sqm main factory plus 8,000 sqm smart factory expansion (2025).
+
+## Related Products
+
+- [Premium Magnetic Rigid Gift Box for Luxury Perfume Packaging](/products/detail/premium-magnetic-rigid-gift-box-for-luxury-perfume-packaging/) — magnetic closure with velvet interior for luxury cosmetics and fragrance
+- [Square Rigid Gift Box with Magnetic Lid Matte Lamination](/products/detail/square-rigid-gift-box-magnetic-lid-matte-lamination-custom/) — custom-printed magnetic closure rigid box with soft-touch finish
+- [Custom Paper Jewelry Box with Foam Insert Velvet Lining](/products/detail/custom-paper-jewelry-box-with-foam-insert-velvet-lining/) — foam insert jewelry box with velvet lining for rings and earrings
+- [Octagonal Rigid Gift Box with Ribbon Bow](/products/detail/octagonal-rigid-gift-box-with-ribbon-bow-luxury/) — luxury confectionery and gift presentation with satin ribbon closure
 
 [Request your free quote →](/contact/)

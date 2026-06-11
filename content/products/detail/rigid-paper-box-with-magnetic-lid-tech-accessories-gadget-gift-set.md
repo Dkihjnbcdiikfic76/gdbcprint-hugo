@@ -94,7 +94,7 @@ Custom rigid paper box with magnetic lid for tech accessories and gadget gift se
 
 **Guangdong Bincai Color Printing Co., Ltd.** — 22 years. 10,000 sqm. ISO 9001 & FSC certified. Premium packaging for premium technology.
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

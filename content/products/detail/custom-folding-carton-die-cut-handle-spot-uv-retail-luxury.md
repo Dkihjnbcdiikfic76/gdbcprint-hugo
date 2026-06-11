@@ -83,7 +83,7 @@ A: MOQ 1,000 units. New tooling: 8–12 working days; repeat orders: 5–7 days.
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Factory visits welcome.
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|

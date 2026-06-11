@@ -90,7 +90,7 @@ A: MOQ is 500–1000 units per design. Trial orders and OEM/ODM accepted. Free p
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Factory visits welcome.
 
-## Why Choose Bincai
+## Why Bincai
 
 | Feature | Detail |
 |---------|--------|
