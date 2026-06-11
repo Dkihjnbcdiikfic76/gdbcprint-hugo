@@ -78,4 +78,24 @@ Custom printed corrugated mailer box for e-commerce branding — manufactured by
 | Free Sample | Free pre-production sample (freight collect) |
 | Shipping | Worldwide DHL/FedEx/UPS/Sea |
 
+## FAQ
+
+**Q: What's the difference between flexo and litho-lam printing for corrugated mailers?**
+A: Flexo printing applies ink directly to the corrugated liner using flexible plates — ideal for 1–3 color designs, text-heavy graphics, and high-volume runs. Litho-lamination prints on a separate paper sheet (offset quality) which is then laminated to the corrugated board — perfect for photo-quality graphics, gradients, and full-color brand designs. Litho-lam costs 20–40% more but delivers shelf-quality print; flexo is more economical for simple brand marks and shipping labels.
+
+**Q: Are corrugated mailers compliant with Amazon FBA and major carrier requirements?**
+A: Yes. Our mailers are designed to meet ISTA 3A and Amazon SIOC (Ships in Own Container) standards. We provide edge crush test (ECT) and burst strength (Mullen) reports with every production batch. For FBA-specific requirements, we can add frustration-free packaging features: easy-open tear strips, minimal material usage, and recyclable constructions.
+
+**Q: Can I use recycled corrugated material?**
+A: Yes — we offer 60%, 80%, and 100% post-consumer recycled (PCR) corrugated options. PCR board has a slightly darker appearance than virgin kraft but delivers comparable structural performance. All recycled options are FSC Recycled certified and fully recyclable after use. For brands with maximum sustainability goals, 100% PCR + soy-based ink + water-based adhesive is available as a complete eco package.
+
+**Q: What ECT rating should I choose for my product?**
+A: ECT 32 is standard for lightweight items up to 3kg (apparel, cosmetics). ECT 40–44 is recommended for 3–8kg items (electronics, books, glassware). ECT 48+ is for heavy items 8–15kg or multi-unit shipments. We'll recommend the optimal board grade based on your product weight, stacking requirements, and shipping method — standard practice is to test with a pre-production sample before full production.
+
+## Related Products
+- [Corrugated Book Mailer with Self-Seal Adhesive](/products/detail/corrugated-book-mailer-self-seal-adhesive-durable-shipping-packaging/) — durable self-seal mailer for books and catalogs
+- [Corrugated Multi-Depth Shipping Box with Tear Strip](/products/detail/corrugated-multi-depth-shipping-box-tear-strip-subscription/) — variable-depth box for subscription fulfillment
+- [Corrugated Pizza Box Custom Printed Food Delivery](/products/detail/corrugated-pizza-box-custom-printed-food-delivery-packaging/) — food-grade printed pizza packaging
+- [Custom Corrugated Mailer Box with Integrated Bubble Lining](/products/detail/corrugated-mailer-bubble-lining-glassware-shipping/) — bubble-lined mailer for fragile glassware
+
 [Request your free quote →](/contact/)

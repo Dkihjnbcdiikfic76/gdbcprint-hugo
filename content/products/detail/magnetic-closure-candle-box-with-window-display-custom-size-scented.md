@@ -2,8 +2,8 @@
 title: "Magnetic Closure Candle Box with Window Display Custom Size Scented"
 date: 2026-06-11
 draft: false
-description: "Magnetic Closure Candle Box with Window Display Custom Size Scented by Bincai Color Printing. ISO 9001 FSC certified 22 years."
-keywords: "paper box, custom packaging, magnetic closure boxes, Bincai, ISO FSC"
+description: "Premium magnetic closure candle box with window display, custom sizes for scented candles. ISO 9001 & FSC certified manufacturer, 22 years Bincai factory. MOQ 500."
+keywords: "magnetic closure candle box, candle packaging with window, custom scented candle box, luxury candle gift box, Bincai paper box, ISO 9001, FSC certified, China manufacturer"
 categories: ["magnetic-closure-boxes"]
 params:
   moq: "500-1000"
@@ -14,21 +14,61 @@ params:
 
 ![Magnetic Closure Box](/images/magnetic-closure-box.jpg)
 
-## Magnetic Closure Candle Box with Window Display Custom Size Scented
+## Magnetic Closure Candle Box with Window Display
 
-Premium custom magnetic closure candle box with window display custom size scented by Guangdong Bincai Color Printing Co., Ltd. — 22 years factory, ISO 9001 & FSC certified.
+Premium custom magnetic closure candle box with window display by Guangdong Bincai Color Printing Co., Ltd. — a 22-year ISO 9001 & FSC certified factory. Our magnetic closure candle boxes combine rigid greyboard construction with a clear PVC or PET window, giving customers a direct view of your scented candles while the magnetic closure delivers a satisfying premium unboxing experience. With 10,000 sqm production space plus an 8,000 sqm smart factory expansion (2025), we produce 1.7M+ color boxes and 220K+ gift boxes daily.
 
-- KBA 1050 4-Color & Heidelberg 7+1 UV printing
-- Custom sizes, colors, finishes
-- MOQ 500-1000 units, free samples
-- Worldwide shipping 7-15 days
+## Applications
 
-[Request free quote →](/contact/)
+| Application | Box Features | Recommended Spec |
+|---|---|---|
+| Scented Candle Sets | Clear window + magnetic closure, satin lining | 157gsm art paper over 2mm greyboard |
+| Luxury Soy Candles | Soft-touch finish, foil-stamped logo | Matte lamination + gold/rose gold foil |
+| Wedding Favor Candles | Compact 80×80×40mm format, ribbon pull | White art paper, embossed monogram |
+| Holiday Candle Gifts | Seasonal colors, metallic foil accents | Kraft interior, red/gold foil stamping |
+| Aromatherapy Candles | Rigid structure with foam insert | Velvet flocking interior, N35 magnet |
+
+## Customization Options
+
+| Option | Available Choices |
+|---|---|
+| **Size Range** | 60×60×40mm to 200×150×100mm |
+| **Window Shape** | Rectangle, circle, oval, custom die-cut |
+| **Window Material** | Clear PVC, anti-fog PET, biodegradable film |
+| **Material** | 157gsm/250gsm art paper, 1.5–3.0mm greyboard, kraft |
+| **Print Method** | CMYK offset (KBA 1050), Pantone spot colors |
+| **Finishes** | Matte/gloss lamination, soft-touch, spot UV, aqueous |
+| **Foil Colors** | Gold, silver, rose gold, copper, holographic |
+| **Magnet Grade** | N35 (standard), N42 (heavy lids), N52 (premium) |
+| **Interior** | Satin lining, velvet flocking, EVA foam insert, cardboard partition |
+| **MOQ** | 500 units (standard), 1000+ (complex window die-cuts) |
+
+## Production Specifications
+
+| Specification | Detail |
+|---|---|
+| **Press** | KBA 1050 4-color + Heidelberg 7+1 UV |
+| **Die-Cutting** | Bobst flatbed, ±0.15mm precision |
+| **Magnet Placement** | Recessed cavities, flush surface, 2.5 N/cm² bond strength |
+| **Window Bonding** | Ultrasonic or solvent-free adhesive, 72-hour peel test |
+| **Daily Output** | 1.7M color boxes + 220K+ gift boxes |
+| **Lead Time** | 15–20 days (standard), 25–30 days (foil + embossing) |
+
+## Quality Control
+
+Our candle boxes undergo 6-stage QC at Bincai's 18,000 sqm facility:
+
+1. **Material Inspection**: Greyboard density ≥ 650 g/m², liner GSM verification
+2. **Print Registration**: Heidelberg Prinect Inpress inline spectrophotometry, ΔE ≤ 2.0
+3. **Die-Cut Accuracy**: Window cut alignment ±0.15mm, edge burr inspection
+4. **Magnet Testing**: Pull-force gauge verification, 5,000-cycle open/close durability
+5. **Assembly**: AQL 2.5 sampling per ISO 2859-1, gap tolerance ±1mm
+6. **Pre-Shipment**: ISTA 1A drop test, humidity chamber 48h, 100% visual
 
 ## Why Choose Bincai
 
 | Feature | Detail |
-|---------|--------|
+|---|---|
 | Experience | 22 years since 2003 |
 | Factory | 10,000m² with KBA & Heidelberg presses |
 | Quality | ISO 9001:2015 certified |
@@ -39,5 +79,26 @@ Premium custom magnetic closure candle box with window display custom size scent
 | MOQ | 500-1000 pcs, trial orders accepted |
 | Free Sample | Free pre-production sample (freight collect) |
 | Shipping | Worldwide DHL/FedEx/UPS/Sea |
+
+## FAQ
+
+**Q: What magnet strength is best for a candle box with window display?**
+A: N35 neodymium magnets are standard for most candle boxes up to 120×120mm. For larger formats (150mm+) or heavy soy candles, we recommend N42 magnets. Bincai recesses magnets into the greyboard for a flush surface — no visible magnet bumps.
+
+**Q: Can the window be custom-shaped to match my candle brand logo?**
+A: Yes. We offer custom die-cut windows in any shape — rectangle, circle, oval, or your brand's silhouette. Minimum precision is ±0.15mm on our Bobst flatbed die-cutters. There is a one-time die fee ($80–150 depending on complexity).
+
+**Q: Are the window films food-safe for scented candle packaging?**
+A: All window films (PVC, PET, biodegradable) are RoHS-compliant and suitable for indirect food contact. For candles that may touch the window, we offer food-grade PET with migration testing certificates.
+
+**Q: What is the MOQ for magnetic closure candle boxes?**
+A: Standard MOQ is 500 units. For complex designs with custom window die-cuts, foil stamping, and embossing, MOQ is 1000 units. We also accept trial orders of 100–300 pcs for first-time buyers.
+
+## Related Products
+
+- [Luxury Two-Piece Magnetic Gift Box with Ribbon Pull](/products/detail/luxury-two-piece-magnetic-gift-box-ribbon-pull/) — Premium two-piece magnetic box with satin ribbon pull
+- [Custom Magnetic Closure Box with Ribbon Tie Jewelry Packaging](/products/detail/custom-magnetic-closure-box-with-ribbon-tie-jewelry-packaging/) — Magnetic closure with elegant ribbon tie for jewelry
+- [Magnetic Closure Book-Style Box with Satin Ribbon Velvet Insert](/products/detail/magnetic-closure-book-style-box-satin-ribbon-velvet-insert/) — Book-style magnetic box with velvet interior
+- [Drawer Slide Magnetic Rigid Box with Ribbon Pull Custom Insert](/products/detail/drawer-slide-magnetic-rigid-box-ribbon-pull-custom-insert/) — Drawer-slide variant with magnetic closure and custom foam insert
 
 [Request your free quote →](/contact/)
