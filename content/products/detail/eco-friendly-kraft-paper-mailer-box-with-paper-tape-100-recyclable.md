@@ -2,7 +2,7 @@
 title: "Eco-Friendly Kraft Paper Mailer Box with Paper Tape 100 Recyclable"
 date: 2026-06-11
 draft: false
-description: "100% recyclable eco-friendly kraft paper mailer box with paper tape closure — no plastic. FSC-certified kraft, soy-based ink printing, biodegradable adhesive. ISO 9001 & FSC certified. 22-year Bincai factory, 10,000 sqm, 1.5M daily output. Custom stamp logo, tear strip for easy opening. MOQ 500."
+description: "100% recyclable eco-friendly kraft paper mailer box with paper tape closure — no plastic. FSC-certified kraft, soy-based ink printing, biodegradable adhesive. ISO 9001 & FSC certified. 22-year Bincai factory, 10,000 sqm, 1.7M daily output. Custom stamp logo, tear strip for easy opening. MOQ 500."
 keywords: "eco-friendly mailer box, kraft paper mailer box, 100% recyclable packaging, paper tape box, sustainable packaging, FSC certified box, eco mailer, Bincai"
 categories: ["kraft-eco-boxes"]
 params:
@@ -14,7 +14,7 @@ params:
 
 ![Bincai Kraft Eco Boxes](/images/kraft-eco-box.jpg)
 
-Eco-friendly kraft paper mailer box with paper tape closure — 100% recyclable, completely plastic-free — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). 10,000 sqm factory with KBA 1050 4-color and Heidelberg 7+1 UV presses. Every component from the FSC-certified kraft board to the paper-based tear strip and soy-ink printing is biodegradable and curbside recyclable. Daily output 1.5 million boxes.
+Eco-friendly kraft paper mailer box with paper tape closure — 100% recyclable, completely plastic-free — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). 10,000 sqm factory with KBA 1050 4-color and Heidelberg 7+1 UV presses. Every component from the FSC-certified kraft board to the paper-based tear strip and soy-ink printing is biodegradable and curbside recyclable. Daily output 1.7 million boxes.
 
 ## Applications
 - E-commerce subscription box shipping
@@ -63,7 +63,7 @@ Eco-friendly kraft paper mailer box with paper tape closure — 100% recyclable,
 - 80+ skilled employees across design, prepress, printing, and finishing
 - KBA 1050 4-color + Heidelberg 7+1 UV presses
 - Dedicated kraft paper production line for eco-friendly packaging
-- Daily capacity: 1.5 million color boxes + 200,000+ gift boxes
+- Daily capacity: 1.7 million color boxes + 220,000+ gift boxes
 
 ## Related Products
 - [Eco-Friendly Kraft Paper Gift Box with Cotton Handle Custom Print](/products/detail/eco-friendly-kraft-paper-gift-box-cotton-handle-custom-print/)

@@ -2,7 +2,7 @@
 title: "Magnetic Flap Paper Box with Soft Touch Lamination Matte Black"
 date: 2026-06-11
 draft: false
-description: "Custom magnetic flap paper box with soft touch lamination matte black. KBA 1050 + Heidelberg 7+1 UV printing, soft-touch coating, hidden magnet closure. ISO 9001 & FSC certified. 22-year Bincai factory, 10,000 sqm, 1.5M daily output. Matte black exterior with velvet-touch finish for premium unboxing. MOQ 500."
+description: "Custom magnetic flap paper box with soft touch lamination matte black. KBA 1050 + Heidelberg 7+1 UV printing, soft-touch coating, hidden magnet closure. ISO 9001 & FSC certified. 22-year Bincai factory, 10,000 sqm, 1.7M daily output. Matte black exterior with velvet-touch finish for premium unboxing. MOQ 500."
 keywords: "magnetic flap paper box, soft touch lamination, matte black gift box, magnetic closure box, custom rigid box, luxury packaging manufacturer, Bincai"
 categories: ["magnetic-closure-boxes"]
 params:
@@ -14,7 +14,7 @@ params:
 
 ![Bincai Magnetic Closure Boxes](/images/magnetic-closure-box.jpg)
 
-Magnetic flap paper box with soft touch lamination in matte black — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). 10,000 sqm factory with KBA 1050 4-color and Heidelberg 7+1 UV presses. The soft-touch lamination creates a velvety tactile finish that elevates brand perception while the hidden magnetic flap ensures secure closure and effortless opening. Daily output 1.5 million boxes.
+Magnetic flap paper box with soft touch lamination in matte black — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). 10,000 sqm factory with KBA 1050 4-color and Heidelberg 7+1 UV presses. The soft-touch lamination creates a velvety tactile finish that elevates brand perception while the hidden magnetic flap ensures secure closure and effortless opening. Daily output 1.7 million boxes.
 
 ## Applications
 - Premium cosmetics and skincare packaging
@@ -63,7 +63,7 @@ Magnetic flap paper box with soft touch lamination in matte black — manufactur
 - 80+ skilled employees across design, prepress, printing, and finishing
 - KBA 1050 4-color + Heidelberg 7+1 UV presses
 - Fully automatic die-cutting, gluing, and rigid box assembly lines
-- Daily capacity: 1.5 million color boxes + 200,000+ gift boxes
+- Daily capacity: 1.7 million color boxes + 220,000+ gift boxes
 
 ## Related Products
 - [Magnetic Book-Style Rigid Gift Box with Gold Foil Hot Stamping](/products/detail/magnetic-closure-book-style-gift-box-gold-foil-hot-stamping/)

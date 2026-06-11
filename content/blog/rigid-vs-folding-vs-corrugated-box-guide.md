@@ -26,7 +26,7 @@ Folding cartons are made from 200-400gsm paperboard, die-cut and creased for fla
 **Price:** $0.10-$0.80/unit
 **Features:** Custom die-cut shapes, window cutouts, hang tabs, auto-lock bottom
 
-With 1.5 million boxes daily output, we handle any volume.
+With 1.7 million boxes daily output, we handle any volume.
 
 ## Corrugated Mailers
 
