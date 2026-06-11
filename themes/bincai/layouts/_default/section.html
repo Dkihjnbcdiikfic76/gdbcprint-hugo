@@ -1,12 +1,23 @@
 {{ define "main" }}
-<div class="breadcrumb"><a href="/">Home</a> › {{ .Title }}</div>
+{{ $pages := .Pages }}
+{{ $catName := "" }}
+{{ $displayTitle := .Title }}
+
+{{ if and (eq .Section "products") (eq (len $pages) 0) }}
+  {{ $catName = replaceRE "^/products/([^/]+)/$" "$1" .RelPermalink }}
+  
+  {{ $pages = index .Site.Taxonomies.categories $catName }}
+  {{ if not $displayTitle }}{{ $displayTitle = replace $catName "-" " " | title }}{{ end }}
+{{ end }}
+
+<div class="breadcrumb"><a href="/">Home</a> › {{ $displayTitle }}</div>
 
 <section style="max-width:1200px;margin:0 auto;padding:40px 20px;">
-<h1 style="font-size:28px;font-weight:700;margin-bottom:8px;">{{ .Title }}</h1>
+<h1 style="font-size:28px;font-weight:700;margin-bottom:8px;">{{ $displayTitle }}</h1>
 {{ with .Description }}<p style="color:#666;font-size:14px;margin-bottom:24px;">{{ . }}</p>{{ end }}
 
 {{ if eq .Section "products" }}
-<input type="text" id="searchInput" placeholder="Search {{ len .Pages }} products..." 
+<input type="text" id="searchInput" placeholder="Search {{ len $pages }} products..." 
   style="width:100%;padding:12px 20px;border:1.5px solid #d0d0d0;border-radius:8px;font-size:15px;font-family:inherit;margin-bottom:24px;
   background:url('data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 24 24%22 width=%2220%22 height=%2220%22><circle cx=%2210%22 cy=%2210%22 r=%227%22 fill=%22none%22 stroke=%22%23999%22 stroke-width=%222%22/><line x1=%2215%22 y1=%2215%22 x2=%2221%22 y2=%2221%22 stroke=%22%23999%22 stroke-width=%222%22/></svg>') 16px center no-repeat;padding-left:44px;"
   oninput="var q=this.value.toLowerCase();this.nextElementSibling.querySelectorAll('.prod-card').forEach(c=>c.style.display=c.textContent.toLowerCase().includes(q)?'block':'none')">
@@ -14,7 +25,7 @@
 
 {{ if eq .Section "products" }}
 <div class="prod-grid" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:16px;">
-{{ range .Pages }}
+{{ range $pages }}
 {{ $cat := index .Params.categories 0 }}
 {{ $img := "/images/cat-rigid-others.jpg" }}
 {{ if eq $cat "folding-cartons" }}{{ $img = "/images/cat-fold-cosmetic.jpg" }}
@@ -48,9 +59,9 @@
 
 <div style="text-align:center;margin-top:32px;padding-bottom:40px;">
 {{ if eq .Section "products" }}
-<a href="/contact/" class="btn-cta">Inquire About {{ .Title }}</a>
+<a href="/contact/" class="btn-cta">Inquire About {{ $displayTitle }}</a>
 {{ else }}
-<a href="/contact/" class="btn-cta">Inquire About {{ .Title }}</a>
+<a href="/contact/" class="btn-cta">Inquire About {{ $displayTitle }}</a>
 {{ end }}
 </div>
 </section>
