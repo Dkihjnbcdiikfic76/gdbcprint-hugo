@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Corrugated Multi-Depth Shipping Box with Tear Strip for Subscription Fulfillment](/images/cat-fold-mailer.jpg)
+![Corrugated Multi-Depth Shipping Box with Tear Strip for Subscription Fulfillment](/images/corrugated-mailer.jpg)
 
 ## Product Overview
 
