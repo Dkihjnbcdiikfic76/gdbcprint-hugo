@@ -141,4 +141,4 @@ At Bincai, we manufacture both with the same KBA 1050 and Heidelberg 7+1 UV pres
 
 ---
 
-*Guangdong Bincai Color Printing Co., Ltd. — 10,000 sqm factory, KBA 1050 4-color + Heidelberg 7+1 UV, 1.5M boxes daily output, ISO 9001 & FSC certified, 22 years manufacturing since 2003.*
+*Guangdong Bincai Color Printing Co., Ltd. — 10,000 sqm factory, KBA 1050 4-color + Heidelberg 7+1 UV, 1.7M boxes daily output, ISO 9001 & FSC certified, 22 years manufacturing since 2003.*

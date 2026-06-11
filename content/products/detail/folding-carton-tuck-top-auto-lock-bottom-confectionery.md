@@ -57,7 +57,7 @@ The Bincai Tuck-Top Auto-Lock Bottom Folding Carton is purpose-engineered for ar
 | **Ink System** | Low-migration offset, <10ppb benzophenone, EU 1935/2004 |
 | **Adhesive** | Water-based PVA, formaldehyde-free, food-contact compliant |
 | **Hot Foil** | ITW Kurz Luxor series, 160-180°C stamping |
-| **Daily Output** | 1.5M+ boxes / day across dual factories |
+| **Daily Output** | 1.7M+ boxes / day across dual factories |
 | **Press Lines** | Heidelberg Speedmaster XL 7+1 UV × 2 / KBA Rapida 105 4-color × 3 / Bobst Expertfold gluer |
 
 ## Quality Assurance
@@ -77,4 +77,4 @@ The Bincai Tuck-Top Auto-Lock Bottom Folding Carton is purpose-engineered for ar
 
 ---
 
-*Guangdong Bincai Color Printing Co., Ltd. — 22 years of packaging excellence. ISO 9001:2015 & FSC certified. 10,000 sqm Foshan factory + 8,000 sqm smart facility. Daily output: 1.5M+ boxes. Serving 60+ countries worldwide.*
+*Guangdong Bincai Color Printing Co., Ltd. — 22 years of packaging excellence. ISO 9001:2015 & FSC certified. 10,000 sqm Foshan factory + 8,000 sqm smart facility. Daily output: 1.7M+ boxes. Serving 60+ countries worldwide.*

@@ -2,7 +2,7 @@
 title: "Corrugated Multi-Depth Shipping Box with Tear Strip for Subscription Fulfillment"
 date: 2026-06-11
 draft: false
-description: "Multi-depth E-flute corrugated shipper with integrated tear strip for e-commerce subscription boxes. Auto-lock bottom, perforated rip-open strip, and custom CMYK branding. ISO 9001 & FSC certified manufacturer, 22 years experience, 1.5M+ boxes daily output."
+description: "Multi-depth E-flute corrugated shipper with integrated tear strip for e-commerce subscription boxes. Auto-lock bottom, perforated rip-open strip, and custom CMYK branding. ISO 9001 & FSC certified manufacturer, 22 years experience, 1.7M+ boxes daily output."
 keywords: "multi-depth corrugated box, subscription box packaging, tear strip shipper, e-commerce shipping box, auto-lock bottom box, Bincai subscription box, corrugated mailer wholesale, branded shipping box, FSC corrugated box, ISO 9001 shipping box, Foshan corrugated manufacturer, custom printed mailer, subscription fulfillment packaging, perforated tear strip, variable depth box"
 categories: ["corrugated-mailers"]
 params:
@@ -16,7 +16,7 @@ params:
 
 ## Product Overview
 
-The Bincai Multi-Depth Corrugated Shipping Box solves the subscription fulfillment industry's biggest pain point: managing dozens of SKUs with seasonally varying contents. The **variable-depth scoring** allows a single box design to compress from 200mm down to 40mm — one box handles everything from a single lipstick to a full skincare regimen. The integrated **perforated tear strip** ensures frustration-free opening (no box cutter needed, no damaged products), while the **auto-lock bottom** assembles in under 3 seconds for high-throughput fulfillment centers. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — ISO 9001:2015 and FSC certified with 22 years of expertise — every box passes burst-strength testing (≥200 PSI Mullen for E-flute) and edge crush verification (ECT ≥ 32 lb/in). Our dual factories produce 1.5M+ boxes daily, shipping to e-commerce brands in 60+ countries.
+The Bincai Multi-Depth Corrugated Shipping Box solves the subscription fulfillment industry's biggest pain point: managing dozens of SKUs with seasonally varying contents. The **variable-depth scoring** allows a single box design to compress from 200mm down to 40mm — one box handles everything from a single lipstick to a full skincare regimen. The integrated **perforated tear strip** ensures frustration-free opening (no box cutter needed, no damaged products), while the **auto-lock bottom** assembles in under 3 seconds for high-throughput fulfillment centers. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — ISO 9001:2015 and FSC certified with 22 years of expertise — every box passes burst-strength testing (≥200 PSI Mullen for E-flute) and edge crush verification (ECT ≥ 32 lb/in). Our dual factories produce 1.7M+ boxes daily, shipping to e-commerce brands in 60+ countries.
 
 ## Applications
 
@@ -57,7 +57,7 @@ The Bincai Multi-Depth Corrugated Shipping Box solves the subscription fulfillme
 | **Adhesive** | Hot melt EVA, 160-180°C application, food-grade option available |
 | **Tear Strip** | 8mm perforated kraft, 5mm perforation pitch, 2mm tie width |
 | **Scoring** | 2-point crease rule, depth scores at 10mm increments |
-| **Daily Output** | 1.5M+ boxes / day across dual factories |
+| **Daily Output** | 1.7M+ boxes / day across dual factories |
 | **Production Line** | Bobst DRO 1628 NT die-cutter / Göpfert Evolution HBL flexo printer / Bobst Expertfold gluer |
 
 ## Quality Assurance
@@ -77,4 +77,4 @@ The Bincai Multi-Depth Corrugated Shipping Box solves the subscription fulfillme
 
 ---
 
-*Guangdong Bincai Color Printing Co., Ltd. — 22 years of packaging excellence. ISO 9001:2015 & FSC certified. 10,000 sqm Foshan factory + 8,000 sqm smart facility. Daily output: 1.5M+ boxes. Serving 60+ countries worldwide.*
+*Guangdong Bincai Color Printing Co., Ltd. — 22 years of packaging excellence. ISO 9001:2015 & FSC certified. 10,000 sqm Foshan factory + 8,000 sqm smart facility. Daily output: 1.7M+ boxes. Serving 60+ countries worldwide.*

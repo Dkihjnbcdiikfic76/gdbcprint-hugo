@@ -2,7 +2,7 @@
 title: "Rigid Drawer Box with Custom EVA Insert for Premium Stationery Sets"
 date: 2026-06-11
 draft: false
-description: "Slide-out drawer style rigid paper box for premium stationery, pen sets, and corporate gifts. 1800gsm greyboard with custom die-cut EVA insert, matte lamination, and gold foil branding. ISO 9001 & FSC certified manufacturer, 22 years experience, 1.5M+ boxes daily output."
+description: "Slide-out drawer style rigid paper box for premium stationery, pen sets, and corporate gifts. 1800gsm greyboard with custom die-cut EVA insert, matte lamination, and gold foil branding. ISO 9001 & FSC certified manufacturer, 22 years experience, 1.7M+ boxes daily output."
 keywords: "rigid drawer box, stationery gift box, custom EVA insert box, pen set packaging, corporate gift box, drawer style rigid box, Bincai stationery box, luxury pen packaging, wholesale drawer box, FSC stationery box, ISO 9001 gift box, Foshan paper box manufacturer, gold foil drawer box, premium stationery packaging, custom die-cut insert box"
 categories: ["rigid-gift-boxes"]
 params:
@@ -16,7 +16,7 @@ params:
 
 ## Product Overview
 
-The Bincai Rigid Drawer Box is designed for premium stationery brands, corporate gift programs, and luxury pen manufacturers seeking an elegant slide-out presentation format. The drawer mechanism — pulled by a **satin ribbon tab** and secured with a hidden magnetic catch — creates a ceremonial unboxing that elevates even a simple pen set into a memorable gift. Inside, a **CNC-machined EVA foam insert** cradles each pen, USB drive, or accessory in its own precision cavity (±0.5mm tolerance), preventing shifting during transit while presenting each item at the optimal viewing angle. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — ISO 9001:2015 and FSC Chain-of-Custody certified with 22 years of packaging expertise — every drawer box passes 10-point QC including slide-force consistency (3-5N ideal range), magnet catch engagement verification, and lamination adhesion cross-hatch testing. Our dual-factory setup (10,000 sqm Foshan + 8,000 sqm smart facility, 2025) delivers 1.5M+ boxes daily on Heidelberg 7+1 UV and KBA 1050 press lines.
+The Bincai Rigid Drawer Box is designed for premium stationery brands, corporate gift programs, and luxury pen manufacturers seeking an elegant slide-out presentation format. The drawer mechanism — pulled by a **satin ribbon tab** and secured with a hidden magnetic catch — creates a ceremonial unboxing that elevates even a simple pen set into a memorable gift. Inside, a **CNC-machined EVA foam insert** cradles each pen, USB drive, or accessory in its own precision cavity (±0.5mm tolerance), preventing shifting during transit while presenting each item at the optimal viewing angle. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — ISO 9001:2015 and FSC Chain-of-Custody certified with 22 years of packaging expertise — every drawer box passes 10-point QC including slide-force consistency (3-5N ideal range), magnet catch engagement verification, and lamination adhesion cross-hatch testing. Our dual-factory setup (10,000 sqm Foshan + 8,000 sqm smart facility, 2025) delivers 1.7M+ boxes daily on Heidelberg 7+1 UV and KBA 1050 press lines.
 
 ## Applications
 
@@ -58,7 +58,7 @@ The Bincai Rigid Drawer Box is designed for premium stationery brands, corporate
 | **Ribbon Pull** | 15mm double-face satin, 100% polyester |
 | **Hot Foil** | ITW Kurz Luxor series, 180-200°C stamping |
 | **Lamination** | 25μm matte BOPP, 180°C thermal bonding |
-| **Daily Output** | 1.5M+ boxes / day across dual factories |
+| **Daily Output** | 1.7M+ boxes / day across dual factories |
 | **Press Lines** | Heidelberg Speedmaster XL 7+1 UV × 2 / KBA Rapida 105 4-color × 3 |
 
 ## Quality Assurance
@@ -78,4 +78,4 @@ The Bincai Rigid Drawer Box is designed for premium stationery brands, corporate
 
 ---
 
-*Guangdong Bincai Color Printing Co., Ltd. — 22 years of packaging excellence. ISO 9001:2015 & FSC certified. 10,000 sqm Foshan factory + 8,000 sqm smart facility. Daily output: 1.5M+ boxes. Serving 60+ countries worldwide.*
+*Guangdong Bincai Color Printing Co., Ltd. — 22 years of packaging excellence. ISO 9001:2015 & FSC certified. 10,000 sqm Foshan factory + 8,000 sqm smart facility. Daily output: 1.7M+ boxes. Serving 60+ countries worldwide.*

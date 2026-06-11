@@ -2,7 +2,7 @@
 title: "Custom Folding Carton with Hot Foil Stamping for Organic Skincare"
 date: 2026-06-11
 draft: false
-description: "Premium reverse-tuck folding carton for organic skincare, cosmetics, and clean beauty brands. Hot foil stamping, soft-touch matte lamination, soy-based ink printing. 400gsm CCNB, eco-certified. ISO 9001 & FSC certified, 22 years experience, 1.5M+ boxes daily."
+description: "Premium reverse-tuck folding carton for organic skincare, cosmetics, and clean beauty brands. Hot foil stamping, soft-touch matte lamination, soy-based ink printing. 400gsm CCNB, eco-certified. ISO 9001 & FSC certified, 22 years experience, 1.7M+ boxes daily."
 keywords: "organic skincare carton, folding carton hot foil, cosmetic folding box, clean beauty packaging, reverse tuck carton, Bincai folding carton, sustainable skincare packaging, FSC cosmetic box, ISO 9001 folding carton, Foshan carton manufacturer, soy ink packaging, soft touch lamination carton, wholesale skincare box, custom cosmetic packaging, eco-friendly folding box"
 categories: ["folding-cartons"]
 params:
@@ -58,7 +58,7 @@ The Bincai Custom Folding Carton for Organic Skincare is designed for clean beau
 | **Hot Foil** | ITW Kurz Luxor 362 series, 180-200°C stamping, ±0.3mm registration |
 | **Die-Cutting** | Bobst BMA high-speed flatbed, 8,500 sheets/hour |
 | **Gluing** | Bobst Ambition folder-gluer, PVA cold glue, food-grade |
-| **Daily Output** | 1.5M+ folding cartons / day across dual factories |
+| **Daily Output** | 1.7M+ folding cartons / day across dual factories |
 | **Press Lines** | Heidelberg Speedmaster XL 7+1 UV × 2 / KBA Rapida 105 4-color × 3 / Bobst BMA + Ambition |
 
 ## Quality Assurance
@@ -82,4 +82,4 @@ The Bincai Custom Folding Carton for Organic Skincare is designed for clean beau
 
 ---
 
-*Guangdong Bincai Color Printing Co., Ltd. — 22 years of packaging excellence. ISO 9001:2015 & FSC certified. 10,000 sqm Foshan factory + 8,000 sqm smart facility. Daily output: 1.5M+ boxes. Serving 60+ countries worldwide.*
+*Guangdong Bincai Color Printing Co., Ltd. — 22 years of packaging excellence. ISO 9001:2015 & FSC certified. 10,000 sqm Foshan factory + 8,000 sqm smart facility. Daily output: 1.7M+ boxes. Serving 60+ countries worldwide.*

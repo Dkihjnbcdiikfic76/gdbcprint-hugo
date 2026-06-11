@@ -1,8 +1,8 @@
 ---
-title: "Quality Control at Bincai: How 1.5 Million Boxes a Day Stay Flawless"
+title: "Quality Control at Bincai: How 1.7 Million Boxes a Day Stay Flawless"
 date: 2026-06-10
 draft: false
-description: "How Guangdong Bincai's 6-stage quality control system ensures every paper box meets international standards — material testing, in-line color monitoring, structural stress tests, AQL sampling, and pre-shipment inspection for a 1.5M daily output."
+description: "How Guangdong Bincai's 6-stage quality control system ensures every paper box meets international standards — material testing, in-line color monitoring, structural stress tests, AQL sampling, and pre-shipment inspection for a 1.7M daily output."
 ---
 
 When you order 50,000 custom rigid boxes for a new product launch, "one bad batch" isn't an option. At Bincai's 10,000 sqm factory, where **1.7 million paper boxes roll off the line every day**, quality isn't a final checkbox — it's woven into every stage of production. Here's the full QC system that keeps our defect rate below 0.3%.

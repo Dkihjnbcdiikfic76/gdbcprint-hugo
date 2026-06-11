@@ -2,7 +2,7 @@
 title: "Premium Leather-Look Jewelry Set Box 3-Tier Velvet Display"
 date: 2026-06-11
 draft: false
-description: "Luxury 3-tier leather-look jewelry set box with magnetic closure, necklace hooks, ring rolls, earring cards, and bracelet cushion. 1600gsm greyboard, velvet flocking interior. ISO 9001 & FSC certified, 22 years experience, 1.5M+ boxes daily."
+description: "Luxury 3-tier leather-look jewelry set box with magnetic closure, necklace hooks, ring rolls, earring cards, and bracelet cushion. 1600gsm greyboard, velvet flocking interior. ISO 9001 & FSC certified, 22 years experience, 1.7M+ boxes daily."
 keywords: "leather look jewelry box, 3-tier jewelry set box, luxury jewelry display box, magnetic jewelry box, necklace ring earring box, Bincai jewelry set box, wholesale jewelry packaging, FSC jewelry box, ISO 9001 jewelry packaging, Foshan jewelry box manufacturer, multi-tier jewelry case, premium jewelry gift box, velvet jewelry display, custom jewelry set packaging, jewelry storage box"
 categories: ["jewelry-boxes"]
 params:
@@ -58,7 +58,7 @@ The Bincai Premium Leather-Look Jewelry Set Box is the ultimate all-in-one jewel
 | **Magnet** | NdFeB N35, Ø12mm × 2mm, 2 per tier connection point, nickel-plated |
 | **Hinge** | Stainless steel continuous piano hinge, 270° opening |
 | **Tier Connection** | 4× concealed magnet pairs per tier interface, 8-10N hold per pair |
-| **Daily Output** | 1.5M+ boxes / day across dual factories |
+| **Daily Output** | 1.7M+ boxes / day across dual factories |
 | **Press Lines** | Heidelberg Speedmaster XL 7+1 UV / KBA Rapida 105 / Bobst BMA / Kolbus DA270 casemaker |
 
 ## Quality Assurance
@@ -80,4 +80,4 @@ The Bincai Premium Leather-Look Jewelry Set Box is the ultimate all-in-one jewel
 
 ---
 
-*Guangdong Bincai Color Printing Co., Ltd. — 22 years of packaging excellence. ISO 9001:2015 & FSC certified. 10,000 sqm Foshan factory + 8,000 sqm smart facility. Daily output: 1.5M+ boxes. Serving 60+ countries worldwide.*
+*Guangdong Bincai Color Printing Co., Ltd. — 22 years of packaging excellence. ISO 9001:2015 & FSC certified. 10,000 sqm Foshan factory + 8,000 sqm smart facility. Daily output: 1.7M+ boxes. Serving 60+ countries worldwide.*

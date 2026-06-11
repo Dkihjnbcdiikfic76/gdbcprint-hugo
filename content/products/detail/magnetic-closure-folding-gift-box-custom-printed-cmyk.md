@@ -82,7 +82,7 @@ Our magnetic closure boxes undergo a comprehensive 12-step QC process:
 | **22-Year Specialist** | Dedicated paper packaging manufacturer since 2003 — not a general printer |
 | **10,000 sqm Integrated Facility** | Prepress → printing → die-cutting → gluing → magnetic assembly → QC all in-house |
 | **KBA 1050 + Heidelberg 7+1** | German-engineered offset presses for best-in-class CMYK reproduction |
-| **1.5 Million Boxes Daily** | Industrial capacity supports enterprise-scale orders with consistent quality |
+| **1.7 Million Boxes Daily** | Industrial capacity supports enterprise-scale orders with consistent quality |
 | **ISO 9001:2015 + FSC** | Internationally audited quality management and sustainable sourcing |
 | **Free Structural Design** | In-house dieline engineers design your box from concept to production file |
 | **3D Digital Proofing** | 24-hour turnaround on photorealistic 3D renders before sampling |
