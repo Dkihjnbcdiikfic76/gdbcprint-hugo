@@ -6,7 +6,7 @@ description: "High-end luxury paper boxes for premium brands. Rigid boxes with m
 image: /images/cat-rigid-others.jpg
 ---
 
-![Luxury Packaging](/images/industry-gift.jpg)
+![Luxury Packaging](/images/cat-rigid-others.jpg)
 Bincai manufactures luxury packaging that reflects your brand's premium positioning. Each box is crafted with precision on our KBA and Heidelberg presses.
 
 ## Luxury Packaging Solutions

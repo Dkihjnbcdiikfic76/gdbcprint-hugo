@@ -8,7 +8,7 @@ image: /images/industry-cosmetics.jpg
 
 ![Cosmetics Packaging](/images/industry-cosmetics.jpg)
 
-Guangdong Bincai Color Printing has been manufacturing premium cosmetic packaging since 2003. Our 10,000m² factory with KBA and Heidelberg presses produces 1.7 million boxes daily.
+Guangdong Bincai Color Printing has been manufacturing premium cosmetic packaging since 2003. Our 18,000 sqm factory (10,000 + 8,000 smart factory) with KBA and Heidelberg presses produces 1.7 million boxes daily.
 
 ## Cosmetic Packaging Solutions
 
