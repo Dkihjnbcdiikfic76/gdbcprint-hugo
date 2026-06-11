@@ -62,6 +62,24 @@ Premium woodgrain-texture rigid jewelry box with gold foil interior and integrat
 - Export to 40+ countries globally
 - Daily output: 1.7 million boxes total
 
+## FAQ
+
+**Q: What is the minimum order quantity for LED wooden-look jewelry boxes?**
+
+A: Standard MOQ is 500 pcs. For complex configurations (USB-C rechargeable, RGB multi-color LED with remote, custom woodgrain registration), MOQ is 1000 pcs. We offer free pre-production samples with full LED integration — 7–10 working day turnaround, freight collect.
+
+**Q: How is the LED module powered, and how long does it last?**
+
+A: Two power options: (a) button cell CR2032 × 2 — 200+ hours runtime for warm/cool white LED; (b) USB-C rechargeable lithium battery — 500+ charge cycles, 8+ hours continuous illumination per charge. LED lifespan rated 50,000+ hours. Magnetic reed switch activates lights automatically when the lid opens and deactivates on close. All LED components are CE, RoHS, and REACH certified; battery compartment meets IEC 62133 safety standards.
+
+**Q: Can you match a specific woodgrain pattern or sample?**
+
+A: Yes, we offer 20+ woodgrain patterns (walnut, oak, mahogany, teak, rosewood, ash, cherry, bamboo) as standard. Custom woodgrain registration is available — send us your reference sample or Pantone/TGIC color codes and we will match the embossed texture paper within ±0.5mm grain registration. Minimum 2000 pcs for custom woodgrain development.
+
+**Q: What about the gold foil interior — will it wrinkle or peel?**
+
+A: Our gold foil interior uses hot-stamped gold foil on 120gsm coated paper, laminated with temperature-controlled rollers to prevent wrinkling. Adhesion is tested via 3M 610 tape test (no foil lift-off) and accelerated aging (72h at 57°C / 95% RH, no delamination). Edge-to-edge full-surface coverage with invisible seams. Silver and rose gold foil alternatives available.
+
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Factory visits welcome.
 
@@ -79,5 +97,12 @@ Premium woodgrain-texture rigid jewelry box with gold foil interior and integrat
 | MOQ | 500-1000 pcs, trial orders accepted |
 | Free Sample | Free pre-production sample (freight collect) |
 | Shipping | Worldwide DHL/FedEx/UPS/Sea |
+
+## Related Products
+
+- [Custom Jewelry Display Box — LED Lighting & Velvet Interior](/products/detail/custom-jewelry-display-box-with-led-lighting-velvet-interior-necklace/) — Premium LED-illuminated display box for necklaces with velvet interior
+- [Custom Jewelry Gift Box — Velvet Insert Necklace Packaging](/products/detail/custom-jewelry-gift-box-with-velvet-insert-necklace-packaging/) — Classic jewelry gift box with velvet-lined insert for necklaces and pendants
+- [Double-Layer Jewelry Gift Box — Drawer Design for Rings & Bracelets](/products/detail/double-layer-jewelry-gift-box-with-drawer-rings-bracelet-storage/) — Two-tier jewelry storage box with pull-out drawer and ring slots
+- [Custom Logo Watch Display Box — LED Light & Suede Interior](/products/detail/custom-logo-watch-display-box-led-light-suede-interior/) — Luxury watch presentation box with integrated LED and suede lining
 
 [Request your free quote →](/contact/)

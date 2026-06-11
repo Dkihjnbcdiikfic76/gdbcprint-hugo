@@ -67,6 +67,24 @@ Premium white corrugated shipping box engineered for cosmetic and apparel e-comm
 - Export to 40+ countries with e-commerce packaging as a growth category
 - Daily capacity: 1.7 million boxes total (300,000+ corrugated mailers dedicated)
 
+## FAQ
+
+**Q: What is the minimum order quantity for custom white corrugated shipping boxes?**
+
+A: Standard MOQ is 500–1000 pcs. For B/C-flute single-wall boxes with flexographic printing, we accept 500 pcs trial orders. Offset litho-laminated boxes (premium white-top with CMYK) start at 1000 pcs. We offer free pre-production samples (5–7 working days, freight collect).
+
+**Q: Can you print my brand logo on white corrugated mailer boxes?**
+
+A: Yes, with flexographic (1–4 color, cost-effective for simple logos) or offset litho-lamination (full CMYK + Pantone for photographic-quality branding). Our KBA 1050 4-color offset press runs at 15,000 sheets/hour on white-top kraft liner. B-flute and E-flute both support branded printing; C-flute single-wall also available. MOQ for branded boxes: 500 pcs.
+
+**Q: Are these corrugated boxes ISTA-tested for e-commerce shipping?**
+
+A: Yes, all our corrugated mailers undergo ISTA 1A (10-drop sequence from 760mm) and ISTA 3A (parcel delivery simulation) testing. We perform Edge Crush Test (32–44 lb/in for single-wall), Bursting Strength (200–275 PSI), and Box Compression Test. Self-locking bottom structures and tear strip closures are 100% functionally tested on-line.
+
+**Q: What is the lead time for custom corrugated shipping boxes?**
+
+A: Standard configurations (flexo-printed, B/C-flute single-wall): 7–12 working days. Offset litho-laminated configurations (white-top with CMYK): 12–18 working days. Repeat orders with existing tooling: 5–7 working days. We ship worldwide via DHL/FedEx/UPS (express) or sea freight (economy) from our 10,000 sqm factory in Foshan, Guangdong.
+
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Factory visits welcome. Send us your product dimensions and shipping requirements for an ISTA-tested sample.
 
@@ -84,5 +102,12 @@ Premium white corrugated shipping box engineered for cosmetic and apparel e-comm
 | MOQ | 500-1000 pcs, trial orders accepted |
 | Free Sample | Free pre-production sample (freight collect) |
 | Shipping | Worldwide DHL/FedEx/UPS/Sea |
+
+## Related Products
+
+- [Corrugated Book Mailer — Self-Seal & Adhesive Backing](/products/detail/corrugated-book-mailer-self-seal-adhesive-durable-shipping-packaging/) — Durable corrugated mailer for books, catalogs, and media with self-seal closure
+- [Corrugated Literature Mailer — Book & Catalog Shipper](/products/detail/corrugated-literature-mailer-self-seal-book-catalog/) — Light-duty corrugated mailer for literature, documents, and flat products
+- [Custom Corrugated Gift Box — Embossing & Spot UV](/products/detail/corrugated-gift-box-with-custom-print-embossing-spot-uv/) — Premium corrugated gift box with specialty print finishes
+- [Corrugated Mailer with Bubble Lining — Glassware Protection](/products/detail/corrugated-mailer-bubble-lining-glassware-shipping/) — Protective corrugated mailer with integrated bubble wrap for fragile items
 
 [Request your free quote →](/contact/)
