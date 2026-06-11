@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Folding Health Food Boxes](/images/cat-fold-health.jpg)
+![Bincai Folding Cartons](/images/product-fold-2.jpg)
 
 ## Overview
 

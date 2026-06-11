@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Rigid Gift Boxes](/images/cat-rigid-others.jpg)
+![Bincai Rigid Gift Boxes](/images/product-rigid-1.jpg)
 
 Luxury rigid paper box with silver hot foil stamping designed for premium corporate gifting — manufactured by Guangdong Bincai Color Printing Co., Ltd., a 22-year full-chain packaging enterprise (founded 2003) in Foshan, China. 10,000 sqm factory with KBA 1050 4-color and Heidelberg 7+1 UV offset presses plus Bobst hot foil stamping. Daily output 1.7 million boxes. ISO 9001 & FSC certified.
 

@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Straight Tuck End Folding Carton with Soft-Touch Lamination and Gold Foil Accent for Premium Skincare](/images/cat-fold-cosmetic.jpg)
+![Bincai Folding Cartons](/images/product-fold-2.jpg)
 
 ## Product Overview
 

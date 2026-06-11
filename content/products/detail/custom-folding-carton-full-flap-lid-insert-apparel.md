@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Custom Folding Carton Full-Flap Lid](/images/cat-fold-cosmetic.jpg)
+![Bincai Folding Cartons](/images/product-fold-1.jpg)
 
 ## Product Overview
 

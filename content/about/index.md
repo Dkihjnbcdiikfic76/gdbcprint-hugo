@@ -33,6 +33,10 @@ Founded in 2003, we are a full-chain printing and packaging enterprise integrati
 - **High-Tech Enterprise** — Guangdong Province Recognized
 - Member of Guangzhou Printing Industry Association
 
+![Bincai Design Team](/images/team-office.jpg)
+
+![Certifications](/images/certifications-display.jpg)
+
 ## Location
 
 No. 6-7 Shunyuan North Road, Wusha Community, Daliang Street, Shunde District, Foshan, Guangdong, China.

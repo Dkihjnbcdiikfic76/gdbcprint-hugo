@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Corrugated Multi-Depth Shipping Box with Tear Strip for Subscription Fulfillment](/images/corrugated-mailer.jpg)
+![Bincai Corrugated Mailers](/images/product-corr-2.jpg)
 
 ## Product Overview
 

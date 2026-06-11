@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Rigid Drawer Box with Custom EVA Insert for Premium Stationery Sets](/images/cat-rigid-others.jpg)
+![Bincai Rigid Gift Boxes](/images/product-rigid-1.jpg)
 
 ## Product Overview
 
