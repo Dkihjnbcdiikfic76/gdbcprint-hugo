@@ -61,3 +61,24 @@ For a custom quote on your luxury candle rigid gift box project, reach out to ou
 - **Phone:** +86-757-8123-4567
 - **Factory Address:** Bincai Industrial Park, Nanhai District, Foshan City, Guangdong Province, China
 - **Website:** www.gdbcprint.com
+
+## Frequently Asked Questions
+
+**Q: What rigid box construction is best for luxury candle packaging?**
+A: Bincai recommends 2.5mm greyboard with 157gsm art paper wrap for luxury candle boxes — providing structural rigidity while maintaining a premium unboxing feel. For heavier candles (500g+), we upgrade to 3.0mm greyboard. The foam insert is precision die-cut to your candle's exact diameter and height.
+
+**Q: Can I get the candle box with a window so customers can see and smell the candle?**
+A: Yes. We offer die-cut windows with clear PET film that allows customers to view the candle while the box remains sealed. For fragrance sampling, we can add a small ventilation port or a scent-card slot. The window can be rectangular, circular, or custom-contour die-cut to match your brand aesthetic.
+
+**Q: What is the lead time for custom candle rigid gift boxes?**
+A: Standard lead time is 15-20 business days from artwork approval. Pre-production samples (with your custom foam insert) ship within 5-7 days. Rush service is available for seasonal launches. Our 1.7M daily box output ensures large holiday-season orders ship on time.
+
+**Q: Are the materials used in Bincai's candle boxes sustainable?**
+A: Yes. All greyboard and art paper are FSC Chain-of-Custody certified. Soy-based inks are standard for interior printing, and the foam insert can be replaced with moulded pulp (fully biodegradable) or recycled EVA foam upon request. The entire box is designed for recyclability after the foam insert is removed.
+
+## Related Products
+
+- [Hexagonal Rigid Gift Box with Custom Print and Ribbon](/products/detail/hexagonal-rigid-gift-box-custom-print-ribbon-luxury-confectionery/) — Unique hexagonal shape for premium gift presentation
+- [Rigid Gift Box with Telescopic Lid and Hot Foil Stamping](/products/detail/rigid-gift-box-telescopic-lid-hot-foil-premium/) — Two-piece telescopic lid box with luxury finishes
+- [Drawer Slide Magnetic Rigid Box with Ribbon Pull](/products/detail/drawer-slide-magnetic-rigid-box-ribbon-pull-custom-insert/) — Drawer-style rigid box for premium product reveals
+- [Eco Kraft Paper Rigid Box with Embossing and Soy-Based Ink](/products/detail/eco-kraft-paper-rigid-box-with-embossing-soy-based-ink/) — Sustainable rigid box option for eco-conscious brands

@@ -78,3 +78,24 @@ The custom folding paper box with PVC window display and food-safe construction 
 ## Contact
 
 MOQ 500 units (3000+ for custom window die-cut). Trial orders welcome. Free pre-production samples. Lead time 15-25 days. Phone: +86-18934352881 (Mr. Zhou). Email: qo82@icloud.com. [Request free quote →](/contact/)
+
+## Frequently Asked Questions
+
+**Q: Are Bincai's folding cartons with PVC windows food-safe?**
+A: Yes. Our paperboard uses food-grade coatings and soy-based, low-migration inks compliant with EU 1935/2004 and EN 71-3 standards. PVC window film is food-contact grade. For direct food contact (no inner wrapper), we recommend our anti-fog PET window option or compostable PLA bio-film windows. FDA 21 CFR compliance is available upon request.
+
+**Q: What window shapes and sizes are available?**
+A: Standard rectangular, oval, and custom contour die-cut windows with ±0.5mm placement precision. Window film options include clear PVC (0.2-0.4mm), anti-fog PET (for refrigerated products), and compostable PLA (for eco-conscious brands). Maximum window coverage is approximately 60% of the panel area to maintain structural integrity.
+
+**Q: Which carton structure is best for bakery products?**
+A: For cookies, macarons, and pastries, we recommend the auto-lock bottom with tuck-top closure — it assembles quickly, holds its shape on retail shelves, and the grease-resistant board prevents oil staining. For cakes and taller items, the gable-top structure with a carry handle is preferred. Our engineering team provides free structural recommendations based on your specific product.
+
+**Q: What is the MOQ for custom folding cartons with windows?**
+A: MOQ is 500 units for standard window shapes (rectangle/oval using existing tooling) and 3,000+ units for custom contour die-cut windows requiring new tooling. Lead time is 15-25 business days. Free pre-production samples are available in 3-5 days for quality evaluation.
+
+## Related Products
+
+- [Die-Cut Folding Carton with Window Display Cosmetic Box](/products/detail/die-cut-folding-carton-with-window-display-cosmetic-box/) — Window carton for cosmetics and skincare
+- [FSC Kraft Hinged Lid Box Compostable Window Food](/products/detail/fsc-kraft-hinged-lid-box-compostable-window-food/) — Eco-friendly window carton with compostable film
+- [Auto-Lock Bottom Folding Carton Box CMYK Printing Food](/products/detail/auto-lock-bottom-folding-carton-box-cmyk-printing-food/) — Food-grade auto-lock carton with full CMYK printing
+- [Custom Tuck-Top Folding Carton Hot Foil Stamping Cosmetic Box](/products/detail/custom-tuck-top-folding-carton-hot-foil-stamping-cosmetic-box/) — Tuck-top carton with luxury foil finishes

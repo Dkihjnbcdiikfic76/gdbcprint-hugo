@@ -57,3 +57,24 @@ Every box undergoes 16 quality checkpoints: lid-to-base alignment (±0.5mm), mag
 - **Global shipping** with Amazon FBA expertise
 
 Contact +86-18934352881 or qo82@icloud.com for design consultation and samples.
+
+## Frequently Asked Questions
+
+**Q: What is the advantage of a removable insert tray in a gift box?**
+A: The removable tray allows customers to lift out the entire product array in one elegant motion, often revealing a second layer beneath. This creates a memorable unboxing experience that drives social media sharing and makes the packaging reusable — extending brand presence in the customer's home. Ideal for multi-product gift sets, sampler collections, and curated brand experiences.
+
+**Q: What tray lining options are available?**
+A: Bincai offers velvet flocking (most popular for jewelry), satin fabric (luxury cosmetics), suede-effect paper (premium watches), and custom-printed paper wrap (branded interiors). All lining materials are available in black, white, cream, navy, and custom Pantone-matched colors. The tray is precision die-cut to your product dimensions with ±1mm tolerance.
+
+**Q: How many product cavities can the removable tray hold?**
+A: 1 to 12 cavities per tray, with customizable shapes — square, rectangular, circular, or custom contour. We also offer double-stacked trays and tray-plus-base-compartment configurations for larger gift sets. Cavity depth ranges from 10mm to 80mm depending on product type.
+
+**Q: What is the minimum order quantity and lead time?**
+A: MOQ is 500-1,000 units per design. Lead time is 15-20 business days from artwork approval. Free pre-production samples with 3D digital proofs are provided within 3-5 working days. Rush service available for time-sensitive corporate gifting campaigns.
+
+## Related Products
+
+- [Magnetic Closure Watch Collector Box 6-Slot Carbon Fiber](/products/detail/magnetic-closure-watch-collector-box-6-slot-suede-carbon-fiber/) — Premium watch storage with carbon fiber finish
+- [Magnetic Closure Rigid Box with Velvet Flocking Pen Collector](/products/detail/magnetic-closure-rigid-box-velvet-flocking-pen-collector/) — Velvet-lined collector box for writing instruments
+- [Magnetic Closure Lipstick Gift Box](/products/detail/magnetic-closure-lipstick-gift-box/) — Compact magnetic box for cosmetic products
+- [Magnetic Closure Watch Box with Velvet Flocking Interior](/products/detail/magnetic-closure-watch-box-with-velvet-flocking-interior/) — Classic magnetic watch presentation box
