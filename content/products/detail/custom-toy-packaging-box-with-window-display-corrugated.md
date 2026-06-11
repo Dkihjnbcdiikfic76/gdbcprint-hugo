@@ -4,7 +4,7 @@ date: 2026-06-11
 draft: false
 description: "Custom Toy Packaging Box with Window Display Corrugated by Bincai Color Printing. ISO 9001 FSC certified 22 years."
 keywords: "paper box, custom packaging, toy boxes, Bincai"
-categories: ["toy-boxes"]
+categories: ["corrugated-mailers"]
 params:
   moq: "500-1000"
   price: "0.10-5.00"
@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Paper Box](/images/cat-fold-cosmetic.jpg)
+![Bincai Corrugated Mailer Box](/images/corrugated-mailer.jpg)
 
 Premium custom toy packaging box with window display corrugated by Guangdong Bincai Color Printing — Diamond Member on Made-in-China.com. 22 years factory. ISO 9001 & FSC.
 

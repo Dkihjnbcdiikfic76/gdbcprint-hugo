@@ -4,7 +4,7 @@ date: 2026-06-11
 draft: false
 description: "Hexagonal Paper Gift Box with Magnetic Closure Custom by Bincai Color Printing. ISO 9001 FSC certified 22 years."
 keywords: "paper box, custom packaging, special shape boxes, Bincai"
-categories: ["special-shape-boxes"]
+categories: ["magnetic-closure-boxes"]
 params:
   moq: "500-1000"
   price: "0.10-5.00"
@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Paper Box](/images/cat-rigid-others.jpg)
+![Bincai Magnetic Closure Box](/images/magnetic-closure-box.jpg)
 
 Premium hexagonal paper gift box with magnetic closure custom by Guangdong Bincai Color Printing — Diamond Member on Made-in-China.com. 22 years factory. ISO 9001 & FSC.
 

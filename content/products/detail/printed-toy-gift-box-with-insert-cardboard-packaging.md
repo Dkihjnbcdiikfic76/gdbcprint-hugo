@@ -4,7 +4,7 @@ date: 2026-06-11
 draft: false
 description: "Printed Toy Gift Box with Insert Cardboard Packaging by Bincai Color Printing. ISO 9001 FSC certified 22 years."
 keywords: "paper box, custom packaging, toy boxes, Bincai"
-categories: ["toy-boxes"]
+categories: ["folding-cartons"]
 params:
   moq: "500-1000"
   price: "0.10-5.00"

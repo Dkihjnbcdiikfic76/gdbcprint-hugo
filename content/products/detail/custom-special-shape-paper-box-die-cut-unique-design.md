@@ -4,7 +4,7 @@ date: 2026-06-11
 draft: false
 description: "Custom Special Shape Paper Box Die-Cut Unique Design by Bincai Color Printing. ISO 9001 FSC certified 22 years."
 keywords: "paper box, custom packaging, special shape boxes, Bincai"
-categories: ["special-shape-boxes"]
+categories: ["rigid-gift-boxes"]
 params:
   moq: "500-1000"
   price: "0.10-5.00"
