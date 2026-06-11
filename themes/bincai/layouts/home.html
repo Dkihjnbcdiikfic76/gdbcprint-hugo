@@ -5,7 +5,12 @@
 <h1 style="font-size:clamp(28px,5vw,48px);font-weight:700;line-height:1.1;max-width:700px;margin:0 auto 12px;">Custom Paper Box Manufacturer</h1>
 <p style="font-size:17px;opacity:.9;max-width:560px;margin:0 auto 24px;line-height:1.5;">22 years · ISO 9001 & FSC · 10,000m² factory · KBA & Heidelberg presses · Daily 1.7M boxes</p>
 <div style="display:flex;gap:8px;justify-content:center;flex-wrap:wrap;margin-bottom:24px;">
-<span class="pill-blue">✓ ISO 9001</span><span class="pill-blue">✓ FSC</span><span class="pill-green">✓ Free Sample</span><span class="pill-orange">MOQ 500</span>
+<div class="cert-badge diamond">Diamond Member Since 2026</div>
+<div class="cert-badge audited">Audited Supplier</div>
+<div class="cert-badge" style="border-color:#1a56db;"><span style="color:#1a56db;font-weight:700;">✓</span> ISO 9001:2015</div>
+<div class="cert-badge" style="border-color:#2e7d32;"><span style="color:#2e7d32;font-weight:700;">✓</span> FSC Certified</div>
+<div class="cert-badge pill-green">✓ Free Sample</div>
+<div class="cert-badge pill-orange">MOQ 500</div>
 </div>
 <div style="display:flex;gap:10px;justify-content:center;flex-wrap:wrap;">
 <a href="/products/" class="btn-cta">View Products</a>
@@ -42,6 +47,29 @@
 </div>
 </div>
 {{ end }}
+</div>
+</section>
+
+{{/* Client Logos Section - MIC Style */}}
+<section style="padding:40px 20px;background:#fff;border-top:1px solid #e8e8ed;border-bottom:1px solid #e8e8ed;">
+<div style="max-width:1200px;margin:0 auto;">
+<h2 style="font-size:18px;font-weight:600;color:#1d1d1f;margin-bottom:24px;text-align:center;">Trusted by 200+ Global Brands</h2>
+<div style="display:flex;flex-wrap:wrap;justify-content:center;align-items:center;gap:32px;opacity:.7;">
+{{ $clients := slice 
+  (dict "name" "WAL-MART" "initials" "W")
+  (dict "name" "JELLY BELLY" "initials" "JB")
+  (dict "name" "L'ORÉAL" "initials" "LO")
+  (dict "name" "SEPHORA" "initials" "S")
+  (dict "name" "ESTÉE LAUDER" "initials" "EL")
+  (dict "name" "NIVEA" "initials" "N")
+  (dict "name" "AVON" "initials" "A")
+  (dict "name" "MARS" "initials" "M")
+}}
+{{ range $clients }}
+<div style="width:120px;height:60px;background:#f5f5f7;border-radius:8px;display:flex;align-items:center;justify-content:center;font-weight:700;font-size:14px;color:#888;letter-spacing:1px;">{{ .initials }}</div>
+{{ end }}
+</div>
+<div style="text-align:center;margin-top:20px;font-size:13px;color:#888;">Client logos shown for demonstration · Confidentiality agreements with all clients</div>
 </div>
 </section>
 
@@ -82,6 +110,26 @@
 <div style="flex:1;min-width:200px;background:#f5f5f7;border-radius:10px;padding:20px;text-align:center;">
 <div style="font-size:22px;font-weight:700;color:#1a56db;">80+</div><div style="font-size:13px;color:#888;">Skilled Workers</div></div>
 </div>
+</div>
+</section>
+
+{{/* News & Updates Section - MIC Style */}}
+<section style="padding:50px 20px;max-width:1200px;margin:0 auto;">
+<h2 style="font-size:24px;font-weight:700;color:#1d1d1f;margin-bottom:24px;">News & Updates</h2>
+<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:16px;">
+{{ range first 3 (where .Site.RegularPages "Section" "blog") }}
+<div class="card" style="padding:0;">
+{{ with .Params.image }}<img src="{{ . }}" alt="{{ $.Title }}" style="width:100%;aspect-ratio:1.8;object-fit:cover;border-radius:12px 12px 0 0;" loading="lazy">{{ end }}
+<div style="padding:20px;">
+<h3 style="font-size:15px;font-weight:600;line-height:1.4;margin-bottom:8px;"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+<p style="font-size:13px;color:#888;line-height:1.5;">{{ .Summary | plainify | truncate 120 }}</p>
+<div style="margin-top:12px;font-size:12px;color:#aaa;">{{ .Date.Format "Jan 02, 2006" }}</div>
+</div>
+</div>
+{{ end }}
+</div>
+<div style="text-align:center;margin-top:28px;">
+<a href="/blog/" class="btn-primary">View All News →</a>
 </div>
 </section>
 

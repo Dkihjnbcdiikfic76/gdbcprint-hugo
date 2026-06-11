@@ -41,6 +41,15 @@ footer .copy{border-top:1px solid rgba(255,255,255,.08);margin-top:32px;padding-
 .btn-cta{display:inline-block;background:#ff6b35;color:#fff!important;padding:14px 32px;border-radius:8px;font-size:15px;font-weight:600;transition:.2s;box-shadow:0 2px 8px rgba(255,107,53,.3)}
 .btn-cta:hover{background:#e85d2a;transform:translateY(-1px);box-shadow:0 4px 16px rgba(255,107,53,.4)}
 
+/* Certification Badges - MIC Style */
+.cert-badge{display:inline-flex;align-items:center;gap:6px;background:#fff;border:1px solid #e8e8ed;border-radius:8px;padding:8px 14px;font-size:12px;font-weight:600;color:#1d1d1f;box-shadow:0 1px 4px rgba(0,0,0,.06);transition:.2s;}
+.cert-badge:hover{box-shadow:0 4px 12px rgba(0,0,0,.1);transform:translateY(-1px)}
+.cert-badge img{width:24px;height:24px;object-fit:contain}
+.cert-badge.diamond{background:linear-gradient(135deg,#f5f5f7,#fff);border-color:#C8A84E;}
+.cert-badge.diamond::before{content:"◇";color:#C8A84E;font-size:16px;margin-right:2px;}
+.cert-badge.audited{background:#e8f5e9;border-color:#2e7d32;}
+.cert-badge.audited::before{content:"✓";color:#2e7d32;font-weight:700;margin-right:2px;}
+
 .pill{display:inline-block;border-radius:20px;padding:4px 14px;font-size:11px;font-weight:600}
 .pill-blue{background:#e8f0fe;color:#1a56db}
 .pill-green{background:#e8f5e9;color:#2e7d32}
@@ -67,6 +76,20 @@ footer .copy{border-top:1px solid rgba(255,255,255,.08);margin-top:32px;padding-
 {{ if not .IsHome }}<div class="breadcrumb"><a href="/">Home</a> › {{ .Title }}</div>{{ end }}
 
 <main>{{ block "main" . }}{{ end }}</main>
+
+{{/* Floating Inquiry Widget - MIC Style */}}
+<div id="floating-inquiry" style="position:fixed;bottom:24px;right:24px;z-index:999;display:flex;flex-direction:column;align-items:flex-end;gap:8px;">
+<div id="inquiry-popup" style="display:none;background:#fff;border-radius:12px;box-shadow:0 8px 32px rgba(0,0,0,.18);padding:20px;width:280px;margin-bottom:8px;">
+<h4 style="font-size:15px;font-weight:600;margin-bottom:12px;color:#1d1d1f;">Quick Inquiry</h4>
+<form style="display:flex;flex-direction:column;gap:8px;">
+<input type="email" placeholder="Your email" style="padding:8px 12px;border:1px solid #d0d0d5;border-radius:6px;font-size:13px;font-family:inherit;">
+<textarea placeholder="Your message" rows="3" style="padding:8px 12px;border:1px solid #d0d0d5;border-radius:6px;font-size:13px;font-family:inherit;resize:vertical;"></textarea>
+<button type="submit" style="background:#1a56db;color:#fff;border:none;padding:10px;border-radius:6px;font-size:13px;font-weight:600;cursor:pointer;font-family:inherit;">Send Inquiry</button>
+</form>
+<div style="margin-top:8px;font-size:11px;color:#888;text-align:center;">or WhatsApp: +86-189-3435-2881</div>
+</div>
+<button id="inquiry-btn" onclick="document.getElementById('inquiry-popup').style.display=document.getElementById('inquiry-popup').style.display==='none'?'block':'none'" style="width:56px;height:56px;border-radius:50%;background:linear-gradient(135deg,#1a56db,#0d1b3e);color:#fff;border:none;box-shadow:0 4px 16px rgba(26,86,219,.4);cursor:pointer;font-size:24px;display:flex;align-items:center;justify-content:center;transition:.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">💬</button>
+</div>
 
 <footer><div class="ctr">
 <div><h3>Guangdong Bincai Color Printing</h3><p>22 years · ISO 9001 & FSC · 10,000m² factory · KBA & Heidelberg presses · Daily 1.7M boxes · Serving 200+ global brands from Foshan, China.</p></div>

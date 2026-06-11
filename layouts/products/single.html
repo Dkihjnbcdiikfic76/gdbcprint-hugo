@@ -29,7 +29,7 @@
 </div>
 
 <div style="font-size:15px;line-height:1.7;color:#444;max-width:100%;overflow:hidden;">
-<img src="" style="display:none"><style scoped>p img{max-width:100%!important;height:auto!important;border-radius:8px}</style>
+<span style="display:none"></span><style scoped>p img{max-width:100%!important;height:auto!important;border-radius:8px}</style>
 {{ .Content }}
 </div>
 
@@ -40,7 +40,7 @@
 {{ range first 4 (where (where .Site.RegularPages "Section" "products") "Params.categories" "intersect" (slice $current)) }}
 {{ if ne .RelPermalink $.RelPermalink }}
 <div style="background:#fff;border:1px solid #e0e0e0;border-radius:8px;padding:12px;">
-<div style="font-size:12px;font-weight:600;margin-bottom:3px;"><a href="{{ .RelPermalink }}" style="color:#0071e3;">{{ .Title | truncate 50 }}</a></div>
+<div style="font-size:12px;font-weight:600;margin-bottom:3px;"><a href="{{ .RelPermalink }}" style="color:#1a56db;">{{ .Title | truncate 50 }}</a></div>
 <div style="font-size:11px;color:#888;">MOQ {{ .Params.moq }}</div>
 </div>
 {{ end }}{{ end }}
