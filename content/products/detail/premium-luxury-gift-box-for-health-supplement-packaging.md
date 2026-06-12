@@ -33,4 +33,4 @@ Premium custom premium luxury gift box for health supplement packaging manufactu
 - Daily output: 1.7 million boxes
 - Serving 200+ global brands
 
-🏪 [View this product on Made-in-China.com →](https://bincaipaperbox.en.made-in-china.com/)
+ [View this product on Made-in-China.com →](https://bincaipaperbox.en.made-in-china.com/)

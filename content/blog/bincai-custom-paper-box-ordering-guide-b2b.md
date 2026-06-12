@@ -118,4 +118,4 @@ Our English-speaking sales team responds within 4 business hours (China Standard
 
 *Guangdong Bincai Color Printing Co., Ltd. — 22 years of paper box manufacturing excellence. ISO 9001:2015 certified, FSC Chain-of-Custody (SGSHK-COC-37011336). 18,000 sqm smart factory in Shunde, Foshan. Daily output: 1.7 million color boxes + 220,000 rigid gift boxes. Serving 60+ countries worldwide.*
 
-<a href="https://bincaipaperbox.en.made-in-china.com/" target="_blank" rel="noopener" style="display:inline-block;background:#ff6b35;color:#fff;padding:8px 20px;border-radius:6px;text-decoration:none;font-weight:600;font-size:13px;">🏪 View Full Catalog on Made-in-China.com →</a>
+<a href="https://bincaipaperbox.en.made-in-china.com/" target="_blank" rel="noopener" style="display:inline-block;background:#ff6b35;color:#fff;padding:8px 20px;border-radius:6px;text-decoration:none;font-weight:600;font-size:13px;">View Full Catalog on Made-in-China.com →</a>

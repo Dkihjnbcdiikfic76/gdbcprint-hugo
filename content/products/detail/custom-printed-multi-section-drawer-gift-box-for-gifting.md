@@ -33,4 +33,4 @@ Premium custom custom printed multi-section drawer gift box for gifting manufact
 - Daily output: 1.7 million boxes
 - Serving 200+ global brands
 
-🏪 [View this product on Made-in-China.com →](https://bincaipaperbox.en.made-in-china.com/)
+ [View this product on Made-in-China.com →](https://bincaipaperbox.en.made-in-china.com/)

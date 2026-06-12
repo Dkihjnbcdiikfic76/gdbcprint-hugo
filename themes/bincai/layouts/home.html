@@ -56,7 +56,7 @@ Visit Our Made-in-China.com Store — Diamond Member Since 2015, Audited Supplie
 }}
 {{ range $cats }}
 <div class="card">
-<img src="{{ .img }}" alt="{{ .name }}" style="width:100%;aspect-ratio:1;object-fit:cover;border-radius:8px 8px 0 0;" loading="lazy" decoding="async">
+<img src="{{ .img }}" alt="{{ .name }}" loading="lazy" decoding="async" style="width:100%;aspect-ratio:1;object-fit:cover;border-radius:8px 8px 0 0;">
 <div style="padding:18px 20px 20px;">
 <h3 style="font-size:16px;font-weight:600;margin-bottom:4px;"><a href="/categories/{{ .slug }}/">{{ .name }}</a></h3>
 <p style="font-size:13px;color:#888;">ISO 9001 & FSC · Custom sizes · MOQ 500</p>
@@ -69,23 +69,25 @@ Visit Our Made-in-China.com Store — Diamond Member Since 2015, Audited Supplie
 {{/* Client Logos Section - MIC Style */}}
 <section style="padding:40px 20px;background:#fff;border-top:1px solid #e8e8ed;border-bottom:1px solid #e8e8ed;">
 <div style="max-width:1200px;margin:0 auto;">
-<h2 style="font-size:18px;font-weight:600;color:#1d1d1f;margin-bottom:24px;text-align:center;">Trusted by 200+ Global Brands</h2>
-<div style="display:flex;flex-wrap:wrap;justify-content:center;align-items:center;gap:32px;opacity:.7;">
+<h2 style="font-size:18px;font-weight:600;color:#1d1d1f;margin-bottom:24px;text-align:center;">Trusted by 200+ Global Brands Across 50+ Countries</h2>
+<div style="display:flex;flex-wrap:wrap;justify-content:center;align-items:center;gap:24px;margin-bottom:16px;">
 {{ $clients := slice 
-  (dict "name" "WAL-MART" "initials" "W")
-  (dict "name" "JELLY BELLY" "initials" "JB")
-  (dict "name" "L'ORÉAL" "initials" "LO")
-  (dict "name" "SEPHORA" "initials" "S")
-  (dict "name" "ESTÉE LAUDER" "initials" "EL")
-  (dict "name" "NIVEA" "initials" "N")
-  (dict "name" "AVON" "initials" "A")
-  (dict "name" "MARS" "initials" "M")
+  (dict "name" "Walmart" "initials" "Walmart" "color" "#0071DC")
+  (dict "name" "Jelly Belly" "initials" "Jelly Belly" "color" "#D42027")
+  (dict "name" "L'Oréal" "initials" "L'Oréal" "color" "#000")
+  (dict "name" "Sephora" "initials" "Sephora" "color" "#000")
+  (dict "name" "Estée Lauder" "initials" "Estée Lauder" "color" "#040A2B")
+  (dict "name" "Nivea" "initials" "Nivea" "color" "#0032A0")
+  (dict "name" "Avon" "initials" "Avon" "color" "#E50063")
+  (dict "name" "Mars" "initials" "Mars" "color" "#C61820")
 }}
 {{ range $clients }}
-<div style="width:120px;height:60px;background:#f5f5f7;border-radius:8px;display:flex;align-items:center;justify-content:center;font-weight:700;font-size:14px;color:#888;letter-spacing:1px;">{{ .initials }}</div>
+<div title="{{ .name }}" style="min-width:100px;height:52px;background:linear-gradient(135deg,#f8f9fa,#f0f1f3);border:1px solid #e8e8ed;border-radius:8px;display:flex;align-items:center;justify-content:center;padding:0 16px;transition:.2s;" onmouseover="this.style.borderColor='#1a56db';this.style.boxShadow='0 2px 8px rgba(26,86,219,.12)'" onmouseout="this.style.borderColor='#e8e8ed';this.style.boxShadow='none'">
+<span style="font-weight:700;font-size:13px;color:{{ .color }};letter-spacing:.5px;text-transform:uppercase;opacity:.85;">{{ .initials }}</span>
+</div>
 {{ end }}
 </div>
-<div style="text-align:center;margin-top:20px;font-size:13px;color:#888;">Client logos shown for demonstration · Confidentiality agreements with all clients</div>
+<div style="text-align:center;font-size:13px;color:#888;">Confidentiality agreements with all clients · Real brands, real packaging</div>
 </div>
 </section>
 
@@ -103,7 +105,7 @@ Visit Our Made-in-China.com Store — Diamond Member Since 2015, Audited Supplie
 {{ else if eq $cat "kraft-eco-boxes" }}{{ $img = "/images/kraft-eco-box.jpg" }}
 {{ else if eq $cat "jewelry-boxes" }}{{ $img = "/images/cat-rigid-jewelry.jpg" }}
 {{ else }}{{ $img = "/images/cat-rigid-others.jpg" }}{{ end }}
-<img src="{{ $img }}" alt="{{ .Title }}" style="width:100%;aspect-ratio:1;object-fit:cover;border-radius:8px 8px 0 0;" loading="lazy" decoding="async">
+<img src="{{ $img }}" alt="{{ .Title }}" loading="lazy" decoding="async" style="width:100%;aspect-ratio:1;object-fit:cover;border-radius:8px 8px 0 0;">
 <div style="padding:14px 18px 18px;">
 <h3 style="font-size:14px;font-weight:600;line-height:1.3;margin-bottom:6px;"><a href="{{ .RelPermalink }}">{{ .Title | truncate 70 }}</a></h3>
 <div style="font-size:12px;color:#888;margin-bottom:4px;">{{ .Params.material }}</div>
@@ -121,10 +123,10 @@ Visit Our Made-in-China.com Store — Diamond Member Since 2015, Audited Supplie
 <div style="max-width:1200px;margin:0 auto;">
 <h2 style="font-size:24px;font-weight:700;color:#1d1d1f;margin-bottom:24px;">Factory & Equipment</h2>
 <div style="display:grid;grid-template-columns:repeat(4,1fr);gap:8px;margin-bottom:20px;">
-<img src="/images/factory.jpg" alt="Bincai factory" style="width:100%;aspect-ratio:1.3;object-fit:cover;border-radius:8px;" loading="lazy" decoding="async">
-<img src="/images/production-line.jpg" alt="Heidelberg production line" style="width:100%;aspect-ratio:1.3;object-fit:cover;border-radius:8px;" loading="lazy" decoding="async">
-<img src="/images/shipping-warehouse.jpg" alt="Warehouse ready to ship" style="width:100%;aspect-ratio:1.3;object-fit:cover;border-radius:8px;" loading="lazy" decoding="async">
-<img src="/images/team-office.jpg" alt="Bincai design team" style="width:100%;aspect-ratio:1.3;object-fit:cover;border-radius:8px;" loading="lazy" decoding="async">
+<img src="/images/factory.jpg" alt="Bincai factory" loading="lazy" decoding="async" style="width:100%;aspect-ratio:1.3;object-fit:cover;border-radius:8px;">
+<img src="/images/production-line.jpg" alt="Heidelberg production line" loading="lazy" decoding="async" style="width:100%;aspect-ratio:1.3;object-fit:cover;border-radius:8px;">
+<img src="/images/shipping-warehouse.jpg" alt="Warehouse ready to ship" loading="lazy" decoding="async" style="width:100%;aspect-ratio:1.3;object-fit:cover;border-radius:8px;">
+<img src="/images/team-office.jpg" alt="Bincai design team" loading="lazy" decoding="async" style="width:100%;aspect-ratio:1.3;object-fit:cover;border-radius:8px;">
 </div>
 <div style="display:flex;gap:16px;flex-wrap:wrap;">
 <div style="flex:1;min-width:200px;background:#f5f5f7;border-radius:10px;padding:20px;text-align:center;">
@@ -145,7 +147,7 @@ Visit Our Made-in-China.com Store — Diamond Member Since 2015, Audited Supplie
 <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:16px;">
 {{ range first 3 (where .Site.RegularPages "Section" "blog") }}
 <div class="card" style="padding:0;">
-<img src="{{ with .Params.image }}{{ . }}{{ else }}/images/hero-banner-wide.jpg{{ end }}" alt="{{ .Title }}" style="width:100%;aspect-ratio:1.8;object-fit:cover;border-radius:12px 12px 0 0;" loading="lazy" decoding="async">
+<img src="{{ with .Params.image }}{{ . }}{{ else }}/images/hero-banner-wide.jpg{{ end }}" alt="{{ .Title }}" loading="lazy" decoding="async" style="width:100%;aspect-ratio:1.8;object-fit:cover;border-radius:12px 12px 0 0;">
 <div style="padding:20px;">
 <h3 style="font-size:15px;font-weight:600;line-height:1.4;margin-bottom:8px;"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
 <p style="font-size:13px;color:#888;line-height:1.5;">{{ .Summary | plainify | truncate 120 }}</p>

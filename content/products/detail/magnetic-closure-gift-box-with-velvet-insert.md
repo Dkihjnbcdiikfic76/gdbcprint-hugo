@@ -16,4 +16,4 @@ params:
 
 Premium magnetic closure gift box with velvet insert — Guangdong Bincai Color Printing. 22 years factory, ISO 9001 & FSC.
 
-🏪 [View on Made-in-China.com →](https://bincaipaperbox.en.made-in-china.com/)
+ [View on Made-in-China.com →](https://bincaipaperbox.en.made-in-china.com/)

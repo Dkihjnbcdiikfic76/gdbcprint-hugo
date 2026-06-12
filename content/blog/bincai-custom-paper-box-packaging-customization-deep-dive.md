@@ -203,4 +203,4 @@ Bincai's engineering team provides three structural services at no additional co
 
 > **Ready to customize?** Contact Mr. Zhou at +86-18934352881 or qo82@icloud.com for a free consultation and structural sample. MOQ from 500 units. Lead time 15–20 days after sample approval.
 
-<a href="https://bincaipaperbox.en.made-in-china.com/" target="_blank" rel="noopener" style="display:inline-block;background:#ff6b35;color:#fff;padding:8px 20px;border-radius:6px;text-decoration:none;font-weight:600;font-size:13px;">🏪 View Full Catalog on Made-in-China.com →</a>
+<a href="https://bincaipaperbox.en.made-in-china.com/" target="_blank" rel="noopener" style="display:inline-block;background:#ff6b35;color:#fff;padding:8px 20px;border-radius:6px;text-decoration:none;font-weight:600;font-size:13px;"> View Full Catalog on Made-in-China.com →</a>

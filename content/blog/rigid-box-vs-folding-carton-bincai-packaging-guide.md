@@ -147,4 +147,4 @@ At Bincai, we manufacture both with the same KBA 1050 and Heidelberg 7+1 UV pres
 
 *Guangdong Bincai Color Printing Co., Ltd. — 18,000 sqm factory (10,000+8,000 smart factory), KBA 1050 4-color + Heidelberg 7+1 UV, 1.7M boxes daily output, ISO 9001 & FSC certified, 22 years manufacturing since 2003.*
 
-<a href="https://bincaipaperbox.en.made-in-china.com/" target="_blank" rel="noopener" style="display:inline-block;background:#ff6b35;color:#fff;padding:8px 20px;border-radius:6px;text-decoration:none;font-weight:600;font-size:13px;">🏪 View Full Catalog on Made-in-China.com →</a>
+<a href="https://bincaipaperbox.en.made-in-china.com/" target="_blank" rel="noopener" style="display:inline-block;background:#ff6b35;color:#fff;padding:8px 20px;border-radius:6px;text-decoration:none;font-weight:600;font-size:13px;"> View Full Catalog on Made-in-China.com →</a>

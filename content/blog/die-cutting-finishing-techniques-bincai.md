@@ -98,4 +98,4 @@ A beautifully printed sheet is just the beginning. The die-cutting accuracy, the
 
 *Ready to discuss foil stamping, embossing, or custom finishes for your next packaging project? Contact Guangdong Bincai Color Printing — qo82@icloud.com / +86-18934352881.*
 
-<a href="https://bincaipaperbox.en.made-in-china.com/" target="_blank" rel="noopener" style="display:inline-block;background:#ff6b35;color:#fff;padding:8px 20px;border-radius:6px;text-decoration:none;font-weight:600;font-size:13px;">🏪 View Full Catalog on Made-in-China.com →</a>
+<a href="https://bincaipaperbox.en.made-in-china.com/" target="_blank" rel="noopener" style="display:inline-block;background:#ff6b35;color:#fff;padding:8px 20px;border-radius:6px;text-decoration:none;font-weight:600;font-size:13px;">View Full Catalog on Made-in-China.com →</a>

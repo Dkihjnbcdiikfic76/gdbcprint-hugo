@@ -16,4 +16,4 @@ params:
 
 Premium custom printed corrugated pizza box food delivery — Guangdong Bincai Color Printing. 22 years factory, ISO 9001 & FSC.
 
-🏪 [View on Made-in-China.com →](https://bincaipaperbox.en.made-in-china.com/)
+ [View on Made-in-China.com →](https://bincaipaperbox.en.made-in-china.com/)

@@ -33,4 +33,4 @@ Premium custom personalized design gift box with custom inner tray inserts manuf
 - Daily output: 1.7 million boxes
 - Serving 200+ global brands
 
-🏪 [View this product on Made-in-China.com →](https://bincaipaperbox.en.made-in-china.com/)
+ [View this product on Made-in-China.com →](https://bincaipaperbox.en.made-in-china.com/)

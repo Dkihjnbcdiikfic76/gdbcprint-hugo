@@ -2,8 +2,8 @@
 <article style="max-width:900px;margin:0 auto;padding:40px 20px 60px;">
 <h1 style="font-size:28px;font-weight:700;line-height:1.2;color:#1d1d1f;margin-bottom:12px;">{{ .Title }}</h1>
 
-<div style="font-size:15px;line-height:1.7;color:#444;max-width:100%;overflow:hidden;">
-<span style="display:none"></span><style scoped>p img{max-width:100%!important;height:auto!important;border-radius:8px}</style>
+<div style="font-size:15px;line-height:1.7;color:#1d1d1f;max-width:100%;overflow:hidden;">
+<style>p img{max-width:100%!important;height:auto!important;border-radius:8px}</style>
 {{ .Content }}
 </div>
 
@@ -21,7 +21,7 @@
 {{ else if eq $cat "jewelry-boxes" }}{{ $img = "/images/cat-rigid-jewelry.jpg" }}
 {{ else }}{{ $img = "/images/cat-rigid-others.jpg" }}{{ end }}
 <div class="card" style="padding:0;overflow:hidden;">
-<img src="{{ $img }}" alt="{{ .Title }}" style="width:100%;aspect-ratio:1;object-fit:cover;" loading="lazy" decoding="async">
+<img src="{{ $img }}" alt="{{ .Title }}" loading="lazy" decoding="async" style="width:100%;aspect-ratio:1;object-fit:cover;">
 <div style="padding:15px;">
 <div style="font-size:13px;font-weight:600;margin-bottom:4px;line-height:1.3;">
 <a href="{{ .RelPermalink }}" style="color:#1a56db;text-decoration:none;">{{ .Title | truncate 60 }}</a>

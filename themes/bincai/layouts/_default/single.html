@@ -3,43 +3,57 @@
 <h1 style="font-size:28px;font-weight:700;line-height:1.2;color:#1d1d1f;margin-bottom:12px;">{{ .Title }}</h1>
 
 {{ if ne .Section "products" }}
-{{ if and .Date (ne (.Date.Format "2006") "0001") }}<p style="font-size:13px;color:#888;margin-bottom:20px;">{{ .Format "January 2, 2006" }}</p>{{ end }}
-{{ with .Params.image }}<img src="{{ . }}" alt="{{ $.Title }}" style="width:100%;aspect-ratio:2/1;object-fit:cover;border-radius:10px;margin-bottom:28px;">{{ end }}
-<style scoped>
-  article p,article li{font-size:16px;line-height:1.8}
-  @media(max-width:768px){article .spec-quote-grid{grid-template-columns:1fr!important}}
-  @media(max-width:640px){article p,article li{font-size:15px;line-height:1.7}}
-</style>
+{{ if and .Date (ne (.Date.Format "2006") "0001") }}<p style="font-size:13px;color:#888;margin-bottom:20px;">{{ .Date.Format "January 2, 2006" }}</p>{{ end }}
+{{ with .Params.image }}<img src="{{ . }}" alt="{{ $.Title }}" loading="lazy" decoding="async" style="width:100%;aspect-ratio:2/1;object-fit:cover;border-radius:10px;margin-bottom:28px;">{{ else }}<div style="width:100%;aspect-ratio:2/1;border-radius:10px;margin-bottom:28px;background:linear-gradient(135deg,#0d1b3e,#1a3a6b,#1a56db);display:flex;align-items:center;justify-content:center;color:rgba(255,255,255,.3);font-size:14px;">{{ $.Title }}</div>{{ end }}
 {{ end }}
 
 {{ if eq .Section "products" }}
 <div style="display:flex;gap:8px;flex-wrap:wrap;margin-bottom:24px;">
-<span class="pill-blue">ISO 9001</span><span class="pill-blue">FSC</span><span class="pill-orange">MOQ {{ .Params.moq }}</span><span class="pill-green">Free Sample</span>
+<div class="cert-badge"><span style="color:#1a56db;font-weight:700;">✓</span> ISO 9001</div>
+<div class="cert-badge"><span style="color:#2e7d32;font-weight:700;">✓</span> FSC</div>
+<div class="cert-badge pill-orange">MOQ {{ .Params.moq }}</div>
+<div class="cert-badge pill-green">Free Sample</div>
+<div class="cert-badge diamond">Diamond Member</div>
+<div class="cert-badge audited">Audited Supplier</div>
 </div>
 
-<div class="spec-quote-grid" style="display:grid;grid-template-columns:1fr 1fr;gap:24px;margin-bottom:32px;">
+{{ $cat := index .Params.categories 0 }}
+{{ $img := "" }}
+{{ if eq $cat "rigid-gift-boxes" }}{{ $img = "/images/product-rigid-1.jpg" }}
+{{ else if eq $cat "folding-cartons" }}{{ $img = "/images/product-fold-1.jpg" }}
+{{ else if eq $cat "corrugated-mailers" }}{{ $img = "/images/product-corr-1.jpg" }}
+{{ else if eq $cat "magnetic-closure-boxes" }}{{ $img = "/images/product-gift-2.jpg" }}
+{{ else if eq $cat "jewelry-boxes" }}{{ $img = "/images/product-gift-1.jpg" }}
+{{ else if eq $cat "kraft-eco-boxes" }}{{ $img = "/images/product-corr-2.jpg" }}
+{{ else }}{{ $img = "/images/product-rigid-1.jpg" }}{{ end }}
+
+<img src="{{ $img }}" alt="{{ .Title }} - Bincai paper box packaging" loading="lazy" decoding="async" style="width:100%;aspect-ratio:1.6/1;object-fit:cover;border-radius:10px;margin-bottom:28px;box-shadow:0 2px 12px rgba(0,0,0,.08);">
+
+<div class="spec-quote-grid">
 <div style="background:#f5f5f7;border-radius:10px;padding:24px;overflow-x:auto;">
 <h3 style="font-size:15px;font-weight:600;margin-bottom:12px;">Quick Specs</h3>
 <table style="width:100%;font-size:14px;border-collapse:collapse;">
+<tbody>
+<tr><td style="padding:10px 12px 10px 0;color:#888;width:120px;">Category</td><td style="font-weight:500;padding:10px 12px;">{{ humanize $cat }}</td></tr>
 <tr><td style="padding:10px 12px 10px 0;color:#888;">Material</td><td style="font-weight:500;padding:10px 12px;">{{ .Params.material }}</td></tr>
 <tr><td style="padding:10px 12px 10px 0;color:#888;">MOQ</td><td style="font-weight:500;padding:10px 12px;">{{ .Params.moq }} units</td></tr>
 <tr><td style="padding:10px 12px 10px 0;color:#888;">Price</td><td style="font-weight:500;padding:10px 12px;">${{ .Params.price }}/pc</td></tr>
 <tr><td style="padding:10px 12px 10px 0;color:#888;">Certification</td><td style="font-weight:500;padding:10px 12px;">{{ .Params.certification }}</td></tr>
 <tr><td style="padding:10px 12px 10px 0;color:#888;">Sample</td><td style="font-weight:500;padding:10px 12px;">3-5 days</td></tr>
 <tr><td style="padding:10px 12px 10px 0;color:#888;">Production</td><td style="font-weight:500;padding:10px 12px;">7-15 days</td></tr>
+</tbody>
 </table>
 </div>
-<div style="background:#f5f5f7;border-radius:10px;padding:28px;text-align:center;">
-<h3 style="font-size:15px;font-weight:600;margin-bottom:8px;">Get a Quote</h3>
-<p style="font-size:14px;color:#555;margin-bottom:20px;">Free quote in 24 hours. Factory visits welcome.</p>
-<a href="/contact/" class="btn-cta" style="font-size:16px;padding:16px 36px;">Inquire Now</a>
-<p style="font-size:12px;color:#888;margin-top:14px;">{{ .Site.Params.phone }}<br>{{ .Site.Params.email }}</p>
+<div style="background:linear-gradient(135deg,#1a56db,#0d1b3e);border-radius:10px;padding:32px 28px;text-align:center;color:#fff;">
+<h3 style="font-size:18px;font-weight:700;margin-bottom:8px;color:#fff;">Get a Quote</h3>
+<p style="font-size:14px;opacity:.9;margin-bottom:24px;color:rgba(255,255,255,.85);">Free quote in 24 hours. Factory visits welcome.</p>
+<a href="/contact/" class="btn-cta" style="font-size:16px;padding:16px 36px;background:#fff;color:#1a56db!important;box-shadow:0 4px 16px rgba(0,0,0,.2);">Inquire Now →</a>
+<p style="font-size:12px;color:rgba(255,255,255,.7);margin-top:16px;">{{ .Site.Params.phone }}<br>{{ .Site.Params.email }}</p>
 </div>
 </div>
 {{ end }}
 
-<div style="font-size:15px;line-height:1.7;color:#444;max-width:100%;overflow:hidden;">
-<span style="display:none"></span><style scoped>p img{max-width:100%!important;height:auto!important;border-radius:8px}</style>
+<div style="font-size:15px;line-height:1.7;color:#1d1d1f;max-width:100%;overflow:hidden;">
 {{ .Content }}
 </div>
 

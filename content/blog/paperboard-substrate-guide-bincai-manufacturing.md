@@ -121,4 +121,4 @@ At Bincai, we don't just print on paperboard — we engineer it. Our project man
 
 *Contact Guangdong Bincai Color Printing for a free material consultation with your custom packaging project. ISO 9001 & FSC certified. Daily output: 1.7 million boxes. Serving 60+ countries from Foshan, China.*
 
-<a href="https://bincaipaperbox.en.made-in-china.com/" target="_blank" rel="noopener" style="display:inline-block;background:#ff6b35;color:#fff;padding:8px 20px;border-radius:6px;text-decoration:none;font-weight:600;font-size:13px;">🏪 View Full Catalog on Made-in-China.com →</a>
+<a href="https://bincaipaperbox.en.made-in-china.com/" target="_blank" rel="noopener" style="display:inline-block;background:#ff6b35;color:#fff;padding:8px 20px;border-radius:6px;text-decoration:none;font-weight:600;font-size:13px;">View Full Catalog on Made-in-China.com →</a>

@@ -2,7 +2,7 @@
 title: "Hot Foil Stamping & Embossing: How Bincai Creates Tactile Luxury"
 date: 2026-06-12
 draft: false
-image: "/images/cat-fold-cosmetic.jpg"
+image: "/images/hero-banner-wide.jpg"
 description: "Master hot foil stamping and embossing at Bincai — gold/silver/metallic foils, blind & registered embossing, debossing, 3D multi-level sculpted emboss. 22 years experience, ISO 9001 & FSC certified, Heidelberg 7+1 UV and KBA 1050 presses, 18,000 sqm factory (10,000+8,000 smart factory). Learn how these tactile finishing techniques transform ordinary paper boxes into premium brand experiences."
 keywords: "hot foil stamping paper box, embossing packaging, debossing gift box, gold foil stamping China, metallic foil packaging, blind emboss, registered emboss, 3D emboss, Bincai foil stamping, luxury paper box finishing, tactile packaging, Heidelberg foil, custom embossed box manufacturer, ISO 9001 FSC packaging"
 
@@ -103,4 +103,4 @@ For foil and embossing jobs, our QC process adds three checkpoints on top of sta
 
 **Guangdong Bincai Color Printing Co., Ltd.** — ISO 9001:2015 & FSC® certified, 22 years of paper box manufacturing, 18,000 sqm factory (10,000+8,000 smart factory), daily output 1.7 million boxes. [Request a quote →](/contact/)
 
-<a href="https://bincaipaperbox.en.made-in-china.com/" target="_blank" rel="noopener" style="display:inline-block;background:#ff6b35;color:#fff;padding:8px 20px;border-radius:6px;text-decoration:none;font-weight:600;font-size:13px;">🏪 View Full Catalog on Made-in-China.com →</a>
+<a href="https://bincaipaperbox.en.made-in-china.com/" target="_blank" rel="noopener" style="display:inline-block;background:#ff6b35;color:#fff;padding:8px 20px;border-radius:6px;text-decoration:none;font-weight:600;font-size:13px;">View Full Catalog on Made-in-China.com →</a>
