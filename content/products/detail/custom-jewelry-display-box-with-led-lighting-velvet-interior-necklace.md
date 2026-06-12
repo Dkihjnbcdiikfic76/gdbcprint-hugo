@@ -23,8 +23,6 @@ Premium custom jewelry display box with led lighting velvet interior necklace pe
 - MOQ 500-1000 units, free samples
 - Worldwide shipping 7-15 days
 
-[Request free quote →](/contact/)
-
 ## Why Bincai
 
 | Feature | Detail |

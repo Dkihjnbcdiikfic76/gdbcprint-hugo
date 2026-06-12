@@ -23,8 +23,6 @@ Premium custom velvet jewelry travel pouch box with zipper closure compact porta
 - MOQ 500-1000 units, free samples
 - Worldwide shipping 7-15 days
 
-[Request free quote →](/contact/)
-
 ## Why Bincai
 
 | Feature | Detail |
