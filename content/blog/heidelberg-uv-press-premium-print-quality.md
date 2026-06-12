@@ -2,6 +2,7 @@
 title: "How Our Heidelberg 7+1 UV Press Delivers Premium Print Quality"
 date: 2026-05-28
 draft: false
+image: "/images/carousel-factory.jpg"
 description: "How Our Heidelberg 7+1 UV Press Delivers Premium Print Quality - Guangdong Bincai Color Printing, 22 years paper box manufacturer."
 
 ---

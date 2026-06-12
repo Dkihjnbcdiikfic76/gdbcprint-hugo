@@ -2,6 +2,7 @@
 title: "Custom Paper Box Manufacturing: Rigid vs Folding vs Corrugated — Complete Guide"
 date: 2026-06-10
 draft: false
+image: "/images/team-office.jpg"
 description: "Custom Paper Box Manufacturing: Rigid vs Folding vs Corrugated — Complete Guide — Guangdong Bincai Color Printing, ISO 9001 FSC certified manufacturer."
 
 ---

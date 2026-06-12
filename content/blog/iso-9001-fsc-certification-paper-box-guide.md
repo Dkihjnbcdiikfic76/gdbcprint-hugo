@@ -2,6 +2,7 @@
 title: "ISO 9001 vs FSC Certification: What Paper Box Buyers Need to Know"
 date: 2026-06-08
 draft: false
+image: "/images/carousel-team.jpg"
 description: "ISO 9001 vs FSC Certification: What Paper Box Buyers Need to Know — Guangdong Bincai Color Printing, ISO 9001 FSC certified manufacturer."
 
 ---

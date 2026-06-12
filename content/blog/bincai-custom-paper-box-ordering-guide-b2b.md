@@ -2,6 +2,7 @@
 title: "How to Order Custom Paper Boxes from China: A B2B Buyer's Guide to MOQ, Lead Times, and Sampling"
 date: 2026-06-11
 draft: false
+image: "/images/team-office.jpg"
 description: "Everything international buyers need to know about ordering custom rigid boxes, folding cartons, and corrugated mailers from Guangdong Bincai — minimum order quantities (500–3,000 pcs), 15–20 day lead times, free structural samples, and sea/air freight logistics from Foshan to 60+ countries. ISO 9001 & FSC certified factory, 22 years experience, 1.7M+ daily output."
 
 ---

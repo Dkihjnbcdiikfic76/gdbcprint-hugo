@@ -2,6 +2,7 @@
 title: "From Prototype to 1.7 Million Boxes: Inside Bincai's End-to-End Production Workflow"
 date: 2026-06-11
 draft: false
+image: "/images/team-office.jpg"
 description: "How Guangdong Bincai Color Printing's automated 18,000 sqm factory (10,000+8,000 smart factory) transforms paperboard into 1.7 million premium boxes daily — pre-press, offset printing, Bobst die-cutting, Heidelberg gluing, and 15 QC checkpoints across 22 years of continuous improvement."
 
 ---

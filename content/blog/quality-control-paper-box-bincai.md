@@ -2,6 +2,7 @@
 title: "Quality Control at Bincai: How 1.7 Million Boxes a Day Stay Flawless"
 date: 2026-06-10
 draft: false
+image: "/images/carousel-factory.jpg"
 description: "How Guangdong Bincai's 6-stage quality control system ensures every paper box meets international standards — material testing, in-line color monitoring, structural stress tests, AQL sampling, and pre-shipment inspection for a 1.7M daily output."
 
 ---

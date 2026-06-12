@@ -2,6 +2,7 @@
 title: "FSC Certified Packaging: What It Means for Your Brand"
 date: 2026-06-05
 draft: false
+image: "/images/carousel-team.jpg"
 description: "FSC Certified Packaging: What It Means for Your Brand - Guangdong Bincai Color Printing, 22 years paper box manufacturer."
 
 ---

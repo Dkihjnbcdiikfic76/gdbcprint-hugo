@@ -2,6 +2,7 @@
 title: "Paperboard Selection Guide for Custom Packaging: SBS, CCNB, Kraft, and Duplex — How Bincai Engineers the Right Substrate for Every Box"
 date: 2026-06-11
 draft: false
+image: "/images/carousel-factory.jpg"
 description: "Comprehensive guide to paperboard substrates for custom packaging — SBS, CCNB, Kraft, and Duplex board properties, applications, and how Guangdong Bincai's 22 years of material engineering ensures the right choice for rigid boxes, folding cartons, corrugated mailers, and luxury packaging."
 
 ---

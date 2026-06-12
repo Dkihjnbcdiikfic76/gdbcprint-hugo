@@ -2,6 +2,7 @@
 title: "22 Years of Paper Box Manufacturing — The Bincai Story"
 date: 2026-05-20
 draft: false
+image: "/images/carousel-factory.jpg"
 description: "22 Years of Paper Box Manufacturing — The Bincai Story - Guangdong Bincai Color Printing, 22 years paper box manufacturer."
 
 ---

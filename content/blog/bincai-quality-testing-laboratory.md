@@ -2,6 +2,7 @@
 title: "Inside Bincai's Quality Lab: How We Test 1.7 Million Boxes Daily"
 date: 2026-06-11
 draft: false
+image: "/images/carousel-factory.jpg"
 description: "A deep dive into Guangdong Bincai's in-house quality testing laboratory — ISO 9001 protocols, FSC chain-of-custody, AQL sampling, 15 testing instruments, and the QC culture behind 22 years of zero-critical-defect shipping."
 
 ---

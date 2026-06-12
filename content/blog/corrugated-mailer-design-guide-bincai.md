@@ -2,6 +2,7 @@
 title: "Corrugated Mailer Box Design Guide: Flute Types, ECT Ratings, and FBA Sizing for E-Commerce"
 date: 2026-06-11
 draft: false
+image: "/images/team-office.jpg"
 description: "Complete B2B guide to corrugated mailer box design — flute grades (B/E/F/BC), edge crush test ratings up to 44 ECT, Amazon FBA compliant sizing, self-sealing and tear-strip closure options. Manufactured by Bincai with KBA 1050 presses."
 
 ---

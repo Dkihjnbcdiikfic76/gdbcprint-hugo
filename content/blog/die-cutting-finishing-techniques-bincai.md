@@ -2,6 +2,7 @@
 title: "Beyond the Print: Die-Cutting, Foil Stamping & Finishing at Bincai"
 date: 2026-06-10
 draft: false
+image: "/images/carousel-factory.jpg"
 description: "How Guangdong Bincai uses Bobst flatbed die-cutters, Heidelberg cylinder presses, and precision finishing — foil stamping, embossing, spot UV, soft-touch lamination — to turn printed sheets into luxury paper boxes with ±0.15mm accuracy."
 
 ---

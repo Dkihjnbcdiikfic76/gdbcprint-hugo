@@ -2,6 +2,7 @@
 title: "Export-Ready Packaging: ISTA Compliance, FBA Sizing, and Flat-Ship Design for International Markets"
 date: 2026-06-11
 draft: false
+image: "/images/carousel-factory.jpg"
 description: "Complete guide to designing export-ready paper box packaging — ISTA/ASTM transit testing standards, Amazon FBA dimensional requirements, flat-ship knock-down design for container efficiency, and how Guangdong Bincai's 22-year manufacturing expertise delivers compliance-ready packaging from Foshan, China."
 
 ---

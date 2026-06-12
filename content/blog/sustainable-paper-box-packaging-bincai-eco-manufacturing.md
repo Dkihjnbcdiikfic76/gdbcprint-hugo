@@ -2,6 +2,7 @@
 title: "Sustainable Paper Box Packaging: How Bincai Delivers Eco-Friendly Manufacturing at Industrial Scale"
 date: 2026-06-10
 draft: false
+image: "/images/team-office.jpg"
 description: "Sustainable Paper Box Packaging: How Bincai Delivers Eco-Friendly Manufacturing at Industrial Scale — FSC-certified paper, soy-based inks, water-based coatings, plastic-free windows, and kraft eco-boxes from Guangdong Bincai Color Printing."
 
 ---
