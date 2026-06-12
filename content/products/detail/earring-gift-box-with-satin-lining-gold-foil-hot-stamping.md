@@ -59,7 +59,7 @@ For a custom quote or free sample of your jewelry packaging project, contact our
 
 - **Email:** qo82@icloud.com
 - **Phone:** +86-18934352881
-- **Factory Address:** Bincai Industrial Park, Nanhai District, Foshan City, Guangdong Province, China
+- **Factory Address:** No.6-7 Shunyuan North Rd, Wusha, Daliang, Shunde, Foshan, Guangdong
 - **Website:** www.gdbcprint.com
 
 ## Frequently Asked Questions

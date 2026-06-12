@@ -70,7 +70,7 @@ This premium corrugated gift box combines the structural strength of corrugated 
 | Differentiator | Detail |
 |---|---|
 | **22-Year Legacy** | Manufacturing since 2003 — 500+ global brands served |
-| **18,000 sqm Total** | 18,000 sqm factory (10,000+8,000 smart factory (2025) |
+| **18,000 sqm Total** | 18,000 sqm factory (10,000+8,000 smart factory (2025)) |
 | **KBA + Heidelberg** | German offset presses for premium corrugated printing |
 | **In-House Finishing** | Embossing, foil stamping, spot UV — no outsourcing |
 | **ISO 9001 & FSC** | Quality management + sustainable material sourcing |

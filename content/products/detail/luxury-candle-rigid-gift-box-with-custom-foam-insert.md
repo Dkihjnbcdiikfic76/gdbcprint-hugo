@@ -59,7 +59,7 @@ For a custom quote on your luxury candle rigid gift box project, reach out to ou
 
 - **Email:** qo82@icloud.com
 - **Phone:** +86-18934352881
-- **Factory Address:** Bincai Industrial Park, Nanhai District, Foshan City, Guangdong Province, China
+- **Factory Address:** No.6-7 Shunyuan North Rd, Wusha, Daliang, Shunde, Foshan, Guangdong
 - **Website:** www.gdbcprint.com
 
 ## Frequently Asked Questions
