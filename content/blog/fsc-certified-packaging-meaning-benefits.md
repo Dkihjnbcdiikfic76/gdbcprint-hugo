@@ -20,7 +20,7 @@ Forest Stewardship Council (FSC) certification is the global gold standard for r
 
 ## Bincai's FSC Commitment
 
-Bincai has maintained FSC chain-of-custody certification (FSC-CXXXXX) since 2020. Our 10,000 sqm main factory and 8,000 sqm smart factory (commissioned 2025) both operate under strict FSC procedures:
+Bincai has maintained FSC chain-of-custody certification (FSC-CXXXXX) since 2020. Our 18,000 sqm factory (10,000+8,000 smart factory, commissioned 2025) operates under strict FSC procedures:
 
 - Segregated material storage for FSC-certified vs. conventional paperboard
 - Batch-level traceability from incoming raw material to outgoing finished boxes

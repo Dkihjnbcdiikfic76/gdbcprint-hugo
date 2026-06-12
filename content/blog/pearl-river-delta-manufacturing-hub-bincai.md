@@ -28,7 +28,7 @@ This density means shorter lead times, lower logistics costs, and faster problem
 
 ## Bincai's Strategic Location: Shunde, Foshan
 
-Guangdong Bincai Color Printing Co., Ltd. operates from a 10,000 sqm integrated facility at No.6-7 Shunyuan North Road, Wusha, Daliang, Shunde, Foshan — plus an additional 8,000 sqm smart factory completed in 2025. This location sits at the heart of the PRD's packaging cluster.
+Guangdong Bincai Color Printing Co., Ltd. operates from an 18,000 sqm integrated facility (10,000+8,000 smart factory, completed 2025) at No.6-7 Shunyuan North Road, Wusha, Daliang, Shunde, Foshan. This location sits at the heart of the PRD's packaging cluster.
 
 ### Logistics Advantages
 

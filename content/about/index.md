@@ -12,7 +12,7 @@ Founded in 2003, we are a full-chain printing and packaging enterprise integrati
 | Metric | Value |
 |--------|-------|
 | Founded | 2003 (22 years) |
-| Factory Area | 10,000 sqm (+ 8,000 sqm smart factory) |
+| Factory Area | 18,000 sqm (10,000+8,000 smart factory) |
 | Employees | 80+ skilled workers |
 | Daily Output | 1.7M color boxes + 220K+ gift boxes |
 | Clients | 200+ global brands |
