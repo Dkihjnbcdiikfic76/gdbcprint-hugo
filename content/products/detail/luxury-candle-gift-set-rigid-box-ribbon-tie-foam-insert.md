@@ -8,7 +8,7 @@ categories: ["rigid-gift-boxes"]
 params:
   moq: "500-1000"
   price: "0.35-3.50"
-  material: "Greyboard / Art Paper / Velvet / PU Leather"
+  material: "Greyboard 1200-1600gsm / N42-N52 Neodymium Magnets / Velvet / PU Leather"
   certification: "ISO 9001, FSC"
 ---
 

@@ -8,7 +8,7 @@ categories: ["rigid-gift-boxes"]
 params:
   moq: "500-1000"
   price: "0.80-5.00"
-  material: "Greyboard / Art Paper / Velvet Flocking / Satin"
+  material: "Greyboard 1200-1600gsm / N42-N52 Neodymium Magnets / Velvet Flocking / Satin"
   certification: "ISO 9001, FSC"
 ---
 

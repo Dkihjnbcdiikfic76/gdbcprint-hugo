@@ -8,7 +8,7 @@ categories: ["magnetic-closure-boxes"]
 params:
   moq: "500-1000"
   price: "0.80-2.50"
-  material: "Greyboard / Art Paper / Soft-Touch"
+  material: "Greyboard 1200-1600gsm / N42-N52 Neodymium Magnets / Soft-Touch"
   certification: "ISO 9001, FSC"
 ---
 ![Magnetic Closure Box](/images/magnetic-closure-box.jpg)

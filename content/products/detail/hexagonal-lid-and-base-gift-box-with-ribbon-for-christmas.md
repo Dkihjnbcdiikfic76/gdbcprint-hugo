@@ -8,7 +8,7 @@ categories: ["christmas-gift-boxes"]
 params:
   moq: "500-1000"
   price: "0.10-5.00"
-  material: "Greyboard / Art Paper / Kraft"
+  material: "Greyboard 1200-1600gsm / Art Paper 157-250gsm / Gold Foil / Ribbon Closure / Embossing"
   certification: "ISO 9001, FSC, SGS"
 ---
 

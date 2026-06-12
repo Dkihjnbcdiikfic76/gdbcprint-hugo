@@ -8,7 +8,7 @@ categories: ["magnetic-closure-boxes"]
 params:
   moq: "500-1000"
   price: "0.30-3.80"
-  material: "Greyboard / Art Paper / Velvet / Satin Ribbon"
+  material: "Greyboard 1200-1600gsm / N42-N52 Neodymium Magnets / Velvet / Satin Ribbon"
   certification: "ISO 9001, FSC"
 ---
 

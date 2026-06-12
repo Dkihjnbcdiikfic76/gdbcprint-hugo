@@ -8,7 +8,7 @@ categories: ["magnetic-closure-boxes"]
 params:
   moq: "500-1000"
   price: "1.50-4.00"
-  material: "Greyboard / Art Paper / Velvet"
+  material: "Greyboard 1200-1600gsm / N42-N52 Neodymium Magnets / Velvet"
   certification: "ISO 9001, FSC"
 ---
 ![Magnetic Closure Box](/images/magnetic-closure-box.jpg)

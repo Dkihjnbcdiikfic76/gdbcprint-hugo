@@ -8,7 +8,7 @@ categories: ["rigid-gift-boxes"]
 params:
   moq: "500-1000"
   price: "1.50-8.00"
-  material: "Greyboard / Art Paper / Specialty Paper"
+  material: "Greyboard 1200-1600gsm / N42-N52 Neodymium Magnets / Specialty Paper"
   certification: "ISO 9001, FSC"
 ---
 

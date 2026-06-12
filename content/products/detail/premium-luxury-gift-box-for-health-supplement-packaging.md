@@ -8,7 +8,7 @@ categories: ["rigid-gift-boxes"]
 params:
   moq: "500-1000"
   price: "0.10-5.00"
-  material: "Greyboard / Art Paper / Kraft"
+  material: "Greyboard 1200-1600gsm / Art Paper Wrap 157-250gsm / Hot Foil / Embossing / Matte Lamination"
   certification: "ISO 9001, FSC, SGS"
 ---
 

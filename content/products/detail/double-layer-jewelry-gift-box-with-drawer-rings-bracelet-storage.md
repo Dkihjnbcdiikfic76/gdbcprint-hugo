@@ -8,7 +8,7 @@ categories: ["jewelry-boxes"]
 params:
   moq: "500-1000"
   price: "1.20-5.50"
-  material: "Greyboard / Art Paper / Velvet Lining"
+  material: "Greyboard 1200-1600gsm / N42-N52 Neodymium Magnets / Velvet Lining"
   certification: "ISO 9001, FSC"
 ---
 

@@ -8,7 +8,7 @@ categories: ["paper-bags"]
 params:
   moq: "500-1000"
   price: "0.10-5.00"
-  material: "Greyboard / Art Paper / Kraft"
+  material: "Kraft Paper 120-200gsm / Art Paper 157-250gsm / Ribbon Handles / Rope Handles / Matte/Gloss Lamination"
   certification: "ISO 9001, FSC, SGS"
 ---
 

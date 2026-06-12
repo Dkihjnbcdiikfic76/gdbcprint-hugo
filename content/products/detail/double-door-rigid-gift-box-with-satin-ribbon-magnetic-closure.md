@@ -8,7 +8,7 @@ categories: ["rigid-gift-boxes"]
 params:
   moq: "500-1000"
   price: "0.25-3.00"
-  material: "Greyboard / Art Paper / Satin Ribbon / Magnet"
+  material: "Greyboard 1200-1600gsm / N42-N52 Neodymium Magnets / Satin Ribbon / Magnet"
   certification: "ISO 9001, FSC"
 ---
 
