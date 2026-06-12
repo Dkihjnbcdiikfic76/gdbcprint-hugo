@@ -82,7 +82,7 @@ Luxury rigid gift box for wine bottle packaging with plush velvet lining interio
 - **22 years** of rigid box manufacturing expertise since 2003 — serving wineries from Bordeaux, Napa, Barossa, and Mendoza
 - **Heidelberg 7+1 UV** press for drip-off, hybrid UV, and specialty coating effects unique in the Pearl River Delta
 - **FSC Chain of Custody** certified (SGSHK-COC-008796) — sustainable paper sourcing for eco-conscious wine brands
-- **Dual factory** capacity: 10,000 sqm (Foshan HQ) + 8,000 sqm (satellite facility) = 1.7M boxes/day
+- **Factory** capacity: 18,000 sqm (Foshan HQ) + 8,000 sqm (satellite facility) = 1.7M boxes/day
 - **Bobst BMA** foil stamping press for precision metallic decoration — up to 580×380mm stamping area
 - Full in-house: pre-press CTP → KBA/Heidelberg printing → lamination → die-cutting → foil stamping → rigid box wrapping → velvet lining → QC inspection → packing
 - **Export experience** to 60+ countries with dedicated wine packaging clients in France, Italy, Australia, and California

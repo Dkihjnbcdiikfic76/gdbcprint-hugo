@@ -83,7 +83,7 @@ All constructions pre-tested to Amazon FBA packaging requirements (ISTA 6-Amazon
 | Differentiator | Detail |
 |---|---|
 | **22-Year Legacy** | Manufacturing since 2003 — 500+ global brands served |
-| **18,000 sqm Campus** | 10,000 sqm factory + 8,000 sqm smart factory (2025) |
+| **18,000 sqm Campus** | 18,000 sqm factory (10,000+8,000 smart factory (2025) |
 | **KBA + Heidelberg** | German-engineered offset + corrugated converting lines |
 | **ISTA Lab Testing** | In-house ISTA 1A/6-Amazon.com drop and compression testing |
 | **1.7M Daily Output** | 1.7M boxes per day (post-2025 expansion) |

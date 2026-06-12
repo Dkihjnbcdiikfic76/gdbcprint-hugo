@@ -56,7 +56,7 @@ Fully recyclable kraft rigid box with soy-based ink printing — combining luxur
 
 ## Factory
 - 22 years manufacturing experience (founded 2003)
-- 10,000 sqm main factory + 8,000 sqm smart facility
+- 18,000 sqm facility (10,000+8,000 smart facility
 - Dedicated eco-packaging line with soy ink press setup and water-based adhesive systems
 - KBA 1050 4-color press optimized for kraft paper and soy ink
 - Export to 40+ countries worldwide

@@ -68,7 +68,7 @@ Our custom folding carton with insert tray is purpose-built for tea and coffee p
 ## Why Bincai for Tea & Coffee Packaging
 
 - **22 years** of folding carton manufacturing since 2003
-- **10,000 sqm** factory + 8,000 sqm smart factory (commissioned 2025) in Foshan, Guangdong
+- **18,000 sqm** integrated facility (10,000+8,000 smart factory, commissioned 2025) in Foshan, Guangdong
 - **Food-safety expertise** — soy-based inks, water-based coatings, EU 1935/2004 & FDA compliant
 - **80+ skilled employees** across design, prepress, printing, finishing, and QC
 - ISO 9001:2015 quality management + FSC Chain-of-Custody certified

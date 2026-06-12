@@ -2,7 +2,7 @@
 title: "Magnetic Flip-Top Rigid Box for Luxury Perfume Gift Set"
 date: 2026-06-11
 draft: false
-description: "Magnetic flip-top rigid box for luxury perfume gift sets with velvet flocking interior and satin pull ribbon. Manufactured by Bincai: KBA 1050 4-color offset + Heidelberg 7+1 UV press, neodymium N35 magnets (8-12mm, 3.5-5.5N pull-force), hot stamping, embossing, spot UV, 10,000sqm factory, 22 years experience, ISO 9001:2015 & FSC certified, 1.7M daily output. 500+ hinge cycle tested, 1200-2500gsm greyboard, ΔE≤2.0 color. MOQ 500. Free 3D rendering."
+description: "Magnetic flip-top rigid box for luxury perfume gift sets with velvet flocking interior and satin pull ribbon. Manufactured by Bincai: KBA 1050 4-color offset + Heidelberg 7+1 UV press, neodymium N35 magnets (8-12mm, 3.5-5.5N pull-force), hot stamping, embossing, spot UV, 18,000 sqm (10,000+8,000 smart factory), 22 years experience, ISO 9001:2015 & FSC certified, 1.7M daily output. 500+ hinge cycle tested, 1200-2500gsm greyboard, ΔE≤2.0 color. MOQ 500. Free 3D rendering."
 keywords: "magnetic flip top box, perfume gift box, luxury perfume packaging, rigid box with magnet, flip top gift box, neodymium magnet box, custom rigid box China, perfume set packaging, velvet lining box, satin ribbon gift box, fragrance gift box, hot stamping perfume box, Bincai, Guangdong luxury packaging, embossed rigid box"
 categories: ["magnetic-closure-boxes"]
 params:

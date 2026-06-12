@@ -58,7 +58,7 @@ Luxury drawer-slide magnetic rigid box with satin ribbon pull-tab and custom die
 
 ## Factory
 - 22 years of manufacturing excellence (founded 2003)
-- 10,000 sqm main factory + 8,000 sqm smart facility
+- 18,000 sqm facility (10,000+8,000 smart facility
 - KBA 1050 4-color + Heidelberg 7+1 UV presses
 - Specialized rigid box assembly line for complex constructions
 - Export to 40+ countries across six continents

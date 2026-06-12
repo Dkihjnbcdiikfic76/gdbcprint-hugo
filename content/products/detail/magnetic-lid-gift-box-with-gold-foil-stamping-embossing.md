@@ -2,7 +2,7 @@
 title: "Magnetic Lid Gift Box with Gold Foil Stamping and Embossing"
 date: 2026-06-10
 draft: false
-description: "Premium magnetic lid gift box with gold foil stamping and embossing. Luxury rigid construction, satin/velvet interior, custom foam insert. 22yr ISO 9001 & FSC factory — 10,000sqm, Heidelberg 7+1 UV, 1.7M daily output. MOQ 500."
+description: "Premium magnetic lid gift box with gold foil stamping and embossing. Luxury rigid construction, satin/velvet interior, custom foam insert. 22yr ISO 9001 & FSC factory — 18,000 sqm (10,000+8,000 smart factory), Heidelberg 7+1 UV, 1.7M daily output. MOQ 500."
 keywords: "magnetic lid gift box, gold foil stamping box, embossed gift box, luxury rigid gift box, custom magnetic closure box, gold foil embossing packaging, premium gift box manufacturer, Bincai Color Printing, rigid box with magnetic lid, wholesale luxury gift box, foil stamped packaging China, corporate gift box, ISO 9001 gift box manufacturer"
 categories: ["rigid-gift-boxes"]
 params:

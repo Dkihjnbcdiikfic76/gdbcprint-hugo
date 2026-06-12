@@ -2,7 +2,7 @@
 title: "Custom Magnetic Closure Presentation Box with Foam Tray for Corporate Pen Set"
 date: 2026-06-11
 draft: false
-description: "Magnetic closure presentation box with precision die-cut foam tray for corporate pen sets and executive gifts. Hot foil logo, suede interior, KBA 1050 4-color + Heidelberg 7+1 UV presses, Bobst BMA foil stamping. 10,000sqm factory, 22 years experience, ISO 9001:2015 & FSC certified, daily output 1.7M boxes. MOQ 500. Direct factory pricing from Guangdong Bincai Color Printing Co., Ltd."
+description: "Magnetic closure presentation box with precision die-cut foam tray for corporate pen sets and executive gifts. Hot foil logo, suede interior, KBA 1050 4-color + Heidelberg 7+1 UV presses, Bobst BMA foil stamping. 18,000 sqm (10,000+8,000 smart factory), 22 years experience, ISO 9001:2015 & FSC certified, daily output 1.7M boxes. MOQ 500. Direct factory pricing from Guangdong Bincai Color Printing Co., Ltd."
 keywords: "magnetic closure presentation box, corporate pen set box, executive gift box, foam tray insert, hot foil stamping, rigid gift box, corporate gift packaging, ISO 9001 FSC, Bincai, magnetic closure box China, KBA 1050 corporate gift box, Heidelberg UV presentation box, custom pen packaging, foam die-cut tray, premium corporate gifts"
 categories: ["magnetic-closure-boxes"]
 params:

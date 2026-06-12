@@ -2,7 +2,7 @@
 title: "Premium Magnetic Flap Rigid Box for Luxury Cosmetics"
 date: 2026-06-10
 draft: false
-description: "Premium magnetic flap rigid box for luxury cosmetics and skincare — 2mm greyboard with soft-touch lamination, magnetic closure, and satin interior. KBA 1050 & Heidelberg 7+1 UV manufactured. ISO 9001 & FSC certified. Bincai — 22-year factory, 10,000sqm, MOQ 500."
+description: "Premium magnetic flap rigid box for luxury cosmetics and skincare — 2mm greyboard with soft-touch lamination, magnetic closure, and satin interior. KBA 1050 & Heidelberg 7+1 UV manufactured. ISO 9001 & FSC certified. Bincai — 22-year factory, 18,000 sqm (10,000+8,000 smart factory), MOQ 500."
 keywords: "magnetic flap rigid box, luxury cosmetic packaging, premium rigid box, magnetic closure rigid box, cosmetic gift box, skincare packaging box, rigid box manufacturer China, luxury packaging manufacturer, magnetic flap box, custom rigid gift box, ISO 9001 FSC packaging, Bincai Color Printing, beauty product packaging box"
 categories: ["magnetic-closure-boxes"]
 params:

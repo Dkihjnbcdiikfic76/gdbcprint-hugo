@@ -2,7 +2,7 @@
 title: "Custom Tuck-Top Folding Carton with Hot Foil Stamping Cosmetic Box"
 date: 2026-06-11
 draft: false
-description: "Custom tuck-top folding carton with precision hot foil stamping for luxury cosmetic and skincare packaging. Manufactured on KBA 1050 4-color and Heidelberg 7+1 UV presses. ISO 9001:2015 & FSC certified, 22 years manufacturing, 10,000 sqm factory + 8,000 sqm smart factory. Daily output 1.7M boxes. MOQ 1000, free pre-production samples."
+description: "Custom tuck-top folding carton with precision hot foil stamping for luxury cosmetic and skincare packaging. Manufactured on KBA 1050 4-color and Heidelberg 7+1 UV presses. ISO 9001:2015 & FSC certified, 22 years manufacturing, 18,000 sqm factory (10,000+8,000 smart factory. Daily output 1.7M boxes. MOQ 1000, free pre-production samples."
 keywords: "tuck-top folding carton, cosmetic packaging box, hot foil stamping box, custom folding carton, skincare packaging, luxury cosmetic box, CMYK offset printing, Bincai folding carton, ISO 9001 cosmetic packaging, FSC paper box, Foshan packaging manufacturer, wholesale cosmetic box, gold foil cosmetic carton, premium folding box, soft touch cosmetic packaging, spot UV carton, beauty product box, Guangdong cosmetic packaging factory, Bobst die-cut box, matte lamination carton"
 categories: ["folding-cartons"]
 params:

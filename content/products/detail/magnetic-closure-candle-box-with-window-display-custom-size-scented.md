@@ -16,7 +16,7 @@ params:
 
 ## Magnetic Closure Candle Box with Window Display
 
-Premium custom magnetic closure candle box with window display by Guangdong Bincai Color Printing Co., Ltd. — a 22-year ISO 9001 & FSC certified factory. Our magnetic closure candle boxes combine rigid greyboard construction with a clear PVC or PET window, giving customers a direct view of your scented candles while the magnetic closure delivers a satisfying premium unboxing experience. With 10,000 sqm production space plus an 8,000 sqm smart factory expansion (2025), we produce 1.7M+ color boxes and 220K+ gift boxes daily.
+Premium custom magnetic closure candle box with window display by Guangdong Bincai Color Printing Co., Ltd. — a 22-year ISO 9001 & FSC certified factory. Our magnetic closure candle boxes combine rigid greyboard construction with a clear PVC or PET window, giving customers a direct view of your scented candles while the magnetic closure delivers a satisfying premium unboxing experience. With 18,000 sqm production space (10,000+8,000 smart factory) (2025), we produce 1.7M+ color boxes and 220K+ gift boxes daily.
 
 ## Applications
 

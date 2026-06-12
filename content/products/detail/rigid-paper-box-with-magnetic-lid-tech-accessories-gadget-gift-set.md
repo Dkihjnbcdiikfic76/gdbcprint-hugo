@@ -2,7 +2,7 @@
 title: "Rigid Paper Box with Magnetic Lid for Tech Accessories and Gadget Gift Sets"
 date: 2026-06-10
 draft: false
-description: "Custom rigid paper box with magnetic lid for tech accessories, gadgets, and electronics gift sets — 2.5mm greyboard, die-cut foam insert, soft-touch finish. KBA 1050 & Heidelberg 7+1 UV manufactured. ISO 9001 & FSC certified. Bincai — 22-year factory, 10,000sqm, MOQ 500."
+description: "Custom rigid paper box with magnetic lid for tech accessories, gadgets, and electronics gift sets — 2.5mm greyboard, die-cut foam insert, soft-touch finish. KBA 1050 & Heidelberg 7+1 UV manufactured. ISO 9001 & FSC certified. Bincai — 22-year factory, 18,000 sqm (10,000+8,000 smart factory), MOQ 500."
 keywords: "rigid paper box, magnetic lid box, tech accessories packaging, gadget gift box, electronics packaging box, custom rigid box manufacturer China, foam insert box, soft-touch box, tech gift packaging, premium rigid gift box, ISO 9001 FSC packaging, Bincai Color Printing, electronics accessory packaging box"
 categories: ["rigid-gift-boxes"]
 params:
@@ -14,7 +14,7 @@ params:
 
 ![Bincai Rigid Gift Boxes](/images/cat-rigid-others.jpg)
 
-Custom rigid paper box with magnetic lid for tech accessories and gadget gift sets — manufactured by Guangdong Bincai Color Printing Co., Ltd., a 22-year packaging enterprise (founded 2003) with KBA 1050 4-color and Heidelberg 7+1 UV printing across 10,000 sqm of factory floor and an 8,000 sqm satellite facility. Designed for tech brands, electronics retailers, and corporate promotional programs, this rigid box features a magnetic flip-cover lid with precision die-cut foam insert for secure gadget presentation. The 2.5mm greyboard construction with soft-touch matte laminate provides a premium tactile experience that signals quality before the product is even revealed. Neodymium N35 magnetic closure delivers over 1,000 silent open-close cycles. Daily output 1.7 million boxes. ISO 9001 and FSC certified. Bobst BMA foil stamping available for precision metallic branding with ±0.2mm registration.
+Custom rigid paper box with magnetic lid for tech accessories and gadget gift sets — manufactured by Guangdong Bincai Color Printing Co., Ltd., a 22-year packaging enterprise (founded 2003) with KBA 1050 4-color and Heidelberg 7+1 UV printing across 18,000 sqm of factory floor (10,000+8,000 smart factory). Designed for tech brands, electronics retailers, and corporate promotional programs, this rigid box features a magnetic flip-cover lid with precision die-cut foam insert for secure gadget presentation. The 2.5mm greyboard construction with soft-touch matte laminate provides a premium tactile experience that signals quality before the product is even revealed. Neodymium N35 magnetic closure delivers over 1,000 silent open-close cycles. Daily output 1.7 million boxes. ISO 9001 and FSC certified. Bobst BMA foil stamping available for precision metallic branding with ±0.2mm registration.
 
 ## Applications
 | Application | Details |
@@ -85,7 +85,7 @@ Custom rigid paper box with magnetic lid for tech accessories and gadget gift se
 - **22 years** of rigid box manufacturing expertise since 2003 — trusted by electronics brands across 60+ export countries
 - **Heidelberg 7+1 UV** press for drip-off, hybrid UV, and specialty coating effects — unique capability in the Pearl River Delta region
 - **FSC Chain of Custody** certified (SGSHK-COC-008796) — sustainable paper sourcing for ESG-conscious tech brands
-- **Dual factory** capacity: 10,000 sqm (Foshan HQ) + 8,000 sqm (satellite facility) = 1.7M boxes/day
+- **Factory** capacity: 18,000 sqm (Foshan HQ) + 8,000 sqm (satellite facility) = 1.7M boxes/day
 - **Bobst BMA** foil stamping press for precision metallic decoration — gold, silver, rose gold, holographic foils
 - **Anti-static expertise** — pink foam and conductive carbon foam options for ESD-sensitive electronics (ANSI/ESD S20.20 compliant)
 - Full in-house: pre-press CTP → KBA/Heidelberg printing → lamination → die-cutting → foil stamping → foam CNC routing → rigid box wrapping → QC inspection → packing

@@ -2,7 +2,7 @@
 title: "Velvet Jewelry Display Box with LED Light Ring Earring Packaging"
 date: 2026-06-10
 draft: false
-description: "Velvet jewelry display box with LED light for ring and earring packaging. Magnetic flip lid, velvet flocking, gold foil stamping, battery-powered LED. 22yr ISO 9001 & FSC factory — 10,000sqm, Heidelberg 7+1 UV, 1.7M daily output. MOQ 500."
+description: "Velvet jewelry display box with LED light for ring and earring packaging. Magnetic flip lid, velvet flocking, gold foil stamping, battery-powered LED. 22yr ISO 9001 & FSC factory — 18,000 sqm (10,000+8,000 smart factory), Heidelberg 7+1 UV, 1.7M daily output. MOQ 500."
 keywords: "velvet jewelry display box, LED light jewelry box, ring earring packaging box, luxury jewelry display, magnetic flip lid jewelry box, velvet flocking jewelry box, illuminated jewelry packaging, Bincai Color Printing, jewelry box manufacturer China, custom jewelry display box, gold foil jewelry box, LED ring box wholesale, ISO 9001 jewelry box factory"
 categories: ["jewelry-boxes"]
 params:

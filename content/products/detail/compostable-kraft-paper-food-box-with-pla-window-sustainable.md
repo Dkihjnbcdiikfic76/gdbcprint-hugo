@@ -59,7 +59,7 @@ Guangdong Bincai Color Printing Co., Ltd. — founded in 2003 and recognized amo
 | Board Grades (Kraft) | 250gsm / 300gsm / 350gsm / 400gsm FSC Mix or FSC 100% certified kraft paperboard |
 | Board Grades (Greyboard) | 1.5mm / 2.0mm / 2.5mm / 3.0mm recycled greyboard for rigid box lamination |
 | Daily Output | 1.7 million color-printed boxes + 220,000+ luxury rigid gift boxes |
-| Factory Area | 18,000 sqm total: 10,000 sqm main facility + 8,000 sqm smart factory expansion (completed 2025) |
+| Factory Area | 18,000 sqm total: 18,000 sqm integrated facility (10,000+8,000 smart factory) expansion (completed 2025) |
 | Certifications | ISO 9001:2015 Quality Management; FSC Chain-of-Custody (CU-COC); EN 13432 Industrial Compostability; High-Tech Enterprise (Guangdong Province) |
 | Sample Policy | Free pre-production sample for order confirmation (customer pays freight); digital 3D proof within 24 hours |
 | Lead Time | 7–15 working days for standard production; 5–7 days for rush orders with surcharge |

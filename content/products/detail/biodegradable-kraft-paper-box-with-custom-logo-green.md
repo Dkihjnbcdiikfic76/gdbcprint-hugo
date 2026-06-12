@@ -82,7 +82,7 @@ Biodegradable kraft paper box with custom logo printing — manufactured by Guan
 | Differentiator | Detail |
 |---|---|
 | **22-Year Legacy** | Manufacturing since 2003 — 500+ global brands served |
-| **18,000 sqm Campus** | 10,000 sqm factory + 8,000 sqm smart factory (2025) |
+| **18,000 sqm Campus** | 18,000 sqm factory (10,000+8,000 smart factory (2025) |
 | **KBA + Heidelberg** | German-engineered offset presses with soy-ink compatibility |
 | **FSC Certified** | Chain-of-Custody since 2019 — full fiber traceability |
 | **1.7M Daily Output** | 1.7M boxes per day (post-2025 expansion) |

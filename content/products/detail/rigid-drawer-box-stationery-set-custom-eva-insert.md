@@ -16,7 +16,7 @@ params:
 
 ## Product Overview
 
-The Bincai Rigid Drawer Box is designed for premium stationery brands, corporate gift programs, and luxury pen manufacturers seeking an elegant slide-out presentation format. The drawer mechanism — pulled by a **satin ribbon tab** and secured with a hidden magnetic catch — creates a ceremonial unboxing that elevates even a simple pen set into a memorable gift. Inside, a **CNC-machined EVA foam insert** cradles each pen, USB drive, or accessory in its own precision cavity (±0.5mm tolerance), preventing shifting during transit while presenting each item at the optimal viewing angle. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — ISO 9001:2015 and FSC Chain-of-Custody certified with 22 years of packaging expertise — every drawer box passes 10-point QC including slide-force consistency (3-5N ideal range), magnet catch engagement verification, and lamination adhesion cross-hatch testing. Our dual-factory setup (10,000 sqm Foshan + 8,000 sqm smart facility, 2025) delivers 1.7M+ boxes daily on Heidelberg 7+1 UV and KBA 1050 press lines.
+The Bincai Rigid Drawer Box is designed for premium stationery brands, corporate gift programs, and luxury pen manufacturers seeking an elegant slide-out presentation format. The drawer mechanism — pulled by a **satin ribbon tab** and secured with a hidden magnetic catch — creates a ceremonial unboxing that elevates even a simple pen set into a memorable gift. Inside, a **CNC-machined EVA foam insert** cradles each pen, USB drive, or accessory in its own precision cavity (±0.5mm tolerance), preventing shifting during transit while presenting each item at the optimal viewing angle. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — ISO 9001:2015 and FSC Chain-of-Custody certified with 22 years of packaging expertise — every drawer box passes 10-point QC including slide-force consistency (3-5N ideal range), magnet catch engagement verification, and lamination adhesion cross-hatch testing. Our 18,000 sqm facility (10,000+8,000 smart factory, 2025) delivers 1.7M+ boxes daily on Heidelberg 7+1 UV and KBA 1050 press lines.
 
 ## Applications
 
@@ -78,7 +78,7 @@ The Bincai Rigid Drawer Box is designed for premium stationery brands, corporate
 
 ---
 
-*Guangdong Bincai Color Printing Co., Ltd. — 22 years of packaging excellence. ISO 9001:2015 & FSC certified. 10,000 sqm Foshan factory + 8,000 sqm smart facility. Daily output: 1.7M+ boxes. Serving 60+ countries worldwide.*
+*Guangdong Bincai Color Printing Co., Ltd. — 22 years of packaging excellence. ISO 9001:2015 & FSC certified. 18,000 sqm Foshan facility (10,000+8,000 smart factory). Daily output: 1.7M+ boxes. Serving 60+ countries worldwide.*
 
 ## Why Bincai
 

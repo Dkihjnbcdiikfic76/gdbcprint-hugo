@@ -16,7 +16,7 @@ params:
 
 ## Custom Corrugated Display Box with CMYK Print
 
-Professional custom corrugated display box with CMYK offset printing for retail environments by Guangdong Bincai Color Printing Co., Ltd. Our corrugated display boxes combine structural strength with premium print quality — KBA 1050 4-color offset press delivers vivid graphics on B-flute or E-flute corrugated board. These point-of-purchase (POP) displays are engineered for retail shelves, end-cap promotions, and countertop merchandising. Bincai's 10,000 sqm factory plus 8,000 sqm smart expansion produces 1.7M+ boxes daily with ISO 9001 & FSC certification.
+Professional custom corrugated display box with CMYK offset printing for retail environments by Guangdong Bincai Color Printing Co., Ltd. Our corrugated display boxes combine structural strength with premium print quality — KBA 1050 4-color offset press delivers vivid graphics on B-flute or E-flute corrugated board. These point-of-purchase (POP) displays are engineered for retail shelves, end-cap promotions, and countertop merchandising. Bincai.s 18,000 sqm factory (10,000+8,000 smart expansion produces 1.7M+ boxes daily with ISO 9001 & FSC certification.
 
 ## Applications
 

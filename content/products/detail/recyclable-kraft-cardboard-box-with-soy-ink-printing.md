@@ -2,7 +2,7 @@
 title: "Recyclable Kraft Cardboard Box with Soy Ink Printing"
 date: 2026-06-10
 draft: false
-description: "100% recyclable kraft cardboard box with biodegradable soy ink printing. ISO 9001 & FSC certified. Zero plastic. Compostable options. 22-year Bincai factory — 10,000sqm, Heidelberg 7+1 UV press, daily output 1.7M boxes. MOQ 500."
+description: "100% recyclable kraft cardboard box with biodegradable soy ink printing. ISO 9001 & FSC certified. Zero plastic. Compostable options. 22-year Bincai factory — 18,000 sqm (10,000+8,000 smart factory), Heidelberg 7+1 UV press, daily output 1.7M boxes. MOQ 500."
 keywords: "recyclable kraft box, soy ink printing, eco-friendly cardboard box, biodegradable packaging, FSC certified box, zero plastic packaging, kraft cardboard box manufacturer, sustainable gift box, compostable packaging, Bincai Color Printing, green packaging China, soy-based ink box, plastic-free packaging"
 categories: ["kraft-eco-boxes"]
 params:

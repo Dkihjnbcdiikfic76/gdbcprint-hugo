@@ -56,7 +56,7 @@ Single-door magnetic boxes with ribbon tie add ceremony to the unboxing experien
 
 ## Factory
 - 22 years of manufacturing excellence (founded 2003)
-- 10,000 sqm main factory + 8,000 sqm new smart facility (2025)
+- 18,000 sqm integrated facility (10,000+8,000 smart factory, 2025)
 - 80+ skilled craftspeople across rigid box assembly, finishing, and QA
 - KBA 1050 4-color + Heidelberg 7+1 UV presses + full rigid box automation
 - Export to 40+ countries across six continents

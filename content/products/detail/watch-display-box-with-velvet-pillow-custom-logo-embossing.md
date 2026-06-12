@@ -66,7 +66,7 @@ Watch display boxes with velvet pillows serve as the critical first touchpoint b
 ## Factory
 
 - 22 years of manufacturing excellence (founded 2003)
-- 10,000 sqm main factory + 8,000 sqm new smart factory (commissioned 2025)
+- 18,000 sqm integrated facility (10,000+8,000 smart factory) (commissioned 2025)
 - 80+ skilled craftspeople across design, prepress, printing, rigid box assembly, and finishing
 - KBA 1050 4-color + Heidelberg 7+1 UV + Bobst foil stamping and die-cutting + automated rigid box line
 - Export to 40+ countries across six continents — North America, Europe, Middle East, Asia-Pacific, Africa, South America

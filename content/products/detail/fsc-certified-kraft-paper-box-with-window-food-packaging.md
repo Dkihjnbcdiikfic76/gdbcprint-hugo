@@ -64,7 +64,7 @@ FSC certified kraft paper box with clear PET window for food packaging — desig
 
 ## Factory
 - 22 years of manufacturing excellence since 2003
-- 10,000 sqm facility + 8,000 sqm smart factory (2025) in Foshan, Guangdong
+- 18,000 sqm integrated facility (10,000+8,000 smart factory, 2025) in Foshan, Guangdong
 - 80+ employees, full in-house prepress-to-finishing, dedicated food-grade production area
 - KBA 1050 4-color + Heidelberg 7+1 UV presses with food-safe ink management
 - Daily output: 1.7 million color boxes across all product categories

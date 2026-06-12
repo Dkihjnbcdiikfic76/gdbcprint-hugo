@@ -2,7 +2,7 @@
 title: "Kraft Paper Drawer Box with Window Custom Tea Packaging"
 date: 2026-06-10
 draft: false
-description: "Eco-friendly kraft paper drawer box with PET window for premium tea packaging. ISO 9001 & FSC certified. Soy-ink printed on Heidelberg 7+1 UV press. Biodegradable kraft + greyboard. MOQ 500 units. Free samples. Bincai — 22-year factory, 10,000sqm, daily output 1.7M boxes."
+description: "Eco-friendly kraft paper drawer box with PET window for premium tea packaging. ISO 9001 & FSC certified. Soy-ink printed on Heidelberg 7+1 UV press. Biodegradable kraft + greyboard. MOQ 500 units. Free samples. Bincai — 22-year factory, 18,000 sqm (10,000+8,000 smart factory), daily output 1.7M boxes."
 keywords: "kraft drawer box, tea packaging box, window gift box, eco-friendly tea box, custom drawer box, PET window packaging, kraft paper box manufacturer, FSC certified packaging, biodegradable tea box, Bincai Color Printing, loose leaf tea packaging, soy ink printed box"
 categories: ["kraft-eco-boxes"]
 params:

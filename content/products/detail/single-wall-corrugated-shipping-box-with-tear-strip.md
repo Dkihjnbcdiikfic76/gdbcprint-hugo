@@ -2,7 +2,7 @@
 title: "Single Wall Corrugated Shipping Box with Tear Strip"
 date: 2026-06-10
 draft: false
-description: "Custom single-wall corrugated shipping box with integrated tear strip for easy consumer opening. B/C/E-flute options, flexo/offset printed. Ideal for e-commerce, subscription boxes, and mail-order. ISO 9001 & FSC certified. Bincai — 22-year factory, 10,000sqm, MOQ 500."
+description: "Custom single-wall corrugated shipping box with integrated tear strip for easy consumer opening. B/C/E-flute options, flexo/offset printed. Ideal for e-commerce, subscription boxes, and mail-order. ISO 9001 & FSC certified. Bincai — 22-year factory, 18,000 sqm (10,000+8,000 smart factory), MOQ 500."
 keywords: "corrugated shipping box, single-wall corrugated box, tear strip box, e-commerce shipping box, subscription box, mail order packaging, custom corrugated mailer, corrugated box manufacturer China, ISO 9001 FSC packaging, tear-open box, Bincai Color Printing, shipping box with tear strip, retail shipping box"
 categories: ["corrugated-mailers"]
 params:

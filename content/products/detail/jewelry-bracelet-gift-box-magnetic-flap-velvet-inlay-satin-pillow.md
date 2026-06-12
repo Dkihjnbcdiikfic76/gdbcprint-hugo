@@ -2,7 +2,7 @@
 title: "Jewelry Bracelet Gift Box with Magnetic Flap, Velvet Inlay and Satin Pillow"
 date: 2026-06-10
 draft: false
-description: "Custom bracelet gift box with magnetic flap closure, velvet inlay, satin pillow insert — ideal for luxury bracelets, bangles, and charm jewelry. KBA 1050 & Heidelberg 7+1 UV manufactured. ISO 9001 & FSC certified. Bincai — 22-year factory, 10,000sqm, MOQ 500."
+description: "Custom bracelet gift box with magnetic flap closure, velvet inlay, satin pillow insert — ideal for luxury bracelets, bangles, and charm jewelry. KBA 1050 & Heidelberg 7+1 UV manufactured. ISO 9001 & FSC certified. Bincai — 22-year factory, 18,000 sqm (10,000+8,000 smart factory), MOQ 500."
 keywords: "bracelet gift box, jewelry display box, velvet inlay box, magnetic flap jewelry box, satin pillow bracelet box, bangle packaging box, charm jewelry box, bracelet display packaging, custom jewelry box manufacturer China, luxury bracelet packaging, ISO 9001 FSC packaging, Bincai Color Printing, jewelry gift box wholesale"
 categories: ["jewelry-boxes"]
 params:
@@ -83,7 +83,7 @@ Custom bracelet gift box with magnetic flap closure — manufactured by Guangdon
 - **22 years** of rigid box manufacturing expertise since 2003 — trusted by jewelry brands across 60+ countries
 - **Heidelberg 7+1 UV** press for specialty finishes: drip-off, soft-touch, and hybrid UV unique in the Pearl River Delta
 - **Bobst BMA** hot foil stamping — up to 6 foil colors per box for multi-metal luxury branding
-- **Dual factory** capacity: 10,000 sqm (Foshan HQ) + 8,000 sqm (satellite) = 1.7M boxes/day
+- **Dual factory** capacity: 18,000 sqm (10,000+8,000 smart factory) = 1.7M boxes/day
 - **FSC certified** — sustainable paper sourcing for eco-conscious luxury jewelry brands
 - Full in-house capability: pre-press → printing → lamination → die-cutting → foil stamping → rigid box wrapping → velvet lining → pillow insertion → inspection → packing
 - **Foshan, Guangdong** location — 1.5 hours from Guangzhou Baiyun Airport and Shenzhen Yantian Port for efficient logistics

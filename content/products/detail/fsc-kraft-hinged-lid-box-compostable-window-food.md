@@ -2,7 +2,7 @@
 title: "FSC Kraft Paper Hinged-Lid Box with Compostable Window Film for Food Display"
 date: 2026-06-11
 draft: false
-description: "FSC-certified kraft paper hinged-lid box with compostable PLA window film for food display and bakery packaging. Soy-based ink, water-based coating, ISO 9001 & FSC. Bincai — 22-year factory, 10,000sqm, MOQ 1000."
+description: "FSC-certified kraft paper hinged-lid box with compostable PLA window film for food display and bakery packaging. Soy-based ink, water-based coating, ISO 9001 & FSC. Bincai — 22-year factory, 18,000 sqm (10,000+8,000 smart factory), MOQ 1000."
 keywords: "FSC kraft paper box, hinged lid food box, compostable window film, PLA window packaging, sustainable food display box, bakery packaging box, soy-based ink, eco-friendly packaging, ISO 9001 FSC, Bincai"
 categories: ["kraft-eco-boxes"]
 params:
@@ -14,7 +14,7 @@ params:
 
 ![Bincai Kraft Eco Boxes](/images/kraft-eco-box.jpg)
 
-FSC-certified kraft paper hinged-lid box with compostable PLA window film for food display and bakery packaging — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). This is the industry's most complete end-to-end compostable packaging solution: FSC kraft board, PLA (polylactic acid) window film certified to EN 13432 industrial composting standard, soy-based ink (Müller Martini certified, low-VOC, heavy-metal-free), and water-based compostable coating — every component designed to return to soil in industrial composting facilities within 90 days. The hinged-lid design with locking tab opens and closes repeatedly without tearing, maintaining structural integrity through multiple customer interactions at farmers' markets, bakeries, and retail displays. Produced on KBA 1050 4-color presses across 10,000 sqm factory floor with an 8,000 sqm satellite facility. Daily output 1.7 million boxes. ISO 9001 and FSC certified. Food-grade compliant per FDA 21 CFR and EU Regulation (EC) No. 1935/2004 for direct food contact.
+FSC-certified kraft paper hinged-lid box with compostable PLA window film for food display and bakery packaging — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). This is the industry's most complete end-to-end compostable packaging solution: FSC kraft board, PLA (polylactic acid) window film certified to EN 13432 industrial composting standard, soy-based ink (Müller Martini certified, low-VOC, heavy-metal-free), and water-based compostable coating — every component designed to return to soil in industrial composting facilities within 90 days. The hinged-lid design with locking tab opens and closes repeatedly without tearing, maintaining structural integrity through multiple customer interactions at farmers' markets, bakeries, and retail displays. Produced on KBA 1050 4-color presses across 18,000 sqm factory floor (10,000+8,000 smart factory). Daily output 1.7 million boxes. ISO 9001 and FSC certified. Food-grade compliant per FDA 21 CFR and EU Regulation (EC) No. 1935/2004 for direct food contact.
 
 ## Applications
 | Application | Details |
@@ -89,7 +89,7 @@ FSC-certified kraft paper hinged-lid box with compostable PLA window film for fo
 - **EN 13432 certified** PLA window film from NatureWorks Ingeo™ — industrial compost within 90 days, no microplastic residue
 - **FSC Chain of Custody** certified (SGSHK-COC-008796) — full material traceability from responsibly managed forests
 - **Food-grade compliance** — FDA 21 CFR, EU (EC) No. 1935/2004, and GB 9685-2016 for global food contact markets
-- **Dual factory** capacity: 10,000 sqm (Foshan HQ) + 8,000 sqm (satellite facility) = 1.7M boxes/day
+- **Factory** capacity: 18,000 sqm (Foshan HQ) + 8,000 sqm (satellite facility) = 1.7M boxes/day
 - **Soy-based ink** (Müller Martini certified) — low-VOC, heavy-metal-free, renewable content — better for composting facilities than petroleum inks
 - **KBA 1050 offset printing** in-house for consistent quality on kraft board with soy-based inks
 - Full in-house: pre-press CTP → KBA printing → die-cutting → window patching → folding/gluing → QC → packing — no subcontractor delays

@@ -50,7 +50,7 @@ Every box undergoes 16 quality checkpoints: lid-to-base alignment (±0.5mm), mag
 - **22 years** premium packaging manufacturing since 2003
 - **Heidelberg 7+1 UV press** for stunning print quality
 - **Dedicated rigid box line** with 200K+ daily capacity
-- **10,000 sqm factory** with recently expanded 8,000 sqm smart factory wing
+- **18,000 sqm integrated facility** (10,000+8,000 smart factory)
 - **High-Tech Enterprise** certified by Guangdong Province
 - **ISO 9001 & FSC certified** — quality and environmental stewardship
 - **Free pre-production samples** in 3-5 working days

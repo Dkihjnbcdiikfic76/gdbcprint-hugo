@@ -59,7 +59,7 @@ Two-piece rigid boxes with foam inserts provide the ultimate protection and pres
 
 ## Factory
 - 22 years of manufacturing excellence (founded 2003)
-- 10,000 sqm main factory + 8,000 sqm new smart factory (commissioned 2025)
+- 18,000 sqm integrated facility (10,000+8,000 smart factory) (commissioned 2025)
 - 80+ skilled craftspeople across rigid box assembly, foam fabrication, and finishing
 - KBA 1050 4-color + Heidelberg 7+1 UV presses + fully automatic rigid box production line
 - Export to 40+ countries across six continents — North America, Europe, Middle East, Asia-Pacific, Africa, South America

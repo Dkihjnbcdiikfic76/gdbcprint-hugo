@@ -2,7 +2,7 @@
 title: "Custom Rigid Gift Box with Telescopic Lid Hot Foil Stamping"
 date: 2026-06-11
 draft: false
-description: "Custom rigid gift box with telescopic lid, hot foil stamping, matte/gloss lamination. Manufactured by Bincai: KBA 1050 4-color offset + Heidelberg 7+1 UV presses, 10,000sqm factory, 22 years experience, ISO 9001:2015 & FSC certified, 1.7M daily output, 220+ workers. Bobst BMA foil stampers, 1200–2000gsm greyboard, soft-touch velvet finish, embossing, spot UV. MOQ 500. Direct factory pricing."
+description: "Custom rigid gift box with telescopic lid, hot foil stamping, matte/gloss lamination. Manufactured by Bincai: KBA 1050 4-color offset + Heidelberg 7+1 UV presses, 18,000 sqm (10,000+8,000 smart factory), 22 years experience, ISO 9001:2015 & FSC certified, 1.7M daily output, 220+ workers. Bobst BMA foil stampers, 1200–2000gsm greyboard, soft-touch velvet finish, embossing, spot UV. MOQ 500. Direct factory pricing."
 keywords: "rigid gift box telescopic lid, hot foil stamping gift box, luxury rigid box, telescopic lid packaging, premium gift box manufacturer China, KBA 1050 offset printing, Heidelberg 7+1 UV, ISO 9001 FSC rigid box, Bobst hot foil box, matte lamination gift box, rigid box wholesale, custom luxury packaging, Bincai, Guangdong rigid box factory, 10 000 sqm factory"
 categories: ["rigid-gift-boxes"]
 params:

@@ -85,7 +85,7 @@ The Bincai Kraft Paper Gift Box with Cotton Handle and Soy Ink Printing offers a
 ## Factory Details
 
 - **Founded**: 2003 (22+ years paper box manufacturing)
-- **Facility**: 10,000 sqm original factory + 8,000 sqm smart factory (2025 expansion)
+- **Facility**: 18,000 sqm integrated facility (10,000+8,000 smart factory, 2025 expansion)
 - **Daily Output**: 1.7M color boxes + 220,000+ gift boxes
 - **Equipment**: KBA 1050 4-color offset, Heidelberg 7+1 UV, Bobst flatbed die-cutters
 - **Certifications**: ISO 9001:2015, FSC Chain-of-Custody, High-Tech Enterprise

@@ -69,7 +69,7 @@ The straight tuck end (STE) folding carton is one of the most versatile and cost
 | Differentiator | Detail |
 |---|---|
 | **22-Year Legacy** | Manufacturing since 2003 — over 500 global brands served |
-| **18,000 sqm** | 10,000 sqm factory + 8,000 sqm smart factory (2025) |
+| **18,000 sqm** | 18,000 sqm factory (10,000+8,000 smart factory (2025) |
 | **KBA + Heidelberg** | German-engineered offset presses for precision printing |
 | **ISO 9001 & FSC** | Quality management + sustainable material sourcing |
 | **In-House Tooling** | Rapid die production, 3-day sample turnaround |

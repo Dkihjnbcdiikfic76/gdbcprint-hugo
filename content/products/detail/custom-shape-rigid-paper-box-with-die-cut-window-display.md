@@ -76,7 +76,7 @@ The custom shape rigid paper box with die-cut window display is engineered for b
 | Differentiator | Detail |
 |---|---|
 | **22-Year Legacy** | Manufacturing since 2003 — 500+ global brands served |
-| **18,000 sqm Total** | 10,000 sqm factory + 8,000 sqm smart factory (2025) |
+| **18,000 sqm Total** | 18,000 sqm factory (10,000+8,000 smart factory (2025) |
 | **KBA + Heidelberg** | German offset presses for premium rigid box wraps |
 | **In-House Die-Cutting** | Bobst flatbed — custom shapes without outsourcing |
 | **ISO 9001 & FSC** | Quality management + sustainable material sourcing |

@@ -60,7 +60,7 @@ Luxury watch and jewelry rigid paper box with magnetic flap closure — the defi
 
 ## Factory
 - 22 years of rigid box manufacturing since 2003 in Foshan, Guangdong, China
-- 10,000 sqm main facility + 8,000 sqm smart factory (commissioned 2025)
+- 18,000 sqm integrated facility (10,000+8,000 smart factory) (commissioned 2025)
 - 80+ skilled craftspeople including dedicated luxury box assembly specialists
 - KBA 1050 4-color + Heidelberg 7+1 UV + Bobst foil stamping + automatic rigid box line
 - In-house flocking, magnet insertion, and cushion fabrication — zero subcontracting

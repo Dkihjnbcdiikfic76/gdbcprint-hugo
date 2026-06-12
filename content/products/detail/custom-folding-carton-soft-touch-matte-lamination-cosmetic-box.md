@@ -2,7 +2,7 @@
 title: "Custom Folding Carton Soft Touch Matte Lamination Cosmetic Box"
 date: 2026-06-10
 draft: false
-description: "Custom folding carton with soft-touch matte lamination for cosmetic packaging. Spot UV accents, gold foil logo, auto-lock bottom. 22yr ISO 9001 & FSC factory — 10,000sqm, KBA 1050 + Heidelberg 7+1 UV, 1.7M daily output. MOQ 500."
+description: "Custom folding carton with soft-touch matte lamination for cosmetic packaging. Spot UV accents, gold foil logo, auto-lock bottom. 22yr ISO 9001 & FSC factory — 18,000 sqm (10,000+8,000 smart factory), KBA 1050 + Heidelberg 7+1 UV, 1.7M daily output. MOQ 500."
 keywords: "custom folding carton cosmetic box, soft touch matte lamination box, premium cosmetic packaging, folding carton with spot UV, gold foil cosmetic box, skincare packaging box, folding carton manufacturer, Bincai Color Printing, cosmetic box manufacturer China, matte lamination folding carton, luxury cosmetic packaging, ISO 9001 folding carton, FSC certified cosmetic box"
 categories: ["folding-cartons"]
 params:

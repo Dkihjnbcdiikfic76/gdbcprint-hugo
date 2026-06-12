@@ -2,7 +2,7 @@
 title: "Natural Kraft Paper Gift Box with Jute Ribbon Eco Friendly"
 date: 2026-06-10
 draft: false
-description: "Natural kraft paper gift box with jute ribbon — fully recyclable, plastic-free, FSC certified. 22yr ISO 9001 factory, 10,000sqm, KBA 1050 + Heidelberg 7+1 UV, soy-ink printed, 1.7M daily output. MOQ 500."
+description: "Natural kraft paper gift box with jute ribbon — fully recyclable, plastic-free, FSC certified. 22yr ISO 9001 factory, 18,000 sqm (10,000+8,000 smart factory), KBA 1050 + Heidelberg 7+1 UV, soy-ink printed, 1.7M daily output. MOQ 500."
 keywords: "natural kraft paper gift box, jute ribbon gift box, eco-friendly gift packaging, FSC certified kraft box, sustainable gift box manufacturer, recyclable gift box, brown kraft box, Bincai Color Printing, jute handle paper box, plastic-free gift packaging, rustic kraft box, soy ink gift box, eco gift box China"
 categories: ["kraft-eco-boxes"]
 params:

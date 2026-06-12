@@ -57,7 +57,7 @@ Custom velvet earring display box with magnetic flip lid — the go-to packaging
 
 ## Factory
 - 22 years manufacturing experience (founded 2003)
-- 10,000 sqm main factory + 8,000 sqm smart facility
+- 18,000 sqm facility (10,000+8,000 smart facility
 - Specialized jewelry box assembly line with velvet lamination, foam fabrication, and magnet insertion
 - Export to 40+ countries worldwide
 - Daily output: 1.7 million boxes total

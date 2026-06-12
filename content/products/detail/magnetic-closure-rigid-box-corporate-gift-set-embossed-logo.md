@@ -2,7 +2,7 @@
 title: "Magnetic Closure Rigid Box for Corporate Gift Sets with Embossed Logo"
 date: 2026-06-10
 draft: false
-description: "Custom magnetic closure rigid box for corporate gift sets — 2.5mm greyboard with embossed logo, gold foil stamping, and velvet interior. KBA 1050 4-color & Heidelberg 7+1 UV presses. ISO 9001 & FSC certified. Bincai — 22-year factory, 10,000sqm, MOQ 500."
+description: "Custom magnetic closure rigid box for corporate gift sets — 2.5mm greyboard with embossed logo, gold foil stamping, and velvet interior. KBA 1050 4-color & Heidelberg 7+1 UV presses. ISO 9001 & FSC certified. Bincai — 22-year factory, 18,000 sqm (10,000+8,000 smart factory), MOQ 500."
 keywords: "magnetic closure rigid box, corporate gift box, embossed logo box, premium corporate packaging, magnetic closure gift box, custom rigid box manufacturer China, corporate gift packaging, gold foil stamping box, velvet interior box, ISO 9001 FSC packaging, Bincai Color Printing, executive gift box packaging"
 categories: ["magnetic-closure-boxes"]
 params:

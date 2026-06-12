@@ -59,7 +59,7 @@ Luxury rigid paper box with silver hot foil stamping designed for premium corpor
 
 ## Factory
 - 22 years of manufacturing excellence since 2003 in Foshan, Guangdong, China
-- 10,000 sqm existing facility + 8,000 sqm smart factory (commissioned 2025)
+- 18,000 sqm integrated facility (10,000+8,000 smart factory, commissioned 2025)
 - 80+ skilled employees including dedicated rigid box craftspeople
 - KBA 1050 4-color + Heidelberg 7+1 UV + Bobst foil stamping + fully automatic rigid box assembly line
 - In-house foil stamping, embossing, die-cutting, and edge gilding — no subcontracting

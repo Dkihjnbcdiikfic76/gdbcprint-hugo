@@ -83,7 +83,7 @@ Custom die-cut folding carton with transparent window display for cosmetics, ski
 - **KBA 1050 + Heidelberg 7+1 UV**: vibrant, batch-to-batch color consistency (±ΔE 2.0) critical for brand identity
 - **Automatic window patching**: ultrasonic welding at 15,000 cartons/hr ensures perfect window clarity — no glue haze
 - **ISO 9001** quality management + **FSC Chain of Custody** (SGSHK-COC-008796) for sustainable beauty packaging
-- **Dual factory** capacity: 10,000 sqm (Foshan HQ) + 8,000 sqm (satellite) = 1.7M folding cartons/day
+- **Dual factory** capacity: 18,000 sqm (10,000+8,000 smart factory) = 1.7M folding cartons/day
 - **Food-grade inks** available — low-migration, soy-based, and UV-cured options for products with direct food/skin contact
 - Full in-house production: pre-press CTP → KBA/Heidelberg printing → lamination → die-cutting → window patching → folder-gluer → QC → packing
 - **Beauty packaging export experience**: serving cosmetic brands across Europe (L'Oréal suppliers), North America (Sephora brand suppliers), Middle East (duty-free), Korea, and Japan

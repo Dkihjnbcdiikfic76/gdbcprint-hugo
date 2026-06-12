@@ -16,7 +16,7 @@ params:
 
 ## Product Overview
 
-The custom folding paper box with PVC window display and food-safe construction is engineered for bakeries, confectioners, tea brands, and ready-to-eat food products. Manufactured by Guangdong Bincai Color Printing (founded 2003, Foshan, ISO 9001 & FSC certified), this folding carton uses food-grade inks on 250-400gsm coated board, with a crystal-clear PVC window that lets customers see the product. Our 10,000 sqm factory + 8,000 sqm smart factory expansion (2025) delivers 1.7 million boxes daily, with full in-house printing, die-cutting, window-patching, and gluing lines.
+The custom folding paper box with PVC window display and food-safe construction is engineered for bakeries, confectioners, tea brands, and ready-to-eat food products. Manufactured by Guangdong Bincai Color Printing (founded 2003, Foshan, ISO 9001 & FSC certified), this folding carton uses food-grade inks on 250-400gsm coated board, with a crystal-clear PVC window that lets customers see the product. Our 18,000 sqm factory (10,000+8,000 smart factory) expansion (2025) delivers 1.7 million boxes daily, with full in-house printing, die-cutting, window-patching, and gluing lines.
 
 ## Manufacturing Specifications
 
@@ -69,7 +69,7 @@ The custom folding paper box with PVC window display and food-safe construction 
 | Differentiator | Detail |
 |---|---|
 | **22-Year Legacy** | Manufacturing since 2003 — 500+ global brands served |
-| **18,000 sqm Total** | 10,000 sqm factory + 8,000 sqm smart factory (2025) |
+| **18,000 sqm Total** | 18,000 sqm factory (10,000+8,000 smart factory (2025) |
 | **KBA + Heidelberg** | German offset presses for precise food-grade printing |
 | **In-House Window Patching** | Automated lines — no outsourcing delays |
 | **ISO 9001 & FSC** | Quality management + sustainable material sourcing |

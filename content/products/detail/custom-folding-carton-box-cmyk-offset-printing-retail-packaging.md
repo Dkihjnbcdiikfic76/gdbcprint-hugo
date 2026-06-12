@@ -72,7 +72,7 @@ Every folding carton batch undergoes rigorous QC aligned with international pack
 
 ## Factory
 - Founded 2003 — 22+ years of folding carton manufacturing
-- 10,000 sqm main facility + 8,000 sqm smart factory (2025)
+- 18,000 sqm integrated facility (10,000+8,000 smart factory) (2025)
 - 80+ employees, full in-house prepress through finishing
 - KBA Heidelberg press lineup with fully automatic post-press
 - Daily output 1.7M+ color boxes serving 200+ global clients

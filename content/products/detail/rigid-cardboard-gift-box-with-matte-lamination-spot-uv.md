@@ -2,7 +2,7 @@
 title: "Rigid Cardboard Gift Box with Matte Lamination Spot UV"
 date: 2026-06-10
 draft: false
-description: "Rigid cardboard gift box with soft-touch matte lamination and high-gloss spot UV contrast. Magnetic closure, custom foam insert. 22yr ISO 9001 & FSC factory — 10,000sqm, Heidelberg 7+1 UV, KBA 1050, 1.7M daily output. MOQ 500."
+description: "Rigid cardboard gift box with soft-touch matte lamination and high-gloss spot UV contrast. Magnetic closure, custom foam insert. 22yr ISO 9001 & FSC factory — 18,000 sqm (10,000+8,000 smart factory), Heidelberg 7+1 UV, KBA 1050, 1.7M daily output. MOQ 500."
 keywords: "rigid cardboard gift box, matte lamination gift box, spot UV rigid box, magnetic closure gift box, custom rigid packaging, luxury cardboard box, soft-touch gift box, Bincai Color Printing, rigid box manufacturer China, premium gift packaging, foil stamping rigid box, wholesale rigid gift box, ISO 9001 rigid box"
 categories: ["rigid-gift-boxes"]
 params:

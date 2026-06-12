@@ -2,7 +2,7 @@
 title: "Kraft Paper Gift Box with Die-Cut Window and Cotton Rope Handle"
 date: 2026-06-10
 draft: false
-description: "Eco-friendly kraft paper gift box with die-cut display window and cotton rope handle — 100% recyclable, soy-based ink printing, FSC certified board. KBA 1050 & Heidelberg 7+1 UV manufactured. Bincai — 22-year factory, 10,000sqm, MOQ 500."
+description: "Eco-friendly kraft paper gift box with die-cut display window and cotton rope handle — 100% recyclable, soy-based ink printing, FSC certified board. KBA 1050 & Heidelberg 7+1 UV manufactured. Bincai — 22-year factory, 18,000 sqm (10,000+8,000 smart factory), MOQ 500."
 keywords: "kraft paper gift box, die-cut window box, cotton rope handle box, eco-friendly gift box, sustainable packaging box, recyclable paper box, FSC certified box, soy ink packaging, kraft window box, eco gift box manufacturer China, ISO 9001 FSC packaging, Bincai Color Printing, natural kraft gift packaging"
 categories: ["kraft-eco-boxes"]
 params:

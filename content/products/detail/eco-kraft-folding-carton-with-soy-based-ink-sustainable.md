@@ -67,7 +67,7 @@ Eco kraft folding carton with soy-based ink — a fully sustainable retail packa
 
 ## Factory
 - 22 years of manufacturing excellence (founded 2003) in Foshan, Guangdong
-- 10,000 sqm main plant + 8,000 sqm smart factory (commissioned 2025)
+- 18,000 sqm integrated facility (10,000+8,000 smart factory, commissioned 2025)
 - 80+ skilled employees, full prepress-to-finishing under one roof
 - KBA 1050 4-color + Heidelberg 7+1 UV + dedicated eco-ink printing station
 - Daily output: 1.7 million color boxes serving 200+ global clients

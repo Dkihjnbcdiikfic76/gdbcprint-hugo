@@ -64,7 +64,7 @@ The Magnetic Lid Paper Box with Embossed Pattern and Velvet Liner by Guangdong B
 | Wrapping Paper GSM | Art paper 128–200gsm, textured specialty paper 120–180gsm, kraft 120–200gsm, leatherette 0.4–0.8mm |
 | Velvet Specifications | Polyester velvet 180–220gsm with 0.8–1.2mm pile height; rayon velvet 200–250gsm with 1.0–1.5mm pile; available in 40+ standard colors |
 | Adhesive System | Water-based PVA emulsion adhesive (low VOC, formaldehyde-free) for paper-to-board lamination and velvet-to-board bonding |
-| Daily Output | 1.7 million color boxes + 220,000+ gift boxes per day across main factory (10,000 sqm) and smart factory (8,000 sqm, 2025) |
+| Daily Output | 1.7 million color boxes + 220,000+ gift boxes per day across 18,000 sqm integrated facility (10,000+8,000 smart factory, 2025) |
 | Smart Factory | 8,000 sqm facility commissioned 2025 with automated guided vehicles, robotic velvet-lining workstations, inline camera QC, and real-time production monitoring |
 | Certifications | ISO 9001:2015 Quality Management System, FSC Chain-of-Custody (SGSHK-COC-012345), Guangdong High-Tech Enterprise Certification |
 | Pre-Production Timeline | Digital design proof: 48 hours; structural mockup: 3–5 days; pre-production sample with actual materials: 7–10 working days |

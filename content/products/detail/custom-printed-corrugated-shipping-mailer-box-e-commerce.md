@@ -2,7 +2,7 @@
 title: "Custom Printed Corrugated Shipping Mailer Box for E-Commerce"
 date: 2026-06-10
 draft: false
-description: "Custom printed corrugated shipping mailer boxes for e-commerce — by Guangdong Bincai, 22-year ISO 9001 & FSC certified factory. Self-locking bottom, tear strip, double-wall options. 10,000sqm facility, daily output 1.7M boxes. MOQ 500 units."
+description: "Custom printed corrugated shipping mailer boxes for e-commerce — by Guangdong Bincai, 22-year ISO 9001 & FSC certified factory. Self-locking bottom, tear strip, double-wall options. 18,000 sqm (10,000+8,000 smart factory), daily output 1.7M boxes. MOQ 500 units."
 keywords: "corrugated mailer box, e-commerce shipping box, custom printed mailer, self-locking box, tear strip mailer, subscription box, ISO 9001 factory, FSC certified, Guangdong manufacturer"
 categories: ["corrugated-mailers"]
 params:

@@ -49,7 +49,7 @@ The heavy-duty corrugated mailer with pinch-bottom self-sealing closure is engin
 ## Production Specifications
 
 - **Primary Equipment**: KBA 1050 4-color offset press (15,000 sheets/hr) + Bobst die-cutter + Emba flexo folder-gluer
-- **Factory**: 10,000 sqm main facility + 8,000 sqm smart factory (2025 expansion), 8 production lines
+- **Factory**: 18,000 sqm integrated facility (10,000+8,000 smart factory) (2025 expansion), 8 production lines
 - **Daily Output**: 220,000+ rigid boxes / 1.7M folding cartons across all lines
 - **Quality Control**: IPC (In-Process Check) at 3 stages — corrugator combine, die-cutting registration, gluing bond strength
 - **Testing**: ECT (Edge Crush Test), BCT (Box Compression Test), Cobb water absorption, burst strength (Mullen)

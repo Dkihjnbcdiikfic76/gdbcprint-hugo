@@ -2,7 +2,7 @@
 title: "Custom Rigid Box with Window Display Perfume Packaging"
 date: 2026-06-10
 draft: false
-description: "Custom rigid box with die-cut window display for luxury perfume packaging. Magnetic closure, velvet/foam insert, gold foil stamping. 22yr ISO 9001 & FSC factory — 10,000sqm, Heidelberg 7+1 UV, KBA 1050, 1.7M daily output. MOQ 500."
+description: "Custom rigid box with die-cut window display for luxury perfume packaging. Magnetic closure, velvet/foam insert, gold foil stamping. 22yr ISO 9001 & FSC factory — 18,000 sqm (10,000+8,000 smart factory), Heidelberg 7+1 UV, KBA 1050, 1.7M daily output. MOQ 500."
 keywords: "rigid perfume box, window display perfume packaging, luxury rigid gift box, magnetic closure perfume box, custom perfume packaging box, die-cut window rigid box, gold foil perfume box, velvet insert gift box, Bincai Color Printing, luxury packaging manufacturer China, rigid box with window, perfume gift box wholesale, ISO 9001 perfume packaging"
 categories: ["rigid-gift-boxes"]
 params:

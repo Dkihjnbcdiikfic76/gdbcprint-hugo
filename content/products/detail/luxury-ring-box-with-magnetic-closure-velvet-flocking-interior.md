@@ -61,7 +61,7 @@ Our magnetic-closure velvet ring boxes serve diverse jewelry retail and gifting 
 
 ## Factory
 - 22 years of manufacturing excellence (founded 2003) in Foshan, Guangdong, China
-- 10,000 sqm existing facility + 8,000 sqm smart factory (commissioned 2025)
+- 18,000 sqm integrated facility (10,000+8,000 smart factory, commissioned 2025)
 - 80+ skilled workers including dedicated jewelry box assembly craftspeople
 - KBA 1050 4-color offset + Heidelberg 7+1 UV + Bobst foil stamping + automatic rigid box line
 - In-house flocking and magnet insertion capability — no subcontracting

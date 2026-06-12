@@ -2,7 +2,7 @@
 title: "Custom Kraft Corrugated Box with Handle Die-Cut Event"
 date: 2026-06-10
 draft: false
-description: "Custom kraft corrugated box with integrated die-cut carry handle — ideal for event giveaways, trade shows, retail carry-out, and DTC subscription shipping. E-flute/B-flute corrugated, CMYK printed, ISO 9001 & FSC certified. MOQ 500. Bincai — 22-year factory, 10,000sqm, daily output 1.7M boxes."
+description: "Custom kraft corrugated box with integrated die-cut carry handle — ideal for event giveaways, trade shows, retail carry-out, and DTC subscription shipping. E-flute/B-flute corrugated, CMYK printed, ISO 9001 & FSC certified. MOQ 500. Bincai — 22-year factory, 18,000 sqm (10,000+8,000 smart factory), daily output 1.7M boxes."
 keywords: "kraft corrugated box with handle, die-cut handle box, event giveaway box, trade show packaging, corrugated carry-out box, kraft corrugated mailer, custom printed corrugated box, corrugated box manufacturer China, ISO 9001 FSC packaging, Bincai Color Printing, retail carry box, e-flute corrugated packaging, subscription box shipping, DTC corrugated mailer"
 categories: ["corrugated-mailers"]
 params:

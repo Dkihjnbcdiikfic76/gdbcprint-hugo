@@ -16,7 +16,7 @@ params:
 
 ## Product Overview
 
-Showcase bracelets, bangles, and fine jewelry with this premium custom rigid jewelry box featuring a precision-cut foam insert. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — an ISO 9001:2015 and FSC Chain-of-Custody certified factory with 22 years of packaging expertise (founded 2003). Our 10,000 sqm Foshan factory, complemented by an 8,000 sqm smart factory commissioned in 2025, produces over 220,000 rigid gift boxes daily across Heidelberg 7+1 UV and KBA 1050 4-color offset presses. Each jewelry box is hand-finished by our 80+ skilled craftspeople, ensuring museum-grade presentation for luxury brands worldwide.
+Showcase bracelets, bangles, and fine jewelry with this premium custom rigid jewelry box featuring a precision-cut foam insert. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — an ISO 9001:2015 and FSC Chain-of-Custody certified factory with 22 years of packaging expertise (founded 2003). Our 18,000 sqm Foshan facility (10,000+8,000 smart factory, commissioned in 2025, produces over 220,000 rigid gift boxes daily across Heidelberg 7+1 UV and KBA 1050 4-color offset presses. Each jewelry box is hand-finished by our 80+ skilled craftspeople, ensuring museum-grade presentation for luxury brands worldwide.
 
 ## Manufacturing Specifications
 
