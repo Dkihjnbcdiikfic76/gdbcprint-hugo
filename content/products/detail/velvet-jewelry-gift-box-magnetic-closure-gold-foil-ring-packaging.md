@@ -106,5 +106,3 @@ This luxurious velvet jewelry gift box combines a magnetic flap closure with gol
 - **Lead Time**: 12-18 days (prototype), 20-30 days (production)
 - **Certifications**: ISO 9001:2015, FSC, REACH, RoHS
 - **Factory Visit**: Welcome — 18,000 sqm facility in Foshan, Guangdong
-
-[Request your free quote →](/contact/)

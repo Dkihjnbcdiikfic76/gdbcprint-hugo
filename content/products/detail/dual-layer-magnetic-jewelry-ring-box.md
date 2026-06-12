@@ -75,5 +75,3 @@ The Bincai Dual-Layer Magnetic Jewelry Ring Box offers versatile presentation wi
 ## Contact
 
 MOQ 500 units. Custom tooling available for unique sizes. Free sample within 5 days. Contact: +86-18934352881 or qo82@icloud.com. Factory visits welcome at Shunde, Foshan, Guangdong.
-
-[Request your free quote →](/contact/)

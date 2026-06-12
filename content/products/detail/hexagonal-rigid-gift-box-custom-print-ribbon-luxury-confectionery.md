@@ -89,5 +89,3 @@ A: Standard lead time is 15–25 days from artwork approval. Pre-production samp
 ## Contact
 
 MOQ 500 units. Hexagon template and cavity layout samples available. Sample within 5 days. Lead time 15-25 days. Phone: +86-18934352881. Email: qo82@icloud.com.
-
-[Request your free quote →](/contact/)

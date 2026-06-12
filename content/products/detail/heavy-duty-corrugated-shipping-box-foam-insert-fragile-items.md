@@ -72,5 +72,3 @@ Guangdong Bincai Color Printing's heavy-duty corrugated shipping box with custom
 22 years of protective packaging manufacturing (founded 2003). 18,000 sqm (10,000+8,000 smart factory) integrated factory in Foshan, Pearl River Delta. KBA 1050 4-color + Heidelberg 7+1 UV presses, in-house die-cutting and foam fabrication. ISO 9001 & FSC certified. ISTA certified testing lab partnerships (SGS, Intertek). 98%+ on-time delivery to 40+ countries.
 
 [Request free quote & samples →](/contact/) — Response within 24 hours. Factory visits welcome.
-
-[Request your free quote →](/contact/)

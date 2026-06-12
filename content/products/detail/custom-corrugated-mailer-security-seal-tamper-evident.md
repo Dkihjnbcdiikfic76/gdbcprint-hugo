@@ -99,5 +99,3 @@ Custom corrugated mailer box with integrated tamper-evident security seal — en
 ## Contact
 
 [Request free quote](/contact/) — response within 24 hours. Free security seal sample within 5 days. MOQ 500. Phone: +86-18934352881. Email: qo82@icloud.com. Bincai Color Printing, Shunde, Foshan, Guangdong, China.
-
-[Request your free quote →](/contact/)

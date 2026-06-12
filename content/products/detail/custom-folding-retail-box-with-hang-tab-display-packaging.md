@@ -90,5 +90,3 @@ Hang-tab folding cartons maximize retail space utilization while keeping your br
 | MOQ | 500-1000 pcs, trial orders accepted |
 | Free Sample | Free pre-production sample (freight collect) |
 | Shipping | Worldwide DHL/FedEx/UPS/Sea |
-
-[Request your free quote →](/contact/)

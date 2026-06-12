@@ -91,5 +91,3 @@ A: Yes. Options include a tear-strip with adhesive reseal strip, a press-to-clos
 | MOQ | 1000-3000 pcs, trial orders accepted |
 | Free Sample | Free pre-production sample (freight collect) |
 | Shipping | Worldwide DHL/FedEx/UPS/Sea |
-
-[Request your free quote →](/contact/)

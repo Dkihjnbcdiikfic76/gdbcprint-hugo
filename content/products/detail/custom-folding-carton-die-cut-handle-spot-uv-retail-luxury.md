@@ -90,5 +90,3 @@ A: MOQ 1,000 units. New tooling: 8–12 working days; repeat orders: 5–7 days.
 | MOQ | 500-1000 pcs, trial orders accepted |
 | Free Sample | Free pre-production sample (freight collect) |
 | Shipping | Worldwide DHL/FedEx/UPS/Sea |
-
-[Request your free quote →](/contact/)

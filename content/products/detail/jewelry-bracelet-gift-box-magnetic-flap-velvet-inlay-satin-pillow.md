@@ -90,5 +90,3 @@ Custom bracelet gift box with magnetic flap closure — manufactured by Guangdon
 - Free 3D structural design, Pantone color matching, and pre-production sampling
 
 **Guangdong Bincai Color Printing Co., Ltd.** — 22 years. 18,000 sqm (10,000+8,000 smart factory). ISO 9001 & FSC certified. Jewelry packaging that elevates your brand.
-
-[Request your free quote →](/contact/)

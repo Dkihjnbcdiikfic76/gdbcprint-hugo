@@ -62,5 +62,3 @@ Magnetic flip-top rigid box for luxury perfume gift set packaging — manufactur
 - Free 3D rendering and structural design service
 - 7-15 day sample turnaround with full finishing
 - Export to 30+ countries with complaint packaging
-
-[Request your free quote →](/contact/)

@@ -103,5 +103,3 @@ This recycled kraft paper window gift box combines eco-conscious materials with 
 - **Lead Time**: 12-18 days (prototype), 20-30 days (production)
 - **Certifications**: ISO 9001:2015, FSC, REACH, RoHS, EN 13432 (PLA option)
 - **Factory Visit**: Welcome — 18,000 sqm facility in Foshan, Guangdong
-
-[Request your free quote →](/contact/)

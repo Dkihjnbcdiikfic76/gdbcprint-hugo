@@ -114,5 +114,3 @@ MOQ 500 units. Satin swatches, foam density samples, and magnet strength demo av
 | MOQ | 500-1000 pcs, trial orders accepted |
 | Free Sample | Free pre-production sample (freight collect) |
 | Shipping | Worldwide DHL/FedEx/UPS/Sea |
-
-[Request your free quote →](/contact/)

@@ -90,5 +90,3 @@ Every rigid box passes through 15 quality control checkpoints across our dedicat
 | **Low MOQ** | 500 units per design — startup and SME friendly |
 
 Contact +86-18934352881 or qo82@icloud.com for design consultation and complimentary 3D samples.
-
-[Request your free quote →](/contact/)

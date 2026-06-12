@@ -95,5 +95,3 @@ Custom magnetic closure rigid box for corporate gift sets — engineered by Guan
 | MOQ | 500-1000 pcs, trial orders accepted |
 | Free Sample | Free pre-production sample (freight collect) |
 | Shipping | Worldwide DHL/FedEx/UPS/Sea |
-
-[Request your free quote →](/contact/)

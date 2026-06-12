@@ -74,5 +74,3 @@ Bincai's double-deck velvet earring display box is engineered for jewelry retail
 ## Contact
 
 MOQ 500 units. Velvet color and tray layout samples available. Sample within 5 days. Lead time 15-25 days. Phone: +86-18934352881. Email: qo82@icloud.com.
-
-[Request your free quote →](/contact/)

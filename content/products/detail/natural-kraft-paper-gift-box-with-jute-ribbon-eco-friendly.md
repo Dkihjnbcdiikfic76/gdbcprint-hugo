@@ -76,5 +76,3 @@ Guangdong Bincai Color Printing's natural kraft paper gift box with jute ribbon 
 22 years of manufacturing excellence (founded 2003). 18,000 sqm (10,000+8,000 smart factory) integrated factory in Foshan — Pearl River Delta packaging ecosystem. KBA 1050 4-color + Heidelberg 7+1 UV presses, 150+ skilled craftspeople. Serving 40+ countries with 98%+ on-time delivery.
 
 [Request free quote & samples →](/contact/) — Response within 24 hours. Factory visits welcome.
-
-[Request your free quote →](/contact/)

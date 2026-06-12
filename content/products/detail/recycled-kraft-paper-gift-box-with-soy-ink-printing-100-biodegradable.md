@@ -126,5 +126,3 @@ A: Yes. We offer soy-based metallic foil alternatives to traditional petroleum-b
 | MOQ | 500-1000 pcs, trial orders accepted |
 | Free Sample | Free pre-production sample (freight collect) |
 | Shipping | Worldwide DHL/FedEx/UPS/Sea — carbon-neutral option available |
-
-[Request your free quote →](/contact/)

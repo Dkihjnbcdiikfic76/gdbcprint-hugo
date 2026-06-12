@@ -104,5 +104,3 @@ Recyclable brown kraft paper rigid gift box with magnetic closure — designed b
 ## Contact
 
 [Request free quote](/contact/) — response within 24 hours. Free eco-luxury sample with FSC and soy ink certifications within 5 days. MOQ 500. Phone: +86-18934352881. Email: qo82@icloud.com. Factory visits welcome in Shunde, Foshan, Guangdong, China.
-
-[Request your free quote →](/contact/)

@@ -100,5 +100,3 @@ In-line quality control at every production stage ensures consistent excellence:
 **Guangdong Bincai Color Printing Co., Ltd.** — 22 years. 18,000 sqm (10,000+8,000 smart factory). ISO 9001 & FSC certified. Your product deserves to be seen.
 
 Contact +86-18934352881 or qo82@icloud.com for design consultation and complimentary samples.
-
-[Request your free quote →](/contact/)

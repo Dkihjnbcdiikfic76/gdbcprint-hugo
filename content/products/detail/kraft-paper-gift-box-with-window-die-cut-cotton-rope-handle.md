@@ -71,5 +71,3 @@ This box is part of Bincai's Green Packaging Line — FSC-certified kraft paperb
 | MOQ | 500-1000 pcs, trial orders accepted |
 | Free Sample | Free pre-production sample (freight collect) |
 | Shipping | Worldwide DHL/FedEx/UPS/Sea |
-
-[Request your free quote →](/contact/)

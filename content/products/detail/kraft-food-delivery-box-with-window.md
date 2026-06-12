@@ -83,5 +83,3 @@ The Bincai Kraft Food Delivery Box with Window combines environmental responsibi
 ## Contact
 
 MOQ from 1,000 units. Free pre-production samples (freight collect). Lead time 10-15 working days. Custom sizes and window shapes available with tooling support. Phone: +86-18934352881. Email: qo82@icloud.com. Factory: No.6-7 Shunyuan North Rd, Wusha, Daliang, Shunde, Foshan, Guangdong, China.
-
-[Request your free quote →](/contact/)

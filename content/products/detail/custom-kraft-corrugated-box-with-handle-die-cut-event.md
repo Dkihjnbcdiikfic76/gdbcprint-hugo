@@ -74,5 +74,3 @@ Guangdong Bincai Color Printing's custom kraft corrugated box with integrated di
 22 years of manufacturing excellence. 18,000 sqm facility (10,000+8,000 smart factory) in Foshan's Pearl River Delta packaging cluster. KBA 1050 4-color + Heidelberg 7+1 UV presses. Full in-house die-cutting, gluing, and assembly lines. 150+ craftspeople. We export to 40+ countries with on-time delivery rate exceeding 98%.
 
 [Request free quote & samples →](/contact/) — Response within 24 hours. Factory visits welcome.
-
-[Request your free quote →](/contact/)

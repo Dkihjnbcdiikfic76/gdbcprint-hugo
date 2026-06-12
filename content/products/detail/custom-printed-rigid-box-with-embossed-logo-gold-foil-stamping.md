@@ -101,5 +101,3 @@ Every rigid box passes through this 15-stage QC gate system:
 ## Contact
 
 MOQ 500 units. Pricing from $0.80/unit (dependent on size, board thickness, finishing complexity). Free pre-production samples with embossed logo and foil stamping within 3–5 business days. Factory visits welcome in Foshan, Guangdong — see our Heidelberg 7+1 UV press and 15-point QC system in action. Contact Mr. Zhou at +86-18934352881 or qo82@icloud.com.
-
-[Request your free quote →](/contact/)

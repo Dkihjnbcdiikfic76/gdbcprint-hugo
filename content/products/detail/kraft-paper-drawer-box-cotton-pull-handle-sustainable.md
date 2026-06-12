@@ -108,5 +108,3 @@ A: Standard production lead time is 15-20 days for existing tooling and stock ma
 ## Contact
 
 MOQ 500 units. Cotton handle color swatches and kraft paper samples available. Sample within 5 days. Lead time 15-25 days. Phone: +86-18934352881. Email: qo82@icloud.com.
-
-[Request your free quote →](/contact/)

@@ -101,5 +101,3 @@ The Bincai Magnetic Closure Book-Style Box combines the elegance of a hardcover 
 - **Phone**: +86-18934352881 (Mr. Zhou)
 - **Email**: qo82@icloud.com
 - **Factory**: Shunde, Foshan, Guangdong, China — factory visits welcome
-
-[Request your free quote →](/contact/)

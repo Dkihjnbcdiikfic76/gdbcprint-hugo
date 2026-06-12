@@ -83,5 +83,3 @@ Luxury rigid paper box with silver hot foil stamping designed for premium corpor
 | MOQ | 500-1000 pcs, trial orders accepted |
 | Free Sample | Free pre-production sample (freight collect) |
 | Shipping | Worldwide DHL/FedEx/UPS/Sea |
-
-[Request your free quote →](/contact/)

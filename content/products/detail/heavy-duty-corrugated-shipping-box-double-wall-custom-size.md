@@ -81,5 +81,3 @@ Built for the most demanding shipping environments, this heavy-duty double wall 
 ## Contact
 
 MOQ 500 units. Pricing from $0.35/unit (varies by size, flute, and print complexity). ISTA 1A transit test reports available on request. Factory visits welcome in Foshan, Guangdong. Contact +86-18934352881 or qo82@icloud.com for a same-day quotation and structural design consultation.
-
-[Request your free quote →](/contact/)

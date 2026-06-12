@@ -88,5 +88,3 @@ Custom corrugated mailer box with integrated bubble lining for glassware and fra
 - Direct factory pricing with no middlemen — competitive rates for startup to enterprise volumes
 
 **Guangdong Bincai Color Printing Co., Ltd.** — 22 years. 18,000 sqm (10,000+8,000 smart factory). ISO 9001 & FSC certified. Protective packaging engineered for fragile confidence.
-
-[Request your free quote →](/contact/)

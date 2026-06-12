@@ -90,5 +90,3 @@ Custom die-cut folding carton with transparent window display for cosmetics, ski
 - Foshan, Guangdong — 1.5 hours to Guangzhou Airport, 2 hours to Shenzhen Yantian Port for global logistics
 
 **Guangdong Bincai Color Printing Co., Ltd.** — Your beauty packaging manufacturing partner. 22 years. 18,000 sqm (10,000+8,000 smart factory). ISO 9001 & FSC certified. Packaging that sells your product.
-
-[Request your free quote →](/contact/)

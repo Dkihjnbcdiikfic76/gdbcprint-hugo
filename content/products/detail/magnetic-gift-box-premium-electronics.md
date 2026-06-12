@@ -108,5 +108,3 @@ A: Yes. Our aqueous soft-touch coating provides a premium velvety feel with fing
 ## Contact
 
 MOQ 500 units. Custom EVA foam insert tooling available. Free sample within 5 days. Lead time 15–25 days. Phone: +86-18934352881. Email: qo82@icloud.com.
-
-[Request your free quote →](/contact/)

@@ -78,5 +78,3 @@ The straight tuck end (STE) folding carton is one of the most versatile and cost
 ## Contact
 
 MOQ 500 units. Pricing from $0.15/unit (dependent on size, board grade, and finishing). Free pre-production samples within 3–5 business days. Factory visits welcome at our Foshan, Guangdong facility. Contact Mr. Zhou at +86-18934352881 or qo82@icloud.com for a same-day quotation.
-
-[Request your free quote →](/contact/)

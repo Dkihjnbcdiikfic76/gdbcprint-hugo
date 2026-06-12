@@ -99,5 +99,3 @@ A: Yes. We create precision die-cut foam or flocked EVA inserts with ±0.2mm cav
 | MOQ | 500-1000 pcs, trial orders accepted |
 | Free Sample | Free pre-production sample (freight collect) |
 | Shipping | Worldwide DHL/FedEx/UPS/Sea |
-
-[Request your free quote →](/contact/)

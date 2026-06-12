@@ -116,5 +116,3 @@ A: Standard timeline: digital proof (1–2 days) → physical sample with actual
 | MOQ | 500-2000 pcs, trial orders accepted |
 | Free Sample | Free pre-production sample (freight collect) |
 | Shipping | Worldwide DHL/FedEx/UPS/Sea |
-
-[Request your free quote →](/contact/)

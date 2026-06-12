@@ -81,5 +81,3 @@ Eco-friendly kraft paper mailer box with paper tape closure — 100% recyclable,
 | MOQ | 500-1000 pcs, trial orders accepted |
 | Free Sample | Free pre-production sample (freight collect) |
 | Shipping | Worldwide DHL/FedEx/UPS/Sea |
-
-[Request your free quote →](/contact/)

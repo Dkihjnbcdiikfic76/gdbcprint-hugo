@@ -89,5 +89,3 @@ A: 10–15 working days for new tooling, 7–10 days for repeat orders. Pre-prod
 | MOQ | 500-1000 pcs, trial orders accepted |
 | Free Sample | Free pre-production sample (freight collect) |
 | Shipping | Worldwide DHL/FedEx/UPS/Sea |
-
-[Request your free quote →](/contact/)

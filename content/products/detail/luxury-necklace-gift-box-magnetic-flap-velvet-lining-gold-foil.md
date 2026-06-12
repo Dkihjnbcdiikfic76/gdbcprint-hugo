@@ -96,5 +96,3 @@ The Bincai Luxury Necklace Gift Box combines a magnetic flap closure with sumptu
 - **Phone**: +86-18934352881 (Mr. Zhou)
 - **Email**: qo82@icloud.com
 - **Factory**: Shunde, Foshan, Guangdong, China — factory visits welcome
-
-[Request your free quote →](/contact/)

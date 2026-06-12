@@ -96,5 +96,3 @@ The Bincai Premium Leather-Look Jewelry Set Box is the ultimate all-in-one jewel
 | MOQ | 500-1000 pcs, trial orders accepted |
 | Free Sample | Free pre-production sample (freight collect) |
 | Shipping | Worldwide DHL/FedEx/UPS/Sea |
-
-[Request your free quote →](/contact/)

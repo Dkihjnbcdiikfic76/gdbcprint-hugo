@@ -67,5 +67,3 @@ In-line QC: board caliper verification, FSC chain-of-custody tracking, soy ink a
 - **FOB Foshan/Shenzhen** — global shipping with sustainable logistics partners
 
 Contact +86-18934352881 or qo82@icloud.com for design consultation and sustainability documentation.
-
-[Request your free quote →](/contact/)

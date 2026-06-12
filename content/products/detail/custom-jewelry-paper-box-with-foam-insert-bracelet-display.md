@@ -90,5 +90,3 @@ Every jewelry box passes through this QC gate system:
 - Third-party inspection supported: SGS, Bureau Veritas, Intertek
 
 Contact: +86-18934352881 or qo82@icloud.com for a free sample kit and quotation.
-
-[Request your free quote →](/contact/)

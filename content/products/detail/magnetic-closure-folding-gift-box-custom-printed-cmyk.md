@@ -97,5 +97,3 @@ Our magnetic closure boxes undergo a comprehensive 12-step QC process:
 - **Samples:** Free physical samples within 5–7 business days
 - **Lead Time:** 10–15 business days for bulk production
 - **Inquiry:** Contact us with your dimensions, artwork, and finish requirements for a custom quotation.
-
-[Request your free quote →](/contact/)

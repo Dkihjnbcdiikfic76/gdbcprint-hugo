@@ -73,5 +73,3 @@ Bincai's two-tone velvet bracelet gift box elevates jewelry presentation with co
 ## Contact
 
 MOQ 500 units. Velvet color samples available. Sample within 5 days. Lead time 15-25 days. Phone: +86-18934352881. Email: qo82@icloud.com.
-
-[Request your free quote →](/contact/)

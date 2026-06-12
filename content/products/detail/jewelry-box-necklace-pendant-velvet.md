@@ -95,5 +95,3 @@ A: ISO 9001:2015 quality management system covers all production processes from 
 ## Contact
 
 MOQ 500 units. Velvet/satin color samples available. Sample within 5 days. Lead time 15-25 days. Phone: +86-18934352881. Email: qo82@icloud.com.
-
-[Request your free quote →](/contact/)

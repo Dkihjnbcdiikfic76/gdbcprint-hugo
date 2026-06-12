@@ -101,5 +101,3 @@ Luxury folding carton with a continuous gold foil stamped border and soft-touch 
 
 Phone: +86-18934352881 (Mr. Zhou) | Email: qo82@icloud.com  
 MOQ 500 units. Design consultation and pre-production samples provided. Response within 24 hours. Factory visits welcome at No.6-7 Shunyuan North Rd, Wusha, Daliang, Shunde, Foshan, Guangdong.
-
-[Request your free quote →](/contact/)

@@ -104,5 +104,3 @@ This premium cosmetic folding carton combines spot UV varnish with soft-touch ma
 - **Lead Time**: 10-15 days (prototype), 18-25 days (production)
 - **Certifications**: ISO 9001:2015, FSC Chain-of-Custody
 - **Factory Visit**: Welcome — 18,000 sqm facility in Foshan, Guangdong
-
-[Request your free quote →](/contact/)

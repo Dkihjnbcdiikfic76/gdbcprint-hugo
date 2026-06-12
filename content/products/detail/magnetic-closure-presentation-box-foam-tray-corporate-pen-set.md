@@ -108,5 +108,3 @@ A: Yes. Bincai holds ISO 9001:2015 (quality management) and FSC Chain-of-Custody
 ## Contact
 
 For custom magnetic closure presentation box inquiries, please contact Bincai through Made-in-China.com or visit gdbcprint.com.
-
-[Request your free quote →](/contact/)

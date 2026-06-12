@@ -89,5 +89,3 @@ Watch display boxes with velvet pillows serve as the critical first touchpoint b
 | MOQ | 500-1000 pcs, trial orders accepted |
 | Free Sample | Free pre-production sample (freight collect) |
 | Shipping | Worldwide DHL/FedEx/UPS/Sea |
-
-[Request your free quote →](/contact/)

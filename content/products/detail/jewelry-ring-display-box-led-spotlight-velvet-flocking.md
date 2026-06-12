@@ -101,5 +101,3 @@ Captivating jewelry ring display box with integrated LED spotlight and luxurious
 - **Lead Time**: 12-18 days new tooling, 8-12 days repeat orders
 - **Phone**: +86-18934352881 (Mr. Zhou)
 - **Email**: qo82@icloud.com
-
-[Request your free quote →](/contact/)

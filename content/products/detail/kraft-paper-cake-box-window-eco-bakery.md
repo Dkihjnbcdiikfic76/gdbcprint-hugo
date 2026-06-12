@@ -83,5 +83,3 @@ A: Full CMYK offset printing on the kraft exterior with soy-based inks — your 
 ## Contact
 
 MOQ 1,000-3,000 units. Sample within 5 days. Lead time 15-25 days. Phone: +86-18934352881. Email: qo82@icloud.com.
-
-[Request your free quote →](/contact/)

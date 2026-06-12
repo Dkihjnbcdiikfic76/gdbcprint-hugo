@@ -96,5 +96,3 @@ A: We follow a 15-point QC checklist from material inspection (board thickness Â
 | MOQ | 500-1000 pcs, trial orders accepted |
 | Free Sample | Free pre-production sample (freight collect) |
 | Shipping | Worldwide DHL/FedEx/UPS/Sea |
-
-[Request your free quote â†’](/contact/)

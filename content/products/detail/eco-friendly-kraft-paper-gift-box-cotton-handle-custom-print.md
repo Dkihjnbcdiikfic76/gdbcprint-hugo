@@ -69,5 +69,3 @@ Eco-friendly kraft paper gift box with natural cotton rope handle and custom pri
 | **Free Samples** | 5-7 day pre-production turnaround |
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Factory visits welcome.
-
-[Request your free quote →](/contact/)

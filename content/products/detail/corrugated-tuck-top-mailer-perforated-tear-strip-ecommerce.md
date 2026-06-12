@@ -99,8 +99,6 @@ The Bincai Corrugated Tuck-Top Mailer with perforated tear strip is purpose-buil
 - **Address**: No.6-7 Shunyuan North Rd, Wusha, Daliang, Shunde, Foshan, Guangdong
 - **Factory Visit**: Welcome — schedule via email or phone
 
-[Request your free quote →](/contact/)
-
 ## FAQ
 
 **Q: What is the minimum order quantity for custom corrugated mailers?**

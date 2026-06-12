@@ -99,5 +99,3 @@ The Bincai Pharmaceutical Folding Carton is engineered for compliance with globa
 - **Email**: qo82@icloud.com
 - **Address**: No.6-7 Shunyuan North Rd, Wusha, Daliang, Shunde, Foshan, Guangdong
 - **Factory Visit**: GMP zone tour available — schedule via email or phone
-
-[Request your free quote →](/contact/)

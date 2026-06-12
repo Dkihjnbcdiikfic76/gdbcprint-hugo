@@ -88,5 +88,3 @@ A: Yes — the kraft corrugated body is standardized, and only the CMYK offset l
 ## Contact
 
 MOQ 1,000 units. Label design template available. Sample within 5 days. Lead time 15-25 days. Phone: +86-18934352881. Email: qo82@icloud.com.
-
-[Request your free quote →](/contact/)

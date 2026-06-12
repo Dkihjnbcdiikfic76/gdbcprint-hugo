@@ -81,5 +81,3 @@ A: Yes — we offer an integrated dual-perforation design. The first perforation
 ## Contact
 
 MOQ 1,000-3,000 units. Sample within 5 days. Lead time 15-20 days. Phone: +86-18934352881. Email: qo82@icloud.com.
-
-[Request your free quote →](/contact/)

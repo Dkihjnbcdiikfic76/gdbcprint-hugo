@@ -81,5 +81,3 @@ Luxury drawer-slide magnetic rigid box with satin ribbon pull-tab and custom die
 | MOQ | 500-1000 pcs, trial orders accepted |
 | Free Sample | Free pre-production sample (freight collect) |
 | Shipping | Worldwide DHL/FedEx/UPS/Sea |
-
-[Request your free quote →](/contact/)

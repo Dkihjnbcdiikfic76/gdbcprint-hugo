@@ -80,5 +80,3 @@ An elegant magnetic closure box with a satin ribbon tie — the signature packag
 - 10–15 day production lead time after sample approval; 7–10 days for repeats
 - Serving 200+ global brands with consistent quality, competitive pricing, and on-time delivery
 - Contact: +86-18934352881 or qo82@icloud.com
-
-[Request your free quote →](/contact/)

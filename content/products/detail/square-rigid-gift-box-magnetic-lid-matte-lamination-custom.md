@@ -98,5 +98,3 @@ The Bincai Square Rigid Gift Box with magnetic lid closure combines clean geomet
 - **Email**: qo82@icloud.com
 - **Address**: No.6-7 Shunyuan North Rd, Wusha, Daliang, Shunde, Foshan, Guangdong
 - **Factory Visit**: Welcome — schedule via email or phone
-
-[Request your free quote →](/contact/)

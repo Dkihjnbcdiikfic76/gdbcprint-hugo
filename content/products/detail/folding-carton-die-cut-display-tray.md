@@ -73,5 +73,3 @@ Bincai's die-cut folding carton display tray combines structural integrity with 
 ## Contact
 
 MOQ 1,000 units. Die tooling: 3-5 days. Sample within 5 days. Lead time 12-18 days. Phone: +86-18934352881. Email: qo82@icloud.com.
-
-[Request your free quote →](/contact/)

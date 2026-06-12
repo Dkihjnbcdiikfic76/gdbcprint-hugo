@@ -95,5 +95,3 @@ A: 15–20 working days for new designs (die production + printing + assembly). 
 
 **Q: What is the MOQ for custom magnetic rigid boxes?**
 A: 500 units for standard sizes and finishes. 1,000+ units for boxes requiring custom dies or specialty materials (velvet lining, metallic foils). Trial orders as low as 100 units are accepted for quality evaluation.
-
-[Request your free quote →](/contact/)

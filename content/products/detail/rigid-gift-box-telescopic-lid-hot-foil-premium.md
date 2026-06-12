@@ -76,5 +76,3 @@ A: Yes. We are ISO 9001:2015 and FSC Chain-of-Custody certified. All greyboard c
 A: 15–20 working days for new tooling, 7–10 working days for repeat orders. Rush service available for time-sensitive projects.
 ## Contact
 For custom telescopic lid rigid gift box inquiries, please contact Bincai through Made-in-China.com or visit gdbcprint.com.
-
-[Request your free quote →](/contact/)

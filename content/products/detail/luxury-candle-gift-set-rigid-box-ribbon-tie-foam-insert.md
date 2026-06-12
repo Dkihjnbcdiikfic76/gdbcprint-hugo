@@ -59,5 +59,3 @@ Luxury candle gift set rigid box with ribbon tie closure and custom foam insert 
 - Direct manufacturer pricing — no intermediaries
 - Free design proofing and 3D mockup service before production
 - 7-15 day sample turnaround for custom configurations
-
-[Request your free quote →](/contact/)

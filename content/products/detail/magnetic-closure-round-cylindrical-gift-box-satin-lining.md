@@ -66,5 +66,3 @@ Bincai's cylindrical magnetic closure gift box stands apart from standard rectan
 | Press Line | KBA 1050 4-color + Heidelberg 7+1 UV |
 | QC | 15 checkpoints from tube rolling to final assembly |
 | Certifications | ISO 9001, FSC |
-
-[Request your free quote →](/contact/)

@@ -99,5 +99,3 @@ For custom sleeve-style folding carton inquiries, sample requests, or factory vi
 - **Email**: qo82@icloud.com
 - **Address**: No.6-7 Shunyuan North Rd, Wusha, Daliang, Shunde, Foshan, Guangdong
 - **Factory Visit**: Welcome — schedule via email or phone
-
-[Request your free quote →](/contact/)

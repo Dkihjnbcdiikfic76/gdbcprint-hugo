@@ -84,5 +84,3 @@ Every box carries the FSC logo — a credible sustainability signal verified by 
 - 10–15 day production lead time with rush orders available
 - FOB Foshan/Shenzhen with global logistics — serving 40+ countries
 - Contact: +86-18934352881 or qo82@icloud.com
-
-[Request your free quote →](/contact/)

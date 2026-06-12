@@ -94,8 +94,6 @@ The Bincai Tuck-Top Auto-Lock Bottom Folding Carton is purpose-engineered for ar
 | Free Sample | Free pre-production sample (freight collect) |
 | Shipping | Worldwide DHL/FedEx/UPS/Sea |
 
-[Request your free quote →](/contact/)
-
 ## FAQ
 
 ### Are your folding cartons food-safe for direct confectionery contact?

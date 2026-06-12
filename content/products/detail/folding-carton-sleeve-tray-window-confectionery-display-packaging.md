@@ -92,5 +92,3 @@ A: The sleeve-tray fit is precision-engineered with controlled friction. For shi
 | MOQ | 1000-3000 pcs, trial orders accepted |
 | Free Sample | Free pre-production sample (freight collect) |
 | Shipping | Worldwide DHL/FedEx/UPS/Sea |
-
-[Request your free quote →](/contact/)

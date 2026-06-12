@@ -68,5 +68,3 @@ Guangdong Bincai Color Printing's custom rigid box with die-cut window display f
 22 years of luxury packaging manufacturing (founded 2003), 18,000 sqm (10,000+8,000 smart factory) integrated factory in Foshan, Pearl River Delta. KBA 1050 + Heidelberg 7+1 UV presses, 150+ skilled staff, ISO 9001 & FSC certified. 98%+ on-time delivery to 40+ countries.
 
 [Request free quote & samples →](/contact/) — Response within 24 hours. Factory visits welcome.
-
-[Request your free quote →](/contact/)

@@ -98,5 +98,3 @@ The Bincai Kraft Paper Gift Box with Cotton Handle and Soy Ink Printing offers a
 - **Lead Time**: 10-20 days standard, 5-7 days expedited
 - **Phone**: +86-18934352881 (Mr. Zhou)
 - **Email**: qo82@icloud.com
-
-[Request your free quote →](/contact/)

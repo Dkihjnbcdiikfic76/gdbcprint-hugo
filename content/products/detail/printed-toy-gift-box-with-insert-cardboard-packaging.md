@@ -117,5 +117,3 @@ Ready to bring your toy packaging to life? Our team provides free structural des
 Phone: +86-18934352881
 Email: qo82@icloud.com
 Factory Address: Guangdong Bincai Color Printing Co., Ltd., Foshan, Guangdong, China
-
-[Request your free quote →](/contact/)

@@ -74,5 +74,3 @@ Bincai's double-wall corrugated wine bottle mailer is purpose-built for DTC wine
 ## Contact
 
 MOQ 500 units. Bottle insert template available. Sample within 5 days. Lead time 15-25 days. Phone: +86-18934352881. Email: qo82@icloud.com.
-
-[Request your free quote →](/contact/)

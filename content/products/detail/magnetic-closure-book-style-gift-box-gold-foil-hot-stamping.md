@@ -117,5 +117,3 @@ A: Yes — magnetic closure book-style boxes can be designed for flat-ship. The 
 ## Contact
 
 MOQ from 500 units. Free pre-production samples (freight collect). Lead time: 15-20 working days (includes tooling for custom sizes). Foil color samples and material swatches available. Phone: +86-18934352881. Email: qo82@icloud.com. Factory: No.6-7 Shunyuan North Rd, Wusha, Daliang, Shunde, Foshan, Guangdong, China.
-
-[Request your free quote →](/contact/)

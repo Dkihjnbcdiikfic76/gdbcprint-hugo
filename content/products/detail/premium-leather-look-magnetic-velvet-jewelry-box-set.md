@@ -91,5 +91,3 @@ This premium 3-piece leather-look magnetic velvet jewelry box set from Guangdong
 ## Contact
 
 [Request free quote](/contact/) — response within 24 hours. Free 3-piece sample set shipped within 5 days. MOQ 500. Lead time 12–15 days. Phone: +86-18934352881. Email: qo82@icloud.com. Factory visits welcome in Shunde, Foshan, Guangdong.
-
-[Request your free quote →](/contact/)

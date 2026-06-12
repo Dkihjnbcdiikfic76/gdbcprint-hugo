@@ -96,5 +96,3 @@ The Bincai Magnetic Closure Tea Set Gift Box is purpose-built for premium tea br
 | MOQ | 500-1000 pcs, trial orders accepted |
 | Free Sample | Free pre-production sample (freight collect) |
 | Shipping | Worldwide DHL/FedEx/UPS/Sea |
-
-[Request your free quote →](/contact/)

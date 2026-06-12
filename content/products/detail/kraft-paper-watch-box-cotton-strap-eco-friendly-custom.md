@@ -98,5 +98,3 @@ The Bincai Kraft Paper Watch Box combines sustainability with premium presentati
 - **Email**: qo82@icloud.com
 - **Address**: No.6-7 Shunyuan North Rd, Wusha, Daliang, Shunde, Foshan, Guangdong
 - **Factory Visit**: Eco-line tour available — schedule via email or phone
-
-[Request your free quote →](/contact/)

@@ -92,5 +92,3 @@ All food-contact materials — PET trays, interior paper liners, adhesives — c
 **Guangdong Bincai Color Printing Co., Ltd.** — 22 years. 18,000 sqm (10,000+8,000 smart factory). ISO 9001 & FSC certified. Premium food packaging your brand deserves.
 
 Contact +86-18934352881 or qo82@icloud.com for design consultation and complimentary samples.
-
-[Request your free quote →](/contact/)

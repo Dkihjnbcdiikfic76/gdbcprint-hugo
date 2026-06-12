@@ -75,5 +75,3 @@ Guangdong Bincai Color Printing's recyclable kraft folding carton for eco-friend
 22 years of manufacturing excellence (founded 2003), operating a 18,000 sqm (10,000+8,000 smart factory) fully integrated factory in Foshan — Pearl River Delta packaging hub. KBA 1050 4-color and Heidelberg 7+1 UV presses, 150+ skilled staff, serving brands in 40+ countries with 98%+ on-time delivery.
 
 [Request free quote & samples →](/contact/) — Response within 24 hours. Factory visits welcome.
-
-[Request your free quote →](/contact/)

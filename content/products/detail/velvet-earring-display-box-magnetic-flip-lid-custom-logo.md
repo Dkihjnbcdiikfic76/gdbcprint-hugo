@@ -79,5 +79,3 @@ Custom velvet earring display box with magnetic flip lid — the go-to packaging
 | MOQ | 500-1000 pcs, trial orders accepted |
 | Free Sample | Free pre-production sample (freight collect) |
 | Shipping | Worldwide DHL/FedEx/UPS/Sea |
-
-[Request your free quote →](/contact/)

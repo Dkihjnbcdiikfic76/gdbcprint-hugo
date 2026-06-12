@@ -97,5 +97,3 @@ The Bincai Magnetic Closure Watch Collector Box is engineered for serious collec
 | MOQ | 500-1000 pcs, trial orders accepted |
 | Free Sample | Free pre-production sample (freight collect) |
 | Shipping | Worldwide DHL/FedEx/UPS/Sea |
-
-[Request your free quote →](/contact/)

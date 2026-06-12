@@ -121,5 +121,3 @@ For custom velvet bracelet display box inquiries, contact Bincai for a free quot
 - **Email**: qo82@icloud.com
 - **MOQ**: 300–500 units | **Lead Time**: 15–20 days
 - **Free Samples**: Pre-production samples in 7–15 working days
-
-[Request your free quote →](/contact/)

@@ -92,5 +92,3 @@ The Bincai Custom Tuck-Top Folding Carton delivers premium cosmetic packaging wi
 - **Phone**: +86-18934352881 (Mr. Zhou)
 - **Email**: qo82@icloud.com
 - **Factory**: Shunde, Foshan, Guangdong, China — factory visits welcome
-
-[Request your free quote →](/contact/)

@@ -99,5 +99,3 @@ The Bincai Velvet Ring Display Box with built-in LED spotlight delivers a premiu
 - **Email**: qo82@icloud.com
 - **Address**: No.6-7 Shunyuan North Rd, Wusha, Daliang, Shunde, Foshan, Guangdong
 - **Factory Visit**: Welcome — schedule via email or phone
-
-[Request your free quote →](/contact/)

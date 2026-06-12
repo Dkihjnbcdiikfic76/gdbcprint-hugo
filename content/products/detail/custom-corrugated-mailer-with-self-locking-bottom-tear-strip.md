@@ -89,5 +89,3 @@ A: E-flute (1.2mm) for lightweight items under 2kg and crisp printing. B-flute (
 | MOQ | 500-1000 pcs, trial orders accepted |
 | Free Sample | Free pre-production sample (freight collect) |
 | Shipping | Worldwide DHL/FedEx/UPS/Sea |
-
-[Request your free quote →](/contact/)

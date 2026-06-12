@@ -101,5 +101,3 @@ Every corrugated pizza box is tailored to your brand identity and operational re
 **Guangdong Bincai Color Printing Co., Ltd.** — 22 years. 18,000 sqm (10,000+8,000 smart factory). ISO 9001 & FSC certified. Your pizza deserves packaging as good as your recipe.
 
 Contact +86-18934352881 or qo82@icloud.com for custom pizza box design and samples.
-
-[Request your free quote →](/contact/)

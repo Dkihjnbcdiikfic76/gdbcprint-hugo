@@ -92,5 +92,3 @@ A: Our telescopic fit is precision-engineered with 0.5–1.0mm clearance between
 | MOQ | 500-1000 pcs, trial orders accepted |
 | Free Sample | Free pre-production sample (freight collect) |
 | Shipping | Worldwide DHL/FedEx/UPS/Sea |
-
-[Request your free quote →](/contact/)

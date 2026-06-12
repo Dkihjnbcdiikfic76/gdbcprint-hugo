@@ -85,5 +85,3 @@ A: Yes. All Bincai corrugated mailers are designed to meet Amazon FBA dimensiona
 ## Contact
 
 MOQ 1,000 units. Free sample within 5 days. Lead time 12-20 days. Phone: +86-18934352881. Email: qo82@icloud.com.
-
-[Request your free quote →](/contact/)

@@ -81,5 +81,3 @@ A: Bincai offers a full range of interior treatments to elevate the unboxing mom
 ## Contact
 
 MOQ 500-1,000 units. Sample within 5 days. Lead time 15-25 days. Phone: +86-18934352881. Email: qo82@icloud.com.
-
-[Request your free quote →](/contact/)

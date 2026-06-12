@@ -117,5 +117,3 @@ A: Yes. The 2.5mm greyboard construction provides robust crush resistance. We te
 | MOQ | 500-1000 pcs, trial orders accepted |
 | Free Sample | Free pre-production sample (freight collect) |
 | Shipping | Worldwide DHL/FedEx/UPS/Sea |
-
-[Request your free quote →](/contact/)

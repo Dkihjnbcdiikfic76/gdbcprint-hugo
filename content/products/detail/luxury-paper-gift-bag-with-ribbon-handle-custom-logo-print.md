@@ -134,5 +134,3 @@ A: Bincai's luxury paper gift bags are engineered for real-world retail use, not
 - **Sample Policy:** Free pre-production sample with ribbon handle and print; freight collect via DHL/FedEx/UPS
 - **Lead Time:** 10–20 working days standard; 5–7 working days expedited
 - **Shipping:** Worldwide DHL/FedEx/UPS express + sea freight FOB Shenzhen/Guangzhou
-
-[Request your free quote →](/contact/)

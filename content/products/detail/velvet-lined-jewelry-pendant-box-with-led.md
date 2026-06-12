@@ -76,5 +76,3 @@ The Bincai Velvet Lined Jewelry Pendant Box with LED transforms jewelry presenta
 ## Contact
 
 MOQ 500 units. LED customization available. Free sample within 5 days. Contact: +86-18934352881 or qo82@icloud.com. Factory visits welcome at Shunde, Foshan, Guangdong.
-
-[Request your free quote →](/contact/)

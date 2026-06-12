@@ -79,5 +79,3 @@ This premium corrugated gift box combines the structural strength of corrugated 
 ## Contact
 
 MOQ 500 units. Trial orders welcome. Free pre-production samples. Lead time 20-28 days. Phone: +86-18934352881 (Mr. Zhou). Email: qo82@icloud.com. [Request free quote →](/contact/)
-
-[Request your free quote →](/contact/)

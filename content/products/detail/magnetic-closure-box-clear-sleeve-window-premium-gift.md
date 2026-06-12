@@ -95,5 +95,3 @@ Premium magnetic closure rigid box with a transparent PET sleeve window — craf
 
 Phone: +86-18934352881 (Mr. Zhou) | Email: qo82@icloud.com  
 MOQ 500 units. Trial orders accepted. Response within 24 hours. Factory visits welcome at No.6-7 Shunyuan North Rd, Wusha, Daliang, Shunde, Foshan, Guangdong.
-
-[Request your free quote →](/contact/)

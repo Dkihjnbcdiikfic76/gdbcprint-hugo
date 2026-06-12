@@ -76,5 +76,3 @@ Double wall corrugated boxes provide maximum crush resistance for heavy, fragile
 | MOQ | 500-1000 pcs, trial orders accepted |
 | Free Sample | Free pre-production sample (freight collect) |
 | Shipping | Worldwide DHL/FedEx/UPS/Sea |
-
-[Request your free quote →](/contact/)
