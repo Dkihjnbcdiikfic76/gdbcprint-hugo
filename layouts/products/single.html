@@ -16,17 +16,9 @@
 <div class="spec-quote-grid">
   {{/* Product Image */}}
   <div class="prod-img-box">
-    {{ $catImg := "/images/cat-rigid-others.jpg" }}
     {{ $cat := index .Params.categories 0 }}
-    {{ if eq $cat "folding-cartons" }}{{ $catImg = "/images/cat-fold-cosmetic.jpg" }}
-    {{ else if eq $cat "corrugated-mailers" }}{{ $catImg = "/images/corrugated-mailer.jpg" }}
-    {{ else if eq $cat "magnetic-closure-boxes" }}{{ $catImg = "/images/magnetic-closure-box.jpg" }}
-    {{ else if eq $cat "kraft-eco-boxes" }}{{ $catImg = "/images/kraft-eco-box.jpg" }}
-    {{ else if eq $cat "jewelry-boxes" }}{{ $catImg = "/images/cat-rigid-jewelry.jpg" }}
-    {{ else if eq $cat "special-shape-boxes" }}{{ $catImg = "/images/cat-rigid-others.jpg" }}
-    {{ else if eq $cat "paper-bags" }}{{ $catImg = "/images/cat-rigid-others.jpg" }}
-    {{ end }}
-    <img src="{{ $catImg }}" alt="{{ .Title }}" loading="lazy" decoding="async">
+    {{ $prodImg := partial "category-img.html" (dict "category" $cat "title" .Title) }}
+    <img src="{{ $prodImg }}" alt="{{ .Title }}" loading="lazy" decoding="async">
   </div>
 
   {{/* Specs + CTA */}}
@@ -70,14 +62,8 @@
     {{ range first 4 (where (where .Site.RegularPages "Section" "products") "Params.categories" "intersect" (slice $current)) }}
     {{ if ne .RelPermalink $.RelPermalink }}
     <div class="card related-card">
-      {{ $relImg := "/images/cat-rigid-others.jpg" }}
       {{ $relCat := index .Params.categories 0 }}
-      {{ if eq $relCat "folding-cartons" }}{{ $relImg = "/images/cat-fold-cosmetic.jpg" }}
-      {{ else if eq $relCat "corrugated-mailers" }}{{ $relImg = "/images/corrugated-mailer.jpg" }}
-      {{ else if eq $relCat "magnetic-closure-boxes" }}{{ $relImg = "/images/magnetic-closure-box.jpg" }}
-      {{ else if eq $relCat "kraft-eco-boxes" }}{{ $relImg = "/images/kraft-eco-box.jpg" }}
-      {{ else if eq $relCat "jewelry-boxes" }}{{ $relImg = "/images/cat-rigid-jewelry.jpg" }}
-      {{ end }}
+      {{ $relImg := partial "category-img.html" (dict "category" $relCat "title" .Title) }}
       <img src="{{ $relImg }}" alt="{{ .Title }}" loading="lazy" decoding="async">
       <div class="related-info">
         <div class="related-title"><a href="{{ .RelPermalink }}">{{ .Title | truncate 55 }}</a></div>

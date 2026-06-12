@@ -16,7 +16,7 @@ params:
 
 ## Product Overview
 
-This premium corrugated gift box combines the structural strength of corrugated board with luxury finishing techniques — custom CMYK offset printing, embossed branding, and spot UV highlight. Manufactured by Bincai Color Printing (founded 2003, Foshan, Guangdong), this box delivers retail-shelf presentation inside a shipping-grade structure. Our 18,000 sqm factory (10,000+8,000 smart factory) (2025) produces 1.7 million boxes daily, with 80+ skilled employees and a full in-house finishing line (KBA 1050, Heidelberg 7+1 UV, Bobst die-cutters, automated gluing).
+This premium corrugated gift box combines the structural strength of corrugated board with luxury finishing techniques — custom CMYK offset printing, embossed branding, and spot UV highlight. Manufactured by Bincai Color Printing (founded 2003, Foshan, Guangdong), this box delivers retail-shelf presentation inside a shipping-grade structure. Our 18,000 sqm factory (10,000+8,000 smart factory, expanded 2025) produces 1.7 million boxes daily, with 80+ skilled employees and a full in-house finishing line (KBA 1050, Heidelberg 7+1 UV, Bobst die-cutters, automated gluing).
 
 ## Manufacturing Specifications
 

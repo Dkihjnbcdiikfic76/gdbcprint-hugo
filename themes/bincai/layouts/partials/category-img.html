@@ -1,0 +1,32 @@
+{{/* 
+  Returns a category-level image URL for a product.
+  Uses product title hash to rotate among 2-3 images per category.
+  Usage: {{ partial "category-img.html" (dict "category" $cat "title" .Title) }}
+*/}}
+{{- $cat := .category -}}
+{{- $title := .title | default "" -}}
+{{- $hash := len $title -}}
+{{- $i := mod $hash 3 -}}
+{{- $img := "" -}}
+{{- if eq $cat "rigid-gift-boxes" -}}
+  {{- $img = index (slice "/images/product-rigid-1.webp" "/images/product-rigid-2.webp" "/images/rigid-gift-boxes.webp") $i -}}
+{{- else if eq $cat "folding-cartons" -}}
+  {{- $img = index (slice "/images/product-fold-1.webp" "/images/product-fold-2.webp" "/images/product-fold-3.jpg") $i -}}
+{{- else if eq $cat "corrugated-mailers" -}}
+  {{- $img = index (slice "/images/product-corr-1.webp" "/images/product-corr-2.webp" "/images/product-corr-3.jpg") $i -}}
+{{- else if eq $cat "magnetic-closure-boxes" -}}
+  {{- $img = index (slice "/images/magnetic-closure-box.webp" "/images/magnetic-closure-boxes.webp" "/images/product-rigid-2.webp") $i -}}
+{{- else if eq $cat "kraft-eco-boxes" -}}
+  {{- $img = index (slice "/images/kraft-eco-boxes.webp" "/images/kraft-eco-box.webp" "/images/product-fold-2.webp") $i -}}
+{{- else if eq $cat "jewelry-boxes" -}}
+  {{- $img = index (slice "/images/jewelry-box.webp" "/images/jewelry-boxes.webp" "/images/cat-rigid-jewelry.webp") $i -}}
+{{- else if eq $cat "special-shape-boxes" -}}
+  {{- $img = index (slice "/images/cat-rigid-others.webp" "/images/product-rigid-1.webp" "/images/cat-rigid-perfume.webp") $i -}}
+{{- else if eq $cat "paper-bags" -}}
+  {{- $img = index (slice "/images/cat-paper-bag.webp" "/images/product-fold-1.webp" "/images/product-corr-1.webp") $i -}}
+{{- else if eq $cat "christmas-gift-boxes" -}}
+  {{- $img = index (slice "/images/product-gift-1.jpg" "/images/product-gift-2.jpg" "/images/cat-fold-gift.webp") $i -}}
+{{- else -}}
+  {{- $img = index (slice "/images/cat-rigid-others.webp" "/images/rigid-box-hero.webp" "/images/product-rigid-1.webp") $i -}}
+{{- end -}}
+{{- $img -}}

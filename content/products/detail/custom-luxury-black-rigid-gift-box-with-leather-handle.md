@@ -13,7 +13,7 @@ params:
 ---
 ![Custom Luxury Black Rigid Gift Box with Leather Handle](/images/cat-rigid-others.jpg)
 
-Premium custom custom luxury black rigid gift box with leather handle manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — a Diamond Member on Made-in-China.com since 2015, Audited Supplier with 22 years of experience.
+Premium custom luxury black rigid gift box with leather handle manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — a Diamond Member on Made-in-China.com since 2015, Audited Supplier with 22 years of experience.
 
 ## Features
 - Custom sizes and materials available

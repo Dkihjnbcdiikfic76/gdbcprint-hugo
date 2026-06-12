@@ -13,7 +13,7 @@ params:
 ---
 ![Custom Printed Tea Paper Packaging Box](/images/cat-fold-cosmetic.jpg)
 
-Premium custom custom printed tea paper packaging box manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — a Diamond Member on Made-in-China.com since 2015, Audited Supplier with 22 years of experience.
+Premium custom printed tea paper packaging box manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — a Diamond Member on Made-in-China.com since 2015, Audited Supplier with 22 years of experience.
 
 ## Features
 - Custom sizes and materials available

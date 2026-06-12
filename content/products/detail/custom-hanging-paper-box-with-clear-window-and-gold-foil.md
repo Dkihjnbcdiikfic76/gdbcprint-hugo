@@ -13,7 +13,7 @@ params:
 ---
 ![Custom Hanging Paper Box with Clear Window and Gold Foil](/images/cat-fold-cosmetic.jpg)
 
-Premium custom custom hanging paper box with clear window and gold foil manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — a Diamond Member on Made-in-China.com since 2015, Audited Supplier with 22 years of experience.
+Premium custom hanging paper box with clear window and gold foil manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — a Diamond Member on Made-in-China.com since 2015, Audited Supplier with 22 years of experience.
 
 ## Features
 - Custom sizes and materials available

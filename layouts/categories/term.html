@@ -9,12 +9,7 @@
 <div class="prod-grid" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:16px;">
 {{ range .Pages }}
 {{ $cat := index .Params.categories 0 }}
-{{ $img := "/images/cat-rigid-others.jpg" }}
-{{ if eq $cat "folding-cartons" }}{{ $img = "/images/cat-fold-cosmetic.jpg" }}
-{{ else if eq $cat "corrugated-mailers" }}{{ $img = "/images/corrugated-mailer.jpg" }}
-{{ else if eq $cat "magnetic-closure-boxes" }}{{ $img = "/images/magnetic-closure-box.jpg" }}
-{{ else if eq $cat "kraft-eco-boxes" }}{{ $img = "/images/kraft-eco-box.jpg" }}
-{{ else if eq $cat "jewelry-boxes" }}{{ $img = "/images/cat-rigid-jewelry.jpg" }}{{ end }}
+{{ $img := partial "category-img.html" (dict "category" $cat "title" .Title) }}
 <div class="prod-card" style="background:#fff;border:1px solid #e0e0e0;border-radius:10px;overflow:hidden;box-shadow:rgba(0,0,0,.04) 2px 6px, rgba(0,0,0,.06) 4px 12px;transition:all .3s ease;">
 <img src="{{ $img }}" alt="{{ .Title }}" loading="lazy" decoding="async" style="width:100%;aspect-ratio:1;object-fit:cover;">
 <div style="padding:16px;">

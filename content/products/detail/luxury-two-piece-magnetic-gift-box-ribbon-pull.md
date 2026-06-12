@@ -98,7 +98,7 @@ This luxury two-piece magnetic closure gift box combines premium materials with 
 | Differentiator | Detail |
 |---|---|
 | **22-Year Legacy** | Manufacturing since 2003 — 500+ global luxury, cosmetics, and jewelry brands served |
-| **18,000 sqm Campus** | 18,000 sqm factory (10,000+8,000 smart factory) (2025) in Shunde, Foshan |
+| **18,000 sqm Campus** | 18,000 sqm factory (10,000+8,000 smart factory, expanded 2025) in Shunde, Foshan |
 | **Heidelberg 7+1 UV** | Precision offset with inline UV — crisp registration for foil stamping |
 | **KBA 1050 4-Color** | High-volume CMYK at 15,000 sheets/hour for consistent output |
 | **ISO 9001 & FSC** | Certified quality management + sustainable sourcing |

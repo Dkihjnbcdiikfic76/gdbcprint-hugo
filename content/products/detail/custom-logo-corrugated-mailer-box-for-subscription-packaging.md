@@ -59,7 +59,7 @@ Custom logo corrugated mailer box engineered for subscription box brands that de
 
 ## Factory
 - 22 years of manufacturing since 2003 in Foshan, Guangdong
-- 18,000 sqm integrated facility (10,000+8,000 smart factory) (2025)
+- 18,000 sqm integrated facility (10,000+8,000 smart factory, expanded 2025)
 - 80+ employees; dedicated corrugated division with structural engineering team
 - KBA flexo line + Heidelberg 7+1 UV for litho-laminated corrugated
 - Daily output: 500,000 corrugated boxes + 1.7M total boxes across all categories

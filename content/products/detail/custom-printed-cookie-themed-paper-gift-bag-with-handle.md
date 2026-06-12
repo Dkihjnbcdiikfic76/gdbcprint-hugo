@@ -13,7 +13,7 @@ params:
 ---
 ![Custom Printed Cookie Themed Paper Gift Bag with Handle](/images/kraft-eco-box.jpg)
 
-Premium custom custom printed cookie themed paper gift bag with handle manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — a Diamond Member on Made-in-China.com since 2015, Audited Supplier with 22 years of experience.
+Premium custom printed cookie themed paper gift bag with handle manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — a Diamond Member on Made-in-China.com since 2015, Audited Supplier with 22 years of experience.
 
 ## Features
 - Custom sizes and materials available

@@ -11,14 +11,7 @@
 <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:16px;">
 {{ range first 4 (shuffle (where .Site.RegularPages "Section" "products")) }}
 {{ $cat := index .Params.categories 0 }}
-{{ $img := "" }}
-{{ if eq $cat "rigid-gift-boxes" }}{{ $img = "/images/cat-rigid-others.jpg" }}
-{{ else if eq $cat "folding-cartons" }}{{ $img = "/images/cat-fold-cosmetic.jpg" }}
-{{ else if eq $cat "corrugated-mailers" }}{{ $img = "/images/corrugated-mailer.jpg" }}
-{{ else if eq $cat "magnetic-closure-boxes" }}{{ $img = "/images/magnetic-closure-box.jpg" }}
-{{ else if eq $cat "kraft-eco-boxes" }}{{ $img = "/images/kraft-eco-box.jpg" }}
-{{ else if eq $cat "jewelry-boxes" }}{{ $img = "/images/cat-rigid-jewelry.jpg" }}
-{{ else }}{{ $img = "/images/cat-rigid-others.jpg" }}{{ end }}
+{{ $img := partial "category-img.html" (dict "category" $cat "title" .Title) }}
 <div class="card" style="padding:0;overflow:hidden;">
 <img src="{{ $img }}" alt="{{ .Title }}" loading="lazy" decoding="async" style="width:100%;aspect-ratio:1;object-fit:cover;">
 <div style="padding:15px;">

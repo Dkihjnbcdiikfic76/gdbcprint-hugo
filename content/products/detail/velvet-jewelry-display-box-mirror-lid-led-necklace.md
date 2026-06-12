@@ -90,7 +90,7 @@ Luxurious velvet jewelry display box with an integrated full-lid mirror and auto
 | Differentiator | Detail |
 |---|---|
 | **22-Year Legacy** | Manufacturing since 2003 — 500+ global jewelry, cosmetics, and luxury brands served |
-| **18,000 sqm Campus** | 18,000 sqm factory (10,000+8,000 smart factory) (2025) in Foshan, Guangdong |
+| **18,000 sqm Campus** | 18,000 sqm factory (10,000+8,000 smart factory, expanded 2025) in Foshan, Guangdong |
 | **Electronics Integration** | Proven LED/reed-switch assembly — not a packaging-only factory; we handle electro-mechanical integration in-house |
 | **Heidelberg 7+1 UV** | Precision offset for multi-color exterior wraps with inline UV coating |
 | **KBA 1050 4-Color** | High-volume CMYK offset at 15,000 sheets/hour |

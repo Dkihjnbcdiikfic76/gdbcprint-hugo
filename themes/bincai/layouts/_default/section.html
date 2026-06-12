@@ -17,7 +17,7 @@
 
 {{ if eq .Section "industries" }}
 <div style="background:linear-gradient(135deg,#0d1b3e,#1a56db);color:#fff;border-radius:12px;padding:32px;text-align:center;margin-bottom:32px;">
-<h2 style="font-size:18px;font-weight:700;margin-bottom:8px;color:#fff;">Need {{ $displayTitle }} Packaging?</h2>
+<h2 style="font-size:18px;font-weight:700;margin-bottom:8px;color:#fff;">Need Industry-Specific Packaging?</h2>
 <p style="font-size:14px;opacity:.85;margin-bottom:18px;">Free quote in 24 hours · Custom design · Factory-direct pricing · MOQ 500</p>
 <a href="/contact/" class="btn-cta">Get a Free Quote</a>
 <p style="font-size:12px;opacity:.7;margin-top:10px;">{{ .Site.Params.phone }} | {{ .Site.Params.email }}</p>
@@ -36,11 +36,13 @@
 {{ range $pages }}
 {{ $cat := index .Params.categories 0 }}
 {{ $img := "/images/cat-rigid-others.jpg" }}
-{{ if eq $cat "folding-cartons" }}{{ $img = "/images/cat-fold-cosmetic.jpg" }}
+{{ if eq $cat "rigid-gift-boxes" }}{{ $img = "/images/rigid-gift-boxes.jpg" }}
+{{ else if eq $cat "folding-cartons" }}{{ $img = "/images/cat-fold-cosmetic.jpg" }}
 {{ else if eq $cat "corrugated-mailers" }}{{ $img = "/images/corrugated-mailer.jpg" }}
 {{ else if eq $cat "magnetic-closure-boxes" }}{{ $img = "/images/magnetic-closure-box.jpg" }}
 {{ else if eq $cat "kraft-eco-boxes" }}{{ $img = "/images/kraft-eco-box.jpg" }}
-{{ else if eq $cat "jewelry-boxes" }}{{ $img = "/images/cat-rigid-jewelry.jpg" }}{{ end }}
+{{ else if eq $cat "jewelry-boxes" }}{{ $img = "/images/cat-rigid-jewelry.jpg" }}
+{{ else if eq $cat "paper-bags" }}{{ $img = "/images/cat-paper-bag.jpg" }}{{ end }}
 <div class="prod-card" style="background:#fff;border:1px solid #e0e0e0;border-radius:10px;overflow:hidden;box-shadow:rgba(0,0,0,.04) 2px 6px, rgba(0,0,0,.06) 4px 12px;transition:all .3s ease;">
 <img src="{{ $img }}" alt="{{ .Title }}" loading="lazy" decoding="async" style="width:100%;aspect-ratio:1;object-fit:cover;border-radius:8px 8px 0 0;">
 <div style="padding:16px;">

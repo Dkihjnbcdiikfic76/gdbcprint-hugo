@@ -16,7 +16,7 @@ params:
 
 ## Product Overview
 
-The natural brown kraft paper package box with jute string handle is designed for brands prioritizing sustainability without compromising presentation. Manufactured by Guangdong Bincai Color Printing (founded 2003, ISO 9001 & FSC certified), this box combines 100% recycled kraft board with a natural jute string closure — fully biodegradable and plastic-free. Our 18,000 sqm factory (10,000+8,000 smart factory) (2025) delivers 1.7 million color boxes daily, making Bincai one of the largest eco-packaging suppliers in the Pearl River Delta.
+The natural brown kraft paper package box with jute string handle is designed for brands prioritizing sustainability without compromising presentation. Manufactured by Guangdong Bincai Color Printing (founded 2003, ISO 9001 & FSC certified), this box combines 100% recycled kraft board with a natural jute string closure — fully biodegradable and plastic-free. Our 18,000 sqm factory (10,000+8,000 smart factory, expanded 2025) delivers 1.7 million color boxes daily, making Bincai one of the largest eco-packaging suppliers in the Pearl River Delta.
 
 ## Applications / Industry Use Cases
 

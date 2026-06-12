@@ -85,7 +85,7 @@ This premium cosmetic folding carton combines spot UV varnish with soft-touch ma
 | Differentiator | Detail |
 |---|---|
 | **22-Year Legacy** | Folding carton manufacturing since 2003 — 500+ global brands served |
-| **18,000 sqm** | 18,000 sqm factory (10,000+8,000 smart factory) (2025) |
+| **18,000 sqm** | 18,000 sqm factory (10,000+8,000 smart factory, expanded 2025) |
 | **KBA + Heidelberg** | German-engineered offset presses for precision cosmetic packaging |
 | **In-House Finishing** | Lamination, spot UV, foil stamping, embossing — no subcontracting delays |
 | **1.7M Daily Output** | Reliable on-time delivery from boutique to container-volume orders |

@@ -54,7 +54,7 @@ Custom printed corrugated mailer box for e-commerce branding — manufactured by
 
 ## Factory
 - 22 years of corrugated packaging manufacturing since 2003
-- 18,000 sqm factory (10,000+8,000 smart factory) (2025)
+- 18,000 sqm factory (10,000+8,000 smart factory, expanded 2025)
 - 80+ employees across design, corrugating, printing, and converting
 - KBA Heidelberg offset + flexo capability for any volume tier
 - Daily output: 1.7 million color boxes + 220,000+ gift boxes

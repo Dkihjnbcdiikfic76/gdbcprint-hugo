@@ -31,10 +31,14 @@ nav .navlink:hover{color:#1a56db}
 /* --- Cards --- */
 .card{background:#fff;border-radius:12px;overflow:hidden;box-shadow:0 1px 3px rgba(0,0,0,.06),0 2px 8px rgba(0,0,0,.04);transition:.25s}
 .card:hover{box-shadow:0 4px 16px rgba(0,0,0,.1);transform:translateY(-2px)}
-.card img{width:100%;aspect-ratio:1;object-fit:cover;border-radius:8px 8px 0 0}
+.card img{width:100%;aspect-ratio:1;object-fit:cover;border-radius:12px 12px 0 0}
 .card-info{padding:16px 20px}
 .card-info h3 a{color:#1d1d1f;text-decoration:none}
 .card-info h3 a:hover{color:#1a56db}
+
+/* --- Image lazy-load fade-in --- */
+img[loading="lazy"]{opacity:0;transition:opacity .4s}
+img[loading="lazy"].loaded,img[loading="lazy"][src]{opacity:1}
 
 /* --- Buttons --- */
 .btn{display:inline-block;background:#fff;color:#1a56db;padding:12px 28px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;transition:.2s;border:none;cursor:pointer;font-family:inherit}

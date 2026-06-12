@@ -13,7 +13,7 @@ params:
 ---
 ![Custom Printed Durable Corrugated Box for Clothing and Gifts](/images/corrugated-mailer.jpg)
 
-Premium custom custom printed durable corrugated box for clothing and gifts manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — a Diamond Member on Made-in-China.com since 2015, Audited Supplier with 22 years of experience.
+Premium custom printed durable corrugated box for clothing and gifts manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — a Diamond Member on Made-in-China.com since 2015, Audited Supplier with 22 years of experience.
 
 ## Features
 - Custom sizes and materials available

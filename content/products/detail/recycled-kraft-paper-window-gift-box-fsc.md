@@ -84,7 +84,7 @@ This recycled kraft paper window gift box combines eco-conscious materials with 
 | Differentiator | Detail |
 |---|---|
 | **22-Year Legacy** | Manufacturing since 2003 — 500+ global brands served |
-| **18,000 sqm** | 18,000 sqm factory (10,000+8,000 smart factory) (2025) |
+| **18,000 sqm** | 18,000 sqm factory (10,000+8,000 smart factory, expanded 2025) |
 | **FSC Certified** | Full Chain-of-Custody — responsible forestry to finished box |
 | **Soy Ink Production** | Dedicated low-VOC ink system for eco-brand compatibility |
 | **German Presses** | KBA 1050 4-color + Heidelberg 7+1 UV for precision print |
