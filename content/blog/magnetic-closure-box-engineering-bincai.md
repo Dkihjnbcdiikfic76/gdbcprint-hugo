@@ -90,7 +90,7 @@ Every new design undergoes our 7-point closure test:
 
 ## Why Bincai for Magnetic Closure Boxes
 
-Our Foshan factory, operating since 2004, ships 220,000+ rigid boxes daily to brands across Europe, North America, and Asia-Pacific. Every magnetic closure box passes through the same hands that produce packaging for global cosmetics, jewelry, and electronics brands — with the same KBA Heidelberg printing quality, the same Bobst die-cutting precision, and the same ISO 9001 process control.
+Our Foshan factory, operating since 2003, ships 220,000+ rigid boxes daily to brands across Europe, North America, and Asia-Pacific. Every magnetic closure box passes through the same hands that produce packaging for global cosmetics, jewelry, and electronics brands — with the same KBA Heidelberg printing quality, the same Bobst die-cutting precision, and the same ISO 9001 process control.
 
 Whether you need 500 units of a custom perfume box with a concealed edge magnet and soft-touch wrap, or 50,000 subscription boxes with dual-flap N52 closures — we have the machinery, the material knowledge, and 22 years of doing it right.
 

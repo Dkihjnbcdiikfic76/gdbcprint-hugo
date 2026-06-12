@@ -119,7 +119,7 @@ Bincai's location in Foshan, Guangdong — the heart of the Pearl River Delta ma
 | Factory Area | 18,000 sqm across 2 facilities |
 | Daily Output | 1.7 million paper boxes |
 | Corrugated Daily Output | 220,000+ pieces |
-| Years in Operation | 22 (since 2004) |
+| Years in Operation | 22 (since 2003) |
 | Certifications | ISO 9001:2015, FSC Chain-of-Custody |
 | QC Checkpoints | 15 per production batch |
 | Die-Cutting Precision | ±0.1 mm |

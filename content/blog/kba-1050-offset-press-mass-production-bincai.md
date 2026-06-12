@@ -37,7 +37,7 @@ This combination means a single order can run through the KBA for base printing,
 
 Our 18,000 sqm facility (10,000+8,000 smart factory) in Foshan is purpose-built for paper packaging at scale:
 
-- **22 years** of continuous operation since 2004
+- **22 years** of continuous operation since 2003
 - **ISO 9001:2015** certified quality management system
 - **FSC® certified** (Forest Stewardship Council) — chain of custody for sustainable sourcing
 - **1.7 million boxes daily** at full capacity across all production lines
