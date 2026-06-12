@@ -71,6 +71,20 @@ Guangdong Bincai Color Printing's recyclable kraft cardboard box with soy ink pr
 - **Industrial Compostable**: EN 13432 certified upon request (full board + ink decomposition within 90 days)
 - **Carbon Footprint**: Approximately 40% lower than conventional plastic-laminated rigid box equivalent
 
+## FAQ
+
+**Q: What materials are used in Bincai's recyclable kraft boxes and are they truly plastic-free?**
+A: Our kraft boxes use FSC-certified kraft paperboard (157-350gsm), 100% recycled greyboard core (≥85% post-consumer content), soy-based vegetable inks (USDA BioPreferred), and water-based PVA adhesives. Zero plastic — no lamination film, no synthetic coatings, no plastic windows. The entire box is repulpable in standard recycling streams. Industrial compostability to EN 13432 is available upon certification request.
+
+**Q: Can I get full-color CMYK printing on kraft paperboard? Does it look good?**
+A: Yes. We print on kraft paperboard using our Heidelberg Speedmaster 7+1 UV offset press with soy-based inks. Kraft's natural brown tone creates a distinctive aesthetic — colors appear warmer and more organic than on white SBS board. For vibrant branding, we use heavier ink coverage and can add blind embossing/debossing for texture. We provide digital proofs within 24-48 hours so you can evaluate the kraft-printed look before production.
+
+**Q: What certifications do your eco-friendly boxes carry, and can I use the logos on my packaging?**
+A: Our boxes are FSC Mix Credit certified with full chain-of-custody documentation — you can use the FSC logo on your packaging. Soy inks are USDA BioPreferred and EN 71-3 compliant (safe for food contact). EN 13432 industrial compostability certification is available upon request. We also provide third-party lab reports from SGS, Intertek, or TÜV Rheinland for recyclability and compostability claims.
+
+**Q: What is the MOQ for custom kraft boxes, and do you offer samples?**
+A: Standard MOQ is 500-1000 units per design. We welcome trial orders of 100-300 units for market testing at adjusted pricing. Free pre-production samples with your custom dimensions, full printing, and finishing are provided in 5-7 working days (freight collect). This lets you verify the kraft aesthetic, print quality, and structural integrity before committing to volume.
+
 ## Why Bincai
 
 With 22 years of manufacturing excellence (founded 2003), we operate a 18,000 sqm fully integrated facility (10,000+8,000 smart factory) in Foshan, China — the heart of the Pearl River Delta packaging ecosystem. Our KBA 1050 4-color and Heidelberg 7+1 UV presses achieve daily output exceeding 1.7 million boxes, supported by 150+ skilled craftspeople. We serve brands in 40+ countries with a 98%+ on-time delivery rate.

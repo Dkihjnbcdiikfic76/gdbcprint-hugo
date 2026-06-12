@@ -70,6 +70,21 @@ Our magnetic-closure velvet ring boxes serve diverse jewelry retail and gifting 
 
 ## Contact
 [Request free quote](/contact/) — response within 24 hours. Factory visits welcome. Send us your ring dimensions for a custom-fit sample.
+
+## FAQ
+
+**Q: What is the MOQ for custom luxury ring boxes with velvet flocking?**
+A: Standard MOQ is 500-1000 units per design. We also accept trial orders of 100-300 units for market testing with adjusted unit pricing. Free pre-production samples with full finishing are provided in 5-7 working days so you can evaluate quality before committing to volume.
+
+**Q: How strong are the magnetic closures, and will they stay closed during shipping?**
+A: We use neodymium N35-N52 grade magnets (4-8mm diameter) with pull-force testing to 0.8-2.5 kgF per magnet. Every box undergoes 100% magnet alignment inspection — lid must close flush with ≤0.3mm gap on all four sides. Boxes are drop-tested per ISTA 1A standards to ensure magnets hold during transit.
+
+**Q: What interior lining options are available beyond velvet flocking?**
+A: Our standard is electrostatic velvet flocking with 0.8-1.5mm polyester fiber pile in 12+ colors (black, navy, burgundy, cream, grey, champagne, white, royal blue, emerald, blush pink, chocolate, charcoal). We also offer satin lining, genuine suede, leatherette, and custom Pantone-matched flocking. For eco-conscious brands, recycled PET flocking is available.
+
+**Q: Can the ring slot be custom-sized for my specific ring dimensions?**
+A: Yes. We create precision die-cut foam or flocked EVA inserts with ±0.2mm cavity tolerance to securely fit your ring. Send us your ring dimensions (band width, stone height, overall diameter) and we'll include a custom-fit slot in your free pre-production sample. Multi-slot configurations (dual-ring, ring+earring) are also available.
+
 ## Why Bincai
 
 | Feature | Detail |
