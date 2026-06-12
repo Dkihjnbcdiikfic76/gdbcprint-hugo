@@ -4,6 +4,8 @@ date: 2026-06-12
 draft: false
 image: "/images/team-office.jpg"
 description: "18,000 sqm Factory Tour — How Bincai Delivers 1.7 Million Boxes Daily — Guangdong Bincai Color Printing, ISO 9001 & FSC certified paper box manufacturer, KBA 1050 + Heidelberg 7+1 UV presses, 22 years experience."
+aliases:
+  - /blog/bincai-10000-sqm-factory-tour-production-lines/
 
 ---
 
