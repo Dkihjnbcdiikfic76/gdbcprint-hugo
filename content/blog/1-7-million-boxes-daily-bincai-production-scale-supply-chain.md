@@ -36,7 +36,7 @@ Scale forces discipline. Our **ISO 9001:2015 certified** quality management syst
 
 | Resource | Specification |
 |----------|--------------|
-| **Total Floor Space** | 18,000 sqm (10,000 GZ + 8,000 Foshan smart factory) |
+| **Total Floor Space** | 18,000 sqm (10,000 Foshan + 8,000 Foshan smart factory) |
 | **Primary Press** | KBA 1050 4-color offset |
 | **Premium Press** | Heidelberg Speedmaster 7+1 UV |
 | **Workforce** | 80+ skilled operators, designers, QC specialists |

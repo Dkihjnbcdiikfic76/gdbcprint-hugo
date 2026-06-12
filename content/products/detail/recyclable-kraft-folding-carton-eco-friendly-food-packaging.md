@@ -2,17 +2,15 @@
 title: "Recyclable Kraft Folding Carton Eco-Friendly Food Packaging"
 date: 2026-06-10
 draft: false
-description: "Fully recyclable kraft folding carton for eco-friendly food packaging. FSC certified, soy-ink printed, compostable. ISO 9001 factory — 22 years, 10,000sqm, KBA 1050 + Heidelberg 7+1 UV, 1.7M daily output. MOQ 500."
+description: "Fully recyclable kraft folding carton for eco-friendly food packaging. FSC certified, soy-ink printed, compostable. ISO 9001 factory — 22 years, 18,000 sqm (10,000+8,000 smart factory), KBA 1050 + Heidelberg 7+1 UV, 1.7M daily output. MOQ 500."
 keywords: "recyclable kraft folding carton, eco-friendly food packaging box, FSC certified food box, soy ink food carton, biodegradable food packaging, sustainable paper box manufacturer, kraft food carton, Bincai Color Printing, ISO 9001 food packaging, compostable paper box, green food packaging China, recyclable cardboard food box"
 categories: ["folding-cartons"]
 params:
   moq: "500-1000"
   price: "0.25-3.00"
-  material: "SBS C1S 15-24pt / CCNB / Art Paper 250-450gsm / Aqueous Coating"
+  material: "FSC Kraft Paperboard 200-350gsm / Recycled Kraft / Soy-Based Ink / Water-Based Adhesive"
   certification: "ISO 9001, FSC"
 ---
-
-![Bincai Folding Cartons](/images/cat-fold-cosmetic.jpg)
 
 ## Overview
 
@@ -49,7 +47,7 @@ Guangdong Bincai Color Printing's recyclable kraft folding carton for eco-friend
 | Adhesive | Water-based PVA, solvent-free, pH neutral, repulpable |
 | Coating | Aqueous (water-based) — maintains recyclability |
 | Daily Capacity | 1.7 million color boxes + 220,000+ gift boxes |
-| Factory Size | 10,000 sqm main + 8,000 sqm smart factory (2025) |
+| Factory Size | 18,000 sqm (10,000+8,000 smart factory) |
 
 ## Quality Assurance
 
