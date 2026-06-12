@@ -69,29 +69,84 @@ nav .navlink:hover{color:#1a56db}
 /* --- Content / Article Styles --- */
 article p,article li{font-size:16px;line-height:1.8}
 article table,.content table{width:100%;border-collapse:collapse;margin:16px 0;font-size:14px}
-article td,.article th,.content td,.content th{padding:10px 14px;border-bottom:1px solid #e8e8ed;text-align:left;vertical-align:top}
+article td,article th,.content td,.content th{padding:10px 14px;border-bottom:1px solid #e8e8ed;text-align:left;vertical-align:top}
 article th,.content th{font-weight:600;color:#1d1d1f;font-size:13px;background:#f5f5f7;border-bottom:2px solid #d0d0d5}
 article tr:last-child td,.content tr:last-child td{border-bottom:none}
 article img{max-width:100%!important;height:auto!important;border-radius:8px}
+/* hide duplicate product image from markdown content */
+article p:first-of-type:has(img:only-child){display:none}
 /* alternating row colors */
 article tbody tr:nth-child(even),.content tbody tr:nth-child(even){background:#fafafa}
 /* article link hover */
 article a:hover{text-decoration:underline}
 
 /* --- Spec Quote Grid (Product Pages) --- */
-.spec-quote-grid{display:grid;grid-template-columns:1fr 1fr;gap:24px;margin-bottom:32px}
+.spec-quote-grid{display:grid;grid-template-columns:1.2fr 1fr;gap:24px;margin-bottom:32px}
 .spec-quote-grid table{width:100%}
 .spec-quote-grid tbody tr:nth-child(even){background:rgba(0,0,0,.02)}
 .spec-quote-grid tbody tr:hover{background:rgba(26,86,219,.04)}
-.spec-quote-grid td:first-child{padding:10px 12px 10px 0;color:#888}
+.spec-quote-grid td:first-child{padding:10px 12px 10px 0;color:#888;width:40%}
+
+/* --- Product Detail Image Box --- */
+.prod-img-box{background:#fff;border-radius:12px;overflow:hidden;border:1px solid #e8e8ed;box-shadow:0 1px 4px rgba(0,0,0,.06)}
+.prod-img-box img{width:100%;aspect-ratio:1;object-fit:cover;display:block}
+
+/* --- Quick Specs Box --- */
+.quick-specs{background:#f5f5f7;border-radius:12px;padding:24px 28px;flex:1}
+.quick-specs h2{font-size:15px;font-weight:600;margin-bottom:14px;color:#1d1d1f}
+.quick-specs td:first-child{color:#888;width:40%}
+.quick-specs td{padding:10px 12px 10px 0;font-size:14px;vertical-align:top}
+.quick-specs td+td{font-weight:500;padding:10px 12px}
+
+/* --- CTA Panel (Product Detail & Sidebar) --- */
+.cta-panel{background:linear-gradient(135deg,#f0f4ff,#e8f0fe);border-radius:12px;padding:24px 28px;text-align:center;border:1px solid #d6e4ff}
+.cta-panel h2{font-size:16px;font-weight:600;margin-bottom:6px;color:#1a56db}
+.cta-panel p{font-size:13px;color:#666;margin-bottom:16px}
+.cta-panel .btn-group{display:flex;gap:8px;justify-content:center;flex-wrap:wrap}
+.cta-panel .contact-info{font-size:12px;color:#888;margin-top:12px}
+
+/* --- Product Info Header --- */
+.prod-header{padding:0 0 20px}
+.prod-header h1{font-size:clamp(22px,3vw,28px);font-weight:700;line-height:1.2;color:#1d1d1f;margin-bottom:12px}
+.prod-badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:12px}
+.prod-certs{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:20px}
+
+/* --- Related Products Grid --- */
+.related-section{margin-top:40px;padding-top:24px;border-top:1px solid #e0e0e0}
+.related-section h2{font-size:16px;font-weight:600;margin-bottom:14px}
+.related-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:12px}
+.related-card{padding:0;overflow:hidden}
+.related-card img{width:100%;aspect-ratio:1;object-fit:cover}
+.related-card .related-info{padding:12px 14px 14px}
+.related-card .related-title{font-size:13px;font-weight:600;margin-bottom:4px;line-height:1.3}
+.related-card .related-title a{color:#1a56db}
+.related-card .related-meta{font-size:11px;color:#888}
+
+/* --- Post-Content CTA (for non-product pages) --- */
+.content-cta{margin-top:40px;background:#f0f4ff;border-radius:12px;padding:32px 28px;text-align:center;border:1px solid #d6e4ff}
+.content-cta h2{font-size:18px;font-weight:600;color:#1a56db;margin-bottom:8px}
+.content-cta p{font-size:14px;color:#666;margin-bottom:16px}
+.content-cta .contact-note{font-size:12px;color:#888;margin-top:12px}
+
+/* --- Breadcrumb Enhancement --- */
+.breadcrumb{max-width:1200px;margin:0 auto;padding:14px 20px;font-size:12px;color:#999}
+.breadcrumb a{color:#1a56db}
+.breadcrumb a:hover{text-decoration:underline}
+.breadcrumb span{color:#999}
 
 /* --- Footer --- */
 footer{background:#1d1d1f;color:rgba(255,255,255,.55);padding:60px 20px 40px;font-size:13px;line-height:1.8}
 footer .ctr{max-width:1200px;margin:0 auto;display:grid;grid-template-columns:2fr 1fr 1fr;gap:40px}
 footer h3{color:#fff;font-size:13px;font-weight:600;margin-bottom:12px;text-transform:uppercase;letter-spacing:.5px}
-footer a{color:rgba(255,255,255,.35);display:block;transition:color .2s}
+footer a{color:rgba(255,255,255,.5);display:block;transition:color .2s}
 footer a:hover{color:#fff}
 footer .copy{border-top:1px solid rgba(255,255,255,.08);margin-top:32px;padding-top:16px;text-align:center;font-size:11px}
+
+/* --- Responsive Table Scroll --- */
+@media(max-width:640px){
+  article table,.content table{display:block;overflow-x:auto;-webkit-overflow-scrolling:touch;white-space:nowrap}
+  article td,article th,.content td,.content th{min-width:100px}
+}
 
 /* ============================================================
    DARK MODE
@@ -108,12 +163,34 @@ footer .copy{border-top:1px solid rgba(255,255,255,.08);margin-top:32px;padding-
   .badge-green,.pill-green{background:rgba(46,125,50,.15);color:#66bb6a}
   .pill-orange{background:rgba(230,81,0,.15);color:#ff8a50}
   footer{background:#000}
-  h2{color:#f5f5f7}
+  h1,h2,h3,h4,h5,h6{color:#f5f5f7}
+  article h1,article h2,article h3{color:#f5f5f7}
+  .prod-header h1{color:#f5f5f7!important}
+  .quick-specs h2{color:#f5f5f7}
+  .cta-panel h2{color:#5b9cf5}
+  .related-section h2{color:#f5f5f7}
+  a{color:#5b9cf5}
+  article a{color:#5b9cf5}
+  .card-info h3 a{color:#f5f5f7!important}
+  .prod-header .badge-blue,.prod-header .pill-blue{background:rgba(91,156,245,.15);color:#5b9cf5}
+  .prod-header .pill-orange{background:rgba(230,81,0,.15);color:#ff8a50}
+  .prod-header .pill-green{background:rgba(46,125,50,.15);color:#66bb6a}
+  input,textarea{background:#2a2a2d;color:#f5f5f7;border-color:rgba(255,255,255,.15)!important}
+  input::placeholder,textarea::placeholder{color:rgba(255,255,255,.35)}
+  select{background:#2a2a2d;color:#f5f5f7;border-color:rgba(255,255,255,.15)}
   .cert-badge{background:#2a2a2d;border-color:rgba(255,255,255,.1);color:#f5f5f7}
   .cert-badge.diamond{background:linear-gradient(135deg,#2a2a2d,#1d1d1f);border-color:#C8A84E}
   .cert-badge.audited{background:rgba(46,125,50,.15);border-color:#2e7d32}
   .spec-quote-grid tbody tr:nth-child(even){background:rgba(255,255,255,.03)}
   .spec-quote-grid tbody tr:hover{background:rgba(91,156,245,.08)}
+  .prod-img-box{background:#2a2a2d;border-color:rgba(255,255,255,.1)}
+  .quick-specs{background:#2a2a2d}
+  .quick-specs td:first-child{color:rgba(255,255,255,.55)}
+  .cta-panel{background:linear-gradient(135deg,rgba(26,86,219,.1),rgba(26,86,219,.05));border-color:rgba(26,86,219,.2)}
+  .cta-panel p{color:rgba(255,255,255,.55)}
+  .content-cta{background:rgba(26,86,219,.1);border-color:rgba(26,86,219,.2)}
+  .content-cta p{color:rgba(255,255,255,.55)}
+  .related-section{border-color:rgba(255,255,255,.08)}
 }
 
 /* ============================================================
@@ -125,6 +202,9 @@ footer .copy{border-top:1px solid rgba(255,255,255,.08);margin-top:32px;padding-
   nav .ctr{flex-wrap:wrap;height:auto;padding:10px 20px}
   nav .navlink{margin-left:12px;font-size:12px}
   .spec-quote-grid{grid-template-columns:1fr!important}
+  .prod-img-box img{aspect-ratio:1}
+  .quick-specs,.cta-panel{padding:18px 20px}
+  .related-grid{grid-template-columns:repeat(auto-fill,minmax(150px,1fr))}
   article p,article li{font-size:15px;line-height:1.7}
 }
 

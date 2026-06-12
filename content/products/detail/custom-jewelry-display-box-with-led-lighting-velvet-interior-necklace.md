@@ -11,10 +11,7 @@ params:
   material: "Greyboard 1200-1600gsm / Velvet Flocking / Satin Lining / Art Paper 157gsm"
   certification: "ISO 9001, FSC"
 ---
-
 ![Jewelry Box](/images/cat-rigid-jewelry.jpg)
-
-## Custom Jewelry Display Box with LED Lighting Velvet Interior Necklace Pendant
 
 Premium custom jewelry display box with led lighting velvet interior necklace pendant by Guangdong Bincai Color Printing Co., Ltd. — 22 years factory, ISO 9001 & FSC certified.
 

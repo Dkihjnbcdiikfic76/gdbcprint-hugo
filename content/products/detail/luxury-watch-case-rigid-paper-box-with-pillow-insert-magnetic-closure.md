@@ -11,10 +11,7 @@ params:
   material: "Greyboard 1200-1600gsm / Velvet Flocking / Satin Lining / Art Paper 157gsm"
   certification: "ISO 9001, FSC"
 ---
-
 ![Jewelry Box](/images/cat-rigid-jewelry.jpg)
-
-## Luxury Watch Case Rigid Paper Box with Pillow Insert Magnetic Closure
 
 Premium custom luxury watch case rigid paper box with pillow insert magnetic closure by Guangdong Bincai Color Printing Co., Ltd. — 22 years factory, ISO 9001 & FSC certified.
 

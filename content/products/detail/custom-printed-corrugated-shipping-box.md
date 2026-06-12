@@ -11,10 +11,7 @@ params:
   material: "B-Flute / E-Flute / BC-Flute Corrugated / Kraft or White Top Liner / Self-Sealing / Tear Strip"
   certification: "ISO 9001, FSC, SGS"
 ---
-
 ![Bincai Corrugated Mailers](/images/product-corr-3.jpg)
-
-## Custom Printed Corrugated Shipping Box
 
 Premium custom custom printed corrugated shipping box manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — a Diamond Member on Made-in-China.com since 2015, Audited Supplier with 22 years of experience.
 

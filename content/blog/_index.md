@@ -1,5 +1,5 @@
 ---
-title: "Bincai Blog — Paper Box Manufacturing Insights & Packaging Tips"
+title: "Paper Box Manufacturing Blog"
 description: "Expert paper box manufacturing insights, industry trends, packaging design tips, and technical guides from Guangdong Bincai Color Printing Co., Ltd. 22 years of rigid box, folding carton, corrugated mailer, and sustainable packaging expertise. KBA 1050, Heidelberg 7+1 UV, ISO 9001, FSC."
 ---
 

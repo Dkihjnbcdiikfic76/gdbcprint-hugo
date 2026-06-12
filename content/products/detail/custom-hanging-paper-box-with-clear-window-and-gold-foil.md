@@ -11,10 +11,7 @@ params:
   material: "CCNB 350-450gsm / SBS C1S 15-24pt / Art Paper 250-450gsm / Aqueous Coating / Soft-Touch Lamination"
   certification: "ISO 9001, FSC, SGS"
 ---
-
 ![Custom Hanging Paper Box with Clear Window and Gold Foil](/images/cat-fold-cosmetic.jpg)
-
-## Custom Hanging Paper Box with Clear Window and Gold Foil
 
 Premium custom custom hanging paper box with clear window and gold foil manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — a Diamond Member on Made-in-China.com since 2015, Audited Supplier with 22 years of experience.
 

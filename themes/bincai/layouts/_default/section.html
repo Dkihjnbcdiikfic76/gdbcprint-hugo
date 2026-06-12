@@ -17,7 +17,7 @@
 
 {{ if eq .Section "industries" }}
 <div style="background:linear-gradient(135deg,#0d1b3e,#1a56db);color:#fff;border-radius:12px;padding:32px;text-align:center;margin-bottom:32px;">
-<h3 style="font-size:18px;font-weight:700;margin-bottom:8px;color:#fff;">Need {{ $displayTitle }} Packaging?</h3>
+<h2 style="font-size:18px;font-weight:700;margin-bottom:8px;color:#fff;">Need {{ $displayTitle }} Packaging?</h2>
 <p style="font-size:14px;opacity:.85;margin-bottom:18px;">Free quote in 24 hours · Custom design · Factory-direct pricing · MOQ 500</p>
 <a href="/contact/" class="btn-cta">Get a Free Quote</a>
 <p style="font-size:12px;opacity:.7;margin-top:10px;">{{ .Site.Params.phone }} | {{ .Site.Params.email }}</p>
@@ -52,6 +52,7 @@
 {{ end }}
 </div>
 {{ else }}
+<h2 style="font-size:20px;font-weight:700;margin-bottom:16px;color:#1d1d1f;">{{ if eq .Section "blog" }}Latest Articles{{ else }}{{ .Section | title }}{{ end }}</h2>
 <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:16px;">
 {{ range .Pages }}
 <div class="card">
@@ -69,8 +70,10 @@
 <div style="text-align:center;margin-top:32px;padding-bottom:40px;">
 {{ if eq .Section "products" }}
 <a href="/contact/" class="btn-cta">Inquire About {{ $displayTitle }}</a>
+{{ else if eq .Section "blog" }}
+<a href="/contact/" class="btn-cta">Inquire About Custom Packaging</a>
 {{ else }}
-<a href="/contact/" class="btn-cta">Inquire About {{ $displayTitle }}</a>
+<a href="/contact/" class="btn-cta">Inquire Now</a>
 {{ end }}
 </div>
 </section>

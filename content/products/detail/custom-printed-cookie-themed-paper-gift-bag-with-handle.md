@@ -11,10 +11,7 @@ params:
   material: "Kraft Paper 120-200gsm / Art Paper 157-250gsm / Ribbon Handles / Rope Handles / Matte/Gloss Lamination"
   certification: "ISO 9001, FSC, SGS"
 ---
-
 ![Custom Printed Cookie Themed Paper Gift Bag with Handle](/images/kraft-eco-box.jpg)
-
-## Custom Printed Cookie Themed Paper Gift Bag with Handle
 
 Premium custom custom printed cookie themed paper gift bag with handle manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — a Diamond Member on Made-in-China.com since 2015, Audited Supplier with 22 years of experience.
 
