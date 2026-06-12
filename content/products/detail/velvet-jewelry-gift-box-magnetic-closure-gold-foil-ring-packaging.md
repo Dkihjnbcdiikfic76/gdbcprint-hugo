@@ -87,7 +87,7 @@ This luxurious velvet jewelry gift box combines a magnetic flap closure with gol
 | Differentiator | Detail |
 |---|---|
 | **22-Year Legacy** | Jewelry box manufacturing since 2003 — 500+ global brands served |
-| **18,000 sqm** | 10,000 sqm main factory + 8,000 sqm smart factory (2025) |
+| **18,000 sqm** | 18,000 sqm factory (10,000+8,000 smart factory) (2025) |
 | **German Presses** | KBA 1050 + Heidelberg 7+1 UV for luxury-quality print and finishing |
 | **Full In-House** | Rigid box wrapping, velvet flocking, foil stamping, insert cutting — no subcontracting |
 | **220K+ Gift Boxes/Day** | Dedicated rigid box production lines for jewelry packaging scale |

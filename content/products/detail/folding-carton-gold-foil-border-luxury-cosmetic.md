@@ -86,7 +86,7 @@ Luxury folding carton with a continuous gold foil stamped border and soft-touch 
 | Differentiator | Detail |
 |---|---|
 | **22-Year Legacy** | Manufacturing luxury packaging since 2003 — serving cosmetics, fragrance, skincare, and spirits brands across 30+ countries |
-| **18,000 sqm Campus** | 10,000 sqm main factory + 8,000 sqm smart factory (commissioned 2025) in Foshan, Guangdong |
+| **18,000 sqm Campus** | 18,000 sqm factory (10,000+8,000 smart factory) (commissioned 2025) in Foshan, Guangdong |
 | **Heidelberg Cylinder Stamper** | Dedicated foil stamping line — consistent coverage, sharp detail, no patchy results |
 | **Brass Die Fabrication** | In-house CNC brass die making — 3–5 day turnaround on new custom border designs |
 | **Heidelberg 7+1 UV** | Single-pass 7-color + UV for complex multi-process cartons — eliminates registration errors from multi-pass workflows |

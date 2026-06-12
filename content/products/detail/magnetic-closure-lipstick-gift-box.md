@@ -66,7 +66,7 @@ Designed for luxury cosmetic brands, the Bincai Magnetic Closure Lipstick Gift B
 | Differentiator | Detail |
 |---|---|
 | **22-Year Legacy** | Manufacturing since 2003 — beauty and cosmetic packaging specialist |
-| **18,000 sqm Facility** | 10,000 sqm + 8,000 sqm smart factory (2025) |
+| **18,000 sqm Facility** | 18,000 sqm (10,000+8,000 smart factory) |
 | **Heidelberg + KBA** | German-engineered offset presses for luxury brand printing |
 | **Cosmetic Expertise** | 500+ global brands served including beauty and fragrance clients |
 | **ISO 9001 & FSC** | Quality management + sustainable sourcing certification |

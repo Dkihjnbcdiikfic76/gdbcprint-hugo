@@ -55,7 +55,7 @@ Biodegradable kraft paper box engineered for eco-conscious cosmetics brands — 
 
 ## Factory
 - 22 years of manufacturing excellence since 2003 in Foshan, Guangdong, China
-- 10,000 sqm main factory + 8,000 sqm smart factory (2025)
+- 18,000 sqm factory (10,000+8,000 smart factory) (2025)
 - 80+ skilled employees across design, prepress, printing, and finishing
 - KBA 1050 4-color + Heidelberg 7+1 UV + Bobst die-cutting + automatic folder-gluer
 - FSC-certified material sourcing with dedicated eco-grade inventory

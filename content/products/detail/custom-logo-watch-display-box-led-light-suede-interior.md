@@ -76,7 +76,7 @@ Luxury custom logo watch display box with integrated LED light and premium suede
 
 ## Factory
 - 22 years of manufacturing since 2003 in Foshan, Guangdong, China
-- 10,000 sqm main factory + 8,000 sqm smart factory (commissioned 2025)
+- 18,000 sqm factory (10,000+8,000 smart factory) (commissioned 2025)
 - 80+ skilled employees across design, prepress, printing, woodworking, and finishing
 - KBA 1050 4-color + Heidelberg 7+1 UV + Bobst foil stamping + automatic rigid box line + UV lacquer coating line
 - Daily capacity: 1.7 million color boxes + 220,000+ rigid gift boxes

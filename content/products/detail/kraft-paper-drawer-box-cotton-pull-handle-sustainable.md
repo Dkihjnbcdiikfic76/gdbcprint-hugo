@@ -85,7 +85,7 @@ Eco-friendly kraft paper drawer box with natural cotton pull handle — manufact
 | Differentiator | Detail |
 |---|---|
 | **22-Year Legacy** | Manufacturing since 2003 — 500+ global brands served |
-| **18,000 sqm Facility** | 10,000 sqm main factory + 8,000 sqm smart factory (2025) |
+| **18,000 sqm Facility** | 18,000 sqm factory (10,000+8,000 smart factory) (2025) |
 | **KBA 1050 + Heidelberg 7+1 UV** | German presses for high-speed, precise kraft printing |
 | **ISO 9001 & FSC** | Quality management + 100% responsibly sourced paperboard |
 | **Soy Ink Standard** | Food-safe soy-based inks at no premium — our default for kraft production |

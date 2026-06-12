@@ -77,7 +77,7 @@ Custom printed folding carton boxes designed specifically for electronics access
 ## Why Choose Bincai for Electronics Packaging
 
 - **22 years** in printing and packaging since 2003
-- **18,000 sqm** total facility: 10,000 sqm main factory + 8,000 sqm smart factory (2025)
+- **18,000 sqm** total facility: 18,000 sqm factory (10,000+8,000 smart factory) (2025)
 - **1.7 million boxes/day** ensuring reliable volume fulfillment
 - **80+ skilled workers** across pre-press, printing, finishing, and QC
 - **FSC Chain-of-Custody certified** — sustainable sourcing for eco-conscious brands

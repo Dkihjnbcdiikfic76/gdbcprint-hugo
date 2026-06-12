@@ -90,7 +90,7 @@ Elegant magnetic closure book-style gift box with gold foil hot stamping, manufa
 | Differentiator | Detail |
 |---|---|
 | **22-Year Legacy** | Manufacturing since 2003 -- 500+ global brands served |
-| **18,000 sqm Total** | 10,000 sqm main factory + 8,000 sqm smart factory (2025) |
+| **18,000 sqm Total** | 18,000 sqm factory (10,000+8,000 smart factory) (2025) |
 | **KBA + Heidelberg** | German-engineered offset presses for precision foil registration |
 | **ISO 9001 & FSC** | Quality management + sustainable material sourcing |
 | **In-House Magnet Assembly** | Magnet embedding, polarity verification, and pull-force testing on-site |

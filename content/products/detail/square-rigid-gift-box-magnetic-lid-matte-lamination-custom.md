@@ -16,7 +16,7 @@ params:
 
 ## Product Overview
 
-The Bincai Square Rigid Gift Box with magnetic lid closure combines clean geometry with tactile luxury. The soft-touch matte lamination finish invites touch while resisting fingerprints — critical for high-end retail environments where packaging gets handled repeatedly. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — an ISO 9001:2015 and FSC Chain-of-Custody certified factory with 22 years of luxury rigid box expertise — each box features precision mitered corners (±0.3mm gap), concealed neodymium magnet closure, and Heidelberg 7+1 UV offset printing for flawless brand reproduction. Our 18,000 sqm Foshan facility (original 10,000 sqm + 8,000 sqm smart factory, 2025) outputs 220,000+ rigid gift boxes daily.
+The Bincai Square Rigid Gift Box with magnetic lid closure combines clean geometry with tactile luxury. The soft-touch matte lamination finish invites touch while resisting fingerprints — critical for high-end retail environments where packaging gets handled repeatedly. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — an ISO 9001:2015 and FSC Chain-of-Custody certified factory with 22 years of luxury rigid box expertise — each box features precision mitered corners (±0.3mm gap), concealed neodymium magnet closure, and Heidelberg 7+1 UV offset printing for flawless brand reproduction. Our 18,000 sqm Foshan facility (original 18,000 sqm (10,000+8,000 smart factory), 2025) outputs 220,000+ rigid gift boxes daily.
 
 ## Applications
 

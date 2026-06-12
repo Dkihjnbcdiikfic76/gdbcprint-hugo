@@ -68,7 +68,7 @@ The double-door design creates a dramatic reveal that elevates brand perception 
 
 | Specification | Detail |
 |---|---|
-| Factory Size | 10,000 sqm + 8,000 sqm smart factory (2025 expansion) |
+| Factory Size | 18,000 sqm (10,000+8,000 smart factory) (2025 expansion) |
 | Years in Business | 22 years (founded 2003) |
 | Daily Output | 1.7 million boxes |
 | Primary Presses | KBA 1050 4-color, Heidelberg 7+1 UV |

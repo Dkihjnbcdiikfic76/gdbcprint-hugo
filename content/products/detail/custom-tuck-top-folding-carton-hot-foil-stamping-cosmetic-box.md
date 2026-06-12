@@ -77,7 +77,7 @@ The Bincai Custom Tuck-Top Folding Carton delivers premium cosmetic packaging wi
 | Differentiator | Detail |
 |---|---|
 | **22-Year Legacy** | Manufacturing since 2003 — 500+ global cosmetic and beauty brands served |
-| **18,000 sqm Facility** | 10,000 sqm + 8,000 sqm smart factory (2025) with integrated production |
+| **18,000 sqm Facility** | 18,000 sqm (10,000+8,000 smart factory) with integrated production |
 | **Heidelberg + KBA** | German-engineered offset presses for luxury brand color accuracy |
 | **Bobst Die-Cutting** | Swiss-precision flatbed die-cutters with ±0.5mm tolerance |
 | **ISO 9001 & FSC** | Quality management + sustainable sourcing certification |

@@ -90,7 +90,7 @@ Custom corrugated mailer box with integrated tamper-evident security seal — en
 | Differentiator | Detail |
 |---|---|
 | **22-Year Legacy** | Manufacturing since 2003 — trusted by pharmaceutical distributors globally |
-| **18,000 sqm Facility** | 10,000 sqm + 8,000 sqm smart factory (2025) |
+| **18,000 sqm Facility** | 18,000 sqm (10,000+8,000 smart factory) |
 | **KBA + Heidelberg** | German precision offset/UV for security-critical packaging graphics |
 | **ISO 9001 & FSC** | Process consistency + sustainable sourcing |
 | **Full In-House** | Corrugating → printing → die-cutting → gluing → seal application — no subcontractors |

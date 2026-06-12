@@ -56,7 +56,7 @@ Custom special shape paper box with die-cut unique design — manufactured by Gu
 
 ## Factory
 - 22 years of paper box manufacturing since 2003
-- 10,000 sqm main factory + 8,000 sqm smart factory (2025)
+- 18,000 sqm factory (10,000+8,000 smart factory) (2025)
 - 80+ employees across design, printing, die-cutting, and assembly
 - KBA 1050 4-color + Heidelberg 7+1 UV + fully automatic rigid box lines
 - Daily output: 1.7 million color boxes + 220,000+ gift boxes

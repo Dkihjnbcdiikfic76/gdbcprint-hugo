@@ -16,7 +16,7 @@ params:
 
 ## Product Overview
 
-The custom shape rigid paper box with die-cut window display is engineered for brands that need their product visible before unboxing — perfume, luxury cosmetics, premium electronics, and collector's editions. Manufactured by Bincai Color Printing (founded 2003, Foshan, Guangdong, 10,000 sqm + 8,000 sqm smart factory, ISO 9001 & FSC certified), this box combines heavyweight greyboard construction with precision window die-cutting. Daily output reaches 1.7 million color boxes and 220,000+ gift boxes, all produced in-house on KBA 1050 and Heidelberg 7+1 UV presses with Bobst flatbed die-cutters.
+The custom shape rigid paper box with die-cut window display is engineered for brands that need their product visible before unboxing — perfume, luxury cosmetics, premium electronics, and collector's editions. Manufactured by Bincai Color Printing (founded 2003, Foshan, Guangdong, 18,000 sqm (10,000+8,000 smart factory), ISO 9001 & FSC certified), this box combines heavyweight greyboard construction with precision window die-cutting. Daily output reaches 1.7 million color boxes and 220,000+ gift boxes, all produced in-house on KBA 1050 and Heidelberg 7+1 UV presses with Bobst flatbed die-cutters.
 
 ## Customization Options
 

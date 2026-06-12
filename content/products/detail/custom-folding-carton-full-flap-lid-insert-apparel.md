@@ -70,7 +70,7 @@ Bincai's full-flap folding carton delivers a premium unboxing experience for lux
 | Differentiator | Detail |
 |---|---|
 | **22-Year Legacy** | Manufacturing since 2003 — 500+ global brands served |
-| **18,000 sqm Facility** | 10,000 sqm + 8,000 sqm smart factory (2025) in Foshan, Guangdong |
+| **18,000 sqm Facility** | 18,000 sqm (10,000+8,000 smart factory) in Foshan, Guangdong |
 | **KBA 1050 + Heidelberg 7+1 UV** | German-engineered offset + specialty finishing |
 | **Bobst Die-Cutting** | Swiss precision flatbed — ±0.3mm tolerance |
 | **1.7M Daily Output** | Color boxes + 220K+ gift boxes daily |

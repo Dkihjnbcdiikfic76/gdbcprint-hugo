@@ -93,7 +93,7 @@ Premium velvet-lined pendant necklace gift box with magnetic flip lid, manufactu
 | Differentiator | Detail |
 |---|---|
 | **22-Year Legacy** | Manufacturing since 2003 -- 500+ global jewelry brands served |
-| **18,000 sqm Total** | 10,000 sqm main factory + 8,000 sqm smart factory (2025 expansion) |
+| **18,000 sqm Total** | 18,000 sqm factory (10,000+8,000 smart factory) (2025 expansion) |
 | **Heidelberg 7+1 UV** | Premium press for metallic inks, spot UV, and fine foil registration |
 | **ISO 9001 & FSC** | Quality management + sustainable forestry sourcing |
 | **In-House Tooling** | Die-cutting, foil stamping, embossing tools made on-site |

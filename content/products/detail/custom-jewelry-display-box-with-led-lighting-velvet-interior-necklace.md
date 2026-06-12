@@ -16,7 +16,7 @@ params:
 
 ## Custom Jewelry Display Box with LED Lighting Velvet Interior Necklace Pendant
 
-Premium custom custom jewelry display box with led lighting velvet interior necklace pendant by Guangdong Bincai Color Printing Co., Ltd. — 22 years factory, ISO 9001 & FSC certified.
+Premium custom jewelry display box with led lighting velvet interior necklace pendant by Guangdong Bincai Color Printing Co., Ltd. — 22 years factory, ISO 9001 & FSC certified.
 
 - KBA 1050 4-Color & Heidelberg 7+1 UV printing
 - Custom sizes, colors, finishes
@@ -49,7 +49,7 @@ A: Yes, we offer full customization of LED lighting. You can choose from warm wh
 A: Our standard MOQ is 500–1,000 units per design. However, we welcome trial orders and can accommodate smaller quantities for first-time clients who want to test the market. Since 2003, Bincai has served over 200 brands across 50+ countries, and our flexible approach to MOQ has helped many startups and boutique jewelry brands launch successfully with professional packaging.
 
 **Q: Do you provide free pre-production samples?**
-A: Yes, we provide free pre-production samples so you can evaluate the materials, LED functionality, printing quality, and overall craftsmanship before committing to mass production. The sample is free of charge — you only cover the freight. This gives you full confidence in the final product before we scale to our 1.7M daily color box capacity across our 10,000 sqm + 8,000 sqm smart factory.
+A: Yes, we provide free pre-production samples so you can evaluate the materials, LED functionality, printing quality, and overall craftsmanship before committing to mass production. The sample is free of charge — you only cover the freight. This gives you full confidence in the final product before we scale to our 1.7M daily color box capacity across our 18,000 sqm factory (10,000+8,000 smart factory).
 
 **Q: What interior materials are available for LED jewelry boxes?**
 A: We offer a wide range of interior materials including velvet, suede, satin, flocking, and foam inserts — all available in custom colors to match your brand. For necklace display boxes, velvet and suede are our most popular choices due to their soft touch and premium presentation that complements LED lighting. All interior materials are sourced from FSC-certified supply chains and meet ISO 9001:2015 quality standards.

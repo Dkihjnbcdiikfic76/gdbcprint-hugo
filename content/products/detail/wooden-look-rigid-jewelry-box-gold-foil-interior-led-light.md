@@ -56,7 +56,7 @@ Premium woodgrain-texture rigid jewelry box with gold foil interior and integrat
 
 ## Factory
 - 22 years manufacturing experience (founded 2003)
-- 10,000 sqm + 8,000 sqm factories
+- 18,000 sqm factory (10,000+8,000 smart factory)
 - KBA 1050 + Heidelberg 7+1 UV presses
 - Dedicated jewelry box assembly line with LED module integration station
 - Export to 40+ countries globally

@@ -82,7 +82,7 @@ Premium magnetic closure rigid box with a transparent PET sleeve window — craf
 | Differentiator | Detail |
 |---|---|
 | **22-Year Legacy** | Manufacturing premium packaging since 2003 — 500+ global brands served |
-| **18,000 sqm Campus** | 10,000 sqm main factory + 8,000 sqm smart factory (commissioned 2025) |
+| **18,000 sqm Campus** | 18,000 sqm factory (10,000+8,000 smart factory) (commissioned 2025) |
 | **Heidelberg 7+1 UV** | Single-pass 7-color + UV coating — reduces registration drift on multi-element designs |
 | **KBA 1050 4-Color** | German-engineered offset at 15,000 sheets/hour for high-volume efficiency |
 | **Double-Layer Expertise** | Proven sleeve+box manufacturing — sleeve and box produced and QC'd in-house, no supplier handoff |

@@ -70,7 +70,7 @@ An elegant magnetic closure box with a satin ribbon tie — the signature packag
 
 ## Why Bincai
 - **22 years** of paper box manufacturing since 2003 — three generations of packaging expertise
-- **18,000 sqm** total facility: 10,000 sqm main factory + 8,000 sqm smart factory (commissioned 2025)
+- **18,000 sqm** total facility: 18,000 sqm factory (10,000+8,000 smart factory) (commissioned 2025)
 - Heidelberg 7+1 UV press + KBA 1050 4-color — unmatched print quality and color consistency
 - Bobst die-cutting and foil stamping — Swiss precision for luxury packaging standards
 - **80+** skilled employees across design, prepress, printing, die-cutting, and hand-finishing

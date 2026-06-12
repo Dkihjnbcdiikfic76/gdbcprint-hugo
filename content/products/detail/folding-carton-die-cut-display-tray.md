@@ -65,7 +65,7 @@ Bincai's die-cut folding carton display tray combines structural integrity with 
 | Differentiator | Detail |
 |---|---|
 | **22-Year Legacy** | Manufacturing since 2003 — 500+ global brands served |
-| **18,000 sqm Facility** | 10,000 sqm + 8,000 sqm smart factory (2025) |
+| **18,000 sqm Facility** | 18,000 sqm (10,000+8,000 smart factory) |
 | **KBA + Bobst** | German/Swiss-engineered production line |
 | **ISO 9001 & FSC** | Quality management + sustainable sourcing |
 | **Free Samples** | 3-5 day pre-production samples |

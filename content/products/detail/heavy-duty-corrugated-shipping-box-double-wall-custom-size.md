@@ -71,7 +71,7 @@ Built for the most demanding shipping environments, this heavy-duty double wall 
 | Differentiator | Detail |
 |---|---|
 | **22-Year Legacy** | Manufacturing since 2003 — trusted by 500+ brands globally |
-| **18,000 sqm** | 10,000 sqm + 8,000 sqm smart factory (2025 expansion) |
+| **18,000 sqm** | 18,000 sqm (10,000+8,000 smart factory) (2025 expansion) |
 | **Dedicated Corrugated Line** | In-house flexo, die-cutting, and gluing for corrugated |
 | **ISTA + ASTM Testing** | Transit simulation and material testing on-site |
 | **ISO 9001 & FSC** | Certified quality management + sustainable sourcing |

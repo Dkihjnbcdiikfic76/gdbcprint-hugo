@@ -60,7 +60,7 @@ Premium white corrugated shipping box engineered for cosmetic and apparel e-comm
 
 ## Factory
 - 22 years of manufacturing excellence since 2003 in Foshan, Guangdong, China
-- 10,000 sqm main factory + 8,000 sqm smart factory (2025)
+- 18,000 sqm factory (10,000+8,000 smart factory) (2025)
 - 80+ skilled employees covering corrugated, offset, and finishing departments
 - KBA 1050 4-color + Heidelberg 7+1 UV + Bobst die-cutting + integrated corrugator + automatic folder-gluer
 - In-house corrugated board production — quality-controlled from raw paper roll to finished box

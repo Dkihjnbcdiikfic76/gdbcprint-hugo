@@ -85,7 +85,7 @@ The Bincai Magnetic Closure Book-Style Box combines the elegance of a hardcover 
 | Differentiator | Detail |
 |---|---|
 | **22-Year Legacy** | Manufacturing since 2003 — 500+ global brands including luxury and corporate clients |
-| **18,000 sqm Facility** | 10,000 sqm + 8,000 sqm smart factory (2025) with dedicated gift box line |
+| **18,000 sqm Facility** | 18,000 sqm (10,000+8,000 smart factory) with dedicated gift box line |
 | **Heidelberg + KBA** | German-engineered offset presses for luxury brand color accuracy |
 | **In-House Flocking** | Electrostatic velvet flocking and CNC die-cutting for precision insert trays |
 | **Bobst Hot Stamping** | Swiss-precision flatbed hot stamping on cover + spine with ±0.15mm registration |

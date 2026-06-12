@@ -57,7 +57,7 @@ Gold foil stamped folding cartons deliver premium tactile and visual impact for 
 
 ## Factory
 - 22 years of manufacturing excellence (founded 2003)
-- 10,000 sqm main factory + 8,000 sqm new smart factory (2025)
+- 18,000 sqm factory (10,000+8,000 smart factory)
 - 80+ skilled employees across design, prepress, printing, finishing, and QC
 - KBA 1050 4-color + Heidelberg 7+1 UV + Bobst foil stamping and die-cutting
 - Export to 40+ countries across six continents

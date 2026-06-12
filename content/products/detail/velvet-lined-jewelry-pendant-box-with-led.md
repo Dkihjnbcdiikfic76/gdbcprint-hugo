@@ -67,7 +67,7 @@ The Bincai Velvet Lined Jewelry Pendant Box with LED transforms jewelry presenta
 | Differentiator | Detail |
 |---|---|
 | **22-Year Legacy** | Manufacturing since 2003 — 500+ global brands served |
-| **18,000 sqm Facility** | 10,000 sqm + 8,000 sqm smart factory (2025) |
+| **18,000 sqm Facility** | 18,000 sqm (10,000+8,000 smart factory) |
 | **Heidelberg + KBA** | German-engineered offset presses for premium print quality |
 | **Electronics Integration** | In-house LED module assembly and QC |
 | **ISO 9001 & FSC** | Quality management + sustainable sourcing certification |

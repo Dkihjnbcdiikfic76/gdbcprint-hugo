@@ -95,7 +95,7 @@ Recyclable brown kraft paper rigid gift box with magnetic closure — designed b
 | Differentiator | Detail |
 |---|---|
 | **22-Year Legacy** | Manufacturing since 2003 — trusted by leading European sustainable brands |
-| **18,000 sqm Facility** | 10,000 sqm + 8,000 sqm smart factory (2025) |
+| **18,000 sqm Facility** | 18,000 sqm (10,000+8,000 smart factory) |
 | **Genuine Sustainability** | Full in-house FSC sourcing, recycled content, soy ink — not greenwashing |
 | **KBA + Heidelberg** | German-engineered presses for consistent quality on natural kraft |
 | **ISO 9001 & FSC** | Documented quality management + certified sustainable fiber |

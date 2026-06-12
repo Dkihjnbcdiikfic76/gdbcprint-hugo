@@ -52,7 +52,7 @@ Black magnetic rigid box for electronics premium packaging — manufactured by G
 
 ## Factory
 - 22 years of manufacturing excellence since 2003
-- 10,000 sqm main factory + 8,000 sqm new smart factory (2025)
+- 18,000 sqm factory (10,000+8,000 smart factory)
 - 80+ skilled employees across design, prepress, printing, and finishing
 - KBA 1050 4-color + Heidelberg 7+1 UV presses
 - Fully automatic die-cutting, gluing, and rigid box assembly lines

@@ -72,7 +72,7 @@ The Bincai Kraft Food Delivery Box with Window combines environmental responsibi
 | Differentiator | Detail |
 |---|---|
 | **22-Year Legacy** | Manufacturing since 2003 -- 500+ global food brands served |
-| **18,000 sqm Total** | 10,000 sqm main factory + 8,000 sqm smart factory (2025) |
+| **18,000 sqm Total** | 18,000 sqm factory (10,000+8,000 smart factory) (2025) |
 | **FSC Chain-of-Custody** | Full traceability from forest to finished box (FSC-C147639) |
 | **ISO 9001:2015** | Quality management with statistical process control |
 | **KBA 1050 Press** | German-engineered 4-color offset for precise food-brand graphics |

@@ -80,7 +80,7 @@ The Bincai Luxury Necklace Gift Box combines a magnetic flap closure with sumptu
 | Differentiator | Detail |
 |---|---|
 | **22-Year Legacy** | Manufacturing since 2003 — 500+ global jewelry and luxury brands served |
-| **18,000 sqm Facility** | 10,000 sqm + 8,000 sqm smart factory (2025) with dedicated jewelry box line |
+| **18,000 sqm Facility** | 18,000 sqm (10,000+8,000 smart factory) with dedicated jewelry box line |
 | **Heidelberg + KBA** | German-engineered offset presses for luxury brand color accuracy |
 | **In-House Flocking** | Electrostatic velvet flocking line — color-matched to any brand PMS |
 | **Bobst Hot Stamping** | Swiss-precision flatbed hot stamping with ±0.15mm foil registration |

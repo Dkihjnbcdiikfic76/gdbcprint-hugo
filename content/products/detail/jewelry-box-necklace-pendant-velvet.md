@@ -73,7 +73,7 @@ Bincai's premium necklace and pendant jewelry box features a plush velvet interi
 | Differentiator | Detail |
 |---|---|
 | **22-Year Legacy** | Manufacturing since 2003 — 500+ global brands served |
-| **18,000 sqm Facility** | 10,000 sqm + 8,000 sqm smart factory (2025) |
+| **18,000 sqm Facility** | 18,000 sqm (10,000+8,000 smart factory) |
 | **KBA 1050 + Heidelberg 7+1 UV** | German-engineered offset precision + specialty finishing |
 | **ISO 9001 & FSC** | Quality management + sustainable forestry |
 | **Jewelry Packaging Specialist** | Dedicated velvet flocking, satin cushion, and foam insert production lines |

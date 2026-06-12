@@ -73,7 +73,7 @@ All corrugated mailers benefit from our integrated manufacturing setup in Foshan
 | Differentiator | Detail |
 |---|---|
 | **22-Year Track Record** | Manufacturing since 2003 — 500+ global brands served |
-| **18,000 sqm** | 10,000 sqm + 8,000 sqm smart factory (2025 expansion) |
+| **18,000 sqm** | 18,000 sqm (10,000+8,000 smart factory) (2025 expansion) |
 | **ISO 9001 & FSC** | Quality management + sustainable fiber sourcing |
 | **FBA-Optimized** | Mailers designed to minimize Amazon fulfillment fees |
 | **Free Samples** | 3-5 day pre-production samples with your artwork |

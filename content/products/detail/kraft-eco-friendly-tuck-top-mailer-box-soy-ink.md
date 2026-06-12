@@ -101,7 +101,7 @@ This eco-friendly kraft tuck-top mailer box by Guangdong Bincai Color Printing d
 | Differentiator | Detail |
 |---|---|
 | **22-Year Legacy** | Manufacturing since 2003 — deep expertise in paper packaging engineering |
-| **18,000 sqm Campus** | 10,000 sqm main factory + 8,000 sqm smart factory (2025) in Shunde, Foshan |
+| **18,000 sqm Campus** | 18,000 sqm factory (10,000+8,000 smart factory) (2025) in Shunde, Foshan |
 | **Verified Sustainability** | FSC Chain-of-Custody, REACH, RoHS — documentation provided with every order |
 | **Soy Ink Commitment** | Dedicated soy-ink press line — no cross-contamination with conventional inks |
 | **Heidelberg 7+1 UV** | Superior print quality on kraft — brand logos that pop, not fade |

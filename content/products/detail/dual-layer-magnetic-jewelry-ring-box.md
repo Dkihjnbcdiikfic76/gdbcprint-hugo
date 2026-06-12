@@ -66,7 +66,7 @@ The Bincai Dual-Layer Magnetic Jewelry Ring Box offers versatile presentation wi
 | Differentiator | Detail |
 |---|---|
 | **22-Year Legacy** | Manufacturing since 2003 — 500+ global brands served |
-| **18,000 sqm Facility** | 10,000 sqm + 8,000 sqm smart factory (2025) |
+| **18,000 sqm Facility** | 18,000 sqm (10,000+8,000 smart factory) |
 | **Heidelberg + KBA** | German-engineered offset presses for premium print quality |
 | **ISO 9001 & FSC** | Quality management + sustainable sourcing certification |
 | **Free Samples** | 3–5 day pre-production samples (freight collect) |

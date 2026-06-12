@@ -55,7 +55,7 @@ The single-door magnetic closure gift box with ribbon pull elevates the unboxing
 - **Flocking**: 40kV electrostatic flocking booth — 0.5-1.0mm nylon fibers applied at 100g/m² density
 - **Assembly**: Manual hand-assembly by 80+ skilled craftspeople, each box inspected for magnet alignment, edge sharpness, and ribbon stitching integrity
 - **QC**: Magnetic pull force test (>1.0 kg), 200-cycle open/close endurance test, ribbon pull test (>10 kg), rub resistance ASTM D5264
-- **Factory**: 10,000 sqm + 8,000 sqm smart factory, 8 production lines, 220,000+ rigid boxes daily
+- **Factory**: 18,000 sqm (10,000+8,000 smart factory), 8 production lines, 220,000+ rigid boxes daily
 - **Lead Time**: 7-10 days sample, 18-22 days mass production
 
 ## Why Bincai

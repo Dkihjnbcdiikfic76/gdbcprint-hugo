@@ -67,7 +67,7 @@ The Bincai Magnetic Luxury Watch Display Box delivers premium presentation for h
 | Differentiator | Detail |
 |---|---|
 | **22-Year Legacy** | Manufacturing since 2003 — luxury packaging specialist |
-| **18,000 sqm Facility** | 10,000 sqm + 8,000 sqm smart factory (2025) |
+| **18,000 sqm Facility** | 18,000 sqm (10,000+8,000 smart factory) |
 | **Heidelberg + KBA** | German-engineered offset presses for premium print quality |
 | **Precision Focus** | ±0.15mm print registration, ±0.5mm cavity tolerance |
 | **ISO 9001 & FSC** | Quality management + sustainable sourcing certification |

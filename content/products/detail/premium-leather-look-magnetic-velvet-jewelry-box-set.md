@@ -82,7 +82,7 @@ This premium 3-piece leather-look magnetic velvet jewelry box set from Guangdong
 | Differentiator | Detail |
 |---|---|
 | **22-Year Legacy** | Manufacturing since 2003 — 500+ global jewelry brands served |
-| **18,000 sqm Facility** | 10,000 sqm + 8,000 sqm smart factory (2025 expansion) |
+| **18,000 sqm Facility** | 18,000 sqm (10,000+8,000 smart factory) (2025 expansion) |
 | **KBA + Heidelberg** | German-engineered offset/UV presses for jewelry-grade precision |
 | **ISO 9001 & FSC** | Quality management + sustainable fiber sourcing |
 | **In-House Foil** | Hot foil stamping, embossing, and velvet flocking under one roof |

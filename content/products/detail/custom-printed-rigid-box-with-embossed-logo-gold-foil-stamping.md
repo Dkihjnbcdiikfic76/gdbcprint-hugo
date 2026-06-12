@@ -91,7 +91,7 @@ Every rigid box passes through this 15-stage QC gate system:
 | Differentiator | Detail |
 |---|---|
 | **22-Year Legacy** | Rigid box specialist since 2003 — 500+ global luxury brands served |
-| **18,000 sqm** | 10,000 sqm + 8,000 sqm smart factory (2025 expansion) |
+| **18,000 sqm** | 18,000 sqm (10,000+8,000 smart factory) (2025 expansion) |
 | **Heidelberg 7+1 UV** | Premium color fidelity, instant UV curing |
 | **15 QC Checkpoints** | Multi-gate quality system from material to pack-out |
 | **ISO 9001 & FSC** | Certified quality management + responsible sourcing |
