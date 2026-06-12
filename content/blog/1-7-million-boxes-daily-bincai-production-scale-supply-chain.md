@@ -2,6 +2,7 @@
 title: "1.7 Million Boxes a Day: What Bincai's Production Scale Means for Your Supply Chain"
 date: 2026-06-12
 draft: false
+image: "/images/carousel-factory.jpg"
 description: "1.7 Million Boxes a Day — What Bincai's Production Scale Means for Your Supply Chain. Guangdong Bincai Color Printing produces 1.7M+ boxes daily with KBA 1050 & Heidelberg 7+1 UV presses across 18,000 sqm. ISO 9001 & FSC certified."
 
 ---
