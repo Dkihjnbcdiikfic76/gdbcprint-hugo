@@ -15,7 +15,7 @@ params:
 
 Premium custom art pattern square paper gift box for premium packaging manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — a Diamond Member on Made-in-China.com since 2015, Audited Supplier with 22 years of experience.
 
-### Features
+## Features
 - Custom sizes and materials available
 - CMYK offset printing + Pantone spot colors
 - Hot foil stamping, embossing, spot UV
@@ -23,7 +23,7 @@ Premium custom art pattern square paper gift box for premium packaging manufactu
 - ISO 9001:2015 certified quality management
 - FSC certified sustainable materials
 
-### Why Bincai
+## Why Bincai
 - 22 years factory (since 2003)
 - 18,000m² production facility
 - KBA 1050 4-color + Heidelberg 7+1 UV presses
