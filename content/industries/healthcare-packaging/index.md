@@ -53,3 +53,5 @@ Temperature-controlled shipping boxes for pharmaceutical logistics. B/E-flute co
 | Pre-Shipment Audit | AQL 2.5 | 100% visual on pharmaceutical-critical features |
 
 [Request healthcare packaging quote →](/contact/)
+
+<a href="https://bincaipaperbox.en.made-in-china.com/" target="_blank" rel="noopener" style="display:inline-block;background:#ff6b35;color:#fff;padding:8px 20px;border-radius:6px;text-decoration:none;font-weight:600;font-size:13px;">🏪 View Full Catalog on Made-in-China.com →</a>

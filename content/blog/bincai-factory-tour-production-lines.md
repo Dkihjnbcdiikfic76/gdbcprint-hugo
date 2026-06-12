@@ -56,3 +56,5 @@ We hold **ISO 9001:2015** for quality management and **FSC® (Forest Stewardship
 Bincai is located in the Pearl River Delta manufacturing hub, 40 minutes from Guangzhou Baiyun International Airport and 90 minutes from Shenzhen Port. We welcome factory audits and client visits.
 
 [Contact our team](/contact/) to schedule a factory tour or request a production capacity assessment for your packaging project.
+
+<a href="https://bincaipaperbox.en.made-in-china.com/" target="_blank" rel="noopener" style="display:inline-block;background:#ff6b35;color:#fff;padding:8px 20px;border-radius:6px;text-decoration:none;font-weight:600;font-size:13px;">🏪 View Full Catalog on Made-in-China.com →</a>

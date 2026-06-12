@@ -115,3 +115,5 @@ Many packaging suppliers outsource finishing to third-party post-press shops —
 ---
 
 *Contact Guangdong Bincai Color Printing to discuss surface finishing for your next packaging project. Samples available — we'll produce a finished mockup with your choice of coatings so you can see and touch the result before committing to production.*
+
+<a href="https://bincaipaperbox.en.made-in-china.com/" target="_blank" rel="noopener" style="display:inline-block;background:#ff6b35;color:#fff;padding:8px 20px;border-radius:6px;text-decoration:none;font-weight:600;font-size:13px;">🏪 View Full Catalog on Made-in-China.com →</a>

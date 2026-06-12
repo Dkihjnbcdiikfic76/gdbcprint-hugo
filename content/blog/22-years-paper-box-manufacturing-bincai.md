@@ -16,3 +16,5 @@ Today, with KBA 4-color and Heidelberg 7+1 UV presses, fully automatic productio
 Our ISO 9001 and FSC certifications demonstrate our commitment to quality and sustainability. Whether you need 500 custom gift boxes or 1 million folding cartons, Bincai delivers.
 
 [Contact us](/contact/) to start your packaging project.
+
+<a href="https://bincaipaperbox.en.made-in-china.com/" target="_blank" rel="noopener" style="display:inline-block;background:#ff6b35;color:#fff;padding:8px 20px;border-radius:6px;text-decoration:none;font-weight:600;font-size:13px;">🏪 View Full Catalog on Made-in-China.com →</a>

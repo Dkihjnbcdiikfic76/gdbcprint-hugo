@@ -111,3 +111,5 @@ At Guangdong Bincai, cost optimization is a collaborative process. Send us your 
 ---
 
 *Guangdong Bincai Color Printing Co., Ltd. — Manufacturing paper boxes since 2003. 18,000 sqm integrated factory. KBA 1050 + Heidelberg 7+1 UV. 1.7M boxes daily. ISO 9001 & FSC certified. No.6-7 Shunyuan North Rd, Wusha, Daliang, Shunde, Foshan, Guangdong, China.*
+
+<a href="https://bincaipaperbox.en.made-in-china.com/" target="_blank" rel="noopener" style="display:inline-block;background:#ff6b35;color:#fff;padding:8px 20px;border-radius:6px;text-decoration:none;font-weight:600;font-size:13px;">🏪 View Full Catalog on Made-in-China.com →</a>

@@ -36,3 +36,5 @@ Beyond scale and quality, we're also **FSC chain-of-custody certified** — your
 Whether you need 5,000 folding cartons for a product launch or 500,000 rigid gift boxes for a global campaign, we have the capacity and quality systems to deliver — on time and on spec.
 
 [Request a quote](/contact/) or [view our product range](/products/).
+
+<a href="https://bincaipaperbox.en.made-in-china.com/" target="_blank" rel="noopener" style="display:inline-block;background:#ff6b35;color:#fff;padding:8px 20px;border-radius:6px;text-decoration:none;font-weight:600;font-size:13px;">🏪 View Full Catalog on Made-in-China.com →</a>

@@ -102,3 +102,5 @@ When you source eco-friendly packaging from Bincai, you get:
 4. **22 years of manufacturing reliability** — sustainability backed by production experience, not marketing claims
 
 **Contact us at qo82@icloud.com or call +86-18934352881 (Mr. Zhou) to discuss your eco-friendly packaging project. Free digital proofs within 3-5 days.**
+
+<a href="https://bincaipaperbox.en.made-in-china.com/" target="_blank" rel="noopener" style="display:inline-block;background:#ff6b35;color:#fff;padding:8px 20px;border-radius:6px;text-decoration:none;font-weight:600;font-size:13px;">🏪 View Full Catalog on Made-in-China.com →</a>

@@ -92,3 +92,6 @@ taxonomies:
 sitemap:
   changefreq: weekly
   priority: 0.7
+
+ignoreLogs:
+  - warning-goldmark-raw-html

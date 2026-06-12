@@ -128,3 +128,5 @@ Bincai's location in Foshan, Guangdong — the heart of the Pearl River Delta ma
 From prototype to delivery, Bincai's integrated workflow ensures your packaging project moves seamlessly through every stage — with quality verified at each checkpoint. It's how we've earned the trust of brands across 30+ countries over 22 years.
 
 [Request a quote](/contact/) or [browse our product catalog](/products/).
+
+<a href="https://bincaipaperbox.en.made-in-china.com/" target="_blank" rel="noopener" style="display:inline-block;background:#ff6b35;color:#fff;padding:8px 20px;border-radius:6px;text-decoration:none;font-weight:600;font-size:13px;">🏪 View Full Catalog on Made-in-China.com →</a>

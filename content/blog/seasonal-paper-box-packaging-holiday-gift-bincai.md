@@ -177,3 +177,5 @@ Plan your seasonal packaging 4–6 months ahead. Contact us for free structural 
 ---
 
 *Guangdong Bincai Color Printing Co., Ltd. — 22 years of paper box manufacturing since 2003. ISO 9001, FSC, and High-Tech Enterprise certified. 1.7M boxes daily from 18,000 sqm Foshan factory.*
+
+<a href="https://bincaipaperbox.en.made-in-china.com/" target="_blank" rel="noopener" style="display:inline-block;background:#ff6b35;color:#fff;padding:8px 20px;border-radius:6px;text-decoration:none;font-weight:600;font-size:13px;">🏪 View Full Catalog on Made-in-China.com →</a>

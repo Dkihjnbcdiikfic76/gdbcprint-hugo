@@ -1,4 +1,8 @@
 {{ define "main" }}
+<div class="breadcrumb"><a href="/">Home</a> › 
+{{ with .Params.categories }}{{ $cat := index . 0 }}<a href="/categories/{{ $cat }}/">{{ $cat | humanize | title }}</a> › {{ end }}{{ .Title }}
+</div>
+
 <article style="max-width:900px;margin:0 auto;padding:40px 20px 60px;">
 <h1 style="font-size:28px;font-weight:700;line-height:1.2;color:#1d1d1f;margin-bottom:12px;">{{ .Title }}</h1>
 <div style="display:flex;gap:8px;flex-wrap:wrap;margin-bottom:24px;">
@@ -43,7 +47,7 @@
 <p style="font-size:13px;color:#888;margin-bottom:16px;">Free quote in 24 hours. Factory visits welcome.</p>
 <a href="/contact/" class="btn-cta">Inquire Now</a>
 <p style="font-size:12px;color:#888;margin-top:12px;">{{ .Site.Params.phone }}<br>{{ .Site.Params.email }}</p>
-<p style="margin-top:8px;"><a href="https://bincaipaperbox.en.made-in-china.com/" target="_blank" rel="noopener" style="font-size:11px;color:#0071e3;text-decoration:underline;">🏪 View on Made-in-China.com</a></p>
+<p style="margin-top:12px;"><a href="https://bincaipaperbox.en.made-in-china.com/" target="_blank" rel="noopener" style="display:inline-block;background:#ff6b35;color:#fff;padding:6px 16px;border-radius:6px;font-size:12px;font-weight:600;text-decoration:none;">🏪 View on Made-in-China.com (Diamond Member)</a></p>
 </div>
 </div>
 

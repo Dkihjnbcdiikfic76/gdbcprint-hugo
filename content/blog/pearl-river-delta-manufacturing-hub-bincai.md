@@ -102,3 +102,5 @@ Location alone isn't enough — it takes operational expertise to turn geographi
 The PRD's paper box manufacturing dominance isn't accidental — it's the result of 30+ years of clustered development, continuous investment, and relentless focus on export-quality packaging. Bincai, with its 22-year history, dual-factory capacity (18,000 sqm total), ISO 9001 & FSC certifications, and German-engineered Heidelberg/KBA press line, represents the best of what this region can deliver.
 
 > **Ready to source from the world's best packaging hub?** Contact Bincai for samples and quotations: **+86-18934352881** (Mr. Zhou) or **qo82@icloud.com**. Free pre-production samples within 3-5 days. MOQ from 500 units.
+
+<a href="https://bincaipaperbox.en.made-in-china.com/" target="_blank" rel="noopener" style="display:inline-block;background:#ff6b35;color:#fff;padding:8px 20px;border-radius:6px;text-decoration:none;font-weight:600;font-size:13px;">🏪 View Full Catalog on Made-in-China.com →</a>

@@ -31,3 +31,5 @@ Premium magnetic closure boxes with satin ribbon pulls and velvet flocking. Perf
 - Window cutouts (PVC, PET)
 
 [Get a quote for cosmetic packaging →](/contact/)
+
+<a href="https://bincaipaperbox.en.made-in-china.com/" target="_blank" rel="noopener" style="display:inline-block;background:#ff6b35;color:#fff;padding:8px 20px;border-radius:6px;text-decoration:none;font-weight:600;font-size:13px;">🏪 View Full Catalog on Made-in-China.com →</a>

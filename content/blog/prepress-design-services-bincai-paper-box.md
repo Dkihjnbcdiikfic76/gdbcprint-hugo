@@ -91,3 +91,5 @@ All Bincai orders include our full pre-press service at no extra charge:
 Send your artwork to **qo82@icloud.com** or contact Mr. Zhou at **+86-18934352881**. Our pre-press team reviews files within 4 business hours and returns a proof for your approval — typically the same day.
 
 [Explore our product range](/products/) • [Request a custom quote](/contact/)
+
+<a href="https://bincaipaperbox.en.made-in-china.com/" target="_blank" rel="noopener" style="display:inline-block;background:#ff6b35;color:#fff;padding:8px 20px;border-radius:6px;text-decoration:none;font-weight:600;font-size:13px;">🏪 View Full Catalog on Made-in-China.com →</a>

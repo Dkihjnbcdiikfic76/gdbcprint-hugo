@@ -48,3 +48,5 @@ Both facilities operate under the same ISO 9001:2015 quality management system, 
 Whether you need 500 units for a boutique launch or 500,000 for a global product rollout, Bincai's expanded capacity means faster sampling (3-5 days for digital proofs), shorter production runs, and reliable on-time delivery.
 
 **Contact us at qo82@icloud.com or call +86-18934352881 (Mr. Zhou) for a quote.**
+
+<a href="https://bincaipaperbox.en.made-in-china.com/" target="_blank" rel="noopener" style="display:inline-block;background:#ff6b35;color:#fff;padding:8px 20px;border-radius:6px;text-decoration:none;font-weight:600;font-size:13px;">🏪 View Full Catalog on Made-in-China.com →</a>

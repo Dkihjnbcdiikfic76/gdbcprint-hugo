@@ -141,3 +141,5 @@ Every export packaging project starts with an ISTA 3A pre-compliance prototype. 
 - Web **Website**: [gdbcprint.com](https://gdbcprint.com)
 
 **Free samples in 3–5 working days.** MOQ from 500 units. Export to 30+ countries since 2003.
+
+<a href="https://bincaipaperbox.en.made-in-china.com/" target="_blank" rel="noopener" style="display:inline-block;background:#ff6b35;color:#fff;padding:8px 20px;border-radius:6px;text-decoration:none;font-weight:600;font-size:13px;">🏪 View Full Catalog on Made-in-China.com →</a>

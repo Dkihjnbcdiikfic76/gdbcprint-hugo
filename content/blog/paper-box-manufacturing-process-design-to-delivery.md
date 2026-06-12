@@ -83,3 +83,5 @@ With ISO 9001 governing every step, final inspection uses AQL (Acceptable Qualit
 At 1.7 million boxes per day and 22 years of continuous operation, Bincai has refined each step into a repeatable, quality-controlled system. Whether you order 5,000 boxes or 500,000, the same ISO 9001 discipline applies — because your brand deserves packaging that matches the product inside.
 
 [Request samples or a quote →](/contact/)
+
+<a href="https://bincaipaperbox.en.made-in-china.com/" target="_blank" rel="noopener" style="display:inline-block;background:#ff6b35;color:#fff;padding:8px 20px;border-radius:6px;text-decoration:none;font-weight:600;font-size:13px;">🏪 View Full Catalog on Made-in-China.com →</a>

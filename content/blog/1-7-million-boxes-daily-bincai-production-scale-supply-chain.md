@@ -83,3 +83,5 @@ Whether you need 500 prototype boxes for a trade show or 500,000 monthly for ong
 ---
 
 *Guangdong Bincai Color Printing — 22 years of paper box manufacturing. ISO 9001 & FSC certified. 1.7M+ boxes daily, delivered to 50+ countries.*
+
+<a href="https://bincaipaperbox.en.made-in-china.com/" target="_blank" rel="noopener" style="display:inline-block;background:#ff6b35;color:#fff;padding:8px 20px;border-radius:6px;text-decoration:none;font-weight:600;font-size:13px;">🏪 View Full Catalog on Made-in-China.com →</a>

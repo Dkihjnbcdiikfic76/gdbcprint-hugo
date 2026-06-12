@@ -143,3 +143,5 @@ With **1.7 million boxes produced daily** from our KBA 1050 and Heidelberg 7+1 U
 **Ready to ship?** Contact our export team at [the usual contact channels] with your box specifications and destination port. We'll return a freight estimate within 24 hours — FOB, CIF, or DDP.
 
 *Guangdong Bincai Color Printing Co., Ltd. — 22 years. ISO 9001:2015 & FSC-C156391 certified. 18,000 sqm. 1.7M+ boxes daily. Shipping from Foshan to 60+ countries.*
+
+<a href="https://bincaipaperbox.en.made-in-china.com/" target="_blank" rel="noopener" style="display:inline-block;background:#ff6b35;color:#fff;padding:8px 20px;border-radius:6px;text-decoration:none;font-weight:600;font-size:13px;">🏪 View Full Catalog on Made-in-China.com →</a>

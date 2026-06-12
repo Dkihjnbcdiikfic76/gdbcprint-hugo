@@ -102,3 +102,5 @@ For foil and embossing jobs, our QC process adds three checkpoints on top of sta
 *At Guangdong Bincai, every foil-stamped and embossed box passes through hands that have been doing this for two decades. Our presses are modern, but our QC is old-school: we look at every sheet. Because when a customer opens your box, that moment of tactile delight is the difference between a product and a gift.*
 
 **Guangdong Bincai Color Printing Co., Ltd.** — ISO 9001:2015 & FSC® certified, 22 years of paper box manufacturing, 18,000 sqm factory (10,000+8,000 smart factory), daily output 1.7 million boxes. [Request a quote →](/contact/)
+
+<a href="https://bincaipaperbox.en.made-in-china.com/" target="_blank" rel="noopener" style="display:inline-block;background:#ff6b35;color:#fff;padding:8px 20px;border-radius:6px;text-decoration:none;font-weight:600;font-size:13px;">🏪 View Full Catalog on Made-in-China.com →</a>
