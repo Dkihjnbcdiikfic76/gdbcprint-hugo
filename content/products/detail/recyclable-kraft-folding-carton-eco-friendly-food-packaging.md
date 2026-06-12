@@ -12,6 +12,8 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
+![Recyclable Kraft Folding Carton Eco-Friendly Food Packaging](/images/cat-fold-cosmetic.jpg)
+
 ## Overview
 
 Guangdong Bincai Color Printing's recyclable kraft folding carton for eco-friendly food packaging delivers sustainable protection with brand-forward printing. FSC certified kraft paperboard, soy-based inks, and water-based adhesives ensure full recyclability and industrial compostability. Manufactured in our ISO 9001:2015 certified 18,000 sqm facility (10,000+8,000 smart factory) with KBA 1050 4-color and Heidelberg 7+1 UV presses — 22 years of experience, daily output 1.7 million boxes.
