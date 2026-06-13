@@ -78,26 +78,9 @@ The double-door design creates a dramatic reveal that elevates brand perception 
 | Sampling | Free pre-production samples (freight collect); 3D digital proof in 24 hours |
 | Shipping | FOB Shenzhen / Guangzhou; container and LCL options |
 
-## Contact
-
-[Request free quote](/contact/) — response within 24 hours. Factory visits welcome.
+<a href="/contact/" class="btn-cta" style="display:inline-block;font-size:16px;padding:14px 32px;margin:16px 0;background:#e8613c;color:#fff;border-radius:8px;text-decoration:none;font-weight:600;">Request Free Quote →</a> — response within 24 hours. Factory visits welcome.
 
 - **Email:** qo82@icloud.com
 - **Phone:** +86-18934352881
 - **Factory Address:** No.6-7 Shunyuan North Rd, Wusha, Daliang, Shunde, Foshan, Guangdong
 - **Website:** www.gdbcprint.com
-
-## Why Bincai
-
-| Feature | Detail |
-|---------|--------|
-| Experience | 22 years since 2003 |
-| Factory | 18,000m² (10,000+8,000 smart factory) with KBA & Heidelberg presses |
-| Quality | ISO 9001:2015 certified |
-| Eco | FSC certified sustainable materials |
-| Capacity | 1.7M+ color boxes + 220K+ gift boxes daily |
-| Clients | 200+ brands across 50+ countries |
-| Custom | Any size, color, finish, insert |
-| MOQ | 500-1000 pcs, trial orders accepted |
-| Free Sample | Free pre-production sample (freight collect) |
-| Shipping | Worldwide DHL/FedEx/UPS/Sea |

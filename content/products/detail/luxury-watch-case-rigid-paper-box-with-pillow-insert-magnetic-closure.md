@@ -13,38 +13,47 @@ params:
 ---
 ![Jewelry Box](/images/cat-rigid-jewelry.webp)
 
-Premium custom luxury watch case rigid paper box with pillow insert magnetic closure by Guangdong Bincai Color Printing Co., Ltd. — 22 years factory, ISO 9001 & FSC certified.
+## Product Overview
 
-- KBA 1050 4-Color & Heidelberg 7+1 UV printing
-- Custom sizes, colors, finishes
-- MOQ 500-1000 units, free samples
-- Worldwide shipping 7-15 days
+A premium rigid paper watch case designed for luxury timepiece presentation and retail display. Features a velvet-flocked interior with removable watch pillow insert and hidden magnetic closure for a clean, premium unboxing experience. The rigid greyboard construction with art paper wrap provides excellent crush protection for shipping, while the satin-lined pillow cradles the watch securely. Manufactured in our ISO 9001 certified factory on Heidelberg and KBA presses with precision die-cutting and hand-finished assembly.
 
-## Why Bincai
+## Features
 
-| Feature | Detail |
-|---------|--------|
-| Experience | 22 years since 2003 |
-| Factory | 18,000m² (10,000+8,000 smart factory) with KBA & Heidelberg presses |
-| Quality | ISO 9001:2015 certified |
-| Eco | FSC certified sustainable materials |
-| Capacity | 1.7M+ color boxes + 220K+ gift boxes daily |
-| Clients | 200+ brands across 50+ countries |
-| Custom | Any size, color, finish, insert |
-| MOQ | 500-1000 pcs, trial orders accepted |
-| Free Sample | Free pre-production sample (freight collect) |
-| Shipping | Worldwide DHL/FedEx/UPS/Sea |
+- **Watch Pillow Insert**: Removable satin-lined PU foam pillow (30–50 Shore A) sized to 38–46mm watch faces
+- **Magnetic Closure**: Hidden N42-N52 neodymium magnets in front flap — clean invisible closure, 10,000+ cycles
+- **Rigid Construction**: 2.0mm greyboard (1200–1600gsm) core wrapped in 157gsm art paper — superior crush resistance
+- **Velvet Interior**: Plush flocked velvet (0.8–1.5mm) in black, navy, charcoal, or burgundy
+- **Foil Options**: Gold, silver, rose gold, copper via Bobst flatbed hot stamping press
+- **Custom Dimensions**: Available from 100×100×80mm to 200×150×100mm
 
-## FAQ
+## Manufacturing Specifications
 
-**Q: What materials are used in the construction of your luxury watch cases?**
-A: Our luxury watch cases are constructed from high-density rigid greyboard (1.5mm–3mm thickness) wrapped in premium art paper, leatherette, or fabric finishes of your choice. The interior features a custom-fit pillow insert available in velvet, suede, or satin to securely hold and display the watch. All materials are FSC-certified and produced under ISO 9001:2015 quality management, backed by Bincai's 22+ years of packaging manufacturing expertise since 2003.
+- **Press**: Heidelberg Speedmaster 7+1 UV + KBA 1050 4-color — ±0.15mm print registration
+- **Board**: 2.0mm rigid greyboard core with 157gsm art paper wrap, optional leatherette overlay
+- **Magnetic Closure**: Two N42-N52 neodymium disc magnets (Ø8mm×2mm) — ≥5.0 N/cm retention
+- **Foil Stamping**: Bobst flatbed hot stamping, 6-roll capacity, standard and custom foil colors
+- **Interior Assembly**: Hand-applied velvet flocking, CNC die-cut EVA foam pillow insert
+- **Daily Output**: 220,000+ gift boxes across rigid categories
+- **Certifications**: ISO 9001:2015, FSC Chain-of-Custody, REACH-compliant
 
-**Q: Can I customize the pillow insert color, shape, and material?**
-A: Absolutely. The pillow insert is fully customizable — you can specify the exact dimensions to fit your watch model, choose from a wide palette of colors in velvet, suede, or satin, and even add custom embossing or foil-stamped logos on the insert surface. Our in-house die-cutting and finishing equipment (KBA 1050 4-Color and Heidelberg 7+1 UV presses) ensures precision fit and consistent quality across every unit, up to 220K+ gift boxes daily.
+## Customization Options
 
-**Q: How strong and durable are the magnetic closures on your watch boxes?**
-A: Our magnetic closures use industrial-grade neodymium magnets embedded within the rigid board structure, providing a secure, satisfying snap closure that withstands thousands of open/close cycles without weakening. The magnets are concealed entirely within the board layers, maintaining a clean exterior appearance. We conduct tensile testing on every production batch to ensure consistent magnetic strength and long-term durability.
+| Option | Available Choices |
+|---|---|
+| **Size Range** | 100×100×80mm to 200×150×100mm |
+| **Exterior** | Art paper, leatherette, pearlescent, linen bookcloth, velvet wrap |
+| **Foil Colors** | Gold, silver, rose gold, copper, matte black, holographic |
+| **Interior** | Velvet flocking, satin lining, suede-finish microfiber |
+| **Pillow Type** | Satin-covered foam, velvet-covered foam, leatherette pillow |
+| **Add-Ons** | LED lighting, certificate holder, outer sleeve, gift bag |
+| **MOQ** | 500 units (standard), 1000+ (custom tooling) |
 
-**Q: What is your typical production lead time for custom watch cases?**
-A: Standard production lead time is 12–18 business days after sample approval. With our expanded 18,000 sqm (10,000+8,000 smart factory) (commissioned in 2025), we maintain a daily output capacity of 1.7M color boxes and 220K+ gift boxes, allowing us to handle urgent orders with expedited turnaround. Rush orders can be completed in as few as 7 days depending on complexity and current production schedule. Contact us at +86-18934352881 or qo82@icloud.com for a specific timeline on your project.
+## Production Quality
+
+| Test | Standard | Specification |
+|---|---|---|
+| Magnet Strength | Internal | ≥5.0 N/cm retention force |
+| Lid Alignment | Internal | ≤0.8mm gap tolerance |
+| Foil Adhesion | ASTM D3359 | 5B rating (no peeling) |
+| Crush Resistance | Internal | ≥150 N top-load capacity |
+| Drop Test | ISTA 1A | 10-drop sequence, 760mm |

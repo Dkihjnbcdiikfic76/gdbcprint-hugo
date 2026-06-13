@@ -77,18 +77,3 @@ Every element of this magnetic closure box is customizable to your brand identit
 ## Food Safety & Quality Assurance
 
 All food-contact materials — PET trays, interior paper liners, adhesives — comply with **FDA 21 CFR** and **EU Regulation (EC) No 1935/2004** for food-contact articles. Paperboard is sourced from **FSC-certified mills** with full chain-of-custody traceability. Inline QC checks at every stage verify cavity precision (±0.5mm), magnetic closure strength (minimum 3N pull force), hot foil registration (±0.1mm), and surface finish consistency. Optional features include inner wax paper or greaseproof lining for direct food contact, tamper-evident sealing, and desiccant packet compartments for humidity-sensitive confections.
-
-## Why Bincai
-
-- **22 years** of rigid box manufacturing since 2003 — trusted by luxury chocolate brands across Asia, Europe, and the Middle East
-- **KBA 1050 + Heidelberg 7+1 UV** — world-class German press technology for unmatched print quality and color consistency
-- **18,000 sqm factory (10,000+8,000 smart factory)** in Foshan, Guangdong — in-house design, prepress, printing, laminating, embossing, die-cutting, and assembly
-- **ISO 9001:2015 & FSC Chain of Custody certified** — internationally audited quality and sustainability standards
-- **Food-grade production environment** with segregated lines and HACCP-aligned protocols for food-contact packaging
-- **1.7 million boxes daily** capacity — reliable supply for seasonal peaks, chain rollouts, and global distribution
-- **MOQ 500 units** with free pre-production samples in 3–5 working days
-- **FOB Foshan/Shenzhen** — global logistics with 22 years of export experience
-
-**Guangdong Bincai Color Printing Co., Ltd.** — 22 years. 18,000 sqm (10,000+8,000 smart factory). ISO 9001 & FSC certified. Premium food packaging your brand deserves.
-
-Contact +86-18934352881 or qo82@icloud.com for design consultation and complimentary samples.

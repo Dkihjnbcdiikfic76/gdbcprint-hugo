@@ -75,20 +75,3 @@ A: Yes. Our water-based PVA adhesive is FDA 21 CFR 175.105 compliant for indirec
 
 **Q: What are the shipping advantages of kraft boxes versus rigid boxes?**
 A: Kraft folding cartons ship flat — 80–90% volume reduction versus pre-assembled rigid boxes. A 40ft container can hold approximately 5× more kraft flat-pack boxes than rigid boxes, dramatically reducing your per-unit freight cost and carbon footprint.
-## Contact
-[Request free quote](/contact/) — response within 24 hours. Factory visits welcome. Send us your cosmetics line dimensions for a custom-fit eco packaging solution.
-
-## Why Bincai
-
-| Feature | Detail |
-|---------|--------|
-| Experience | 22 years since 2003 |
-| Factory | 18,000m² (10,000+8,000 smart factory) with KBA & Heidelberg presses |
-| Quality | ISO 9001:2015 certified |
-| Eco | FSC certified sustainable materials |
-| Capacity | 1.7M+ color boxes + 220K+ gift boxes daily |
-| Clients | 200+ brands across 50+ countries |
-| Custom | Any size, color, finish, insert |
-| MOQ | 500-1000 pcs, trial orders accepted |
-| Free Sample | Free pre-production sample (freight collect) |
-| Shipping | Worldwide DHL/FedEx/UPS/Sea |

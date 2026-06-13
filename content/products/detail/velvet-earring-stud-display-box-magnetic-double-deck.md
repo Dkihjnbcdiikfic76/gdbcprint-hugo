@@ -60,17 +60,3 @@ Bincai's double-deck velvet earring display box is engineered for jewelry retail
 | Elastic Retention | Internal | Stud hold at 60° tilt |
 | Print Registration | Internal | ±0.15mm |
 | Color Consistency | Internal | ΔE ≤ 2.0 |
-
-## Why Bincai
-
-| Differentiator | Detail |
-|---|---|
-| **22-Year Legacy** | Manufacturing since 2003 — 500+ global brands served |
-| **18,000 sqm Facility** | 18,000 sqm (10,000+8,000 smart factory) |
-| **KBA 1050 Press** | German-engineered offset precision |
-| **ISO 9001 & FSC** | Quality management + sustainable forestry |
-| **Free Samples** | 3-5 day pre-production samples |
-
-## Contact
-
-MOQ 500 units. Velvet color and tray layout samples available. Sample within 5 days. Lead time 15-25 days. Phone: +86-18934352881. Email: qo82@icloud.com.

@@ -54,30 +54,3 @@ Bincai's corrugated literature mailer combines protective B-flute cushioning wit
 | Adhesive | Peel adhesion tested at 23°C and -10°C |
 | Perforation | Tear force 2-6N — clean separation without premature tear |
 | ISTA Testing | Random sample 3A drop test — 10 drops from 76cm |
-
-## Why Bincai
-
-| Spec | Bincai Advantage |
-|------|-----------------|
-| Factory | 18,000 sqm, Foshan Guangdong |
-| Experience | 22 years in corrugated packaging |
-| Daily Output | 1.7M boxes — mailers, shippers, and custom |
-| QC | 15 checkpoints including ISTA 3A testing |
-| Certifications | ISO 9001, FSC |
-
-## Frequently Asked Questions
-
-**Q: How does the self-seal adhesive strip work, and is it secure during transit?**
-A: The self-seal strip uses a hot-melt pressure-sensitive adhesive (PSA) protected by a silicone release liner. To seal, simply peel the liner and press the flap closed — the adhesive bonds instantly to the kraft surface with no curing time. Peel adhesion is tested at both 23°C (standard) and -10°C (cold chain) to ensure closure integrity across shipping climates. Once sealed, the box requires deliberate force to open, providing tamper-evident security. The adhesive is applied inline during production on our automated gluing line at up to 8,000 mailers per hour.
-
-**Q: Can this mailer be used for subscription box services with variable product thicknesses?**
-A: Yes — the B-flute depth (2.5mm) can be customized from 20mm to 50mm. For subscription services with variable contents (book of the month, gift-with-purchase, seasonal catalogs), we recommend a 30-35mm depth to accommodate ±10mm product variation. The self-seal strip maintains closure at any depth. We also offer multi-depth scoring (creasing at 3 depth positions) so one box size serves multiple SKUs — popular with book-of-the-month clubs shipping both paperbacks and hardcovers from the same mailer inventory.
-
-**Q: What is the difference between B-flute and E-flute for literature mailers?**
-A: B-flute (2.5mm, ~47 flutes/ft) is our standard — it provides the best balance of crush resistance (ECT ≥23 lb/in) and weight for book/catalog shipping. E-flute (1.5mm, ~90 flutes/ft) is thinner and more elegant but offers lower crush resistance (ECT ~18 lb/in) — better for lightweight magazines and brochures where a slimmer profile is preferred. C-flute (3.5mm, ~39 flutes/ft) is heavier-duty for large coffee-table books and framed artwork. Bincai can run all three flute profiles on parallel corrugator lines with quick changeover.
-
-**Q: Can the mailer include a return label for easy customer returns?**
-A: Yes — we offer an integrated dual-perforation design. The first perforation is the standard tear strip for opening; a second perforation line with pre-printed return address and prepaid postage indicia creates a built-in return mailer. The customer opens at tear strip 1, removes the product, reverses the mailer, seals with included double-sided tape strip, and drops in any mailbox. This reverse-logistics feature is popular with subscription apparel and book rental services. Return mailer USPS/FedEx/UPS compliant printing available.
-## Contact
-
-MOQ 1,000-3,000 units. Sample within 5 days. Lead time 15-20 days. Phone: +86-18934352881. Email: qo82@icloud.com.

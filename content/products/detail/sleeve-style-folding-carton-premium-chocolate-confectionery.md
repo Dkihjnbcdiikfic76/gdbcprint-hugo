@@ -74,28 +74,3 @@ Custom sleeve-style folding carton for premium chocolate and confectionery packa
 | **Drop Test** | ISTA 1A | 10-drop sequence; sleeve intact, chocolate undamaged |
 | **Barcode Scan** | Internal FC-002 | 100% inline verification; Grade B or better (ISO 15416) |
 | **Surface Inspection** | AQL 2.5 (ISO 2859-1) | 100% visual for print defects, foil placement, coating uniformity |
-
-## Why Bincai
-
-| Differentiator | Detail |
-|---|---|
-| **22-Year Legacy** | Manufacturing folding cartons since 2003; FMCG and luxury sectors |
-| **18,000 sqm Facility** | 10,000 sqm original factory + 8,000 sqm smart factory (2025) in Foshan |
-| **KBA 1050 + Heidelberg 7+1 UV** | Dual German presses; 15,000+ sph with inline coating |
-| **Food-Grade Compliance** | FDA, EU 1935/2004, ISO 13302 sensory; full documentation package |
-| **ISO 9001 & FSC** | Quality management + sustainable sourcing; audit-ready |
-| **1.7M Daily Capacity** | 1.7 million color boxes per day post-2025 expansion |
-| **End-to-End In-House** | Design → prepress → print → die-cut → glue → QC — one roof, one contact |
-| **Free Samples** | 3–5 day pre-production samples with chosen foil, coating, and board |
-
-## Contact
-
-For custom sleeve-style folding carton inquiries, sample requests, or factory visits:
-
-- **MOQ**: 1000 units (standard), 500 (trial)
-- **Sample**: 3–5 day pre-production samples; ship via DHL/FedEx
-- **Lead Time**: 12–18 working days (standard), 7–10 days (expedited)
-- **Phone**: +86-18934352881 (Mr. Zhou)
-- **Email**: qo82@icloud.com
-- **Address**: No.6-7 Shunyuan North Rd, Wusha, Daliang, Shunde, Foshan, Guangdong
-- **Factory Visit**: Welcome — schedule via email or phone

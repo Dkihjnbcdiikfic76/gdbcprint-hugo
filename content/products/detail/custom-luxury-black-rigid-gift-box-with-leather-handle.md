@@ -72,35 +72,3 @@ Premium custom luxury black rigid gift box with leather handle manufactured by *
 10. **Final Visual Inspection** — 100% under 5000K lighting
 11. **Pack-Out Audit** — AQL 2.5 Level II per ISO 2859-1
 12. **Pre-Shipment Inspection** — Random sampling, photo documentation
-
-## Why Bincai
-| Differentiator | Detail |
-|---|---|
-| **22-Year Legacy** | Manufacturing since 2003 — 500+ global brands served |
-| **18,000m² Factory** | 10,000m² main + 8,000m² smart factory (2025 expansion) |
-| **KBA + Heidelberg** | German-engineered offset presses, 1.7M boxes/day |
-| **ISO 9001 & FSC** | Quality management + sustainable sourcing |
-| **Luxury Craftsmanship** | In-house foil stamping, embossing, leather handle assembly |
-| **Free Samples** | 3-5 day pre-production samples (freight collect) |
-
-## FAQ
-
-**Q: What is the minimum order quantity for luxury rigid boxes with leather handles?**
-A: Standard MOQ is 500-1000 units, with trial orders of 300 units accepted for sampling. Complex custom structures with multiple foil colors or leather handle attachment may require 1000+ units minimum.
-
-**Q: Can Bincai match a specific Pantone color for the black finish?**
-A: Yes, we use Heidelberg Prinect Inpress inline spectrophotometry for real-time color measurement with ΔE ≤ 2.0 tolerance. Any Pantone or custom color can be precisely matched across CMYK + spot color printing on our KBA 1050 press.
-
-**Q: What types of leather handles are available for rigid gift boxes?**
-A: We offer genuine leather (cowhide, PU leather, suede) in black, brown, tan, and custom colors. Handles are reinforced with riveted metal attachments and tested to ≥15kg pull force. Ribbon, metal chain, and die-cut handle alternatives are also available.
-
-**Q: How long does production take for custom luxury rigid boxes?**
-A: Standard production lead time is 7-15 days after sample approval. Complex orders with multiple foil colors, embossing, and leather handle assembly may require 15-20 days. Rush orders can be accommodated with our dual-press strategy — contact us for availability.
-
-## Contact
-Ready to order your custom luxury rigid gift boxes? [Request a free quote](/contact/) — response within 24 hours. Free pre-production samples available (freight collect). Factory visits welcome at our Foshan, Guangdong facility.
-
-📞 **Phone**: {{< param "phone" >}}
-📧 **Email**: {{< param "email" >}}
-
- [View this product on Made-in-China.com →](https://bincaipaperbox.en.made-in-china.com/)

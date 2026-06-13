@@ -63,18 +63,3 @@ The straight tuck end (STE) folding carton is one of the most versatile and cost
 | Board Stiffness | ISO 2493 | 250gsm min. bending resistance |
 | Color Consistency | ΔE ≤ 2.0 | Spectrophotometer verification |
 | Scuff Resistance | Sutherland Rub | 500+ cycles (matte lam) |
-
-## Why Bincai
-
-| Differentiator | Detail |
-|---|---|
-| **22-Year Legacy** | Manufacturing since 2003 — over 500 global brands served |
-| **18,000 sqm** | 18,000 sqm factory (10,000+8,000 smart factory (2025) |
-| **KBA + Heidelberg** | German-engineered offset presses for precision printing |
-| **ISO 9001 & FSC** | Quality management + sustainable material sourcing |
-| **In-House Tooling** | Rapid die production, 3-day sample turnaround |
-| **Free Samples** | 3–5 day pre-production samples (freight collect) |
-
-## Contact
-
-MOQ 500 units. Pricing from $0.15/unit (dependent on size, board grade, and finishing). Free pre-production samples within 3–5 business days. Factory visits welcome at our Foshan, Guangdong facility. Contact Mr. Zhou at +86-18934352881 or qo82@icloud.com for a same-day quotation.

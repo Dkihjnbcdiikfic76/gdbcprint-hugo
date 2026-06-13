@@ -77,33 +77,3 @@ Luxury rigid gift box for wine bottle packaging with plush velvet lining interio
 | Abrasion resistance | Sutherland rub test (2lb, 50 cycles) | No visible ink transfer or surface damage |
 | FSC chain of custody | Document audit per shipment | FSC-STD-40-004 compliance |
 | ISO 9001 | Process documentation at each station | Full traceability |
-
-## Why Bincai for Wine Packaging
-- **22 years** of rigid box manufacturing expertise since 2003 — serving wineries from Bordeaux, Napa, Barossa, and Mendoza
-- **Heidelberg 7+1 UV** press for drip-off, hybrid UV, and specialty coating effects unique in the Pearl River Delta
-- **FSC Chain of Custody** certified (SGSHK-COC-008796) — sustainable paper sourcing for eco-conscious wine brands
-- **Factory** capacity: 18,000 sqm (Foshan HQ) + 8,000 sqm (satellite facility) = 1.7M boxes/day
-- **Bobst BMA** foil stamping press for precision metallic decoration — up to 580×380mm stamping area
-- Full in-house: pre-press CTP → KBA/Heidelberg printing → lamination → die-cutting → foil stamping → rigid box wrapping → velvet lining → QC inspection → packing
-- **Export experience** to 60+ countries with dedicated wine packaging clients in France, Italy, Australia, and California
-- Free 3D structural design and pre-production sampling with Pantone color matching
-
-## FAQ
-
-**Q: What bottle sizes does this rigid box accommodate?**
-A: We produce cavities for all standard formats: Bordeaux (76mm Ø), Burgundy (82mm Ø), Champagne (88mm Ø), and spirits (70–85mm Ø). Custom cavity dimensions for specialty bottles, ceramic decanters, and non-standard shapes are available.
-
-**Q: Can I order a dual-bottle presentation box?**
-A: Yes. We offer side-by-side and stacked configurations for two-bottle gift sets, with individual velvet or foam cavities for each bottle. Magnetic closure with ribbon pull tab is the most popular dual-bottle format.
-
-**Q: What types of interior lining are available?**
-A: Velvet (polyester or cotton), flocking, suede, satin, silk, and premium Alcantara. All linings are tested for colorfastness (AATCC 61) and abrasion resistance (Martindale). Full Pantone textile color range available.
-
-**Q: How is the bottle secured during shipping?**
-A: Precision die-cut EVA foam or rigid greyboard cavity cradles the bottle securely. The velvet-lined cavity prevents movement and label scuffing. ISTA drop-test verified from 1 meter on concrete.
-
-**Q: What is the minimum order quantity for custom wine boxes?**
-A: MOQ is 500 units per design. For wedding and event favors, we accept orders as low as 200 units with personalized foil stamping (names, dates, branding).
-
-**Q: Do you offer sustainable options for wine packaging?**
-A: Yes. FSC-certified greyboard, recycled-content board, water-based adhesives, and soy-based inks are available. We can build a 100% recyclable rigid wine box — inquire about our eco-luxury wine packaging line.

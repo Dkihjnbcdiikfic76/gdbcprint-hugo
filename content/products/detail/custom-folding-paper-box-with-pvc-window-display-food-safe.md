@@ -63,32 +63,3 @@ The custom folding paper box with PVC window display and food-safe construction 
 | **FDA 21 CFR** | Indirect food additives | Available on request |
 | **ISO 22000** | Food safety management | Factory hygiene protocols enforced |
 | **FSC** | Sustainable sourcing | Chain-of-Custody certified |
-
-## Why Bincai
-
-| Differentiator | Detail |
-|---|---|
-| **22-Year Legacy** | Manufacturing since 2003 — 500+ global brands served |
-| **18,000 sqm Total** | 18,000 sqm factory (10,000+8,000 smart factory (2025) |
-| **KBA + Heidelberg** | German offset presses for precise food-grade printing |
-| **In-House Window Patching** | Automated lines — no outsourcing delays |
-| **ISO 9001 & FSC** | Quality management + sustainable material sourcing |
-| **Free Samples** | 3-5 day pre-production samples (freight collect) |
-
-## Contact
-
-MOQ 500 units (3000+ for custom window die-cut). Trial orders welcome. Free pre-production samples. Lead time 15-25 days. Phone: +86-18934352881 (Mr. Zhou). Email: qo82@icloud.com. [Request free quote →](/contact/)
-
-## Frequently Asked Questions
-
-**Q: Are Bincai's folding cartons with PVC windows food-safe?**
-A: Yes. Our paperboard uses food-grade coatings and soy-based, low-migration inks compliant with EU 1935/2004 and EN 71-3 standards. PVC window film is food-contact grade. For direct food contact (no inner wrapper), we recommend our anti-fog PET window option or compostable PLA bio-film windows. FDA 21 CFR compliance is available upon request.
-
-**Q: What window shapes and sizes are available?**
-A: Standard rectangular, oval, and custom contour die-cut windows with ±0.5mm placement precision. Window film options include clear PVC (0.2-0.4mm), anti-fog PET (for refrigerated products), and compostable PLA (for eco-conscious brands). Maximum window coverage is approximately 60% of the panel area to maintain structural integrity.
-
-**Q: Which carton structure is best for bakery products?**
-A: For cookies, macarons, and pastries, we recommend the auto-lock bottom with tuck-top closure — it assembles quickly, holds its shape on retail shelves, and the grease-resistant board prevents oil staining. For cakes and taller items, the gable-top structure with a carry handle is preferred. Our engineering team provides free structural recommendations based on your specific product.
-
-**Q: What is the MOQ for custom folding cartons with windows?**
-A: MOQ is 500 units for standard window shapes (rectangle/oval using existing tooling) and 3,000+ units for custom contour die-cut windows requiring new tooling. Lead time is 15-25 business days. Free pre-production samples are available in 3-5 days for quality evaluation.

@@ -2,7 +2,7 @@
 title: "Cost Optimization for B2B Packaging Procurement: A Practical Guide"
 date: 2026-06-11
 draft: false
-image: "/images/carousel-factory.webp"
+image: "/images/hero-factory.webp"
 description: "Practical strategies for reducing paper box packaging costs without sacrificing quality — MOQ trade-offs, material substitutions, freight-efficient flat-pack design, and regional manufacturing advantages. Based on Guangdong Bincai's 22 years of experience, 18,000 sqm factory (10,000+8,000 smart factory), KBA 1050 and Heidelberg 7+1 UV presses, ISO 9001 & FSC certified, 1.7M daily output."
 keywords: "B2B packaging cost optimization, paper box procurement, MOQ trade-off packaging, flat-pack shipping design, material substitution packaging, packaging cost reduction, custom box manufacturing China, Bincai packaging, freight-efficient packaging, bulk packaging procurement, corrugated mailer flat ship, rigid box cost optimization, folding carton MOQ"
 
@@ -112,4 +112,4 @@ At Guangdong Bincai, cost optimization is a collaborative process. Send us your 
 
 *Guangdong Bincai Color Printing Co., Ltd. — Manufacturing paper boxes since 2003. 18,000 sqm integrated factory. KBA 1050 + Heidelberg 7+1 UV. 1.7M boxes daily. ISO 9001 & FSC certified. No.6-7 Shunyuan North Rd, Wusha, Daliang, Shunde, Foshan, Guangdong, China.*
 
-<a href="https://bincaipaperbox.en.made-in-china.com/" target="_blank" rel="noopener" style="display:inline-block;background:#ff6b35;color:#fff;padding:8px 20px;border-radius:6px;text-decoration:none;font-weight:600;font-size:13px;">View Full Catalog on Made-in-China.com →</a>
+<a href="https://bincaipaperbox.en.made-in-china.com/" target="_blank" rel="noopener" class="btn-mic">View Full Catalog on Made-in-China.com →</a>

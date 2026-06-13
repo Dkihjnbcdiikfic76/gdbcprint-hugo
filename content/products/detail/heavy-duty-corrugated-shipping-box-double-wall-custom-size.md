@@ -65,19 +65,3 @@ Built for the most demanding shipping environments, this heavy-duty double wall 
 | Drop Test | ISTA 1A | 10-drop sequence, all orientations |
 | Box Compression Test | TAPPI T-804 | 500+ kg (BC double wall) |
 | Cobb Test (moisture) | ISO 535 | ≤30 g/m² |
-
-## Why Bincai
-
-| Differentiator | Detail |
-|---|---|
-| **22-Year Legacy** | Manufacturing since 2003 — trusted by 500+ brands globally |
-| **18,000 sqm** | 18,000 sqm (10,000+8,000 smart factory) (2025 expansion) |
-| **Dedicated Corrugated Line** | In-house flexo, die-cutting, and gluing for corrugated |
-| **ISTA + ASTM Testing** | Transit simulation and material testing on-site |
-| **ISO 9001 & FSC** | Certified quality management + sustainable sourcing |
-| **FBA-Ready Design** | Amazon-compliant sizing and barcode placement |
-| **Free Samples** | 3–5 day pre-production samples (freight collect) |
-
-## Contact
-
-MOQ 500 units. Pricing from $0.35/unit (varies by size, flute, and print complexity). ISTA 1A transit test reports available on request. Factory visits welcome in Foshan, Guangdong. Contact +86-18934352881 or qo82@icloud.com for a same-day quotation and structural design consultation.

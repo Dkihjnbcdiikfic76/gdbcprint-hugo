@@ -2,7 +2,7 @@
 title: "Quality Control at Bincai: How 1.7 Million Boxes a Day Stay Flawless"
 date: 2026-06-10
 draft: false
-image: "/images/carousel-factory.webp"
+image: "/images/hero-factory.webp"
 description: "How Guangdong Bincai's 6-stage quality control system ensures every paper box meets international standards — material testing, in-line color monitoring, structural stress tests, AQL sampling, and pre-shipment inspection for a 1.7M daily output."
 
 ---
@@ -83,4 +83,4 @@ When your product sits on a retail shelf, the box is the first thing customers t
 
 *Looking for a packaging partner that treats quality as a system, not an afterthought? Contact Guangdong Bincai Color Printing for your next custom paper box project.*
 
-<a href="https://bincaipaperbox.en.made-in-china.com/" target="_blank" rel="noopener" style="display:inline-block;background:#ff6b35;color:#fff;padding:8px 20px;border-radius:6px;text-decoration:none;font-weight:600;font-size:13px;">View Full Catalog on Made-in-China.com →</a>
+<a href="https://bincaipaperbox.en.made-in-china.com/" target="_blank" rel="noopener" class="btn-mic">View Full Catalog on Made-in-China.com →</a>

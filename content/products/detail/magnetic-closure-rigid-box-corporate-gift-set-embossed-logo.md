@@ -79,19 +79,4 @@ Custom magnetic closure rigid box for corporate gift sets — engineered by Guan
 
 **Guangdong Bincai Color Printing Co., Ltd.** — 22 years (founded 2003). 18,000 sqm facility (10,000 main + 8,000 smart factory). ISO 9001:2015 & FSC Chain-of-Custody certified. 150+ skilled staff. Your trusted partner for premium corporate packaging.
 
-[Request free quote & samples →](/contact/) — Response within 24 hours. Factory visits welcome in Foshan, Guangdong.
-
-## Why Bincai
-
-| Feature | Detail |
-|---------|--------|
-| Experience | 22 years since 2003 |
-| Factory | 18,000m² (10,000+8,000 smart factory) with KBA & Heidelberg presses |
-| Quality | ISO 9001:2015 certified |
-| Eco | FSC certified sustainable materials |
-| Capacity | 1.7M+ color boxes + 220K+ gift boxes daily |
-| Clients | 200+ brands across 50+ countries |
-| Custom | Any size, color, finish, insert |
-| MOQ | 500-1000 pcs, trial orders accepted |
-| Free Sample | Free pre-production sample (freight collect) |
-| Shipping | Worldwide DHL/FedEx/UPS/Sea |
+<a href="/contact/" class="btn-cta" style="display:inline-block;font-size:16px;padding:14px 32px;margin:16px 0;background:#e8613c;color:#fff;border-radius:8px;text-decoration:none;font-weight:600;">Request Free Quote →</a> — Response within 24 hours. Factory visits welcome in Foshan, Guangdong.

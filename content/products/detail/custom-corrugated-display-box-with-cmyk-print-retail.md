@@ -61,32 +61,3 @@ Professional custom corrugated display box with CMYK offset printing for retail 
 | Drop Test | ISTA 1A | 10-drop sequence, 0 failures |
 | Print Color | ISO 12647-2 | ΔE ≤ 2.0 |
 | Glue Bond | Internal | ≥ 2.5 N/cm², 48h cure verification |
-
-## Why Bincai
-
-| Feature | Detail |
-|---|---|
-| Experience | 22 years since 2003 |
-| Factory | 18,000m² (10,000+8,000 smart factory) with KBA & Heidelberg presses |
-| Quality | ISO 9001:2015 certified |
-| Eco | FSC certified sustainable materials |
-| Capacity | 1.7M+ color boxes + 220K+ gift boxes daily |
-| Clients | 200+ brands across 50+ countries |
-| Custom | Any size, flute, print, finish |
-| MOQ | 500-1000 pcs, trial orders accepted |
-| Free Sample | Free pre-production sample (freight collect) |
-| Shipping | Worldwide DHL/FedEx/UPS/Sea |
-
-## FAQ
-
-**Q: What flute type should I choose for a retail display box?**
-A: B-flute (3mm) is the standard for retail displays — good print surface and structural strength. E-flute (1.5mm) gives sharper CMYK print quality but less stacking strength. For heavy products (5kg+), use BC double-wall (6mm) which combines B-flute strength with C-flute cushioning.
-
-**Q: Can the display box be shipped flat and assembled at the retail location?**
-A: Yes. All Bincai corrugated display boxes can be designed for knock-down flat (KDF) shipping, reducing freight volume by 60–80%. We include assembly instructions and can pre-score fold lines for tool-free setup.
-
-**Q: Is CMYK offset printing durable enough for corrugated retail displays?**
-A: Yes. Our KBA 1050 4-color press with aqueous or lamination coating provides scuff-resistant prints that withstand handling, stocking, and customer interaction. For high-traffic environments, we recommend gloss lamination for maximum durability.
-
-**Q: What is the lead time for corrugated display boxes?**
-A: Standard lead time is 15–20 days from artwork approval. Complex multi-color + window designs take 20–25 days. Rush orders (10–12 days) available with expedited die-cutting.

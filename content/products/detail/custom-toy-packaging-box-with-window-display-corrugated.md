@@ -63,32 +63,3 @@ Custom toy packaging box with window display in corrugated board by Guangdong Bi
 | Print Color | ISO 12647-2 | ΔE ≤ 2.0 |
 | Ink Migration | EN 71-3 | Heavy metals < 1 ppm |
 | Assembly | AQL 2.5 (ISO 2859-1) | 100% visual for window clarity |
-
-## Why Bincai
-
-| Feature | Detail |
-|---|---|
-| Experience | 22 years since 2003 |
-| Factory | 18,000m² (10,000+8,000 smart factory) with KBA & Heidelberg presses |
-| Quality | ISO 9001:2015 certified |
-| Eco | FSC certified sustainable materials |
-| Capacity | 1.7M+ color boxes + 220K+ gift boxes daily |
-| Clients | 200+ brands across 50+ countries |
-| Custom | Any size, window shape, print, finish |
-| MOQ | 500-1000 pcs, trial orders accepted |
-| Free Sample | Free pre-production sample (freight collect) |
-| Shipping | Worldwide DHL/FedEx/UPS/Sea |
-
-## FAQ
-
-**Q: Are the inks and window films safe for children's toys?**
-A: Yes. All Bincai toy packaging uses soy-based, low-VOC inks that comply with EN 71-3 (heavy metal migration) and ASTM F963 standards. Window films (PVC, PET) are RoHS-compliant. We provide third-party test certificates with every shipment.
-
-**Q: What flute type works best for toy packaging with a window?**
-A: E-flute (1.5mm) offers the best combination — sharp CMYK print quality plus enough structural strength for toys up to 2kg. For heavier toys (2–5kg), B-flute (3mm) provides more protection. BC double-wall (6mm) is for 5kg+ toys or international shipping.
-
-**Q: Can you replace plastic blister packaging with corrugated window boxes?**
-A: Absolutely. Many toy brands are switching from PVC blisters to corrugated window boxes for sustainability. Our E-flute window boxes use 70–100% recycled content, are FSC certified, and are fully recyclable — while still providing product visibility through the window.
-
-**Q: What is the MOQ and lead time for toy packaging boxes?**
-A: Standard MOQ is 500 units. Custom window die-cut designs require 1000+ MOQ. Lead time is 15–20 days (standard), 20–25 days (with custom window die). Trial orders of 100–300 pcs available for first-time buyers.

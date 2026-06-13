@@ -54,36 +54,3 @@ Guangdong Bincai Color Printing produces premium custom kraft paper shopping bag
 | Corporate and promotional | Event swag bags, trade show giveaways, corporate gift bags |
 | E-commerce | Branded shipping bags, subscription box outer packaging |
 | Hospitality | Hotel amenity bags, laundry bags, welcome gift bags |
-
-## Why Bincai
-
-| Feature | Detail |
-|---------|--------|
-| Experience | 22 years since 2003 |
-| Factory | 18,000m² (10,000+8,000 smart factory) with KBA & Heidelberg presses |
-| Quality | ISO 9001:2015 certified |
-| Eco | FSC certified sustainable materials |
-| Capacity | 1.7M+ color boxes + 220K+ gift boxes daily |
-| Clients | 200+ brands across 50+ countries |
-| Custom | Any size, color, finish, insert |
-| MOQ | 500-1000 pcs, trial orders accepted |
-| Free Sample | Free pre-production sample (freight collect) |
-| Shipping | Worldwide DHL/FedEx/UPS/Sea |
-
-## FAQ
-
-**What is the minimum order quantity for custom kraft shopping bags?**
-
-Our standard MOQ is 500 pieces per design. For single-color printing on stock kraft paper, we can accommodate trial orders as low as 300 pieces. Multi-color or PMS-matched designs typically require 1,000 pieces minimum.
-
-**Can the twisted handles be color-matched to my brand?**
-
-Yes. Twisted paper handles can be produced in natural kraft, white, black, or any PMS spot color. We twist handles from colored kraft paper rather than painting them, ensuring the color holds through the entire handle thickness and resists wear during use.
-
-**Are these bags food-safe?**
-
-We offer food-grade inner PE or PLA coatings that create a moisture barrier, making the bags suitable for direct contact with dry food items such as baked goods, coffee beans, and confectionery. For hot or greasy foods, we recommend an aluminum foil inner lining.
-
-**What is the typical lead time from order to delivery?**
-
-Pre-production samples ship within 5-7 business days after artwork approval. Bulk production takes 15-20 business days, with express shipping (DHL/FedEx/UPS) adding 3-7 days or sea freight adding 15-30 days depending on destination.

@@ -78,28 +78,3 @@ This recycled kraft paper window gift box combines eco-conscious materials with 
 | **AQL Sampling** | ISO 2859-1 | Level II, AQL 2.5 (major), AQL 4.0 (minor) |
 | **FSC Traceability** | FSC-STD-40-004 | Full Chain-of-Custody from forest to finished box |
 | **Compostability (PLA)** | EN 13432 | Window film disintegration ≤ 12 weeks |
-
-## Why Bincai
-
-| Differentiator | Detail |
-|---|---|
-| **22-Year Legacy** | Manufacturing since 2003 — 500+ global brands served |
-| **18,000 sqm** | 18,000 sqm factory (10,000+8,000 smart factory, expanded 2025) |
-| **FSC Certified** | Full Chain-of-Custody — responsible forestry to finished box |
-| **Soy Ink Production** | Dedicated low-VOC ink system for eco-brand compatibility |
-| **German Presses** | KBA 1050 4-color + Heidelberg 7+1 UV for precision print |
-| **PLA Window Capability** | Compostable film option enables 100% biodegradable claims |
-| **1.7M Daily Output** | Scalable from 500-unit trials to container-volume orders |
-| **ISO 9001:2015** | Certified quality management — 15 testing instruments |
-| **Free Samples** | 3-5 day turnaround with full finishing and window |
-
-## Contact
-
-- **Phone**: +86-18934352881 (Mr. Zhou)
-- **Email**: qo82@icloud.com
-- **Address**: No.6-7 Shunyuan North Rd, Wusha, Daliang, Shunde, Foshan, Guangdong, China
-- **MOQ**: 500 units (standard); 1000+ for custom window shapes
-- **Samples**: Free pre-production samples with 3-5 day turnaround
-- **Lead Time**: 12-18 days (prototype), 20-30 days (production)
-- **Certifications**: ISO 9001:2015, FSC, REACH, RoHS, EN 13432 (PLA option)
-- **Factory Visit**: Welcome — 18,000 sqm facility in Foshan, Guangdong

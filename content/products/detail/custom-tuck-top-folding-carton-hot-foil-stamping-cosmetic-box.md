@@ -71,24 +71,3 @@ The Bincai Custom Tuck-Top Folding Carton delivers premium cosmetic packaging wi
 | Crease/Score | Internal | Clean fold at 90° without cracking |
 | Glue Bond | TAPPI T-813 | ≥2.5 N/cm peel strength |
 | Drop Test | ISTA 1A | 10-drop sequence, 760mm |
-
-## Why Bincai
-
-| Differentiator | Detail |
-|---|---|
-| **22-Year Legacy** | Manufacturing since 2003 — 500+ global cosmetic and beauty brands served |
-| **18,000 sqm Facility** | 18,000 sqm (10,000+8,000 smart factory) with integrated production |
-| **Heidelberg + KBA** | German-engineered offset presses for luxury brand color accuracy |
-| **Bobst Die-Cutting** | Swiss-precision flatbed die-cutters with ±0.5mm tolerance |
-| **ISO 9001 & FSC** | Quality management + sustainable sourcing certification |
-| **Free Samples** | 3-5 day pre-production samples (freight collect) |
-| **High-Tech Enterprise** | Guangdong provincial recognition for manufacturing innovation |
-
-## Contact
-
-- **MOQ**: 1000 units
-- **Sample**: 3-5 day pre-production samples
-- **Lead Time**: 10-20 days standard, 5-7 days expedited
-- **Phone**: +86-18934352881 (Mr. Zhou)
-- **Email**: qo82@icloud.com
-- **Factory**: Shunde, Foshan, Guangdong, China — factory visits welcome

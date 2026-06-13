@@ -108,21 +108,4 @@ A: **100% PCR** = paper made entirely from consumer-recycled waste (cereal boxes
 
 **Q: Can you do soy-based foil stamping for a fully compostable metallic finish?**
 A: Yes. We offer soy-based metallic foil alternatives to traditional petroleum-based foils. While slightly less brilliant than conventional hot stamping foil, soy-based foils maintain full compostability and deliver a subtle, organic metallic effect that aligns with natural brand aesthetics. Available in gold, silver, and copper tones.
-## Contact
-
-[Request free quote](/contact/) — response within 24 hours. Factory visits welcome at our Foshan, Guangdong facility. Send us your product dimensions and sustainability requirements — our eco-packaging specialists will configure the optimal material stack for your brand's sustainability goals and budget.
-
-## Why Bincai
-
-| Feature | Detail |
-|---------|--------|
-| Experience | 22 years since 2003 |
-| Factory | 18,000m² (10,000+8,000 smart factory) with KBA & Heidelberg presses |
-| Quality | ISO 9001:2015 certified |
-| Eco | FSC certified sustainable materials — dedicated eco-grade inventory |
-| Capacity | 1.7M+ color boxes + 220K+ gift boxes daily |
-| Clients | 200+ brands across 50+ countries |
-| Custom | Any size, color, finish, insert |
-| MOQ | 500-1000 pcs, trial orders accepted |
-| Free Sample | Free pre-production sample (freight collect) |
-| Shipping | Worldwide DHL/FedEx/UPS/Sea — carbon-neutral option available |
+<a href="/contact/" class="btn-cta" style="display:inline-block;font-size:16px;padding:14px 32px;margin:16px 0;background:#e8613c;color:#fff;border-radius:8px;text-decoration:none;font-weight:600;">Request Free Quote →</a> — response within 24 hours. Factory visits welcome at our Foshan, Guangdong facility. Send us your product dimensions and sustainability requirements — our eco-packaging specialists will configure the optimal material stack for your brand's sustainability goals and budget.

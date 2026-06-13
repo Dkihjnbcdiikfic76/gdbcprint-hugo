@@ -11,7 +11,7 @@
 
 {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
 {{ $dateHuman := .Date | time.Format ":date_long" }}
-<time datetime="{{ $dateMachine }}" style="display:block;font-size:13px;color:#888;margin-bottom:28px;">{{ $dateHuman }}</time>
+<time datetime="{{ $dateMachine }}" style="display:block;font-size:14px;color:#666;margin-bottom:28px;">{{ $dateHuman }}</time>
 
 <div style="font-size:16px;line-height:1.85;color:#1d1d1f;max-width:760px;margin:0 auto;overflow:hidden;">
 {{ .Content }}

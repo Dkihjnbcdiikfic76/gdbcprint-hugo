@@ -76,20 +76,3 @@ Biodegradable kraft paper box with custom logo printing — manufactured by Guan
 | Moisture Resistance | Internal | ≤8% moisture content (at dispatch) |
 | Biodegradability Verification | ASTM D5338 | ≥90% in 180 days (on request) |
 | Visual Inspection | AQL 2.5 Level II | ISO 2859-1 sampling tables |
-
-## Why Bincai
-
-| Differentiator | Detail |
-|---|---|
-| **22-Year Legacy** | Manufacturing since 2003 — 500+ global brands served |
-| **18,000 sqm Campus** | 18,000 sqm factory (10,000+8,000 smart factory (2025) |
-| **KBA + Heidelberg** | German-engineered offset presses with soy-ink compatibility |
-| **FSC Certified** | Chain-of-Custody since 2019 — full fiber traceability |
-| **1.7M Daily Output** | 1.7M boxes per day (post-2025 expansion) |
-| **ISO 9001** | Certified quality management for consistent eco production |
-| **Free Samples** | 3–5 day pre-production samples (freight collect) |
-
-## Contact
-
-Phone: +86-18934352881 (Mr. Zhou) | Email: qo82@icloud.com  
-MOQ 500 units. Trial orders accepted. Response within 24 hours. Factory visits welcome at No.6-7 Shunyuan North Rd, Wusha, Daliang, Shunde, Foshan, Guangdong.

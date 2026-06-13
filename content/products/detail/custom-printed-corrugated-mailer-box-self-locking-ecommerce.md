@@ -102,17 +102,3 @@ A: Yes. We manufacture to Amazon FBA packaging requirements including: 6-sided i
 
 **Q: What's the lead time for a new custom mailer design?**
 A: Standard timeline: digital proof (1–2 days) → physical sample with actual flute, print, and die-cut (5–7 days) → mass production (7–12 days). Rush service: 5 days total. New custom die fabrication adds approximately 3 working days to the initial order.
-## Why Bincai
-
-| Feature | Detail |
-|---------|--------|
-| Experience | 22 years since 2003 |
-| Factory | 18,000m² (10,000+8,000 smart factory) with KBA flexo line |
-| Quality | ISO 9001:2015 certified |
-| Eco | FSC certified sustainable materials |
-| Capacity | 500K corrugated + 1.7M+ color boxes + 220K+ gift boxes daily |
-| Clients | 200+ brands across 50+ countries |
-| Custom | Any size, flute, print, insert |
-| MOQ | 500-2000 pcs, trial orders accepted |
-| Free Sample | Free pre-production sample (freight collect) |
-| Shipping | Worldwide DHL/FedEx/UPS/Sea |

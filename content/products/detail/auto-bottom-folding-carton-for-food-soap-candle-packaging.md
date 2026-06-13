@@ -71,21 +71,4 @@ A: Yes. We offer food-grade configurations using water-based adhesives, soy-base
 
 **Q: How do auto-bottom cartons ship — do they arrive assembled or flat?**
 A: All auto-bottom folding cartons ship flat (knocked down) for maximum transport efficiency. A pallet holds 3,000–8,000 flat cartons depending on size, compared to only 300–600 if pre-assembled. This reduces your freight cost by 70–85% and warehouse footprint by a similar margin. Cartons are shipped in corrugated master cases with internal dividers to prevent crushing during transit.
-## Contact
-[Request free quote](/contact/) — response within 24 hours. Factory visits welcome.
 <!-- test comment -->
-
-## Why Bincai
-
-| Feature | Detail |
-|---------|--------|
-| Experience | 22 years since 2003 |
-| Factory | 18,000m² (10,000+8,000 smart factory) with KBA & Heidelberg presses |
-| Quality | ISO 9001:2015 certified |
-| Eco | FSC certified sustainable materials |
-| Capacity | 1.7M+ color boxes + 220K+ gift boxes daily |
-| Clients | 200+ brands across 50+ countries |
-| Custom | Any size, color, finish, insert |
-| MOQ | 500-1000 pcs, trial orders accepted |
-| Free Sample | Free pre-production sample (freight collect) |
-| Shipping | Worldwide DHL/FedEx/UPS/Sea |

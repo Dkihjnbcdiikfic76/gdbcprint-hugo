@@ -80,20 +80,3 @@ A: Single-wall corrugated construction is ECT-rated for shipping durability. We 
 
 **Q: What is the MOQ for custom corrugated shipping boxes?**
 A: MOQ is 500–1000 units per design. Trial orders and OEM/ODM accepted. Free pre-production samples within 5–7 working days. Lead time 10–15 working days for new orders.
-## Contact
-[Request free quote](/contact/) — response within 24 hours. Factory visits welcome.
-
-## Why Bincai
-
-| Feature | Detail |
-|---------|--------|
-| Experience | 22 years since 2003 |
-| Factory | 18,000m² (10,000+8,000 smart factory) with KBA & Heidelberg presses |
-| Quality | ISO 9001:2015 certified |
-| Eco | FSC certified sustainable materials |
-| Capacity | 1.7M+ color boxes + 220K+ gift boxes daily |
-| Clients | 200+ brands across 50+ countries |
-| Custom | Any size, color, finish, insert |
-| MOQ | 500-1000 pcs, trial orders accepted |
-| Free Sample | Free pre-production sample (freight collect) |
-| Shipping | Worldwide DHL/FedEx/UPS/Sea |

@@ -68,9 +68,6 @@ Our magnetic-closure velvet ring boxes serve diverse jewelry retail and gifting 
 - Export to 40+ countries with jewelry packaging as a core product category
 - Daily capacity: 1.7 million boxes total (50,000+ dedicated jewelry box capacity)
 
-## Contact
-[Request free quote](/contact/) — response within 24 hours. Factory visits welcome. Send us your ring dimensions for a custom-fit sample.
-
 ## FAQ
 
 **Q: What is the MOQ for custom luxury ring boxes with velvet flocking?**
@@ -84,18 +81,3 @@ A: Our standard is electrostatic velvet flocking with 0.8-1.5mm polyester fiber 
 
 **Q: Can the ring slot be custom-sized for my specific ring dimensions?**
 A: Yes. We create precision die-cut foam or flocked EVA inserts with ±0.2mm cavity tolerance to securely fit your ring. Send us your ring dimensions (band width, stone height, overall diameter) and we'll include a custom-fit slot in your free pre-production sample. Multi-slot configurations (dual-ring, ring+earring) are also available.
-
-## Why Bincai
-
-| Feature | Detail |
-|---------|--------|
-| Experience | 22 years since 2003 |
-| Factory | 18,000m² (10,000+8,000 smart factory) with KBA & Heidelberg presses |
-| Quality | ISO 9001:2015 certified |
-| Eco | FSC certified sustainable materials |
-| Capacity | 1.7M+ color boxes + 220K+ gift boxes daily |
-| Clients | 200+ brands across 50+ countries |
-| Custom | Any size, color, finish, insert |
-| MOQ | 500-1000 pcs, trial orders accepted |
-| Free Sample | Free pre-production sample (freight collect) |
-| Shipping | Worldwide DHL/FedEx/UPS/Sea |

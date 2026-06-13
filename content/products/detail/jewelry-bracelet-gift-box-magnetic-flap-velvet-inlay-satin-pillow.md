@@ -78,15 +78,3 @@ Custom bracelet gift box with magnetic flap closure — manufactured by Guangdon
 | Packed drop test | 1.2m drop test (packed in master carton) | No structural failure, contents undamaged |
 | FSC documentation | Batch-level CoC certificate | FSC-STD-40-004 compliant |
 | ISO 9001 traceability | Job ticket tracking at each station | Full process traceability |
-
-## Why Bincai for Jewelry Packaging
-- **22 years** of rigid box manufacturing expertise since 2003 — trusted by jewelry brands across 60+ countries
-- **Heidelberg 7+1 UV** press for specialty finishes: drip-off, soft-touch, and hybrid UV unique in the Pearl River Delta
-- **Bobst BMA** hot foil stamping — up to 6 foil colors per box for multi-metal luxury branding
-- **Dual factory** capacity: 18,000 sqm (10,000+8,000 smart factory) = 1.7M boxes/day
-- **FSC certified** — sustainable paper sourcing for eco-conscious luxury jewelry brands
-- Full in-house capability: pre-press → printing → lamination → die-cutting → foil stamping → rigid box wrapping → velvet lining → pillow insertion → inspection → packing
-- **Foshan, Guangdong** location — 1.5 hours from Guangzhou Baiyun Airport and Shenzhen Yantian Port for efficient logistics
-- Free 3D structural design, Pantone color matching, and pre-production sampling
-
-**Guangdong Bincai Color Printing Co., Ltd.** — 22 years. 18,000 sqm (10,000+8,000 smart factory). ISO 9001 & FSC certified. Jewelry packaging that elevates your brand.

@@ -65,38 +65,3 @@ Reverse tuck folding carton for cosmetic and skincare packaging — manufactured
 | Soft-Touch Durability | Internal | 200+ rub cycles without gloss-up |
 | Glue Bond Strength | Internal | ≥2.5 N/cm² at seams |
 | Visual Inspection | AQL 2.5 Level II | ISO 2859-1 sampling tables |
-
-## Why Bincai
-
-| Differentiator | Detail |
-|---|---|
-| **22-Year Legacy** | Manufacturing since 2003 — 500+ global beauty brands served |
-| **18,000 sqm Campus** | 18,000 sqm factory (10,000+8,000 smart factory (2025) |
-| **KBA + Heidelberg** | German-engineered offset presses for cosmetic-grade print |
-| **1.7M Daily Output** | 1.7M color boxes + 220K+ gift boxes per day |
-| **ISO 9001 & FSC** | Quality management + sustainable fiber sourcing |
-| **Free Samples** | 3–5 day pre-production samples (freight collect) |
-
-## FAQ
-
-**Q: What is a reverse tuck folding carton?**
-A: A reverse tuck end (RTE) carton has tuck flaps on opposite sides — the top tucks toward the back, the bottom tucks toward the front. This creates a clean, professional opening experience ideal for retail shelf display. Also available: straight tuck (STE), auto-lock bottom, and crash-lock structures.
-
-**Q: What board materials do you recommend for cosmetic packaging?**
-A: 300–400gsm SBS (solid bleached sulphate) for premium white-background printing, 350gsm CCNB (clay-coated newsback) for cost-effective solutions, and 18–24pt coated unbleached kraft for natural, eco-positioned brands. All available in FSC-certified grades.
-
-**Q: Can I add a window to the carton?**
-A: Yes. Die-cut windows with PET, PVC, or PLA film lamination allow product visibility while maintaining structural integrity. PLA windows are available for fully compostable cartons suitable for eco-conscious beauty brands.
-
-**Q: What finishes create a luxury feel?**
-A: Soft-touch matte lamination (velvet tactile), gold/silver hot foil stamping (Bobst BMA with ±0.15mm registration), spot UV for high-gloss contrast on matte backgrounds, and embossing/debossing for dimensional branding. The Heidelberg 7+1 UV press also produces drip-off and metallic effects.
-
-**Q: Are the inks safe for cosmetic and food contact?**
-A: Yes. We use low-migration UV and conventional offset inks meeting EUPIA guidelines and Swiss Ordinance for printing inks. FDA-compliant, food-safe formulations available upon specification.
-
-**Q: What lead time should I expect?**
-A: 10–15 working days for new designs (die production + printing), 5–7 working days for repeat orders. Free pre-production samples within 3–5 working days. Express service available for urgent launches.
-## Contact
-
-Phone: +86-18934352881 (Mr. Zhou) | Email: qo82@icloud.com  
-MOQ 500 units. Trial orders accepted. Response within 24 hours. Factory visits welcome at No.6-7 Shunyuan North Rd, Wusha, Daliang, Shunde, Foshan, Guangdong.

@@ -79,25 +79,3 @@ The Bincai Magnetic Closure Book-Style Box combines the elegance of a hardcover 
 | Velvet Adhesion | Internal | No shedding after 50 rub cycles |
 | Spine Durability | Internal | 5,000+ open/close cycles (180°) without hinge failure |
 | Drop Test | ISTA 1A | 10-drop sequence, 760mm |
-
-## Why Bincai
-
-| Differentiator | Detail |
-|---|---|
-| **22-Year Legacy** | Manufacturing since 2003 — 500+ global brands including luxury and corporate clients |
-| **18,000 sqm Facility** | 18,000 sqm (10,000+8,000 smart factory) with dedicated gift box line |
-| **Heidelberg + KBA** | German-engineered offset presses for luxury brand color accuracy |
-| **In-House Flocking** | Electrostatic velvet flocking and CNC die-cutting for precision insert trays |
-| **Bobst Hot Stamping** | Swiss-precision flatbed hot stamping on cover + spine with ±0.15mm registration |
-| **ISO 9001 & FSC** | Quality management + sustainable sourcing certification |
-| **Free Samples** | 3-5 day pre-production samples (freight collect) |
-| **15 QC Checkpoints** | From board inspection to final ribbon bow |
-
-## Contact
-
-- **MOQ**: 500 units
-- **Sample**: 3-5 day pre-production samples
-- **Lead Time**: 15-25 days standard, 7-10 days expedited
-- **Phone**: +86-18934352881 (Mr. Zhou)
-- **Email**: qo82@icloud.com
-- **Factory**: Shunde, Foshan, Guangdong, China — factory visits welcome

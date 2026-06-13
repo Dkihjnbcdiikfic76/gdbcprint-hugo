@@ -74,27 +74,3 @@ The Bincai Kraft Paper Watch Box combines sustainability with premium presentati
 | **Color Consistency** | ISO 12647-2 | Delta E ≤ 2.5 (natural kraft variance accommodated) |
 | **Dimensional Tolerance** | Internal QJ-006 | Length/width ±0.5mm; height ±0.3mm |
 | **Surface Inspection** | AQL 2.5 (ISO 2859-1) | 100% visual for print consistency, strap stitch quality, glue cleanliness |
-
-## Why Bincai
-
-| Differentiator | Detail |
-|---|---|
-| **22-Year Legacy** | Manufacturing since 2003; eco-packaging division launched 2018 |
-| **FSC Chain-of-Custody** | Full certification — every kraft board batch traceable to sustainably managed forests |
-| **Soy-Based Ink In-House** | No outsourcing; soy ink printing on KBA 1050 offset press; compostable certification |
-| **Biodegradable Adhesive** | Vegetable starch adhesive developed in-house; water-soluble, compostable per EN 13432 |
-| **18,000 sqm Facility** | Integrated production in Foshan; 100% renewable energy option for eco-runs |
-| **220K+ Daily Capacity** | Dedicated eco-packaging line; 50,000 kraft eco boxes daily |
-| **No Greenwashing** | Third-party biodegradability testing; transparent material declarations on request |
-| **Free Samples** | 3–5 day pre-production samples with actual soy ink and cotton strap |
-
-## Contact
-
-- **MOQ**: 500 units (standard), 200 (trial)
-- **Sample**: 3–5 day pre-production samples with soy ink print and cotton strap
-- **Lead Time**: 15–25 days (standard), 7–10 days (expedited)
-- **Tooling**: Deboss/foil die $80–150 one-time; print plate $60–120
-- **Phone**: +86-18934352881 (Mr. Zhou)
-- **Email**: qo82@icloud.com
-- **Address**: No.6-7 Shunyuan North Rd, Wusha, Daliang, Shunde, Foshan, Guangdong
-- **Factory Visit**: Eco-line tour available — schedule via email or phone

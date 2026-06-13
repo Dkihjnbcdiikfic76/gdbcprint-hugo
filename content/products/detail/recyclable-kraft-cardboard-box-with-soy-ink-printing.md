@@ -84,9 +84,3 @@ A: Our boxes are FSC Mix Credit certified with full chain-of-custody documentati
 
 **Q: What is the MOQ for custom kraft boxes, and do you offer samples?**
 A: Standard MOQ is 500-1000 units per design. We welcome trial orders of 100-300 units for market testing at adjusted pricing. Free pre-production samples with your custom dimensions, full printing, and finishing are provided in 5-7 working days (freight collect). This lets you verify the kraft aesthetic, print quality, and structural integrity before committing to volume.
-
-## Why Bincai
-
-With 22 years of manufacturing excellence (founded 2003), we operate a 18,000 sqm fully integrated facility (10,000+8,000 smart factory) in Foshan, China — the heart of the Pearl River Delta packaging ecosystem. Our KBA 1050 4-color and Heidelberg 7+1 UV presses achieve daily output exceeding 1.7 million boxes, supported by 150+ skilled craftspeople. We serve brands in 40+ countries with a 98%+ on-time delivery rate.
-
-[Request free quote & samples →](/contact/) — Response within 24 hours. Factory visits welcome.

@@ -65,9 +65,6 @@ Two-piece rigid boxes with foam inserts provide the ultimate protection and pres
 - Export to 40+ countries across six continents — North America, Europe, Middle East, Asia-Pacific, Africa, South America
 - Daily capacity: 1.7 million boxes total (220,000+ rigid/gift boxes)
 
-## Contact
-[Request free quote](/contact/) — response within 24 hours. Factory visits welcome anytime.
-
 ## FAQ
 
 **Q: What is the MOQ for custom two-piece rigid boxes with foam inserts?**  
@@ -81,17 +78,3 @@ A: Yes. All rigid boxes undergo ISTA 1A transit testing (76cm free-fall, 6 faces
 
 **Q: What customization options are available for cosmetics branding?**  
 A: Full customization across every element: outer wrapping (128–200gsm art paper in 8 finishes including soft-touch, linen, pearlescent, and metallic), printing (CMYK + 7 PMS spot colors with Heidelberg 7+1 UV), foil stamping (gold, silver, rose gold, copper, holographic), embossing/debossing, spot UV (gloss-on-matte for brand logo emphasis), edge gilding, magnetic closure, satin ribbon pull-tab, foil-stamped interior logo, and printed insert cards. Lead time is 10–15 working days for new orders, 5–7 days for repeats.
-## Why Bincai
-
-| Feature | Detail |
-|---------|--------|
-| Experience | 22 years since 2003 |
-| Factory | 18,000m² (10,000+8,000 smart factory) with KBA & Heidelberg presses |
-| Quality | ISO 9001:2015 certified |
-| Eco | FSC certified sustainable materials |
-| Capacity | 1.7M+ color boxes + 220K+ gift boxes daily |
-| Clients | 200+ brands across 50+ countries |
-| Custom | Any size, color, finish, insert |
-| MOQ | 500-1000 pcs, trial orders accepted |
-| Free Sample | Free pre-production sample (freight collect) |
-| Shipping | Worldwide DHL/FedEx/UPS/Sea |

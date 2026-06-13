@@ -76,18 +76,3 @@ This premium 3-piece leather-look magnetic velvet jewelry box set from Guangdong
 | Lid Alignment | Gap ≤ 1.0mm, flush closure verification |
 | Drop Test | ISTA 1A — 10-drop sequence, 76cm height |
 | AQL Sampling | ISO 2859-1 Level II, AQL 2.5 |
-
-## Why Bincai
-
-| Differentiator | Detail |
-|---|---|
-| **22-Year Legacy** | Manufacturing since 2003 — 500+ global jewelry brands served |
-| **18,000 sqm Facility** | 18,000 sqm (10,000+8,000 smart factory) (2025 expansion) |
-| **KBA + Heidelberg** | German-engineered offset/UV presses for jewelry-grade precision |
-| **ISO 9001 & FSC** | Quality management + sustainable fiber sourcing |
-| **In-House Foil** | Hot foil stamping, embossing, and velvet flocking under one roof |
-| **Free Samples** | 3–5 day pre-production samples with digital color proofs |
-
-## Contact
-
-[Request free quote](/contact/) — response within 24 hours. Free 3-piece sample set shipped within 5 days. MOQ 500. Lead time 12–15 days. Phone: +86-18934352881. Email: qo82@icloud.com. Factory visits welcome in Shunde, Foshan, Guangdong.

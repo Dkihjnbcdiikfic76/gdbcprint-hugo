@@ -74,25 +74,3 @@ The Bincai Luxury Necklace Gift Box combines a magnetic flap closure with sumptu
 | Color Accuracy | ISO 12647-2 | ΔE ≤ 2.0 (Pantone) |
 | Lid Alignment | Internal | ≤0.8mm gap tolerance |
 | Drop Test | ISTA 1A | 10-drop sequence, 760mm |
-
-## Why Bincai
-
-| Differentiator | Detail |
-|---|---|
-| **22-Year Legacy** | Manufacturing since 2003 — 500+ global jewelry and luxury brands served |
-| **18,000 sqm Facility** | 18,000 sqm (10,000+8,000 smart factory) with dedicated jewelry box line |
-| **Heidelberg + KBA** | German-engineered offset presses for luxury brand color accuracy |
-| **In-House Flocking** | Electrostatic velvet flocking line — color-matched to any brand PMS |
-| **Bobst Hot Stamping** | Swiss-precision flatbed hot stamping with ±0.15mm foil registration |
-| **ISO 9001 & FSC** | Quality management + sustainable sourcing certification |
-| **Free Samples** | 3-5 day pre-production samples (freight collect) |
-| **15 QC Checkpoints** | From board inspection to final packaging |
-
-## Contact
-
-- **MOQ**: 500 units
-- **Sample**: 3-5 day pre-production samples
-- **Lead Time**: 15-25 days standard, 7-10 days expedited
-- **Phone**: +86-18934352881 (Mr. Zhou)
-- **Email**: qo82@icloud.com
-- **Factory**: Shunde, Foshan, Guangdong, China — factory visits welcome

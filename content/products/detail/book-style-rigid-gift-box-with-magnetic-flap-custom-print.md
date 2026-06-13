@@ -72,20 +72,3 @@ A: Standard MOQ is 500 units. We also accept trial orders of 100–300 units for
 
 **Q: How long from artwork approval to delivery?**
 A: 10–15 working days for new tooling, 7–10 days for repeat orders. Pre-production samples ship in 5–7 working days with full finishing. Sea freight to EU/US ports: 25–35 days; air freight: 5–7 days.
-## Contact
-[Request free quote](/contact/) — response within 24 hours. Factory visits welcome.
-
-## Why Bincai
-
-| Feature | Detail |
-|---------|--------|
-| Experience | 22 years since 2003 |
-| Factory | 18,000m² (10,000+8,000 smart factory) with KBA & Heidelberg presses |
-| Quality | ISO 9001:2015 certified |
-| Eco | FSC certified sustainable materials |
-| Capacity | 1.7M+ color boxes + 220K+ gift boxes daily |
-| Clients | 200+ brands across 50+ countries |
-| Custom | Any size, color, finish, insert |
-| MOQ | 500-1000 pcs, trial orders accepted |
-| Free Sample | Free pre-production sample (freight collect) |
-| Shipping | Worldwide DHL/FedEx/UPS/Sea |

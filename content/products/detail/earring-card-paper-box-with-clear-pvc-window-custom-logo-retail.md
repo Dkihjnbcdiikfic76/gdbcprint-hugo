@@ -75,20 +75,3 @@ A: Yes. While our standard MOQ is 500 units, we welcome trial orders of 100–30
 
 **Q: How do hanging earring card boxes hold up during shipping and retail handling?**
 A: Our card boxes are engineered for durability. 300–400 gsm paperboard with matte or gloss lamination resists bending and moisture. The euro-slot hang tab is reinforced and tested to support 500g+ without tearing. For e-commerce shipments, we recommend adding a corrugated mailer or padded envelope — the flat profile of card boxes stacks efficiently and resists crushing better than rigid boxes.
-## Contact
-[Request free quote →](/contact/) — response within 24 hours. Factory visits welcome in Foshan, Guangdong.
-
-## Why Bincai
-
-| Feature | Detail |
-|---------|--------|
-| Experience | 22 years since 2003 |
-| Factory | 18,000m² (10,000+8,000 smart factory) with KBA & Heidelberg presses |
-| Quality | ISO 9001:2015 certified |
-| Eco | FSC certified sustainable materials |
-| Capacity | 1.7M+ color boxes + 220K+ gift boxes daily |
-| Clients | 200+ brands across 50+ countries |
-| Custom | Any size, color, finish, insert |
-| MOQ | 500-1000 pcs, trial orders accepted |
-| Free Sample | Free pre-production sample (freight collect) |
-| Shipping | Worldwide DHL/FedEx/UPS/Sea |

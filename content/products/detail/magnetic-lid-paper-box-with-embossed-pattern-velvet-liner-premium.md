@@ -92,39 +92,3 @@ The Magnetic Lid Paper Box with Embossed Pattern and Velvet Liner by Guangdong B
 | Environmental Cycle Test | 24-hour cycling: −20°C → +60°C at 50–90% relative humidity | No warping, delamination, embossing distortion, velvet shedding, or magnet strength degradation > 5% |
 | FSC Chain of Custody | Annual SGS surveillance audit with full material traceability from certified forest to finished gift box | FSC Mix Credit certification maintained; batch-level traceability certificate available on request |
 | ISO 9001 Traceability | Batch ID tracking from raw material receipt through production stages to final shipment | Complete batch genealogy accessible within 4 hours for any shipped order |
-
-## Why Bincai
-
-- **22 years of luxury packaging expertise** — Since 2003, Guangdong Bincai Color Printing Co., Ltd. has manufactured over 500 million custom rigid boxes, serving 200+ brands across 50+ countries in jewelry, cosmetics, spirits, confectionery, and premium gifting industries.
-- **18,000 sqm total production campus** — 10,000 sqm main facility plus 8,000 sqm smart factory commissioned in 2025, featuring robotic velvet-lining workstations, automated magnetic insertion lines, and inline camera quality control for zero-defect luxury packaging.
-- **1.7 million daily output capacity** — Dual-facility production delivering 1.7 million color boxes and 220,000+ gift boxes per day, ensuring reliable on-time delivery even during peak gifting seasons and large-scale brand launches.
-- **Deep embossing mastery** — Custom-etched magnesium and brass embossing dies combined with hydraulic platen presses achieve up to 1.0mm relief depth with multi-level sculpted patterns that create a three-dimensional tactile experience unmatched by flat-printed alternatives.
-- **Precision magnetic closure engineering** — Neodymium N35/N42/N52 disc magnets are automatically inserted and recessed into the greyboard chassis with 100% inline pull-force verification (3–8N ±0.5N), ensuring every velvet-lined box closes with a consistent, satisfying magnetic snap.
-- **40+ velvet color library** — In-stock inventory of standard polyester and rayon velvet in over 40 colors plus custom Pantone-dyed velvet options for brands requiring an exact match to their identity palette, with velvet pile heights from 0.8mm to 1.5mm.
-- **Full in-house production** — Structural design, embossing die fabrication, offset/UV printing, foil stamping, die-cutting, velvet cutting and bonding, magnet insertion, and final assembly all under one roof — eliminating subcontractor delays and ensuring end-to-end quality control.
-- **ISO 9001:2015 & FSC certified** — Internationally audited quality management system and FSC Chain-of-Custody certification for brands that require verified sustainable packaging with complete material traceability from certified forest to finished luxury box.
-- **80+ skilled artisans** — Dedicated team of craftspeople specializing in luxury rigid-box production, with experienced embossing technicians, velvet-lining specialists, and quality inspectors at every stage from raw material incoming QC to final outgoing inspection.
-- **Global logistics & sampling** — Free pre-production structural mockups in 5–7 days and finished material samples in 7–10 days, with express shipping via DHL/FedEx/UPS and ocean freight consolidation from Shenzhen ports just 1.5 hours from our Foshan factory.
-
-## FAQ
-
-**Q: What magnet grade should I choose for a velvet-lined luxury gift box with an embossed lid?**
-A: For most velvet-lined magnetic lid boxes in the 150–250mm size range, we recommend neodymium N42 magnets which provide the ideal balance of secure closure (4–6N opening force) and smooth, effortless lid lift. If your box features a deep multi-level embossed lid that adds significant weight, we upgrade to N52 magnets for a 6–8N closure force that keeps the heavier lid firmly seated. For compact jewelry boxes under 150mm, N35 magnets at 3–4N deliver a delicate, refined opening feel appropriate for fine jewelry. Our engineering team evaluates your box dimensions, lid weight (including embossing relief), and desired unboxing experience during the design phase and specifies the optimal magnet configuration with full force-verification in production.
-
-**Q: How durable is the velvet lining — will it shed fibers onto my products over time?**
-A: Bincai's velvet liners are manufactured from high-density polyester or rayon velvet with a tight 0.8–1.5mm pile that is thermally bonded to a stable backing fabric before lamination to the greyboard, virtually eliminating loose fiber shedding. Our quality assurance process includes a modified Martindale abrasion test (500 cycles at 12kPa) that allows no more than 3% fiber loss by weight — far exceeding industry norms for luxury packaging. Additionally, environmental cycle testing from −20°C to +60°C confirms zero shedding increase after extreme temperature and humidity exposure. For brands requiring the absolute lowest lint potential, our microfiber suede liner option delivers a similarly plush appearance with near-zero particle generation — ideal for high-gloss jewelry, optical products, and precision instruments.
-
-**Q: Can I have a multi-level embossed pattern that combines both raised and recessed elements with foil stamping?**
-A: Yes, multi-level sculpted embossing with registered foil stamping is one of Bincai's signature capabilities for luxury magnetic lid boxes. Our hydraulic embossing press uses custom-etched brass dies to achieve up to 1.0mm of total relief depth with transitions between raised emboss and deep deboss in a single pressing operation. For registered emboss-and-foil combinations, we first emboss the pattern into the wrapping paper, then apply hot foil stamping on a Heidelberg cylinder press with ±0.2mm registration accuracy so the metallic foil aligns precisely with the embossed contours. This technique is especially striking for brand logos, crest designs, and ornamental border patterns where the interplay of light on raised foil against recessed matte paper creates a premium dimensional effect. We provide a physical embossing strike-off sample during pre-production so you can feel and approve the exact depth and detail before full production begins.
-
-**Q: What is the MOQ for custom velvet-lined magnetic lid boxes, and what sampling options are available before committing to a large order?**
-A: Our standard minimum order quantity is 500–1000 units per design for custom velvet-lined magnetic lid boxes with embossed patterns, which is highly competitive for fully bespoke luxury rigid packaging. For startups, boutique brands, and market testing, we accept trial orders as low as 200 units with a modest per-unit premium. Before production, you receive a free digital 3D structural design proof within 48 hours, followed by a white-glue mockup (structural sample without final materials) in 5–7 working days, and a pre-production sample with your actual wrapping paper, velvet color, embossing pattern, and magnetic closure in 7–10 working days (freight collect). This incremental sampling process allows you to physically evaluate the embossing depth, velvet texture, magnet feel, and overall build quality before authorizing the full production run. Custom Pantone-dyed velvet liners require a minimum of 3,000 units due to dye-lot minimums at our textile partner.
-## Contact
-
-- **Phone:** +86-18934352881
-- **Email:** qo82@icloud.com
-- **Address:** No.6-7 Shunyuan North Road, Wusha, Daliang, Shunde District, Foshan, Guangdong, 528300, China
-- **MOQ:** 500–1000 units (trial orders from 200 units accepted)
-- **Samples:** Free pre-production sample within 7–10 working days (freight collect)
-- **Lead Time:** 15–20 working days after sample approval
-- **Shipping:** Worldwide DHL, FedEx, UPS (express) and ocean freight via Yantian/Shekou ports

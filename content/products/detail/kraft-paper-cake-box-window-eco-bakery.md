@@ -55,31 +55,3 @@ Bincai's kraft paper cake box combines eco-credentials with bakery-grade functio
 | Printing | Soy ink food-safety certification, color consistency ΔE ≤3 |
 | Assembly | 100% sample auto-lock test — must lock in 3 seconds |
 | Food Safety | No harmful chemical migration, ISO 22000 guidelines |
-
-## Why Bincai
-
-| Spec | Bincai Advantage |
-|------|-----------------|
-| Factory | 18,000 sqm, Foshan Guangdong |
-| Experience | 22 years in sustainable packaging |
-| Daily Output | 220K+ folding cartons daily |
-| Press Line | KBA 1050 + Heidelberg 7+1 UV |
-| Eco Standards | FSC certified, soy ink, compostable options |
-| Certifications | ISO 9001, FSC |
-
-## Frequently Asked Questions
-
-**Q: Is the PET window recyclable, and what are the eco-friendly alternatives?**
-A: Standard PET windows are technically recyclable but must be separated from the kraft board before processing. For brands seeking end-to-end compostability, Bincai offers PLA (polylactic acid) window film certified to ASTM D6400 for industrial composting — the entire box, window included, breaks down in commercial composting facilities within 90-180 days. For home compost certification (TÜV Austria OK Compost HOME), we offer cellulose-based NatureFlex™ film. Both alternatives maintain ≥90% optical clarity for product visibility. We recommend PLA for most bakery applications — it balances clarity, cost, and environmental credentials.
-
-**Q: Can the auto-lock bottom support heavy cakes (2kg+)?**
-A: Yes — our standard 350gsm kraft board with crash-lock bottom supports up to 1.5kg. For heavier cakes (up to 3.5kg), we upgrade to 450gsm kraft board with reinforced double-wall base construction. The auto-lock mechanism is compression-tested at 3x rated weight before production approval. For tiered wedding cakes or dense cheesecakes exceeding 3.5kg, we recommend our corrugated B-flute base insert (adds 0.08-0.12/unit) or switching to a rigid-board construction with separate base tray. All weight ratings include a 1.5x safety factor.
-
-**Q: Are soy-based inks truly food-safe, and what certifications do they carry?**
-A: Bincai's soy-based inks are manufactured from refined soybean oil (non-GMO) with≤5% VOC content versus 25-40% in conventional petroleum inks. They are certified for indirect food contact under FDA 21 CFR 175.300 and EU Framework Regulation (EC) No 1935/2004. Our ink supplier (T&K Toka, Japan) provides full migration testing documentation. The inks are heavy-metal-free (lead, mercury, cadmium, hexavalent chromium all at non-detectable levels). For direct food contact applications (unwrapped bakery items), we recommend adding a food-grade aqueous coating barrier layer — ask our team about this option.
-
-**Q: What customization options are available for bakery branding and seasonal promotions?**
-A: Full CMYK offset printing on the kraft exterior with soy-based inks — your logo, brand colors, ingredient lists, and QR codes all printable. For seasonal promotions (Christmas, Valentine's Day, Mother's Day), we offer short-run digital printing at 500+ units with 5-day turnaround versus standard 15-day offset lead times. Finishing options include spot UV on logo areas for premium contrast against the matte kraft surface, embossing/debossing for tactile brand marks, and gold or silver foil stamping for luxury patisserie lines. Window shapes can be die-cut to your brand silhouette (heart, star, logo shape). MOQ as low as 500 for seasonal-limited runs.
-## Contact
-
-MOQ 1,000-3,000 units. Sample within 5 days. Lead time 15-25 days. Phone: +86-18934352881. Email: qo82@icloud.com.

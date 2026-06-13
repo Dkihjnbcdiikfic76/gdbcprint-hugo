@@ -2,7 +2,7 @@
 title: "Inside Bincai's Quality Lab: How We Test 1.7 Million Boxes Daily"
 date: 2026-06-11
 draft: false
-image: "/images/carousel-factory.webp"
+image: "/images/hero-factory.webp"
 description: "A deep dive into Guangdong Bincai's in-house quality testing laboratory — ISO 9001 protocols, FSC chain-of-custody, AQL sampling, 15 testing instruments, and the QC culture behind 22 years of zero-critical-defect shipping."
 
 ---
@@ -104,4 +104,4 @@ This combination of ISO-certified systems, laboratory instrumentation, statistic
 
 **Want to see our quality firsthand?** [Request a sample kit](/contact/) with production samples, color swatches, and a copy of our ISO 9001 and FSC certificates.
 
-<a href="https://bincaipaperbox.en.made-in-china.com/" target="_blank" rel="noopener" style="display:inline-block;background:#ff6b35;color:#fff;padding:8px 20px;border-radius:6px;text-decoration:none;font-weight:600;font-size:13px;">View Full Catalog on Made-in-China.com →</a>
+<a href="https://bincaipaperbox.en.made-in-china.com/" target="_blank" rel="noopener" class="btn-mic">View Full Catalog on Made-in-China.com →</a>

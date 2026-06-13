@@ -64,32 +64,3 @@ Our candle boxes undergo 6-stage QC at Bincai's 18,000 sqm facility:
 4. **Magnet Testing**: Pull-force gauge verification, 5,000-cycle open/close durability
 5. **Assembly**: AQL 2.5 sampling per ISO 2859-1, gap tolerance ±1mm
 6. **Pre-Shipment**: ISTA 1A drop test, humidity chamber 48h, 100% visual
-
-## Why Bincai
-
-| Feature | Detail |
-|---|---|
-| Experience | 22 years since 2003 |
-| Factory | 18,000m² (10,000+8,000 smart factory) with KBA & Heidelberg presses |
-| Quality | ISO 9001:2015 certified |
-| Eco | FSC certified sustainable materials |
-| Capacity | 1.7M+ color boxes + 220K+ gift boxes daily |
-| Clients | 200+ brands across 50+ countries |
-| Custom | Any size, color, finish, insert |
-| MOQ | 500-1000 pcs, trial orders accepted |
-| Free Sample | Free pre-production sample (freight collect) |
-| Shipping | Worldwide DHL/FedEx/UPS/Sea |
-
-## FAQ
-
-**Q: What magnet strength is best for a candle box with window display?**
-A: N35 neodymium magnets are standard for most candle boxes up to 120×120mm. For larger formats (150mm+) or heavy soy candles, we recommend N42 magnets. Bincai recesses magnets into the greyboard for a flush surface — no visible magnet bumps.
-
-**Q: Can the window be custom-shaped to match my candle brand logo?**
-A: Yes. We offer custom die-cut windows in any shape — rectangle, circle, oval, or your brand's silhouette. Minimum precision is ±0.15mm on our Bobst flatbed die-cutters. There is a one-time die fee ($80–150 depending on complexity).
-
-**Q: Are the window films food-safe for scented candle packaging?**
-A: All window films (PVC, PET, biodegradable) are RoHS-compliant and suitable for indirect food contact. For candles that may touch the window, we offer food-grade PET with migration testing certificates.
-
-**Q: What is the MOQ for magnetic closure candle boxes?**
-A: Standard MOQ is 500 units. For complex designs with custom window die-cuts, foil stamping, and embossing, MOQ is 1000 units. We also accept trial orders of 100–300 pcs for first-time buyers.

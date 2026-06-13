@@ -2,7 +2,7 @@
 title: "Bincai's 2025 Smart Factory: 8,000 sqm Expansion Doubles Paper Box Capacity"
 date: 2026-06-10
 draft: false
-image: "/images/carousel-factory.webp"
+image: "/images/hero-factory.webp"
 description: "Guangdong Bincai adds 8,000 sqm smart factory in 2025, bringing total production to 18,000 sqm. Daily output now exceeds 1.7 million boxes with automated Heidelberg and KBA press lines."
 
 ---
@@ -49,4 +49,4 @@ Whether you need 500 units for a boutique launch or 500,000 for a global product
 
 **Contact us at qo82@icloud.com or call +86-18934352881 (Mr. Zhou) for a quote.**
 
-<a href="https://bincaipaperbox.en.made-in-china.com/" target="_blank" rel="noopener" style="display:inline-block;background:#ff6b35;color:#fff;padding:8px 20px;border-radius:6px;text-decoration:none;font-weight:600;font-size:13px;">View Full Catalog on Made-in-China.com →</a>
+<a href="https://bincaipaperbox.en.made-in-china.com/" target="_blank" rel="noopener" class="btn-mic">View Full Catalog on Made-in-China.com →</a>

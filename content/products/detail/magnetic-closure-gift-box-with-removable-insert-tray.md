@@ -44,30 +44,3 @@ Designed for: luxury skincare gift sets, fragrance discovery sets, premium tea c
 ## Production Quality
 
 Every box undergoes 16 quality checkpoints: lid-to-base alignment (±0.5mm), magnet recess depth verification, tray fit tolerance (±1mm), cavity dimensional accuracy, flocking adhesion test, foil rub resistance, colorimetry to Pantone, and full assembly function test (5 open/close cycles minimum).
-
-## Why Bincai
-
-- **22 years** premium packaging manufacturing since 2003
-- **Heidelberg 7+1 UV press** for stunning print quality
-- **Dedicated rigid box line** with 200K+ daily capacity
-- **18,000 sqm integrated facility** (10,000+8,000 smart factory)
-- **High-Tech Enterprise** certified by Guangdong Province
-- **ISO 9001 & FSC certified** — quality and environmental stewardship
-- **Free pre-production samples** in 3-5 working days
-- **Global shipping** with Amazon FBA expertise
-
-Contact +86-18934352881 or qo82@icloud.com for design consultation and samples.
-
-## Frequently Asked Questions
-
-**Q: What is the advantage of a removable insert tray in a gift box?**
-A: The removable tray allows customers to lift out the entire product array in one elegant motion, often revealing a second layer beneath. This creates a memorable unboxing experience that drives social media sharing and makes the packaging reusable — extending brand presence in the customer's home. Ideal for multi-product gift sets, sampler collections, and curated brand experiences.
-
-**Q: What tray lining options are available?**
-A: Bincai offers velvet flocking (most popular for jewelry), satin fabric (luxury cosmetics), suede-effect paper (premium watches), and custom-printed paper wrap (branded interiors). All lining materials are available in black, white, cream, navy, and custom Pantone-matched colors. The tray is precision die-cut to your product dimensions with ±1mm tolerance.
-
-**Q: How many product cavities can the removable tray hold?**
-A: 1 to 12 cavities per tray, with customizable shapes — square, rectangular, circular, or custom contour. We also offer double-stacked trays and tray-plus-base-compartment configurations for larger gift sets. Cavity depth ranges from 10mm to 80mm depending on product type.
-
-**Q: What is the minimum order quantity and lead time?**
-A: MOQ is 500-1,000 units per design. Lead time is 15-20 business days from artwork approval. Free pre-production samples with 3D digital proofs are provided within 3-5 working days. Rush service available for time-sensitive corporate gifting campaigns.

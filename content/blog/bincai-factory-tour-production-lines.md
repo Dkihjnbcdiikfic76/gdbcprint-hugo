@@ -2,7 +2,7 @@
 title: "18,000 sqm Factory Tour — How Bincai Delivers 1.7 Million Boxes Daily"
 date: 2026-06-12
 draft: false
-image: "/images/team-office.webp"
+image: "/images/hero-factory.webp"
 description: "18,000 sqm Factory Tour — How Bincai Delivers 1.7 Million Boxes Daily — Guangdong Bincai Color Printing, ISO 9001 & FSC certified paper box manufacturer, KBA 1050 + Heidelberg 7+1 UV presses, 22 years experience."
 aliases:
   - /blog/bincai-10000-sqm-factory-tour-production-lines/
@@ -57,4 +57,4 @@ Bincai is located in the Pearl River Delta manufacturing hub, 40 minutes from Gu
 
 [Contact our team](/contact/) to schedule a factory tour or request a production capacity assessment for your packaging project.
 
-<a href="https://bincaipaperbox.en.made-in-china.com/" target="_blank" rel="noopener" style="display:inline-block;background:#ff6b35;color:#fff;padding:8px 20px;border-radius:6px;text-decoration:none;font-weight:600;font-size:13px;">View Full Catalog on Made-in-China.com →</a>
+<a href="https://bincaipaperbox.en.made-in-china.com/" target="_blank" rel="noopener" class="btn-mic">View Full Catalog on Made-in-China.com →</a>

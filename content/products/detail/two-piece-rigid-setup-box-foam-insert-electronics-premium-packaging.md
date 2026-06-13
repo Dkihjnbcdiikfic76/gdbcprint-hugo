@@ -75,20 +75,3 @@ A: Yes. CNC routing creates multi-cavity layouts with different depths for each 
 
 **Q: Is the telescopic lid easy to open but secure during shipping?**
 A: Our telescopic fit is precision-engineered with 0.5–1.0mm clearance between lid interior and base exterior. Combined with shrink-wrap or a branded belly band, the box stays securely closed during transit while remaining easy to open for the end user.
-## Contact
-[Request free quote](/contact/) — response within 24 hours. Factory visits welcome.
-
-## Why Bincai
-
-| Feature | Detail |
-|---------|--------|
-| Experience | 22 years since 2003 |
-| Factory | 18,000m² (10,000+8,000 smart factory) with KBA & Heidelberg presses |
-| Quality | ISO 9001:2015 certified |
-| Eco | FSC certified sustainable materials |
-| Capacity | 1.7M boxes daily output |
-| Clients | 200+ brands across 50+ countries |
-| Custom | Any size, foam, finish, insert |
-| MOQ | 500-1000 pcs, trial orders accepted |
-| Free Sample | Free pre-production sample (freight collect) |
-| Shipping | Worldwide DHL/FedEx/UPS/Sea |

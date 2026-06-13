@@ -103,4 +103,4 @@ For foil and embossing jobs, our QC process adds three checkpoints on top of sta
 
 **Guangdong Bincai Color Printing Co., Ltd.** — ISO 9001:2015 & FSC® certified, 22 years of paper box manufacturing, 18,000 sqm factory (10,000+8,000 smart factory), daily output 1.7 million boxes. [Request a quote →](/contact/)
 
-<a href="https://bincaipaperbox.en.made-in-china.com/" target="_blank" rel="noopener" style="display:inline-block;background:#ff6b35;color:#fff;padding:8px 20px;border-radius:6px;text-decoration:none;font-weight:600;font-size:13px;">View Full Catalog on Made-in-China.com →</a>
+<a href="https://bincaipaperbox.en.made-in-china.com/" target="_blank" rel="noopener" class="btn-mic">View Full Catalog on Made-in-China.com →</a>

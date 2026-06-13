@@ -2,31 +2,30 @@
 title: "Custom Luxury Paper Box Packaging"
 date: 2026-06-11
 draft: false
-description: "High-end luxury paper boxes for premium brands. Rigid boxes with magnetic closure, velvet interior, gold foil."
-image: /images/cat-rigid-others.webp
+description: "Premium gift boxes, luxury rigid boxes with magnetic closure, velvet interiors, gold foil stamping. ISO 9001 & FSC certified."
+image: /images/industry-luxury.webp
 ---
 
-Bincai manufactures luxury packaging that reflects your brand's premium positioning. Each box is crafted with precision on our KBA and Heidelberg presses.
+Bincai crafts premium luxury packaging that elevates brand perception. From couture rigid boxes to velvet-lined jewelry cases, every box is a tactile expression of quality.
 
 ## Luxury Packaging Solutions
 
-### Premium Rigid Boxes
-2-3mm greyboard construction wrapped in premium art paper. Magnetic closure, velvet flocking, gold foil stamping for ultimate luxury feel.
+### Rigid Gift Boxes
+Double-layer greyboard construction with art paper wrap. Available with magnetic closure, ribbon tie, or hinged lid.
 
-### Limited Edition Packaging
-Custom shapes, special finishes, numbered editions for exclusive product launches and luxury collections.
+### Jewelry Boxes
+Velvet, suede, or satin-lined interiors. LED mirror lids, necklace hooks, ring slots, and custom compartment layouts.
 
-### Brand Experience
-Every box we produce is designed to create a lasting impression — from the weight of the box to the reveal experience.
+### Premium Magnetic Closure
+N42-N52 neodymium magnets for satisfying snap closure. Single-door, double-door, and book-style configurations.
 
-## Premium Features
-- Heavyweight greyboard (2-3mm)
-- Premium paper wrapping (120-200gsm)
+## Luxury Finishing Options
+
 - Gold/silver/rose gold hot foil
 - Velvet, suede, satin interiors
 - Custom embossing and debossing
 - Magnetic closure mechanisms
 
-[Request luxury packaging quote →](/contact/)
+<a href="/contact/" class="btn-cta">Request Luxury Packaging Quote →</a>
 
-<a href="https://bincaipaperbox.en.made-in-china.com/" target="_blank" rel="noopener" style="display:inline-block;background:#ff6b35;color:#fff;padding:8px 20px;border-radius:6px;text-decoration:none;font-weight:600;font-size:13px;">View Full Catalog on Made-in-China.com →</a>
+<a href="https://bincaipaperbox.en.made-in-china.com/" target="_blank" rel="noopener" class="btn-mic">View Full Catalog on Made-in-China.com →</a>

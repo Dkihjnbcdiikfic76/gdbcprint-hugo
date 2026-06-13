@@ -96,21 +96,4 @@ A: Yes — this is one of the most common configurations for gift sets. The CNC 
 **Q: What are the lead time and MOQ considerations for custom satin and foam combinations?**
 
 A: Standard lead time is 15-20 days for existing materials and tooling. Custom-dyed satin interior adds 5-7 days. New foam tray CNC tooling adds 3-5 days (we route from CAD directly — no physical die required). MOQ is 500 units for standard configurations, 1,000 for custom satin color or custom foam layout. Pre-production samples with your exact candle dimensions ship within 5 days for fit verification before full production.
-## Contact
-
 MOQ 500 units. Satin swatches, foam density samples, and magnet strength demo available. Sample within 5 days. Lead time 15-25 days. Phone: +86-18934352881. Email: qo82@icloud.com.
-
-## Why Bincai
-
-| Feature | Detail |
-|---------|--------|
-| Experience | 22 years since 2003 |
-| Factory | 18,000m² (10,000+8,000 smart factory) with KBA & Heidelberg presses |
-| Quality | ISO 9001:2015 certified |
-| Eco | FSC certified sustainable materials |
-| Capacity | 1.7M+ color boxes + 220K+ gift boxes daily |
-| Clients | 200+ brands across 50+ countries |
-| Custom | Any size, color, finish, insert |
-| MOQ | 500-1000 pcs, trial orders accepted |
-| Free Sample | Free pre-production sample (freight collect) |
-| Shipping | Worldwide DHL/FedEx/UPS/Sea |

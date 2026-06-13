@@ -95,24 +95,3 @@ This eco-friendly kraft tuck-top mailer box by Guangdong Bincai Color Printing d
 | **Biodegradability** | ASTM D5338 | ≥90% biodegradation within 180 days under industrial composting |
 | **Recyclability** | EN 13430 | Fully repulpable — accepted in standard curbside recycling streams |
 | **Visual Inspection** | AQL 2.5 Level II | ISO 2859-1 sampling; color consistency, print registration, structural integrity |
-
-## Why Bincai
-
-| Differentiator | Detail |
-|---|---|
-| **22-Year Legacy** | Manufacturing since 2003 — deep expertise in paper packaging engineering |
-| **18,000 sqm Campus** | 18,000 sqm factory (10,000+8,000 smart factory, expanded 2025) in Shunde, Foshan |
-| **Verified Sustainability** | FSC Chain-of-Custody, REACH, RoHS — documentation provided with every order |
-| **Soy Ink Commitment** | Dedicated soy-ink press line — no cross-contamination with conventional inks |
-| **Heidelberg 7+1 UV** | Superior print quality on kraft — brand logos that pop, not fade |
-| **KBA 1050 4-Color** | High-volume production at 15,000 sheets/hour |
-| **ISO 9001:2015** | Certified quality management — consistent output order after order |
-| **1.7M Daily Output** | Massive capacity for e-commerce brands scaling from 500 to 500,000 units |
-| **80+ Skilled Workers** | Experienced team — kraft board handling requires specific expertise to avoid fiber damage |
-| **Free Samples** | Pre-production samples in 3–5 working days (freight collect) |
-| **Global Shipping** | FOB Foshan/Shenzhen; flat-packed for efficient container loading |
-
-## Contact
-
-Phone: +86-18934352881 (Mr. Zhou) | Email: qo82@icloud.com  
-MOQ 500 units. Trial orders with sample approval before production. Response within 24 hours. Factory visits welcome at No.6-7 Shunyuan North Rd, Wusha, Daliang, Shunde, Foshan, Guangdong.

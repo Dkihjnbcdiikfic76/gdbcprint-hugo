@@ -79,28 +79,3 @@ This premium cosmetic folding carton combines spot UV varnish with soft-touch ma
 | **Humidity Test** | 40°C / 85% RH / 48h | No delamination, warping, or print degradation |
 | **Burst Strength** | TAPPI T-403 | ≥ 300 kPa (350gsm SBS) |
 | **AQL Sampling** | ISO 2859-1 | Level II, AQL 1.5 (major), AQL 4.0 (minor) |
-
-## Why Bincai
-
-| Differentiator | Detail |
-|---|---|
-| **22-Year Legacy** | Folding carton manufacturing since 2003 — 500+ global brands served |
-| **18,000 sqm** | 18,000 sqm factory (10,000+8,000 smart factory, expanded 2025) |
-| **KBA + Heidelberg** | German-engineered offset presses for precision cosmetic packaging |
-| **In-House Finishing** | Lamination, spot UV, foil stamping, embossing — no subcontracting delays |
-| **1.7M Daily Output** | Reliable on-time delivery from boutique to container-volume orders |
-| **ISO 9001 & FSC** | Certified quality management + sustainable paperboard sourcing |
-| **Low MOQ** | 1000-unit trials for startup beauty brands entering the market |
-| **Free Samples** | 5-7 day sample turnaround with full finishing |
-| **Global Export** | 30+ countries served with compliant packaging solutions |
-
-## Contact
-
-- **Phone**: +86-18934352881 (Mr. Zhou)
-- **Email**: qo82@icloud.com
-- **Address**: No.6-7 Shunyuan North Rd, Wusha, Daliang, Shunde, Foshan, Guangdong, China
-- **MOQ**: 1000 units (standard); 3000+ for complex multi-finish cartons
-- **Samples**: Free pre-production samples with 5-7 day turnaround
-- **Lead Time**: 10-15 days (prototype), 18-25 days (production)
-- **Certifications**: ISO 9001:2015, FSC Chain-of-Custody
-- **Factory Visit**: Welcome — 18,000 sqm facility in Foshan, Guangdong

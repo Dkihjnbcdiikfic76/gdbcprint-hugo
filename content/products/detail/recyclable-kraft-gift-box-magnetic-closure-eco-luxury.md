@@ -89,18 +89,3 @@ Recyclable brown kraft paper rigid gift box with magnetic closure — designed b
 | Lid Alignment | Gap ≤ 1.2mm, flush closure |
 | Drop Test | ISTA 1A — 10-drop sequence |
 | AQL Sampling | ISO 2859-1 Level II, AQL 2.5 |
-
-## Why Bincai
-
-| Differentiator | Detail |
-|---|---|
-| **22-Year Legacy** | Manufacturing since 2003 — trusted by leading European sustainable brands |
-| **18,000 sqm Facility** | 18,000 sqm (10,000+8,000 smart factory) |
-| **Genuine Sustainability** | Full in-house FSC sourcing, recycled content, soy ink — not greenwashing |
-| **KBA + Heidelberg** | German-engineered presses for consistent quality on natural kraft |
-| **ISO 9001 & FSC** | Documented quality management + certified sustainable fiber |
-| **Free Samples** | 3–5 day pre-production samples with material certifications |
-
-## Contact
-
-[Request free quote](/contact/) — response within 24 hours. Free eco-luxury sample with FSC and soy ink certifications within 5 days. MOQ 500. Phone: +86-18934352881. Email: qo82@icloud.com. Factory visits welcome in Shunde, Foshan, Guangdong, China.

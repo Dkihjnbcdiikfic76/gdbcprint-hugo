@@ -89,39 +89,3 @@ The Magnetic Closure Box with Die-Cut Insert for electronics accessories by Guan
 | Temperature/Humidity Cycle | 24-hour cycling: −20°C to +60°C at 50–90% RH | No warping, delamination, or magnetic strength degradation > 5% |
 | FSC Chain of Custody | SGS annual surveillance audit with material traceability from forest to finished box | FSC Mix Credit certification maintained and renewed annually |
 | ISO 9001 Traceability | Batch-level traceability from raw material receipt through production to shipment | Full batch genealogy retrievable within 4 hours |
-
-## Why Bincai
-
-- **22 years of packaging expertise** — Founded in 2003, Guangdong Bincai Color Printing Co., Ltd. has delivered over 500 million custom rigid boxes for brands in 50+ countries across electronics, cosmetics, jewelry, spirits, and confectionery industries.
-- **18,000 sqm total production campus** — 10,000 sqm main factory plus 8,000 sqm smart factory (commissioned 2025) with automated guided vehicles, inline camera QC, and real-time production dashboards for zero-defect manufacturing.
-- **1.7 million daily output capacity** — Two-facility production delivering 1.7 million color boxes and 220,000+ gift boxes per day, ensuring on-time delivery even for peak-season orders.
-- **Precision magnet installation** — Automated neodymium magnetic insertion with 100% pull-force verification at the production line, guaranteeing consistent 3–8N closure force for every single box shipped.
-- **German press technology** — KBA 1050 4-color offset press and Heidelberg Speedmaster 7+1 UV press deliver print quality that meets the standards of leading global electronics, luxury, and consumer brands.
-- **Bobst flatbed die-cutting** — Swiss-engineered Bobst die-cutter with ±0.1mm precision ensures every greyboard panel, insert cavity, and wrap edge is cut to exact specification for perfect box assembly.
-- **Full in-house capability** — From structural design and die-cut insert prototyping to offset/UV printing, foil stamping, embossing, magnet insertion, and final assembly — no subcontracting means faster turnaround and consistent quality.
-- **ISO 9001:2015 & FSC certified** — Internationally audited quality management system plus FSC Chain-of-Custody certification for brands requiring verified sustainable packaging with full material traceability.
-- **80+ skilled craftspeople** — Experienced production team with specialized rigid-box expertise, including dedicated quality inspectors at every production stage from raw material in-check to final outgoing QC.
-- **Global logistics network** — Established relationships with DHL, FedEx, UPS for express samples and Maersk, COSCO, MSC for ocean freight, shipping from Shenzhen ports just 1.5 hours from our Foshan factory.
-
-## FAQ
-
-**Q: What magnet grades are available for magnetic closure boxes, and how do I choose the right one?**
-A: Bincai offers three neodymium magnet grades for magnetic closure boxes: N35 (standard strength, suitable for lightweight lids under 150g), N42 (enhanced hold, recommended for most electronics packaging with lids 150–300g), and N52 (maximum magnetic force, ideal for heavy lids over 300g or thick 3.0mm greyboard construction). Our engineering team calculates the optimal magnet grade, diameter (8–12mm), and thickness (1.5–3.0mm) based on your box dimensions, lid weight, and desired closure force, then verifies every production batch with a digital spring gauge to ensure consistent 3–8N opening performance.
-
-**Q: How durable is the magnetic closure — will it weaken after repeated opening and closing?**
-A: Neodymium (NdFeB) magnets are the strongest permanent magnets commercially available and experience negligible demagnetization — less than 1% flux loss over a decade under normal conditions. Bincai's magnetic closure boxes are tested through 10,000+ open-close cycles during quality assurance without measurable decline in closure force. The magnetic discs are mechanically recessed into the greyboard and secured with industrial adhesive, so they cannot shift or dislodge even under repeated use. Our ISTA 1A drop testing also confirms that the magnets maintain full holding force after 10 consecutive drops from 760mm.
-
-**Q: Can the magnets in the closure box affect the electronics stored inside?**
-A: For the vast majority of consumer electronics — including smartphones, wireless earbuds, charging cases, power banks, USB drives, and wearable devices — the static magnetic field from neodymium closure magnets (typically 8–12mm diameter discs positioned in the lid and base rim) has no effect whatsoever. Solid-state electronics, lithium-ion batteries, and flash storage are immune to static magnetic fields. The only potential concern is for devices containing magnetic storage (traditional spinning hard drives), magnetic stripe cards, or sensitive magnetometers — in these rare cases, we can specify a magnet-free mechanical closure or increase the insert cavity separation distance beyond 15mm where the field strength drops below 0.5 mT. Our engineering team reviews your product specifications during the design phase and recommends the appropriate closure solution.
-
-**Q: What is the minimum order quantity for custom die-cut insert magnetic closure boxes, and can I order samples first?**
-A: Our standard MOQ is 500–1000 units per design, which is among the lowest in the industry for fully custom rigid magnetic closure boxes with precision die-cut inserts. For brand startups and market testing, we accept trial orders as low as 200 units at a small per-unit surcharge. Before mass production, we provide a free digital structural design proof within 48 hours, a white-glue mockup sample in 5–7 working days, and a pre-production sample with your actual artwork and materials in 7–10 days (freight collect). This tiered sampling process lets you evaluate the insert fit, magnet feel, and overall quality before committing to a full production run.
-## Contact
-
-- **Phone:** +86-18934352881
-- **Email:** qo82@icloud.com
-- **Address:** No.6-7 Shunyuan North Road, Wusha, Daliang, Shunde District, Foshan, Guangdong, 528300, China
-- **MOQ:** 500–1000 units (trial orders from 200 units accepted)
-- **Samples:** Free pre-production sample within 7–10 working days (freight collect)
-- **Lead Time:** 12–18 working days after sample approval
-- **Shipping:** Worldwide DHL, FedEx, UPS (express) and ocean freight via Yantian/Shekou ports

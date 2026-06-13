@@ -2,7 +2,7 @@
 title: "1.7 Million Boxes a Day: What Bincai's Production Scale Means for Your Supply Chain"
 date: 2026-06-12
 draft: false
-image: "/images/carousel-factory.webp"
+image: "/images/hero-factory.webp"
 description: "1.7 Million Boxes a Day — What Bincai's Production Scale Means for Your Supply Chain. Guangdong Bincai Color Printing produces 1.7M+ boxes daily with KBA 1050 & Heidelberg 7+1 UV presses across 18,000 sqm. ISO 9001 & FSC certified."
 
 ---
@@ -78,10 +78,10 @@ We didn't reach 1.7M boxes/day overnight. Since our founding in 2003, every proc
 
 Whether you need 500 prototype boxes for a trade show or 500,000 monthly for ongoing distribution, Bincai's scale works for you — not against you.
 
-[Contact our team](/contact/) with your specifications, and we'll provide a quote within 24 hours.
+<a href="/contact/" class="btn-cta">Contact Our Team for a Quote →</a> with your specifications, and we'll provide a quote within 24 hours.
 
 ---
 
 *Guangdong Bincai Color Printing — 22 years of paper box manufacturing. ISO 9001 & FSC certified. 1.7M+ boxes daily, delivered to 50+ countries.*
 
-<a href="https://bincaipaperbox.en.made-in-china.com/" target="_blank" rel="noopener" style="display:inline-block;background:#ff6b35;color:#fff;padding:8px 20px;border-radius:6px;text-decoration:none;font-weight:600;font-size:13px;">View Full Catalog on Made-in-China.com →</a>
+<a href="https://bincaipaperbox.en.made-in-china.com/" target="_blank" rel="noopener" class="btn-mic">View Full Catalog on Made-in-China.com →</a>

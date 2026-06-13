@@ -53,8 +53,6 @@ Guangdong Bincai Color Printing Co., Ltd. operates one of South China's largest 
 
 Our integrated workflow — from prepress and die-making through printing, laminating, die-cutting, gluing, and assembly — happens under one roof, ensuring quality control at every stage. The Heidelberg 7+1 UV line enables inline coating and specialty effects that reduce turnaround time compared to offline finishing.
 
-## Contact
-
 For a custom quote on your luxury candle rigid gift box project, reach out to our sales team. We provide free 3D structural design and digital proofs within 24 hours. Specify your desired dimensions, closure type, foam insert layout, and finishing preferences.
 
 - **Email:** qo82@icloud.com
@@ -75,17 +73,3 @@ A: Standard lead time is 15-20 business days from artwork approval. Pre-producti
 
 **Q: Are the materials used in Bincai's candle boxes sustainable?**
 A: Yes. All greyboard and art paper are FSC Chain-of-Custody certified. Soy-based inks are standard for interior printing, and the foam insert can be replaced with moulded pulp (fully biodegradable) or recycled EVA foam upon request. The entire box is designed for recyclability after the foam insert is removed.
-## Why Bincai
-
-| Feature | Detail |
-|---------|--------|
-| Experience | 22 years since 2003 |
-| Factory | 18,000m² (10,000+8,000 smart factory) with KBA & Heidelberg presses |
-| Quality | ISO 9001:2015 certified |
-| Eco | FSC certified sustainable materials |
-| Capacity | 1.7M+ color boxes + 220K+ gift boxes daily |
-| Clients | 200+ brands across 50+ countries |
-| Custom | Any size, color, finish, insert |
-| MOQ | 500-1000 pcs, trial orders accepted |
-| Free Sample | Free pre-production sample (freight collect) |
-| Shipping | Worldwide DHL/FedEx/UPS/Sea |

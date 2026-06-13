@@ -26,6 +26,6 @@ Luxury paper boxes for wedding favors, bridal party gifts, and celebration packa
 - Velvet, satin, foam inserts
 - Custom sizes and shapes
 
-[Get gift packaging quote →](/contact/)
+<a href="/contact/" class="btn-cta">Get Gift Packaging Quote →</a>
 
-<a href="https://bincaipaperbox.en.made-in-china.com/" target="_blank" rel="noopener" style="display:inline-block;background:#ff6b35;color:#fff;padding:8px 20px;border-radius:6px;text-decoration:none;font-weight:600;font-size:13px;">View Full Catalog on Made-in-China.com →</a>
+<a href="https://bincaipaperbox.en.made-in-china.com/" target="_blank" rel="noopener" class="btn-mic">View Full Catalog on Made-in-China.com →</a>

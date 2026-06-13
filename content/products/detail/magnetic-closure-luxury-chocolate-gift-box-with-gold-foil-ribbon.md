@@ -77,20 +77,3 @@ A: N52 neodymium magnets (the strongest commercial grade) are embedded between 2
 
 **Q: What is the minimum order quantity and lead time for a custom chocolate gift box?**
 A: Standard MOQ is 500 units for fully custom boxes with branded printing, foil stamping, and die-cut foam trays. We also accept trial orders of 100–300 units for market testing (higher per-unit pricing at low volumes). Lead time is 12–18 working days for new tooling (including foam tray die creation), 7–10 days for repeat orders. Pre-production samples with full finishing and custom foam tray ship in 5–7 working days. Sea freight to EU/US ports: 25–35 days; air freight: 5–7 days.
-## Contact
-[Request free quote →](/contact/) — response within 24 hours. Factory visits welcome at our 18,000 sqm Foshan facility.
-
-## Why Bincai
-
-| Feature | Detail |
-|---------|--------|
-| Experience | 22 years since 2003 |
-| Factory | 18,000m² (10,000+8,000 smart factory) with KBA & Heidelberg presses |
-| Quality | ISO 9001:2015 certified |
-| Eco | FSC certified sustainable materials |
-| Capacity | 1.7M+ color boxes + 220K+ gift boxes daily |
-| Clients | 200+ brands across 50+ countries |
-| Custom | Any size, color, finish, insert |
-| MOQ | 500-1000 pcs, trial orders accepted |
-| Free Sample | Free pre-production sample (freight collect) |
-| Shipping | Worldwide DHL/FedEx/UPS/Sea |

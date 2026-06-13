@@ -64,21 +64,3 @@ Our custom folding carton with insert tray is purpose-built for tea and coffee p
 | **Health & Wellness** | Supplement sachet, herbal tea, wellness kit packaging | Soft-touch + embossed logo + compartment insert |
 | **Gourmet Food** | Spice sets, seasoning mix multi-packs, cooking kit boxes | SBS + aqueous coating + tiered insert |
 | **Corporate Gifts** | Tea & coffee sampler gift sets for B2B gifting | Rigid-feel greyboard + magnetic closure + satin ribbon |
-
-## Why Bincai for Tea & Coffee Packaging
-
-- **22 years** of folding carton manufacturing since 2003
-- **18,000 sqm** integrated facility (10,000+8,000 smart factory, commissioned 2025) in Foshan, Guangdong
-- **Food-safety expertise** — soy-based inks, water-based coatings, EU 1935/2004 & FDA compliant
-- **80+ skilled employees** across design, prepress, printing, finishing, and QC
-- ISO 9001:2015 quality management + FSC Chain-of-Custody certified
-- Free physical samples within 5–7 business days; MOQ 500–1000 units
-- Contact: +86-18934352881 or qo82@icloud.com
-
-## Contact
-
-- **MOQ:** 500–1000 units per design
-- **Pricing:** $0.25–$3.00 per unit (varies by size, material, insert complexity, and finishes)
-- **Samples:** Free physical samples within 5–7 business days
-- **Lead Time:** 10–15 business days for bulk production
-- **Inquiry:** Contact us with your product dimensions, insert layout requirements, and artwork specifications for a custom quotation.

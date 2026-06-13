@@ -73,20 +73,3 @@ A: No — our engineering ensures the handle is flush with the box surface when 
 
 **Q: What are the MOQ and typical lead times?**
 A: MOQ 1,000 units. New tooling: 8–12 working days; repeat orders: 5–7 days. Pre-production samples (with full finishing) ship in 5–7 working days. Rush service available for repeat orders.
-## Contact
-[Request free quote](/contact/) — response within 24 hours. Factory visits welcome.
-
-## Why Bincai
-
-| Feature | Detail |
-|---------|--------|
-| Experience | 22 years since 2003 |
-| Factory | 18,000m² (10,000+8,000 smart factory) with KBA & Heidelberg presses |
-| Quality | ISO 9001:2015 certified |
-| Eco | FSC certified sustainable materials |
-| Capacity | 1.7M+ color boxes + 220K+ gift boxes daily |
-| Clients | 200+ brands across 50+ countries |
-| Custom | Any size, color, finish, insert |
-| MOQ | 500-1000 pcs, trial orders accepted |
-| Free Sample | Free pre-production sample (freight collect) |
-| Shipping | Worldwide DHL/FedEx/UPS/Sea |

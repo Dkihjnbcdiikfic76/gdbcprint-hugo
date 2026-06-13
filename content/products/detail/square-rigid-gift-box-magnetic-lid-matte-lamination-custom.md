@@ -74,27 +74,3 @@ The Bincai Square Rigid Gift Box with magnetic lid closure combines clean geomet
 | **Surface Inspection** | AQL 2.5 (ISO 2859-1) | 100% visual for lamination bubbles, printing defects, corner quality |
 | **Greyboard Moisture** | TAPPI T-412 | 6–8% moisture content at assembly; prevents warping |
 | **Pack-out** | Internal QJ-007 | Individual polybag; 5-layer corrugated master carton; corner protectors |
-
-## Why Bincai
-
-| Differentiator | Detail |
-|---|---|
-| **22-Year Legacy** | Manufacturing since 2003 — serving 500+ international brands |
-| **18,000 sqm Integrated Facility** | Printing, die-cutting, lamination, and assembly under one roof in Foshan |
-| **Heidelberg + KBA Presses** | German-engineered offset printing; ±0.1mm registration for foil and spot UV |
-| **Matte Lamination Expertise** | 25-micron soft-touch film applied in-house; no outsourcing delays |
-| **ISO 9001 & FSC** | Certified quality management + sustainable forestry sourcing |
-| **1.7M + 220K+ Daily** | Massive capacity; 15–25 day standard lead time with rush options |
-| **Free Samples** | 3–5 day pre-production samples with actual materials and finishes |
-| **80+ Skilled Staff** | Dedicated rigid box artisans; average 8+ years experience |
-
-## Contact
-
-- **MOQ**: 500 units (standard), 200 units (trial)
-- **Sample**: 3–5 day pre-production samples with lamination and logo
-- **Lead Time**: 15–25 days (standard), 7–10 days (expedited)
-- **Tooling**: Embossing/foil die $80–150 one-time; insert tooling $120–200
-- **Phone**: +86-18934352881 (Mr. Zhou)
-- **Email**: qo82@icloud.com
-- **Address**: No.6-7 Shunyuan North Rd, Wusha, Daliang, Shunde, Foshan, Guangdong
-- **Factory Visit**: Welcome — schedule via email or phone

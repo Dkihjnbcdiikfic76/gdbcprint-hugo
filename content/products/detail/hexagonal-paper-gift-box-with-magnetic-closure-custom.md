@@ -55,36 +55,3 @@ Guangdong Bincai Color Printing produces custom hexagonal paper gift boxes featu
 | Cosmetics and beauty | Luxury skincare sets, perfume gift boxes, limited-edition makeup collections |
 | Confectionery | Premium chocolate boxes, artisan candy sets, wedding favor confections |
 | Specialty retail | Premium candle packaging, artisan soap sets, boutique accessory boxes |
-
-## Why Bincai
-
-| Feature | Detail |
-|---------|--------|
-| Experience | 22 years since 2003 |
-| Factory | 18,000m² (10,000+8,000 smart factory) with KBA & Heidelberg presses |
-| Quality | ISO 9001:2015 certified |
-| Eco | FSC certified sustainable materials |
-| Capacity | 1.7M+ color boxes + 220K+ gift boxes daily |
-| Clients | 200+ brands across 50+ countries |
-| Custom | Any size, color, finish, insert |
-| MOQ | 500-1000 pcs, trial orders accepted |
-| Free Sample | Free pre-production sample (freight collect) |
-| Shipping | Worldwide DHL/FedEx/UPS/Sea |
-
-## FAQ
-
-**How strong are the magnets, and will the lid stay securely closed during shipping?**
-
-We use N35 to N52 grade neodymium magnets, with N52 being the strongest commercially available. Magnet count and strength are calculated based on lid weight and size. For boxes over 200 mm in diameter or with heavy lids, we add additional magnet pairs or upgrade to N52. All magnetic closure boxes pass drop and vibration testing to ensure the lid stays closed in transit.
-
-**Can you produce shapes other than hexagonal?**
-
-Yes. Our rigid-box team specializes in custom geometric shapes including octagonal, triangular, pentagonal, and irregular custom profiles. We also offer curved and rounded-edge designs. Custom die tooling is created in-house, with a one-time tooling fee that is typically waived for orders above 2,000 pieces.
-
-**Are the magnets visible from the outside of the box?**
-
-No. Magnets are embedded between layers of greyboard during assembly so they are completely concealed. The outer wrapping material covers the magnet positions seamlessly. The closure appears purely mechanical from the outside, with the satisfying magnetic pull only felt when opening or closing.
-
-**What interior lining options work best for jewelry presentation?**
-
-For rings, we recommend a velvet-flocked insert with a dedicated ring slot. For necklaces and bracelets, a satin-lined interior with foam padding prevents tangling and scratching. For multi-piece jewelry sets, custom-fit foam trays with individual compartments offer the most secure and elegant presentation.

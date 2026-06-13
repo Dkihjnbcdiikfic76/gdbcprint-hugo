@@ -59,17 +59,3 @@ Bincai's die-cut folding carton display tray combines structural integrity with 
 | Print Registration | Internal | ±0.15mm |
 | Auto-Lock Assembly | Internal | <3 seconds |
 | Board Burst | TAPPI T-810 | 800+ kPa (350gsm CCNB) |
-
-## Why Bincai
-
-| Differentiator | Detail |
-|---|---|
-| **22-Year Legacy** | Manufacturing since 2003 — 500+ global brands served |
-| **18,000 sqm Facility** | 18,000 sqm (10,000+8,000 smart factory) |
-| **KBA + Bobst** | German/Swiss-engineered production line |
-| **ISO 9001 & FSC** | Quality management + sustainable sourcing |
-| **Free Samples** | 3-5 day pre-production samples |
-
-## Contact
-
-MOQ 1,000 units. Die tooling: 3-5 days. Sample within 5 days. Lead time 12-18 days. Phone: +86-18934352881. Email: qo82@icloud.com.

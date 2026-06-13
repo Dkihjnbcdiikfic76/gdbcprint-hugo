@@ -79,27 +79,3 @@ Premium magnetic closure book-style rigid box with plush velvet lining for luxur
 | **Greyboard Moisture** | TAPPI T-412 | 6–8% at assembly; prevents warping in varied climates |
 | **Surface Inspection** | AQL 2.5 (ISO 2859-1) | 100% visual for wrap defects, foil placement, corner gaps, velvet consistency |
 | **Pack-out Audit** | Internal MB-006 | Individual polybag; foam corner protectors; 5-ply master carton; drop-tested pre-shipment |
-
-## Why Bincai
-
-| Differentiator | Detail |
-|---|---|
-| **22-Year Legacy** | Manufacturing premium rigid boxes since 2003; 500+ global corporate brands served |
-| **18,000 sqm Facility** | 10,000 sqm original factory + 8,000 sqm smart factory (2025) in Foshan, Guangdong |
-| **KBA + Heidelberg** | Dual German-engineered offset presses; ±0.1mm foil registration |
-| **ISO 9001 & FSC** | Quality management + sustainable sourcing; full-chain traceability |
-| **Book-Style Specialist** | Dedicated rigid box line for book-style construction; spine hinge expertise |
-| **1.7M + 220K+ Daily** | 1.7M color boxes + 220,000+ gift boxes daily capacity post-2025 expansion |
-| **Free Samples** | 3–5 day pre-production samples with actual materials, foil, and magnet configuration |
-| **80+ Skilled Staff** | Dedicated rigid box assembly team; 15 QC inspectors across production line |
-
-## Contact
-
-- **MOQ**: 500–1000 units (standard), 200 (trial)
-- **Sample**: 3–5 day pre-production samples with chosen materials, foil, and magnet configuration
-- **Lead Time**: 15–25 days (standard), 7–10 days (expedited)
-- **Tooling**: Foil die $80–150, emboss die $100–200, insert die $100–250 (one-time each)
-- **Phone**: +86-18934352881 (Mr. Zhou)
-- **Email**: qo82@icloud.com
-- **Address**: No.6-7 Shunyuan North Rd, Wusha, Daliang, Shunde, Foshan, Guangdong
-- **Factory Visit**: Welcome — schedule via email or phone

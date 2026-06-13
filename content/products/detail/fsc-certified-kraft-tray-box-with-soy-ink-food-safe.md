@@ -67,12 +67,3 @@ The FSC-certified kraft tray box with soy-based ink is purpose-built for food br
 | **FDA 21 CFR** | Soy-based inks compliant with indirect food contact regulations |
 | **ISO 9001:2015** | Quality management system certified since 2010 |
 | **BSCI** | Social compliance audited — ethical labor practices throughout supply chain |
-
-## Why Bincai
-
-- **22 Years of Sustainable Packaging Leadership** — producing eco-friendly packaging since 2003, long before sustainability became a market requirement
-- **Dedicated Food-Grade Facility** — separate production zone with ISO Class 8 cleanroom standards, not shared with industrial packaging lines
-- **True Compostability** — every component, including ink and adhesive, is certified compostable — not "partially biodegradable" or greenwashed
-- **Competitive Pricing** — high-volume KBA 1050 offset production with 1.7M daily output means premium eco-packaging at commodity pricing
-
-> **Request a free FSC kraft tray box sample kit with compostability certification documentation and soy ink migration test reports.**

@@ -95,25 +95,3 @@ A: MOQ starts at **500 units** for standard tuck-top or STE cartons with a singl
 
 **Q: Are your printing inks and materials safe if the toy box is handled by young children?**
 A: Yes. We use **soy-based or low-VOC offset inks** that meet EN 71-3 and CONEG (heavy metals) regulations. Our aqueous and BOPP lamination films are phthalate-free and non-toxic. For brands with the strictest requirements — such as infant/toddler toys (0–3 years) — we can produce with food-grade inks and water-based coatings only, eliminating solvent-based components entirely. Full material safety data sheets (MSDS) are provided with every order, and we recommend third-party testing for your specific market's regulatory requirements.
-## Why Bincai
-
-| Feature | Detail |
-|---|---|
-| **Experience** | 22 years since 2003 — deep expertise in folding carton and toy packaging |
-| **Factory** | 18,000 sqm (10,000 + 8,000 smart factory) with KBA & Heidelberg presses |
-| **Quality** | ISO 9001:2015 certified; EN 71-3 / ASTM F963 compliant materials |
-| **Eco** | FSC certified sustainable paperboard; soy-based ink option available |
-| **Capacity** | 1.7M+ color boxes + 220K+ gift boxes daily output |
-| **Clients** | 200+ brands across 60+ countries |
-| **Custom** | Any size, style, insert configuration, window, or finish combination |
-| **MOQ** | 500–1000 pcs; trial orders and Kickstarter runs welcomed |
-| **Free Sample** | Free pre-production sample with actual insert and finish (freight collect) |
-| **Shipping** | Worldwide DHL / FedEx / UPS / Sea freight from Foshan, Guangdong |
-
-## Contact
-
-Ready to bring your toy packaging to life? Our team provides free structural design consultation, 3D renderings, and pre-production samples. Response within 24 hours.
-
-Phone: +86-18934352881
-Email: qo82@icloud.com
-Factory Address: Guangdong Bincai Color Printing Co., Ltd., Foshan, Guangdong, China

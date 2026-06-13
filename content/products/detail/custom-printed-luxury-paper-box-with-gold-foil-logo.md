@@ -58,12 +58,3 @@ This custom printed luxury rigid box elevates your brand with precision gold foi
 | **MOQ** | 500-1000 units |
 | **Sample** | 3-5 working days |
 | **Production** | 7-15 working days |
-
-## Why Bincai
-
-- **Precision Foil Registration**: Hot foil stamping with sub-millimeter accuracy on Heidelberg post-press line
-- **Artisan Finishing**: Hand-applied ribbons and manual QC inspection for luxury-grade consistency
-- **Global Standards**: FSC chain-of-custody certification and EU/NA packaging compliance
-- **Design Support**: In-house structural and graphic design team available for custom projects
-
-[Request a free quote →](/contact/)

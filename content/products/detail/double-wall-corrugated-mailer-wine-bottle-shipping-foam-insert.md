@@ -60,17 +60,3 @@ Bincai's double-wall corrugated wine bottle mailer is purpose-built for DTC wine
 | Wine Club Subscription | 2-6 bottle with divider | Branded full-color print |
 | Gift with Glassware | 2-bottle + 2-glass insert | Combined packaging |
 | Cross-Border E-Commerce | 1-bottle slim profile | Reduced dimensional weight |
-
-## Why Bincai
-
-| Differentiator | Detail |
-|---|---|
-| **22-Year Legacy** | Manufacturing since 2003 — 500+ global brands served |
-| **18,000 sqm Facility** | 18,000 sqm (10,000+8,000 smart factory) |
-| **ISTA 3A Tested** | Certified parcel shipping performance |
-| **ISO 9001 & FSC** | Quality management + sustainable sourcing |
-| **Free Samples** | 3-5 day pre-production samples |
-
-## Contact
-
-MOQ 500 units. Bottle insert template available. Sample within 5 days. Lead time 15-25 days. Phone: +86-18934352881. Email: qo82@icloud.com.

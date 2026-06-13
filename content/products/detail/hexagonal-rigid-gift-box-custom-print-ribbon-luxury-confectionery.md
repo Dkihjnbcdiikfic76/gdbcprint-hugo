@@ -62,30 +62,3 @@ Bincai's hexagonal rigid gift box brings architectural elegance to luxury confec
 | Magnetic Hold | Internal | Closure force ≥4.0N |
 | Print Registration | Internal | ±0.15mm across panels |
 | Color Consistency | Internal | ΔE ≤ 2.0 |
-
-## Why Bincai
-
-| Differentiator | Detail |
-|---|---|
-| **22-Year Legacy** | Manufacturing since 2003 — 500+ global brands served |
-| **18,000 sqm Facility** | 18,000 sqm (10,000+8,000 smart factory) |
-| **KBA 1050 Press** | German-engineered offset precision on complex shapes |
-| **ISO 9001 & FSC** | Quality management + sustainable forestry |
-| **Free Samples** | 3-5 day pre-production samples |
-
-## FAQ
-
-**Q: What is the minimum size for a hexagonal rigid gift box?**
-A: The smallest regular hexagon we produce has a flat-to-flat diameter of 100mm (approximately 57.7mm side length). Below this dimension, the magnetic lid hardware and foam insert cavities become too difficult to fabricate with consistent quality. Our maximum flat-to-flat diameter is 280mm, covering everything from individual truffle boxes to large gift assortment sets.
-
-**Q: Is there an additional tooling cost for custom hexagonal boxes?**
-A: Yes — custom hexagonal die-tooling for the greyboard cutting die and foam insert die typically adds $150–$350 USD to your first order, depending on cavity complexity and insert design. This is a one-time charge; we retain the dies for your future reorders. Standard hexagon sizes with existing tooling (100mm, 140mm, 180mm, 220mm, 260mm) carry no tooling fee. MOQ with custom tooling is 1,000 units.
-
-**Q: Can you apply gold or silver foil to all six exterior faces of the hexagon?**
-A: Yes. Our KBA 1050 offset press handles full coverage on all six faces, and our hot foil stamping station applies gold, silver, rose gold, copper, or holographic foil to every panel. We use a rotary-indexing jig that positions each face sequentially under the foil die, maintaining ±0.15mm registration. Note that foil coverage on all six faces adds approximately 15–20% to the unit cost and may extend lead time by 3–5 days.
-
-**Q: What is the standard lead time for a hexagonal rigid gift box order?**
-A: Standard lead time is 15–25 days from artwork approval. Pre-production samples (free) ship within 5 days. Rush orders of 10–12 days are available for an expedite fee on quantities under 5,000 units. Peak season (August–November) may add 5–7 days. Tooling fabrication for custom hexagon dies adds 3–5 days before production begins.
-## Contact
-
-MOQ 500 units. Hexagon template and cavity layout samples available. Sample within 5 days. Lead time 15-25 days. Phone: +86-18934352881. Email: qo82@icloud.com.

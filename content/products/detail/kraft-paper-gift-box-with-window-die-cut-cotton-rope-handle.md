@@ -56,18 +56,3 @@ Eco-friendly kraft paper gift box with die-cut display window and cotton rope ha
 This box is part of Bincai's Green Packaging Line — FSC-certified kraft paperboard, soy-based printing inks, water-based varnishes (no solvent coatings), natural cotton rope handles, and 100% recyclable after end-of-life. Optional compostable PLA window film available in place of traditional PET. Carbon footprint is tracked from material sourcing (Pearl River Delta mills) through factory production to finished goods.
 
 **Guangdong Bincai Color Printing Co., Ltd.** — 22 years. 18,000 sqm (10,000+8,000 smart factory). ISO 9001 & FSC certified. Sustainable packaging made beautifully.
-
-## Why Bincai
-
-| Feature | Detail |
-|---------|--------|
-| Experience | 22 years since 2003 |
-| Factory | 18,000m² (10,000+8,000 smart factory) with KBA & Heidelberg presses |
-| Quality | ISO 9001:2015 certified |
-| Eco | FSC certified sustainable materials |
-| Capacity | 1.7M+ color boxes + 220K+ gift boxes daily |
-| Clients | 200+ brands across 50+ countries |
-| Custom | Any size, color, finish, insert |
-| MOQ | 500-1000 pcs, trial orders accepted |
-| Free Sample | Free pre-production sample (freight collect) |
-| Shipping | Worldwide DHL/FedEx/UPS/Sea |

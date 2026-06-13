@@ -67,9 +67,3 @@ Guangdong Bincai Color Printing's kraft paper drawer box with die-cut PET window
 - Greyboard core uses minimum 85% post-consumer recycled content
 - Water-based adhesives — no solvent emissions
 - Carbon footprint report available for bulk orders (>10,000 units)
-
-## Why Bincai
-
-With 22 years of manufacturing excellence and 18,000 sqm of production floor (10,000+8,000 smart factory) in Foshan's Pearl River Delta packaging hub, we operate KBA 1050 4-color and Heidelberg 7+1 UV presses achieving daily output of 1.7 million color boxes plus 220,000+ rigid gift boxes. Our 150+ skilled craftspeople deliver packaging for brands across 40+ countries.
-
-[Request free quote & samples →](/contact/) — Response within 24 hours. Factory visits welcome.

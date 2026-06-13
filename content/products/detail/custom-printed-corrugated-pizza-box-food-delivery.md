@@ -60,13 +60,3 @@ Our custom printed corrugated pizza boxes are engineered for food delivery brand
 | **Sample** | 3-5 working days |
 | **Production** | 7-15 working days after sample approval |
 | **Shipping** | FOB Foshan/Shenzhen, 50+ countries worldwide |
-
-## Why Bincai
-
-- **Food-Safe Materials**: All papers and inks comply with FDA and EU food contact regulations
-- **Consistent Color**: Heidelberg closed-loop color management ensures brand colors match across every run
-- **Just-in-Time Delivery**: 22 years of export logistics — we ship when you need it
-- **Free Structural Design**: In-house packaging engineers optimize flute selection and box geometry for your specific pizza size
-- **Scalable**: From 500 prototype boxes to 500,000 monthly — same press, same quality
-
-[Request a free quote →](/contact/)

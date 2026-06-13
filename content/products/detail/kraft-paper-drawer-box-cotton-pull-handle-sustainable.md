@@ -79,32 +79,3 @@ Eco-friendly kraft paper drawer box with natural cotton pull handle — manufact
 | FSC chain of custody | Document audit per shipment | FSC-STD-40-004 compliance |
 | Compostability (PLA window) | EN 13432 certification | Home compostable within 180 days |
 | AQL sampling | ISO 2859-1 Level II | AQL 2.5 (major), AQL 1.0 (minor) |
-
-## Why Bincai
-
-| Differentiator | Detail |
-|---|---|
-| **22-Year Legacy** | Manufacturing since 2003 — 500+ global brands served |
-| **18,000 sqm Facility** | 18,000 sqm factory (10,000+8,000 smart factory, expanded 2025) |
-| **KBA 1050 + Heidelberg 7+1 UV** | German presses for high-speed, precise kraft printing |
-| **ISO 9001 & FSC** | Quality management + 100% responsibly sourced paperboard |
-| **Soy Ink Standard** | Food-safe soy-based inks at no premium — our default for kraft production |
-| **80+ Skilled Employees** | Design, prepress, printing, die-cutting, and assembly under one roof |
-| **Free Samples** | 3-5 day pre-production samples, including handle color swatches |
-
-## Frequently Asked Questions
-
-**Q: Is the kraft paper drawer box fully recyclable?**
-A: Yes — it is 100% recyclable and home-compostable. We use water-based PVA adhesives (no solvents), soy-based or water-based inks (no petroleum), and natural cotton cord handles (no synthetic fibers). No plastic lamination or mixed materials. If a PLA biodegradable window is added, it meets EN 13432 home compostability standards. The entire box can go into paper recycling or a backyard compost pile.
-
-**Q: What makes soy-based ink better than conventional ink for kraft packaging?**
-A: Soy ink is derived from renewable soybean oil (versus petroleum-based conventional ink), produces 15-20% more vibrant color on uncoated kraft stock, releases fewer VOCs during printing, and makes the finished box easier to de-ink during the recycling process. It is certified food-safe for indirect contact per FDA and EU 1935/2004 standards. Bincai uses soy ink as our default for all kraft production — no price premium.
-
-**Q: Can the cotton pull handle be customized with my brand color?**
-A: Yes — we can custom-dye the 3mm braided cotton cord to match any Pantone textile color with a minimum order of 1,000 units. Standard colors (natural, black, navy, burgundy, forest green) are available at no minimum for the handle itself. Each handle is tensile-tested to 5kg+ pull strength and attached with reinforced grommets or knotted with interior washers.
-
-**Q: What is the lead time for custom kraft drawer boxes?**
-A: Standard production lead time is 15-20 days for existing tooling and stock materials. Custom sizes requiring new die tooling add 5-7 days. Custom-dyed cotton handles add 3-5 days. Pre-production samples ship in 3-5 days. Bincai produces 1.7M boxes daily across our 18,000 sqm integrated facility, so production capacity is always available.
-## Contact
-
-MOQ 500 units. Cotton handle color swatches and kraft paper samples available. Sample within 5 days. Lead time 15-25 days. Phone: +86-18934352881. Email: qo82@icloud.com.

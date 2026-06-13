@@ -100,21 +100,4 @@ A: Our LED strips are fully enclosed behind a diffuser panel — there is zero e
 **Q: What is the lead time for custom 3-tier configurations with LED and gold foil?**
 
 A: Standard production lead time is 18-22 days for existing tooling and stock materials. Custom LED configuration (color temperature, battery type) adds 3-5 days. Custom-dyed velvet flocking adds 7-10 days. New tier layout requiring new die-cut tooling adds 5-7 days. Pre-production samples with your exact tier layout and materials ship within 5-7 days. Bincai produces 1.7M boxes daily — capacity for orders from 500 to 50,000+ units.
-## Contact
-
 MOQ 500 units. Velvet color swatches, LED brightness demo video, and mirror finish samples available. Sample within 7 days. Lead time 18-27 days. Phone: +86-18934352881. Email: qo82@icloud.com.
-
-## Why Bincai
-
-| Feature | Detail |
-|---------|--------|
-| Experience | 22 years since 2003 |
-| Factory | 18,000m² (10,000+8,000 smart factory) with KBA & Heidelberg presses |
-| Quality | ISO 9001:2015 certified |
-| Eco | FSC certified sustainable materials |
-| Capacity | 1.7M+ color boxes + 220K+ gift boxes daily |
-| Clients | 200+ brands across 50+ countries |
-| Custom | Any size, color, finish, insert |
-| MOQ | 500-1000 pcs, trial orders accepted |
-| Free Sample | Free pre-production sample (freight collect) |
-| Shipping | Worldwide DHL/FedEx/UPS/Sea |

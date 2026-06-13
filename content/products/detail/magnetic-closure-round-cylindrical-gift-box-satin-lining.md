@@ -55,14 +55,3 @@ Bincai's cylindrical magnetic closure gift box stands apart from standard rectan
 | Magnet Fit | Pull-force ≥8N, flush lid fit with no gap |
 | Interior Lining | Wrinkle-free application, edge-tucked cleanly |
 | Drop Test | 5-drop cycle from 1m — no lid separation |
-
-## Why Bincai
-
-| Spec | Bincai Advantage |
-|------|-----------------|
-| Factory | 18,000 sqm, Foshan Guangdong |
-| Experience | 22 years — rigid boxes of all shapes |
-| Daily Output | 1.7M rigid boxes including cylindrical |
-| Press Line | KBA 1050 4-color + Heidelberg 7+1 UV |
-| QC | 15 checkpoints from tube rolling to final assembly |
-| Certifications | ISO 9001, FSC |

@@ -3,8 +3,8 @@
 <h1 style="font-size:clamp(28px,5vw,36px);font-weight:700;line-height:1.2;color:#1d1d1f;margin-bottom:12px;">{{ .Title }}</h1>
 
 {{ if ne .Section "products" }}
-{{ if and .Date (ne (.Date.Format "2006") "0001") }}<p style="font-size:13px;color:#888;margin-bottom:20px;">{{ .Date.Format "January 2, 2006" }}</p>{{ end }}
-{{ with .Params.image }}<img src="{{ . }}" alt="{{ $.Title }}" loading="lazy" decoding="async" style="width:100%;aspect-ratio:2/1;object-fit:cover;border-radius:10px;margin-bottom:28px;">{{ else }}<div style="width:100%;aspect-ratio:2/1;border-radius:10px;margin-bottom:28px;background:linear-gradient(135deg,#0d1b3e,#1a3a6b,#1a56db);display:flex;align-items:center;justify-content:center;color:rgba(255,255,255,.3);font-size:14px;">{{ $.Title }}</div>{{ end }}
+{{ if and .Date (ne (.Date.Format "2006") "0001") }}<p style="font-size:14px;color:#666;margin-bottom:20px;">{{ .Date.Format "January 2, 2006" }}</p>{{ end }}
+{{ with .Params.image }}<img src="{{ . }}" alt="{{ $.Title }}" loading="lazy" decoding="async" style="width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:10px;margin-bottom:28px;">{{ else }}<div style="width:100%;aspect-ratio:16/9;border-radius:10px;margin-bottom:28px;background:linear-gradient(135deg,#0d1b3e,#1a3a6b,#1a56db);display:flex;align-items:center;justify-content:center;color:rgba(255,255,255,.3);font-size:14px;">{{ $.Title }}</div>{{ end }}
 {{ end }}
 
 {{ if eq .Section "products" }}
@@ -48,7 +48,7 @@
 <h3 style="font-size:18px;font-weight:700;margin-bottom:8px;color:#fff;">Get a Quote</h3>
 <p style="font-size:14px;opacity:.9;margin-bottom:24px;color:rgba(255,255,255,.85);">Free quote in 24 hours. Factory visits welcome.</p>
 <a href="/contact/" class="btn-cta" style="font-size:16px;padding:16px 36px;background:#fff;color:#1a56db!important;box-shadow:0 4px 16px rgba(0,0,0,.2);">Inquire Now →</a>
-<p style="font-size:12px;color:rgba(255,255,255,.7);margin-top:16px;">{{ .Site.Params.phone }}<br>{{ .Site.Params.email }}</p>
+<p style="font-size:13px;color:rgba(255,255,255,.7);margin-top:16px;">{{ .Site.Params.phone }}<br>{{ .Site.Params.email }}</p>
 </div>
 </div>
 {{ end }}
@@ -66,7 +66,7 @@
 {{ if ne .RelPermalink $.RelPermalink }}
 <div style="background:#fff;border:1px solid #e0e0e0;border-radius:8px;padding:12px;">
 <div style="font-size:12px;font-weight:600;margin-bottom:3px;"><a href="{{ .RelPermalink }}" style="color:#1a56db;">{{ .Title | truncate 50 }}</a></div>
-<div style="font-size:11px;color:#888;">MOQ {{ .Params.moq }}</div>
+<div style="font-size:13px;color:#666;">MOQ {{ .Params.moq }}</div>
 </div>
 {{ end }}{{ end }}
 </div>
@@ -77,7 +77,7 @@
 <h3 style="font-size:18px;font-weight:600;color:#1a56db;margin-bottom:8px;">Ready to Start Your Packaging Project?</h3>
 <p style="font-size:14px;color:#666;margin-bottom:16px;">Free consultation · Custom design · Factory-direct pricing</p>
 <a href="/contact/" class="btn-cta">Get a Free Quote</a>
-<p style="font-size:12px;color:#888;margin-top:12px;">Tel: {{ .Site.Params.phone }} | Email: {{ .Site.Params.email }}</p>
+<p style="font-size:14px;color:#666;margin-top:12px;">Tel: {{ .Site.Params.phone }} | Email: {{ .Site.Params.email }}</p>
 </div>
 {{ end }}
 </article>

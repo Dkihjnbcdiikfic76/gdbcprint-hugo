@@ -79,21 +79,3 @@ A: Yes, we offer 20+ woodgrain patterns (walnut, oak, mahogany, teak, rosewood, 
 **Q: What about the gold foil interior — will it wrinkle or peel?**
 
 A: Our gold foil interior uses hot-stamped gold foil on 120gsm coated paper, laminated with temperature-controlled rollers to prevent wrinkling. Adhesion is tested via 3M 610 tape test (no foil lift-off) and accelerated aging (72h at 57°C / 95% RH, no delamination). Edge-to-edge full-surface coverage with invisible seams. Silver and rose gold foil alternatives available.
-
-## Contact
-[Request free quote](/contact/) — response within 24 hours. Factory visits welcome.
-
-## Why Bincai
-
-| Feature | Detail |
-|---------|--------|
-| Experience | 22 years since 2003 |
-| Factory | 18,000m² (10,000+8,000 smart factory) with KBA & Heidelberg presses |
-| Quality | ISO 9001:2015 certified |
-| Eco | FSC certified sustainable materials |
-| Capacity | 1.7M+ color boxes + 220K+ gift boxes daily |
-| Clients | 200+ brands across 50+ countries |
-| Custom | Any size, color, finish, insert |
-| MOQ | 500-1000 pcs, trial orders accepted |
-| Free Sample | Free pre-production sample (freight collect) |
-| Shipping | Worldwide DHL/FedEx/UPS/Sea |

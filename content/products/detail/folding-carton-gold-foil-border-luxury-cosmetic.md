@@ -80,24 +80,3 @@ Luxury folding carton with a continuous gold foil stamped border and soft-touch 
 | **Scuff Resistance** | Internal | ≤5% ink/foil transfer after 50 double rubs against identical carton |
 | **Visual Inspection** | AQL 2.5 Level II | ISO 2859-1 sampling; 100% foil border continuity check |
 | **D65 Lighting** | ISO 3664 | Color + foil luster evaluation under standardized daylight |
-
-## Why Bincai
-
-| Differentiator | Detail |
-|---|---|
-| **22-Year Legacy** | Manufacturing luxury packaging since 2003 — serving cosmetics, fragrance, skincare, and spirits brands across 30+ countries |
-| **18,000 sqm Campus** | 18,000 sqm factory (10,000+8,000 smart factory) (commissioned 2025) in Foshan, Guangdong |
-| **Heidelberg Cylinder Stamper** | Dedicated foil stamping line — consistent coverage, sharp detail, no patchy results |
-| **Brass Die Fabrication** | In-house CNC brass die making — 3–5 day turnaround on new custom border designs |
-| **Heidelberg 7+1 UV** | Single-pass 7-color + UV for complex multi-process cartons — eliminates registration errors from multi-pass workflows |
-| **KBA 1050 4-Color** | High-speed offset for CMYK + PMS at 15,000 sheets/hour |
-| **ISO 9001 & FSC** | Certified quality management ensures batch-to-batch consistency; FSC Chain-of-Custody for responsible sourcing |
-| **1.7M Daily Output** | Scale without compromising foil stamping precision — proven process controls |
-| **Cosmetics Expertise** | Dedicated cosmetics packaging QC line — cleaner environment, stricter cosmetic-grade inspection |
-| **Free Samples** | Pre-production samples with actual foil die in 7–10 working days (freight collect) |
-| **Global Shipping** | FOB Foshan/Shenzhen; flat-pack for shipping efficiency; Amazon FBA-compliant outer cartons |
-
-## Contact
-
-Phone: +86-18934352881 (Mr. Zhou) | Email: qo82@icloud.com  
-MOQ 500 units. Design consultation and pre-production samples provided. Response within 24 hours. Factory visits welcome at No.6-7 Shunyuan North Rd, Wusha, Daliang, Shunde, Foshan, Guangdong.

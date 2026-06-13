@@ -28,9 +28,10 @@
 <div class="card prod-card" style="padding:0;">
 <img src="{{ $img }}" alt="{{ .Title }}" loading="lazy" decoding="async" style="width:100%;aspect-ratio:1;object-fit:cover;">
 <div style="padding:16px;">
-<h3 style="font-size:14px;font-weight:600;line-height:1.3;margin-bottom:6px;"><a href="{{ .RelPermalink }}" style="color:#1d1d1f;">{{ .Title | truncate 80 }}</a></h3>
-{{ with .Params.material }}<div style="font-size:12px;color:#888;margin-bottom:4px;">{{ . }}</div>{{ end }}
-<div style="font-size:12px;color:#1a56db;font-weight:600;">MOQ {{ .Params.moq }} · ISO 9001 · FSC</div>
+<h3 style="font-size:15px;font-weight:600;line-height:1.3;margin-bottom:6px;"><a href="{{ .RelPermalink }}" style="color:#1d1d1f;">{{ .Title | truncate 80 }}</a></h3>
+{{ with .Params.material }}<div style="font-size:13px;color:#777;margin-bottom:4px;">{{ . }}</div>{{ end }}
+<div style="font-size:13px;color:#1a56db;font-weight:600;">MOQ {{ .Params.moq }} · ISO 9001 · FSC</div>
+<a href="{{ .RelPermalink }}" style="display:inline-block;margin-top:10px;font-size:15px;font-weight:600;color:#fff;background:#e8613c;padding:10px 20px;border-radius:6px;text-decoration:none;transition:.2s;" onmouseover="this.style.background='#d15532'" onmouseout="this.style.background='#e8613c'">View Details →</a>
 </div>
 </div>
 {{ end }}

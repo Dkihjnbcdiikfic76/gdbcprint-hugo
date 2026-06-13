@@ -73,27 +73,3 @@ The Bincai Pearl Necklace Display Box is engineered for jewelry retailers who ne
 | **Surface Inspection** | AQL 2.5 (ISO 2859-1) | 100% visual for foil sharpness, velvet nap consistency, satin stitching |
 | **Greyboard Moisture** | TAPPI T-412 | 6–8% moisture content at assembly |
 | **Pack-out Audit** | Internal QJ-007 | Individual polybag + silica gel pack; master carton drop-tested pre-shipment |
-
-## Why Bincai
-
-| Differentiator | Detail |
-|---|---|
-| **22-Year Legacy** | Manufacturing since 2003 — 500+ global jewelry brands served |
-| **18,000 sqm Facility** | 10,000 sqm original factory + 8,000 sqm smart factory (2025) in Foshan, Guangdong |
-| **KBA + Heidelberg** | German-engineered offset presses; ±0.1mm foil registration on velvet surfaces |
-| **In-House Satin Work** | Satin pillows cut, sewn, and assembled under one roof — no third-party textile dependency |
-| **ISO 9001 & FSC** | Quality management + sustainable sourcing; REACH-compliant adhesives for EU markets |
-| **1.7M + 220K+ Daily** | 1.7M color boxes + 220,000+ gift boxes daily capacity post-2025 expansion |
-| **Free Samples** | 3–5 day pre-production samples with actual foil stamping and satin pillow |
-| **80+ Skilled Staff** | Dedicated jewelry packaging team with velvet wrapping and foil registration expertise |
-
-## Contact
-
-- **MOQ**: 500 units (standard), 200 units (trial)
-- **Sample**: 3–5 day pre-production samples with foil and satin pillow
-- **Lead Time**: 15–25 days (standard), 7–10 days (expedited)
-- **Foil Die**: $80–150 one-time per design
-- **Phone**: +86-18934352881 (Mr. Zhou)
-- **Email**: qo82@icloud.com
-- **Address**: No.6-7 Shunyuan North Rd, Wusha, Daliang, Shunde, Foshan, Guangdong
-- **Factory Visit**: Welcome — schedule via email or phone

@@ -78,21 +78,3 @@ A: We customize size (from ring boxes to multi-tier displays), material (velvet,
 
 **Q: How does Bincai ensure quality for jewelry packaging?**
 A: We follow a 15-point QC checklist from material inspection (board thickness ±0.1mm) through final pack-out audit. Every box undergoes interior flocking density check, magnetic pull-force testing (≥2.5N), hinge durability cycling (500+ opens), and AQL 2.5 statistical sampling per ISO 2859-1 before shipment.
-
-## Contact
-[Request free quote](/contact/) — response within 24 hours. Free samples available. Factory visits welcome.
-
-## Why Bincai
-
-| Feature | Detail |
-|---------|--------|
-| Experience | 22 years since 2003 |
-| Factory | 18,000m² (10,000+8,000 smart factory) with KBA & Heidelberg presses |
-| Quality | ISO 9001:2015 certified |
-| Eco | FSC certified sustainable materials |
-| Capacity | 1.7M+ color boxes + 220K+ gift boxes daily |
-| Clients | 200+ brands across 50+ countries |
-| Custom | Any size, color, finish, insert |
-| MOQ | 500-1000 pcs, trial orders accepted |
-| Free Sample | Free pre-production sample (freight collect) |
-| Shipping | Worldwide DHL/FedEx/UPS/Sea |

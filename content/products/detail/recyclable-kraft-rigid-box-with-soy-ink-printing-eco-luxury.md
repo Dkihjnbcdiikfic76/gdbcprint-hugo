@@ -81,20 +81,3 @@ A: Rigid greyboard construction (1200–1800gsm) provides equivalent crush resis
 
 **Q: What certifications do you hold for eco packaging?**
 A: FSC Chain-of-Custody, ISO 9001:2015, EN 13432 compostability certification, American Soybean Association soy ink seal, EN 71-3 toy safety, and FDA 21 CFR 175.105 for indirect food contact.
-## Contact
-[Request free quote](/contact/) — response within 24 hours. Ask about our eco-packaging audit program.
-
-## Why Bincai
-
-| Feature | Detail |
-|---------|--------|
-| Experience | 22 years since 2003 |
-| Factory | 18,000m² (10,000+8,000 smart factory) with KBA & Heidelberg presses |
-| Quality | ISO 9001:2015 certified |
-| Eco | FSC certified sustainable materials |
-| Capacity | 1.7M+ color boxes + 220K+ gift boxes daily |
-| Clients | 200+ brands across 50+ countries |
-| Custom | Any size, color, finish, insert |
-| MOQ | 500-1000 pcs, trial orders accepted |
-| Free Sample | Free pre-production sample (freight collect) |
-| Shipping | Worldwide DHL/FedEx/UPS/Sea |

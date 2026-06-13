@@ -75,20 +75,3 @@ A: E-flute (1.2mm) is thinner and more compact — ideal for lightweight books a
 
 **Q: Can you print my logo on the mailer exterior?**
 A: Yes. Flexo printing (1-3 colors) directly on kraft is the most economical option for branding. For full-color exterior printing we offer litho-laminated kraft (offset-printed paper sheet laminated onto corrugated), which delivers photo-quality brand presentation.
-## Contact
-[Request free quote](/contact/) — response within 24 hours. Factory visits welcome.
-
-## Why Bincai
-
-| Feature | Detail |
-|---------|--------|
-| Experience | 22 years since 2003 |
-| Factory | 18,000m² (10,000+8,000 smart factory) with KBA & Heidelberg presses |
-| Quality | ISO 9001:2015 certified |
-| Eco | FSC certified sustainable materials |
-| Capacity | 1.7M boxes daily output |
-| Clients | 200+ brands across 50+ countries |
-| Custom | Any size, flute, print, closure |
-| MOQ | 500-1000 pcs, trial orders accepted |
-| Free Sample | Free pre-production sample (freight collect) |
-| Shipping | Worldwide DHL/FedEx/UPS/Sea |

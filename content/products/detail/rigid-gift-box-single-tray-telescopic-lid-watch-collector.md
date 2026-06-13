@@ -94,21 +94,4 @@ A: Yes — the lid interior is an untapped branding surface that many luxury wat
 **Q: What is the lead time and shipping method for watch collector boxes?**
 
 A: Standard production lead time is 15-20 days for existing tooling and stock materials. Custom tray tooling adds 5-7 days. Custom foil or flocking color adds 3-5 days. Pre-production samples ship in 3-5 days. Boxes are flat-packed (lids nested) for ocean freight efficiency — approximately 30% more units per pallet versus assembled. Bincai produces 1.7M boxes daily, ensuring production capacity for orders of any scale — from 500-piece boutique runs to 50,000+ container loads.
-## Contact
-
 MOQ 500 units. Material swatches (art paper, leatherette, flocking colors) and foil samples available. Sample within 5 days. Lead time 15-25 days. Phone: +86-18934352881. Email: qo82@icloud.com.
-
-## Why Bincai
-
-| Feature | Detail |
-|---------|--------|
-| Experience | 22 years since 2003 |
-| Factory | 18,000m² (10,000+8,000 smart factory) with KBA & Heidelberg presses |
-| Quality | ISO 9001:2015 certified |
-| Eco | FSC certified sustainable materials |
-| Capacity | 1.7M+ color boxes + 220K+ gift boxes daily |
-| Clients | 200+ brands across 50+ countries |
-| Custom | Any size, color, finish, insert |
-| MOQ | 500-1000 pcs, trial orders accepted |
-| Free Sample | Free pre-production sample (freight collect) |
-| Shipping | Worldwide DHL/FedEx/UPS/Sea |

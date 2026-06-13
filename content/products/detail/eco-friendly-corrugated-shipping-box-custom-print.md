@@ -59,12 +59,3 @@ Our eco-friendly corrugated shipping boxes combine robust protection with sustai
 | **Sample** | 3-5 working days |
 | **Production** | 7-15 working days |
 | **Shipping** | FOB Foshan/Shenzhen, flat-packed for freight efficiency |
-
-## Why Bincai
-
-- **Truly Sustainable**: FSC chain-of-custody from forest to box, soy-ink printing, zero plastic tape option
-- **Structural Engineering**: In-house designers optimize flute selection and box geometry to minimize material while maximizing protection
-- **ISTA Certified**: International Safe Transit Association testing ensures your products survive the journey
-- **Flat-Pack Efficiency**: All corrugated boxes ship flat to reduce freight costs and warehouse space
-
-[Request a free quote →](/contact/)

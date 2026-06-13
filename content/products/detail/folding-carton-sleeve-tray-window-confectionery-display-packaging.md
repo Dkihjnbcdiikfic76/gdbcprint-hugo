@@ -75,20 +75,3 @@ A: Standard PET windows are technically recyclable but should be separated from 
 
 **Q: How does the sleeve stay in place during shipping?**
 A: The sleeve-tray fit is precision-engineered with controlled friction. For shipping we recommend a shrink-wrap overwrap or a small clear adhesive dot seal, both of which we can apply in-line.
-## Contact
-[Request free quote](/contact/) — response within 24 hours. Factory visits welcome.
-
-## Why Bincai
-
-| Feature | Detail |
-|---------|--------|
-| Experience | 22 years since 2003 |
-| Factory | 18,000m² (10,000+8,000 smart factory) with KBA & Heidelberg presses |
-| Quality | ISO 9001:2015 certified |
-| Eco | FSC certified sustainable materials |
-| Capacity | 1.7M boxes daily output |
-| Clients | 200+ brands across 50+ countries |
-| Custom | Any size, window, finish, liner |
-| MOQ | 1000-3000 pcs, trial orders accepted |
-| Free Sample | Free pre-production sample (freight collect) |
-| Shipping | Worldwide DHL/FedEx/UPS/Sea |

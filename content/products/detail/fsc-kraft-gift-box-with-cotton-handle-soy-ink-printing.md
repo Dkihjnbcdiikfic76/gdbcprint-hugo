@@ -55,15 +55,3 @@ Perfect for: organic skincare brands, zero-waste cosmetics, sustainable food pac
 ## Production Quality
 
 In-line QC: board caliper verification, FSC chain-of-custody tracking, soy ink adhesion test, handle knot pull test (minimum 5kg), glue bond strength, dimensional accuracy (±1mm), and final appearance inspection under natural light.
-
-## Why Bincai
-
-- **22 years** manufacturing since 2003 — evolving with sustainability demands
-- **FSC chain-of-custody certified** — traceable from forest to finished box
-- **ISO 9001** quality management — consistent eco-friendly production
-- **18,000 sqm factory (10,000+8,000 smart factory)** with energy-efficient LED lighting and waste recycling programs
-- **Soy-based ink** printing across all KBA offset presses
-- **Free pre-production samples** in 3-5 working days
-- **FOB Foshan/Shenzhen** — global shipping with sustainable logistics partners
-
-Contact +86-18934352881 or qo82@icloud.com for design consultation and sustainability documentation.

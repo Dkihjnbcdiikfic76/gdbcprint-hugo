@@ -82,17 +82,3 @@ FSC-certified kraft paper hinged-lid box with compostable PLA window film for fo
 | Drop test (packed) | ISTA 3A — 0.76m drop on concrete, packed with product simulant | No structural failure |
 | FSC chain of custody | Document audit per shipment | FSC-STD-40-004 compliance |
 | ISO 9001 | Process documentation at each station | Full batch traceability |
-
-## Why Bincai for Sustainable Packaging
-- **22 years** of paper packaging expertise since 2003 — pioneering eco-packaging solutions before sustainability was a market requirement
-- **End-to-end compostable** — the only Guangdong manufacturer offering a complete solution: FSC board + PLA window + soy ink + water-based coating + compostable foil, all certified
-- **EN 13432 certified** PLA window film from NatureWorks Ingeo™ — industrial compost within 90 days, no microplastic residue
-- **FSC Chain of Custody** certified (SGSHK-COC-008796) — full material traceability from responsibly managed forests
-- **Food-grade compliance** — FDA 21 CFR, EU (EC) No. 1935/2004, and GB 9685-2016 for global food contact markets
-- **Factory** capacity: 18,000 sqm (Foshan HQ) + 8,000 sqm (satellite facility) = 1.7M boxes/day
-- **Soy-based ink** (Müller Martini certified) — low-VOC, heavy-metal-free, renewable content — better for composting facilities than petroleum inks
-- **KBA 1050 offset printing** in-house for consistent quality on kraft board with soy-based inks
-- Full in-house: pre-press CTP → KBA printing → die-cutting → window patching → folding/gluing → QC → packing — no subcontractor delays
-- Direct factory pricing with no middlemen — competitive rates for sustainable packaging at scale
-
-**Guangdong Bincai Color Printing Co., Ltd.** — 22 years. 18,000 sqm (10,000+8,000 smart factory). ISO 9001 & FSC certified. Sustainable packaging that returns to the earth.

@@ -85,19 +85,3 @@ Every rigid box passes through this 15-stage QC gate system:
 13. **Hinge Test** — 500 open/close cycles without delamination
 14. **AQL Sampling** — ISO 2859-1, Level II, AQL 2.5 for major defects
 15. **Pack-Out Audit** — Final 100% visual check before carton sealing
-
-## Why Bincai
-
-| Differentiator | Detail |
-|---|---|
-| **22-Year Legacy** | Rigid box specialist since 2003 — 500+ global luxury brands served |
-| **18,000 sqm** | 18,000 sqm (10,000+8,000 smart factory) (2025 expansion) |
-| **Heidelberg 7+1 UV** | Premium color fidelity, instant UV curing |
-| **15 QC Checkpoints** | Multi-gate quality system from material to pack-out |
-| **ISO 9001 & FSC** | Certified quality management + responsible sourcing |
-| **In-House Tooling** | Embossing dies, foil stamping plates produced in-house |
-| **Free Samples** | 3–5 day pre-production samples (freight collect) |
-
-## Contact
-
-MOQ 500 units. Pricing from $0.80/unit (dependent on size, board thickness, finishing complexity). Free pre-production samples with embossed logo and foil stamping within 3–5 business days. Factory visits welcome in Foshan, Guangdong — see our Heidelberg 7+1 UV press and 15-point QC system in action. Contact Mr. Zhou at +86-18934352881 or qo82@icloud.com.

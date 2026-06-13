@@ -53,8 +53,6 @@ Guangdong Bincai Color Printing Co., Ltd. operates a dedicated jewelry packaging
 
 Our jewelry box line integrates printing, foil stamping, satin lining insertion, and assembly in a continuous workflow under one roof. The Heidelberg 7+1 UV press enables premium coating effects — soft-touch for a velvety finish, spot UV for contrast gloss, or matte for understated elegance — without additional offline processing delays.
 
-## Contact
-
 For a custom quote or free sample of your jewelry packaging project, contact our sales team. We provide complimentary 3D structural design, material recommendations, and digital proofs within 24 hours.
 
 - **Email:** qo82@icloud.com
@@ -75,17 +73,3 @@ A: Absolutely. The rigid greyboard construction (800-1600 gsm) provides crush re
 
 **Q: What certifications does Bincai hold for jewelry packaging?**
 A: Bincai is ISO 9001:2015 certified for quality management and FSC Chain-of-Custody certified for sustainable paper sourcing. All materials — greyboard, art paper, satin fabric, and inks — are sourced from certified suppliers. EN 71-3 compliance (safe for jewelry contact) available upon request.
-## Why Bincai
-
-| Feature | Detail |
-|---------|--------|
-| Experience | 22 years since 2003 |
-| Factory | 18,000m² (10,000+8,000 smart factory) with KBA & Heidelberg presses |
-| Quality | ISO 9001:2015 certified |
-| Eco | FSC certified sustainable materials |
-| Capacity | 1.7M+ color boxes + 220K+ gift boxes daily |
-| Clients | 200+ brands across 50+ countries |
-| Custom | Any size, color, finish, insert |
-| MOQ | 500-1000 pcs, trial orders accepted |
-| Free Sample | Free pre-production sample (freight collect) |
-| Shipping | Worldwide DHL/FedEx/UPS/Sea |

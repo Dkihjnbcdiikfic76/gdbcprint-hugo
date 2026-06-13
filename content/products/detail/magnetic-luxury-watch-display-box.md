@@ -61,18 +61,3 @@ The Bincai Magnetic Luxury Watch Display Box delivers premium presentation for h
 | Drop Test | ISTA 1A | 10-drop sequence, 760mm |
 | Print Registration | Internal | ±0.15mm |
 | Hinge Durability | Internal | 10,000+ open/close cycles |
-
-## Why Bincai
-
-| Differentiator | Detail |
-|---|---|
-| **22-Year Legacy** | Manufacturing since 2003 — luxury packaging specialist |
-| **18,000 sqm Facility** | 18,000 sqm (10,000+8,000 smart factory) |
-| **Heidelberg + KBA** | German-engineered offset presses for premium print quality |
-| **Precision Focus** | ±0.15mm print registration, ±0.5mm cavity tolerance |
-| **ISO 9001 & FSC** | Quality management + sustainable sourcing certification |
-| **Free Samples** | 3–5 day pre-production samples (freight collect) |
-
-## Contact
-
-MOQ 500 units. Custom cavity tooling available. Free sample within 5 days. Lead time 15–25 days. Contact: +86-18934352881 or qo82@icloud.com. Factory visits welcome at Shunde, Foshan, Guangdong.

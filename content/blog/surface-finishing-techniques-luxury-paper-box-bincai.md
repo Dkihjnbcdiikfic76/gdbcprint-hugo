@@ -2,7 +2,7 @@
 title: "8 Surface Finishing Techniques That Transform Paper Boxes into Luxury Packaging"
 date: 2026-06-11
 draft: false
-image: "/images/carousel-factory.webp"
+image: "/images/hero-factory.webp"
 description: "From matte lamination to hot foil stamping — how Bincai's 18,000 sqm factory (10,000+8,000 smart factory) combines KBA 1050 offset, Heidelberg 7+1 UV, and post-press finishing to produce 1.7M premium paper boxes daily. ISO 9001 & FSC certified, 22 years experience."
 
 ---
@@ -116,4 +116,4 @@ Many packaging suppliers outsource finishing to third-party post-press shops —
 
 *Contact Guangdong Bincai Color Printing to discuss surface finishing for your next packaging project. Samples available — we'll produce a finished mockup with your choice of coatings so you can see and touch the result before committing to production.*
 
-<a href="https://bincaipaperbox.en.made-in-china.com/" target="_blank" rel="noopener" style="display:inline-block;background:#ff6b35;color:#fff;padding:8px 20px;border-radius:6px;text-decoration:none;font-weight:600;font-size:13px;"> View Full Catalog on Made-in-China.com →</a>
+<a href="https://bincaipaperbox.en.made-in-china.com/" target="_blank" rel="noopener" class="btn-mic">View Full Catalog on Made-in-China.com →</a>

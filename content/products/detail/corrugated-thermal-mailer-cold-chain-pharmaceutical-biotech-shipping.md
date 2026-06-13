@@ -98,21 +98,4 @@ A: Yes — the same box construction supports frozen shipping with a different g
 **Q: What are the lead time, MOQ, and regulatory compliance considerations?**
 
 A: Standard lead time is 15-20 days for existing validated configurations and stock materials. Custom size requiring new die-board tooling adds 5-7 days. New ISTA thermal validation for custom payload adds 14-21 days. MOQ is 500 units for standard configurations, 1000+ for custom thermal liner or new ISTA validation. Our facility is ISO 9001:2015 certified with full batch traceability — GDP (Good Distribution Practice) documentation package available including: certificate of conformance per batch, ISTA 7D test reports, material certificates (board, liner, adhesive), and chain-of-custody documentation. We also support 21 CFR Part 11 compliant electronic documentation for FDA-regulated products.
-## Contact
-
 MOQ 500 units. ISTA 7D thermal validation reports, liner samples, and gel-pack configuration guides available. Sample within 5 days. Lead time 15-40 days (depending on validation requirements). Phone: +86-18934352881. Email: qo82@icloud.com.
-
-## Why Bincai
-
-| Feature | Detail |
-|---------|--------|
-| Experience | 22 years since 2003 |
-| Factory | 18,000m² (10,000+8,000 smart factory) with KBA & Heidelberg presses |
-| Quality | ISO 9001:2015 certified |
-| Eco | FSC certified sustainable materials |
-| Capacity | 1.7M+ color boxes + 220K+ gift boxes daily |
-| Clients | 200+ brands across 50+ countries |
-| Custom | Any size, color, finish, insert |
-| MOQ | 500-1000 pcs, trial orders accepted |
-| Free Sample | Free pre-production sample (freight collect) |
-| Shipping | Worldwide DHL/FedEx/UPS/Sea |

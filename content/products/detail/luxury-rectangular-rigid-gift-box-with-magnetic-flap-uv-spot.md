@@ -103,17 +103,3 @@ A: Standard MOQ is 500–1000 units per design. We offer free pre-production sam
 
 **Q: Is this box suitable for international e-commerce shipping?**
 A: Yes. The 2.5mm greyboard construction provides robust crush resistance. We test to ISTA 1A standards (1.0m drop test). The rigid structure outperforms folding cartons for protecting glass bottles, electronics, and delicate items during international transit. We ship worldwide via DHL/FedEx/UPS/Sea from our Foshan logistics hub.
-## Why Bincai
-
-| Feature | Detail |
-|---------|--------|
-| Experience | 22 years since 2003 |
-| Factory | 18,000m² (10,000+8,000 smart factory) with KBA & Heidelberg presses |
-| Quality | ISO 9001:2015 certified |
-| Eco | FSC certified sustainable materials |
-| Capacity | 1.7M+ color boxes + 220K+ gift boxes daily |
-| Clients | 200+ brands across 50+ countries |
-| Custom | Any size, color, finish, insert |
-| MOQ | 500-1000 pcs, trial orders accepted |
-| Free Sample | Free pre-production sample (freight collect) |
-| Shipping | Worldwide DHL/FedEx/UPS/Sea |

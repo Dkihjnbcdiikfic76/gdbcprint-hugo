@@ -77,16 +77,3 @@ Every jewelry box passes through this QC gate system:
 13. **Final Assembly** — Lid alignment ±0.5mm; closure tension consistent across batch
 14. **Cosmetic Audit** — 100% visual under 2000 lux lighting; zero surface defects
 15. **Pack-Out** — Individual polybag + bubble wrap; master carton drop-tested per ISTA 1A
-
-## Why Bincai for Jewelry Packaging
-
-- **22 years** of rigid box manufacturing since 2003
-- **18,000 sqm** total facility: 10,000 sqm main + 8,000 sqm smart factory (2025)
-- **80+ skilled craftspeople** — hand-finishing expertise for luxury brands
-- **220,000+ rigid boxes/day** ensuring reliable high-volume fulfillment
-- ISO 9001:2015 & FSC Chain-of-Custody certified — full traceability
-- Free physical samples within 5–7 business days; MOQ 500 units
-- In-house EVA foam die-cutting and velvet flocking — no outsourced inserts
-- Third-party inspection supported: SGS, Bureau Veritas, Intertek
-
-Contact: +86-18934352881 or qo82@icloud.com for a free sample kit and quotation.

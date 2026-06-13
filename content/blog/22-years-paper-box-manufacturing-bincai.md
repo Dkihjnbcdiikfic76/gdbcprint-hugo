@@ -2,7 +2,7 @@
 title: "22 Years of Paper Box Manufacturing — The Bincai Story"
 date: 2026-05-20
 draft: false
-image: "/images/carousel-factory.webp"
+image: "/images/hero-factory.webp"
 description: "22 Years of Paper Box Manufacturing — The Bincai Story - Guangdong Bincai Color Printing, 22 years paper box manufacturer."
 
 ---
@@ -17,4 +17,4 @@ Our ISO 9001 and FSC certifications demonstrate our commitment to quality and su
 
 [Contact us](/contact/) to start your packaging project.
 
-<a href="https://bincaipaperbox.en.made-in-china.com/" target="_blank" rel="noopener" style="display:inline-block;background:#ff6b35;color:#fff;padding:8px 20px;border-radius:6px;text-decoration:none;font-weight:600;font-size:13px;">View Full Catalog on Made-in-China.com →</a>
+<a href="https://bincaipaperbox.en.made-in-china.com/" target="_blank" rel="noopener" class="btn-mic">View Full Catalog on Made-in-China.com →</a>

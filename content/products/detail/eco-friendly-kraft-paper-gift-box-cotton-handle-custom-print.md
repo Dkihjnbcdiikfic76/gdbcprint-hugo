@@ -57,15 +57,3 @@ Eco-friendly kraft paper gift box with natural cotton rope handle and custom pri
 | Glue Bond | Internal | 100% auto-lock bottom tested for correct locking |
 | Drop Test | ISTA 1A | 10-drop sequence, 760mm |
 | Material Traceability | FSC | 100% chain-of-custody documentation |
-
-## Why Bincai for Kraft Eco Boxes
-| Differentiator | Detail |
-|---|---|
-| **22-Year Legacy** | Manufacturing since 2003, 500+ global brands served |
-| **18,000 sqm Facility** | 10,000 sqm original + 8,000 sqm smart factory (2025) |
-| **FSC Certified** | Full chain-of-custody for sustainable packaging |
-| **Soy-Based Inks** | Low-VOC, eco-friendly, food-safe compatible |
-| **Heidelberg + KBA** | German-engineered offset presses |
-| **Free Samples** | 5-7 day pre-production turnaround |
-## Contact
-[Request free quote](/contact/) — response within 24 hours. Factory visits welcome.

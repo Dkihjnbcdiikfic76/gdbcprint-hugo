@@ -74,26 +74,3 @@ Our magnetic closure boxes undergo a comprehensive 12-step QC process:
 10. **Drop & Vibration** — ISTA 1A transit simulation: 10-drop sequence + 1-hour vibration table test
 11. **Environmental Stress** — 48h at 40°C/85% RH (tropical shipping simulation), cold cycle at -20°C (24h)
 12. **Final Inspection** — AQL 2.5 sampling under D65 lighting, barcode verification, carton labeling audit
-
-## Why Bincai
-
-| Differentiator | Detail |
-|---|---|
-| **22-Year Specialist** | Dedicated paper packaging manufacturer since 2003 — not a general printer |
-| **18,000 sqm Integrated Facility (10,000+8,000 smart factory)** | Prepress → printing → die-cutting → gluing → magnetic assembly → QC all in-house |
-| **KBA 1050 + Heidelberg 7+1** | German-engineered offset presses for best-in-class CMYK reproduction |
-| **1.7 Million Boxes Daily** | Industrial capacity supports enterprise-scale orders with consistent quality |
-| **ISO 9001:2015 + FSC** | Internationally audited quality management and sustainable sourcing |
-| **Free Structural Design** | In-house dieline engineers design your box from concept to production file |
-| **3D Digital Proofing** | 24-hour turnaround on photorealistic 3D renders before sampling |
-| **Free Pre-Production Samples** | Physical samples shipped in 5–7 business days |
-| **Low 500 MOQ** | Startup-friendly minimums with competitive volume pricing |
-| **Global Shipping** | FOB Foshan/Shenzhen, flat-packed for container efficiency, Amazon FBA compliant |
-
-## Contact
-
-- **MOQ:** 500–1000 units per design
-- **Pricing:** $0.25–$3.00 per unit (varies by size, material, finishes)
-- **Samples:** Free physical samples within 5–7 business days
-- **Lead Time:** 10–15 business days for bulk production
-- **Inquiry:** Contact us with your dimensions, artwork, and finish requirements for a custom quotation.

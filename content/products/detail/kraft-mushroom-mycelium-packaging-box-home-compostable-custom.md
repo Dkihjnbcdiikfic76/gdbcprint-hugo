@@ -94,21 +94,4 @@ A: Yes — this is the unique advantage of grown-to-shape mycelium packaging. We
 **Q: What certifications does the mushroom packaging carry for compostability claims?**
 
 A: Our mycelium packaging is certified to EN 13432 (European standard for industrially compostable packaging) and carries the TÜV Austria OK Compost HOME certification — the gold standard proving home compostability without industrial facilities. Additionally, the kraft outer wrap is FSC-certified, and the soy-based inks are certified for food-safe indirect contact. We also provide a lifecycle analysis (LCA) report showing the carbon-negative profile: each kg of mycelium packaging sequesters approximately 0.3 kg CO₂ equivalent during the growth phase.
-## Contact
-
 MOQ 500 units. Mycelium texture samples, density swatches, and compostability certificates available. Sample within 7 days (growth cycle). Lead time 18-25 days. Phone: +86-18934352881. Email: qo82@icloud.com.
-
-## Why Bincai
-
-| Feature | Detail |
-|---------|--------|
-| Experience | 22 years since 2003 |
-| Factory | 18,000m² (10,000+8,000 smart factory) with KBA & Heidelberg presses |
-| Quality | ISO 9001:2015 certified |
-| Eco | FSC certified sustainable materials |
-| Capacity | 1.7M+ color boxes + 220K+ gift boxes daily |
-| Clients | 200+ brands across 50+ countries |
-| Custom | Any size, color, finish, insert |
-| MOQ | 500-1000 pcs, trial orders accepted |
-| Free Sample | Free pre-production sample (freight collect) |
-| Shipping | Worldwide DHL/FedEx/UPS/Sea |

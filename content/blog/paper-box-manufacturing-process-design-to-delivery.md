@@ -2,7 +2,7 @@
 title: "From Design to Delivery: How a Custom Paper Box Is Made at Bincai"
 date: 2026-06-10
 draft: false
-image: "/images/carousel-factory.webp"
+image: "/images/hero-factory.webp"
 description: "A step-by-step walkthrough of Bincai's 18,000 sqm factory (10,000+8,000 smart factory) custom paper box manufacturing process — design, prepress, offset printing (KBA 1050 + Heidelberg 7+1 UV), die-cutting, gluing, and global shipping."
 
 ---
@@ -84,4 +84,4 @@ At 1.7 million boxes per day and 22 years of continuous operation, Bincai has re
 
 [Request samples or a quote →](/contact/)
 
-<a href="https://bincaipaperbox.en.made-in-china.com/" target="_blank" rel="noopener" style="display:inline-block;background:#ff6b35;color:#fff;padding:8px 20px;border-radius:6px;text-decoration:none;font-weight:600;font-size:13px;">View Full Catalog on Made-in-China.com →</a>
+<a href="https://bincaipaperbox.en.made-in-china.com/" target="_blank" rel="noopener" class="btn-mic">View Full Catalog on Made-in-China.com →</a>

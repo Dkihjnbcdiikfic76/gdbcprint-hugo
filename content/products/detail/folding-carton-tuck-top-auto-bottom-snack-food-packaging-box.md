@@ -74,20 +74,3 @@ A: Yes. Our auto-lock bottom design is engineered for products up to 500g in sta
 
 **Q: Can you add a resealable feature?**
 A: Yes. Options include a tear-strip with adhesive reseal strip, a press-to-close tab, or a tuck-top with extended flap for repeated opening/closing.
-## Contact
-[Request free quote](/contact/) — response within 24 hours. Factory visits welcome.
-
-## Why Bincai
-
-| Feature | Detail |
-|---------|--------|
-| Experience | 22 years since 2003 |
-| Factory | 18,000m² (10,000+8,000 smart factory) with KBA & Heidelberg presses |
-| Quality | ISO 9001:2015 certified |
-| Eco | FSC certified sustainable materials |
-| Capacity | 1.7M boxes daily output |
-| Clients | 200+ brands across 50+ countries |
-| Custom | Any size, finish, liner, window |
-| MOQ | 1000-3000 pcs, trial orders accepted |
-| Free Sample | Free pre-production sample (freight collect) |
-| Shipping | Worldwide DHL/FedEx/UPS/Sea |

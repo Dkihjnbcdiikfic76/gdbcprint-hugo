@@ -59,12 +59,3 @@ Our custom folding cartons deliver premium shelf presence with vibrant CMYK offs
 | **Sample** | 3-5 working days |
 | **Production** | 7-15 working days |
 | **Shipping** | FOB Foshan/Shenzhen, 50+ countries |
-
-## Why Bincai
-
-- **Color Accuracy**: Delta-E under 2.0 across entire production run
-- **Structural Design**: In-house team optimizes die-lines for your product dimensions
-- **Scalable**: From 500 prototypes to 500,000 monthly production
-- **Export Ready**: ISTA-compliant testing, FSC documentation for EU/NA markets
-
-[Request a free quote →](/contact/)

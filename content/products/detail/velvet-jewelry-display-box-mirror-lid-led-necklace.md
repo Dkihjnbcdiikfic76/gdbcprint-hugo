@@ -84,36 +84,3 @@ Luxurious velvet jewelry display box with an integrated full-lid mirror and auto
 | **Drop Test** | ISTA 1A | 10 drops from 760mm — no mirror crack, LED functional, magnet engaged |
 | **Visual Inspection** | AQL 2.5 Level II | ISO 2859-1 sampling; 100% LED + mirror inspection |
 | **D65 Lighting** | ISO 3664 | Color evaluation under standardized daylight |
-
-## Why Bincai
-
-| Differentiator | Detail |
-|---|---|
-| **22-Year Legacy** | Manufacturing since 2003 — 500+ global jewelry, cosmetics, and luxury brands served |
-| **18,000 sqm Campus** | 18,000 sqm factory (10,000+8,000 smart factory, expanded 2025) in Foshan, Guangdong |
-| **Electronics Integration** | Proven LED/reed-switch assembly — not a packaging-only factory; we handle electro-mechanical integration in-house |
-| **Heidelberg 7+1 UV** | Precision offset for multi-color exterior wraps with inline UV coating |
-| **KBA 1050 4-Color** | High-volume CMYK offset at 15,000 sheets/hour |
-| **ISO 9001 & FSC** | Certified quality management (ISO 9001:2015) + sustainable sourcing (FSC C-o-C) |
-| **1.7M Daily Output** | Scale without sacrificing the manual QC each jewelry box requires |
-| **Jewelry Expertise** | Dedicated jewelry packaging line — velvet handling, mirror insertion, LED testing all in controlled clean environment |
-| **Free Samples** | Pre-production samples in 5–7 working days (freight collect) |
-| **Global Shipping** | FOB Foshan/Shenzhen; branded outer carton with jewelry-safe void fill |
-
-## Contact
-
-Phone: +86-18934352881 (Mr. Zhou) | Email: qo82@icloud.com  
-MOQ 500 units. Trial orders with sample approval before production. Response within 24 hours. Factory visits welcome at No.6-7 Shunyuan North Rd, Wusha, Daliang, Shunde, Foshan, Guangdong.
-## FAQ
-
-**Q: How long does the LED battery last in the jewelry display box?**
-A: The standard CR2032 coin cell battery provides 50+ hours of continuous illumination. For extended use, the CR2450 option delivers 200+ hours. Each box includes an auto-off feature (30 seconds) to prevent battery drain if the lid is left open. Replacement is tool-free — the battery housing is accessible behind the velvet insert.
-
-**Q: Can the mirror lid be customized with our brand logo?**
-A: Yes — Bincai offers laser-etched branding directly onto the 2mm glass mirror. The etching is permanent, scratch-resistant, and can include your logo, decorative border, or any custom pattern. We use precision laser etching at our Foshan factory to ensure crisp edges and consistent quality across every unit in your order.
-
-**Q: What is the minimum order quantity (MOQ) for LED mirror jewelry boxes?**
-A: Standard configurations start at 500 units. For custom LED color temperature, multi-material exterior, or custom-sized mirror inserts, the MOQ is 1,000 units. Bincai offers tiered pricing at 1,000 / 3,000 / 5,000 / 10,000 units. We also accept trial orders with pre-production sample approval before mass production.
-
-**Q: Are these jewelry boxes suitable for international shipping?**
-A: Absolutely. The box passes ISTA 1A drop testing — 10 drops from 760mm with no mirror crack, LED damage, or magnet disengagement. The rigid 1200-1600gsm greyboard construction and custom die-cut insert keep the jewelry secure during transit. We ship worldwide from Foshan/Shenzhen via DHL, FedEx, UPS, or sea freight with branded outer cartons and jewelry-safe void fill.

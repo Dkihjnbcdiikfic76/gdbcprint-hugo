@@ -84,21 +84,3 @@ A: Yes, all our corrugated mailers undergo ISTA 1A (10-drop sequence from 760mm)
 **Q: What is the lead time for custom corrugated shipping boxes?**
 
 A: Standard configurations (flexo-printed, B/C-flute single-wall): 7–12 working days. Offset litho-laminated configurations (white-top with CMYK): 12–18 working days. Repeat orders with existing tooling: 5–7 working days. We ship worldwide via DHL/FedEx/UPS (express) or sea freight (economy) from our 18,000 sqm factory (10,000+8,000 smart factory) in Foshan, Guangdong.
-
-## Contact
-[Request free quote](/contact/) — response within 24 hours. Factory visits welcome. Send us your product dimensions and shipping requirements for an ISTA-tested sample.
-
-## Why Bincai
-
-| Feature | Detail |
-|---------|--------|
-| Experience | 22 years since 2003 |
-| Factory | 18,000m² (10,000+8,000 smart factory) with KBA & Heidelberg presses |
-| Quality | ISO 9001:2015 certified |
-| Eco | FSC certified sustainable materials |
-| Capacity | 1.7M+ color boxes + 220K+ gift boxes daily |
-| Clients | 200+ brands across 50+ countries |
-| Custom | Any size, color, finish, insert |
-| MOQ | 500-1000 pcs, trial orders accepted |
-| Free Sample | Free pre-production sample (freight collect) |
-| Shipping | Worldwide DHL/FedEx/UPS/Sea |

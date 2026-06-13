@@ -43,4 +43,4 @@ No. 6-7 Shunyuan North Road, Wusha Community, Daliang Street, Shunde District, F
 
 [Factory visits welcome — contact us for directions.](/contact/)
 
-<a href="https://bincaipaperbox.en.made-in-china.com/" target="_blank" rel="noopener" style="display:inline-block;background:#ff6b35;color:#fff;padding:8px 20px;border-radius:6px;text-decoration:none;font-weight:600;font-size:13px;"> View Full Catalog on Made-in-China.com →</a>
+<a href="https://bincaipaperbox.en.made-in-china.com/" target="_blank" rel="noopener" class="btn-mic">View Full Catalog on Made-in-China.com →</a>

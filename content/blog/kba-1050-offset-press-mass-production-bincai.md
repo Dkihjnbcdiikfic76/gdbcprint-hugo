@@ -2,7 +2,7 @@
 title: "KBA 1050 4-Color Press: The Backbone of Bincai's 1.7M Box Daily Output"
 date: 2026-06-11
 draft: false
-image: "/images/carousel-factory.webp"
+image: "/images/hero-factory.webp"
 description: "How our KBA 1050 4-color offset press powers mass production across 18,000 sqm factory (10,000+8,000 smart factory) — 1.7 million boxes daily output, 22 years experience, ISO 9001 & FSC certified."
 
 ---
@@ -60,4 +60,4 @@ Our production capacity has earned us partnerships with brands across cosmetics,
 
 **[Request a quote](/contact/)** — let us show you what 22 years of manufacturing excellence and 18,000 sqm of production capacity (10,000+8,000 smart factory) can do for your packaging.
 
-<a href="https://bincaipaperbox.en.made-in-china.com/" target="_blank" rel="noopener" style="display:inline-block;background:#ff6b35;color:#fff;padding:8px 20px;border-radius:6px;text-decoration:none;font-weight:600;font-size:13px;">View Full Catalog on Made-in-China.com →</a>
+<a href="https://bincaipaperbox.en.made-in-china.com/" target="_blank" rel="noopener" class="btn-mic">View Full Catalog on Made-in-China.com →</a>

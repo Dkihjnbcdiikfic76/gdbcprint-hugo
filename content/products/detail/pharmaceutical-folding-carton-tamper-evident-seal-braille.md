@@ -75,27 +75,3 @@ The Bincai Pharmaceutical Folding Carton is engineered for compliance with globa
 | **Batch Record** | GMP § 211.188 | Complete production batch record; retained 3 years minimum |
 | **Serialization Read Rate** | Internal QP-005 | DataMatrix code readability > 99.9% at 300 dpi camera verification |
 | **Accelerated Aging** | ASTM F1980 | 6-month real-time equivalent; no degradation in seal or print |
-
-## Why Bincai
-
-| Differentiator | Detail |
-|---|---|
-| **22-Year Legacy** | Manufacturing since 2003; pharmaceutical packaging division established 2010 |
-| **GMP-Compliant Zone** | 500 sqm dedicated clean production area with HEPA filtration and humidity control |
-| **Low-Migration Inks** | In-house tested for pharma/food compliance; third-party certified annually |
-| **ISO 9001 & FSC** | Certified quality management + sustainable board sourcing |
-| **Braille + Tamper Evidence** | Integrated production — no third-party outsourcing for regulatory features |
-| **1.7M Daily Capacity** | Scalable from 500-unit trial to multi-million monthly orders |
-| **Batch Traceability** | Complete GMP batch records; camera verification of every carton |
-| **Free Samples** | 5–7 day regulatory-grade pre-production samples with Braille and tamper features |
-
-## Contact
-
-- **MOQ**: 1,000–3,000 units (standard), 500 (trial)
-- **Sample**: 5–7 day pre-production samples with full regulatory features
-- **Lead Time**: 15–25 days (standard), 10–15 days (expedited)
-- **Die Cost**: $120–200 one-time per design
-- **Phone**: +86-18934352881 (Mr. Zhou)
-- **Email**: qo82@icloud.com
-- **Address**: No.6-7 Shunyuan North Rd, Wusha, Daliang, Shunde, Foshan, Guangdong
-- **Factory Visit**: GMP zone tour available — schedule via email or phone
