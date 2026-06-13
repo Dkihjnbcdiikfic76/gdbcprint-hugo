@@ -2,8 +2,8 @@
 title: "Eco-Friendly Paper Slide Box for Chocolate Candy Cosmetic"
 date: 2026-06-11
 draft: false
-description: "Eco-Friendly Paper Slide Box for Chocolate Candy Cosmetic by Guangdong Bincai Color Printing — Diamond Member on Made-in-China.com. ISO 9001 FSC certified."
-keywords: "paper box, custom packaging, kraft eco boxes, Bincai, Made-in-China"
+description: "Eco-friendly paper slide box with friction-fit sleeve and tray for chocolate, candy, cosmetics, and small gift packaging. Made from FSC-certified recycled kraft paperboard with soy-based ink printing and water-based adhesive — 100% biodegradable and recyclable. Custom manufactured at Bincai's 18,000 sqm ISO 9001:2015 & FSC certified factory with KBA 1050 4-color offset press. Matte/gloss lamination, spot UV, foil stamping available. 22 years Guangdong manufacturing since 2003. 1.7M daily output capacity. MOQ 500 with free pre-production samples 5-7 days."
+keywords: "eco-friendly slide box, paper slide box, kraft slide box, chocolate packaging box, candy gift box, cosmetic slide box, FSC certified paper box, soy ink packaging, biodegradable gift box, recyclable slide box, sustainable packaging, Bincai eco box, ISO 9001 FSC packaging, KBA 1050 kraft box, 18,000 sqm eco factory, 22 years sustainable packaging, Guangdong kraft box manufacturer, compostable paper box, plastic-free cosmetics packaging, zero-waste gift box"
 categories: ["kraft-eco-boxes"]
 params:
   moq: "500-1000"

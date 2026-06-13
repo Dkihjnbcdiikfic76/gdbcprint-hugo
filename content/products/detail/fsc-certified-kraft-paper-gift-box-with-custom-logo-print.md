@@ -2,8 +2,8 @@
 title: "FSC Certified Kraft Paper Gift Box with Custom Logo Print"
 date: 2026-06-10
 draft: false
-description: "FSC certified kraft paper gift box with custom logo printing. Eco-friendly soy-based inks, 100% recyclable, biodegradable packaging from a 22-year ISO factory."
-keywords: "kraft paper box, FSC certified box, eco-friendly gift box, sustainable packaging, biodegradable box, recyclable gift box, custom logo kraft box, soy ink printing, green packaging, natural kraft box"
+description: "FSC-certified kraft paper gift box with custom logo print — eco-friendly soy-based ink printing, 100% recyclable, biodegradable. Rigid greyboard wrapped in FSC chain-of-custody kraft paper with matte/gloss lamination, spot UV, and foil stamping options. Manufactured at Bincai's 18,000 sqm (10,000+8,000 smart factory) ISO 9001:2015 & FSC certified facility with KBA 1050 4-color offset and Heidelberg 7+1 UV presses. 22 years Guangdong manufacturing since 2003. 220,000+ rigid boxes daily. MOQ 500. Free pre-production samples 5-7 days. Plastic-free, zero-waste, REACH and RoHS compliant."
+keywords: "kraft paper box, FSC certified box, eco-friendly gift box, sustainable packaging, biodegradable box, recyclable gift box, custom logo kraft box, soy ink printing, green packaging, natural kraft box, plastic-free gift box, zero-waste packaging, REACH compliant box, RoHS packaging, Bincai eco box, ISO 9001 FSC kraft box, KBA 1050 kraft box, Heidelberg UV eco box, 18,000 sqm eco factory, 22 years sustainable packaging, Guangdong kraft manufacturer, recycled paper gift box, custom sustainable box"
 categories: ["kraft-eco-boxes"]
 params:
   moq: "500-1000"
