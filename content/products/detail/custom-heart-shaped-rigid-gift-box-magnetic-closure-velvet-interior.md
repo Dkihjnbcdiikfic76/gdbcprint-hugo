@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Custom Heart-Shaped Rigid Gift Box with Magnetic Closure and Velvet Interior](/images/cat-special-heart.jpg)
+![Custom Heart Shaped Rigid Gift Box Magnetic Closure Velvet Interior](/images/cat-rigid-others.jpg)
 
 ## Product Overview
 

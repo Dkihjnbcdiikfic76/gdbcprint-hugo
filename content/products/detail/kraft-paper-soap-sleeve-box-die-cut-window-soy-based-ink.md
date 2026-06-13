@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Kraft Paper Soap Sleeve Box with Die-Cut Window and Soy-Based Ink](/images/cat-kraft-others.jpg)
+![Kraft Paper Soap Sleeve Box with Die-cut Window and Soy-based Ink](/images/kraft-eco-box.jpg)
 
 ## Product Overview
 

@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Christmas Advent Calendar Gift Box with 24 Pull-Out Drawers](/images/cat-christmas-advent.jpg)
+![Christmas Advent Calendar Gift Box for Chocolate Candy](/images/cat-rigid-others.jpg)
 
 ## Product Overview
 

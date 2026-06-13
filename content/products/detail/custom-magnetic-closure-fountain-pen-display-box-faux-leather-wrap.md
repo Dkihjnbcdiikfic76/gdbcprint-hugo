@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Custom Magnetic Closure Fountain Pen Display Box with Faux Leather Wrap](/images/cat-magnetic-others.jpg)
+![Custom Magnetic Closure Fountain Pen Display Box Faux Leather Wrap](/images/magnetic-closure-box.jpg)
 
 ## Product Overview
 

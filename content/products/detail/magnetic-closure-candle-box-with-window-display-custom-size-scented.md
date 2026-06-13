@@ -2,8 +2,8 @@
 title: "Magnetic Closure Candle Box with Window Display Custom Size Scented"
 date: 2026-06-11
 draft: false
-description: "Premium magnetic closure candle box with window display, custom sizes for scented candles. ISO 9001 & FSC certified manufacturer, 22 years Bincai factory. MOQ 500."
-keywords: "magnetic closure candle box, candle packaging with window, custom scented candle box, luxury candle gift box, Bincai paper box, ISO 9001, FSC certified, China manufacturer"
+description: "Premium Magnetic Closure Candle Box with Window Display — custom sizes for scented candles, jar candles, and candle gift sets. Rigid greyboard construction with die-cut window, N52 neodymium magnetic closure, and optional foam insert. Manufactured by Guangdong Bincai Color Printing Co., Ltd. — 22 years experience (founded 2003), 18,000 sqm dual factory (10,000+8,000 sqm smart factory), ISO 9001:2015 & FSC certified, KBA 1050 4-color + Heidelberg 7+1 UV presses, daily output 1.7M boxes, serving 200+ global brands from Foshan, China. Hot foil stamping, embossing, and spot UV available."
+keywords: "magnetic closure candle box, candle packaging with window display, custom scented candle box manufacturer, luxury candle gift box wholesale, scented candle packaging OEM, premium candle box China, magnetic gift box for candle, candle box with window cutout, Bincai candle packaging, ISO 9001 FSC certified, Heidelberg UV candle box, rigid candle box Foshan, custom candle box with insert, luxury home fragrance packaging"
 categories: ["magnetic-closure-boxes"]
 params:
   moq: "500-1000"

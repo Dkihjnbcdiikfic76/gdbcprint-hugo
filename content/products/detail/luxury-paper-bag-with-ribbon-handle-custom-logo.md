@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Luxury Paper Bag with Ribbon Handle Custom Logo](/images/product-gift-1.webp)
+![Luxury Paper Bag with Ribbon Handle Custom Logo](/images/cat-paper-bag.jpg)
 
 Premium luxury paper bag with ribbon handle and custom logo printing — manufactured by **Guangdong Bincai Color Printing Co., Ltd.**, a full-chain packaging enterprise with 22 years of manufacturing heritage (founded 2003) and Diamond Member on Made-in-China.com since 2015. Produced across 18,000 sqm of factory space (10,000 + 8,000 sqm smart factory, 2025 expansion) on KBA 1050 4-color and Heidelberg Speedmaster XL 7+1 UV offset presses. Daily output: 1.7 million color boxes and bags. ISO 9001:2015 and FSC Chain-of-Custody certified with SGS-tested materials.
 
