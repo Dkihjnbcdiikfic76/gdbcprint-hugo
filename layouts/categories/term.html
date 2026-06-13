@@ -1,8 +1,8 @@
 {{ define "main" }}
 <div class="breadcrumb" style="background:#fff;padding:12px 20px;"><a href="/" style="color:#1a56db">Home</a> › {{ .Title | humanize }}</div>
 
-<section style="max-width:1200px;margin:0 auto;padding:40px 20px;">
-<h1 style="font-size:28px;font-weight:700;margin-bottom:8px;">{{ .Title | humanize }}</h1>
+<section style="max-width:1200px;margin:0 auto;padding:40px 24px;">
+<h1 style="font-size:clamp(24px,4vw,32px);font-weight:700;margin-bottom:8px;">{{ .Title | humanize }}</h1>
 <p style="color:#666;font-size:14px;margin-bottom:16px;">Custom {{ .Title | humanize | lower }} — ISO 9001 & FSC certified. 22 years factory. MOQ 500-1000 pcs.</p>
 <h2 style="font-size:20px;font-weight:700;margin-bottom:16px;color:#1d1d1f">All {{ .Title | humanize }}</h2>
 

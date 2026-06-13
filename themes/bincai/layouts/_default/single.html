@@ -1,6 +1,6 @@
 {{ define "main" }}
-<article style="max-width:860px;margin:0 auto;padding:40px 20px 60px;">
-<h1 style="font-size:28px;font-weight:700;line-height:1.2;color:#1d1d1f;margin-bottom:12px;">{{ .Title }}</h1>
+<article style="max-width:860px;margin:0 auto;padding:40px 24px 60px;">
+<h1 style="font-size:clamp(28px,5vw,36px);font-weight:700;line-height:1.2;color:#1d1d1f;margin-bottom:12px;">{{ .Title }}</h1>
 
 {{ if ne .Section "products" }}
 {{ if and .Date (ne (.Date.Format "2006") "0001") }}<p style="font-size:13px;color:#888;margin-bottom:20px;">{{ .Date.Format "January 2, 2006" }}</p>{{ end }}

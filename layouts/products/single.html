@@ -5,7 +5,7 @@
 <div class="prod-header">
 <h1>{{ .Title }}</h1>
 <div class="prod-badges">
-<span class="pill-blue">ISO 9001</span><span class="pill-blue">FSC</span><span class="pill-orange">MOQ {{ .Params.moq }}</span><span class="pill-green">Free Sample</span>
+<span class="pill-blue">ISO 9001</span><span class="pill-blue">FSC</span><span class="pill-orange">MOQ {{ .Params.moq }}</span><span class="pill-green free-sample-pill">🆓 Free Sample</span>
 </div>
 <div class="prod-certs">
 <span class="cert-badge diamond">Diamond Member</span>
@@ -18,7 +18,7 @@
   <div class="prod-img-box">
     {{ $cat := index .Params.categories 0 }}
     {{ $prodImg := partial "category-img.html" (dict "category" $cat "title" .Title) }}
-    <img src="{{ $prodImg }}" alt="{{ .Title }}" loading="lazy" decoding="async" style="width:100%;max-width:520px;aspect-ratio:1;object-fit:cover;background:#f0f1f3;border-radius:12px;">
+    <img src="{{ $prodImg }}" alt="{{ .Title }}" loading="lazy" decoding="async" style="width:100%;max-width:520px;aspect-ratio:4/3;object-fit:cover;background:#f0f1f3;border-radius:12px;image-rendering:-webkit-optimize-contrast;">
   </div>
 
   {{/* Specs + CTA */}}

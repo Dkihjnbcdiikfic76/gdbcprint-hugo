@@ -7,7 +7,7 @@
 </div>
 {{ end }}
 
-<h1 style="font-size:32px;font-weight:700;line-height:1.2;color:#1d1d1f;margin-bottom:8px;">{{ .Title }}</h1>
+<h1 style="font-size:clamp(28px,4vw,36px);font-weight:700;line-height:1.2;color:#1d1d1f;margin-bottom:8px;">{{ .Title }}</h1>
 
 {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
 {{ $dateHuman := .Date | time.Format ":date_long" }}

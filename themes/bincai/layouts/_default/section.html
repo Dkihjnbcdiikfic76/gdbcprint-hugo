@@ -11,13 +11,13 @@
 {{ end }}
 
 <section style="max-width:1200px;margin:0 auto;padding:40px 24px;">
-<h1 style="font-size:28px;font-weight:700;margin-bottom:8px;">{{ $displayTitle }}</h1>
+<h1 style="font-size:clamp(28px,5vw,36px);font-weight:700;margin-bottom:8px;">{{ $displayTitle }}</h1>
 {{ with .Description }}<p style="color:#666;font-size:14px;margin-bottom:24px;">{{ . }}</p>{{ end }}
 {{ with .Content }}<div style="font-size:15px;line-height:1.7;color:#1d1d1f;margin-bottom:32px;">{{ . }}</div>{{ end }}
 
 {{ if eq .Section "industries" }}
 <div style="background:linear-gradient(135deg,#0d1b3e,#1a56db);color:#fff;border-radius:12px;padding:32px;text-align:center;margin-bottom:32px;">
-<h2 style="font-size:18px;font-weight:700;margin-bottom:8px;color:#fff;">Need Industry-Specific Packaging?</h2>
+<h2 style="font-size:20px;font-weight:700;margin-bottom:8px;color:#fff;">Need Industry-Specific Packaging?</h2>
 <p style="font-size:14px;opacity:.85;margin-bottom:18px;">Free quote in 24 hours · Custom design · Factory-direct pricing · MOQ 500</p>
 <a href="/contact/" class="btn-cta">Get a Free Quote</a>
 <p style="font-size:12px;opacity:.7;margin-top:10px;">{{ .Site.Params.phone }} | {{ .Site.Params.email }}</p>
@@ -62,7 +62,7 @@
 <div style="padding:20px;">
 <h3 style="font-size:16px;font-weight:600;margin-bottom:8px;"><a href="{{ .RelPermalink }}" style="color:#1d1d1f;">{{ .Title }}</a></h3>
 {{ with .Description }}<p style="font-size:13px;color:#888;line-height:1.5;">{{ . }}</p>{{ end }}
-<a href="{{ .RelPermalink }}" style="display:inline-block;margin-top:12px;font-size:12px;font-weight:600;color:#fff;background:#e8613c;padding:6px 14px;border-radius:6px;transition:.2s;" onmouseover="this.style.background='#d15532'" onmouseout="this.style.background='#e8613c'">Learn More →</a>
+<a href="{{ .RelPermalink }}" style="display:inline-block;margin-top:12px;font-size:15px;font-weight:600;color:#fff;background:#e8613c;padding:10px 20px;border-radius:6px;transition:.2s;" onmouseover="this.style.background='#d15532'" onmouseout="this.style.background='#e8613c'">Learn More →</a>
 </div>
 </div>
 {{ end }}

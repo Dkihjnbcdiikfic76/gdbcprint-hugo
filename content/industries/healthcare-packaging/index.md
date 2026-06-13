@@ -6,8 +6,6 @@ description: "Pharmaceutical and medical device paper box packaging — folding 
 image: /images/cat-rigid-health.webp
 ---
 
-![Healthcare Packaging](/images/cat-rigid-health.webp)
-
 Guangdong Bincai Color Printing produces pharmaceutical and healthcare packaging at our 18,000 sqm ISO 9001:2015 and FSC-certified facility in Foshan. With KBA 1050 and Heidelberg 7+1 UV presses producing 1.7 million boxes daily, we serve pharmaceutical companies, medical device manufacturers, and healthcare distributors worldwide.
 
 ## Healthcare Packaging Solutions

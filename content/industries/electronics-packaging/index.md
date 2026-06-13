@@ -6,8 +6,6 @@ description: "Premium paper boxes for electronics, gadgets, accessories. Rigid b
 image: /images/industry-electronics.webp
 ---
 
-![Electronics Packaging](/images/industry-electronics.webp)
-
 Bincai manufactures premium packaging for electronics and tech products. Our rigid boxes with custom foam inserts provide both protection and luxury unboxing experience.
 
 ## Electronics Packaging Solutions

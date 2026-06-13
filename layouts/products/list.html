@@ -10,8 +10,8 @@
   {{ end }}
 {{ end }}
 
-<section style="max-width:1200px;margin:0 auto;padding:40px 20px;">
-<h1 style="font-size:28px;font-weight:700;margin-bottom:8px;">{{ $displayTitle }}</h1>
+<section style="max-width:1200px;margin:0 auto;padding:40px 24px;">
+<h1 style="font-size:clamp(28px,5vw,36px);font-weight:700;margin-bottom:8px;">{{ $displayTitle }}</h1>
 {{ with .Description }}<p style="color:#666;font-size:14px;margin-bottom:24px;">{{ . }}</p>{{ end }}
 
 {{ if eq .Section "products" }}
