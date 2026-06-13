@@ -2,8 +2,8 @@
 title: "Custom Printed Corrugated Pizza Box Food Delivery"
 date: 2026-06-12
 draft: false
-description: "Custom Printed Corrugated Pizza Box Food Delivery by Guangdong Bincai Color Printing. B-Flute E-Flute BC-Flute corrugated, CMYK printing, food-grade. Diamond Member on Made-in-China.com. ISO 9001 FSC."
-keywords: "paper box, custom packaging, corrugated mailers, pizza box, food delivery, Bincai, Made-in-China"
+description: "Custom Printed Corrugated Pizza Box for Food Delivery by Guangdong Bincai Color Printing — 22 years manufacturing since 2003. B-Flute / E-Flute / BC-Flute corrugated, full-color CMYK offset on KBA 1050 4-color press, food-grade inks (FDA 21 CFR, EU 1935/2004 compliant), vent holes, grease-resistant liner, lock-tab closure, tear strip, custom window cutouts. 18,000 sqm ISO 9001:2015 & FSC certified factory with Heidelberg 7+1 UV press. 1.7M daily output. MOQ 500, free pre-production samples. Foshan, Guangdong, China."
+keywords: "corrugated pizza box, food delivery packaging, custom printed pizza box, B-flute pizza box, E-flute corrugated box, BC-flute pizza mailer, vented pizza box, grease-resistant food box, lock-tab closure box, pizza delivery packaging manufacturer, corrugated food box China, takeaway pizza packaging, food-grade corrugated box, KBA 1050 corrugated printing, Heidelberg UV corrugated, ISO 9001 FSC pizza packaging, Bincai corrugated box, 18,000 sqm factory, 22 years manufacturer, Guangdong corrugated box, custom logo pizza box, tear strip food box, stackable pizza box, die-cut window pizza packaging"
 categories: ["corrugated-mailers"]
 params:
   moq: "500-1000"

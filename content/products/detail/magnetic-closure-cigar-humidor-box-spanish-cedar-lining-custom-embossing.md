@@ -2,8 +2,8 @@
 title: "Magnetic Closure Cigar Humidor Box with Spanish Cedar Lining and Custom Embossing"
 date: 2026-06-14
 draft: false
-description: "Magnetic Closure Cigar Humidor Box with Spanish Cedar Lining and Custom Embossing by Guangdong Bincai Color Printing. Premium rigid construction with genuine Spanish cedar interior, magnetic seal, and hygrometer slot. ISO 9001 FSC certified. 18,000m² factory with Heidelberg 7+1 UV press."
-keywords: "cigar humidor box, spanish cedar box, magnetic closure humidor, cigar gift box, luxury tobacco packaging, custom cigar box, embossed humidor, Bincai, Made-in-China"
+description: "Magnetic Closure Cigar Humidor Box with Spanish Cedar Lining and Custom Embossing by Guangdong Bincai Color Printing — 22 years rigid box manufacturing since 2003. 3mm rigid greyboard construction with 5mm genuine Cedrela odorata Spanish cedar veneer interior — naturally hygroscopic for humidity regulation and tobacco beetle repellent. Full-perimeter magnetic seal strip for airtight closure, precision hygrometer slot, humidification element compartment. Custom deep-embossed logo with gold/silver foil on premium art paper wrapping. Manufactured on KBA 1050 4-color and Heidelberg 7+1 UV presses with Bobst foil stamping (±0.15mm precision) in 18,000 sqm ISO 9001:2015 & FSC certified factory. Daily output 220,000+ rigid boxes. Holds 10-25 coronas standard, up to 50 custom. MOQ 500, free pre-production samples. Foshan, Guangdong, China."
+keywords: "cigar humidor box, Spanish cedar humidor, magnetic closure humidor, cigar gift box, luxury tobacco packaging, custom cigar box, embossed humidor, Cedrela odorata lined box, cigar storage box, airtight cigar case, hygrometer humidor, Boveda compatible box, desktop humidor, travel cigar case, Bobst foil cigar box, Heidelberg UV humidor, ISO 9001 FSC humidor, Bincai cigar box, 22 years manufacturer, Guangdong humidor box, custom logo cigar packaging, rigid humidor box, magnetic seal humidor, luxury cigar presentation box, 25 corona humidor, tobacco beetle resistant box, deep embossed cigar box"
 categories: ["magnetic-closure-boxes"]
 params:
   moq: "500-1000"
