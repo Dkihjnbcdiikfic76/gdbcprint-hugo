@@ -14,7 +14,13 @@ params:
 
 ![Corrugated Book Mailer](/images/cat-fold-mailer.webp)
 
-Corrugated book mailer with self-seal adhesive and durable crush-resistant construction for shipping packaging — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). 18,000 sqm factory (10,000+8,000 smart factory) with KBA and Heidelberg presses. Daily output 1.7 million boxes.
+## Product Overview
+
+The Corrugated Book Mailer with self-seal adhesive is engineered for e-commerce, publishing, and media brands that demand crush-proof protection without the dimensional weight penalty of a full carton. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — a full-chain packaging enterprise with 22 years of experience (founded 2003) operating an 18,000 sqm facility (10,000 sqm main + 8,000 sqm smart factory commissioned 2025) — this mailer combines precision multi-depth scoring, automatic hot-melt adhesive application, and ISTA 1A drop-tested construction.
+
+The self-seal adhesive strip with silicone release liner eliminates taping labor — operators simply peel and press for an instant secure closure that maintains integrity from −20°C to 60°C. Pre-scored fold lines at multiple depths allow one mailer SKU to serve products of varying thickness, reducing inventory complexity. Kraft E-flute or B-flute corrugated walls provide edge crush resistance (ECT 32–40+) while adding minimal weight — crucial for e-commerce sellers managing dimensional weight shipping costs. Each mailer is produced on automatic corrugator lines with flatbed die-cutting for precision score positions, and printed via flexo or KBA offset litho-lamination for brand presentation that matches the quality of the contents inside.
+
+**Key Specs at a Glance:** ISO 9001:2015 & FSC certified | 1.7M boxes daily output | E-flute (1.2mm) / B-flute (2.5mm) / BC double-wall | ISTA 1A drop tested | MOQ 500 | 8–12 day lead time
 
 ## Applications
 Corrugated book mailers are the gold standard for shipping flat, rectangular items that need crush protection without the bulk of a full carton. Ideal for:
@@ -24,6 +30,10 @@ Corrugated book mailers are the gold standard for shipping flat, rectangular ite
 - **Framed Art & Certificates**: Small framed artwork, diploma frames, certificate plaques
 - **Board Games & Puzzles**: Flat game boxes, jigsaw puzzles, playing card sets
 - **Vinyl Records & Media**: LP records, laser discs, sheet music, large-format media
+- **Subscription Box Inserts**: Rigid book-style insert mailers for subscription book clubs, quarterly literary boxes, and curated media kits
+- **Legal & Financial Documents**: Secure document mailers for contracts, notarized papers, certificates, and archival materials requiring flat transport
+- **E-Commerce Returns Packaging**: Reusable self-seal mailer for customer returns — dual adhesive strips allow original shipping and return shipping in the same mailer
+- **Educational & Training Materials**: Training manuals, workshop binders, course packs, and corporate onboarding kits
 
 ## Customization Options
 - **Materials**: E-flute (1.2mm, compact) or B-flute (2.5mm, heavy-duty) single-wall kraft corrugated; double-wall BC-flute for extra protection

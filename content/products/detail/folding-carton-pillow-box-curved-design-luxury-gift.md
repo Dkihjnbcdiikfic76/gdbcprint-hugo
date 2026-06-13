@@ -55,4 +55,41 @@ The pillow-shaped folding carton with its signature curved silhouette brings scu
 - **Foil Stamping**: 25-ton hot stamping press with ±0.1mm registration accuracy
 - **Daily Output**: 1.7 million folding cartons across all production lines
 - **QC Protocol**: Color ΔE < 2.0 (ISO 12647-2), glue bond > 4.5N/cm peel strength, dimensional tolerance ±0.5mm
-- **Lead Time**: 5-7 days sample, 12-15 days mass production
+- **Foil Registration**: Optical comparator measurement with ±0.2mm max offset between foil edge and printed registration mark
+- **Soft-Touch Durability**: BOPP matte lamination tested to 5,000+ Sutherland rub cycles (4lb weight) with no visible wear
+- **Score Line QC**: Fold-precision tested at all score positions; score depth ±0.05mm for clean fold without board cracking
+- **Window Patching QC**: PET/PVC window bond strength > 6N/cm peel; optical clarity > 92% light transmission
+- **Lead Time**: 5-7 days digital proof + physical sample, 12-15 days mass production (18 days for custom die/foil)
+- **Export Packaging**: Individual OPP bag → corner protectors → corrugated master carton (50-200 units/carton) → palletized export wrap
+
+## Quality Assurance
+
+| Test | Method | Acceptance Criteria |
+|------|--------|---------------------|
+| Print Registration | Heidelberg Prinect inline measurement | ±0.1mm CMYK; ±0.2mm foil overlay |
+| Color Consistency | X-Rite eXact spectrophotometer — ΔE against master | ΔE ≤ 2.0 across full production run |
+| Score Line Integrity | Fold/unfold cycle test (50 cycles) at each score | No cracking, delamination, or visible fiber tear |
+| Glue Bond Strength | 180° peel test on glued joints at 100mm/min | ≥ 4.5N/cm peel strength |
+| Foil Adhesion | 3M 610 tape pull test × 3 consecutive pulls | 5B rating — no foil lift or transfer |
+| Soft-Touch Abrasion | Sutherland Rub Tester — 5,000 cycles at 4lb | No visible ink transfer, color loss, or surface marring |
+| Window Bond (if applicable) | Tensile peel at window-film-to-board interface | ≥ 6N/cm; no delamination after 72h at 40°C/75% RH |
+| Drop Test | ISTA 1A — 10 drops from 760mm on corners, edges, faces | No structural failure; product undamaged inside |
+| Colorfastness | Xenon arc lamp 72-hour lightfastness test (ISO 105-B02) | Blue wool scale ≥ 4 (no visible fading) |
+| FSC Traceability | SGS annual surveillance audit | FSC Mix Credit maintained; full material genealogy retrievable |
+
+## FAQ
+
+**Q: What makes the pillow box different from a standard tuck-top folding carton?**
+A: The signature curved pillow silhouette creates a sculptural, organic form that stands out on retail shelves — standard tuck-top boxes are rectangular. The pillow box uses a snap-lock assembly mechanism (no adhesive needed) and ships flat for 80% space savings. The curved sides also provide enhanced crush resistance compared to flat-panel cartons of the same board weight.
+
+**Q: Can you do hot stamping and soft-touch lamination on the same box?**
+A: Yes. Our Heidelberg 7+1 UV press applies foil stamping inline during the same pass as CMYK printing. The soft-touch BOPP matte lamination is applied as a post-press process — the micro-embossed film bonds to the printed surface while preserving the metallic reflectivity of the foil underneath. The foil remains bright and untarnished under the matte film.
+
+**Q: What board stock do you recommend for candle and cosmetic pillow boxes?**
+A: We recommend C1S (coated one side) 350gsm art board as the sweet spot — it provides luxury weight and rigidity while keeping fold lines crisp for clean pillow curves. For heavier items (>500g), upgrade to C1S 400gsm or add an optional greyboard stiffener insert. The coated exterior surface ensures sharp CMYK print reproduction with the soft-touch lamination bonding uniformly.
+
+**Q: How small/large can the pillow box be made?**
+A: Our standard pillow box range runs from 80×50×30mm (perfect for a single piece of jewelry or tea sachet) to 300×150×80mm (accommodates candle jars, skincare sets, or confectionery collections). The curved form means the internal volume is slightly less than a rectangular box of the same footprint — we'll calculate the exact fit based on your product dimensions during the sampling phase.
+
+**Q: What's the minimum order quantity and sampling timeline?**
+A: MOQ is 500 units for standard configurations (existing die lines). For custom sizes requiring new tooling, MOQ is 1,000 units. We provide a digital color proof within 48 hours and a physical white-glue sample in 5-7 working days. Full production lead time is 12-15 days after sample approval, or 15-18 days if a custom cutting die or foil stamping die is required.
