@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Custom Corrugated Half-Slotted Container with Die-Cut Partitions for Glass Bottles](/images/cat-fold-mailer.jpg)
+![Custom Corrugated Half-Slotted Container with Die-Cut Partitions for Glass Bottles](/images/corrugated-mailer.jpg)
 
 ## Product Overview
 
