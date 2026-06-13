@@ -2,8 +2,8 @@
 title: "Custom Shape Rigid Paper Box with Die-Cut Window Display"
 date: 2026-06-10
 draft: false
-description: "Custom shape rigid paper box with precision die-cut window display by Bincai. 1.5-3.0mm greyboard, 15 QC checkpoints, KBA/Heidelberg print, ISO 9001 & FSC certified. 22-year factory."
-keywords: "rigid paper box, custom shape rigid box, die-cut window display box, luxury gift box, greyboard rigid box, magnetic closure box, window packaging box, Bincai"
+description: "Custom shape rigid paper box with precision die-cut window display by Bincai — 22 years experience since 2003, Foshan Guangdong China. 1.5-3.0mm greyboard, printed on KBA 1050 4-color & Heidelberg 7+1 UV presses across 18,000 sqm (10,000+8,000 smart factory). 15 QC checkpoints, ISO 9001:2015 & FSC certified. Daily output 1.7M boxes + 220,000+ gift boxes. MOQ 500, free samples available."
+keywords: "rigid paper box, custom shape rigid box, die-cut window display box, luxury gift box, greyboard rigid box, magnetic closure box, window packaging box, Bincai, custom shape box, rigid gift box manufacturer, window display box, die-cut packaging box, luxury rigid box, custom shaped packaging, PET window box, foil stamped rigid box, magnetic lid box, Bincai Guangdong, wholesale rigid box, OEM rigid packaging, perfume display box, cosmetic packaging box, electronics gift box, 22-year factory, ISO 9001 FSC rigid box, Foshan packaging factory, KBA Heidelberg rigid box, custom window gift box, rigid box China"
 categories: ["rigid-gift-boxes"]
 params:
   moq: "500-1000"
