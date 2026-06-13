@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Corrugated Mailers](/images/corrugated-mailer.webp)
+![Bincai Corrugated Mailers](/images/cat-fold-mailer.webp)
 
 ## Custom Corrugated Display Box with CMYK Print
 

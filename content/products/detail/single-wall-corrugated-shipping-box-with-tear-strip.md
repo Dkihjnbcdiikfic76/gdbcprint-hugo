@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Corrugated Mailers](/images/corrugated-mailer.webp)
+![Bincai Corrugated Mailers](/images/cat-fold-mailer.webp)
 
 Single-wall corrugated shipping box with integrated tear strip — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). The tear-strip design enables consumers to open the box cleanly without tools, making it ideal for e-commerce and direct-to-consumer fulfillment. KBA 1050 4-color and Heidelberg 7+1 UV presses deliver precision printing across 18,000 sqm factory (10,000+8,000 smart factory). Daily output 1.7 million boxes.
 

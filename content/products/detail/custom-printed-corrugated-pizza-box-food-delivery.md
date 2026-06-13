@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Custom Printed Corrugated Pizza Box Food Delivery](/images/product-corr-2.webp)
+![Custom Printed Corrugated Pizza Box Food Delivery](/images/cat-fold-mailer.webp)
 
 ## Product Overview
 

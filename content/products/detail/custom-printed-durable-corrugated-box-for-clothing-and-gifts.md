@@ -11,7 +11,7 @@ params:
   material: "B-Flute / E-Flute / BC-Flute Corrugated / Kraft or White Top Liner / Self-Sealing / Tear Strip"
   certification: "ISO 9001, FSC, SGS"
 ---
-![Custom Printed Durable Corrugated Box for Clothing and Gifts](/images/corrugated-mailer.webp)
+![Custom Printed Durable Corrugated Box for Clothing and Gifts](/images/cat-fold-mailer.webp)
 
 Premium custom printed durable corrugated box for clothing and gifts manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — a Diamond Member on Made-in-China.com since 2015, Audited Supplier with 22 years of experience.
 

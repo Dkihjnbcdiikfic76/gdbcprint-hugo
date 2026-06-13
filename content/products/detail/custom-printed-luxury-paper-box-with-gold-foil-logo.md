@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Custom Printed Luxury Paper Box with Gold Foil Logo](/images/product-rigid-1.webp)
+![Custom Printed Luxury Paper Box with Gold Foil Logo](/images/cat-rigid-others.webp)
 
 ## Product Overview
 

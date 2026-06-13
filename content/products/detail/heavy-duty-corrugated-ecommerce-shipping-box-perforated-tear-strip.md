@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Corrugated Mailers](/images/corrugated-mailer.webp)
+![Bincai Corrugated Mailers](/images/cat-fold-mailer.webp)
 
 Heavy-duty corrugated e-commerce shipping box with perforated tear strip — engineered for direct-to-consumer brands shipping fragile, heavy, or high-value products. Manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). Our 18,000 sqm factory (10,000+8,000 smart factory) in Foshan runs KBA 1050 4-color offset presses for litho-laminated exterior printing and Heidelberg 7+1 UV presses for premium coatings. With daily output of 1.7 million boxes and ISO 9001:2015 & FSC chain-of-custody certifications, we deliver consistent quality at scale.
 

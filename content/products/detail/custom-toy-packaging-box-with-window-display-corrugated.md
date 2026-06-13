@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Corrugated Mailer Box](/images/corrugated-mailer.webp)
+![Bincai Corrugated Mailer Box](/images/cat-fold-mailer.webp)
 
 ## Custom Toy Packaging Box with Window Display
 
