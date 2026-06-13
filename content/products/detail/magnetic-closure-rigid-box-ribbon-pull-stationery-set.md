@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Magnetic Closure Boxes](/images/magnetic-closure-box.jpg)
+![Bincai Magnetic Closure Boxes](/images/magnetic-closure-box.webp)
 
 Sophisticated magnetic closure rigid box with satin ribbon pull tab — thoughtfully designed for luxury stationery sets, premium desk accessories, and executive corporate gifts. Crafted at **Guangdong Bincai Color Printing Co., Ltd.** (founded 2003), our 18,000 sqm Foshan factory (10,000+8,000 smart factory) operates KBA 1050 4-color and Heidelberg 7+1 UV presses, producing 1.7 million boxes daily. ISO 9001:2015 and FSC certified. The integrated ribbon pull-tab provides effortless lid opening while N52 neodymium magnets deliver a refined closure.
 

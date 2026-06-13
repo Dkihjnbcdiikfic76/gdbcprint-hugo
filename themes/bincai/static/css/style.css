@@ -5,7 +5,7 @@
 *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
 html{scroll-behavior:smooth;-webkit-font-smoothing:antialiased}
 body{font-family:'Inter','Helvetica Neue',Arial,sans-serif;color:#1d1d1f;font-size:15px;line-height:1.7;background:#fff;font-weight:400}
-img{max-width:100%;height:auto;display:block}
+img{max-width:100%;height:auto;display:block}article img{width:100%;border-radius:12px;margin:20px 0}article .prod-img-box img{width:auto;max-width:520px;margin:0;border-radius:12px}
 a{color:#1E4DCC;text-decoration:none;transition:color .2s}
 a:hover{color:#0F367A}
 .container{max-width:1200px;margin:0 auto;padding:0 32px}
@@ -209,6 +209,13 @@ footer a:hover{color:#fff}
   .nav-cta{width:100%;text-align:center}
   .hero-showcase{display:none}
 }
+/* ═══ PRODUCT SPEC TABLE ═══ */
+.quick-specs table{border-collapse:collapse}
+.quick-specs th{text-align:left;font-weight:500;color:#6B7280;padding:8px 12px 8px 0;border-bottom:1px solid rgba(0,0,0,.06);font-size:13px;white-space:nowrap;width:120px}
+.quick-specs td{text-align:left;padding:8px 0 8px 12px;border-bottom:1px solid rgba(0,0,0,.06);font-size:14px;color:#1d1d1f}
+.quick-specs tr:last-child th,.quick-specs tr:last-child td{border-bottom:none}
+.quick-specs h2{font-size:15px;font-weight:600;margin-bottom:12px;text-align:left;color:#1d1d1f}
+
 /* ═══ FAQ ═══ */
 .faq-grid{display:grid;grid-template-columns:1fr 1fr;gap:24px;max-width:900px;margin:0 auto}
 .faq-item{background:#fff;border-radius:12px;padding:24px;box-shadow:0 2px 8px rgba(0,0,0,.04);border:1px solid rgba(0,0,0,.06)}

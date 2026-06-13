@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Leather-Look Jewelry Set Box](/images/cat-rigid-jewelry.jpg)
+![Leather-Look Jewelry Set Box](/images/cat-rigid-jewelry.webp)
 
 ## Product Overview
 

@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Kraft Eco Box](/images/kraft-eco-box.jpg)
+![Kraft Eco Box](/images/kraft-eco-box.webp)
 
 ## Product Overview
 

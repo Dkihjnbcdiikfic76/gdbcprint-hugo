@@ -11,9 +11,9 @@
 {{- if eq $cat "rigid-gift-boxes" -}}
   {{- $img = index (slice "/images/product-rigid-1.webp" "/images/product-rigid-2.webp" "/images/rigid-gift-boxes.webp") $i -}}
 {{- else if eq $cat "folding-cartons" -}}
-  {{- $img = index (slice "/images/product-fold-1.webp" "/images/product-fold-2.webp" "/images/product-fold-3.jpg") $i -}}
+  {{- $img = index (slice "/images/product-fold-1.webp" "/images/product-fold-2.webp" "/images/product-fold-3.webp") $i -}}
 {{- else if eq $cat "corrugated-mailers" -}}
-  {{- $img = index (slice "/images/product-corr-1.webp" "/images/product-corr-2.webp" "/images/product-corr-3.jpg") $i -}}
+  {{- $img = index (slice "/images/product-corr-1.webp" "/images/product-corr-2.webp" "/images/product-corr-3.webp") $i -}}
 {{- else if eq $cat "magnetic-closure-boxes" -}}
   {{- $img = index (slice "/images/magnetic-closure-box.webp" "/images/magnetic-closure-boxes.webp" "/images/product-rigid-2.webp") $i -}}
 {{- else if eq $cat "kraft-eco-boxes" -}}
@@ -25,7 +25,7 @@
 {{- else if eq $cat "paper-bags" -}}
   {{- $img = index (slice "/images/cat-paper-bag.webp" "/images/product-fold-1.webp" "/images/product-corr-1.webp") $i -}}
 {{- else if eq $cat "christmas-gift-boxes" -}}
-  {{- $img = index (slice "/images/product-gift-1.jpg" "/images/product-gift-2.jpg" "/images/cat-fold-gift.webp") $i -}}
+  {{- $img = index (slice "/images/product-gift-1.webp" "/images/product-gift-2.webp" "/images/cat-fold-gift.webp") $i -}}
 {{- else -}}
   {{- $img = index (slice "/images/cat-rigid-others.webp" "/images/rigid-box-hero.webp" "/images/product-rigid-1.webp") $i -}}
 {{- end -}}

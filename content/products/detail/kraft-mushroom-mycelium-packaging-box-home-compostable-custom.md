@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, EN 13432, OK Compost HOME"
 ---
 
-![Bincai Kraft Eco Boxes](/images/kraft-eco-box.jpg)
+![Bincai Kraft Eco Boxes](/images/kraft-eco-box.webp)
 
 Revolutionary mushroom mycelium-based packaging box — grown-to-shape in 7 days using agricultural hemp hurd substrate inoculated with mycelium spores. 100% home-compostable, breaks down in garden soil within 45 days. FSC-certified kraft outer wrap with soy-ink custom printing. Manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). 18,000 sqm factory with KBA 1050 4-color and Heidelberg 7+1 UV presses. Daily output 1.7 million boxes.
 

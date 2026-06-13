@@ -7,6 +7,6 @@ keywords: "folding carton, custom folding carton, paperboard carton, cosmetic bo
 layout: "products"
 ---
 
-![Custom Folding Cartons](/images/cat-fold-cosmetic.jpg)
+![Custom Folding Cartons](/images/cat-fold-cosmetic.webp)
 
 Custom folding cartons manufactured by Guangdong Bincai Color Printing Co., Ltd. — a full-chain packaging enterprise with 22 years of experience (founded 2003). Our 18,000 sqm factory (10,000 + 8,000 smart factory) operates KBA Rapida 105 4-color offset and Heidelberg Speedmaster CD 102 7+1 UV presses, delivering 1.7 million color boxes daily. ISO 9001:2015 and FSC Chain-of-Custody certified. We produce straight tuck end, reverse tuck end, auto-lock bottom, seal end, and hang-tab carton styles. Paper stocks: 200–450gsm coated art paper, C1S/C2S SBS board, kraft, and specialty substrates. Finishes include hot foil stamping, blind embossing, matte/gloss lamination, soft-touch coating, spot UV, window patching (PVC/PET/biodegradable film), and food-safe low-migration inks. MOQ 500 — free pre-production samples available.

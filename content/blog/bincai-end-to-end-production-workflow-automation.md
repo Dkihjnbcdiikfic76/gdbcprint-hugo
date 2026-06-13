@@ -2,12 +2,12 @@
 title: "From Prototype to 1.7 Million Boxes: Inside Bincai's End-to-End Production Workflow"
 date: 2026-06-11
 draft: false
-image: "/images/team-office.jpg"
+image: "/images/team-office.webp"
 description: "How Guangdong Bincai Color Printing's automated 18,000 sqm factory (10,000+8,000 smart factory) transforms paperboard into 1.7 million premium boxes daily — pre-press, offset printing, Bobst die-cutting, Heidelberg gluing, and 15 QC checkpoints across 22 years of continuous improvement."
 
 ---
 
-![Bincai Custom Paper Box Manufacturing — Factory & Production](/images/hero-banner-wide.jpg)
+![Bincai Custom Paper Box Manufacturing — Factory & Production](/images/hero-banner-wide.webp)
 
 When a brand places an order for 100,000 custom magnetic-closure gift boxes, the journey from flat paperboard to finished packaging spans over a dozen precision stages. At Guangdong Bincai Color Printing, this journey is powered by a fully integrated, ISO 9001 certified production line operating across 18,000 square meters (10,000+8,000 smart factory). Here's how we deliver **1.7 million boxes daily** with consistent quality.
 

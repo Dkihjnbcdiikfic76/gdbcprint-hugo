@@ -1,5 +1,5 @@
 {{ define "main" }}
-<article style="max-width:960px;margin:0 auto;padding:40px 20px 60px;">
+<article style="max-width:960px;margin:0 auto;padding:40px 24px 60px;">
 
 {{ if eq .Section "products" }}
 <div class="prod-header">
@@ -27,13 +27,13 @@
       <h2>Quick Specs</h2>
       <table style="width:100%;border-collapse:collapse;">
         {{ $catName := index .Params.categories 0 | humanize }}
-        <tr><td>Category</td><td>{{ $catName }}</td></tr>
-        {{ with .Params.material }}<tr><td>Material</td><td>{{ . }}</td></tr>{{ end }}
-        <tr><td>MOQ</td><td>{{ .Params.moq }} units</td></tr>
-        {{ with .Params.price }}<tr><td>Price</td><td style="color:#1a56db;">${{ . }}/pc</td></tr>{{ end }}
-        {{ with .Params.certification }}<tr><td>Certification</td><td>{{ . }}</td></tr>{{ end }}
-        <tr><td>Sample</td><td>3-5 days</td></tr>
-        <tr><td>Production</td><td>7-15 days</td></tr>
+        <tr><th>Category</th><td>{{ $catName }}</td></tr>
+        {{ with .Params.material }}<tr><th>Material</th><td>{{ . }}</td></tr>{{ end }}
+        <tr><th>MOQ</th><td>{{ .Params.moq }} units</td></tr>
+        {{ with .Params.price }}<tr><th>Price</th><td style="color:#1a56db;">${{ . }}/pc</td></tr>{{ end }}
+        {{ with .Params.certification }}<tr><th>Certification</th><td>{{ . }}</td></tr>{{ end }}
+        <tr><th>Sample</th><td>3-5 days</td></tr>
+        <tr><th>Production</th><td>7-15 days</td></tr>
       </table>
     </div>
 
@@ -64,7 +64,7 @@
     <div class="card related-card">
       {{ $relCat := index .Params.categories 0 }}
       {{ $relImg := partial "category-img.html" (dict "category" $relCat "title" .Title) }}
-      <img src="{{ $relImg }}" alt="{{ .Title }}" loading="lazy" decoding="async">
+      <img src="{{ $relImg }}" alt="{{ .Title }}" loading="lazy" decoding="async" style="max-width:100%;aspect-ratio:1;object-fit:cover;background:#f0f1f3;border-radius:8px 8px 0 0;">
       <div class="related-info">
         <div class="related-title"><a href="{{ .RelPermalink }}">{{ .Title | truncate 55 }}</a></div>
         <div class="related-meta">MOQ {{ .Params.moq }} · {{ index .Params.categories 0 | humanize }}</div>

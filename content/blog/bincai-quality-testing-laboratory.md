@@ -2,12 +2,12 @@
 title: "Inside Bincai's Quality Lab: How We Test 1.7 Million Boxes Daily"
 date: 2026-06-11
 draft: false
-image: "/images/carousel-factory.jpg"
+image: "/images/carousel-factory.webp"
 description: "A deep dive into Guangdong Bincai's in-house quality testing laboratory — ISO 9001 protocols, FSC chain-of-custody, AQL sampling, 15 testing instruments, and the QC culture behind 22 years of zero-critical-defect shipping."
 
 ---
 
-![Bincai Custom Paper Box Manufacturing — Factory & Production](/images/hero-banner-wide.jpg)
+![Bincai Custom Paper Box Manufacturing — Factory & Production](/images/hero-banner-wide.webp)
 
 When you order 50,000 custom rigid boxes for a luxury perfume launch, how do you know every single one meets spec before it ships? At Bincai, the answer is our in-house quality testing laboratory — a dedicated facility where every production batch undergoes systematic inspection before leaving our 18,000 sqm factory (10,000+8,000 smart factory).
 

@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Rigid Gift Boxes](/images/cat-rigid-others.jpg)
+![Bincai Rigid Gift Boxes](/images/cat-rigid-others.webp)
 
 Luxury magnetic closure rigid gift box with custom logo hot foil stamping — crafted at **Guangdong Bincai Color Printing Co., Ltd.**, a full-chain paper box manufacturer with 22 years of rigid box expertise (founded 2003). Our 18,000 sqm factory (10,000+8,000 smart factory) in Foshan operates KBA 1050 4-color and Heidelberg 7+1 UV presses, producing 1.7 million boxes daily. ISO 9001:2015 and FSC certified. Every magnetic closure box features precision-aligned N52-grade neodymium magnets for a satisfying snap-shut action.
 

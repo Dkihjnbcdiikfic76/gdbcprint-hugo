@@ -2,12 +2,12 @@
 title: "How to Order Custom Paper Boxes from China: A B2B Buyer's Guide to MOQ, Lead Times, and Sampling"
 date: 2026-06-11
 draft: false
-image: "/images/team-office.jpg"
+image: "/images/team-office.webp"
 description: "Everything international buyers need to know about ordering custom rigid boxes, folding cartons, and corrugated mailers from Guangdong Bincai — minimum order quantities (500–3,000 pcs), 15–20 day lead times, free structural samples, and sea/air freight logistics from Foshan to 60+ countries. ISO 9001 & FSC certified factory, 22 years experience, 1.7M+ daily output."
 
 ---
 
-![Bincai Custom Paper Box Manufacturing — Factory & Production](/images/hero-banner-wide.jpg)
+![Bincai Custom Paper Box Manufacturing — Factory & Production](/images/hero-banner-wide.webp)
 
 For procurement managers sourcing custom paper packaging from China, the process can feel opaque. What's the minimum order? How long does sampling take? Can I get FSC-certified material? This guide answers those questions using real data from Guangdong Bincai Color Printing — a 22-year manufacturer with ISO 9001 and FSC certification, producing 1.7 million boxes daily from an 18,000 sqm factory in Foshan.
 

@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Premium Jewelry Box Set](/images/cat-rigid-jewelry.jpg)
+![Bincai Premium Jewelry Box Set](/images/cat-rigid-jewelry.webp)
 
 ## Product Overview
 

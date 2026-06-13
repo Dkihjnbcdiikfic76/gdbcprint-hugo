@@ -7,6 +7,6 @@ keywords: "corrugated mailer, shipping box, e-commerce packaging, mailer box, cu
 layout: "products"
 ---
 
-![Custom Corrugated Mailers](/images/corrugated-mailer.jpg)
+![Custom Corrugated Mailers](/images/corrugated-mailer.webp)
 
 Custom corrugated mailers manufactured by Guangdong Bincai Color Printing Co., Ltd. — a full-chain packaging enterprise with 22 years of experience (founded 2003). Our 18,000 sqm factory (10,000 + 8,000 smart factory) operates automatic corrugated converting lines with inline die-cutting, KBA 1050 4-color offset label printing, and flexographic post-print. ISO 9001:2015 and FSC Chain-of-Custody certified. We produce BC-flute double-wall (6mm, 200# burst strength), B-flute, and E-flute mailers. Closure styles: self-locking tabs, tuck-top, tear strip, perforated rip-open. Optional VCI anti-corrosion treatment, water-resistant coating, anti-static. Pre-scored fold lines for flat-pack shipping. MOQ 500 — free pre-production samples available.

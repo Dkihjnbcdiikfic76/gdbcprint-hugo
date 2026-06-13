@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Kraft Eco Boxes](/images/kraft-eco-box.jpg)
+![Bincai Kraft Eco Boxes](/images/kraft-eco-box.webp)
 
 FSC-certified recyclable brown kraft paper box with window display for food packaging — the intersection of sustainability, visibility, and food safety. Manufactured by Guangdong Bincai Color Printing Co., Ltd., a 22-year packaging enterprise (founded 2003) operating KBA 1050 4-color and Heidelberg 7+1 UV presses in a 18,000 sqm (10,000+8,000 smart factory) ISO 9001:2015 & FSC Chain-of-Custody certified factory. We combine eco-conscious materials — FSC kraft board, soy-based inks, water-based adhesives, and compostable PLA window film — with industrial-scale production capacity of 1.7 million boxes daily to serve food brands in 40+ countries.
 

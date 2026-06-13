@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Luxury Paper Bag with Ribbon Handle Custom Logo](/images/product-gift-1.jpg)
+![Luxury Paper Bag with Ribbon Handle Custom Logo](/images/product-gift-1.webp)
 
 Premium luxury paper bag with ribbon handle custom logo — Guangdong Bincai Color Printing. 22 years factory, ISO 9001 & FSC.
 

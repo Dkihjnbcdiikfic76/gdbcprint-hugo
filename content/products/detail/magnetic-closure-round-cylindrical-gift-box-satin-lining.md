@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Magnetic Closure Round Gift Box](/images/magnetic-closure-box.jpg)
+![Magnetic Closure Round Gift Box](/images/magnetic-closure-box.webp)
 
 ## Product Overview
 

@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Jewelry Display Paper Box with LED Light Velvet](/images/cat-rigid-jewelry.jpg)
+![Jewelry Display Paper Box with LED Light Velvet](/images/cat-rigid-jewelry.webp)
 
 Premium jewelry display paper box with led light velvet — Guangdong Bincai Color Printing. 22 years factory, ISO 9001 & FSC.
 

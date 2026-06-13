@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001:2015, FSC Chain-of-Custody, FSC Recycled 100%"
 ---
 
-![FSC Certified Kraft Paper Box with Custom Stamp Logo](/images/kraft-eco-box.jpg)
+![FSC Certified Kraft Paper Box with Custom Stamp Logo](/images/kraft-eco-box.webp)
 
 ## Product Overview
 

@@ -2,12 +2,12 @@
 title: "ISO 9001 vs FSC Certification: What Paper Box Buyers Need to Know"
 date: 2026-06-08
 draft: false
-image: "/images/carousel-team.jpg"
+image: "/images/carousel-team.webp"
 description: "ISO 9001 vs FSC Certification: What Paper Box Buyers Need to Know — Guangdong Bincai Color Printing, ISO 9001 FSC certified manufacturer."
 
 ---
 
-![Bincai Custom Paper Box Manufacturing — Factory & Production](/images/hero-banner-wide.jpg)
+![Bincai Custom Paper Box Manufacturing — Factory & Production](/images/hero-banner-wide.webp)
 
 When sourcing custom paper boxes from China, two certifications matter most: ISO 9001 and FSC. Here's why.
 

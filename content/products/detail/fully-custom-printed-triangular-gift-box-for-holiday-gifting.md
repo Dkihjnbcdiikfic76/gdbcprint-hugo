@@ -11,7 +11,7 @@ params:
   material: "Greyboard 1200-1600gsm / Art Paper 157-250gsm / Hot Foil / Embossing / Custom Die-Cut"
   certification: "ISO 9001, FSC, SGS"
 ---
-![Fully Custom Printed Triangular Gift Box for Holiday Gifting](/images/cat-rigid-others.jpg)
+![Fully Custom Printed Triangular Gift Box for Holiday Gifting](/images/cat-rigid-others.webp)
 
 Premium custom fully custom printed triangular gift box for holiday gifting manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — a Diamond Member on Made-in-China.com since 2015, Audited Supplier with 22 years of experience.
 

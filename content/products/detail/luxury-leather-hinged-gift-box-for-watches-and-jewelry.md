@@ -11,7 +11,7 @@ params:
   material: "Greyboard 1000-1400gsm / Velvet Flocking / Satin Interior / LED Lighting / Foam Insert"
   certification: "ISO 9001, FSC, SGS"
 ---
-![Luxury Leather Hinged Gift Box for Watches and Jewelry](/images/cat-rigid-jewelry.jpg)
+![Luxury Leather Hinged Gift Box for Watches and Jewelry](/images/cat-rigid-jewelry.webp)
 
 Premium custom luxury leather hinged gift box for watches and jewelry manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — a Diamond Member on Made-in-China.com since 2015, Audited Supplier with 22 years of experience.
 

@@ -2,12 +2,12 @@
 title: "22 Years of Paper Box Manufacturing — The Bincai Story"
 date: 2026-05-20
 draft: false
-image: "/images/carousel-factory.jpg"
+image: "/images/carousel-factory.webp"
 description: "22 Years of Paper Box Manufacturing — The Bincai Story - Guangdong Bincai Color Printing, 22 years paper box manufacturer."
 
 ---
 
-![Bincai Custom Paper Box Manufacturing — Factory & Production](/images/hero-banner-wide.jpg)
+![Bincai Custom Paper Box Manufacturing — Factory & Production](/images/hero-banner-wide.webp)
 
 Founded in 2003 in Foshan, Guangdong Bincai Color Printing has grown from a small print shop to an 18,000 sqm full-chain packaging enterprise (10,000+8,000 smart factory, opened 2025 in Shunde Daliang, Foshan).
 

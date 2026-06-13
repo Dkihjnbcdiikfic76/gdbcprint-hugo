@@ -2,12 +2,12 @@
 title: "Bincai's 2025 Smart Factory: 8,000 sqm Expansion Doubles Paper Box Capacity"
 date: 2026-06-10
 draft: false
-image: "/images/carousel-factory.jpg"
+image: "/images/carousel-factory.webp"
 description: "Guangdong Bincai adds 8,000 sqm smart factory in 2025, bringing total production to 18,000 sqm. Daily output now exceeds 1.7 million boxes with automated Heidelberg and KBA press lines."
 
 ---
 
-![Bincai Smart Factory Expansion 2025 — 8,000 sqm New Facility](/images/hero-banner-wide.jpg)
+![Bincai Smart Factory Expansion 2025 — 8,000 sqm New Facility](/images/hero-banner-wide.webp)
 
 ## Meeting Global Demand with Automated Capacity
 

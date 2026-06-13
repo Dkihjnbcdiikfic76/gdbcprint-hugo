@@ -3,7 +3,7 @@
 {{/* Featured image */}}
 {{ with .Params.image }}
 <div style="margin-bottom:28px;border-radius:12px;overflow:hidden;box-shadow:0 2px 12px rgba(0,0,0,.08);">
-<img src="{{ . }}" alt="{{ $.Title }}" loading="lazy" decoding="async" style="max-width:100%;max-height:500px;object-fit:contain;display:block;background:#f5f5f7;">
+<img src="{{ . }}" alt="{{ $.Title }}" loading="lazy" decoding="async" style="width:100%;aspect-ratio:16/9;max-height:500px;object-fit:cover;display:block;background:#f5f5f7;border-radius:12px;">
 </div>
 {{ end }}
 

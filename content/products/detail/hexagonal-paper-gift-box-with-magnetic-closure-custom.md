@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Magnetic Closure Box](/images/magnetic-closure-box.jpg)
+![Bincai Magnetic Closure Box](/images/magnetic-closure-box.webp)
 
 ## Product Overview
 

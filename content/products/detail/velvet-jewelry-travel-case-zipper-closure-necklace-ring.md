@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Velvet Jewelry Travel Case](/images/cat-rigid-jewelry.jpg)
+![Velvet Jewelry Travel Case](/images/cat-rigid-jewelry.webp)
 
 ## Product Overview
 

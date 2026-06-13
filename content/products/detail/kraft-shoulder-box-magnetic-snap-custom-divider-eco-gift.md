@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, 100% Recyclable"
 ---
 
-![Kraft Paper Shoulder Box with Magnetic Snap Closure and Custom Divider — Eco-Friendly Gift Set Packaging](/images/kraft-eco-box.jpg)
+![Kraft Paper Shoulder Box with Magnetic Snap Closure and Custom Divider — Eco-Friendly Gift Set Packaging](/images/kraft-eco-box.webp)
 
 ## Product Overview
 

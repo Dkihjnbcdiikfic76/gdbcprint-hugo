@@ -3,10 +3,10 @@ title: "Custom Cosmetic Paper Box Packaging"
 date: 2026-06-11
 draft: false
 description: "Premium paper boxes for cosmetics, skincare, perfume, and beauty products. ISO 9001 FSC certified."
-image: /images/industry-cosmetics.jpg
+image: /images/industry-cosmetics.webp
 ---
 
-![Cosmetics Packaging](/images/industry-cosmetics.jpg)
+![Cosmetics Packaging](/images/industry-cosmetics.webp)
 
 Guangdong Bincai Color Printing has been manufacturing premium cosmetic packaging since 2003. Our 18,000 sqm factory (10,000 + 8,000 smart factory) with KBA and Heidelberg presses produces 1.7 million boxes daily.
 

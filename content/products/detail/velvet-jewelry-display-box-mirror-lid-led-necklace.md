@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Velvet Jewelry Display Box](/images/cat-rigid-jewelry.jpg)
+![Bincai Velvet Jewelry Display Box](/images/cat-rigid-jewelry.webp)
 
 Luxurious velvet jewelry display box with an integrated full-lid mirror and auto-activating LED strip — manufactured by **Guangdong Bincai Color Printing Co., Ltd.** (founded 2003, 22 years). The moment the lid opens, a discreet magnetic reed switch triggers the LED strip, bathing the necklace or pendant in soft, gallery-quality light. The full-lid mirror allows the wearer to see the piece against their skin immediately — no need to find a separate mirror. This one-two punch of illumination and reflection elevates the perceived value of the jewelry, making it the definitive packaging choice for premium jewelry brands, bridal boutiques, and artisan jewelers. The velvet-flocked interior with a custom die-cut necklace insert holds the piece securely, preventing tangling and protecting delicate chains. Produced on KBA 1050 4-color and Heidelberg 7+1 UV presses across 18,000 sqm (10,000+8,000 smart factory) of factory space. Daily output capacity of 1.7 million boxes (post-2025 expansion). ISO 9001:2015 and FSC Chain-of-Custody certified.
 

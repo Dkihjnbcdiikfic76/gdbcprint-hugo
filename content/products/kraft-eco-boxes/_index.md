@@ -7,6 +7,6 @@ keywords: "kraft box, eco packaging, sustainable box, recycled paper box, biodeg
 layout: "products"
 ---
 
-![Custom Kraft Eco Boxes](/images/kraft-eco-box.jpg)
+![Custom Kraft Eco Boxes](/images/kraft-eco-box.webp)
 
 Custom kraft eco boxes manufactured by Guangdong Bincai Color Printing Co., Ltd. — a full-chain packaging enterprise with 22 years of experience (founded 2003). Our 18,000 sqm factory (10,000 + 8,000 smart factory) produces sustainable packaging with FSC Chain-of-Custody certified recycled kraft paperboard, soy-based and low-VOC inks, and water-based adhesives. ISO 9001:2015 certified. Styles include folding cartons, rigid boxes, and corrugated mailers — all in kraft. Finishes: hot foil stamping, embossing, window cutouts, matte lamination. All materials REACH, RoHS, and EN 13432 compliant. MOQ 500 — free pre-production samples available.

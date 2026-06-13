@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, Biodegradable"
 ---
 
-![Bincai Kraft Eco Boxes](/images/kraft-eco-box.jpg)
+![Bincai Kraft Eco Boxes](/images/kraft-eco-box.webp)
 
 Earth-conscious kraft paper eco gift box with a plantable seed-embedded hang tag — packaging that gives back to the planet after unboxing. Produced at **Guangdong Bincai Color Printing Co., Ltd.** (founded 2003), our Foshan factory spans 18,000 sqm (10,000+8,000 smart factory) with KBA 1050 4-color and Heidelberg 7+1 UV presses, delivering 1.7 million boxes daily. ISO 9001:2015 and FSC certified. Printed with soy-based inks on FSC-certified kraft paperboard. The detachable hang tag is embedded with wildflower seeds — customers plant it and grow flowers, transforming packaging waste into blooming gardens.
 

@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Jewelry Boxes](/images/cat-rigid-jewelry.jpg)
+![Bincai Jewelry Boxes](/images/cat-rigid-jewelry.webp)
 
 Luxury 3-tier velvet jewelry display box with LED-lit mirror lid — designed for complete necklace + earring + ring gift sets. Burgundy velvet flocking with gold foil logo, integrated 3000K warm LED with touch dimmer, and N48 magnetic flap closure. Manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). 18,000 sqm integrated factory with KBA 1050 4-color and Heidelberg 7+1 UV presses. Daily output 1.7 million boxes.
 

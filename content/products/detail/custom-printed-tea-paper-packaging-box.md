@@ -11,7 +11,7 @@ params:
   material: "CCNB 350-450gsm / SBS C1S 15-24pt / Art Paper 250-450gsm / Aqueous Coating / Soft-Touch Lamination"
   certification: "ISO 9001, FSC, SGS"
 ---
-![Custom Printed Tea Paper Packaging Box](/images/cat-fold-cosmetic.jpg)
+![Custom Printed Tea Paper Packaging Box](/images/cat-fold-cosmetic.webp)
 
 Premium custom printed tea paper packaging box manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — a Diamond Member on Made-in-China.com since 2015, Audited Supplier with 22 years of experience.
 

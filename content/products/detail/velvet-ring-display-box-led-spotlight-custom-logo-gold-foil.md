@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Jewelry Box](/images/cat-rigid-jewelry.jpg)
+![Jewelry Box](/images/cat-rigid-jewelry.webp)
 
 ## Product Overview
 

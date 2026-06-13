@@ -19,13 +19,13 @@
 
 {{ $cat := index .Params.categories 0 }}
 {{ $img := "" }}
-{{ if eq $cat "rigid-gift-boxes" }}{{ $img = "/images/product-rigid-1.jpg" }}
-{{ else if eq $cat "folding-cartons" }}{{ $img = "/images/product-fold-1.jpg" }}
-{{ else if eq $cat "corrugated-mailers" }}{{ $img = "/images/product-corr-1.jpg" }}
-{{ else if eq $cat "magnetic-closure-boxes" }}{{ $img = "/images/product-gift-2.jpg" }}
-{{ else if eq $cat "jewelry-boxes" }}{{ $img = "/images/product-gift-1.jpg" }}
-{{ else if eq $cat "kraft-eco-boxes" }}{{ $img = "/images/product-corr-2.jpg" }}
-{{ else }}{{ $img = "/images/product-rigid-1.jpg" }}{{ end }}
+{{ if eq $cat "rigid-gift-boxes" }}{{ $img = "/images/product-rigid-1.webp" }}
+{{ else if eq $cat "folding-cartons" }}{{ $img = "/images/product-fold-1.webp" }}
+{{ else if eq $cat "corrugated-mailers" }}{{ $img = "/images/product-corr-1.webp" }}
+{{ else if eq $cat "magnetic-closure-boxes" }}{{ $img = "/images/product-gift-2.webp" }}
+{{ else if eq $cat "jewelry-boxes" }}{{ $img = "/images/product-gift-1.webp" }}
+{{ else if eq $cat "kraft-eco-boxes" }}{{ $img = "/images/product-corr-2.webp" }}
+{{ else }}{{ $img = "/images/product-rigid-1.webp" }}{{ end }}
 
 <img src="{{ $img }}" alt="{{ .Title }} - Bincai paper box packaging" loading="lazy" decoding="async" style="width:100%;aspect-ratio:1.6/1;object-fit:cover;border-radius:10px;margin-bottom:28px;box-shadow:0 2px 12px rgba(0,0,0,.08);">
 

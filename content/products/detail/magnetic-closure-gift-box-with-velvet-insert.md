@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Magnetic Closure Gift Box with Velvet Insert](/images/magnetic-closure-box.jpg)
+![Magnetic Closure Gift Box with Velvet Insert](/images/magnetic-closure-box.webp)
 
 Premium magnetic closure gift box with velvet insert — Guangdong Bincai Color Printing. 22 years factory, ISO 9001 & FSC.
 

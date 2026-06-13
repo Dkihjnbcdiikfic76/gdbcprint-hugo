@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Magnetic Closure Boxes](/images/magnetic-closure-box.jpg)
+![Bincai Magnetic Closure Boxes](/images/magnetic-closure-box.webp)
 
 Premium magnetic closure luxury chocolate gift box with gold foil stamping and satin ribbon — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). Featuring a book-style opening, hidden neodymium magnets, and a custom die-cut foam tray that cradles each individual chocolate for a flawless presentation. 18,000 sqm factory (10,000 sqm main facility + 8,000 sqm expansion) equipped with KBA 1050 4-color and Heidelberg 7+1 UV presses. Daily output 1.7 million boxes. ISO 9001:2015 & FSC certified.
 

@@ -2,12 +2,12 @@
 title: "Paperboard Selection Guide for Custom Packaging: SBS, CCNB, Kraft, and Duplex — How Bincai Engineers the Right Substrate for Every Box"
 date: 2026-06-11
 draft: false
-image: "/images/carousel-factory.jpg"
+image: "/images/carousel-factory.webp"
 description: "Comprehensive guide to paperboard substrates for custom packaging — SBS, CCNB, Kraft, and Duplex board properties, applications, and how Guangdong Bincai's 22 years of material engineering ensures the right choice for rigid boxes, folding cartons, corrugated mailers, and luxury packaging."
 
 ---
 
-![Bincai Custom Paper Box Manufacturing — Factory & Production](/images/hero-banner-wide.jpg)
+![Bincai Custom Paper Box Manufacturing — Factory & Production](/images/hero-banner-wide.webp)
 
 The difference between a box that arrives crushed and one that protects a $200 product through 45 days of ocean freight often comes down to a single decision: **which paperboard you choose**. At Guangdong Bincai Color Printing, where we manufacture 1.7 million boxes daily across six product categories, material selection is where engineering meets aesthetics. Here's the guide our own project managers use.
 

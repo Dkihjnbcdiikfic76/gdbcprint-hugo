@@ -11,7 +11,7 @@ params:
   material: "FSC Kraft Paperboard 200-350gsm / Recycled Kraft / Soy-Based Ink / Water-Based Adhesive"
   certification: "ISO 9001, FSC, SGS"
 ---
-![Eco-Friendly Paper Slide Box for Chocolate Candy Cosmetic](/images/kraft-eco-box.jpg)
+![Eco-Friendly Paper Slide Box for Chocolate Candy Cosmetic](/images/kraft-eco-box.webp)
 
 Premium custom eco-friendly paper slide box for chocolate candy cosmetic manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — a Diamond Member on Made-in-China.com since 2015, Audited Supplier with 22 years of experience.
 

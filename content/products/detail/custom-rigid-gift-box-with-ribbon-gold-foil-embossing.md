@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Rigid Gift Boxes](/images/product-gift-1.jpg)
+![Bincai Rigid Gift Boxes](/images/product-gift-1.webp)
 
 ## Product Overview
 

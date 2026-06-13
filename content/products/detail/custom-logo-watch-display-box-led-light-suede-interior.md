@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Jewelry Boxes](/images/cat-rigid-jewelry.jpg)
+![Bincai Jewelry Boxes](/images/cat-rigid-jewelry.webp)
 
 Luxury custom logo watch display box with integrated LED light and premium suede interior — engineered to elevate the unboxing moment for discerning watch enthusiasts. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** (founded 2003), our 18,000 sqm Foshan factory (10,000+8,000 smart factory) runs KBA 1050 4-color and Heidelberg 7+1 UV presses, producing 1.7 million boxes daily. ISO 9001:2015 and FSC certified. The magnetic reed switch activates warm LED illumination the moment the lid opens — no buttons, no cables, just an instant premium presentation.
 

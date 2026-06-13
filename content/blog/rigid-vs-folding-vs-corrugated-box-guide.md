@@ -2,12 +2,12 @@
 title: "Custom Paper Box Manufacturing: Rigid vs Folding vs Corrugated — Complete Guide"
 date: 2026-06-10
 draft: false
-image: "/images/team-office.jpg"
+image: "/images/team-office.webp"
 description: "Custom Paper Box Manufacturing: Rigid vs Folding vs Corrugated — Complete Guide — Guangdong Bincai Color Printing, ISO 9001 FSC certified manufacturer."
 
 ---
 
-![Bincai Custom Paper Box Manufacturing — Factory & Production](/images/hero-banner-wide.jpg)
+![Bincai Custom Paper Box Manufacturing — Factory & Production](/images/hero-banner-wide.webp)
 
 Choosing between rigid, folding, and corrugated paper boxes? Here is the complete guide from Guangdong Bincai Color Printing — 22 years of manufacturing experience.
 

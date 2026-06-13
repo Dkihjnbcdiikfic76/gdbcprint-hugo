@@ -3,10 +3,10 @@ title: "Custom Food Paper Box Packaging"
 date: 2026-06-11
 draft: false
 description: "Food-grade paper boxes, folding cartons for food, snacks, tea, coffee. FSC certified, food-safe inks."
-image: /images/industry-food.jpg
+image: /images/industry-food.webp
 ---
 
-![Food Packaging](/images/industry-food.jpg)
+![Food Packaging](/images/industry-food.webp)
 
 Guangdong Bincai Color Printing offers food-grade paper packaging manufactured under ISO 9001 and FSC certified conditions. All food packaging uses food-safe inks and materials.
 

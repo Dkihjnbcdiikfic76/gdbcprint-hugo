@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Folding Cartons](/images/product-fold-3.jpg)
+![Bincai Folding Cartons](/images/product-fold-3.webp)
 
 ## Product Overview
 

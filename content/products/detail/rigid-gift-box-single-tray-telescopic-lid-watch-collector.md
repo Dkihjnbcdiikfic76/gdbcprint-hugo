@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Rigid Gift Boxes](/images/product-gift-2.jpg)
+![Bincai Rigid Gift Boxes](/images/product-gift-2.webp)
 
 Premium rigid gift box with telescopic lid and single removable tray — designed for luxury watch collector display. Manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). 18,000 sqm integrated factory with KBA 1050 4-color and Heidelberg 7+1 UV presses. Daily output 1.7 million boxes.
 

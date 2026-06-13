@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Earring Display Box](/images/cat-rigid-jewelry.jpg)
+![Earring Display Box](/images/cat-rigid-jewelry.webp)
 
 ## Product Overview
 

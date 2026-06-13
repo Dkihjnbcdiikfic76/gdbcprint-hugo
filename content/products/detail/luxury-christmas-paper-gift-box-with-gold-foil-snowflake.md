@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Rigid Gift Box](/images/cat-rigid-others.jpg)
+![Bincai Rigid Gift Box](/images/cat-rigid-others.webp)
 
 Luxury Christmas paper gift box with gold foil snowflake pattern — manufactured by Guangdong Bincai Color Printing Co., Ltd., a Diamond Member on Made-in-China.com with 22 years of manufacturing excellence (founded 2003). The rigid 2.0mm greyboard construction wrapped in premium art paper delivers a substantial, luxury feel that elevates any gift presentation. The hot gold foil snowflake pattern is precision-stamped using a brass die, creating a reflective, dimensional surface that catches light beautifully under holiday display conditions. Available with satin or velvet-lined interior trays and optional magnetic closure. Daily output: 1.7 million color boxes + 220,000+ gift boxes.
 

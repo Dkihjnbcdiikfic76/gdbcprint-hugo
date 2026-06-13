@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Folding Cartons](/images/cat-fold-cosmetic.jpg)
+![Bincai Folding Cartons](/images/cat-fold-cosmetic.webp)
 
 Eco kraft folding carton with soy-based ink — a fully sustainable retail packaging solution manufactured by **Guangdong Bincai Color Printing Co., Ltd.** With 22 years of folding carton expertise, ISO 9001 & FSC certifications, and soy-based ink printing on KBA 1050 4-color and Heidelberg 7+1 UV presses, we produce 1.7 million eco-friendly boxes daily from our 18,000 sqm factory (10,000+8,000 smart factory) in Foshan. Every carton is biodegradable, recyclable, and printed with renewable soy inks — the responsible choice for brands committed to sustainability.
 

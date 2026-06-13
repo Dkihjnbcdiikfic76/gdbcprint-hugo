@@ -2,11 +2,11 @@
 title: "Canton Fair Packaging Strategy: How Bincai Prepares for the World's Largest Trade Show"
 date: 2026-06-11
 draft: false
-image: "/images/carousel-team.jpg"
+image: "/images/carousel-team.webp"
 description: "Learn how Guangdong Bincai Color Printing prepares paper box packaging for Canton Fair — booth-readiness, sample strategy, live demos, and why Foshan-based manufacturers win at China's biggest B2B trade show."
 ---
 
-![Bincai Custom Paper Box Manufacturing — Factory & Production](/images/hero-banner-wide.jpg)
+![Bincai Custom Paper Box Manufacturing — Factory & Production](/images/hero-banner-wide.webp)
 
 ## Canton Fair: The Ultimate B2B Packaging Showcase
 

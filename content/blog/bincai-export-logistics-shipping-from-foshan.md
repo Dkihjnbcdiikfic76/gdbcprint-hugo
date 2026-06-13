@@ -2,14 +2,14 @@
 title: "Export Logistics for Custom Paper Boxes: Sea Freight, Air Freight & Customs from Foshan to 60+ Countries"
 date: 2026-06-11
 draft: false
-image: "/images/carousel-factory.jpg"
+image: "/images/carousel-factory.webp"
 description: "Complete guide to exporting custom paper boxes from Guangdong Bincai's 18,000 sqm factory in Foshan — sea freight (FCL/LCL) vs air freight cost comparison, container loading capacity by box type (up to 220,000 rigid boxes per 40HQ), Incoterms (FOB Shenzhen, CIF, DDP), customs documentation (Form A/F, FSC CoC), transit times to US (25–35 days), EU (28–38 days), Middle East (18–25 days), Southeast Asia (7–12 days), and how Bincai's in-house logistics team manages 150+ monthly container exports. ISO 9001 & FSC certified. 22 years experience."
 tags: ["sea freight", "air freight", "FOB", "CIF", "container loading", "export documentation", "Foshan port", "Bincai logistics", "customs clearance", "FSC CoC", "paper box shipping"]
 keywords: ["export paper boxes from China", "sea freight Foshan", "FOB Shenzhen paper box", "custom box shipping logistics", "container loading rigid boxes", "Bincai export logistics", "FSC certified shipping", "paper packaging export documentation", "China to US sea freight packaging", "40HQ container paper boxes", "air freight packaging boxes", "Incoterms paper packaging", "customs clearance China export"]
 
 ---
 
-![Bincai Custom Paper Box Manufacturing — Factory & Production](/images/hero-banner-wide.jpg)
+![Bincai Custom Paper Box Manufacturing — Factory & Production](/images/hero-banner-wide.webp)
 
 When you've manufactured 100,000 custom rigid gift boxes at Bincai's 18,000 sqm factory in Foshan, the final — and often most anxiety-inducing — step is getting them safely to your warehouse in Chicago, Rotterdam, Dubai, or Sydney. With 22 years of export experience, Bincai ships **150+ containers monthly** to over 60 countries, and we've refined logistics into a predictable, documented science.
 

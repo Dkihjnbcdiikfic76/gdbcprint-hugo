@@ -7,6 +7,6 @@ keywords: "rigid gift box, luxury gift box, custom rigid box, premium packaging,
 layout: "products"
 ---
 
-![Custom Rigid Gift Boxes](/images/cat-rigid-others.jpg)
+![Custom Rigid Gift Boxes](/images/cat-rigid-others.webp)
 
 Custom rigid gift boxes manufactured by Guangdong Bincai Color Printing Co., Ltd. — a full-chain packaging enterprise with 22 years of experience (founded 2003). Our 18,000 sqm factory (10,000 + 8,000 smart factory) operates KBA Rapida 105 4-color offset and Heidelberg Speedmaster CD 102 7+1 UV presses, delivering 220,000+ rigid gift boxes daily. ISO 9001:2015 and FSC Chain-of-Custody certified. We produce hinged rigid boxes, magnetic closure boxes, ribbon-tie boxes, telescopic lid boxes, book-style boxes, and drawer boxes. Finishes include gold/silver/copper hot foil stamping, blind embossing/debossing, spot UV, soft-touch lamination, matte/gloss lamination, and metallic foil accents. Interior options: custom die-cut foam, velvet flocking, satin lining, cardstock dividers. MOQ 500 — free pre-production samples available.

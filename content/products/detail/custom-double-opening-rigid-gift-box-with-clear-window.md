@@ -11,7 +11,7 @@ params:
   material: "Greyboard 1200-1600gsm / Art Paper Wrap 157-250gsm / Hot Foil / Embossing / Matte Lamination"
   certification: "ISO 9001, FSC, SGS"
 ---
-![Custom Double-Opening Rigid Gift Box with Clear Window](/images/cat-rigid-others.jpg)
+![Custom Double-Opening Rigid Gift Box with Clear Window](/images/cat-rigid-others.webp)
 
 Premium custom double-opening rigid gift box with clear window manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — a Diamond Member on Made-in-China.com since 2015, Audited Supplier with 22 years of experience.
 

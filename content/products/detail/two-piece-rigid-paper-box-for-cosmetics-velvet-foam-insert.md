@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Rigid Gift Boxes](/images/cat-rigid-others.jpg)
+![Bincai Rigid Gift Boxes](/images/cat-rigid-others.webp)
 
 Premium two-piece rigid paper box with velvet lining and custom die-cut foam insert for luxury cosmetics packaging — manufactured by Guangdong Bincai Color Printing Co., Ltd. With 22 years of manufacturing experience, ISO 9001 & FSC certifications, and an 18,000 sqm integrated factory (10,000 + 8,000 smart factory 2025) operating KBA 1050 and Heidelberg 7+1 UV presses, we produce rigid set-up boxes that combine structural integrity with luxury finishes for the world's leading cosmetics brands.
 

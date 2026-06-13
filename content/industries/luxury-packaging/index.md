@@ -3,10 +3,10 @@ title: "Custom Luxury Paper Box Packaging"
 date: 2026-06-11
 draft: false
 description: "High-end luxury paper boxes for premium brands. Rigid boxes with magnetic closure, velvet interior, gold foil."
-image: /images/cat-rigid-others.jpg
+image: /images/cat-rigid-others.webp
 ---
 
-![Luxury Packaging](/images/cat-rigid-others.jpg)
+![Luxury Packaging](/images/cat-rigid-others.webp)
 Bincai manufactures luxury packaging that reflects your brand's premium positioning. Each box is crafted with precision on our KBA and Heidelberg presses.
 
 ## Luxury Packaging Solutions

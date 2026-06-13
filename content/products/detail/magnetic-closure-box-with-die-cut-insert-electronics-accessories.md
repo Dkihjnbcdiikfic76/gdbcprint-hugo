@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Magnetic Closure Box with Die-Cut Insert](/images/magnetic-closure-box.jpg)
+![Magnetic Closure Box with Die-Cut Insert](/images/magnetic-closure-box.webp)
 
 ## Product Overview
 

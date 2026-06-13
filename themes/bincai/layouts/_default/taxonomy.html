@@ -7,16 +7,16 @@
 <div class="prod-grid" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:16px;">
 {{ range .Pages }}
 {{ $cat := .Data.Term }}
-{{ $img := "/images/cat-rigid-others.jpg" }}
-{{ if eq $cat "rigid-gift-boxes" }}{{ $img = "/images/rigid-gift-boxes.jpg" }}
-{{ else if eq $cat "folding-cartons" }}{{ $img = "/images/folding-cartons.jpg" }}
-{{ else if eq $cat "corrugated-mailers" }}{{ $img = "/images/corrugated-mailers.jpg" }}
-{{ else if eq $cat "paper-bags" }}{{ $img = "/images/cat-paper-bag.jpg" }}
-{{ else if eq $cat "magnetic-closure-boxes" }}{{ $img = "/images/magnetic-closure-boxes.jpg" }}
-{{ else if eq $cat "kraft-eco-boxes" }}{{ $img = "/images/kraft-eco-boxes.jpg" }}
-{{ else if eq $cat "jewelry-boxes" }}{{ $img = "/images/jewelry-boxes.jpg" }}
-{{ else if eq $cat "toy-boxes" }}{{ $img = "/images/cat-fold-gift.jpg" }}
-{{ else if eq $cat "christmas-gift-boxes" }}{{ $img = "/images/cat-fold-gift.jpg" }}{{ end }}
+{{ $img := "/images/cat-rigid-others.webp" }}
+{{ if eq $cat "rigid-gift-boxes" }}{{ $img = "/images/rigid-gift-boxes.webp" }}
+{{ else if eq $cat "folding-cartons" }}{{ $img = "/images/folding-cartons.webp" }}
+{{ else if eq $cat "corrugated-mailers" }}{{ $img = "/images/corrugated-mailers.webp" }}
+{{ else if eq $cat "paper-bags" }}{{ $img = "/images/cat-paper-bag.webp" }}
+{{ else if eq $cat "magnetic-closure-boxes" }}{{ $img = "/images/magnetic-closure-boxes.webp" }}
+{{ else if eq $cat "kraft-eco-boxes" }}{{ $img = "/images/kraft-eco-boxes.webp" }}
+{{ else if eq $cat "jewelry-boxes" }}{{ $img = "/images/jewelry-boxes.webp" }}
+{{ else if eq $cat "toy-boxes" }}{{ $img = "/images/cat-fold-gift.webp" }}
+{{ else if eq $cat "christmas-gift-boxes" }}{{ $img = "/images/cat-fold-gift.webp" }}{{ end }}
 <div class="prod-card" style="background:#fff;border:1px solid #e0e0e0;border-radius:10px;overflow:hidden;box-shadow:rgba(0,0,0,.04) 2px 6px, rgba(0,0,0,.06) 4px 12px;transition:all .3s ease;">
 <img src="{{ $img }}" alt="{{ replace .Title "-" " " | title }}" loading="lazy" decoding="async" style="width:100%;aspect-ratio:1;object-fit:cover;">
 <div style="padding:16px;">

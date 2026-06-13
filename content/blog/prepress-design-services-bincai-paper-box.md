@@ -2,12 +2,12 @@
 title: "From Concept to Plate: How Bincai's Pre-Press & Design Team Ensures Print-Perfect Paper Boxes"
 date: 2026-06-12
 draft: false
-image: "/images/carousel-team.jpg"
+image: "/images/carousel-team.webp"
 description: "Bincai's 8-person pre-press team with Kodak Magnus 800 CTP, GMG color proofing, and Esko structural design ensures flawless paper box production. Digital proofs in 24-48 hours, color-accurate to Delta E < 2.0."
 
 ---
 
-![Bincai Pre-Press & Design Services — CTP, Color Proofing, Structural Engineering](/images/hero-banner-wide.jpg)
+![Bincai Pre-Press & Design Services — CTP, Color Proofing, Structural Engineering](/images/hero-banner-wide.webp)
 
 ## The Hidden MVP of Box Manufacturing
 
