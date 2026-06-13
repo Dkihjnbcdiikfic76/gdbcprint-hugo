@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Luxury Suede Jewelry Presentation Box with Magnetic Double-Door and LED Lighting](/images/cat-rigid-jewelry.webp)
+![Luxury Suede Jewelry Presentation Box with Magnetic Double-Door and LED Lighting](/images/cat-rigid-jewelry.jpg)
 
 ## Product Overview
 

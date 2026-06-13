@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, REACH"
 ---
 
-![Jewelry Display Paper Box with LED Light Velvet](/images/cat-rigid-jewelry.webp)
+![Jewelry Display Paper Box with LED Light Velvet](/images/cat-rigid-jewelry.jpg)
 
 Premium jewelry display paper box with integrated LED light and velvet interior — manufactured by **Guangdong Bincai Color Printing Co., Ltd.**, a full-chain packaging enterprise with 22 years of manufacturing excellence (founded 2003) and Diamond Member on Made-in-China.com since 2015. The integrated LED lighting transforms a standard jewelry box into an illuminated display case, dramatically enhancing product presentation at retail counters, trade shows, and e-commerce unboxing moments. Produced across 18,000 sqm of factory space (10,000 + 8,000 sqm smart factory, 2025 expansion) on KBA 1050 4-color and Heidelberg Speedmaster XL 7+1 UV offset presses. Daily output: 1.7 million color boxes + 220,000+ rigid gift boxes. ISO 9001:2015, FSC Chain-of-Custody, and REACH compliant.
 

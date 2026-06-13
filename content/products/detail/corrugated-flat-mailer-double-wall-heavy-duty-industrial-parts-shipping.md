@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Corrugated Mailers](/images/cat-fold-mailer.webp)
+![Bincai Corrugated Mailers](/images/corrugated-mailer.jpg)
 
 Corrugated flat mailer with double-wall BC-flute construction for heavy-duty industrial parts shipping — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). Engineered for heavy industrial components, automotive spare parts, machinery components, tools, and metal fabrications requiring robust shipping protection. The BC-flute double-wall construction (6mm total thickness) delivers 200# burst strength for superior stacking and puncture resistance. Self-locking tab closure eliminates tape while providing secure, tamper-evident sealing. The flat mailer design stacks efficiently for warehouse storage and ships flat to reduce freight costs. Custom flexographic post-print with KBA 1050 offset-printed labels provides brand identification. Our 18,000 sqm Foshan facility delivers corrugated packaging under ISO 9001:2015 and FSC Chain-of-Custody certification.
 

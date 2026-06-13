@@ -11,7 +11,7 @@ params:
   material: "Greyboard 1000-1400gsm / Velvet Flocking / Satin Interior / LED Lighting / Foam Insert"
   certification: "ISO 9001, FSC, SGS"
 ---
-![Luxury Leather Hinged Gift Box for Watches and Jewelry](/images/cat-rigid-jewelry.webp)
+![Luxury Leather Hinged Gift Box for Watches and Jewelry](/images/cat-rigid-jewelry.jpg)
 
 ## Product Overview
 

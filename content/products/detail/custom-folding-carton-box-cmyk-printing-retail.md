@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Custom Folding Carton Box CMYK Printing Retail](/images/cat-fold-cosmetic.webp)
+![Custom Folding Carton Box CMYK Printing Retail](/images/cat-fold-cosmetic.jpg)
 
 ## Product Overview
 

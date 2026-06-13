@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Kraft Eco Folding Box](/images/kraft-eco-box.webp)
+![Kraft Eco Folding Box](/images/kraft-eco-box.jpg)
 
 Premium custom kraft paper folding box for sustainable retail packaging — manufactured by Guangdong Bincai Color Printing Co., Ltd., an ISO 9001 & FSC certified factory with 22 years of experience. Our 18,000 sqm Foshan facility (10,000+8,000 smart factory) produces 1.7 million boxes daily on KBA and Heidelberg presses, delivering eco-friendly packaging without compromising on print quality.
 

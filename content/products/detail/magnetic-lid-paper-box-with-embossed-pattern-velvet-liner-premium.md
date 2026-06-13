@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Magnetic Lid Paper Box with Embossed Pattern Velvet Liner](/images/magnetic-closure-box.webp)
+![Magnetic Lid Paper Box with Embossed Pattern Velvet Liner](/images/magnetic-closure-box.jpg)
 
 ## Product Overview
 

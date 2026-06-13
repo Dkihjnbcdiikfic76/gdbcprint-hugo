@@ -11,7 +11,7 @@ params:
   material: "Greyboard / Velvet / Satin"
   certification: "ISO 9001, FSC"
 ---
-![Jewelry Box](/images/cat-rigid-jewelry.webp)
+![Jewelry Box](/images/cat-rigid-jewelry.jpg)
 
 ## Product Overview
 

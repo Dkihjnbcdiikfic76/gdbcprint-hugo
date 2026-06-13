@@ -11,7 +11,7 @@ params:
   material: "Greyboard 1200-1600gsm / Art Paper Wrap 157-250gsm / Hot Foil / Embossing / Matte Lamination"
   certification: "ISO 9001, FSC, SGS"
 ---
-![Premium Luxury Gift Box for Health Supplement Packaging](/images/cat-rigid-others.webp)
+![Premium Luxury Gift Box for Health Supplement Packaging](/images/cat-rigid-others.jpg)
 
 Premium custom premium luxury gift box for health supplement packaging manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — a Diamond Member on Made-in-China.com since 2015, Audited Supplier with 22 years of experience.
 

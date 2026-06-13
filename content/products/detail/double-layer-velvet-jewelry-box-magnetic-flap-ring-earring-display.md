@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Jewelry Boxes](/images/cat-jewelry-box.webp)
+![Bincai Jewelry Boxes](/images/cat-rigid-jewelry.jpg)
 
 Double-layer velvet jewelry box with magnetic flap closure for ring and earring display — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). Designed for jewelry brands and retailers needing an elegant, organized display for ring and earring collections. The double-layer construction features a removable upper tray with precision die-cut ring slots (8–12 rings) and earring card holders, plus a spacious lower compartment for necklaces, bracelets, and certificates. Black premium flocked velvet interior (1.2mm pile height) cradles each piece securely. The N42 neodymium magnetic flap provides a satisfying closure with invisible integration. Produced on German-engineered KBA Rapida 105 4-color press with soft-touch matte lamination at our 18,000 sqm Foshan facility. 220,000+ boxes daily under ISO 9001:2015 and FSC certification.
 

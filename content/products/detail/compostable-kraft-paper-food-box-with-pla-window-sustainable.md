@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001:2015, FSC Chain-of-Custody, EN 13432, ASTM D6400"
 ---
 
-![Compostable Kraft Food Box with PLA Window](/images/kraft-eco-box.webp)
+![Compostable Kraft Food Box with PLA Window](/images/kraft-eco-box.jpg)
 
 ## Product Overview
 

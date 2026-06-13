@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Jewelry Boxes](/images/cat-rigid-jewelry.webp)
+![Bincai Jewelry Boxes](/images/cat-rigid-jewelry.jpg)
 
 Custom bracelet gift box with magnetic flap closure — manufactured by Guangdong Bincai Color Printing Co., Ltd., a 22-year packaging enterprise (founded 2003) with KBA 1050 4-color and Heidelberg 7+1 UV printing capabilities across 18,000 sqm (10,000+8,000 smart factory) of production space. Designed for jewelry brands, retailers, and e-commerce sellers, this box features a soft velvet inlay base with a removable satin pillow insert for elegant bracelet presentation. The rigid 2.0mm greyboard construction provides crush protection during shipping while the density gives it the premium weight that luxury jewelry customers expect. Magnetic flap closure uses neodymium N35 magnets for a secure, silent close. CMYK offset printing with Pantone spot color matching ensures exact brand colors. Daily output 1.7 million boxes. ISO 9001 and FSC certified.
 

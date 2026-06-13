@@ -11,7 +11,7 @@ params:
   material: "Greyboard 1200-1600gsm / Velvet Flocking / Satin Lining / Art Paper 157gsm"
   certification: "ISO 9001, FSC"
 ---
-![Jewelry Box](/images/cat-rigid-jewelry.webp)
+![Jewelry Box](/images/cat-rigid-jewelry.jpg)
 
 ## Product Overview
 

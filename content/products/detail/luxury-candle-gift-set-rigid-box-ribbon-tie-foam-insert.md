@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Rigid Gift Boxes](/images/cat-rigid-others.webp)
+![Bincai Rigid Gift Boxes](/images/cat-rigid-others.jpg)
 
 Luxury candle gift set rigid box with ribbon tie closure and custom foam insert — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). 18,000 sqm factory (10,000+8,000 smart factory) with KBA 1050 4-color and Heidelberg 7+1 UV presses. Daily output 1.7 million boxes.
 

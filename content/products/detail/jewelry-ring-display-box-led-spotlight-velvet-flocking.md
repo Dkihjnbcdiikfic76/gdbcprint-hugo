@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Jewelry Boxes](/images/cat-rigid-jewelry.webp)
+![Bincai Jewelry Boxes](/images/cat-rigid-jewelry.jpg)
 
 Captivating jewelry ring display box with integrated LED spotlight and luxurious velvet flocking interior — designed to make every ring sparkle at first sight. Manufactured at **Guangdong Bincai Color Printing Co., Ltd.** (founded 2003), our 18,000 sqm Foshan factory runs KBA 1050 4-color and Heidelberg 7+1 UV presses with Bobst foil stamping and automatic rigid box production lines, producing 220,000+ rigid gift boxes daily alongside 1.7 million color boxes. ISO 9001:2015 and FSC Chain-of-Custody certified. The warm LED spotlight activates automatically upon opening via a magnetic reed switch, illuminating the ring from an optimal 45° angle for maximum diamond brilliance and gemstone fire. Every LED module undergoes 100% illumination testing and 10,000-cycle switch endurance verification.
 

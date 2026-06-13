@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Rigid Gift Boxes](/images/cat-rigid-others.webp)
+![Bincai Rigid Gift Boxes](/images/cat-rigid-others.jpg)
 
 Hinged rigid gift box with metallic pearl board for premium wine and spirits packaging — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). Engineered for luxury wine, champagne, whiskey, cognac, and premium spirits brands requiring a prestigious unboxing experience. The book-style hinged lid opens to reveal a satin-lined interior with a precision die-cut bottle cradle that securely holds standard 750ml bottles and larger formats. The exterior features luminous metallic pearl board surface with optional hot foil stamping for brand logos and vintage details. Constructed with 2.5mm greyboard walls for exceptional structural rigidity and protection during gifting and transport. Produced on Heidelberg Speedmaster CD 102 7+1 UV press with inter-deck UV curing and Bobst SP 102 BMA foil stamping. Our 18,000 sqm Foshan facility delivers 220,000+ rigid boxes daily under ISO 9001:2015 and FSC Chain-of-Custody certification.
 

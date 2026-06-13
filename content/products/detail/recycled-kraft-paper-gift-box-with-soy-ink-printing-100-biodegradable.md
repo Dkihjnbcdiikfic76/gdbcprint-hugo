@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, REACH compliant, ASTM D6400"
 ---
 
-![Kraft Eco Box](/images/kraft-eco-box.webp)
+![Kraft Eco Box](/images/kraft-eco-box.jpg)
 
 ## Product Overview
 

@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Folding Cartons](/images/cat-fold-cosmetic.webp)
+![Bincai Folding Cartons](/images/cat-fold-cosmetic.jpg)
 
 Premium custom folding carton with integrated die-cut carry handle and striking spot UV finish — the ultimate luxury retail packaging that doubles as a shopping bag. Built at **Guangdong Bincai Color Printing Co., Ltd.** (founded 2003), our 18,000 sqm Foshan factory (10,000+8,000 smart factory) operates KBA 1050 4-color and Heidelberg 7+1 UV presses, producing 1.7 million boxes daily. ISO 9001:2015 and FSC certified. The ergonomic die-cut handle eliminates the need for separate shopping bags, reducing plastic waste while elevating the customer unboxing experience.
 

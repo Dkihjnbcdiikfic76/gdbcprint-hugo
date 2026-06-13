@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Kraft Eco Boxes](/images/kraft-eco-box.webp)
+![Bincai Kraft Eco Boxes](/images/kraft-eco-box.jpg)
 
 FSC-certified kraft paper hinged-lid box with compostable PLA window film for food display and bakery packaging — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). This is the industry's most complete end-to-end compostable packaging solution: FSC kraft board, PLA (polylactic acid) window film certified to EN 13432 industrial composting standard, soy-based ink (Müller Martini certified, low-VOC, heavy-metal-free), and water-based compostable coating — every component designed to return to soil in industrial composting facilities within 90 days. The hinged-lid design with locking tab opens and closes repeatedly without tearing, maintaining structural integrity through multiple customer interactions at farmers' markets, bakeries, and retail displays. Produced on KBA 1050 4-color presses across 18,000 sqm factory floor (10,000+8,000 smart factory). Daily output 1.7 million boxes. ISO 9001 and FSC certified. Food-grade compliant per FDA 21 CFR and EU Regulation (EC) No. 1935/2004 for direct food contact.
 

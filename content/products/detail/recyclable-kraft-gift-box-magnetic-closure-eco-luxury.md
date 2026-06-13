@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, Recyclable"
 ---
 
-![Bincai Recyclable Kraft Eco-Luxury Gift Box](/images/kraft-eco-box.webp)
+![Bincai Recyclable Kraft Eco-Luxury Gift Box](/images/kraft-eco-box.jpg)
 
 ## Product Overview
 

@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Folding Carton Tuck Top](/images/cat-fold-cosmetic.webp)
+![Folding Carton Tuck Top](/images/cat-fold-cosmetic.jpg)
 
 Folding carton with tuck-top closure and auto-lock bottom for snack food packaging — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). 18,000 sqm factory (10,000+8,000 smart factory) with KBA and Heidelberg presses. Daily output 1.7 million boxes.
 

@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Kraft Eco Boxes](/images/kraft-eco-box.webp)
+![Bincai Kraft Eco Boxes](/images/kraft-eco-box.jpg)
 
 Eco-friendly kraft paper gift box with natural cotton rope handle and custom print — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). 18,000 sqm factory (10,000+8,000 smart factory) with KBA and Heidelberg presses. Daily output 1.7 million boxes.
 

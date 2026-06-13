@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, SGS"
 ---
 
-![Art Pattern Square Paper Gift Box for Premium Packaging](/images/cat-rigid-others.webp)
+![Art Pattern Square Paper Gift Box for Premium Packaging](/images/cat-rigid-others.jpg)
 
 Premium custom art pattern square paper gift box for premium packaging manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — a Diamond Member on Made-in-China.com since 2015, Audited Supplier with 22 years of experience (founded 2003). Our 18,000 sqm dual factory (10,000+8,000 sqm smart factory, 2025 expansion) runs KBA 1050 4-color and Heidelberg 7+1 UV offset presses delivering 175 LPI precision. Daily output: 1.7 million color boxes + 220,000+ rigid gift boxes. ISO 9001:2015 and FSC Chain-of-Custody certified.
 

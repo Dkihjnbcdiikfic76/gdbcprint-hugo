@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Magnetic Closure Box](/images/magnetic-closure-box.webp)
+![Magnetic Closure Box](/images/magnetic-closure-box.jpg)
 
 ## Magnetic Closure Candle Box with Window Display
 

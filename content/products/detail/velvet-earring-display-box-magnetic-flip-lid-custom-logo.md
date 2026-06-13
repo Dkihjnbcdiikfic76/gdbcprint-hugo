@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Jewelry Boxes](/images/cat-rigid-jewelry.webp)
+![Bincai Jewelry Boxes](/images/cat-rigid-jewelry.jpg)
 
 Custom velvet earring display box with magnetic flip lid — the go-to packaging format for jewelry brands selling earrings, studs, and small accessories. Manufactured by Guangdong Bincai Color Printing Co., Ltd. with over two decades of expertise in luxury rigid and jewelry packaging.
 

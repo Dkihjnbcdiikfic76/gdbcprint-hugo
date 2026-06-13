@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Kraft Paper Gift Box with Window Display Eco](/images/kraft-eco-box.webp)
+![Kraft Paper Gift Box with Window Display Eco](/images/kraft-eco-box.jpg)
 
 Premium kraft paper gift box with window display eco — Guangdong Bincai Color Printing. 22 years factory, ISO 9001 & FSC.
 
