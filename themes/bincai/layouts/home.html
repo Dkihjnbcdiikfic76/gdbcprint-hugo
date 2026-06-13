@@ -1,9 +1,9 @@
 {{ define "main" }}
 <section style="background:linear-gradient(135deg,#0d1b3e,#1a3a6b,#1a56db);color:#fff;padding:80px 20px 60px;text-align:center;position:relative;overflow:hidden;">
-<div style="position:absolute;inset:0;background:url('/images/factory-hero-bg.jpg') center/cover;opacity:.12;"></div>
+<div style="position:absolute;inset:0;background:url('/images/factory-hero-bg.jpg') center/cover;opacity:.18;"></div>
 <div style="position:relative;z-index:1;">
-<h1 style="font-size:clamp(28px,5vw,48px);font-weight:700;line-height:1.1;max-width:700px;margin:0 auto 12px;color:#fff;">Custom Paper Box Manufacturer</h1>
-<p style="font-size:16px;max-width:700px;margin:0 auto 24px;line-height:2.2;opacity:.95;">
+<h1 style="font-size:clamp(28px,4.5vw,42px);font-weight:700;line-height:1.15;max-width:700px;margin:0 auto 10px;color:#fff;">Custom Paper Box Manufacturer</h1>
+<p style="font-size:19px;max-width:720px;margin:0 auto 24px;line-height:2.2;opacity:.95;">
 <span style="display:inline-block;margin:0 10px 4px 0;">✓ 22 Years Since 2003</span>
 <span style="display:inline-block;margin:0 10px 4px 0;">✓ ISO 9001 &amp; FSC Certified</span>
 <span style="display:inline-block;margin:0 10px 4px 0;">✓ 18,000m² Factory</span>
@@ -25,27 +25,27 @@
 </div></section>
 
 <!-- MIC BANNER -->
-<section style="background:linear-gradient(135deg,#ff6b35,#e65100);color:#fff;text-align:center;padding:24px 20px;">
+<section style="background:linear-gradient(135deg,#e8613c,#d15532);color:#fff;text-align:center;padding:24px 20px;">
 <div style="max-width:800px;margin:0 auto;">
 <span style="font-size:20px;">⭐</span> 
 <a href="https://bincaipaperbox.en.made-in-china.com/" target="_blank" rel="noopener" style="color:#fff;font-size:18px;font-weight:700;text-decoration:underline;">
-Visit Our Made-in-China.com Store — Diamond Member Since 2015, Audited Supplier, 200+ Products
+Visit Our Made-in-China.com Store — Diamond Member Since 2015, Audited Supplier, {{ len (where .Site.RegularPages "Section" "products") }}+ Products
 </a>
 </div>
 </section>
 
 <section style="background:#fff;padding:40px 20px;border-bottom:1px solid #e8e8ed;">
 <div class="ctr" style="max-width:900px;margin:0 auto;display:flex;justify-content:space-around;text-align:center;flex-wrap:wrap;gap:24px;">
-<div><div style="font-size:42px;font-weight:700;color:#1a56db;line-height:1.1;">22+</div><div style="font-size:14px;color:#555;margin-top:6px;font-weight:500;">Years</div></div>
-<div><div style="font-size:42px;font-weight:700;color:#1a56db;line-height:1.1;">{{ len (where .Site.RegularPages "Section" "products") }}</div><div style="font-size:14px;color:#555;margin-top:6px;font-weight:500;">Products</div></div>
-<div><div style="font-size:42px;font-weight:700;color:#1a56db;line-height:1.1;">1.7M</div><div style="font-size:14px;color:#555;margin-top:6px;font-weight:500;">Boxes/Day</div></div>
-<div><div style="font-size:42px;font-weight:700;color:#1a56db;line-height:1.1;">200+</div><div style="font-size:14px;color:#555;margin-top:6px;font-weight:500;">Clients</div></div>
+<div><div style="font-size:42px;font-weight:700;color:#1a56db;line-height:1.1;">22+</div><div style="font-size:15px;color:#555;margin-top:6px;font-weight:500;">Years</div></div>
+<div><div style="font-size:42px;font-weight:700;color:#1a56db;line-height:1.1;">{{ len (where .Site.RegularPages "Section" "products") }}</div><div style="font-size:15px;color:#555;margin-top:6px;font-weight:500;">Products</div></div>
+<div><div style="font-size:42px;font-weight:700;color:#1a56db;line-height:1.1;">1.7M</div><div style="font-size:15px;color:#555;margin-top:6px;font-weight:500;">Boxes/Day</div></div>
+<div><div style="font-size:42px;font-weight:700;color:#1a56db;line-height:1.1;">200+</div><div style="font-size:15px;color:#555;margin-top:6px;font-weight:500;">Clients</div></div>
 </div>
 </section>
 
-<section style="padding:50px 20px;max-width:1200px;margin:0 auto;">
-<h2 style="font-size:24px;font-weight:700;color:#1d1d1f;margin-bottom:24px;">Product Categories</h2>
-<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:16px;">
+<section style="padding:60px 20px;max-width:1200px;margin:0 auto;">
+<h2 style="font-size:24px;font-weight:700;color:#1d1d1f;margin-bottom:28px;">Product Categories</h2>
+<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:20px;">
 {{ $cats := slice 
   (dict "name" "Rigid Gift Boxes" "slug" "rigid-gift-boxes" "img" "/images/rigid-gift-boxes.jpg")
   (dict "name" "Folding Cartons" "slug" "folding-cartons" "img" "/images/folding-cartons.jpg")
@@ -157,6 +157,6 @@ Visit Our Made-in-China.com Store — Diamond Member Since 2015, Audited Supplie
 <section style="background:linear-gradient(135deg,#0d1b3e,#1a56db);color:#fff;padding:60px 20px;text-align:center;">
 <h2 style="font-size:26px;font-weight:700;margin-bottom:12px;">Start Your Custom Packaging Project</h2>
 <p style="opacity:.85;max-width:460px;margin:0 auto 20px;font-size:15px;">Free quote in 24 hours · Samples available · Factory visits welcome</p>
-<a href="/contact/" class="btn-cta" style="font-size:16px;padding:14px 32px;background:#ff6b35;color:#fff;font-weight:600;border-radius:8px;display:inline-block;text-decoration:none;">Request Quote Now</a>
+<a href="/contact/" class="btn-cta" style="font-size:16px;padding:14px 32px;background:#e8613c;color:#fff;font-weight:600;border-radius:8px;display:inline-block;text-decoration:none;">Request Quote Now</a>
 </section>
 {{ end }}

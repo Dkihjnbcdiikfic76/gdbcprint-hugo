@@ -18,7 +18,7 @@
   <div class="prod-img-box">
     {{ $cat := index .Params.categories 0 }}
     {{ $prodImg := partial "category-img.html" (dict "category" $cat "title" .Title) }}
-    <img src="{{ $prodImg }}" alt="{{ .Title }}" loading="lazy" decoding="async">
+    <img src="{{ $prodImg }}" alt="{{ .Title }}" loading="lazy" decoding="async" style="width:100%;max-width:520px;aspect-ratio:1;object-fit:cover;background:#f0f1f3;border-radius:12px;">
   </div>
 
   {{/* Specs + CTA */}}
@@ -50,11 +50,10 @@
 </div>
 {{ end }}
 
-<div style="font-size:15px;line-height:1.8;color:#1d1d1f;max-width:100%;overflow:hidden;">
+<div style="font-size:15px;line-height:1.85;color:#1d1d1f;max-width:760px;margin:0 auto;overflow:hidden;">
 {{ .Content }}
 </div>
 
-{{ if eq .Section "products" }}
 <div class="related-section">
   <h2>Related Products</h2>
   <div class="related-grid">
