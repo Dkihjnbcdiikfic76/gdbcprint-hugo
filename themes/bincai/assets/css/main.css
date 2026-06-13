@@ -26,9 +26,11 @@ nav .navlink[aria-current]{color:#1a56db;font-weight:600}
 /* --- Layout --- */
 .container,.ctr{max-width:1200px;margin:0 auto;padding:0 20px}
 
-/* --- Breadcrumb --- */
-.breadcrumb{max-width:1200px;margin:0 auto;padding:12px 20px;font-size:12px;color:#888}
-.breadcrumb a{color:#1a56db}
+/* --- Stat Labels --- */
+.stat-label{font-size:16px;color:#555;margin-top:6px;font-weight:500;letter-spacing:.3px}
+/* --- Hero CTA Button Enhancement --- */
+.hero-btn-white{font-size:16px;padding:14px 32px;background:#fff;color:#1a56db;font-weight:600;border-radius:8px;display:inline-block;text-decoration:none;box-shadow:0 2px 8px rgba(0,0,0,.18),0 0 0 1px rgba(255,255,255,.3);transition:.2s}
+.hero-btn-white:hover{box-shadow:0 4px 16px rgba(0,0,0,.25),0 0 0 2px rgba(255,255,255,.5);transform:translateY(-1px)}
 
 /* --- Cards --- */
 .card{background:#fff;border-radius:12px;overflow:hidden;box-shadow:0 1px 3px rgba(0,0,0,.06),0 2px 8px rgba(0,0,0,.04);transition:.25s}
@@ -39,8 +41,10 @@ nav .navlink[aria-current]{color:#1a56db;font-weight:600}
 .card-info h3 a:hover{color:#1a56db}
 
 /* --- Image lazy-load fade-in --- */
-img[loading="lazy"]{opacity:0;transition:opacity .4s}
+img[loading="lazy"]{opacity:0;transition:opacity .35s ease-in}
 img[loading="lazy"].loaded,img[loading="lazy"][src]{opacity:1}
+/* Prevent layout shift on card images during lazy load */
+.card img[loading="lazy"]{min-height:200px;background:#f0f1f3}
 
 /* --- Buttons --- */
 .btn{display:inline-block;background:#fff;color:#1a56db;padding:12px 28px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;transition:.2s;border:none;cursor:pointer;font-family:inherit}
@@ -78,9 +82,9 @@ img[loading="lazy"].loaded,img[loading="lazy"][src]{opacity:1}
 article p,article li{font-size:16px;line-height:1.85;margin-bottom:1.2em}
 article table,.content table{width:100%;border-collapse:collapse;margin:20px 0;font-size:14px}
 article td,article th,.content td,.content th{padding:11px 14px!important;border-bottom:1px solid #e8e8ed;text-align:left;vertical-align:top}
-article th,.content th{font-weight:600;color:#1d1d1f;font-size:13px;background:#f5f5f7;border-bottom:2px solid #d0d0d5}
+article th,.content th{font-weight:600;color:#1d1d1f;font-size:14px;background:#f5f5f7;border-bottom:2px solid #d0d0d5}
 article tr:last-child td,.content tr:last-child td{border-bottom:none}
-article img{width:100%;border-radius:12px;margin:20px 0;aspect-ratio:16/9;object-fit:cover;background:#f0f1f3}
+article img{width:100%;border-radius:12px;margin:20px 0}
 /* alternating row colors */
 article tbody tr:nth-child(even),.content tbody tr:nth-child(even){background:#fafafa}
 /* article link hover */
@@ -99,7 +103,7 @@ article a:hover{text-decoration:underline}
 
 /* --- Quick Specs Box --- */
 .quick-specs{background:#f5f5f7;border-radius:12px;padding:24px 28px;flex:1}
-.quick-specs h2{font-size:15px;font-weight:600;margin-bottom:14px;color:#1d1d1f}
+.quick-specs h2{font-size:18px;font-weight:600;margin-bottom:14px;color:#1d1d1f}
 .quick-specs td:first-child{color:#888;width:40%}
 .quick-specs td{padding:10px 12px 10px 0!important;font-size:14px;vertical-align:top}
 .quick-specs td+td{font-weight:500;padding:10px 12px!important}
@@ -107,7 +111,7 @@ article a:hover{text-decoration:underline}
 /* --- CTA Panel (Product Detail & Sidebar) --- */
 .cta-panel{background:linear-gradient(135deg,#f0f4ff,#e8f0fe);border-radius:12px;padding:24px 28px;text-align:center;border:1px solid #d6e4ff}
 .cta-panel h2{font-size:16px;font-weight:600;margin-bottom:6px;color:#1a56db}
-.cta-panel p{font-size:13px;color:#666;margin-bottom:16px}
+.cta-panel p{font-size:14px;color:#666;margin-bottom:16px}
 .cta-panel .btn-group{display:flex;gap:8px;justify-content:center;flex-wrap:wrap}
 .cta-panel .contact-info{font-size:12px;color:#888;margin-top:12px}
 
