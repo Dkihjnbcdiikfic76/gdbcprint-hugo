@@ -3,7 +3,7 @@ title: "Corrugated Book Mailer with Self-Seal Adhesive Durable Shipping Packagin
 date: 2026-06-11
 draft: false
 description: "Heavy-duty corrugated book mailer with self-seal adhesive strip and crush-resistant fluting for books, catalogs, photo albums, and framed art shipping. Adjustable depth with score lines for flexible book thickness. E-flute/B-flute single-wall corrugated, kraft exterior, FSC certified. 18,000 sqm (10,000+8,000 smart factory) ISO 9001 certified factory. 22 years experience. MOQ 500."
-keywords: "corrugated book mailer, self-seal mailer, book shipping box, corrugated book box, adjustable book mailer, crush-resistant mailer, ecommerce book packaging, book mailer with adhesive, corrugated shipping box, Bincai corrugated mailer, FSC kraft mailer, ISO 9001 mailer, book packaging China, catalog mailer, photo album box, crush-proof mailer, 18,000 sqm factory (10,000+8,000 smart factory), 22 years manufacturing, 1.7M daily output, OEM corrugated China, Guangdong packaging factory, tear strip mailer"
+keywords: "corrugated book mailer, self-seal mailer, book shipping box, corrugated book box, adjustable book mailer, crush-resistant mailer, ecommerce book packaging, book mailer with adhesive, corrugated shipping box, Bincai corrugated mailer, FSC kraft mailer, ISO 9001 mailer, book packaging China, catalog mailer, photo album box, crush-proof mailer, 18,000 sqm factory, 10,000+8,000 smart factory, 22 years manufacturing, 1.7M daily output, OEM corrugated China, Guangdong packaging factory, tear strip mailer, vinyl record mailer, B-flute book box, E-flute mailer, multi-depth mailer, ISTA 1A tested, KBA offset litho, hot-melt adhesive mailer, AQL 2.5 quality"
 categories: ["corrugated-mailers"]
 params:
   moq: "500-1000"

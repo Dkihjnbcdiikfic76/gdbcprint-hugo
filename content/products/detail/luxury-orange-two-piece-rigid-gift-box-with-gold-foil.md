@@ -2,8 +2,8 @@
 title: "Luxury Orange Two-Piece Rigid Gift Box with Gold Foil"
 date: 2026-06-11
 draft: false
-description: "Luxury Orange Two-Piece Rigid Gift Box with Gold Foil by Guangdong Bincai Color Printing — Diamond Member on Made-in-China.com. ISO 9001 FSC certified."
-keywords: "paper box, custom packaging, rigid gift boxes, Bincai, Made-in-China"
+description: "Luxury Orange Two-Piece Rigid Gift Box with Gold Foil — KBA 1050 4-color + Heidelberg 7+1 UV press, Bobst hot foil stamping, ISO 9001:2015 & FSC certified. 22 years Guangdong manufacturing, 18,000 sqm factory (10,000+8,000 smart factory), 220,000+ gift boxes daily. 2.0mm rigid greyboard, 157gsm art paper wrap, Pantone-matched orange, matte lamination. MOQ 500."
+keywords: "rigid gift box, two-piece gift box, luxury orange gift box, gold foil gift box, custom rigid box, rigid box China, luxury gift box manufacturer, hot foil stamping box, matte lamination gift box, premium rigid packaging, Guangdong rigid box factory, Bincai rigid box, ISO 9001 gift box, FSC gift box, B2B gift packaging, corporate gift box, wholesale rigid box, 18,000 sqm factory, KBA 1050 rigid box, Heidelberg UV gift box, embossed logo box, Bobst foil stamping, 220K daily output, custom Pantone box, OEM rigid gift box, two-piece lid box, greyboard rigid box"
 categories: ["rigid-gift-boxes"]
 params:
   moq: "500-1000"

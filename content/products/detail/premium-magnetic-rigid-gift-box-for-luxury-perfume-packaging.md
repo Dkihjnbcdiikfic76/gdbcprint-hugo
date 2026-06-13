@@ -2,8 +2,8 @@
 title: "Premium Magnetic Rigid Gift Box for Luxury Perfume Packaging"
 date: 2026-06-10
 draft: false
-description: "Custom magnetic rigid gift box for luxury perfume & fragrance packaging. KBA 1050 + Heidelberg 7+1 UV printing, hot foil stamping, embossing, spot UV. ISO 9001 & FSC certified. 22-year Bincai factory, 18,000 sqm, 1.7M daily output. Velvet/satin lining, hidden magnet closure. MOQ 500. Free samples."
-keywords: "magnetic rigid gift box, luxury perfume packaging, custom rigid box, hot foil stamping, magnetic closure box, premium gift box manufacturer, rigid paper box China, Bincai"
+description: "Custom Magnetic Rigid Gift Box for Luxury Perfume & Fragrance Packaging — KBA 1050 4-color + Heidelberg Speedmaster 7+1 UV press, hot foil stamping (gold/silver/rose gold), embossing, spot UV, velvet/satin/flocked interior, hidden N42 neodymium magnet closure. ISO 9001:2015 & FSC Chain-of-Custody certified. 22 years Guangdong Bincai factory, 18,000 sqm (10,000+8,000 smart factory), 1.7M daily output, 220,000+ rigid gift boxes, export to 60+ countries. Custom sizes 50×50mm to 400×400mm. MOQ 500, free pre-production samples."
+keywords: "magnetic rigid gift box, luxury perfume packaging, perfume gift box, magnetic closure box, rigid paper box China, premium gift box manufacturer, custom rigid box, hot foil stamping box, velvet lined gift box, satin interior box, embossed rigid box, spot UV gift box, Bincai magnetic box, Guangdong gift box factory, B2B luxury packaging, wholesale perfume box, OEM rigid gift box, ISO 9001 gift packaging, FSC certified box, cosmetic gift box, hidden magnet box, Heidelberg UV press, KBA 1050 offset, N42 magnet closure, 18,000 sqm factory, 1.7M daily output, fragrance packaging, luxury gift packaging, rigid box with ribbon, magnetic flip box"
 categories: ["rigid-gift-boxes"]
 params:
   moq: "500-1000"
