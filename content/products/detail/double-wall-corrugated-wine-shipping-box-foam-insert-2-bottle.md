@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Corrugated Mailer](/images/cat-fold-mailer.jpg)
+![Corrugated Mailer](/images/corrugated-mailer.jpg)
 
 ## Product Overview
 
