@@ -2,8 +2,8 @@
 title: "Kraft Paper Drawer Box with Window Custom Tea Packaging"
 date: 2026-06-10
 draft: false
-description: "Eco-friendly kraft paper drawer box with PET window for premium tea packaging. ISO 9001 & FSC certified. Soy-ink printed on Heidelberg 7+1 UV press. Biodegradable kraft + greyboard. MOQ 500 units. Free samples. Bincai — 22-year factory, 18,000 sqm (10,000+8,000 smart factory), daily output 1.7M boxes."
-keywords: "kraft drawer box, tea packaging box, window gift box, eco-friendly tea box, custom drawer box, PET window packaging, kraft paper box manufacturer, FSC certified packaging, biodegradable tea box, Bincai Color Printing, loose leaf tea packaging, soy ink printed box"
+description: "Eco-friendly kraft paper drawer box with PET window for premium tea packaging. Manufactured on KBA 1050 4-color offset and Heidelberg 7+1 UV presses at Bincai's 18,000 sqm ISO 9001:2015 & FSC certified factory. Soy-ink printed, biodegradable kraft + recycled greyboard, food-grade PET window. 22 years Guangdong manufacturing, 1.7M daily output. MOQ 500, free samples."
+keywords: "kraft drawer box, tea packaging box, window gift box, eco-friendly tea box, custom drawer box, PET window packaging, kraft paper box manufacturer, FSC certified packaging, biodegradable tea box, Bincai Color Printing, loose leaf tea packaging, soy ink printed box, KBA 1050 offset, Heidelberg 7+1 UV, custom tea packaging China, window drawer box, kraft tea box wholesale, sustainable tea packaging, 18,000 sqm factory, ISO 9001 tea box, Guangdong kraft box"
 categories: ["kraft-eco-boxes"]
 params:
   moq: "500-1000"
@@ -16,7 +16,7 @@ params:
 
 ## Overview
 
-Guangdong Bincai Color Printing's kraft paper drawer box with die-cut PET window delivers a premium unboxing experience for tea and gourmet products while maintaining full eco-credentials. The slide-out drawer design — complete with ribbon pull tab — reveals product through a crystal-clear PET window, combining shelf appeal with sustainable packaging. Every box is manufactured in our ISO 9001:2015 certified 18,000 sqm facility (10,000+8,000 smart factory) using FSC certified kraft paperboard and biodegradable soy-based inks.
+Guangdong Bincai Color Printing's kraft paper drawer box with die-cut PET window delivers a premium unboxing experience for tea and gourmet products while maintaining full eco-credentials. The slide-out drawer design — complete with ribbon pull tab — reveals product through a crystal-clear PET window, combining shelf appeal with sustainable packaging. Every box is manufactured in our ISO 9001:2015 certified 18,000 sqm facility (10,000+8,000 smart factory) using FSC certified kraft paperboard and biodegradable soy-based inks. Printing runs on KBA Rapida 105 4-color offset press (15,000 sheets/hour) for mass production efficiency and Heidelberg Speedmaster CD 102 7+1 UV press for specialty coatings — backed by 22 years of Guangdong manufacturing expertise since 2003.
 
 ## Applications
 
