@@ -57,3 +57,53 @@ The single-door magnetic closure gift box with ribbon pull elevates the unboxing
 - **QC**: Magnetic pull force test (>1.0 kg), 200-cycle open/close endurance test, ribbon pull test (>10 kg), rub resistance ASTM D5264
 - **Factory**: 18,000 sqm (10,000+8,000 smart factory), 8 production lines, 220,000+ rigid boxes daily
 - **Lead Time**: 7-10 days sample, 18-22 days mass production
+
+## Quality Assurance
+
+| Test | Standard/Method | Specification |
+|---|---|---|
+| **Magnet Pull Force** | Internal — digital force gauge | ≥1.2 kg holding force per magnet pair (N35); ≥1.8 kg (N42 option) |
+| **Magnet Durability** | Internal — cyclic test | 10,000+ open/close cycles without measurable loss of magnetism |
+| **Ribbon Tensile** | Internal — Instron tensile tester | ≥15 kg break strength (25mm satin); stitching survives 500+ pulls |
+| **Edge Wrapping** | Internal — visual + caliper | ±0.3mm tolerance, zero exposed greyboard, 90° ±0.5° corner angle |
+| **Velvet Flocking** | Internal — rub test (Martindale) | Zero fiber shedding after 100+ rub cycles; density ≥100g/m² |
+| **Humidity Resistance** | Internal — 72h at 40°C / 90% RH | No delamination, no warping, no adhesive failure |
+| **Print Registration** | ISO 12647-2 | ΔE ≤ 3.0 CMYK; ΔE ≤ 2.0 Pantone spot |
+| **Glue Bond** | Internal — peel test | Fiber tear on ≥95% of bonded area (PVA adhesive) |
+| **Drop Test** | ISTA 1A | 10-drop sequence at 760mm — no rupture, magnet engagement holds |
+| **Visual Inspection** | AQL 2.5 Level II (ISO 2859-1) | 100% inspection of magnet alignment, ribbon stitching, flocking uniformity |
+
+## Why Choose Bincai for Magnetic Closure Boxes
+
+| Advantage | Bincai | Typical Competitor |
+|---|---|---|
+| **Experience** | 22 years (founded 2003), 80+ rigid box craftspeople | 3-8 years, general workforce |
+| **Magnet Grade** | N35-N52 neodymium (3M-grade), rated 10,000+ cycles | Lower-grade magnets, unrated |
+| **CNC Precision** | CNC-wrapped greyboard ±0.2mm, 4-sided edge wrap | Manual wrapping, edge variation |
+| **Flocking Quality** | 40kV electrostatic flocking, 12 standard colors, 100g/m² density | Basic spray-on flocking, limited colors |
+| **Rigid Box Daily Output** | 220,000+ gift boxes per day | 500-2,000 boxes |
+| **Custom Inserts** | CNC foam cutting, molded pulp, die-cut flocked trays — all in-house | Outsourced insert production |
+| **Certifications** | ISO 9001:2015 + FSC Chain-of-Custody + Sedex SMETA | Single or none |
+| **MOQ** | 500 units, free pre-production samples (5-7 days) | 1,000-3,000 units |
+| **Diamond Member** | Made-in-China.com Audited Supplier (on-site factory verification) | Unverified supplier |
+| **Finishing** | 200+ foil colors, multi-level embossing, pearlescent/leatherette wrapping | Basic foil + lamination only |
+
+## Frequently Asked Questions
+
+**Q: Will the magnets lose strength over time?**
+No. We use N35-grade neodymium magnets (3M-equivalent), the same rare-earth magnet technology used in premium electronics and automotive applications. Neodymium magnets lose less than 1% of their magnetic strength per decade under normal conditions. Each magnet pair is rated for 10,000+ open/close cycles — equivalent to opening the box twice daily for over 13 years. For extra-heavy lids or extra-large boxes, we offer N42 and N52 grade upgrades.
+
+**Q: Can the ribbon pull be customized in color and material?**
+Yes. We stock satin, grosgrain, and organza ribbons in 40+ standard colors (25mm width) — custom Pantone-dyed ribbons are available from 5,000 units. Ribbon width options range from 15mm (compact boxes) to 30mm (large format). The ribbon is hand-sewn through the board with reinforced stitching — not glued — for maximum durability. We can also offer custom-printed ribbons with your brand name or logo woven in.
+
+**Q: How durable is the velvet flocking interior? Does it shed?**
+Our electrostatic flocking process uses 40kV to vertically embed 0.5-1.0mm nylon fibers into a PU adhesive base at 100g/m² density. This creates a dense, non-shedding surface that's been tested to 100+ Martindale rub cycles with zero fiber loss. Unlike cheap spray-on flocking that rubs off on products, our flocking is permanent and non-abrasive — safe for delicate surfaces like watch crystals, polished jewelry, and optical lenses.
+
+**Q: What insert options do you offer inside the box?**
+We manufacture all inserts in-house: (1) CNC-cut EVA foam with flocked or fabric surface — ideal for precision-fit product cavities; (2) molded pulp trays in kraft or white — sustainable option for eco-conscious brands; (3) die-cut cardboard partitions with velvet or paper wrapping; (4) satin-covered foam pillows; (5) vacuum-formed PET trays for high-volume cosmetics sets. We design the insert based on your product CAD or physical sample.
+
+**Q: Can I get a box that looks like leather but is actually paper?**
+Yes. Our leatherette-finish wrapping paper (available in 20+ textures and colors including black, cognac, navy, burgundy, and taupe) delivers the look and feel of genuine leather at a fraction of the cost — and it's fully recyclable. The paper receives a textured embossing that mimics leather grain, then is precision-wrapped around the greyboard with invisible seams at the corners. Popular with corporate gift sets, premium spirits packaging, and luxury accessories.
+
+**Q: What is your sampling and production timeline?**
+Free pre-production samples ship in 5-7 working days — we provide a fully assembled sample with your chosen wrapping paper, ribbon color, magnet strength, and flocking color. 3D structural design proofs are delivered within 24 hours of receiving your specifications. After sample approval, mass production takes 15-22 working days (hand-assembly adds time vs automated folding carton production). New custom die-cut insert tooling adds 3-5 working days. Rush service available: 7-10 days production at 20% surcharge.`
