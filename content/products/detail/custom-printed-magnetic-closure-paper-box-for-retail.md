@@ -61,3 +61,24 @@ Custom printed magnetic closure paper box for retail display — manufactured by
 - Fully automatic die-cutting, gluing, and rigid box assembly lines
 - Daily capacity: 1.7 million color boxes + 220,000+ gift boxes
 - High-Tech Enterprise certified; ISO 9001:2015 & FSC certified
+
+## Why Bincai
+The difference between a good magnetic box and a great one is invisible — it's in the magnet alignment you don't notice because it closes perfectly every time. At Bincai, we use **N52-grade neodymium magnets** (not cheaper N35 ferrite), embedded with 0.2mm precision on automated assembly lines. Each magnet is tested for pull force before leaving the factory. We wrap our rigid board in 157gsm art paper with zero air bubbles — a result of skilled hand-finishing that automated wrapping alone can't match. When luxury brands like yours need packaging that reflects your price point, Bincai's 22 years of rigid box craftsmanship delivers.
+
+## FAQ
+**Q: What magnet strength should I choose for my box?**  
+A: It depends on box size and lid weight. For small jewelry boxes (under 150g lid), 2x N35 magnets suffice. For large gift boxes (300g+ lids), we recommend 4x N52 neodymium magnets for secure closure. We calculate the optimal magnet configuration based on your box dimensions as part of the design process.
+
+**Q: Can you match my brand's exact Pantone color?**  
+A: Yes. We maintain a full Pantone Formula Guide library and mix spot colors in-house. Our Heidelberg 7+1 UV press handles up to 7 colors + UV coating in a single pass — so your custom Pantone spot color, CMYK artwork, metallic foil, and spot UV can all run on one sheet.
+
+**Q: How durable is the magnetic closure after repeated opening?**  
+A: Our magnetic boxes are rated for 10,000+ open/close cycles without degradation. The magnets are embedded between board layers (never surface-mounted), so they can't dislodge or demagnetize with normal use.
+
+**Q: Can I get different finishes on the same box?**  
+A: Yes. A popular configuration is soft-touch matte lamination on the exterior with gloss spot UV on the logo, plus a different texture (e.g., linen embossing) on the interior flap. Our multi-process capability lets you mix finishes creatively.
+
+**Q: What's the fastest you can produce a rush order?**  
+A: Standard lead time is 12-18 days. Rush orders can ship in 7-10 working days with expedited die-making and priority press scheduling. Ideal for product launches, trade shows, or seasonal pushes.
+
+[View on Made-in-China.com →](https://bincaipaperbox.en.made-in-china.com/)

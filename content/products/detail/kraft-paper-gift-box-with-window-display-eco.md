@@ -52,3 +52,34 @@ Eco-friendly kraft paper gift box with window display — manufactured by **Guan
 - MOQ 500–1000 units; lead time 12–18 working days; free samples available
 
 [View on Made-in-China.com →](https://bincaipaperbox.en.made-in-china.com/)
+
+## Why Bincai
+Most packaging suppliers treat "eco-friendly" as a marketing checkbox. **Bincai lives it**. Our FSC-certified kraft board is traced from responsibly managed forests, our soy-based inks are stored in dedicated press-side tanks (not retrofitted), and our PLA window film is certified compostable to ASTM D6400 — not just "biodegradable" claims. With 22 years of manufacturing in our own 18,000 sqm factory, we don't outsource to unknown subcontractors. You visit us, you see your boxes being made. For brands building genuine sustainability stories, Bincai provides the manufacturing truth behind the claim.
+
+## Sustainability
+- **FSC Chain-of-Custody** — every kraft sheet traceable from forest to finished box
+- **Compostable PLA window film** — ASTM D6400 certified for industrial composting facilities
+- **Soy-based offset inks** — 100% renewable, VOC-free, no petroleum solvents
+- **Water-based adhesives** — EN 13432 compliant for full biodegradability
+- **Recycled kraft options** — 100% post-consumer recycled board available for circular brands
+- **Molded pulp inserts** — bagasse/sugarcane fiber trays as compostable alternative to foam
+- **Zero plastic lamination** — all finishes are water-based varnish, keeping the box fully recyclable
+- **Local sourcing** — kraft board sourced within Guangdong province, reducing transport emissions
+
+## FAQ
+**Q: Is the PLA window really compostable?**  
+A: Yes. Our PLA (polylactic acid) window film is certified to ASTM D6400 for industrial composting. It breaks down in 90-180 days in commercial composting conditions. We can also supply home-compostable cellulose film for qualifying orders.
+
+**Q: Does soy ink affect print quality on kraft?**  
+A: Not at all. Modern soy-based inks produce vibrant colors on our white-top kraft and coated kraft boards. On natural brown kraft, soy inks deliver rich, earthy tones that complement the eco-aesthetic. We've printed everything from delicate pastel cosmetics brands to bold craft beer packaging — all with soy ink.
+
+**Q: Can I combine the window with hot foil stamping?**  
+A: Absolutely. Foil stamping on kraft creates a stunning contrast — metallic gold or silver against natural brown board is one of our most requested eco-premium combinations. The foil is applied after window patching without affecting film adhesion.
+
+**Q: What's the lead time for eco boxes vs standard boxes?**  
+A: Same lead time: 12-18 working days. Our integrated production line runs kraft board, soy ink, and PLA window film as standard — no extra setup or waiting for specialized materials.
+
+**Q: Do you provide compostability certificates for customs?**  
+A: Yes. We supply ASTM D6400, EN 13432, and FSC Chain-of-Custody certificates with every shipment. These documents are essential for brands selling into EU markets with packaging waste regulations.
+
+[View on Made-in-China.com →](https://bincaipaperbox.en.made-in-china.com/)

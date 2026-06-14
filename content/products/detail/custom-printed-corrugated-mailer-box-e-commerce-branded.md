@@ -59,3 +59,33 @@ Custom printed corrugated mailer box for e-commerce branding — manufactured by
 - KBA Heidelberg offset + flexo capability for any volume tier
 - Daily output: 1.7 million color boxes + 220,000+ gift boxes
 - Serving 200+ global brands with consistent quality and on-time delivery
+
+## Why Bincai
+Unlike trading companies that source from third-party factories, **Bincai owns the entire production chain**. Our in-house corrugator lets us control board quality from the first flute — no middlemen, no markup, no quality uncertainty. We run B-flute, C-flute, E-flute, and BC double-wall on-demand, with white top kraft liners for photo-quality print on brown board. Most mailer suppliers take 3-4 weeks; our integrated factory delivers in 10-15 working days. For e-commerce brands scaling fast, our 1.7M daily capacity means we keep up when your order sizes jump from 5K to 500K overnight.
+
+## Sustainability
+- **FSC Chain-of-Custody certified** — every sheet traceable to responsibly managed forests
+- **Soy-based ink** standard on all offset-printed mailers — renewable, low-VOC, and fully recyclable
+- **Water-based adhesives** on crash-lock and auto-bottom constructions — no solvent residue
+- **Flat-packed shipping** reduces transport carbon footprint by up to 60% vs assembled boxes
+- **100% recyclable** corrugated board — single-stream recycling compatible, no plastic lamination
+- **White top kraft liners** are bleach-free and produced with closed-loop water systems
+- **Digital sample proofing** eliminates physical sample waste for design iterations
+
+## FAQ
+**Q: What's the difference between B-flute and E-flute for mailers?**  
+A: B-flute (~3mm thick) offers the best crush resistance for heavier products and stacking. E-flute (~1.5mm) is thinner with a smoother surface — ideal for high-quality print and lighter items. BC double-wall combines both for maximum protection on fragile goods.
+
+**Q: Can I print inside the mailer?**  
+A: Yes. Inside printing on the kraft liner is a signature Bincai capability — perfect for surprise branding, social media prompts, or care instructions that customers discover during unboxing.
+
+**Q: What's the minimum order for a new brand?**  
+A: MOQ is 500 units — designed for DTC startups testing new packaging. We also offer 100-unit trial runs for design validation before committing to full production.
+
+**Q: How fast can you deliver custom samples?**  
+A: Pre-production digital samples in 24 hours. Physical samples (with printing and die-cutting) in 5-7 working days via DHL or FedEx. Rush service available for time-sensitive launches.
+
+**Q: Do you offer fulfillment-ready packaging with barcodes?**  
+A: Yes. We can integrate FNSKU barcodes, QR codes, batch numbers, and Amazon-compliant labeling directly into the print — your mailers arrive warehouse-ready.
+
+[View on Made-in-China.com →](https://bincaipaperbox.en.made-in-china.com/)
