@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001:2015, FSC Chain-of-Custody"
 ---
 
-![Custom Octagonal Velvet Ring Display Box LED Spotlight 360° Rotating Platform Jewelry Packaging](/images/cat-jewelry-box.jpg)
+![Custom Octagonal Velvet Ring Display Box LED Spotlight 360° Rotating Platform Jewelry Packaging](/images/cat-rigid-jewelry.jpg)
 
 ## Product Overview
 
