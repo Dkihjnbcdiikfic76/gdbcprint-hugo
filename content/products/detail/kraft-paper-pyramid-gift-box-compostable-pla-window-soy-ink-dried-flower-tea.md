@@ -2,8 +2,8 @@
 title: "Kraft Paper Pyramid Gift Box with Compostable PLA Window Soy Ink Dried Flower Tea"
 date: 2026-06-14
 draft: false
-description: "Eco-friendly kraft paper pyramid gift box with compostable PLA window, soy-based ink printing, and natural jute drawstring closure. Designed for premium loose-leaf tea, dried flowers, artisan botanicals, and organic gift sets. 100% home compostable packaging solution. Manufactured by Guangdong Bincai Color Printing Co., Ltd. — ISO 9001:2015 & FSC Chain-of-Custody certified, 22 years paper packaging expertise, 10,000 sqm factory with Heidelberg Speedmaster XL 7+1 UV and KBA Rapida 105 4-color offset press lines, 1.5M boxes daily output. MOQ 500 units. Serving 60+ countries worldwide."
-keywords: "kraft pyramid box, eco gift box, compostable tea box, PLA window box, soy ink packaging, pyramid tea box, dried flower gift box, sustainable packaging, FSC kraft box, biodegradable gift box, organic tea packaging, botanical gift box, kraft paper pyramid, eco-friendly gift box, Bincai kraft box, compostable window box, jute closure box, soy-based ink box, zero waste packaging, China eco packaging manufacturer, KBA 1050 kraft box, Heidelberg 7+1 UV packaging, ISO 9001 eco packaging, FSC certified pyramid box, 22 years kraft manufacturer, 1.5M boxes daily factory, 10,000 sqm packaging plant, Guangdong sustainable packaging, wholesale kraft pyramid box, custom compostable tea box, EN 13432 home compostable, plastic-free gift packaging, premium loose leaf tea box, biodegradable pyramid box, MOQ 500 eco box, Foshan kraft packaging factory, OEM sustainable gift box"
+description: "Eco-friendly kraft paper pyramid gift box with compostable PLA window, soy-based ink printing, and natural jute drawstring closure — manufactured by Guangdong Bincai Color Printing Co., Ltd., a Diamond Member on Made-in-China.com with 22 years of manufacturing excellence since 2003. Designed for premium loose-leaf tea, dried flowers, artisan botanicals, and organic gift sets. 100% home compostable packaging — EN 13432 certified, 180-day biodegradation. Produced on KBA 1050 4-color offset and Heidelberg 7+1 UV presses across our 18,000 sqm ISO 9001:2015 & FSC Chain-of-Custody certified factory (10,000+8,000 sqm smart factory, 2025 expansion) in Foshan, Guangdong. Daily output: 1.7 million color boxes + 220,000+ gift boxes. 350gsm FSC-certified kraft paperboard, soy-based inks with bio-renewable content >20%. MOQ 500 units. Serving 60+ countries with DDP/FOB/CIF shipping. Ideal for artisan tea brands, organic confectionery, wedding favors, wellness products, and sustainable subscription boxes."
+keywords: "kraft pyramid box, eco gift box, compostable tea box, PLA window box, soy ink packaging, pyramid tea box, dried flower gift box, sustainable packaging, FSC kraft box, biodegradable gift box, organic tea packaging, botanical gift box, kraft paper pyramid, eco-friendly gift box, Bincai kraft box, compostable window box, jute closure box, soy-based ink box, zero waste packaging, China eco packaging manufacturer, KBA 1050 kraft box, Heidelberg 7+1 UV packaging, ISO 9001 eco packaging, FSC certified pyramid box, 22 years kraft manufacturer, 1.7M boxes daily, 18,000 sqm factory, Guangdong sustainable packaging, wholesale kraft pyramid box, custom compostable tea box, EN 13432 home compostable, plastic-free gift packaging, premium loose leaf tea box, biodegradable pyramid box, MOQ 500 eco box, Foshan kraft packaging factory, OEM sustainable gift box, wedding favor box, artisan tea packaging, dried flower packaging, wellness packaging, subscription box eco, soy ink pyramid, jute drawstring box, home compostable packaging, plastic-free gift box, plant-based packaging, natural gift box, organic product packaging, sustainable luxury packaging, eco subscription box"
 categories: ["kraft-eco-boxes"]
 params:
   moq: "500"
@@ -16,9 +16,9 @@ params:
 
 ## Product Overview
 
-The Bincai Kraft Paper Pyramid Gift Box redefines sustainable packaging with a design that's beautiful, functional, and 100% home compostable. The distinctive pyramid shape is formed from 350gsm FSC-certified kraft paperboard printed with soy-based inks on our **Heidelberg Speedmaster XL 7+1 UV** and **KBA Rapida 105 4-color** offset press lines. A compostable PLA (polylactic acid) window allows the contents — premium loose-leaf tea, dried lavender, chamomile flowers, or artisan botanicals — to be fully visible while maintaining the box's structural integrity. A natural jute drawstring at the peak doubles as closure and handle. Every component breaks down in a home compost environment within 180 days.
+The Bincai Kraft Paper Pyramid Gift Box redefines sustainable packaging with a design that's beautiful, functional, and 100% home compostable. The distinctive pyramid shape is formed from 350gsm FSC-certified kraft paperboard printed with soy-based inks on our **Heidelberg Speedmaster XL 7+1 UV** and **KBA Rapida 105 4-color** offset press lines. A compostable PLA (polylactic acid) window allows the contents — premium loose-leaf tea, dried lavender, chamomile flowers, or artisan botanicals — to be fully visible while maintaining the box's structural integrity. A natural jute drawstring at the peak doubles as closure and handle. Every component breaks down in a home compost environment within 180 days (EN 13432 certified).
 
-**Manufactured by Guangdong Bincai Color Printing Co., Ltd.** — **ISO 9001:2015 and FSC Chain-of-Custody certified**, 22 years of paper packaging expertise, 10,000 sqm dual-factory operation in Foshan, Guangdong. Daily output capacity: **1.5 million boxes**. Serving brands across 60+ countries with OEM/ODM custom packaging solutions.
+**Manufactured by Guangdong Bincai Color Printing Co., Ltd.** — **ISO 9001:2015 and FSC Chain-of-Custody certified**, 22 years of paper packaging expertise, 18,000 sqm factory (10,000+8,000 sqm smart factory, 2025 expansion) in Foshan, Guangdong. Daily output capacity: **1.7 million boxes**. Serving brands across 60+ countries with OEM/ODM custom packaging solutions.
 
 ## Applications
 
@@ -47,9 +47,9 @@ The Bincai Kraft Paper Pyramid Gift Box redefines sustainable packaging with a d
 
 | Specification | Detail |
 |---|---|
-| **Factory** | 10,000 sqm Foshan, Guangdong — ISO 9001:2015 & FSC certified |
+| **Factory** | 18,000 sqm Foshan, Guangdong — ISO 9001:2015 & FSC certified (10,000+8,000 sqm smart factory) |
 | **Press Lines** | Heidelberg Speedmaster XL 7+1 UV / KBA Rapida 105 4-color offset |
-| **Daily Output** | 1.5M+ boxes across dual-factory operation |
+| **Daily Output** | 1.7M+ boxes across dual-factory operation |
 | **Experience** | 22 years paper packaging manufacturing expertise |
 | **Board** | 350gsm FSC-certified kraft paperboard |
 | **Window Film** | 30-micron PLA (polylactic acid), EN 13432 certified |
@@ -88,9 +88,9 @@ The Bincai Kraft Paper Pyramid Gift Box redefines sustainable packaging with a d
 ## Why Choose Bincai
 
 - **22 years** of paper packaging manufacturing — established 2004, Foshan, Guangdong
-- **10,000 sqm** dual-factory ISO 9001:2015 & FSC certified operation
+- **18,000 sqm** factory ISO 9001:2015 & FSC certified (10,000+8,000 sqm smart factory)
 - **Heidelberg & KBA press lines** — Speedmaster XL 7+1 UV + Rapida 105 4-color offset
-- **1.5M boxes daily** output capacity across all production lines
+- **1.7M boxes daily** output capacity across all production lines
 - **100% home compostable** — EN 13432 certified, zero plastic guilt
 - **MOQ 500** — accessible to growing sustainable brands
 - **Free samples** in 7 business days — test compostability and print quality firsthand
@@ -113,4 +113,4 @@ A: Standard lead time is 10–14 working days after sample approval. Rush servic
 **Q: Are the boxes shipped flat or assembled?**
 A: Flat-packed in corrugated master cartons (50–100 pcs per carton depending on size). This minimizes shipping volume and cost. End-user assembly is simple — the pyramid shape pops open with a gentle squeeze.
 
-> **Bincai Sustainable Manufacturing Advantage**: 22 years of packaging innovation, now leading in compostable solutions. Our Foshan facility's dedicated eco-friendly production line uses soy-based inks and FSC-certified materials exclusively, running on Heidelberg Speedmaster XL 7+1 UV and KBA Rapida 105 presses. FSC Chain-of-Custody certified. ISO 9001:2015. 1.5M boxes daily output. MOQ 500 units. Free samples in 7 business days. Contact us for your sustainable packaging journey.
+> **Bincai Sustainable Manufacturing Advantage**: 22 years of packaging innovation, now leading in compostable solutions. Our Foshan facility's dedicated eco-friendly production line uses soy-based inks and FSC-certified materials exclusively, running on Heidelberg Speedmaster XL 7+1 UV and KBA Rapida 105 presses across our 18,000 sqm factory (10,000+8,000 sqm smart factory, 2025 expansion). FSC Chain-of-Custody certified. ISO 9001:2015. 1.7M boxes daily output. MOQ 500 units. Free samples in 7 business days. Contact us for your sustainable packaging journey.
