@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Magnetic Closure Double-Door Perfume Gift Box](/images/cat-mag-closure.jpg)
+![Bincai Magnetic Closure Double-Door Fragrance Gift Set Box](/images/magnetic-closure-box.jpg)
 
 Guangdong Bincai Color Printing Co., Ltd. (founded 2003) delivers the ultimate luxury unboxing experience with this magnetic closure double-door gift box — engineered specifically for premium fragrance and perfume gift sets. The double-door design creates a dramatic reveal: the recipient unties the satin ribbon, the two doors swing open on hidden magnetic closures, and the fragrance bottles are presented in a custom-fit velvet or foam tray — an experience that transforms packaging into a brand statement.
 

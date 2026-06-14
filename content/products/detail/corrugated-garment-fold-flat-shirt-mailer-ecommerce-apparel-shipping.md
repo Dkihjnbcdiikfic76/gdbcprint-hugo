@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, ISTA 1A"
 ---
 
-![Bincai Corrugated Garment Fold-Flat Shirt Mailer](/images/cat-fold-mailer.jpg)
+![Bincai Corrugated Garment Fold-Flat Shirt Mailer](/images/corrugated-mailer.jpg)
 
 Guangdong Bincai Color Printing Co., Ltd. (founded 2003) delivers purpose-built corrugated mailers engineered specifically for e-commerce apparel shipping. Designed for fold-flat garments — t-shirts, dress shirts, polos, blouses, and lightweight sweaters — this mailer combines structural protection with branded unboxing that turns a shipping box into a brand experience.
 
