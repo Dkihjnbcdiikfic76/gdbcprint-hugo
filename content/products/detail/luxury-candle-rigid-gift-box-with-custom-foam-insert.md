@@ -2,8 +2,8 @@
 title: "Luxury Candle Rigid Gift Box with Custom Foam Insert"
 date: 2026-06-10
 draft: false
-description: "Custom luxury candle rigid gift box with precision-cut foam insert. Manufactured on KBA 1050 4-color & Heidelberg 7+1 UV presses in a 18,000 sqm (10,000+8,000 smart factory) ISO 9001 & FSC certified factory with 22 years experience and 1.7M boxes daily output."
-keywords: "rigid gift box manufacturer, luxury rigid boxes, custom foam insert packaging, candle gift box wholesale, rigid paper box factory, magnetic closure gift box, custom rigid box printing, premium gift packaging, greyboard rigid box, two-piece gift box"
+description: "Custom luxury candle rigid gift box with precision-cut EVA/PU foam insert manufactured by Guangdong Bincai Color Printing on KBA 1050 4-color & Heidelberg 7+1 UV presses in an 18,000 sqm (10,000+8,000 smart factory) ISO 9001:2015 & FSC certified facility with 22 years experience and 1.7M boxes daily output. 800-1600gsm greyboard construction wrapped in art paper or velvet flocking; gold/silver/rose gold hot foil stamping; embossing/debossing; magnetic closure option; PET die-cut window. MOQ 500-1000. Free 3D digital proofs and pre-production samples. Ideal for luxury candle brands, artisan candle makers, home fragrance, spa and wellness packaging."
+keywords: "rigid gift box manufacturer, luxury rigid boxes, custom foam insert packaging, candle gift box wholesale, rigid paper box factory, magnetic closure gift box, custom rigid box printing, premium gift packaging, greyboard rigid box, two-piece gift box, luxury candle packaging, EVA foam insert box, hot foil stamping box, embossed gift box, Bincai Color Printing, Guangdong rigid box factory, KBA 1050 offset printing, Heidelberg 7+1 UV coating, ISO 9001 rigid boxes, FSC certified gift box, die-cut window box, velvet flocking box, artisan candle packaging, home fragrance box, spa gift box, 22 years packaging manufacturer, 1.7M daily output, Foshan paper box factory, custom luxury box China, wholesale rigid boxes, candle display box"
 categories: ["rigid-gift-boxes"]
 params:
   moq: "500-1000"

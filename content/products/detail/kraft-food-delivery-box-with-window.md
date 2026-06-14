@@ -2,8 +2,8 @@
 title: "Kraft Food Delivery Box with Window"
 date: 2026-06-11
 draft: false
-description: "Eco-friendly kraft food delivery box with PET/PLA window by Bincai. FSC recycled kraft, soy-based inks, ISO 9001 certified. Custom sizes, vented, flat-ship design for bakeries & restaurants."
-keywords: "kraft food box, eco food packaging, biodegradable takeaway box, kraft window box, sustainable food delivery, recycled paper box, FSC food packaging, Bincai eco box, compostable takeaway, wholesale kraft packaging, PLA window box, bakery packaging, restaurant takeaway box"
+description: "Eco-friendly kraft food delivery box with PET/PLA window — manufactured by Guangdong Bincai Color Printing on KBA 1050 4-color & Heidelberg 7+1 UV presses in an 18,000 sqm (10,000+8,000 smart factory) ISO 9001:2015 & FSC certified facility with 22 years experience and 1.7M boxes daily output. FSC recycled kraft (300-400gsm), soy-based inks, FDA/EU food-safe certified. Custom sizes, vented steam-release holes, flat-ship design, tuck-top or auto-lock closure. MOQ 1,000. Ideal for bakeries, meal-prep services, salad bars, sustainable food brands, and restaurant takeaway."
+keywords: "kraft food box, eco food packaging, biodegradable takeaway box, kraft window box, sustainable food delivery, recycled paper box, FSC food packaging, Bincai eco box, compostable takeaway, wholesale kraft packaging, PLA window box, bakery packaging, restaurant takeaway box, Guangdong Bincai Color Printing, KBA 1050 offset printing, Heidelberg 7+1 UV, ISO 9001 food packaging, FSC certified kraft box, soy-based ink packaging, FDA food contact safe, EU 1935/2004 compliant, meal prep container, salad bar takeaway, vented food box, flat-ship kraft box, custom bakery box, eco-friendly restaurant packaging, food-safe corrugated alternative, Foshan paper box factory, 22 years packaging manufacturer, 1.7M daily output food packaging"
 categories: ["kraft-eco-boxes"]
 params:
   moq: "1000-2000"
