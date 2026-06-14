@@ -52,3 +52,41 @@ Magnetic flip-top rigid box for luxury perfume gift set packaging — manufactur
 - 100% visual inspection under D50 standard lighting
 - ISO 9001:2015 certified quality management
 - FSC-certified paperboard from sustainable sources
+
+## Sustainability & Compliance
+
+| Aspect | Detail |
+|---|---|
+| Paper Sourcing | FSC Chain-of-Custody certified — full traceability from forest to finished box |
+| Recyclability | Greyboard core and surface papers fully recyclable in standard paper/cardboard streams |
+| Adhesive | Water-based PVA adhesive — biodegradable, VOC-free, GB/T and EU compliant |
+| Magnet Recovery | Neodymium magnets removable for separate recycling stream — box body remains fully recyclable |
+| Factoring Waste | Closed-loop recycling program diverts 95%+ of production paper waste from landfill |
+| Carbon | LED factory lighting and optimized Heidelberg press scheduling minimize energy consumption |
+
+## Expanded Production Specifications
+
+Our perfume box manufacturing leverages the full Bincai technology stack:
+
+| Process | Equipment | Capability |
+|---|---|---|
+| Printing | KBA 1050 4-color + Heidelberg 7+1 UV | 15,000 sheets/hour, inline aqueous coating, instant UV cure |
+| Foil Stamping | Bobst hot foil press | Gold, silver, rose gold, copper, holographic — ±0.1mm registration |
+| Embossing | Heidelberg cylinder embosser | Single-level and multi-level, blind or registered to print |
+| Rigid Box Assembly | Automatic corner-wrapping line | ±0.5mm precision, 8,000 boxes/hour |
+| Velvet Flocking | Electrostatic flocking station | 0.5mm uniform pile, 100+ Pantone colors, rub-resistant |
+| Magnet Embedding | Automatic insertion system | N35-N52 grade, 8-12mm, 2-6 magnets per box, ±0.3mm position |
+| Quality Control | Spectrophotometry + visual | ΔE ≤2.0, D50 lighting, 100% inspection |
+
+## Why Choose Bincai for Perfume Packaging
+
+Perfume is the most emotionally charged product category in retail — the packaging must convey exclusivity, sophistication, and desire before the customer ever removes the cap. Bincai has manufactured luxury fragrance packaging for 22 years, serving brands across 40+ countries from our 18,000 sqm integrated facility in Foshan. Our flip-top rigid box design is engineered for the perfume retail environment: the magnetic closure provides that satisfying, silent "snap" that communicates quality, while the velvet interior cradles each bottle in display-ready luxury. With Heidelberg 7+1 UV press capabilities, we can produce elaborate foil and spot UV effects that would be impossible on conventional offset — creating packaging that sells the fragrance before the scent is ever experienced.
+
+- **22 years** of continuous luxury packaging manufacturing (established 2003)
+- **18,000 sqm** integrated facility (10,000 + 8,000 sqm smart factory) in Foshan, Guangdong
+- **Dual Heidelberg + KBA press capability** for maximum decorative flexibility
+- **80+ skilled craftspeople** across design, prepress, printing, finishing, and assembly
+- **In-house tooling**: Die-making, foil die fabrication, embossing plate production — faster turnaround
+- **Daily output**: 1.7 million color boxes + 220,000+ rigid gift boxes
+- **Global reach**: Export to 40+ countries with compliance documentation for all major trade lanes
+- **Sample program**: Free 3D rendering + physical sample in 5-7 working days with full decoration

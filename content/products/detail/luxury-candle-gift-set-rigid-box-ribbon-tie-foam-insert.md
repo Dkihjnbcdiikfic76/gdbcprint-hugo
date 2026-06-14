@@ -50,3 +50,28 @@ Luxury candle gift set rigid box with ribbon tie closure and custom foam insert 
 - 100% visual inspection under D50 standard lighting
 - ISO 9001:2015 quality management throughout production
 - FSC-certified paperboard sourced from sustainably managed forests
+
+## Sustainability & Compliance
+
+| Aspect | Detail |
+|---|---|
+| Paper Sourcing | FSC Chain-of-Custody certified — each shipment traceable to responsibly managed forests |
+| Recyclable Board | Greyboard core and surface papers are 100% recyclable in standard paper streams |
+| Adhesive | Water-based PVA — biodegradable, VOC-free, compliant with GB/T and EU standards |
+| Foam Insert | EVA foam insert is reusable — designed for customer retention, not single-use |
+| Ribbon | Satin ribbon sourced from OEKO-TEX certified mills — tested for colorfastness |
+| Factory Waste | 95%+ of production paper waste recycled through closed-loop program |
+
+## Why Choose Bincai for Luxury Candle Packaging
+
+The home fragrance market demands packaging that communicates warmth, craftsmanship, and sophistication — before the customer even lights the candle. Bincai's rigid box division brings 22 years of luxury packaging expertise to every candle gift set. Our Heidelberg 7+1 UV press creates luminous foil and spot UV effects that catch candlelight, while our in-house foam die-cutting ensures every candle sits securely in transit — no rattling, no breakage, no returns. For candle brands selling in department stores, boutiques, and direct-to-consumer channels, Bincai delivers the complete package: structural protection, sensory unboxing, and sustainability credibility.
+
+- **22 years** of luxury packaging manufacturing in Foshan, Guangdong (founded 2003)
+- **18,000 sqm** dual-facility campus (10,000 + 8,000 sqm smart factory, commissioned 2025)
+- **Heidelberg 7+1 UV press**: Instant-cure UV for high-gloss spot effects, metallic inks, and holographic foil simulation
+- **KBA 1050 4-color offset**: Running at 15,000 sheets/hour for high-volume rigid box production
+- **In-house finishing**: Hot foil stamping (gold, silver, rose gold, copper, holographic), embossing/debossing, soft-touch and matte/gloss lamination
+- **Dedicated rigid box line**: Greyboard cutting, corner wrapping, interior lining, magnet embedding — fully automatic
+- **Daily capacity**: 1.7 million color boxes + 220,000+ rigid gift boxes
+- **Export**: 40+ countries — documented compliance for sea, air, and rail logistics
+- **Samples**: Free 3D rendering within 24 hours; physical pre-production sample with full decoration in 5-7 days

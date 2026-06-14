@@ -49,3 +49,30 @@ Premium custom printed durable corrugated box for clothing and gifts manufacture
 - **ISO 9001:2015**: Full quality management system across all production stages
 - **FSC Certified**: Chain-of-custody certified paperboard from sustainably managed forests
 - **100% Visual Inspection**: Under D50 standard lighting before palletizing and dispatch
+- **SGS-Tested**: Third-party verification for burst strength, stacking durability, and print adhesion — report available on request
+- **Pre-Production Samples**: Free 3D rendering + physical sample in 5-7 working days with full decoration and structural testing
+
+## Sustainability & Compliance
+
+| Aspect | Detail |
+|---|---|
+| Paper Sourcing | FSC Chain-of-Custody certified — every shipment traceable to responsibly managed forests |
+| Recycled Content | Up to 70% post-consumer recycled content available on kraft liners (OCC-sourced) |
+| End-of-Life | 100% recyclable in standard paper/cardboard streams — no mixed-material bonding |
+| Adhesive | Water-based PVA — biodegradable, VOC-compliant per GB/T standards |
+| Ink | Soy-based or water-based flexo — heavy-metal-free pigments |
+| Waste | Factory recycling program diverts 95%+ of production paper waste from landfill |
+| Carbon | Optimized press scheduling and LED factory lighting reduce energy consumption |
+
+## Why Choose Bincai for Corrugated Boxes
+
+Bincai's corrugated division combines structural engineering with print excellence — a rare combination in the packaging industry. Our in-house corrugator (single-face + double-back) gives us control over flute profiles and board quality that contract manufacturers can't match, while the KBA 1050 4-color offset press delivers litho-quality printing on white-top liners for brand-forward e-commerce packaging. For clothing and apparel brands shipping direct-to-consumer, Bincai's self-locking design eliminates the need for plastic tape — reducing packaging time, material cost, and environmental impact in a single solution.
+
+- **22 years** of continuous manufacturing since 2003 in Foshan, Guangdong — one ownership, one quality system
+- **18,000 sqm** integrated facility (10,000 + 8,000 sqm smart factory commissioned 2025)
+- **80+ skilled employees** — design, prepress, printing, die-cutting, gluing, assembly under one roof
+- **Dual-technology printing**: KBA 1050 4-color offset + Heidelberg 7+1 UV press for premium litho; high-speed flexo post-print for economy kraft runs
+- **In-house corrugator**: B, C, E, BC, and EB-flute combinations — no subcontracting, total quality control
+- **Daily capacity**: 1.7 million color boxes — tested infrastructure for volume orders
+- **Export**: 40+ countries with documented shipping compliance across air, sea, and rail logistics
+- **Free samples**: 3D rendering within 24 hours; physical sample with full decoration in 5-7 working days
