@@ -17,6 +17,23 @@ params:
 
 Designed for luxury cosmetic brands, the Bincai Magnetic Closure Lipstick Gift Box delivers a premium unboxing experience in a slim, elegant form factor. The soft-touch matte finish combined with magnetic snap closure creates a tactile, high-end feel that elevates brand perception. Manufactured on Heidelberg 7+1 UV and KBA 1050 presses with ±0.15mm print registration tolerance.
 
+## Applications
+
+The Bincai Magnetic Closure Lipstick Gift Box serves luxury beauty brands across multiple product categories:
+
+| Application | Form Factor | Key Feature |
+|---|---|---|
+| **Single Lipstick** | 25×25×90mm slim | Soft-touch matte with foil logo — premium counter display |
+| **Lipstick + Mini Fragrance** | 45×35×100mm dual | Two-cavity foam insert with satin ribbon separation |
+| **Lipstick Set (3-pack)** | 70×30×110mm triple | Three-cavity EVA tray with sequential color presentation |
+| **Lipstick + Lip Liner** | 40×30×100mm | Side-by-side cavity design for product pairing |
+| **Liquid Lipstick / Gloss** | 30×30×100mm | Deeper cavity for taller tube with doe-foot applicator clearance |
+| **Rollerball Perfume** | 25×25×100mm | Slim cylindrical cavity with foam collar for roll-on protection |
+| **Lip Care Balm** | 30×30×25mm | Shallow box for tin or jar lip balm with magnetic flip lid |
+| **Mini Skincare Set** | 50×40×80mm | Multi-cavity for lip mask + lip scrub + lip balm trio |
+| **Brand Discovery Kit** | 120×40×90mm | Extended format for 4-6 mini lipstick samples with brand story card slot |
+| **Corporate Beauty Gift** | 45×35×95mm | Custom foil-embossed with company logo for employee/client gifting |
+
 ## Features
 
 - **Slim Profile**: 25×25×90mm standard, perfect for single lipstick or rollerball presentation
@@ -60,3 +77,22 @@ Designed for luxury cosmetic brands, the Bincai Magnetic Closure Lipstick Gift B
 | Soft-Touch Durability | Internal | 500+ rub cycles without wear |
 | Drop Test | ISTA 1A | 10-drop sequence, 760mm |
 | Print Registration | Internal | ±0.15mm |
+| Lid Cycle Life | Internal | 10,000+ open/close cycles without magnet degradation |
+| Surface Scratch Resistance | Taber Abraser | No visible wear after 50 cycles with CS-10 wheel at 500g |
+| Color Fidelity | Internal | ΔE ≤ 2.0 measured by X-Rite spectrophotometer across production run |
+| Foam Insert Fit | Internal | Cavity tolerance ±0.2mm — product insertion force 2-5N for secure hold |
+| Odor Testing | Internal | Zero detectable VOC odor after 24-hour enclosed chamber test |
+| REACH Compliance | EU 1907/2006 | All materials tested for SVHC substances — full compliance confirmed |
+
+## Factory
+
+- 22 years of manufacturing excellence since 2003
+- Dual factories: 10,000 sqm main + 8,000 sqm smart factory in Foshan, Pearl River Delta
+- 500+ skilled workers across 3 shifts
+- ISO 9001:2015 certified quality management system
+- FSC Chain-of-Custody certified — full traceability from forest to finished box
+- KBA Rapida 105 4-color offset + Heidelberg Speedmaster CD 102 7+1 UV presses
+- Bobst flatbed hot foil stamping for gold/silver/rose gold/holographic logo application
+- In-house CNC die-cutting workshop for custom EVA foam inserts and magnetic strip channels
+- Dedicated beauty packaging line with soft-touch coating station and fingerprint-resistant finishing
+- Export to 60+ countries across North America, Europe, Middle East, and Asia-Pacific

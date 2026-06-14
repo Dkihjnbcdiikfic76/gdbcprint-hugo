@@ -61,3 +61,35 @@ Bincai's custom corrugated subscription box combines the cost-efficiency of kraf
 | Apparel / Fashion | B-flute, bleached kraft | Embossed logo label |
 | Book Subscription | B-flute, adjustable depth | Matte label finish |
 | Pet Supplies | E-flute, sturdy build | Spot UV brand mark |
+| Coffee / Tea Curation | B-flute, rye-grain kraft | Earth-tone label with natural texture |
+| Kids Activity Kits | B-flute, white kraft | Bright CMYK label with rounded corners |
+| Corporate Welcome Kits | B-flute, premium white kraft | Embossed logo + foil accented label |
+
+## Quality Details
+
+- **Edge Crush Testing**: Every production batch sampled per TAPPI T-811 — B-flute minimum 32 lb/in ECT for stackability in warehouse and transit
+- **Print Registration**: Label-to-body alignment maintained at ±0.5mm through automatic label applicator with vision system verification
+- **Tear Strip Performance**: Initiation force calibrated to 12-20N — strong enough to survive transit, easy enough for consumer unboxing
+- **Crash-Lock Durability**: Bottom mechanism tested to 15+ open/close cycles without tab fatigue or adhesive failure
+- **Glue Bond**: Water-based PVA adhesive with ≥15N/cm peel strength on side seams — no hot-melt contamination risk for food-contact applications
+- **Color Consistency**: ΔE ≤ 2.0 across full production run monitored by inline spectrophotometer on KBA 1050 press
+- **Moisture Resistance**: Kraft liner with 8-10% equilibrium moisture content for dimensional stability in varying humidity conditions
+- **ISTA 1A Drop Test**: 10-drop sequence from 0.76m — zero structural failure, zero label delamination
+- **Free Pre-Production Samples**: 5-7 day turnaround with digital proof and physical sample for approval before mass production
+- **MOQ**: 1,000 units standard; 3,000+ for custom die tooling; lower trial quantities available for startup brands
+
+## Why Choose Bincai for Subscription Boxes
+
+Bincai's subscription box manufacturing is purpose-built for the DTC fulfillment workflow. Our automatic crash-lock folder-gluers produce ready-to-use boxes that assembly teams can erect in under 3 seconds each — dramatically reducing fulfillment center labor costs compared to tape-sealed alternatives. The kraft body + full-color label construction offers the ideal balance: the kraft base keeps material costs 30-40% lower than full-wrap litho-laminate, while the CMYK label delivers premium brand presence on the top panel — the only surface subscribers see in product photography and unboxing videos. With 22 years of corrugated engineering expertise across beauty, food, apparel, and publishing verticals, Bincai understands the unique structural requirements of each subscription category — from the grease-resistant liners needed for meal kits to the crush-resistant double-wall construction for heavy book bundles.
+
+## Factory
+
+- 22 years of manufacturing excellence since 2003
+- Dual factories: 10,000 sqm main + 8,000 sqm smart factory in Foshan, Pearl River Delta
+- 500+ skilled workers across 3 shifts
+- ISO 9001:2015 certified quality management system
+- FSC Chain-of-Custody certified — full traceability from forest to finished box
+- KBA Rapida 105 4-color offset + Heidelberg Speedmaster CD 102 7+1 UV presses
+- In-house automatic flute laminator, rotary die-cutter, and folder-gluer lines for integrated subscription box production
+- Dedicated label application line with vision inspection for consistent brand alignment
+- Export to 60+ countries across North America, Europe, Middle East, and Asia-Pacific

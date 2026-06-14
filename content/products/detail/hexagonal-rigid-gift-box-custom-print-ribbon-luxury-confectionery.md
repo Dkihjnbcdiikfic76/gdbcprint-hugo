@@ -16,7 +16,11 @@ params:
 
 ## Product Overview
 
-Bincai's hexagonal rigid gift box brings architectural elegance to luxury confectionery packaging. The six-sided design stands out on retail shelves, while the magnetic lid with satin ribbon pull provides a satisfying reveal. A custom die-cut foam tray secures individual chocolates, macarons, truffles, or candies. Full CMYK offset printing across all six exterior faces with optional gold foil accents. 22 years of luxury rigid box manufacturing.
+Bincai's hexagonal rigid gift box brings architectural elegance to luxury confectionery packaging. The six-sided design commands attention on retail shelves with 50% more visible surface area than a comparable rectangular box — every face presents a branding opportunity. The magnetic lid with satin ribbon pull creates a ceremonial unboxing experience: the lid lifts smoothly on its magnetic track, the ribbon unfurls, and the confectionery inside is revealed in individually cradled foam cavities.
+
+Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** (founded 2003) in our 18,000 sqm Foshan dual-factory complex (10,000 sqm main + 8,000 sqm smart factory). Each box is precision-built on KBA 1050 4-color offset and Heidelberg 7+1 UV presses with gold/silver foil applied on a Bobst flatbed hot stamping machine. The 2.0mm greyboard rigid core wrapped in 157gsm art paper provides the structural integrity expected of luxury packaging — the box feels substantial in hand, the magnetic closure snaps with authority, and the hexagonal geometry maintains perfect symmetry even after repeated opening.
+
+A custom die-cut EVA foam tray (30-45 Shore A hardness) secures each confectionery piece in its own cavity — chocolates, macarons, truffles, or candies arrive in flawless condition. The tray is bonded to the base with water-based adhesive for food-contact safety. 22 years of luxury rigid box manufacturing, ISO 9001:2015 and FSC Chain-of-Custody certified, with daily output exceeding 220,000 rigid gift boxes.
 
 ## Manufacturing Specifications
 
@@ -62,3 +66,20 @@ Bincai's hexagonal rigid gift box brings architectural elegance to luxury confec
 | Magnetic Hold | Internal | Closure force ≥4.0N |
 | Print Registration | Internal | ±0.15mm across panels |
 | Color Consistency | Internal | ΔE ≤ 2.0 |
+| Foil Adhesion | ASTM D3359 | 5B rating — no peeling after tape test |
+| Ribbon Attachment | Internal | Pull-force tested at ≥30N without detachment |
+| Foam Tray Fit | Internal | Cavity tolerance ±0.3mm for piece retention |
+| Drop Test | ISTA 1A | 10-drop sequence from 0.76m — zero structural failure |
+| Food Safety | EU 1935/2004 | Water-based adhesive, no migratory substances detected |
+
+## Factory
+
+- 22 years of manufacturing excellence since 2003
+- Dual factories: 10,000 sqm main + 8,000 sqm smart factory in Foshan, Pearl River Delta
+- 500+ skilled workers across 3 shifts
+- ISO 9001:2015 certified quality management system
+- FSC Chain-of-Custody certified — responsible paper and board sourcing
+- KBA Rapida 105 4-color offset + Heidelberg Speedmaster CD 102 7+1 UV presses
+- Bobst flatbed hot foil stamping machine for gold/silver/rose gold/holographic foil (±0.15mm precision)
+- In-house die-making workshop for custom hexagonal cutting dies and cavity-specific foam molds
+- Export to 60+ countries across North America, Europe, Middle East, and Asia-Pacific
