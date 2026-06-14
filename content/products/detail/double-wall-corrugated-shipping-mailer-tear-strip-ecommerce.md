@@ -18,7 +18,7 @@ tags:
   - subscription boxes
 ---
 
-![Bincai Corrugated Mailer](/images/cat-fold-mailer.jpg)
+![Bincai Corrugated Mailer](/images/corrugated-mailer.jpg)
 
 Double-wall BC-flute corrugated shipping mailer with integrated tear strip for frustration-free e-commerce fulfillment — manufactured by **Guangdong Bincai Color Printing Co., Ltd.**, a Diamond Member on Made-in-China.com with 22 years of manufacturing excellence (founded 2003). The patented tear strip design allows end consumers to open packages in under 2 seconds without tools, reducing customer frustration and return rates. BC-flute construction delivers exceptional crush resistance for apparel, books, cosmetics, electronics, and subscription box fulfillment. Produced on our KBA 1050 4-color and Heidelberg 7+1 UV offset presses with in-line flexo capability across 18,000 sqm of ISO-certified factory space (10,000+8,000 sqm smart factory expansion, 2025). ISTA 3A transit-tested for drop, vibration, and compression.
 

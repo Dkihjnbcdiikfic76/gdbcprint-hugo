@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001"
 ---
 
-![Corrugated Mailer](/images/cat-corrugated-mailer.jpg)
+![Corrugated Mailer](/images/corrugated-mailer.jpg)
 
 ## Product Overview
 

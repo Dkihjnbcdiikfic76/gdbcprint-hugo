@@ -12,7 +12,7 @@ params:
   certification: "FSC"
 ---
 
-![Kraft Eco Box](/images/cat-kraft-eco-box.jpg)
+![Kraft Eco Box](/images/kraft-eco-box.jpg)
 
 ## Product Overview
 
