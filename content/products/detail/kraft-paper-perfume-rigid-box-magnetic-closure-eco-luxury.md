@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Kraft Perfume Rigid Box](/images/cat-rigid-others.jpg)
+![Kraft Paper Perfume Rigid Box](/images/kraft-eco-box.jpg)
 
 ## Product Overview
 
