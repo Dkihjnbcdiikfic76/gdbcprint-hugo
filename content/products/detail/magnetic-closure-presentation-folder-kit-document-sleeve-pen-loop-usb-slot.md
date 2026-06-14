@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Magnetic Closure Box](/images/cat-rigid-others.jpg)
+![Magnetic Closure Box](/images/cat-magnetic-closure-box.jpg)
 
 ## Product Overview
 
