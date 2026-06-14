@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Premium White Kraft Paper Gift Bag with Die-Cut Handle and Spot UV Finish](/images/cat-paper-bag.jpg)
+![Premium White Kraft Paper Gift Bag with Die-Cut Handle and Spot UV Finish](/images/kraft-eco-box.jpg)
 
 ## Product Overview
 

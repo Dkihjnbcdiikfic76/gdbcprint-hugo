@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Paper Bags](/images/cat-paper-bag.jpg)
+![Bincai Kraft Eco Boxes](/images/kraft-eco-box.jpg)
 
 The premium paper shopping bag with twisted rope handles is the most visible piece of brand packaging a retailer deploys — it leaves the store, travels through public spaces, and serves as a walking advertisement long after the purchase. Manufactured by Guangdong Bincai Color Printing Co., Ltd. at its 18,000 sqm Foshan facility, this bag combines structural engineering with high-impact graphic execution. The KBA Rapida 105 4-color offset press delivers full-coverage brand printing at 15,000 sheets/hour, while the Heidelberg Speedmaster CD 102 7+1 UV press enables spot UV logo treatment that creates a tactile, light-catching contrast between matte bag surface and glossy brand mark.
 
