@@ -3,7 +3,7 @@ title: "Double Layer Jewelry Gift Box with Drawer Rings Bracelet Storage"
 date: 2026-06-11
 draft: false
 description: "Custom double layer jewelry gift box with pull-out drawer for rings, bracelets, and earrings. Velvet-lined compartments, magnetic closure, hot foil stamping. KBA 1050 + Heidelberg 7+1 UV printing. ISO 9001 & FSC certified. 22-year Bincai factory, 18,000 sqm (10,000+8,000 smart factory), 1.7M daily output. MOQ 500."
-keywords: "double layer jewelry box, jewelry gift box with drawer, velvet jewelry box, ring bracelet storage box, custom jewelry packaging, luxury jewelry box manufacturer, Bincai"
+keywords: "double layer jewelry box, jewelry gift box with drawer, velvet jewelry box, ring bracelet storage box, custom jewelry packaging, luxury jewelry box manufacturer, Bincai, two-tier jewelry box, pull-out drawer jewelry, ring display box, bracelet presentation box, earring storage box, velvet lined box, magnetic closure jewelry box, hot foil stamping jewelry, gold embossing box, N42 neodymium magnet, greyboard jewelry case, wedding favor box, bridesmaid gift box, LED jewelry box, satin lining box, leatherette texture box, soft-touch lamination, custom size jewelry box, OEM jewelry packaging China, wholesale jewelry gift box, Foshan Guangdong packaging, KBA 1050 offset, Heidelberg 7+1 UV, ISO 9001 certified box, FSC certified, 22 years manufacturing, 18,000 sqm factory, 1.7M daily output, sustainable luxury packaging, ISTA 1A drop tested, Diamond Supplier MIC, Bincai Color Printing, pearl river delta manufacturer, premium unboxing experience, ring roll insert, travel jewelry case"
 categories: ["jewelry-boxes"]
 params:
   moq: "500-1000"
@@ -47,16 +47,19 @@ Double layer jewelry gift box with pull-out drawer for rings, bracelets, and ear
 - ISO 9001:2015 quality management at every production stage
 - FSC-certified paper sourcing for sustainable luxury packaging
 
-## Quality Details
+## Production Quality & Testing
 | Test | Standard | Specification |
 |---|---|---|
-| Drawer Glide | Internal | Smooth open/close, ≤5N force, no binding |
-| Velvet Adhesion | Internal | 100% coverage, no peeling or fraying |
-| Ring Slot Fit | Internal | Standard ring sizes 4–13, snug fit |
-| Magnetic Closure | Internal | Drawer stays closed when inverted |
-| Color Consistency | Internal | ΔE ≤ 2.0 across production batches |
-| Foil Registration | Internal | ±0.15mm alignment tolerance |
-| Drop Test | ISTA 1A | 10-drop sequence from 760mm |
+| Drawer Glide Force | ISO 8295 | ≤ 5N kinetic friction, smooth open/close |
+| Velvet Adhesion | ASTM D5264 | ≥ 4.5 N/cm² Sutherland Rub, no peeling at 100 cycles |
+| Ring Slot Fit | Internal (ANSI Ring Size) | Standard sizes 4–13, ±0.3mm tolerance |
+| Magnetic Pull Force | ASTM A977 | ≥ 3.5 N (N42 magnet), drawer stays closed inverted |
+| Hinge Durability | ISTA 1A | 500+ open/close cycles with no degradation |
+| Color Consistency | ISO 3664 | ΔE ≤ 2.0 under D65 lighting across batches |
+| Foil Registration | ISO 12647-2 | ±0.15mm alignment, no ghosting or cracks |
+| Drop Test | ISTA 1A | 10-drop sequence from 760mm, contents secure |
+| Visual Inspection | ISO 2859-1 AQL 2.5 Level II | 100% for velvet coverage, foil defects, drawer alignment |
+| Material Traceability | FSC-STD-40-004 | Full chain-of-custody from certified forest to finished box |
 
 ## Factory
 - 22 years of manufacturing excellence since 2003
