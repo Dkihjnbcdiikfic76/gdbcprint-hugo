@@ -56,3 +56,37 @@ Kraft paper folding boxes communicate natural, organic, and sustainable brand va
 - Fully automatic die-cutting and gluing lines
 - On-site recycling and waste reduction systems
 - Export to 40+ countries worldwide
+
+## Why Choose Bincai for Kraft Eco Boxes
+Sustainability isn't just a label — it's engineered into every box. Here's why 200+ global brands choose Bincai for their eco-friendly packaging:
+
+| Feature | Bincai Advantage |
+|---------|-----------------|
+| **True FSC Chain of Custody** | SCS-COC-009814 certified — full traceability from certified forest to your finished box. Not just a logo; audited annually |
+| **Closed-Loop Waste System** | Production trim and offcuts recycled on-site into new corrugated board — zero process waste to landfill |
+| **Soy-Based & Water-Based Inks** | Full CMYK printing with soy-based inks (USDA BioPreferred) and water-based aqueous coatings — no solvent VOCs |
+| **Biodegradable Options** | PLA (polylactic acid) window film derived from corn starch — fully compostable under industrial conditions (EN 13432) |
+| **Carbon-Optimized Manufacturing** | Smart factory energy management system; LED UV curing on Heidelberg press cuts energy 60% vs. conventional UV |
+| **22 Years, One Factory** | No outsourcing. No middlemen. Every box designed, printed, die-cut, and glued under one roof in Foshan |
+| **Free Eco Consultation** | Our packaging engineers recommend board caliper, flute construction, and finishing to minimize material use without sacrificing protection |
+| **REACH & RoHS Compliant** | All materials tested for EU and US market compliance — heavy metals, phthalates, and SVHC screened |
+
+## Frequently Asked Questions
+
+**Q: Is kraft paper really recyclable after printing with soy inks?**
+A: Yes. Soy-based inks de-ink more easily than petroleum-based inks during the repulping process, making our kraft boxes fully recyclable in standard paper streams. Water-based coatings further improve recyclability over UV/solvent coatings.
+
+**Q: Can you match a specific kraft shade (e.g., our brand's signature brown)?**
+A: Yes. We stock natural brown (standard), bleached white, black kraft, and can tint kraft board to match specific Pantone shades through our paper mill partnerships. MOQ for custom-tinted kraft is 2,000 units.
+
+**Q: How do kraft boxes perform in humid conditions?**
+A: Standard kraft has moderate moisture resistance. For high-humidity environments (bathrooms, tropical shipping), we offer moisture-barrier kraft with a PE or water-based barrier coating that maintains the natural kraft appearance while preventing warping and softening.
+
+**Q: What's the minimum order for FSC-certified boxes?**
+A: The standard MOQ of 500 units applies. FSC certification is maintained across all production — you get certified boxes at no extra charge. Chain-of-custody documentation provided with every order.
+
+**Q: Can I combine kraft with luxury finishes?**
+A: Absolutely — it's one of our most popular aesthetics. Gold/silver foil stamping, blind debossing, and spot UV on kraft create a "quiet luxury" look. See our portfolio for examples of foil-on-kraft combinations for premium organic skincare and spirits brands.
+
+**Q: What biodegradable window film options do you offer?**
+A: PLA (corn-starch based) is our standard biodegradable option — crystal clear, compostable under EN 13432, and heat-sealable. We also offer cellulose-based NatureFlex™ film for home-compostable applications. Both perform comparably to PET for window clarity.

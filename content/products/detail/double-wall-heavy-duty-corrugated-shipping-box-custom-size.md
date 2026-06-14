@@ -58,3 +58,37 @@ Double wall corrugated boxes provide maximum crush resistance for heavy, fragile
 - In-house corrugator, automatic die-cutting, and gluing lines
 - Daily capacity: 1.7 million boxes across all product lines
 - Export to 40+ countries across six continents
+
+## Why Choose Bincai for Heavy-Duty Corrugated Boxes
+When your product travels 8,000 miles by container ship and gets stacked 6 pallets high in an Amazon fulfillment center, the box is your last line of defense. Bincai's double-wall corrugated boxes are engineered for survival:
+
+| Feature | Bincai Advantage |
+|---------|-----------------|
+| **In-House Corrugator** | We manufacture our own corrugated board — no dependence on third-party sheet suppliers. Full control over flute profile, adhesive application, and board consistency |
+| **ISTA-Certified Testing Lab** | Every structural design goes through ISTA 1A/3A simulated drop, vibration, and compression testing before production approval. Test reports provided with shipment |
+| **BC-Flute Standard, Any Flute Available** | BC-flute (6-7mm, ECT 44+) is our heavy-duty standard. Also available: EB-flute (thin+strong for retail), AB-flute (8-9mm extra heavy), and triple-wall AAA for extreme protection |
+| **Litho-Laminated Premium Print** | Unlike bare flexo-printed brown boxes, our litho-laminated corrugated delivers full-color photo-quality graphics — your shipping box becomes a brand billboard |
+| **Water-Resistant Options** | Weather-resistant board with wet-strength additives, water-based barrier coatings, and wax-alternative treatments for cold chain, export, and outdoor storage |
+| **FBA-Ready Specifications** | Box dimensions optimized for Amazon FBA tier rates; frustration-free packaging compliant; SIOC (Ships In Own Container) certified designs |
+| **Cost Engineering** | Our structural engineers optimize flute grade, board caliper, and box style to meet your protection requirements at the lowest material cost — typically 10-15% material savings vs. over-spec'd designs |
+| **7-Day Rush Service** | Standard sizes with printing ship in 5–7 working days. Custom sizes with full litho-lamination: 10–15 working days |
+
+## Frequently Asked Questions
+
+**Q: BC-flute vs. AB-flute — which one do I need?**
+A: BC-flute (6-7mm, ECT 44+) handles most heavy e-commerce and industrial shipments up to ~25kg. AB-flute (8-9mm, ECT 55+) is for extra-heavy items (25-50kg), long-distance export, or high-stack warehouse storage. Our engineers evaluate your product weight, distribution channel, and stacking requirements to recommend the optimal flute.
+
+**Q: Can you print full-color graphics on a double-wall box?**
+A: Yes — through litho-lamination. We print the artwork on coated art paper on our KBA 1050 or Heidelberg 7+1 UV press, then laminate it to the corrugated board. The result is a retail-quality printed box with the structural strength of double-wall corrugated. Flexo printing (1-3 colors) is also available for simpler designs.
+
+**Q: Do you offer Amazon FBA-compliant packaging?**
+A: Yes. We design boxes to meet Amazon's Frustration-Free Packaging (FFP) requirements, optimize dimensions for FBA storage tier rates, and can certify boxes as SIOC (Ships In Own Container). ISTA 6-Amazon.com testing available.
+
+**Q: What's the difference between ECT and Mullen burst rating?**
+A: ECT (Edge Crush Test) measures stacking strength — critical for warehouse and container stacking. Mullen burst rating measures puncture resistance — important for sharp or irregularly shaped contents. We specify both and recommend based on your supply chain conditions. For e-commerce, we prioritize ECT 44+ for stacking plus ISTA drop testing for impact.
+
+**Q: Can you add perforations or tear strips for easy opening?**
+A: Yes. Perforated tear strips, rip-and-reveal panels, and easy-open features are standard options. For subscription boxes, we can create a "reveal" tear strip that doubles as a branding moment. For returnable e-commerce, double tear strips create a return-ready box.
+
+**Q: What's your minimum order for custom-sized double-wall boxes?**
+A: Standard MOQ is 500 units per size. For very large boxes (over 800×600×400mm), MOQ may be 300 due to board utilization. We also offer a sample run of 50-100 units for market testing before committing to full production.
