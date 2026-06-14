@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Magnetic Closure Box](/images/cat-fold-mailer.jpg)
+![Magnetic Closure Box](/images/magnetic-closure-box.jpg)
 
 ## Product Overview
 
