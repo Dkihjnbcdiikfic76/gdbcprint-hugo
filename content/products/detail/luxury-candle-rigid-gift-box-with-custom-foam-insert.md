@@ -73,3 +73,90 @@ A: Standard lead time is 15-20 business days from artwork approval. Pre-producti
 
 **Q: Are the materials used in Bincai's candle boxes sustainable?**
 A: Yes. All greyboard and art paper are FSC Chain-of-Custody certified. Soy-based inks are standard for interior printing, and the foam insert can be replaced with moulded pulp (fully biodegradable) or recycled EVA foam upon request. The entire box is designed for recyclability after the foam insert is removed.
+
+## Applications
+
+| Industry | Application | Key Benefit |
+|---|---|---|
+| Luxury Candle Brands | Premium scented candles (200-500g), limited-edition holiday collections | Rigid box + foam insert prevents glass jar breakage; foil logo conveys luxury |
+| Artisan Candle Makers | Small-batch soy wax candles, hand-poured artisan collections | Boutique-friendly MOQ 500; custom foam die-cut to exact jar dimensions |
+| Home Fragrance | Diffuser gift sets, room spray collections, wax melt samplers | Multi-compartment foam insert organizes 3-6 products in one gift-ready box |
+| Spa & Wellness | Aromatherapy candle sets, spa gift boxes, meditation candle kits | Matte/soft-touch finishes evoke calm luxury; PET window for scent preview |
+| Corporate Gifting | Branded candle gifts, hotel amenity candles, real estate closing gifts | Gold foil corporate logo + magnetic closure = premium brand impression |
+| E-Commerce DTC | Direct-to-consumer candle subscriptions, unboxing-experience brands | ISTA-tested construction survives parcel delivery; foam cradle prevents glass-to-glass contact |
+| Wedding & Events | Wedding favor candles, bridal party gifts, event table centerpieces | Custom foil monogram or date stamp; white/cream/ivory color options |
+| Department Store Retail | Countertop candle display, holiday gift with purchase sets | Stackable rigid construction maximizes shelf space; foil branding visible at 3m distance |
+
+## Customization Options
+
+| Option | Available Choices | Details |
+|---|---|---|
+| Box Dimensions | 80×80×80mm to 300×200×150mm | Custom to candle jar height/diameter; no tooling charge for standard sizes |
+| Board Grade | 800gsm, 1200gsm, 1600gsm greyboard | Heavier candles (500g+) require 1600gsm; 1200gsm standard for most candles |
+| Exterior Material | Art paper 157gsm, velvet flocking, PU leather, linen-textured, pearlized | 30+ color options for art paper; velvet in 15 stock colors |
+| Interior Lining | Velvet, satin, suede, unlined kraft | Contrast or match exterior; velvet recommended for premium candle unboxing |
+| Foam Insert | EVA (standard, 2-6mm thickness), PU foam (premium), molded pulp (eco) | Precision die-cut to candle diameter ±0.5mm; single or multi-cavity |
+| Foil Colors | Gold, silver, rose gold, copper, holographic, matte gold, black foil | Heidelberg 7+1 UV ensures ±0.1mm foil registration on textured surfaces |
+| Closure Type | Magnetic (N35 neodymium), ribbon pull, tuck flap with hidden magnet | Magnetic snap close for premium feel; ribbon for classic elegance |
+| Surface Finish | Matte lamination, gloss lamination, soft-touch UV, spot UV, aqueous | Heidelberg inline UV coating eliminates offline processing delays |
+| Window Cutout | Die-cut PET/PVC window (clear), PLA bio-window (compostable), anti-fog film | Rectangular, circular, or custom contour; allows candle visibility while sealed |
+| Embossing/Debossing | Raised or recessed logo/pattern/border | Adds dimension; compatible with foil overlay for dual-effect branding |
+| MOQ | 500 units (standard), 200 units (trial) | Foil die: $80-150 one-time; foam die: $50-100 one-time |
+
+## Production Specifications
+
+| Specification | Detail |
+|---|---|
+| Board Construction | Rigid greyboard 800-1600gsm wrapped in 157gsm art paper or velvet flocking |
+| Printing | KBA Rapida 105 4-color offset at 15,000 sheets/hour with inline spectrophotometer |
+| UV Coating | Heidelberg Speedmaster CD 102 7+1 UV — single-pass CMYK + spot + coating + foil |
+| Foil Stamping | Hot foil via Heidelberg 7+1 UV; temperature control 100-140°C; ±0.1mm registration |
+| Die-Cutting | Bobst flatbed die-cutter for greyboard and foam; greyboard ±0.2mm, foam ±0.5mm |
+| Foam Insert Production | CNC die-cut EVA/PU foam; cavity tolerance ±0.5mm; 2-6mm thickness options |
+| Corner Wrapping | Fully automatic rigid box wrapping; 45° mitered corners with <0.3mm gap |
+| Window Installation | Ultrasonic or adhesive PET/PVC window bonding; optical clarity ≥90% light transmission |
+| Assembly Flow | Greyboard shell → art paper wrap → lining → foam insert → magnet → window → final QC |
+| Certifications | ISO 9001:2015, FSC Chain-of-Custody, Sedex SMETA, REACH/ROHS for foam and adhesives |
+| Daily Output | 1.7 million boxes total; 220,000+ rigid gift boxes |
+| Lead Time | 15-20 working days standard; 10-12 days rush service |
+
+## Quality Assurance
+
+| Test | Method / Standard | Acceptance Criteria |
+|---|---|---|
+| Board Caliper | Digital micrometer, inline sampling | Specified gsm ±3% |
+| Print Registration | Heidelberg Prinect inline spectrophotometer | ±0.15mm color-to-color |
+| Color Consistency | X-Rite eXact — ΔE vs. master | ΔE ≤ 2.0 across full production run |
+| Foil Adhesion | ASTM D3359 cross-hatch tape test | Class 4B minimum; no peeling after 10 tape pulls |
+| Foam Insert Fit | Go/no-go gauge — candle jar insertion test | Zero-force insertion; <0.5mm lateral movement |
+| Window Bond Strength | Internal QA-C1 — peel test at 180° | ≥2.0 N/cm²; no delamination after 48h at 40°C/90% RH |
+| Magnet Pull Force | Digital force gauge | 2.5-5.0 N (N35 neodymium); retained after 10,000 open/close cycles |
+| Hinge Durability | Internal QA-C2 — automated cycle tester | 10,000+ cycles without hinge tear |
+| Drop Test | ISTA 1A — 10 drops from 760mm with weighted candle simulator | No structural failure; foam insert retains candle; glass jar simulator intact |
+| Surface Inspection | AQL 2.5 (ISO 2859-1) under 1000 lux D65 | 100% visual for foil, print defects, corner gaps, velvet nap consistency |
+| Pack-out Audit | Internal QA-C3 | Individual polybag; master carton drop-tested; foam corner protectors |
+
+## Why Choose Bincai for Candle Packaging
+
+Luxury candle packaging demands more than just a box — it must protect fragile glass jars through global logistics while delivering a sensory brand experience worthy of premium fragrance products. Guangdong Bincai Color Printing Co., Ltd. has manufactured rigid gift boxes since 2003, and our 18,000 sqm integrated facility in Foshan is purpose-built for precision: from the German-engineered KBA and Heidelberg presses that deliver color-accurate brand artwork, to the CNC die-cutting that produces foam inserts matching your candle jar to within half a millimeter. With 22 years of experience, ISO 9001 and FSC certifications, and daily output exceeding 220,000 gift boxes, Bincai scales from boutique artisan runs to multinational brand rollouts without compromising quality.
+
+**The Bincai Difference:**
+- **Single-Roof Integration** — printing, foil stamping, die-cutting, foam fabrication, and assembly happen in one facility — no multi-vendor delays or quality gaps
+- **Candle-Specific Engineering** — foam inserts precision die-cut to your jar dimensions; drop-tested with weighted simulators to validate transit survival
+- **Fragrance-Friendly Materials** — low-odor adhesives and inks that won't compete with your candle's scent profile
+- **Window Expertise** — die-cut PET/PLA windows with optical clarity ≥90% let customers see (and anticipate) the candle inside
+
+**Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | 220,000+ gift boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
+
+## Sustainability & Compliance
+
+| Aspect | Detail |
+|---|---|
+| Paper Sourcing | FSC Chain-of-Custody certified — all greyboard and art paper traceable to responsibly managed forests |
+| Recyclability | Rigid box fully recyclable in paper/cardboard streams after foam insert removal |
+| Foam Insert | EVA foam reusable or recyclable via specialist channels; molded pulp (fully compostable) option available |
+| Window Film | PLA bio-film window option — EN 13432 certified industrially compostable |
+| Adhesive | Water-based PVA — biodegradable, VOC-free, low-odor for fragrance-sensitive products |
+| Ink | Soy-based offset inks — heavy-metal-free; low-migration formulation for indirect food/fragrance contact |
+| Factory Waste | Closed-loop recycling diverts 95%+ of paper waste from landfill; foam offcuts recycled |
+| Carbon | Rooftop solar (2025 smart factory), LED lighting, optimized batch scheduling to minimize energy per box |
