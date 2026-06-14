@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Corrugated Mailers](/images/cat-corrugated-mailer.jpg)
+![Bincai Corrugated Mailers](/images/corrugated-mailer.jpg)
 
 Corrugated electronics shipper with custom ESD-safe foam insert — engineered for the safe transit of sensitive electronic components and devices. The double-wall BC-flute construction provides crush resistance while the anti-static/conductive foam insert prevents electrostatic discharge damage. Manufactured by Guangdong Bincai Color Printing Co., Ltd., trusted by electronics manufacturers worldwide.
 
