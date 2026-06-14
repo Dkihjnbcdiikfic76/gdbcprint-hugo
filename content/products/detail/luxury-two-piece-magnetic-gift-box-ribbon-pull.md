@@ -92,3 +92,47 @@ This luxury two-piece magnetic closure gift box combines premium materials with 
 | **Humidity Resistance** | Internal | 48hr at 40°C / 90% RH — no warping, delamination, or magnet corrosion |
 | **Visual Inspection** | AQL 2.5 Level II | ISO 2859-1 sampling; 100% magnet + ribbon inspection |
 | **Color Consistency** | ISO 3664 | D65 lighting — ΔE ≤2.0 across production batch |
+
+## Sustainability & Compliance
+
+| Standard | Requirement | Bincai Compliance |
+|---|---|---|
+| **FSC Chain-of-Custody** | Traceable fiber from certified forests | SCS-COC-009852 — full chain tracking; greyboard 100% recycled fiber |
+| **EU REACH** | Chemical substance restrictions | All adhesives, inks, velvet, and coatings compliant |
+| **EU EN71-3** | Migration of certain elements (toy/gift safety) | Heavy metals below detection limits in all materials |
+| **US CONEG** | Heavy metal limits in packaging | Cd+Cr+Hg+Pb < 100ppm total across all components |
+| **California Prop 65** | Carcinogen/reproductive toxin disclosure | No listed substances in materials, adhesives, or coatings |
+| **FDA 21 CFR** | Indirect food additives | PVA adhesives — non-toxic, food-contact safe (confectionery use) |
+| **RoHS 3** | Hazardous substance restriction | Nickel-plated N35 magnets — RoHS compliant |
+| **ASTM D4236** | Art materials safety (consumer gift boxes) | All surface treatments and coatings pass chronic hazard labeling |
+| **Packaging Recyclability** | Material separation | Metal magnets require removal before paper recycling — magnet-free eco variant available |
+| **Carbon Footprint** | GHG emissions tracking | On-site solar 800kW system supplies 35% of factory energy |
+
+## Why Choose Bincai for Luxury Magnetic Gift Boxes
+
+1. **Magnetic Closure Engineering Excellence**: We use N35-grade neodymium magnets with nickel-plated corrosion protection — not cheaper ferrite magnets that lose strength over time. Each magnet cavity is CNC-machined for ±0.5mm placement precision, ensuring the lid aligns perfectly every time.
+
+2. **Velvet & Lining Mastery**: Our in-house velvet flocking operation applies rayon fibers to 120gsm base paper at 120°C with 2.5kV electrostatic charge — producing deep, uniform pile that won't shed or transfer color. Anti-tarnish cloth option available for silver jewelry at no extra cost.
+
+3. **Complete In-House Control**: From greyboard lamination to magnet embedding, corner folding, ribbon threading, and velvet lining — every step happens under one roof. No outsourcing means consistent quality, faster lead times, and cost advantages we pass to you.
+
+4. **Rigid Box at Scale**: 220,000+ rigid boxes produced daily across 6 dedicated assembly lines. Whether you need 500 custom samples or 100,000 units for holiday gifting, our semi-automated lines scale without quality degradation.
+
+5. **Unboxing Ritual Design**: Our design team consults on the full unboxing experience — magnet closure force for a satisfying snap, ribbon pull length for ergonomic grip, two-piece lid-to-base reveal ratio for dramatic presentation, and interior tray layout for product storytelling.
+
+## Frequently Asked Questions
+
+**Q: What's the difference between N35 and N42 magnets, and which should I choose?**
+A: N35 (up to 1.17 Tesla residual flux) is standard for boxes up to 300mm wide — provides 2.5 N/cm² pull force, more than adequate for secure closure. N42 (up to 1.32 T) provides ~20% stronger pull and is recommended for oversized boxes (>300mm) or heavy lids. N35 is the cost-effective standard; we offer N42 as an upgrade.
+
+**Q: Can the box be made recyclable despite the magnets?**
+A: Yes! We offer a magnet-free eco-variant using a precision friction-fit closure or paperboard latch — achieving the same premium rigid box feel with 100% paper recyclability. Standard magnetic boxes require magnet removal before the paper stream, but we include disposal instructions with every shipment.
+
+**Q: How does velvet flocking compare to satin or suede linings?**
+A: Velvet flocking (rayon fibers electrostatically applied) provides the deepest, most uniform pile with excellent abrasion resistance — best for jewelry and watches. Satin (woven polyester) is smoother and more reflective — best for perfume and cosmetics. Suede-feel (microfiber non-woven) offers a matte, tactile surface — best for tech accessories and corporate gifts. We offer all three.
+
+**Q: What's your minimum order quantity and sample timeline?**
+A: MOQ starts at 500 units for standard configurations. Custom inserts, multi-finish, or exotic materials start at 1,000 units. Pre-production samples ship in 3-5 business days with digital proof in 1-2 days. Production lead time: 10-15 days for new tooling, 7-10 days for repeats.
+
+**Q: Can you do multi-color foil stamping on the same box?**
+A: Yes. Our Heidelberg 7+1 UV allows up to 2 foil colors in a single pass (via sequential stamping stations). For 3+ foil colors, each additional color requires a separate stamping pass with ±0.1mm registration maintained across all passes. We recommend limiting to 1-2 foil colors for cost efficiency at scale.

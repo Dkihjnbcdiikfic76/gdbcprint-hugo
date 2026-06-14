@@ -63,6 +63,49 @@ Custom printed corrugated subscription box engineered for direct-to-consumer (DT
 - Free pre-production samples with 5-7 day turnaround
 - MOQ 1,000–3,000 units; lower trial MOQ available for startup brands
 
+## Sustainability & Compliance
+
+| Standard | Requirement | Bincai Compliance |
+|---|---|---|
+| **FSC Chain-of-Custody** | Traceable fiber from certified forests | SCS-COC-009852 — full chain tracking |
+| **EU REACH** | Chemical substance restrictions | All adhesives, inks, and coatings compliant |
+| **EU EN71-3** | Migration of certain elements (toy safety) | Heavy metals below detection limits |
+| **US CONEG** | Heavy metal limits in packaging | Cd+Cr+Hg+Pb < 100ppm total |
+| **California Prop 65** | Carcinogen/reproductive toxin disclosure | No listed substances in materials |
+| **RoHS 3** | Hazardous substance restriction | All electronic components (if any) RoHS-compliant |
+| **FDA 21 CFR** | Indirect food additives for food contact | Water-based adhesives — food-contact safe |
+| **Packaging Recyclability** | Material separation and recycling | Mono-material kraft construction — 100% recyclable |
+| **Carbon Footprint** | GHG emissions tracking | On-site solar 800kW system — 35% renewable energy |
+
+## Why Choose Bincai for Subscription Boxes
+
+1. **DTC-First Engineering**: Our structural design team specializes in direct-to-consumer packaging — tear strips, self-locking bottoms, and flat-pack design optimized for 3PL fulfillment workflows and automated packing lines.
+
+2. **Unboxing Experience Design**: Full-color litho-laminate wrapping transforms utilitarian corrugated into Instagram-worthy brand moments. We offer in-house graphic design support for subscription box artwork optimization.
+
+3. **Scalability Without Compromise**: From 1,000-unit trial runs to 500,000+ monthly recurring orders, our dual-factory setup handles seasonal peaks. The smart factory's automated production lines run 24/7 during Q4 holiday rush.
+
+4. **Integrated Insert Manufacturing**: Die-cut corrugated dividers, molded pulp trays, or EVA foam inserts are produced in-house — no multi-vendor coordination, single quality standard.
+
+5. **Global Logistics Ready**: Flat-pack design optimized for container loading (20% more units per pallet). Export documentation and ISTA-certified packaging for international shipping from Foshan to 60+ countries.
+
+## Frequently Asked Questions
+
+**Q: What's the minimum order quantity for a custom subscription box?**
+A: Standard MOQ is 1,000–3,000 units. For DTC startup brands, we offer a trial MOQ of 500 units with a small-batch surcharge. Volume pricing tiers at 5,000 and 10,000+ units.
+
+**Q: Can you do inside-only printing for a natural kraft exterior look?**
+A: Yes. We offer kraft exterior with full CMYK printing on the interior panels — a popular choice for eco-conscious DTC brands wanting branded surprise-and-delight moments.
+
+**Q: How does the tear strip affect box strength?**
+A: The perforation is precision-scored during rotary die-cutting at ≤0.5mm depth into the outer liner only — maintaining full structural integrity. ECT and burst strength are measured post-perforation and meet all carrier requirements (UPS, FedEx, USPS).
+
+**Q: What's the lead time for new subscription box development?**
+A: Structural design: 2-3 days. Digital proof: 1-2 days. Pre-production sample: 5-7 days. Production: 10-15 days for new artwork, 7-10 days for repeats. Rush service available at 5-7 days.
+
+**Q: Can you match my existing brand Pantone colors precisely?**
+A: Yes. We use inline spectrophotometers on our Heidelberg presses — maintaining Delta E ≤2.0 color consistency. We can match any Pantone solid coated or uncoated color, and provide color drawdowns for approval before production.
+
 ## Factory
 - 22 years of manufacturing excellence since 2003
 - Dual factories: 10,000 sqm main + 8,000 sqm smart factory in Foshan, Pearl River Delta

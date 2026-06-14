@@ -61,4 +61,56 @@ The Bincai Custom Reverse-Tuck Perfume Sleeve combines the efficiency of folding
 - **Spot UV Registration**: ±0.2mm alignment to printed artwork
 - **Board Flatness**: Humidity-controlled storage at 50-55% RH prevents warp
 
+## Production Workflow
+
+1. **Prepress Phase (Day 1-2)**: Artwork review, color separation on Kodak Prinergy workflow, CTP plate output at 2,540 dpi — outputting polymer plates for KBA 1050 and Heidelberg 7+1 UV
+2. **Sheet Printing (Day 2-3)**: KBA 1050 runs full CMYK on 350gsm SBS board sheets (1,020×720mm format, up to 15,000 sheets/hour); Heidelberg 7+1 UV applies spot UV + specialty colors in single pass
+3. **Post-Press Finishing (Day 3-4)**: 1.2mil matte BOPP lamination on automatic thermal laminator at 50m/min — then gold foil hot stamping at 120°C ±5°C with brass die; spot UV screen printing at 80-micron build height
+4. **Die-Cutting (Day 4-5)**: Bobst SP 102 BMA flatbed die-cutter — ±0.15mm registration; custom die board with creasing rules and window cutout; 5,500 sheets/hour throughput
+5. **Folding & Gluing (Day 5-6)**: Automatic folder-gluer — water-based PVA side-seam adhesive, compression belt drying; reverse-tuck panels folded in sequence with anti-scuff rollers
+6. **QC & Pack-out (Day 6-7)**: AQL 2.5 Level II sampling per ISO 2859-1; 100% visual for foil registration and spot UV alignment; flat-packed in corrugated cases at 500 units/case; palletized with stretch wrap
+
+## Sustainability & Compliance
+
+| Standard | Requirement | Bincai Compliance |
+|---|---|---|
+| **FSC Chain-of-Custody** | Traceable fiber from certified forests | SCS-COC-009852 — full chain tracking |
+| **EU REACH** | Chemical substance restrictions | All inks, coatings, adhesives compliant |
+| **EU EN71-3** | Heavy metal migration (cosmetic contact safety) | Below detection limits on all surface treatments |
+| **US CONEG** | Heavy metal limits in packaging | Cd+Cr+Hg+Pb < 100ppm total |
+| **California Prop 65** | Carcinogen/reproductive toxin disclosure | No listed substances in board or coatings |
+| **FDA 21 CFR** | Indirect food additives (cosmetic-adjacent) | Water-based adhesives — non-toxic |
+| **EU Cosmetics Regulation 1223/2009** | Packaging safety for cosmetic products | All surface treatments compatible with fragrance bottles |
+| **Packaging Recyclability** | Material separation | SBS board + paper-based coatings — fully recyclable in paper stream |
+| **Carbon Footprint** | GHG emissions tracking | Solar-powered factory — 800kW rooftop installation |
+
+## Why Choose Bincai for Luxury Fragrance Cartons
+
+1. **Fragrance Industry Expertise**: We understand that perfume packaging must protect glass bottles during shipping while delivering counter-top visual impact. Our reverse-tuck sleeve design is engineered specifically for 50ml and 100ml EDP/EDT bottle formats.
+
+2. **Heidelberg Cold Foil Capability**: Cold foil transfer via Heidelberg 7+1 UV press achieves metallic effects without the tooling cost of traditional hot stamping — ideal for indie perfumers launching multiple SKUs with varied metallic accents.
+
+3. **One-Pass Production**: Printing + UV coating + specialty color on the Heidelberg Speedmaster in a single pass eliminates multi-machine handling, reducing lead time and minimizing registration drift.
+
+4. **Sustainable Luxury**: FSC-certified SBS board, water-based coatings, and fully recyclable construction meet growing consumer demand for sustainable luxury — without sacrificing the premium look and feel fragrance brands require.
+
+5. **Small-Batch Friendly**: MOQ of 1,000 units with free digital proofs and pre-production samples supports indie perfumers, seasonal limited editions, and market testing before scaling to full production runs.
+
+## Frequently Asked Questions
+
+**Q: Can the reverse-tuck sleeve accommodate different bottle shapes?**
+A: Yes. We custom-engineer the die-cut window and internal dimensions to fit any bottle profile — cylindrical 50ml, rectangular 100ml, travel-size 30ml, or rollerball formats. We request a bottle sample for precise fitting.
+
+**Q: What's the difference between hot stamping and cold foil?**
+A: Hot stamping uses a heated brass die pressing metallic foil onto the board — best for large solid areas and bold logos, tooling cost applies. Cold foil is applied inline during UV printing with no tooling cost — best for fine metallic details, gradients, and multi-SKU runs. We offer both and can advise based on your artwork.
+
+**Q: How does matte lamination with spot UV create the luxury effect?**
+A: The 1.2mil matte BOPP film produces a soft, velvety base across the entire carton. Then 80-micron high-build spot UV varnish is selectively applied (typically on logos, patterns, or key design elements) — creating a glossy, raised contrast against the matte background. This tactile and visual contrast is the signature of premium fragrance packaging.
+
+**Q: Can you do serial numbers or QR codes for anti-counterfeiting?**
+A: Yes. We offer variable data printing — sequential serial numbers, QR codes, or unique batch codes — printed inline during production. We can also integrate holographic security seals, tamper-evident closures, and microtext printing for brand protection.
+
+**Q: What's your lead time for new perfume carton development?**
+A: Artwork prep: 2 days. Digital proof: 1-2 days. Pre-production physical sample: 5-7 days. Production: 7-12 days (includes foil die fabrication if needed). Rush service delivers in 5-7 days for repeats.
+
 > **Bincai Manufacturing Advantage**: 22 years of folding carton excellence. Our Foshan factory's KBA 1050 and Heidelberg 7+1 UV inline coating lines produce 1.5M+ folding cartons daily. ISO 9001:2015 and FSC certified. MOQ 1,000 units. Free custom samples in 7 business days. Contact us for a quote.
