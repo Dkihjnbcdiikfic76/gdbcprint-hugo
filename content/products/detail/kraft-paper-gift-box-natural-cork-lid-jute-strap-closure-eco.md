@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, OK Compost HOME, EN 13432"
 ---
 
-![Kraft Paper Gift Box with Natural Cork Lid and Jute Strap Closure](/images/eco-kraft-box.jpg)
+![Kraft Paper Gift Box with Natural Cork Lid and Jute Strap Closure](/images/kraft-eco-box.jpg)
 
 Earth-luxury kraft gift box featuring natural cork lid and jute strap closure — manufactured by **Guangdong Bincai Color Printing Co., Ltd.**, a Diamond Member on Made-in-China.com since 2015, Audited Supplier with 22 years of experience. This design eliminates every gram of plastic: the body is FSC-certified kraft paperboard printed with soy-based inks, the lid is a natural cork composite sheet precision die-cut for a perfect friction fit, and the closure is a hand-tied jute twine strap with a simple loop-and-button fastening. Every component is home-compostable or recyclable in standard paper streams. The warm, tactile contrast between textured kraft and organic cork creates a premium eco-aesthetic that resonates with values-driven consumers. Produced on KBA 1050 4-color and Heidelberg 7+1 UV presses across 18,000 sqm factory.
 
