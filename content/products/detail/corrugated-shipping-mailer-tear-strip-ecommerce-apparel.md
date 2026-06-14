@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Corrugated E-Commerce Shipping Mailer](/images/custom-printed-corrugated-mailer-box-e-commerce-branded.jpg)
+![Corrugated E-Commerce Shipping Mailer](/images/corrugated-mailer.jpg)
 
 ## Product Overview
 
