@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Velvet Jewelry Box with Hidden Message Compartment](/images/cat-fold-cosmetic.jpg)
+![Velvet Jewelry Box with Hidden Message Compartment](/images/cat-rigid-jewelry.jpg)
 
 ## Product Overview
 

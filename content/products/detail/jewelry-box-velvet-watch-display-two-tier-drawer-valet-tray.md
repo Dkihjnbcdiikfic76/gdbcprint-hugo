@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Two-Tier Velvet Watch Display Box](/images/cat-fold-cosmetic.jpg)
+![Two-Tier Velvet Watch Display Box](/images/cat-rigid-jewelry.jpg)
 
 ## Product Overview
 

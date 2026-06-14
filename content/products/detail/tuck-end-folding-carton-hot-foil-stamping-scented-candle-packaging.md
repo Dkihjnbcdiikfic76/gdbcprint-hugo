@@ -58,3 +58,41 @@ Tuck-end folding carton with hot foil stamping for scented candle packaging — 
 - Automatic die-cutting, folder-gluer, and foil stamping lines
 - Daily capacity: 1.7 million color boxes
 - High-Tech Enterprise certified; ISO 9001:2015 & FSC certified
+
+## Candle Packaging Design Expertise
+Candle packaging requires balancing fragrance preservation with visual appeal. Bincai's 22-year expertise includes:
+- **Fragrance Barrier Coating** — Optional water-based barrier coating on interior board to prevent essential oil and fragrance migration through paperboard, maintaining scent integrity for 12+ months
+- **Heat-Safe Construction** — For candles shipped to hot climates (GCC, Southeast Asia, Australia), structural design with ventilation gaps and heat-resistant adhesives rated to 65°C
+- **Tamper-Evident Seals** — Clear tamper-evident sticker or perforated tear-strip integration for retail security without damaging the unboxing experience
+- **Multi-Wick Compatibility** — Custom insert trays for single-wick (200-300g), double-wick (400-500g), and triple-wick (600-800g) candle formats
+- **Brand Storytelling Panels** — Inside-lid printing for fragrance notes, burn time, brand story, and candle care instructions without cluttering the exterior design
+
+## Packaging Styles for Home Fragrance
+| Style | Best For | Features |
+|---|---|---|
+| Tuck-End Carton | Everyday retail candles | Cost-effective, easy open/reclose |
+| Sleeve & Tray | Premium gift candles | Two-piece construction, premium feel |
+| Window Carton | Visual-first brands | Die-cut window shows candle/jar design |
+| Book-Style Magnetic | Luxury collections | Rigid box with magnetic flap, multi-candle sets |
+| Tube Packaging | Travel/mini candles | Cylindrical, space-efficient, gift-ready |
+
+## Production Standards for Candle Packaging
+- **Board Weight** — 300–450gsm C1S/C2S SBS or FBB (folding boxboard) for structural integrity at retail shelf height
+- **Foil Stamping** — Gold, silver, copper, rose gold, holographic, and matte metallic foils applied via Bobst SP 102 BMA at ±0.15mm registration
+- **Surface Finishes** — Matte lamination (most popular for candle brands), gloss lamination, soft-touch velvet lamination, spot UV, or aqueous coating
+- **Adhesives** — Hot-melt EVA for side-seam gluing; water-based PVA for window film attachment; all REACH and FDA 175.105 compliant for indirect food contact where applicable
+- **Color Management** — G7 Master certified color workflow; Delta E ≤ 2.0 across production runs; Pantone spot color matching with spectral density control
+
+## Customization for Candle Brands
+- **Seasonal Collections** — Rapid design turnover for holiday (Christmas, Diwali, Lunar New Year), Valentine's Day, and Mother's Day limited editions
+- **Private Label** — Full OEM service: we manufacture to your specs with your branding; no Bincai branding on any packaging
+- **Co-Branded Inserts** — Printed card inserts with fragrance descriptions, brand story, social media handles, and QR codes linking to digital experiences
+- **Sustainable Options** — FSC-certified board, soy-based inks, water-based coatings, 100% recyclable construction, optional PCR (post-consumer recycled) content
+- **Sample Service** — Free pre-production samples in 5–7 business days; digital proofs in 24–48 hours
+
+## Customer Success Stories
+- **Luxury Candle Brand (EU)** — 50,000 tuck-end cartons with gold foil logo + matte lamination, 350gsm C1S FSC board, 10-color process + spot Pantone; delivered in 18 business days with full FSC CoC documentation for EU import
+- **Artisan Candle Maker (US)** — 5,000 window cartons with circular die-cut, soft-touch velvet lamination, embossed logo (no foil); MOQ trial order scaled to 30,000 quarterly
+- **Hotel Amenity Brand (Middle East)** — 100,000 tuck-end cartons with holographic foil stamping, 400gsm board for high-humidity environments, Arabic/English bilingual printing; delivered across 3 shipments to Dubai, Riyadh, and Doha
+
+**Guangdong Bincai Color Printing Co., Ltd.** — 22 years. 18,000 sqm (10,000+8,000 smart factory). ISO 9001:2015 & FSC certified. KBA 1050 + Heidelberg 7+1 UV presses. 1.7 million color boxes daily. OEM/ODM paper packaging made in Foshan, China.

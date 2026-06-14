@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Kraft Paper Eco Gift Box with Seed-Embedded Hang Tag](/images/cat-fold-cosmetic.jpg)
+![Kraft Paper Eco Gift Box with Seed-Embedded Hang Tag](/images/kraft-eco-box.jpg)
 
 ## Product Overview
 
