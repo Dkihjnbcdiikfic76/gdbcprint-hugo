@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Pharmaceutical Braille Folding Carton](/images/cat-fold-health.jpg)
+![Bincai Folding Cartons](/images/cat-fold-cosmetic.jpg)
 
 ## Product Overview
 

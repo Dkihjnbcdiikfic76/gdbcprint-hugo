@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, EN 13432"
 ---
 
-![Kraft Sandwich Box](/images/cat-kraft-eco-box.jpg)
+![Bincai Kraft Eco Boxes](/images/cat-rigid-others.jpg)
 
 ## Product Overview
 
