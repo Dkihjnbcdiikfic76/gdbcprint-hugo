@@ -45,14 +45,40 @@ A magnetic-closure rigid gift box purpose-built for premium 3-wick candles. The 
 | Ribbon | 15mm satin, black | Color-matched satin or grosgrain |
 | Lid Option | Solid lid | Die-cut window lid with PET film |
 
-## Quality Assurance
+## Production Quality & Testing
 
-- **Magnet holding force**: 2.2kg minimum across 4 magnets, batch tested (QA-MAG-012)
-- **Foam fit tolerance**: ±0.3mm CNC routing precision
-- **Spot UV register**: ±0.15mm alignment to printed artwork
-- **Embossing depth**: 0.8mm ±0.1mm, checked by digital micrometer
-- **Drop test**: 1.0m drop, candle jar intact, foam absorbency validated (ISTA 3A)
-- **ISO 9001**: Raw material lot → finished carton traceability
+| Test | Standard | Specification |
+|---|---|---|
+| **Magnet Holding Force** | Internal QA-MAG-012 | 2.2kg minimum across 4× N35 magnets, per-batch pull-force gauge verified |
+| **Foam Fit Tolerance** | Internal QA-FOAM-004 | ±0.3mm CNC routing precision, 100% go/no-go gauge on cavity dimensions |
+| **Spot UV Registration** | Internal QA-REG-003 | ±0.15mm alignment to printed artwork, D65 light booth visual check |
+| **Embossing Depth** | Internal QA-EMB-001 | 0.8mm ±0.1mm, digital micrometer per 500-sheet pull |
+| **Board Rigidity** | ISO 2493 (Taber Stiffness) | 2.0mm greyboard, ≥800 mN·m machine direction |
+| **Drop Test** | ISTA 3A | 1.0m free-fall, 6 faces + 2 corners, glass candle jar intact, foam absorbency verified |
+| **Foil Adhesion** | ASTM D5264 Sutherland Rub | 100-cycle rub test, no visible wear or transfer |
+| **Lamination Bond** | Internal QA-LAM-005 | 180° peel test, ≥2.5N/25mm bond strength between art paper and greyboard |
+| **Visual Inspection** | ISO 2859-1 AQL 2.5 Level II | 0 major / 1.5 minor per 100 units |
+| **Color Accuracy** | ISO 3664 ΔE ≤2.0 | D65 spectrophotometer verification against Pantone reference |
+
+## Production Workflow
+
+1. **Design & Prepress** — CAD structural design with candle jar dimensions, CTP plate output on Kodak Magnus VLF
+2. **Board Preparation** — 2.0mm greyboard cut to blank, 157gsm C1S art paper PVA cold-glued to greyboard, mitered corners ±0.3mm
+3. **Offset Printing** — CMYK on KBA 1050 4-color press, aqueous coating base
+4. **Spot UV & Foil** — Spot UV register + embossing on Heidelberg 7+1 UV press in a single pass
+5. **Foam CNC Routing** — 25mm EVA foam, density 45kg/m³, CNC die-cut cavity matching candle jar profile within ±0.3mm
+6. **Magnet Embedding** — 4× N35 neodymium magnets (20×10×2mm) embedded into front flap and base, polarity-matched
+7. **Assembly** — Foam insert glued into base, lid hinged, ribbon pull tab attached, satin ribbon feed-through
+8. **QC Gate** — Magnet pull-force test, foam fit gauge, spot UV registration check, embossing depth measurement, drop test sampling per ISTA 3A
+9. **Packing & Shipping** — Flat-packed in corrugated master cartons (50 units per outer), fumigation-free palletization, DHL/FedEx/Sea freight
+
+## Customer Success Scenarios
+
+- **Luxury Candle Brand (USA)** — A premium home fragrance brand launched their 3-wick holiday collection using this box. The Spot UV logo + embossed lid created a tactile unboxing experience that drove Instagram unboxing shares up 40%. Foam insert eliminated 100% of glass-on-glass transit damage (previous breakage rate: 8%). Order: 5,000 units, 25-day turnaround.
+
+- **European Candle Wholesaler (Germany)** — Sourced 10,000 units for a seasonal gift set program. Custom-matched PMS 2685 purple velvet ribbon and gold foil replaced standard black satin. Foam cavity re-tooled for their proprietary triangular 3-wick jar. ISTA 3A drop test passed on first submission. Repeat order within 60 days.
+
+- **Australian Boutique Candlemaker** — Small-batch producer (500 units MOQ) needed premium gift packaging for their luxury soy wax collection. Chose matte lamination + Spot UV logo combination. Free pre-production sample received in 5 working days. Full order delivered in 3 weeks via DHL Express. Now orders quarterly.
 
 ## Why Choose Bincai
 

@@ -42,14 +42,40 @@ Custom window folding carton with gold foil stamping for bakery and pastry packa
 - Auto-lock bottom — no glue, no tape, assembles in seconds
 - ISO 9001:2015 quality management throughout production
 
-## Quality Details
-- Precision window alignment — product stays centered in display
-- Consistent color and foil registration across production runs
-- 100% inspection on die-cutting and gluing lines
-- Stack-tested for transport and retail shelf durability
-- Food-safe materials throughout — inks, coatings, adhesives
-- Free pre-production samples with 5–7 day turnaround
-- MOQ 1000–3000 units, trial orders and OEM/ODM accepted
+## Production Quality & Testing
+
+| Test | Standard | Specification |
+|---|---|---|
+| **Board Burst Strength** | ISO 2759 (Mullen) | 300gsm C1S: ≥800 kPa; 400gsm C2S: ≥1100 kPa |
+| **Crease & Fold** | Internal QA-CREASE-001 | ±0.15mm crease-to-cut registration, 100% visual on Bobst line |
+| **Window Alignment** | Internal QA-WINDOW-003 | ±0.3mm PET window to die-cut aperture, 100% gauge check |
+| **Glue Bond** | Internal QA-GLUE-007 | Peel test ≥2.0N/25mm on auto-lock bottom seam, hot-melt adhesive |
+| **Print Registration** | Internal QA-REG-003 | ±0.15mm CMYK-to-die registration, Heidelberg register control |
+| **Foil Adhesion** | ASTM D5264 Sutherland Rub | 100-cycle rub test, 4lb weight, no visible wear or transfer |
+| **Food Safety** | FDA 21 CFR 176.170 | Aqueous coating, inks, and adhesives all food-contact compliant |
+| **Flatness** | Internal QA-FLAT-002 | ≤2mm warp across 400mm span, conditioned at 23°C/50% RH for 24hrs |
+| **Drop Test** | ISTA 1A | 0.76m free-fall, 10 drops (6 faces + 4 edges), auto-lock bottom intact, contents retained |
+| **Visual Inspection** | ISO 2859-1 AQL 2.5 Level II | 0 major / 1.5 minor per 100 units, gold foil and window clarity under 1000 lux |
+
+## Production Workflow
+
+1. **Design & Prepress** — Structural CAD with window aperture and auto-lock bottom, gold foil die fabrication, CTP plates on Kodak Magnus VLF
+2. **Board Selection** — FSC-certified C1S/C2S board, 300–400gsm, conditioned at 23°C/50% RH for dimensional stability
+3. **Offset Printing** — CMYK + Pantone spot colors on KBA 1050 4-color press, aqueous coating for food-safe surface
+4. **Gold Foil Stamping** — KURZ gold/silver/holographic foil on Heidelberg 7+1 UV, 110°C die, 0.5s dwell, 2.5 MPa, registered to print ±0.15mm
+5. **Die-Cutting** — Bobst SP 102 CER flatbed die-cutter, crease + cut + window aperture in one pass, ±0.15mm registration, auto-stripping
+6. **Window Patching** — 0.3mm food-grade PET film, hot-melt adhesive, automatic window patcher, precision ±0.3mm
+7. **Folding & Gluing** — Auto-lock bottom folded and side-seam hot-melt glued on Bobst folder-gluer, 100% open/close test at line speed
+8. **QC Gate** — Window alignment gauge, burst strength sampling (ISO 2759), foil Sutherland rub, glue bond peel, food safety documentation check, AQL 2.5 visual inspection
+9. **Packing & Shipping** — Flat-packed (50–100 units per bundle), corrugated master cartons, fumigation-free, FSC Chain-of-Custody documentation included, DHL/FedEx/Sea freight
+
+## Customer Success Scenarios
+
+- **Parisian Patisserie Chain (France)** — A 12-location premium bakery in Paris sourced 20,000 window cartons for their signature macaron gift boxes. The gold foil logo + die-cut window allowed customers to see the 6-color macaron assortment without opening. Auto-lock bottom reduced assembly time from 12 seconds to 3 seconds per box — critical during holiday peak. EU 1935/2004 food-contact compliance documentation provided. 18-day production turnaround.
+
+- **Melbourne Artisan Bakery (Australia)** — Ordered 3,000 units of kraft-finish window cartons with copper foil stamping for their sourdough pastry line. The natural kraft finish aligned with their "artisan/rustic" brand identity while the 0.3mm PET window showed off flaky croissants and danishes. FSC certification prominently displayed on the box — a key requirement for their B-Corp certification. Free pre-production sample in 5 working days.
+
+- **Dubai Hotel Pastry Kitchen (UAE)** — Sourced 8,000 custom-shaped window cartons (arched window mimicking the hotel's architectural motif) for their in-house chocolate and date gift boxes. Die-cut window in custom arch shape + gold foil hotel crest. White C1S board with matte lamination for premium feel. Arabic/English bilingual printing on inner flap. FDA food-safe compliance for US-bound guest gifts. 24-day turnaround, now annual contract.
 
 ## Factory
 - 22 years of manufacturing excellence since 2003
