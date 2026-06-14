@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, SGS"
 ---
 
-![Custom Printed Cookie-Themed Paper Gift Bag with Handle](/images/kraft-eco-box.jpg)
+![Custom Printed Cookie-Themed Paper Gift Bag with Handle](/images/cat-paper-bag.jpg)
 
 ## Product Overview
 
