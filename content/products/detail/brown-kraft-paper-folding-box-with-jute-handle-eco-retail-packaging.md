@@ -2,8 +2,8 @@
 title: "Brown Kraft Paper Folding Box with Jute Handle Eco Retail Packaging"
 date: 2026-06-11
 draft: false
-description: "Brown kraft paper folding box with natural jute handle — the ultimate eco-friendly retail packaging solution. Custom manufactured by Bincai with FSC certified kraft board, soy-based ink printing, and 100% biodegradable jute twine handles. Ideal for boutique retail, gift shops, farmers' markets, and sustainable brand packaging."
-keywords: "brown kraft paper box, jute handle box, eco retail packaging, folding kraft box, sustainable gift box, FSC kraft box with handle, biodegradable packaging, soy ink retail box, custom kraft carry box, jute handle gift packaging, eco boutique box, Bincai kraft packaging, paper carry box with handle"
+description: "Brown kraft paper folding box with natural jute handle — the ultimate eco-friendly retail packaging solution. Manufactured by Guangdong Bincai Color Printing Co., Ltd. on KBA 1050 4-color offset and Heidelberg 7+1 UV presses. FSC certified kraft board, soy-based ink printing, 100% biodegradable jute twine handles. 22 years experience, ISO 9001:2015 certified, 18,000 sqm Foshan factory (10,000+8,000 sqm smart factory), daily output 1.7M boxes. Ideal for boutique retail, gift shops, farmers' markets, and sustainable brand packaging."
+keywords: "brown kraft paper box, jute handle box, eco retail packaging, folding kraft box, sustainable gift box, FSC kraft box with handle, biodegradable packaging, soy ink retail box, custom kraft carry box, jute handle gift packaging, eco boutique box, Bincai kraft packaging, paper carry box with handle, KBA 1050 offset press, Heidelberg 7+1 UV, ISO 9001 FSC certified, 22 years experience, 18,000 sqm factory, 1.7M daily output, Foshan eco packaging, wholesale kraft box China"
 categories: ["kraft-eco-boxes"]
 params:
   moq: "500-1000"

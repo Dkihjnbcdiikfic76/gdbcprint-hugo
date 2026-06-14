@@ -2,8 +2,8 @@
 title: "Hexagonal Rigid Gift Box with Custom Print & Satin Ribbon — Luxury Confectionery Packaging"
 date: 2026-06-11
 draft: false
-description: "Hexagonal rigid gift box with custom CMYK printing, satin ribbon closure, and foam insert tray. 6-sided design for luxury chocolates, macarons, and confectionery. Magnetic lid, 22-year Bincai factory, ISO 9001, FSC."
-keywords: "hexagonal gift box, rigid confectionery box, chocolate gift packaging, macaron box hexagon, luxury candy box, satin ribbon gift box, custom printed hexagon box, China rigid box manufacturer, FSC gift packaging, magnetic lid confectionery box"
+description: "Hexagonal rigid gift box with custom CMYK printing, satin ribbon closure, and die-cut foam insert tray. 6-sided design for luxury chocolates, macarons, and confectionery. Magnetic lid closure. Manufactured by Guangdong Bincai Color Printing Co., Ltd. — 22 years experience (founded 2003), ISO 9001:2015 & FSC Chain-of-Custody certified, 18,000 sqm Foshan dual-factory (10,000+8,000 sqm smart factory), KBA 1050 4-color offset + Heidelberg 7+1 UV presses, Bobst flatbed hot foil stamping, daily output 220,000+ rigid gift boxes. Serving 60+ countries worldwide."
+keywords: "hexagonal gift box, rigid confectionery box, chocolate gift packaging, macaron box hexagon, luxury candy box, satin ribbon gift box, custom printed hexagon box, China rigid box manufacturer, FSC gift packaging, magnetic lid confectionery box, KBA 1050 offset, Heidelberg 7+1 UV, ISO 9001 FSC certified, 22 years experience, 18,000 sqm factory, 220K daily output, Bobst hot foil stamping, Foshan rigid box, wholesale confectionery packaging, hexagonal box OEM"
 categories: ["rigid-gift-boxes"]
 params:
   moq: "500-1000"
