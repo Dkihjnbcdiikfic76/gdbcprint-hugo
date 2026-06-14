@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, SGS"
 ---
 
-![Magnetic Closure Custom Jigsaw Puzzle Gift Box — Game & Toy Packaging](/images/cat-rigid-others.jpg)
+![Magnetic Closure Custom Jigsaw Puzzle Gift Box — Game & Toy Packaging](/images/magnetic-closure-box.jpg)
 
 Premium magnetic closure puzzle gift box for jigsaw puzzles, board games, and collectible toys — manufactured by **Guangdong Bincai Color Printing Co., Ltd.**, a Diamond Member on Made-in-China.com since 2015. This book-style magnetic flap box features full-color CMYK exterior printing with game board artwork or custom brand graphics, a precision die-cut EVA foam insert with puzzle piece cavities, and a satin ribbon pull for elegant opening. The rigid greyboard construction protects puzzle pieces during retail display and storage while the magnetic closure keeps contents secure. Produced on KBA 1050 4-color and Heidelberg 7+1 UV presses across our 18,000 sqm factory.
 

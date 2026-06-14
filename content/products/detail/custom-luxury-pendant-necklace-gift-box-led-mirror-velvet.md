@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, SGS, CE (LED)"
 ---
 
-![Custom Luxury Pendant Necklace Gift Box with LED Light & Mirror — Velvet Interior](/images/cat-rigid-others.jpg)
+![Custom Luxury Pendant Necklace Gift Box with LED Light & Mirror — Velvet Interior](/images/cat-rigid-jewelry.jpg)
 
 Premium custom pendant necklace gift box with integrated LED spotlight and vanity mirror — manufactured by **Guangdong Bincai Color Printing Co., Ltd.**, a Diamond Member on Made-in-China.com since 2015, Audited Supplier with 22 years of experience. The hinged lid features a built-in LED module that illuminates the pendant when opened, paired with an acrylic vanity mirror on the underside of the lid for an interactive unboxing experience. The plush velvet-flocked interior cradles the necklace on a satin pillow with a secure clasp groove. Magnetic snap closure ensures elegant presentation. Produced on KBA 1050 4-color and Heidelberg 7+1 UV presses across our 18,000 sqm factory (10,000+8,000 sqm smart factory).
 

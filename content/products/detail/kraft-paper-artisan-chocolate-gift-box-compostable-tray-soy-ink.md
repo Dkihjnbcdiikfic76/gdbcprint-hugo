@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, EN 13432 (Compostable), OK Compost HOME"
 ---
 
-![Kraft Paper Artisan Chocolate Gift Box — Compostable Tray with Soy-Based Ink](/images/cat-fold-cosmetic.jpg)
+![Kraft Paper Artisan Chocolate Gift Box — Compostable Tray with Soy-Based Ink](/images/kraft-eco-box.jpg)
 
 Eco-friendly kraft paper artisan chocolate gift box with compostable molded fiber tray — manufactured by **Guangdong Bincai Color Printing Co., Ltd.** This fully compostable packaging solution combines FSC-certified kraft board with a custom molded fiber tray that cradles individual chocolates, a PLA compostable window for product visibility, and soy-based ink printing for the brand artwork. Natural jute twine closure completes the rustic, earth-conscious aesthetic. Ideal for artisan chocolatiers, organic confectionery brands, and sustainable gift sets. Produced on KBA 1050 4-color and Heidelberg 7+1 UV presses across our 18,000 sqm factory.
 
