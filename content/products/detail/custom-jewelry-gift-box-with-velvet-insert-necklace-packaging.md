@@ -78,3 +78,41 @@ Every jewelry box undergoes rigorous QC aligned with luxury packaging standards:
 - Fully automatic die-cutting, gluing, and rigid box assembly lines
 - Daily capacity: 1.7 million color boxes + 220,000+ gift boxes
 - High-Tech Enterprise certified; ISO 9001:2015 & FSC certified
+
+## Sustainability
+
+| Aspect | Detail |
+|---|---|
+| **FSC Certified** | FSC Chain-of-Custody (SCS-COC-008473) — greyboard and surface paper from managed forests |
+| **Material Efficiency** | Nesting-optimized die-cut layouts reduce board waste ≤8% per sheet |
+| **Velvet Options** | Standard polyester velvet or recycled PET (rPET) velvet — 85% post-consumer recycled content |
+| **Ink** | Soy-based offset inks on KBA 1050; UV-curable low-VOC inks on Heidelberg 7+1 |
+| **Adhesive** | Water-based PVA for rigid box assembly — no solvent emissions |
+| **End-of-Life** | Paperboard components fully recyclable; magnetic closure removable for separate recycling |
+| **Smart Factory** | Gaobu 8,000 sqm facility with energy-efficient LED curing, heat-recovery gluing lines, and solar-ready roof |
+
+## Why Choose Bincai
+
+Guangdong Bincai Color Printing Co., Ltd. is China's partner of choice for luxury jewelry packaging because we control every step — from greyboard lamination to velvet cavity die-cutting to final magnetic closure assembly — under one roof. Our 18,000 sqm Foshan facility pairs KBA 1050 4-color offset for high-speed color work with Heidelberg 7+1 UV for specialty finishes (spot UV, soft-touch, glitter coatings) that luxury jewelry brands demand. Our in-house rigid box production line achieves 220,000+ gift boxes daily with automated corner-wrapping accuracy of ±0.2mm, while our die-cut velvet cavity stations maintain ±0.5mm precision for flawless jewelry presentation. With N52 neodymium magnets verified online via polarity sensors, 10,000-cycle hinge durability testing, and ISTA 1A drop certification, Bincai delivers packaging that protects your jewelry as beautifully as it presents it. 22 years, 80+ skilled craftspeople, and pre-production samples in 5–7 days — the partner jewelry brands trust from concept to customer.
+
+**Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000+8,000 smart factory) | 220,000+ rigid boxes/day | KBA 1050 4-color + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
+
+## FAQ
+
+**Q: Can I mix different jewelry box styles in one order?**
+A: Yes — we support mixed-configuration orders. For example, 500 necklace boxes + 300 ring boxes + 200 earring sets can ship as a single PO with consolidated freight. Each configuration requires its own die-cut tooling, so MOQs apply per style (500 units minimum per configuration).
+
+**Q: What velvet colors are available?**
+A: We stock 40+ standard velvet colors: classic black, navy, charcoal, burgundy, royal blue, emerald, ivory, cream, blush pink, champagne, and more. Custom Pantone-matched velvet is available with a 1,000-meter minimum dye lot. Satin and suede options offer 30+ additional colors.
+
+**Q: How do magnetic closures hold up in shipping?**
+A: Every jewelry box uses N52-grade neodymium magnets with ≥2.5 kgF pull force per pair. We verify polarity and pull force with inline sensors on every production batch. ISTA 1A drop testing (10 drops from 760mm with 500g simulated jewelry) confirms the closure stays secure through transit.
+
+**Q: Can you do foil stamping on velvet?**
+A: Foil stamping is applied to the exterior box surface (art paper wrap), not directly on velvet. However, we can foil-stamp branded logos, monograms, or patterns on the exterior in gold, silver, rose gold, copper, holographic, or custom foil colors. Interior branding can be applied to the lid liner or a ribbon pull tab.
+
+**Q: What's the lead time for a custom jewelry box project?**
+A: Dieline design 24h → 3D digital proof 24h → physical sample with velvet 5–7 days → approval → mass production 10–15 days. Total: 3–4 weeks. Rush production available for reorders (7–10 days).
+
+**Q: Do you offer anti-tarnish lining for silver jewelry?**
+A: Yes — we can integrate anti-tarnish fabric lining (treated with silver-protect compounds) for silver and fine jewelry that requires tarnish prevention during storage and retail display. This is a premium upgrade available on satin and suede interiors.

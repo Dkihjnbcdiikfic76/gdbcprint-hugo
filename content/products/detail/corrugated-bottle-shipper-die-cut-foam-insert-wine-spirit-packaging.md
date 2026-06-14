@@ -63,3 +63,34 @@ Guangdong Bincai Color Printing Co., Ltd. is not just a rigid-box specialist —
 **Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000+8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | Automated corrugated converting lines | ISO 9001 & FSC | ISTA 3A certified | Foshan, Guangdong, China
 
 **Shipping:** Flat-packed for freight efficiency — 70% less volume than pre-assembled shippers. Standard lead time 10–14 days. Free pre-production samples 5–7 days. MOQ 500 units.
+
+## Sustainability
+
+| Aspect | Detail |
+|---|---|
+| **Material** | B/C-flute corrugated — 100% recyclable, 80%+ recycled content available |
+| **FSC Certified** | FSC Chain-of-Custody (SCS-COC-008473) — full traceability from managed forests |
+| **Foam Options** | EPE foam (standard) or molded pulp insert (compostable alternative) |
+| **Waste Reduction** | Flat-packed design reduces shipping volume 70% vs assembled shippers — lower carbon footprint |
+| **Ink** | Water-based flexo inks for exterior; soy-based offset inks for litho-printed exteriors |
+| **End-of-Life** | Corrugated components fully recyclable in standard paper streams; EPE recyclable via #4 LDPE stream |
+
+## FAQ
+
+**Q: Can this shipper handle both 750ml wine and 700ml spirit bottles?**
+A: Yes — we design the foam insert to accommodate both Bordeaux/Burgundy 750ml profiles and standard 700ml spirit bottle shapes. Custom foam tooling ensures a precision fit for each bottle type.
+
+**Q: What's the minimum order quantity?**
+A: MOQ 500 units for standard configurations. For fully custom bottle cavity tooling (new die-cut foam mold), MOQ increases to 1,000 units due to tooling setup. Pre-production samples ship in 5–7 days at no charge.
+
+**Q: Can I print my winery logo on the exterior?**
+A: Absolutely — we offer CMYK flexo printing for brown kraft exteriors and full offset litho-print for white-top kraft exteriors. Brand colors, logos, regulatory text (alcohol warning labels), and QR codes are all print-ready.
+
+**Q: How is the shipper tested for transit safety?**
+A: Every design undergoes ISTA 3A certification: 10 drops from 760mm covering all 6 faces, edges, and corners. We also perform box compression testing (BCT ≥350kg) and vibration simulation. Certification reports are provided with production shipments.
+
+**Q: Do you offer temperature-controlled shippers for wine?**
+A: Yes — we can integrate thermal reflective liners (metallized PET bubble) into the shipper design for cold-chain wine shipping. Contact us for specifications on our corrugated-thermal-mailer line.
+
+**Q: What's the lead time for a custom wine shipper project?**
+A: Die-line design 24h → foam tooling 3 days → pre-production sample 5–7 days → mass production 10–14 days. Total: approximately 3–4 weeks from artwork approval to delivery. Rush orders available.

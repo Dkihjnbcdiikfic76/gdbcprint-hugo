@@ -61,3 +61,40 @@ Bincai's compostable kraft window tea box is engineered for the zero-waste suppl
 | Print Adhesion | Internal | ≥1.5 N/cm² on kraft |
 | Window Bond | Internal | ≥3.0 N/cm² seal strength |
 | Moisture Resistance | Internal | ≤2% dimensional change at 60% RH |
+
+## Sustainability
+
+| Aspect | Detail |
+|---|---|
+| **Material** | 350gsm FSC-certified kraft paperboard — 100% renewable, unbleached option available |
+| **PLA Window** | Corn starch-derived PLA film — compostable per EN 13432, carbon-neutral feedstock |
+| **Ink** | Soy-based vegetable inks — heavy metal-free, VOC-free, EN 13432 compliant |
+| **Adhesive** | Water-based PVA — solvent-free, no volatile organic compounds, compostable-compatible |
+| **End-of-Life** | Full box biodegrades ≥90% within 180 days in industrial composting (EN 13432 certified) |
+| **Packaging** | Products ship in recycled corrugated master cartons with paper-based void fill — zero plastic |
+
+## Why Choose Bincai
+
+Guangdong Bincai Color Printing Co., Ltd. brings 22 years of packaging expertise to the sustainable frontier. Our 18,000 sqm dual-factory in Foshan (10,000 sqm + 8,000 sqm Gaobu smart facility) operates KBA 1050 4-color offset presses that print soy-based inks on kraft substrates with the same precision as conventional CMYK jobs — no compromise on brand colors or registration. We hold FSC Chain-of-Custody certification across our entire supply chain, and our EN 13432 compostability validation covers the full box assembly, not just individual components. From our in-house die-making workshop (24h die-line turnaround) to our automated window-patching lines that achieve ±0.5mm PLA film placement, every process is engineered for sustainable consistency. With 1.7M daily box output and pre-production samples in 5–7 days, Bincai scales from artisan tea startups to multinational organic brands without missing a delivery window.
+
+**Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000+8,000 smart factory) | 1.7M boxes/day | KBA 1050 4-color | Heidelberg 7+1 UV | ISO 9001 & FSC | EN 13432 Compostable | Foshan, Guangdong, China
+
+## FAQ
+
+**Q: Is the PLA window truly compostable?**
+A: Yes — our 30-micron PLA film is derived from corn starch and certified compostable under EN 13432, achieving ≥90% biodegradation within 180 days in industrial composting conditions. Unlike petroleum-based PET windows, PLA breaks down into water, CO₂, and biomass.
+
+**Q: Can I get pre-production samples before committing to a large order?**
+A: Absolutely. We provide 5–7 day pre-production samples at no charge for standard configurations. Custom window die-cut tooling may add 3–5 days for sample preparation. Samples include full print, PLA window, and insert — exactly as production units.
+
+**Q: What's the minimum order quantity?**
+A: MOQ 1,000 units for standard sizes with existing window dies. For custom window shapes requiring new die-cut tooling, MOQ increases to 3,000 units. Trial orders of 500 units can be accommodated for simple configurations.
+
+**Q: Can you match my brand's kraft shade?**
+A: Yes — we offer natural brown kraft (standard), bleached white kraft, grey kraft, and custom-dyed kraft to match your brand palette. Print color matching uses X-Rite spectrophotometer with ΔE ≤3.0 tolerance.
+
+**Q: How does soy-based ink perform on kraft paper?**
+A: Soy-based inks deliver excellent color saturation on kraft substrates, with strong rub resistance (≥100 Sutherland double rubs at 4-lb). Because kraft is naturally absorbent, we apply a water-based matte coating to lock in color and prevent scuffing during transit.
+
+**Q: What certifications do you hold for sustainable packaging?**
+A: ISO 9001:2015 (quality management), FSC Chain-of-Custody (SCS-COC-008473), and EN 13432 (compostability). We can also arrange ASTM D6400 and OK Compost certification upon request.
