@@ -2,8 +2,8 @@
 title: "Custom Corrugated Half-Slotted Container with Die-Cut Partitions for Glass Bottles"
 date: 2026-06-14
 draft: false
-description: "Custom Corrugated Half-Slotted Container HSC with Die-Cut Partitions for Glass Bottles by Guangdong Bincai Color Printing. Double-wall B/C flute corrugated with interlocking dividers for wine, spirits, olive oil, and beverage bottles. ISO 9001 FSC certified, 10,000 sqm factory, 22 years."
-keywords: "half-slotted container, HSC corrugated box, glass bottle shipping, wine shipping box, divider partitions, double-wall corrugated, bottle shipper, Bincai, Made-in-China"
+description: "Custom Corrugated Half-Slotted Container (HSC) with die-cut interlocking partitions for glass bottles — wine, spirits, olive oil, pharmaceutical liquids. Double-wall B/C flute corrugated, ISTA-certified drop protection. Manufactured by Guangdong Bincai Color Printing — 22 years experience, ISO 9001:2015 & FSC certified, 18,000 sqm factory (10,000+8,000 smart factory), KBA 1050 4-color & Heidelberg 7+1 UV presses, 1.7M boxes daily output. MOQ 200. Serving 60+ countries."
+keywords: "half-slotted container, HSC corrugated box, glass bottle shipping box, wine shipping box, divider partitions, double-wall corrugated, bottle shipper, corrugated bottle packaging, B-flute C-flute corrugated, ISTA certified bottle shipper, wholesale wine shipping box, spirits bottle packaging, olive oil bottle box, pharmaceutical glass shipping, custom corrugated container, Bincai Color Printing, Guangdong paper box manufacturer, ISO 9001 corrugated box, FSC certified packaging, die-cut partition box, craft beer shipping, cosmetic bottle transport, Foshan corrugated manufacturer"
 categories: ["corrugated-mailers"]
 params:
   moq: "200-500"
@@ -50,17 +50,31 @@ Our custom half-slotted container (HSC) with die-cut partitions is engineered sp
 
 ## Production Specifications
 
-| Specification | Detail |
-|--------------|--------|
-| Board Grade | Double-Wall B/C Flute Corrugated |
-| Box Style | Half-Slotted Container (HSC) |
-| Partition Type | Die-Cut Interlocking Corrugated Dividers |
-| Assembly | Industrial Hot Melt Adhesive |
-| Exterior Printing | 1–3 Color Flexographic |
-| Manufacturing | Automated Corrugator Line |
-| Daily Output | Up to 1.5 Million Boxes |
-| Certifications | ISO 9001:2015, FSC® Certified |
-| Factory | 10,000 sqm Production Floor, 22 Years Experience |
+|| Specification | Detail |
+||---|---|
+|| **Board Grade** | Double-Wall B/C Flute Corrugated — B-flute (3mm) + C-flute (4mm) for 7mm total thickness |
+|| **Box Style** | Half-Slotted Container (HSC) — open top with flaps on one face for fast loading |
+|| **Partition Type** | Die-Cut Interlocking Corrugated Dividers — precision-cut cells isolate each bottle |
+|| **Assembly** | Industrial Hot Melt Adhesive — applied on automated gluer for structural integrity |
+|| **Exterior Printing** | 1–3 Color Flexographic on kraft or white-top liner |
+|| **Press Lines** | Heidelberg Speedmaster XL 7+1 UV × 2 / KBA Rapida 105 4-color × 3 / Automated Corrugator Line |
+|| **Factory** | 18,000 sqm (10,000 + 8,000 smart factory) in Foshan, Guangdong |
+|| **Experience** | 22 years (founded 2003) — serving 60+ countries worldwide |
+|| **Daily Output** | 1.7M+ boxes across dual factories |
+|| **Certifications** | ISO 9001:2015, FSC® Chain-of-Custody |
+
+## Quality Assurance
+
+|| Checkpoint | Standard | Method |
+|---|---|---|
+|| **Edge Crush Test (ECT)** | ≥32 lb/in for B/C double-wall | Universal testing machine, 1:500 sampling |
+|| **Drop Test** | 0.76m free-fall, 10 drops with weighted bottles | ISTA 1A; pass: no partition failure, no glass contact |
+|| **Box Compression** | ≥600 lbs top-to-bottom | Compression tester, 1:200 sampling |
+|| **Partition Fit** | ≤1mm lateral play per cell | Manual gauge test, 100% inline |
+|| **Adhesive Bond** | Hot melt peel strength ≥4N/15mm | Tensile tester, 1:200 sampling |
+|| **Dimension Accuracy** | ±2mm | Caliper measurement, first article + random |
+|| **FSC Chain-of-Custody** | Full traceability | FSC-STD-40-004 v3-0 |
+
 ---
 
-Need reliable, damage-proof bottle shipping that scales with your production? **Contact Guangdong Bincai Color Printing** — 22 years of packaging manufacturing excellence.
+*Guangdong Bincai Color Printing Co., Ltd. — 22 years of packaging excellence. ISO 9001:2015 & FSC certified. 18,000 sqm Foshan facility (10,000+8,000 smart factory). Daily output: 1.7M+ boxes. KBA 1050 4-color & Heidelberg 7+1 UV presses. Serving 60+ countries worldwide.*
