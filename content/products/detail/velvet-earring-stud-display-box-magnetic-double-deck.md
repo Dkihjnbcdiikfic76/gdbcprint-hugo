@@ -53,10 +53,33 @@ Bincai's double-deck velvet earring display box is engineered for jewelry retail
 
 ## Production Quality
 
-| Test | Standard | Specification |
-|---|---|---|
-| Lid Alignment | Internal | Gap ≤1.0mm |
-| Mirror Bond | Internal | ≥3.0 N/cm² adhesive peel |
-| Elastic Retention | Internal | Stud hold at 60° tilt |
-| Print Registration | Internal | ±0.15mm |
-| Color Consistency | Internal | ΔE ≤ 2.0 |
+|| Test | Standard | Specification |
+||---|---|---|
+|| Lid Alignment | Internal | Gap ≤1.0mm |
+|| Mirror Bond | Internal | ≥3.0 N/cm² adhesive peel |
+|| Elastic Retention | Internal | Stud hold at 60° tilt |
+|| Print Registration | Internal | ±0.15mm |
+|| Color Consistency | Internal | ΔE ≤ 2.0 |
+|| Hinge Durability | Internal | 500+ open/close cycles without cracking |
+|| Velvet Abrasion | Internal | Martindale test ≥15,000 rubs, no pile loss |
+|| Magnet Pull Force | Internal | ≥6N per pair, N35 grade neodymium |
+
+### Quality Control Framework
+
+Every earring display box passes through Bincai's **7-stage QC gate system** before dispatch:
+
+1. **Incoming Material Inspection** — Greyboard grammage (±3%), velvet pile density, magnet grade verification
+2. **In-Process Printing** — Spectrophotometer color check every 500 sheets, ΔE ≤2.0 target
+3. **Die-Cutting Verification** — ±0.3mm dimensional tolerance on tray slots and stud strap holes
+4. **Flocking Inspection** — Uniform velvet coverage, no bare spots or adhesive bleed-through
+5. **Assembly QC** — Mirror adhesion peel test, hinge cycle test, magnet polarity check
+6. **Finished Goods Audit** — AQL 2.5 (major defects), AQL 1.5 (critical defects) per ANSI/ASQ Z1.4
+7. **Pre-Shipment Inspection** — Random sample pull, 24-pair stud fitment test, mirror clarity under D65 lighting
+
+## Why Bincai?
+
+With **22 years** of jewelry packaging specialization and **1.7 million boxes daily output** across 18,000 sqm, Bincai delivers retail-grade jewelry display solutions that elevate your brand at wholesale economics. Our in-house flocking line applies velvet to exacting standards — no outsourcing means faster turnaround and consistent quality. The double-deck mechanism is precision die-cut on our KBA 1050 4-color offset press, with Heidelberg 7+1 UV available for premium exterior branding.
+
+**Factory Facts:** Founded 2003 | 22 years experience | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC certified | Foshan, Guangdong, China
+
+**Shipping:** Flat-packed with pre-scored fold lines — 60% freight cost savings vs pre-assembled boxes. Standard lead time 10–14 days, rush orders available at 7 days with premium surcharge. MOQ 500 units with custom tray tooling amortized across production volume.
