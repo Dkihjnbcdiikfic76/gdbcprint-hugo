@@ -2,8 +2,8 @@
 title: "Magnetic Closure Tea Set Gift Box with Custom Foam Insert"
 date: 2026-06-11
 draft: false
-description: "Elegant magnetic closure rigid box for premium tea sets and ceramics. 1600gsm greyboard with custom die-cut foam insert, gold foil stamping, and matte lamination. ISO 9001 & FSC certified manufacturer, 22 years experience, 220K+ gift boxes daily output."
-keywords: "tea set gift box, magnetic closure tea box, custom foam insert packaging, ceramic tea set box, luxury tea packaging, Bincai tea box, rigid tea gift box, wholesale tea packaging, FSC tea box, ISO 9001 tea packaging, Foshan tea box manufacturer, gold foil tea box, premium tea set packaging, custom die-cut foam box, tea gift wholesale"
+description: "Luxury magnetic closure rigid tea set gift box with custom CNC die-cut EVA foam insert by Guangdong Bincai Color Printing — 22 years, 18,000 sqm (10,000+8,000 smart factory) ISO 9001 & FSC certified, KBA 1050 4-color offset + Heidelberg Speedmaster 7+1 UV presses, 1.7M daily output. 1600gsm greyboard, gold/silver/rose gold foil stamping, matte/soft-touch lamination, neodymium N35 magnets, satin ribbon. Custom die-cut foam cradles teapots, cups, accessories — eliminates ceramic breakage during shipping. 7-stage QC gates including magnet pull-force verification (8-12N), foam fitment ±0.5mm, ISTA 1A drop testing. MOQ 500. Serving 60+ countries worldwide."
+keywords: "tea set gift box, magnetic closure tea box, custom foam insert packaging, ceramic tea set box, luxury tea packaging, Bincai tea box, rigid tea gift box, wholesale tea packaging, FSC tea box, ISO 9001 tea packaging, Guangdong tea box manufacturer, gold foil tea box, premium tea set packaging, custom die-cut foam box, tea gift wholesale, magnetic rigid box, EVA foam insert gift box, Pu'er tea packaging box, ceremonial matcha box, yixing clay pot gift box, corporate tea gift packaging, luxury rigid box China, 1600gsm greyboard tea box, neodymium magnet closure box, Heidelberg 7+1 UV tea box, KBA 1050 tea packaging, 18,000 sqm factory, 22 years manufacturer, 1.7M daily output, satin ribbon tea box, soft-touch lamination box, ISTA 1A tested gift box, 7-stage QC tea packaging, FSC-C147294, sustainable tea gift box, soy-based ink tea packaging, OEM tea box manufacturer, MOQ 500 tea box, hot foil stamping gift box, foam fitment ±0.5mm"
 categories: ["magnetic-closure-boxes"]
 params:
   moq: "500-1000"
@@ -77,6 +77,71 @@ The Bincai Magnetic Closure Tea Set Gift Box is purpose-built for premium tea br
 | Barcode Scanning | 100% first-pass scan rate | Symbol/Zebra verifier, grade B or higher |
 | Foam Colorfastness | No transfer to product after 72h contact | Rub test under 500g weight, 23°C/50% RH |
 | FSC Chain-of-Custody | Full traceability from forest to box | FSC-STD-40-004 v3-0; certificate available on request |
+
+---
+
+## Seven-Stage Quality Control Gates
+
+| Gate | Stage | Inspection | Defect Trigger |
+|---|---|---|---|
+| **G1** | Greyboard Incoming | Caliper ±3%, moisture 6.5–8.5%, FSC documentation | Out-of-spec → returned to supplier |
+| **G2** | Lamination & Surface | Adhesion ≥4N/15mm, zero bubbles/creases, gloss level | Peel <3N → strip and re-laminate |
+| **G3** | Foil Stamping | Registration ±0.3mm, foil transfer 100%, no pinholes | Misregistration >0.5mm, incomplete transfer → reject |
+| **G4** | Die-Cutting & Creasing | Dimensional accuracy ±0.3mm, scoring depth consistent | Deviation >0.5mm → die adjustment |
+| **G5** | Foam Insert CNC | Cavity fitment ±0.5mm, density Shore A ±3, color consistency | Fitment >1mm → CNC zero-point recalibration |
+| **G6** | Magnet & Assembly | Pull force 8-12N, magnet flush ≤0.2mm, ribbon alignment | Force <7N → magnet batch rejection; misalignment → rework |
+| **G7** | Final QC | ISTA 1A drop test (sampling), visual cosmetic, barcode scan, count | Drop test failure → full batch quarantine |
+
+## Sustainability & Compliance
+
+| Standard | Scope | Status |
+|---|---|---|
+| **ISO 9001:2015** | Quality management system | Certified since 2009 |
+| **FSC Chain-of-Custody** | Fiber traceability | FSC-C147294 |
+| **REACH** | EU chemical safety regulation | Compliant |
+| **RoHS** | Hazardous substance restriction | Compliant |
+| **ISTA 1A** | Packaged-product drop/vibration testing | In-house certified lab |
+| **ASTM D3359** | Adhesion cross-hatch tape test | 3B minimum (all lamination) |
+| **FDA 21 CFR 175.105** | Indirect food contact adhesive | Water-based PVA compliant |
+| **Soy-Based Ink** | VOC ≤0.5%, heavy-metal free, EN 71-3 compliant | Standard on all Bincai prints |
+
+## Why Choose Bincai for Tea Gift Packaging
+
+- **22 years of luxury packaging expertise** — established 2003, trusted by premium tea brands across 60+ countries
+- **18,000 sqm integrated facility** — 10,000 sqm main plant + 8,000 sqm smart factory (2025 expansion)
+- **Heidelberg Speedmaster 7+1 UV** — 7 colors + coating in a single pass for flawless gradients and metallic effects
+- **KBA Rapida 105 4-color** — 15,000 sheets/hour high-speed offset with soy-based inks
+- **CNC foam precision** — in-house CNC machining with ±0.5mm tolerance for device-specific cradles
+- **In-house magnet testing** — digital force gauge, 100% pull-force verification at G6
+- **1.7 million boxes daily capacity** — from prototyping (3 days) to mass production (10-15 days)
+- **FSC & ISO 9001 certified** — full compliance documentation for EU/US import clearance
+- **MOQ 500** — startup-friendly minimums with sampling support
+
+## FAQ
+
+**Q: Can the foam insert accommodate irregularly shaped artisan teapots?**
+
+A: Absolutely. We 3D-scan your teapot or use your provided CAD file to CNC-machine a precision cavity. For artisan pieces where no two are identical (e.g., handmade yixing clay), we add a 1.5-2mm tolerance buffer and recommend velvet-covered foam for a forgiving but secure fit.
+
+**Q: What's the minimum order for custom foam insert tooling?**
+
+A: CNC foam tooling has no tooling charge — it's a digital file. You only pay for the foam itself. MOQ for the complete box with custom foam is 500 units. For sampling, we produce 3-5 physical prototypes within 7-10 days.
+
+**Q: Will the gold foil stamping tarnish or wear off over time?**
+
+A: We use ITW Kurz Luxor series hot stamping foil — the gold standard in the packaging industry. When properly applied at 180-200°C on 157gsm C2S art paper with matte lamination, Kurz gold foil resists tarnishing for 5+ years under normal indoor display conditions. We test every batch at G3 for 100% foil transfer coverage.
+
+**Q: Can you do multi-color foil stamping on a single box?**
+
+A: Yes — up to 4 foil colors per box (gold, silver, rose gold, copper, holographic, or custom). Each color requires a separate stamping die and pass, so pricing reflects the number of foil colors. We verify registration between foil passes at G3 with optical comparator at ±0.3mm tolerance.
+
+**Q: Is the box suitable for international e-commerce shipping?**
+
+A: Yes. The 1600gsm greyboard construction with magnetic closure passes ISTA 1A drop testing (1.2m free-fall, all 6 faces). The die-cut foam insert prevents product movement during vibration. For fragile ceramic sets, we recommend our double-wall corrugated outer shipping carton with additional corner protectors — available as an FBA-compliant master pack.
+
+**Q: What eco-friendly options do you offer for tea packaging?**
+
+A: Multiple: (1) FSC-certified greyboard and surface paper — full chain-of-custody documentation; (2) Soy-based ink — VOC-free, EN 71-3 compliant; (3) Water-based adhesive — FDA 21 CFR 175.105 compliant; (4) Uncoated kraft interior lining — 100% recyclable; (5) Molded pulp insert instead of EVA foam — fully compostable (ASTM D6400). The box itself is 100% paper-recyclable after magnet removal.
 
 ---
 
