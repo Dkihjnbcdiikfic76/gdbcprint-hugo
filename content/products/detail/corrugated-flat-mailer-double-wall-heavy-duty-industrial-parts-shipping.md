@@ -17,30 +17,45 @@ params:
 Corrugated flat mailer with double-wall BC-flute construction for heavy-duty industrial parts shipping — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). Engineered for heavy industrial components, automotive spare parts, machinery components, tools, and metal fabrications requiring robust shipping protection. The BC-flute double-wall construction (6mm total thickness) delivers 200# burst strength for superior stacking and puncture resistance. Self-locking tab closure eliminates tape while providing secure, tamper-evident sealing. The flat mailer design stacks efficiently for warehouse storage and ships flat to reduce freight costs. Custom flexographic post-print with KBA 1050 offset-printed labels provides brand identification. Our 18,000 sqm Foshan facility delivers corrugated packaging under ISO 9001:2015 and FSC Chain-of-Custody certification.
 
 ## Applications
-- Automotive spare parts and component shipping
-- Industrial machinery and equipment parts packaging
-- Heavy metal fabrications and machined components
-- Tools, hardware, and construction supplies
-- Replacement parts e-commerce fulfillment
+
+| Industry | Application | Key Feature |
+|---|---|---|
+| **Automotive Parts** | Brake rotors, alternators, starters, control arms, engine mounts, transmission components | Double-wall BC-flute absorbs vibration and impact; VCI anti-corrosion option for bare metal |
+| **Industrial Machinery** | Pumps, valves, bearings, gears, seals, hydraulic components, CNC-machined parts | 200# burst strength prevents puncture from sharp edges; die-cut internal dividers |
+| **Heavy Metal Fabrications** | Brackets, flanges, weldments, castings, forged components, sheet metal assemblies | 6mm wall thickness with 32 ECT edge crush rating handles stacking in warehouse and container |
+| **Tools & Hardware** | Power tool accessories, hand tool kits, drill bit sets, saw blades, fastener assortments | Self-locking tab closure — no tape, no adhesives, instant assembly; flat-packed for efficient storage |
+| **E-Commerce Fulfillment** | Replacement parts, industrial spares, MRO (Maintenance Repair Operations) components | ISTA 3A certified — tested for Amazon FBA, FedEx, UPS parcel delivery; tear-strip version for easy consumer opening |
+| **Export & Sea Freight** | Containerized industrial shipments, machinery spares for overseas distribution | 48-hour humidity conditioning at 90% RH; water-resistant coating option; FSC documentation for customs |
+| **Defense & Aerospace** | Precision-machined components, avionics spares, ground support equipment parts | ESD-safe anti-static treatment; MIL-SPEC-compatible packaging; full traceability documentation
 
 ## Customization Options
-- BC-flute double-wall (6mm), or triple-wall (9mm) for extreme loads
-- Self-locking tab, tuck-top, or tear-strip closure designs
-- Flexographic post-print — up to 3 colors for brand logos
-- Offset-printed label panels for high-resolution brand graphics
-- Custom die-cut internal partitions and component dividers
-- Anti-static and VCI (volatile corrosion inhibitor) treatment options
-- Water-resistant coating for outdoor and humid environment shipping
-- Size range: 200×150×30mm to 800×600×150mm
+
+| Option | Available Choices | Details |
+|---|---|---|
+| **Flute Construction** | BC-flute double-wall (6mm), triple-wall BCA (9mm), single-wall B-flute (3mm) for lighter loads | BC-flute standard; triple-wall for loads >35 kg |
+| **Closure Type** | Self-locking tab (standard), tuck-top, tear-strip, hook-and-loop, adhesive strip | Self-locking most popular — zero tape, 3-second assembly |
+| **Internal Features** | Die-cut partitions, corrugated spacers, foam cushions, VCI paper liner, moisture barrier | CNC die-cut to match part profile — prevents movement during transit |
+| **Printing** | Flexographic post-print 1-3 colors, offset-printed label panel, full-color litho lam | KBA 1050 offset for high-resolution brand graphics on label panels |
+| **Surface Treatment** | Water-resistant coating, anti-static treatment, VCI corrosion inhibitor, grease-resistant | VCI protects bare metal 90 days sea freight; anti-static for electronics |
+| **Board Grade** | Kraft (standard), test liner (economy), white-top kraft (retail-ready), recycled content | FSC Mix Credit kraft available for sustainability compliance |
+| **Size Range** | 200×150×30mm to 800×600×150mm; custom dimensions beyond this range | Flat mailer format — ships flat, erects on demand |
+| **MOQ** | 500 units (standard), 1,000+ for custom die-cut inserts or multi-color print | Tiered pricing at 1,000/3,000/5,000/10,000 |
 
 ## Production Specifications
-- BC-flute double-wall corrugated construction — 6mm wall thickness
-- 200# burst strength (Mullen test) for heavy load protection
-- Automatic corrugated converting line with inline die-cutting
-- Flexographic post-print for brand identification
-- KBA 1050 4-color offset press for high-resolution label panels
-- ISO 9001:2015 quality management throughout production
-- FSC-certified kraft and test liner sourcing
+
+| Component | Specification |
+|---|---|
+| **Board Construction** | BC-flute double-wall: B-flute (3mm) + C-flute (4mm) laminated — total 6mm caliper ±0.3mm |
+| **Liner Material** | Outer: 200gsm Kraft liner; Inner: 160gsm Test liner; Medium: 127gsm semi-chemical fluting |
+| **Burst Strength** | ≥200# Mullen (ISO 2759) — resists puncture from sharp industrial parts |
+| **Edge Crush** | ECT ≥44 lb/in (TAPPI T811) — maintains stacking integrity in warehouse and container |
+| **Box Compression** | BCT ≥500 kg for standard 400×300×100mm size (TAPPI T804) |
+| **Corrugating** | Single-facer + double-backer on-site; automatic starch adhesive application at 180°C |
+| **Die-Cutting** | Rotary die-cutter — ±0.5mm dimensional tolerance; score lines pre-creased for consistent folding |
+| **Printing** | Flexographic post-print 1-3 color; KBA Rapida 105 4-color offset for label panels — ±0.15mm registration |
+| **Assembly** | Automatic folder-gluer with inline tab locking verification; flat-pack for efficient shipping |
+| **Daily Capacity** | Heavy corrugated line: 80,000+ mailers/day across 2 converting lines |
+| **Lead Time** | 7-12 days new tooling; 5-7 days repeat; 3-5 days rush for standard sizes |
 
 ## Quality Details
 - Edge crush test (ECT) rated for stacking strength in warehouse and container
