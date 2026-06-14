@@ -72,6 +72,45 @@ Corrugated book mailers are the gold standard for shipping flat, rectangular ite
 - Daily capacity: 1.7 million boxes
 - Export to 40+ countries across Europe, North America, Middle East, and Southeast Asia
 
+## Production Quality & Testing
+
+|| Test | Standard | Specification |
+||---|---|---|
+|| **Edge Crush (ECT)** | TAPPI T 811 | E-flute: ECT 32+ lb/in, B-flute: ECT 40+ lb/in, BC double-wall: ECT 55+ lb/in — per-batch ring crush verification |
+|| **Burst Strength (Mullen)** | TAPPI T 810 | Single-wall ≥200 psi, double-wall ≥275 psi, hydraulic burst tester, 1:100 sampling |
+|| **Adhesive Peel Strength** | ASTM D3330 Method F | Hot-melt self-seal strip: ≥3.5N/25mm peel adhesion at 23°C, 50% RH; tested at -20°C, 23°C, and 60°C |
+|| **Adhesive Shear Strength** | ASTM D3654 Method A | ≥24 hours static shear holding 2.5kg at 23°C — no creep, no adhesive failure |
+|| **Score Line Precision** | Internal QA-SCORE-007 | Score depth ±0.1mm, fold-line deviation ≤0.5mm across 1m span; optical comparator every 500 units |
+|| **Flat Crush (FCT)** | TAPPI T 825 | ≥140 kPa for single-wall; verifies corrugated medium bond integrity after die-cutting |
+|| **Moisture Content** | TAPPI T 412 | 6.5%–8.5% at shipment; prevents warp and maintains structural integrity in transit |
+|| **Drop Test** | ISTA 1A | 0.76m free-fall, 10 drops (6 faces + 2 edges + 2 corners); pass: no seal failure, no book corner damage |
+|| **Dimensional Tolerance** | ISO 2768-m | ±1.5mm on scored dimensions, ±2.0mm on external envelope |
+|| **Visual Inspection** | ISO 2859-1 AQL 2.5 Level II | 0 major / 1.5 minor per 100 units; print registration ±0.5mm, adhesive strip alignment ±1.0mm |
+
+## Production Workflow
+
+1. **Paper Grade Selection** — Kraft linerboard (125–200gsm) and semi-chemical fluting medium (112–150gsm) sourced from FSC-certified mills; incoming moisture and grammage QC per TAPPI standards
+2. **Corrugating** — Single-face corrugator produces E-flute (1.2mm, 90–110 flutes/m) or B-flute (2.5mm, 45–55 flutes/m); starch adhesive applied at 3–6 gsm solids; inline flat crush and basis weight monitoring
+3. **Printing (Flexo Path)** — 1–3 color water-based flexo on kraft exterior; anilox roll metering; inline IR drying; print registration within ±0.5mm
+4. **Printing (Litho-Lam Path)** — 157gsm C1S art paper printed CMYK on KBA 1050 4-color; aqueous coating; litho sheet laminated to corrugated via PVA cold-glue on automatic sheet-to-web laminator
+5. **Flatbed Die-Cutting** — Custom steel-rule die with multi-depth score lines and self-seal adhesive strip registration; Bobst flatbed die-cutter; score depth calibrated to 50% of board caliper
+6. **Adhesive Strip Application** — Automatic hot-melt applicator deposits pressure-sensitive adhesive at 160–180°C; silicone-coated release liner applied inline; strip width 12–15mm, positioned 8–10mm from closure edge
+7. **Folding & Quality Gates** — Score-line fold precision optical check, adhesive peel-sample per 500 units, adhesive alignment ±1.0mm, dimensional tolerance verification, ISTA 1A drop test per batch
+8. **Bundling & Packing** — Flat-packed in bundles of 25–50; corrugated master cartons with desiccant; fumigation-free palletization for export
+9. **Pre-Shipment Inspection** — AQL 2.5 Level II final random sampling; dimensional, print, adhesive, and structural verification before release
+
+## Customer Success Scenarios
+
+- **US Online Bookstore (Massachusetts)** — A mid-size independent bookstore chain with 15 locations launched their online fulfillment using our B-flute self-seal mailer. The multi-depth scoring allowed one SKU to ship both thin paperbacks (8mm) and thick hardcovers (35mm), reducing their packaging inventory from 6 sizes to 2. Self-seal adhesive eliminated taping labor — their fulfillment team processed 40% more orders per shift. ISTA 1A drop test passed on first submission. Order: 10,000 units initially, now 25,000 quarterly.
+
+- **European Academic Publisher (Netherlands)** — Sourced 50,000 E-flute book mailers for textbook distribution across 28 EU countries. Required FSC Chain-of-Custody documentation for every shipment and full-color litho-laminated exterior for brand consistency. The compact E-flute profile reduced dimensional weight charges by 22% vs. their previous B-flute carton, saving €1.15 per shipped unit. Custom-printed with university partner logos via KBA offset. On-time delivery across 12-week staggered release schedule with 0 complaints.
+
+- **Australian Photography Studio (Melbourne)** — Small-batch producer of fine art wedding albums ordered 500 units with B-flute construction and optional tear strip. The self-seal adhesive allowed their studio team to pack albums quickly during peak wedding season without taping stations. Added "easy-open" tear strip for recipient convenience — received unprompted positive client feedback on the packaging experience. Now a repeat quarterly customer at 1,000 units per order.
+
+## Why Choose Bincai
+
+With 22 years in corrugated and rigid-box manufacturing, Guangdong Bincai operates a 18,000 sqm dual-campus facility (10,000 sqm main plant + 8,000 sqm smart factory in Gaobu, Foshan) delivering 1.7 million boxes daily. Our automatic corrugator lines produce E-flute, B-flute, and double-wall BC-flute on demand, while KBA 1050 4-color offset and Heidelberg 7+1 UV presses handle premium litho-laminated exteriors. ISO 9001:2015 quality management and FSC Chain-of-Custody certification ensure every mailer meets international standards. In-house die-making (CAD + CNC) delivers custom multi-depth score tools in 3–5 days, and our ISTA 1A drop-test protocol validates crush protection before your first shipment leaves the factory. Exporting to 60+ countries with DHL/FedEx/sea freight options and fumigation-free palletization for smooth customs clearance.
+
 ## FAQ
 
 **Q: How does the adjustable depth work?**
