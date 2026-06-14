@@ -30,10 +30,16 @@ A premium magnetic-closure rigid box designed specifically for 5-piece cosmetic 
 
 ## Applications
 
-- 5-piece skincare routine sets (cleanser, toner, serum, moisturizer, eye cream)
-- Luxury cosmetic gift collections
-- Brand launch event VIP packaging
-- Holiday and seasonal limited-edition cosmetic sets
+| Industry | Product Category | Typical Use |
+|---|---|---|
+| Skincare | 5-step daily routine | Cleanse, tone, serum, moisturize, eye care gift sets |
+| Cosmetics | Brand launch collections | VIP gift packaging, influencer PR boxes |
+| Fragrance | Eau de parfum + body lotion | Coordinated scent layering gift boxes |
+| Beauty Subscription | Monthly discovery sets | Reusable rigid box, refillable foam inserts |
+| Travel Retail | Duty-free cosmetic sets | Compact rigid box with TSA-compliant sizing |
+| Spa & Wellness | Professional treatment kits | Logo-embossed luxury packaging for spa retail |
+| Corporate Gifting | Employee/partner appreciation | Branded skincare gift boxes with custom ribbon pull |
+| Holiday & Seasonal | Christmas/Valentine limited editions | Festive foil-stamped seasonal collections |
 
 ## Customization Options
 
@@ -47,12 +53,38 @@ A premium magnetic-closure rigid box designed specifically for 5-piece cosmetic 
 
 ## Quality Assurance
 
-- **Magnet retention**: 2.5kg minimum holding force across 4 magnets — tested per production batch
-- **Foam fit tolerance**: ±0.3mm cavity precision via CNC routing (QA-MAG-012)
-- **Soft-touch abrasion**: 100-cycle Sutherland Rub Test, no visible wear
-- **Lamination adhesion**: Cross-hatch test, 0% delamination (ASTM F2252)
-- **Drop test**: 1.2m free-fall drop onto concrete, product intact (ISTA 3A)
-- **ISO 9001**: Full lot traceability from greyboard sheet to finished box
+| Test | Method / Standard | Acceptance Criteria |
+|---|---|---|
+| Magnet Retention | Digital force gauge, 100% batch | ≥2.5kg total holding force |
+| Foam Fit Tolerance | CNC routing QA-MAG-012 | ±0.3mm cavity precision |
+| Soft-Touch Abrasion | Sutherland Rub Test, 100 cycles | No visible surface wear |
+| Lamination Adhesion | ASTM F2252 cross-hatch | 0% delamination |
+| Drop Test | ISTA 3A — 1.2m free-fall, 10 drops | Product intact, lid secure |
+| Hinge Cycle | 5,000 open/close cycles | No magnet weakening, lid alignment maintained |
+| Color Consistency | X-Rite eXact — ΔE vs. master | ΔE ≤ 2.0 |
+| AQL Sampling | ISO 2859-1 Level II | AQL 2.5 (major), AQL 1.0 (minor) |
+| ISO 9001:2015 | Full lot traceability | Greyboard sheet to finished box |
+
+## FAQ
+
+**Q: Can the foam tray be reconfigured for different bottle shapes and sizes?**
+A: Yes. The EVA foam tray is fully customizable via our in-house CNC routing center. You provide product dimensions (diameter, height, cap style) and we produce precision-fit cavities with ±0.3mm tolerance. Lead time for new tray tooling: 5–7 days for sampling, 10–14 days for production.
+
+**Q: What is the difference between EVA foam and flocked foam inserts?**
+A: EVA foam (45kg/m³ density, available in black or white) provides a precise, clean technical look ideal for modern skincare brands. Flocked foam (velvet-over-foam) adds a plush luxury feel and is preferred for high-end cosmetic brands. Both options are CNC die-cut and available in the same lead time.
+
+**Q: Can the soft-touch finish withstand high-humidity environments like bathrooms?**
+A: Yes. The soft-touch BOPP 18-micron matte lamination is moisture-resistant and passes 100-cycle Sutherland Rub Testing with no visible wear. For extreme humidity environments, we offer an optional aqueous over-coat layer for enhanced moisture protection.
+
+**Q: What is the MOQ for custom color-matched foam?**
+A: MOQ is 500 units for standard black or white EVA. For custom color-matched foam (matched to your brand's Pantone), MOQ increases to 1,000 units due to material minimums from our foam suppliers.
+
+**Q: How are the magnets secured — can they come loose during shipping?**
+A: Each N35 neodymium magnet (4 per box) is mechanically embedded into the greyboard cavity during assembly, not surface-glued. This provides 2.5kg total holding force and survives 1.2m ISTA 3A drop testing without magnet displacement. We perform a 50-piece batch pull test every shift to verify magnet retention.
+
+## Factory Facts
+
+**Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
 
 ## Why Choose Bincai
 
