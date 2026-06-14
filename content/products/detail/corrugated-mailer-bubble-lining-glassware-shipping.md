@@ -74,4 +74,52 @@ Custom corrugated mailer box with integrated bubble lining for glassware and fra
 | Drop test (packed) | ISTA 3A — 1m drop on concrete, 6-face + edge + corner | No glass breakage, no structural failure |
 | Vibration test | ASTM D4169 truck vibration profile, 60 minutes | No content movement, no scuffing |
 | FSC chain of custody | Document audit per shipment | FSC-STD-40-004 compliance |
-| ISO 9001 | Process documentation at each station | Full batch traceability |
+|| ISO 9001 | Process documentation at each station | Full batch traceability |
+
+## Why Bincai
+
+**22 Years of Packaging Excellence.** Founded in 2003, Guangdong Bincai Color Printing Co., Ltd. has spent over two decades mastering the integration of corrugated board manufacturing, offset printing, and bubble-film lamination under one roof. Few packaging suppliers can combine all three capabilities in-house — Bincai can, which translates to tighter quality control, faster turnaround, and a single point of accountability for your glassware mailer program.
+
+**Scale That Delivers.** With 18,000 sqm of factory floor (10,000 sqm conventional + 8,000 sqm smart factory) and 4 dedicated corrugated production lines, Bincai produces 1.7 million boxes every day. Whether your order is 500 units for a product launch or 500,000 for a national rollout, the capacity is already in place — no outsourcing, no delays.
+
+**World-Class Printing, Right on the Box.** Your branded mailer is printed on a KBA Rapida 105 4-color offset press (15,000 sheets/hour) for economy runs, or elevated to a Heidelberg Speedmaster CD 102 7+1 UV press for premium, high-gloss, color-critical work. The result: unboxing experiences that match the quality of the product inside.
+
+**In-House Corrugator.** Bincai runs its own single-facer and double-backer corrugator — meaning board flute, wall construction, and liner grade are controlled from the raw paper roll, not sourced from a third-party mill. This vertical integration is why Bincai can offer ECT ratings from 32 to 55+ lb/in with consistent quality batch after batch.
+
+**Certified Quality & Ethics.** ISO 9001:2015 governs every process station with full batch traceability. FSC Chain-of-Custody certification ensures responsible forestry sourcing. Sedex SMETA certification confirms ethical labor practices across the supply chain — increasingly required by major e-commerce platforms and retail buyers.
+
+**Risk-Free Sampling.** Free structural design and ISTA 3A drop-test validation report with every new project. Free pre-production samples ship within 5–7 days so you can test fit, print quality, and transit performance before committing to production.
+
+**Low MOQ, Fast Turnaround.** MOQ starts at just 500 units — accessible for startups and SMEs, scalable for enterprise. Production lead times: 12–18 days for new die-cut designs, 7–10 days for repeat orders.
+
+## Sustainability
+
+Bincai's corrugated mailer with integrated bubble lining is designed with end-to-end environmental responsibility — from raw material sourcing through end-of-life disposal:
+
+| Feature | Detail |
+|:---|---|
+| **FSC-Certified Board** | All corrugated board sourced under FSC Chain-of-Custody (FSC-STD-40-004), ensuring responsible forest management |
+| **100% Recycled Content Option** | Available with 80gsm test liner made from 100% post-consumer recycled fiber — identical ECT performance to virgin board |
+| **Water-Based Adhesives** | Cold-set PVA and water-based laminating adhesives throughout — no solvent-based or VOC-emitting glues in the manufacturing process |
+| **Fully Recyclable** | The standard configuration (corrugated board + LDPE bubble liner) is accepted by most municipal recycling streams. The bubble film is bonded to the inner liner and processed together with the corrugated fiber in repulping systems |
+| **Plastic-Free Version** | For brands with zero-plastic commitments, Bincai offers a 100% plastic-free variant: the bubble lining is replaced with a multi-layer air-cushioned kraft insert that delivers equivalent drop protection without any LDPE content. This version is single-stream recyclable with standard cardboard |
+| **Soy-Based Ink Option** | Low-VOC, soy-based offset inks available as an alternative to conventional petroleum-based inks — lower environmental footprint, same print quality |
+| **Reduced Packaging Waste** | The factory-integrated bubble lining eliminates separate bubble wrap, roll stock inventory, and on-site wrapping labor at your fulfillment center — reducing total packaging material by up to 30% compared to box + separate bubble wrap solutions |
+
+## FAQ
+
+**1. How durable is the integrated bubble lining — will it pop or deflate during long-distance shipping?**
+
+The bubble lining is factory-laminated to the inner corrugated liner using a water-based adhesive bond tested to ≥2N/cm peel strength. Bincai validates every production batch with a peel adhesion test. The bubble film itself is LDPE (low-density polyethylene) with sealed air cells — it does not deflate over time. ISTA 3A drop testing (1m onto concrete, 6-face + edge + corner impacts) confirms bubble integrity is maintained throughout simulated e-commerce parcel handling. For extreme transit conditions (e.g., cross-continental ocean freight), the 10mm large-bubble lining provides additional air cushion reserve.
+
+**2. Is the MOQ really 500 units, and what's included at that quantity?**
+
+Yes — 500 units is the minimum order quantity. At this MOQ, you receive: (a) free structural design with CAD drawings tailored to your specific glassware dimensions, (b) an ISTA 3A drop-test validation report on your packed sample, (c) free pre-production samples within 5–7 days, and (d) your choice of kraft or white-top outer liner. Custom printing is available at MOQ 500 with flexo 1-color; full CMYK offset printing on the KBA 1050 is also available at 500 units with a modest plate charge. For raw (unprinted) boxes, MOQ may be negotiable to 300 units depending on board grade.
+
+**3. What are the typical lead times from order to delivery?**
+
+Production lead times depend on whether tooling exists: new die-cut designs require 12–18 days (including die fabrication, sample approval, and production run); repeat orders with existing tooling ship in 7–10 days. Pre-production samples ship within 5–7 days of design confirmation. Ocean freight to the US West Coast adds approximately 14–18 days; air freight is available for urgent orders (3–5 days). Bincai can also arrange consolidated LCL shipping for orders under a full container load.
+
+**4. Is the bubble lining food-grade safe for shipping edible products like olive oil or honey jars?**
+
+Yes. Bincai offers a food-grade bubble lining option manufactured with FDA 21 CFR-compliant LDPE film. This variant uses food-safe raw materials with full material traceability and is suitable for direct contact with food container exteriors. For packaging that contacts food directly (e.g., unwrapped baked goods), Bincai can also provide food-grade ink and water-based coating options. Specify "food-grade bubble + food-grade ink" when requesting your quote, and Bincai will include the relevant FDA compliance documentation with your shipment.

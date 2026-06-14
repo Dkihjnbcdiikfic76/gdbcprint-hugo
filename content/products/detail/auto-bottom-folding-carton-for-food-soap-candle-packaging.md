@@ -71,4 +71,40 @@ A: Yes. We offer food-grade configurations using water-based adhesives, soy-base
 
 **Q: How do auto-bottom cartons ship — do they arrive assembled or flat?**
 A: All auto-bottom folding cartons ship flat (knocked down) for maximum transport efficiency. A pallet holds 3,000–8,000 flat cartons depending on size, compared to only 300–600 if pre-assembled. This reduces your freight cost by 70–85% and warehouse footprint by a similar margin. Cartons are shipped in corrugated master cases with internal dividers to prevent crushing during transit.
+
+## Why Bincai
+
+When you partner with Bincai, you're choosing a packaging manufacturer with the scale, certification, and technical capability to deliver consistent quality at competitive pricing:
+
+- **22 Years of Manufacturing Excellence** — Founded in 2003, Bincai has spent over two decades refining folding carton production. Our experience spans food, cosmetics, electronics, and luxury retail packaging, giving us deep cross-industry knowledge that benefits every project.
+
+- **18,000 sqm Dual Factory** — Our campus includes a 10,000 sqm primary production facility plus an 8,000 sqm smart factory. This dual-site layout provides production redundancy, parallel order processing, and the capacity to handle rush orders without disrupting ongoing production.
+
+- **German Press Technology** — We operate the KBA 1050 4-color offset press for high-speed precision runs alongside the Heidelberg 7+1 UV press for specialty coatings, instant curing, and premium finish effects. This press combination gives you the flexibility of both volume production and high-end embellishment from a single supplier.
+
+- **ISO 9001:2015 & FSC Certified** — Our quality management system is certified to ISO 9001:2015, and our FSC chain-of-custody certification means you can confidently label your packaging with the FSC mark — increasingly required by retailers and eco-conscious consumers worldwide.
+
+- **1.7 Million Boxes Daily Output** — With fully automated die-cutting, folder-gluer, and assembly lines running across 18,000 sqm, we produce over 1.7 million color boxes per day. Whether your order is 500 units for a market test or 500,000 units for a nationwide launch, we have the throughput to deliver on time.
+
+- **80+ Skilled Workers** — Our team spans design, prepress, printing, die-cutting, gluing, finishing, and quality inspection. Every order has dedicated production oversight from a senior technician with 10+ years of folding carton experience.
+
+- **High-Tech Enterprise Certified** — Bincai holds High-Tech Enterprise certification from the Chinese government, recognizing our investment in advanced manufacturing technology, process automation, and continuous R&D in packaging solutions.
+
+- **Free Pre-Production Samples** — We provide free physical samples in 5–7 working days so you can test fit, finish, and structure before committing to a production run. No surprises — what you approve is exactly what we produce.
+
+## Sustainability
+
+Bincai is committed to environmentally responsible packaging. Our folding cartons support your brand's sustainability goals without compromising on quality or shelf impact:
+
+- **FSC Certified Paper** — All paperboard used in our folding cartons is sourced from FSC-certified forests and controlled sources. Forest Stewardship Council certification ensures that the fiber in your packaging comes from responsibly managed forests that protect biodiversity, worker rights, and indigenous communities.
+
+- **Fully Recyclable** — Folding cartons made from paperboard are inherently recyclable in standard municipal paper waste streams. Unlike mixed-material packaging, our cartons can be recycled curbside without separation, helping your brand meet circular economy goals and retailer packaging mandates.
+
+- **Soy-Based Inks** — We offer soy-based and vegetable-based offset inks as an alternative to conventional petroleum-based inks. Soy inks produce vibrant color reproduction while emitting fewer VOCs (volatile organic compounds) during printing and making the printed carton easier to de-ink during the recycling process.
+
+- **Water-Based Coatings** — Our aqueous (water-based) coatings replace solvent-based varnishes for a scratch-resistant, eco-friendly finish. Water-based coatings contain minimal VOCs and do not interfere with paper recyclability — unlike UV coatings or film lamination, which can require additional processing at recycling facilities.
+
+- **Flat-Ship Efficiency** — Auto-bottom folding cartons ship flat (knocked down), maximizing pallet density and dramatically reducing carbon footprint per unit. A pallet carrying 3,000–8,000 flat cartons replaces the equivalent of 10+ pallets of pre-assembled boxes — cutting transport emissions, fuel consumption, and your inbound freight costs by up to 85%.
+
+- **Waste Reduction** — Our production facility operates a closed-loop trim collection system. Paper offcuts from die-cutting and guillotining are baled and returned to paper mills for recycling. Printing plates, ink containers, and corrugated waste are all segregated and processed through certified recycling partners.
 <!-- test comment -->
