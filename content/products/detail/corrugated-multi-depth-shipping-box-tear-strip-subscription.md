@@ -2,7 +2,7 @@
 title: "Corrugated Multi-Depth Shipping Box with Tear Strip for Subscription Fulfillment"
 date: 2026-06-11
 draft: false
-description: "Multi-depth E-flute corrugated shipper with integrated tear strip for e-commerce subscription boxes. Auto-lock bottom, perforated rip-open strip, and custom CMYK branding. ISO 9001 & FSC certified manufacturer, 22 years experience, 1.7M+ boxes daily output."
+description: "Multi-depth E-flute corrugated shipper with integrated tear strip for e-commerce subscription boxes. Auto-lock bottom, perforated rip-open strip, custom CMYK branding via KBA 1050 4-color offset and Heidelberg 7+1 UV presses. ISO 9001 & FSC certified, 10,000 sqm factory, 22 years experience, 1.7M+ boxes daily output."
 keywords: "multi-depth corrugated box, subscription box packaging, tear strip shipper, e-commerce shipping box, auto-lock bottom box, Bincai subscription box, corrugated mailer wholesale, branded shipping box, FSC corrugated box, ISO 9001 shipping box, Foshan corrugated manufacturer, custom printed mailer, subscription fulfillment packaging, perforated tear strip, variable depth box"
 categories: ["corrugated-mailers"]
 params:
@@ -58,7 +58,7 @@ The Bincai Multi-Depth Corrugated Shipping Box solves the subscription fulfillme
 | **Tear Strip** | 8mm perforated kraft, 5mm perforation pitch, 2mm tie width |
 | **Scoring** | 2-point crease rule, depth scores at 10mm increments |
 | **Daily Output** | 1.7M+ boxes / day across dual factories |
-| **Production Line** | Bobst DRO 1628 NT die-cutter / Göpfert Evolution HBL flexo printer / Bobst Expertfold gluer |
+| **Production Line** | KBA 1050 4-color offset press / Heidelberg Speedmaster 7+1 UV press / Bobst DRO 1628 NT die-cutter / Göpfert Evolution HBL flexo printer / Bobst Expertfold gluer |
 
 ## Quality Assurance
 
@@ -77,4 +77,4 @@ The Bincai Multi-Depth Corrugated Shipping Box solves the subscription fulfillme
 
 ---
 
-*Guangdong Bincai Color Printing Co., Ltd. — 22 years of packaging excellence. ISO 9001:2015 & FSC certified. 18,000 sqm Foshan facility (10,000+8,000 smart factory). Daily output: 1.7M+ boxes. Serving 60+ countries worldwide.*
+*Guangdong Bincai Color Printing Co., Ltd. — 22 years of packaging excellence. ISO 9001:2015 & FSC certified. 10,000 sqm Foshan factory (18,000 sqm total across dual factories). KBA 1050 4-color offset + Heidelberg Speedmaster 7+1 UV presses for premium CMYK litho-lamination. Daily output: 1.7M+ boxes. Serving 60+ countries worldwide.*
