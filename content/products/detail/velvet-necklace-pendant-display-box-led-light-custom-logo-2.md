@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Velvet Necklace Pendant Display Box with LED Light](/images/jewelry-necklace-display-velvet.jpg)
+![Velvet Necklace Pendant Display Box with LED Light](/images/cat-rigid-jewelry.jpg)
 
 ## Velvet Necklace Pendant Display Box with LED Light — Luxury Jewelry Packaging
 
