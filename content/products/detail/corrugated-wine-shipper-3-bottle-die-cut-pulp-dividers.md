@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, SGS, ISTA"
 ---
 
-![Corrugated Wine Bottle Shipper — 3-Bottle Die-Cut with Molded Pulp Dividers](/images/cat-fold-mailer.jpg)
+![Corrugated Wine Bottle Shipper — 3-Bottle Die-Cut with Molded Pulp Dividers](/images/corrugated-mailer.jpg)
 
 Corrugated wine bottle shipper for 3-bottle die-cut with molded pulp dividers — manufactured by **Guangdong Bincai Color Printing Co., Ltd.** Purpose-designed for direct-to-consumer (DTC) wine club shipments, this B-flute corrugated shipper features precision die-cut bottle cradles and molded pulp dividers that isolate each bottle from impact during transit. The integrated die-cut carry handle provides retail-ready convenience, while full-color flexo or litho label printing transforms a protective shipping box into a branded unboxing experience. ISTA 6-FEDEX-A tested and approved for single-parcel wine shipments. Produced on our BHS 2.5m corrugator across 18,000 sqm with 1.7M daily output capacity.
 

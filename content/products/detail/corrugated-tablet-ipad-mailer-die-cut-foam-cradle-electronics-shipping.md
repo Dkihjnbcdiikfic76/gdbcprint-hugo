@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, ISTA 1A Tested"
 ---
 
-![Corrugated Tablet iPad Mailer](/images/cat-fold-mailer.jpg)
+![Corrugated Tablet iPad Mailer](/images/corrugated-mailer.jpg)
 
 ## Corrugated Tablet iPad Mailer with Die-Cut Foam Cradle — Electronics Shipping Solution
 

@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Corrugated Mailer](/images/cat-fold-mailer.jpg)
+![Bincai Corrugated Mailer](/images/corrugated-mailer.jpg)
 
 Guangdong Bincai Color Printing Co., Ltd. produces this custom-printed corrugated e-commerce subscription box engineered for direct-to-consumer (DTC) brands shipping monthly boxes. The B-flute single-wall construction provides crush protection for 1-5kg payloads while the integrated tear strip — a perforated zip-open feature on the top panel — lets consumers open the box without tools, preserving the unboxing experience. Full-color printing on the exterior turns the shipping box into a brand touchpoint, eliminating the need for an inner gift box. Manufactured on our BHS 2.5m corrugator and printed via flexo or litho-laminate (KBA 1050 + Heidelberg 7+1 UV for photo-quality graphics) in our 18,000 sqm Foshan facility, each box passes Seven-Stage QC with ISO 9001:2015 and FSC Chain-of-Custody certification. Daily output of 1.7 million boxes supports seasonal volume spikes common in subscription businesses.
 

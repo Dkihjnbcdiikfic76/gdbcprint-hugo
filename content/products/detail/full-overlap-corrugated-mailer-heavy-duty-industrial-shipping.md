@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, ISTA 3A"
 ---
 
-![Full-Overlap Corrugated Mailer for Heavy-Duty Industrial Parts Shipping](/images/cat-fold-mailer.jpg)
+![Full-Overlap Corrugated Mailer for Heavy-Duty Industrial Parts Shipping](/images/corrugated-mailer.jpg)
 
 Heavy-duty full-overlap slotted container (FOL) engineered for industrial parts shipping — manufactured by **Guangdong Bincai Color Printing Co., Ltd.**, a Diamond Member on Made-in-China.com since 2015, Audited Supplier with 22 years of experience. The full-overlap design extends all top and bottom flaps to the full depth of the box, creating a double-thickness top and bottom that dramatically increases stacking strength — critical for warehouse palletization and container shipping. Double-wall BC or EB flute construction absorbs shock and vibration while maintaining edge crush resistance. Ideal for automotive components, machinery replacement parts, metal fabrications, and heavy industrial goods. Produced on KBA 1050 4-color flexo and Heidelberg 7+1 UV presses across 18,000 sqm factory (10,000+8,000 sqm smart factory).
 

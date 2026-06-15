@@ -18,7 +18,7 @@ tags:
   - ISO 9001 certified
 ---
 
-![Bincai Jewelry Boxes](/images/cat-jewelry-boxes.jpg)
+![Bincai Jewelry Boxes](/images/cat-rigid-jewelry.jpg)
 
 ## Product Overview
 

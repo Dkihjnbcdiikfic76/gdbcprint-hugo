@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Corrugated Mailers](/images/cat-fold-mailer.jpg)
+![Bincai Corrugated Mailers](/images/corrugated-mailer.jpg)
 
 Printed corrugated box with custom logo for mailer and e-commerce packaging — manufactured by Guangdong Bincai Color Printing Co., Ltd., a Diamond Member on Made-in-China.com with 22 years of manufacturing excellence (founded 2003). Available in B-flute (3mm), C-flute (4mm), E-flute (1.5mm), or double-wall BC-flute (6mm) for optimal protection during transit. Custom flexographic or offset litho-laminated printing for crisp logo reproduction. FBA-compliant construction meets Amazon's 6-foot drop test and ISTA 3A transit testing standards. Produced on KBA 1050 4-color and Heidelberg 7+1 UV presses across 18,000 sqm of factory space. Daily output: 1.7 million color boxes + 220,000+ gift boxes.
 

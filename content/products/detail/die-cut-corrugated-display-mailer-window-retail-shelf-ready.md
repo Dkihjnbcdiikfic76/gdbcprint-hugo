@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001:2015, FSC Chain-of-Custody"
 ---
 
-![Bincai Corrugated Display Mailer Box](/images/cat-fold-mailer.jpg)
+![Bincai Corrugated Display Mailer Box](/images/corrugated-mailer.jpg)
 
 The die-cut corrugated display mailer with window is a dual-purpose packaging solution that transitions seamlessly from protective shipping mailer to point-of-sale display unit. Designed for brands shipping directly to retail shelves — subscription boxes, beauty products, snack assortments, and consumer electronics — this box eliminates the need for separate shipping and display packaging, reducing material waste, handling labor, and total packaging cost. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** (founded 2003, 22 years) at our 18,000 sqm factory in Foshan, China, with ISO 9001:2015 and FSC certifications.
 

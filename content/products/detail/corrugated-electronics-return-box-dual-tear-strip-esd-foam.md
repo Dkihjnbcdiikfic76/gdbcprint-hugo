@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Corrugated Electronics Return & Warranty Box](/images/cat-fold-mailer.jpg)
+![Bincai Corrugated Electronics Return & Warranty Box](/images/corrugated-mailer.jpg)
 
 The corrugated electronics return and warranty box is a purpose-built reverse-logistics packaging solution for consumer electronics brands managing product returns, warranty exchanges, and refurbishment programs. Manufactured by Guangdong Bincai Color Printing Co., Ltd. — a 22-year Foshan paper box specialist with 18,000 sqm of dual-factory production space — this box features an innovative dual tear strip design: one strip for the customer's initial unboxing experience, and a second, independent strip for secure return shipping, preserving the outer box integrity for round-trip use.
 

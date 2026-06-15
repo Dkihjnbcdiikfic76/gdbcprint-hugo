@@ -11,7 +11,7 @@ params:
   material: "B-Flute / E-Flute / BC-Flute Corrugated / Kraft or White Top Liner / Self-Sealing / Tear Strip"
   certification: "ISO 9001, FSC, SGS"
 ---
-![Custom Printed Corrugated Box for Clothing and Gift Packaging](/images/cat-fold-mailer.jpg)
+![Custom Printed Corrugated Box for Clothing and Gift Packaging](/images/corrugated-mailer.jpg)
 
 ## Product Overview
 

@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Corrugated Mailers](/images/cat-fold-mailer.jpg)
+![Bincai Corrugated Mailers](/images/corrugated-mailer.jpg)
 
 Premium double wall heavy duty corrugated shipping box in custom sizes — manufactured by Guangdong Bincai Color Printing Co., Ltd. With 22 years of experience, ISO 9001 & FSC certifications, and an 18,000 sqm factory (10,000+8,000 smart factory) producing 1.7 million boxes daily, we deliver industrial-grade packaging that protects your products through the toughest supply chains.
 

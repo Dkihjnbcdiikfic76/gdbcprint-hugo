@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Corrugated Mailers](/images/cat-fold-mailer.jpg)
+![Bincai Corrugated Mailers](/images/corrugated-mailer.jpg)
 
 Custom corrugated mailer box with integrated bubble lining for glassware and fragile item shipping — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). The design combines double-wall B-flute corrugated board with an integrated bubble-film liner for dual-layer impact protection, eliminating the need for separate bubble wrap and reducing packaging labor by up to 40%. The bubble lining is factory-bonded to the inner walls during corrugation, ensuring the protective layer stays in position throughout the shipping journey. Ideal for direct-to-consumer wine glass, ceramic mug, candle jar, and fragile decor shipping. Produced on KBA 1050 4-color presses across 18,000 sqm factory floor (10,000+8,000 smart factory). Daily output 1.7 million boxes. ISO 9001 and FSC certified. ISTA 3A drop-test validated for e-commerce parcel shipping with edge crush test (ECT) ratings up to 44 lb/in for maximum stacking strength.
 

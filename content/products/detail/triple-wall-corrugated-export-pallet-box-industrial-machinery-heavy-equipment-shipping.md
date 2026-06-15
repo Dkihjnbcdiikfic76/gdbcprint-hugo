@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, ISTA"
 ---
 
-![Bincai Corrugated Mailers](/images/cat-fold-mailer.jpg)
+![Bincai Corrugated Mailers](/images/corrugated-mailer.jpg)
 
 Triple-wall corrugated export pallet box for industrial machinery and heavy equipment shipping — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). Engineered as a cost-effective, recyclable alternative to wooden crates for international export, this triple-wall container provides 275+ PSI burst strength and 80+ ECT (Edge Crush Test) rating — sufficient for loads up to 1,500 kg. The BHS 2.5m corrugator produces AAA or ACA flute triple-wall board across 18,000 sqm factory. Daily output 1.7 million boxes.
 

@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, ISTA 3A"
 ---
 
-![Corrugated Flat-Pack Furniture Mailer](/images/cat-fold-mailer.jpg)
+![Corrugated Flat-Pack Furniture Mailer](/images/corrugated-mailer.jpg)
 
 ## Product Overview
 

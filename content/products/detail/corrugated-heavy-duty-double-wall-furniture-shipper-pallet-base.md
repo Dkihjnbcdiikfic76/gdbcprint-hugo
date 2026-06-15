@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Double-Wall Corrugated Furniture Shipper](/images/cat-fold-mailer.jpg)
+![Bincai Double-Wall Corrugated Furniture Shipper](/images/corrugated-mailer.jpg)
 
 Guangdong Bincai Color Printing Co., Ltd. (founded 2003) produces heavy-duty double-wall corrugated shipping boxes engineered specifically for international furniture export. Our 18,000 sqm factory in Foshan runs a BHS 2.5m corrugator producing BC-flute and EB-flute board with edge crush ratings from ECT 32 to ECT 44+, supported by KBA 1050 4-color and Heidelberg 7+1 UV flexo/offset presses for high-quality exterior branding. Every box is manufactured under ISO 9001:2015 and FSC Chain-of-Custody certification, with total daily output of 1.7 million boxes across all categories.
 

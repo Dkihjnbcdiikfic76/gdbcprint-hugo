@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, ISTA 6-FedEx-A"
 ---
 
-![Bincai Corrugated Mailers](/images/cat-fold-mailer.jpg)
+![Bincai Corrugated Mailers](/images/corrugated-mailer.jpg)
 
 ## Product Overview
 

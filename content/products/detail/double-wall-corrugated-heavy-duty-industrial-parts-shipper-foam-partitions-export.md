@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Corrugated Mailers & Shippers](/images/cat-fold-mailer.jpg)
+![Bincai Corrugated Mailers & Shippers](/images/corrugated-mailer.jpg)
 
 The Double-Wall Corrugated Heavy-Duty Industrial Parts Shipper is built for manufacturers shipping precision components, automotive parts, and heavy machinery goods across global supply chains. Manufactured by Guangdong Bincai Color Printing Co., Ltd. at our 18,000 sqm Foshan facility, this shipper features BC-flute double-wall construction (burst strength 1,800+ kPa) with custom die-cut EPE foam partitions that isolate each component. Pallet-ready design with reinforced bottom panels and fork-lift access channels ensures safe transit from factory floor to overseas distribution centers. Produced with ISO 9001:2015 quality systems and FSC-certified linerboard, every shipper is engineered for ISTA 3E distribution testing standards.
 
