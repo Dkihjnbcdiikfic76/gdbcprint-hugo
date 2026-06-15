@@ -52,10 +52,70 @@ Guangdong Bincai Color Printing's double ring box is engineered for wedding band
 - **Exterior Material**: Soft-touch matte paper, leatherette PU wrap, linen-textured paper, or glossy laminate
 - **Edge Gilding**: Gold, silver, or rose gold edge gilding for an ultra-premium finish
 
-## Quality Assurance
+## Production Quality
 
-Every double ring box passes Bincai's 7-stage QC process: (1) incoming greyboard caliper check, (2) CMYK Delta E ≤2.5 color verification on Heidelberg Prinect, (3) foil stamping registration inspection, (4) LED module function test (5-cycle), (5) magnetic closure alignment gauge, (6) ISTA 1A drop test sampling, and (7) final visual inspection under D65 lighting.
+| Test | Standard | Specification |
+|---|---|---|
+| LED Function | Internal | 5-cycle open/close, 100% inline |
+| LED Brightness | Internal | 80–120 lumens at 2700K, measured at 100mm |
+| Battery Contact | Internal | ≥0.5N contact force, no intermittent flicker after ISTA vibration |
+| Magnet Retention | Internal | ≥5.0 N/cm retention force per magnet pair |
+| Lid Alignment | Internal | ≤0.8mm gap tolerance, lid-centers to base within ±0.5mm |
+| Foil Adhesion | ASTM D3359 | 5B rating — zero peeling after 10-tape pulls |
+| Velvet Adhesion | Internal | ≥3.0 N/25mm peel strength, no shedding after 50-cycle rub test |
+| Drop Test | ISTA 1A | 10-drop sequence from 760mm, LED remains functional, ring cradle intact |
+| Hinge Durability | Internal | 5,000+ open/close cycles, no hinge looseness or angle drift |
 
-## Why Bincai
+## Seven-Stage QC Gates
 
-22 years since 2003, ISO 9001:2015 & FSC certified, 18,000 sqm factory with dedicated jewelry box production lines. Daily output of 50,000+ jewelry boxes. We manufacture for jewelry brands in 40+ countries. Free custom-fit pre-production samples with your ring dimensions in 5–7 days. MOQ 500.
+1. **Incoming Material Inspection** — greyboard caliper (1500gsm ±5%), velvet flock density verification, LED module function check, N52 magnet pull-force certification
+2. **Pre-Press Proofing** — color calibration to Pantone targets, foil die fit verification, structural die alignment check, LED module fit test in cavity mock-up
+3. **In-Process Printing** — Heidelberg Prinect color verification every 500 sheets (ΔE ≤ 2.5), foil stamping registration ±0.15mm, surface coating uniformity inspection
+4. **Box Construction** — CNC corner-wrap alignment ±0.2mm, hinge installation with 110° stop verification, magnet seating depth and polarity check
+5. **Interior Assembly** — velvet flocking coverage 100%, ring groove depth ±0.3mm, LED module installation and wire routing (no pinching), ribbon pull-tab bar-tack strength
+6. **LED & Closure Testing** — 5-cycle open/close test (100% inline), LED brightness measurement, magnetic closure alignment gauge, battery compartment access check
+7. **Pre-Shipment Inspection** — AQL 2.5 Level II per ISO 2859-1, ISTA 1A drop test sampling, 100% visual inspection under D65 lighting, final LED function verification
+
+## Sustainability & Compliance
+
+| Aspect | Detail |
+|---|---|
+| Paper Sourcing | FSC Chain-of-Custody certified — greyboard and art paper traceable to responsibly managed forests |
+| Greyboard | 100% recycled content available — post-consumer and post-industrial fiber |
+| Velvet Flocking | Water-based electrostatic flocking adhesive — VOC-free, REACH compliant |
+| LED Module | RoHS compliant, replaceable CR2032 battery — standard consumer-replaceable format |
+| Magnet | N52 neodymium — fully recyclable rare-earth magnet, no conflict minerals |
+| Packaging Waste | 95%+ paper waste recycled through closed-loop system |
+| End-of-Life | Box body fully recyclable in paper streams; LED module removable for e-waste recycling |
+
+## FAQ
+
+**Q: How long does the LED battery last? Can customers replace it?**
+
+A: The CR2032 battery powers approximately 1,500 open/close cycles (3–5 years of typical retail/consumer use). The battery compartment is user-accessible with a small screwdriver — no specialized tools needed. We include a spare CR2032 and replacement instructions with bulk orders.
+
+**Q: Will the LED activate during shipping and drain the battery?**
+
+A: No. The photo-sensor LED module requires ambient light change to trigger — it will not activate in a dark shipping carton. We also include a pull-tab battery isolator strip (removed by customer on first use) as an additional safeguard for long-term storage and ocean freight.
+
+**Q: Can the velvet color be matched to my brand's specific Pantone?**
+
+A: Yes. Our electrostatic flocking process matches to Pantone textile standards with ΔE ≤ 2.0 tolerance. 12 standard colors are available at no MOQ premium, and custom Pantone-matched flocking is available with a 1,000-unit MOQ. We provide velvet swatch samples for approval before production.
+
+**Q: Is the box suitable for both engagement rings and wedding bands?**
+
+A: Absolutely. The dual-ring groove layout accommodates both slim wedding bands (2–4mm width) and larger engagement rings (up to 8mm band width). The ring grooves are CNC-milled with a tapered profile that securely cradles different ring sizes. For solitaire engagement rings with prominent center stones, we can add a deeper center cavity to prevent the stone from touching the lid interior.
+
+**Q: What if I need custom branding on the LED module itself (color temperature, logo projection)?**
+
+A: We offer several LED customization tiers: (1) color temperature swap — warm white 2700K, neutral 3500K, or cool white 4000K at no additional charge; (2) RGB addressable LED for brand-color illumination — available with 1,000-unit MOQ; (3) custom logo projection lens — projects your brand logo onto the ring tray when opened — MOQ 3,000 units. Our in-house electronics integration team handles the full design-to-production workflow.
+
+## Why Choose Bincai for Jewelry Packaging
+
+Guangdong Bincai Color Printing Co., Ltd. operates a dedicated jewelry box production department within our 18,000 sqm Foshan facility — from greyboard cutting and CNC wrapping to electrostatic velvet flocking, LED electronics integration, and hand-finished assembly. This vertical integration means every component of your ring box is manufactured under one ISO 9001:2015 quality system, with one point of accountability.
+
+Our jewelry packaging expertise spans 22 years, serving brands from independent Etsy jewelers to multi-store luxury chains across 40+ countries. The LED ring box represents our most technically demanding product line, requiring precision integration of paper packaging, textile flocking, neodymium magnetics, and consumer electronics — a combination few packaging manufacturers can execute consistently at scale.
+
+With 50,000+ jewelry boxes produced daily, Bincai maintains the capacity for both small-batch artisan orders and high-volume retail rollouts. Free pre-production samples with your exact ring dimensions arrive in 5–7 working days, letting you evaluate fit, finish, and the LED reveal experience before committing to production.
+
+**Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | 50,000+ jewelry boxes/day | KBA 1050 + Heidelberg 7+1 UV | Bobst SP 102 BMA foil stamping | ISO 9001 & FSC | RoHS LED modules | Foshan, Guangdong, China
