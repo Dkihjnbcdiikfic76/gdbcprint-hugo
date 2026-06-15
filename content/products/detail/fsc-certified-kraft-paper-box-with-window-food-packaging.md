@@ -69,3 +69,47 @@ FSC certified kraft paper box with clear PET window for food packaging — desig
 - KBA 1050 4-color + Heidelberg 7+1 UV presses with food-safe ink management
 - Daily output: 1.7 million color boxes across all product categories
 - Export to 40+ countries with food packaging as a certified specialization
+
+## Why Choose Bincai for Food-Safe Kraft Packaging
+
+Food packaging demands a higher standard — it's not just about looking good, but about keeping food safe, fresh, and uncontaminated from production line to consumer. Bincai's dedicated food-grade production area is a segregated zone within our 18,000 sqm facility, operating under enhanced hygiene protocols with low-migration ink management that meets EU Regulation (EC) No 1935/2004 (migration <10 ppb). Our automatic window patching machines bond PET and PLA windows with food-safe hot-melt adhesives tested under accelerated aging conditions (72 hours at 57°C/95% RH) to guarantee zero delamination. Every batch of kraft paper is FSC Chain-of-Custody traceable to the forest of origin, and our soy-based inks are independently certified for indirect food contact. This isn't just sustainable packaging — it's packaging you'd trust with your own brand's food products.
+
+**What sets Bincai food packaging apart:** Dedicated food-grade production zone with enhanced hygiene protocol | Low-migration inks certified per EU 1935/2004 (<10 ppb) | FSC Chain-of-Custody traceability on every batch | Automatic window patching with food-safe adhesive | Grease-resistant kraft rated Kit 5–8 for oily foods | Independent lab testing available per order
+
+## Production Quality — Seven-Stage QC Gates
+
+| Stage | Checkpoint | Standard |
+|---|---|---|
+| **1. Raw Material** | Kraft paper GSM, FSC certificate verification, moisture ≤10% | ISO 536, FSC-STD-40-004 |
+| **2. Ink Qualification** | Low-migration certification, migration <10 ppb, odor panel pass | EU 1935/2004, GB/T |
+| **3. Print** | Color ΔE ≤ 2.0, registration ±0.15mm, no set-off | G7 Master, ISO 12647-2 |
+| **4. Window Patch** | PET clarity ≥93%, bond integrity, edge seal continuous | Internal QA-SOP-004 |
+| **5. Die-Cut** | Dimension ±0.3mm, clean edges, no fiber tear | ISO 2768-m |
+| **6. Gluing** | Bond ≥3.0 N/cm², food-safe certification, no adhesive bleed | FDA 21 CFR 175.105 |
+| **7. Final Audit** | AQL 2.5 Level II, visual inspection, pack-out verification | ISO 2859-1 |
+
+## FAQ
+
+**Q: Is this kraft box certified for direct food contact?**
+
+A: Yes. Our kraft paper and soy-based inks are certified for indirect food contact per EU Regulation (EC) No 1935/2004. For direct food contact applications (unwrapped baked goods touching the box interior), we offer an additional food-grade barrier coating. Please specify your requirements when ordering.
+
+**Q: What's the difference between PET and PLA windows?**
+
+A: PET is the industry standard — highly transparent, durable, and recyclable. PLA (polylactic acid) is a bio-based polymer derived from corn starch that is industrially compostable (EN 13432 certified). PLA has slightly lower clarity (~88% vs PET's 93%) and is more sensitive to heat, but offers full end-of-life compostability. We stock both.
+
+**Q: What's the minimum order quantity?**
+
+A: 500 units for standard sizes and configurations. Custom die-cut window shapes or specialty finishes may require 1,000+ units. We're flexible with startups and pilot runs — contact us to discuss.
+
+**Q: Can you print my brand logo in full color on kraft paper?**
+
+A: Yes. Our KBA 1050 4-color offset press achieves vibrant CMYK reproduction on coated-one-side (C1S) kraft, and our soy-based inks deliver rich color saturation on natural kraft. For metallic effects, foil stamping is available on the Heidelberg 7+1 UV press. We recommend C1S kraft for the most accurate color reproduction.
+
+**Q: How is food safety verified during production?**
+
+A: Every production batch undergoes: (1) ink migration testing at our in-house lab, (2) odor panel evaluation, (3) adhesive bond integrity testing, and (4) AQL 2.5 visual inspection. Third-party lab certificates (SGS, Intertek) available upon request at no additional charge.
+
+**Q: What lead time should I expect?**
+
+A: New designs: 10–15 working days (includes structural design + sampling). Repeat orders: 7–10 working days. Rush service: 7 working days for standard configurations. Free pre-production food-safe samples in 5–7 working days.
