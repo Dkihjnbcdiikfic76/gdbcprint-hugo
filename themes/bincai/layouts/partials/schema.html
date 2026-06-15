@@ -3,23 +3,30 @@
 {
   "@context": "https://schema.org",
   "@type": "{{ if .IsHome }}Organization{{ else if eq .Section "products" }}Product{{ else if eq .Section "blog" }}BlogPosting{{ else }}WebPage{{ end }}",
+  "@id": "{{ .Permalink }}#{{ if .IsHome }}organization{{ else if eq .Section "products" }}product{{ else }}webpage{{ end }}",
   "name": "{{ .Title }}",
   "description": "{{ .Description }}",
   "url": "{{ .Permalink }}",
   {{ if .IsHome }}
-  "address": {"@type":"PostalAddress","addressCountry":"China","addressRegion":"Guangdong","addressLocality":"Foshan","streetAddress":"No. 6-7 Shunyuan North Road, Shunde District"},
-  "contactPoint":{"@type":"ContactPoint","telephone":"+86-18934352881","contactType":"sales","email":"qo82@icloud.com"},
-  "sameAs":["https://bincaipaperbox.en.made-in-china.com"]
+  "address": {"@type":"PostalAddress","addressCountry":"CN","addressRegion":"Guangdong","addressLocality":"Foshan","postalCode":"528300","streetAddress":"No. 6-7 Shunyuan North Road, Shunde District"},
+  "contactPoint":{"@type":"ContactPoint","telephone":"+86-18934352881","contactType":"sales","email":"qo82@icloud.com","availableLanguage":["English","Chinese"]},
+  "sameAs":["https://bincaipaperbox.en.made-in-china.com"],
+  "foundingDate":"2003",
+  "numberOfEmployees":{"@type":"QuantitativeValue","minValue":80,"maxValue":350},
+  "areaServed":[{"@type":"Country","name":"US"},{"@type":"Country","name":"CA"},{"@type":"Country","name":"GB"},{"@type":"Country","name":"AU"},{"@type":"Country","name":"DE"},{"@type":"Country","name":"JP"},{"@type":"Country","name":"AE"}]
   {{ else if eq .Section "products" }}
+  "image":"{{ .Permalink }}{{ with .Params.image }}{{ . }}{{ else }}images/cat-{{ index .Params.categories 0 }}.jpg{{ end }}",
+  "sku":"BINCAI-{{ .File.ContentBaseName }}",
   "brand":{"@type":"Brand","name":"Bincai"},
-  "offers":{"@type":"Offer","price":"{{ .Params.price }}","priceCurrency":"USD","availability":"https://schema.org/InStock","eligibleQuantity":{"@type":"QuantitativeValue","value":"{{ .Params.moq }}","unitCode":"PCS"}},
-  "manufacturer":{"@type":"Organization","name":"Guangdong Bincai Color Printing Co., Ltd."}
+  "offers":{"@type":"Offer","price":"{{ .Params.price }}","priceCurrency":"USD","availability":"https://schema.org/InStock","eligibleQuantity":{"@type":"QuantitativeValue","value":"{{ .Params.moq }}","unitCode":"PCS"},"seller":{"@type":"Organization","name":"Guangdong Bincai Color Printing Co., Ltd."}},
+  "manufacturer":{"@type":"Organization","name":"Guangdong Bincai Color Printing Co., Ltd.","@id":"https://gdbcprint.com/#organization"}
   {{ else if eq .Section "blog" }}
   "datePublished":"{{ .Date.Format "2006-01-02" }}",
-  "author":{"@type":"Organization","name":"Bincai Paper Box"},
-  "publisher":{"@type":"Organization","name":"Bincai Paper Box"}
+  "dateModified":"{{ .Lastmod.Format "2006-01-02" }}",
+  "author":{"@type":"Organization","name":"Bincai Paper Box","@id":"https://gdbcprint.com/#organization"},
+  "publisher":{"@type":"Organization","name":"Bincai Paper Box","@id":"https://gdbcprint.com/#organization"}
   {{ else }}
-  "about":{"@type":"Organization","name":"Guangdong Bincai Color Printing Co., Ltd."}
+  "about":{"@type":"Organization","name":"Guangdong Bincai Color Printing Co., Ltd.","@id":"https://gdbcprint.com/#organization"}
   {{ end }}
 }
 </script>
@@ -30,7 +37,15 @@
   "@type": "BreadcrumbList",
   "itemListElement": [
     {"@type":"ListItem","position":1,"name":"Home","item":"https://gdbcprint.com/"}
-    {{ if not .IsHome }}
+    {{ if eq .Section "products" }}
+    ,{"@type":"ListItem","position":2,"name":"Products","item":"https://gdbcprint.com/products/"}
+    {{ $cat := index .Params.categories 0 }}
+    ,{"@type":"ListItem","position":3,"name":"{{ $cat | humanize }}","item":"{{ absURL (printf "categories/%s/" $cat) }}"}
+    ,{"@type":"ListItem","position":4,"name":"{{ .Title }}","item":"{{ .Permalink }}"}
+    {{ else if eq .Section "blog" }}
+    ,{"@type":"ListItem","position":2,"name":"Blog","item":"https://gdbcprint.com/blog/"}
+    ,{"@type":"ListItem","position":3,"name":"{{ .Title }}","item":"{{ .Permalink }}"}
+    {{ else if not .IsHome }}
     ,{"@type":"ListItem","position":2,"name":"{{ .Title }}","item":"{{ .Permalink }}"}
     {{ end }}
   ]
