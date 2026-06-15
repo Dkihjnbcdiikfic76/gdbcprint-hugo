@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Magnetic Closure Boxes](/images/cat-rigid-others.jpg)
+![Bincai Magnetic Closure Boxes](/images/magnetic-closure-boxes.jpg)
 
 Magnetic closure premium watch display box with genuine leatherette wrap and suede interior — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). The sleek magnetic flap closure opens to reveal a soft suede-lined interior with a removable watch cushion that elegantly displays any timepiece. PU leatherette wrapping in matte, textured, or carbon-fiber finishes creates a luxury feel that rivals boxes from major watch brands. KBA 1050 4-color and Heidelberg 7+1 UV presses deliver premium finishing across 18,000 sqm factory. Daily output 1.7 million boxes.
 

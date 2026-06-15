@@ -11,7 +11,7 @@ params:
   material: "Greyboard 1200-1600gsm / N42-N52 Neodymium Magnets / Velvet"
   certification: "ISO 9001, FSC"
 ---
-![Magnetic Closure Box](/images/cat-rigid-others.jpg)
+![Magnetic Closure Box](/images/magnetic-closure-boxes.jpg)
 
 ## Product Overview
 

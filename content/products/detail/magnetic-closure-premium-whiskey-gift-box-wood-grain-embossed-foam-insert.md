@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Magnetic Closure Whiskey Gift Box](/images/cat-rigid-others.jpg)
+![Bincai Magnetic Closure Whiskey Gift Box](/images/magnetic-closure-boxes.jpg)
 
 The magnetic closure premium whiskey gift box combines rigid box construction with a sophisticated wood-grain embossed exterior and precision die-cut EVA foam insert to create a luxury unboxing experience for spirit brands. Guangdong Bincai Color Printing Co., Ltd. manufactures this product in our 18,000 sqm dual-factory complex in Foshan, China, utilizing KBA Rapida 105 4-color offset and Heidelberg Speedmaster CD 102 7+1 UV presses alongside BHS 2.5m Corrugator and Bobst SP 102 BMA die-cutting equipment. With ISO 9001:2015 and FSC Chain-of-Custody certifications and a daily output of 1.7 million boxes, Bincai delivers distillery-grade packaging at global scale.
 

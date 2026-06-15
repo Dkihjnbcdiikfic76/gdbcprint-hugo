@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Magnetic Closure Sunglasses Box](/images/cat-rigid-others.jpg)
+![Bincai Magnetic Closure Sunglasses Box](/images/magnetic-closure-boxes.jpg)
 
 Guangdong Bincai Color Printing Co., Ltd. produces this custom magnetic closure sunglasses gift box for luxury eyewear brands demanding premium unboxing experiences. The box combines N52-grade neodymium magnets for a satisfying snap closure with a plush velvet interior liner and flocked PET insert tray — the standard for brands competing with Ray-Ban, Gucci, and Dior shelf presentation. Manufactured in our 18,000 sqm Foshan facility on KBA Rapida 105 4-color and Heidelberg Speedmaster CD 102 7+1 UV presses, each box passes Seven-Stage QC inspection with ISO 9001:2015 and FSC Chain-of-Custody traceability. Daily output capacity of 1.7 million boxes supports volume orders from 500 to 500,000 units with consistent 10-14 day lead times.
 

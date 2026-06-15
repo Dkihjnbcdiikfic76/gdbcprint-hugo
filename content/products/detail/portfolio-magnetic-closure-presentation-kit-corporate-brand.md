@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, SGS"
 ---
 
-![Portfolio Magnetic Closure Presentation Kit for Corporate Brand Documents](/images/cat-rigid-others.jpg)
+![Portfolio Magnetic Closure Presentation Kit for Corporate Brand Documents](/images/magnetic-closure-boxes.jpg)
 
 Premium portfolio-style magnetic closure presentation kit — manufactured by **Guangdong Bincai Color Printing Co., Ltd.**, a Diamond Member on Made-in-China.com since 2015, Audited Supplier with 22 years of experience. Designed in a horizontal or vertical folio format with a wraparound magnetic flap that opens to reveal a precision die-cut foam interior. Each cavity is custom-molded to cradle brochures, pens, USB drives, business cards, and product samples — creating a cohesive, premium unboxing experience for corporate brand presentations, investor kits, and luxury sales collateral. The magnetic closure delivers a satisfying, authoritative snap that signals quality before the kit is even opened. Produced on Heidelberg 7+1 UV and KBA 1050 4-color presses across 18,000 sqm factory.
 

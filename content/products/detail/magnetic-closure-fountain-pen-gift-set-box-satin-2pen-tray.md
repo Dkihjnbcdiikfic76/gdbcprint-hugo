@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, SGS"
 ---
 
-![Magnetic Closure Fountain Pen Gift Set Box — Satin Lined 2-Pen Tray with Ink Bottle Slot](/images/cat-rigid-others.jpg)
+![Magnetic Closure Fountain Pen Gift Set Box — Satin Lined 2-Pen Tray with Ink Bottle Slot](/images/magnetic-closure-boxes.jpg)
 
 Magnetic closure fountain pen gift set box with satin lined 2-pen tray and ink bottle slot — manufactured by **Guangdong Bincai Color Printing Co., Ltd.** This elegant book-style magnetic closure box features a padded satin interior with precision die-cut cavities for two fountain pens and a standard ink bottle (30-50ml). The magnetic snap closure provides a satisfying premium feel while keeping the contents secure. Gold foil logo stamping on the cover and spine creates a luxury boutique presentation perfect for corporate gifting, pen collector editions, and retail display. Produced on our Heidelberg 7+1 UV press and Bobst SP 102 BMA die-cutter across our 18,000 sqm factory with 1.7M daily output capacity.
 
