@@ -61,3 +61,41 @@ Single-door magnetic boxes with ribbon tie add ceremony to the unboxing experien
 - KBA 1050 4-color + Heidelberg 7+1 UV presses + full rigid box automation
 - Export to 40+ countries across six continents
 - Daily output: 1.7 million boxes total (220,000+ rigid/gift boxes)
+
+## The Magnetic Unboxing Experience
+
+In premium packaging, the unboxing moment is often the first physical brand interaction a customer has. Magnetic rigid boxes are engineered specifically for this moment:
+
+- **The "Snap" Factor**: N52 neodymium magnets produce a satisfying, audible closure that signals quality before the product is even seen — this tactile/auditory cue is proven to increase perceived product value by 30%+ (Packaging Digest consumer study)
+- **Single-Door Drama**: Unlike two-piece boxes where the lid lifts completely away, a hinged single door reveals the product gradually — creating anticipation as the door swings open while the box base remains stationary
+- **Ribbon Tie Ritual**: The act of untying a satin ribbon adds ceremony and deliberate pacing — brands report 40% higher social media unboxing share rates when ribbon-tie packaging is used
+- **Photogenic Design**: The flat interior panel (behind the opened door) provides a natural branded backdrop for product photography — influencers and customers create free marketing content
+- **Reusability**: Unlike disposable packaging, magnetic rigid boxes become keepsakes — jewelry storage, desk organizers, memory boxes — extending brand visibility for years beyond purchase
+
+## Market Trends in Luxury Rigid Packaging
+
+- **Direct-to-Consumer Premium Shift**: DTC brands are upgrading from e-commerce mailers to magnetic rigid boxes as their primary differentiator — 67% of consumers say packaging quality influences repeat purchase decisions (Dotcom Distribution)
+- **Sustainability + Luxury Convergence**: The narrative is shifting from "luxury = excess" to "luxury = enduring quality" — a reusable magnetic box that lasts 5+ years has lower lifetime environmental impact than 5 disposable boxes
+- **Personalization at Scale**: UV inkjet variable data printing enables individualized names, messages, or QR codes on each box — brands running 10,000+ unit influencer campaigns now personalize every box
+- **Asian Market Growth**: Lunar New Year, Singles' Day (11.11), and Mid-Autumn Festival gift packaging demand drives 35%+ seasonal volume spikes — our dual-factory capacity handles peak demand without lead time inflation
+- **Pharma & Wellness**: Premium supplement and CBD brands are adopting magnetic rigid boxes for legitimacy signaling in a crowded market — FSC certification and ISO 9001 compliance are prerequisites for this segment
+
+## FAQs
+
+**Q: What's the minimum order for a custom magnetic rigid box?**
+A: 500 units for standard designs using existing tooling; 1,000+ for custom die-cut inserts or unique shapes requiring new tooling. We accommodate trial orders for market testing.
+
+**Q: How long does the magnet stay strong?**
+A: N52 neodymium magnets lose less than 1% of magnetic strength per century under normal conditions. The hinge is tested to 10,000+ open/close cycles — equivalent to daily use for 27 years.
+
+**Q: Can you match my exact brand color?**
+A: Yes — we maintain a full Pantone library and validate every production run with X-Rite spectrophotometry (ΔE ≤ 2.0). We can also match physical samples you provide.
+
+**Q: What's the lead time for a new design?**
+A: 10–15 working days from artwork approval, including: die-making (2–3 days), pre-production sample (3–5 days), production run (5–7 days). Repeat orders ship in 5–7 days.
+
+**Q: Are your materials food-safe?**
+A: Indirect food contact — yes. Our water-based adhesives and soy-based inks meet FDA 21 CFR indirect food additive regulations. For direct food contact, we offer PE-coated or aluminum-lined interior options.
+
+**Q: Do you ship internationally?**
+A: Yes — we export to 40+ countries. Standard sea freight (FOB Shenzhen/Yantian), air freight for urgent orders, and we support Amazon FBA direct shipment with labeling compliance.
