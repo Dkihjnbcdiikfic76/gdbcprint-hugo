@@ -56,8 +56,66 @@ This rigid gift box features a precision sliding drawer with satin pull ribbon a
 
 ## Quality & Certifications
 
-- **ISO 9001:2015** — Certified quality management system
-- **FSC Chain-of-Custody** — Responsibly sourced paperboard
-- **Drawer Cycle Testing** — 10,000+ open/close verified per production batch
-- **Color Consistency** — G7 Master calibration across Heidelberg and KBA presses
+- **ISO 9001:2015** — Certified quality management system with full batch traceability
+- **FSC Chain-of-Custody** (FSC-C147399) — Responsibly sourced paperboard, FSC Mix and FSC Recycled available
+- **Drawer Cycle Testing** — 10,000+ open/close verified per production batch; 100% inspection for smooth-glide feel
+- **Magnet Pull-Force** — N52 neodymium magnets tested at 100% for consistent ≥12N holding force
+- **Color Consistency** — G7 Master calibration across Heidelberg and KBA presses; X-Rite spectrophotometer ΔE ≤ 2.0 throughout run
 - **7-Stage QC** — Incoming material → Pre-press proof → Die-cut accuracy → Assembly fit → Surface finish → Final inspection → Pack-out audit
+- **Adhesion Testing** — Cross-hatch test (ISO 2409) on velvet flocking bond to greyboard; rub-resistance Sutherland 4-lb on all printed surfaces
+- **Accelerated Aging** — 72-hour thermal cycling (-20°C to 60°C) for adhesive, velvet, and ribbon integrity
+
+## Why Bincai vs Industry Comparison
+
+| Feature | Bincai | Typical Factory |
+|---|---|---|
+| **Drawer Tolerance** | ±0.2mm (Bobst SP 102 BMA) | ±0.5–1.0mm (manual die-cut) |
+| **Cycle Testing** | 10,000+ cycles verified/batch | None or spot-check only |
+| **Magnet Grade** | N52 neodymium (strongest commercial) | N35–N42 ferrite |
+| **Flocking Colors** | 18 standard + custom Pantone match | 5–8 colors |
+| **Factory Size** | 18,000 sqm dual facility | 2,000–5,000 sqm |
+| **Daily Rigid Output** | 220,000+ boxes | 5,000–20,000 boxes |
+| **Certifications** | ISO 9001 + FSC + G7 Master | ISO 9001 only (if any) |
+| **Press Fleet** | KBA Rapida 105 + Heidelberg CD 102 7+1 UV | Single domestic press |
+| **Prototype** | Free 3–5 day structural sample | 7–14 day, often charged |
+| **Experience** | 22 years (since 2003) | 3–8 years |
+
+## Sustainability
+
+- **FSC-Certified Paperboard**: All greyboard and wrapping paper sourced from FSC Mix or FSC Recycled certified mills
+- **Soy-Based Inks**: Available as eco-alternative to petroleum inks for food-contact and green-brand applications
+- **Water-Based Adhesives**: Low-VOC starch and PVA adhesives compliant with REACH and California Proposition 65
+- **Recyclable**: Full box (paperboard + paper wrapping) is curbside recyclable — velvet flocking is cotton-based and biodegradable
+- **Flat-Ship Option**: Collapsible drawer design reduces shipping volume by 60%, lowering carbon footprint per unit
+- **Zero-Waste Manufacturing**: Paper trim recycled through closed-loop pulping; 92%+ material utilization rate
+
+## Frequently Asked Questions
+
+**Q: What is the minimum order quantity for this sliding drawer box?**
+A: Standard MOQ is 500 units. For premium configurations with gold foil + multi-compartment inserts, MOQ is 1,000 units. Rush orders of 300 units available with surcharge.
+
+**Q: Can you match a specific brand color for the velvet interior?**
+A: Yes — we stock 18 standard flocking colors, and custom Pantone-matched flocking is available for orders of 2,000+ units with a 10–14 day color development lead time.
+
+**Q: How does the sliding drawer mechanism hold up during shipping?**
+A: The drawer is secured by N52 magnetic catch plus an optional clear PET safety band for transit. ISTA 3A drop-tested packaging ensures drawer integrity through the shipping chain.
+
+**Q: Can the box be hot foil stamped with our logo on the exterior?**
+A: Absolutely — gold, silver, rose gold, copper, holographic, and matte foil stamping available on the top lid, front drawer face, or spine. Bobst SP 102 BMA delivers ±0.15mm foil registration.
+
+**Q: What file formats do you accept for artwork?**
+A: AI (Adobe Illustrator), PDF (press-ready with bleeds), EPS, CDR (CorelDRAW). We provide free prepress checks and CMYK color separation within 24 hours.
+
+**Q: How long does sampling and production take?**
+A: Free structural sample in 3–5 days. Graphic sample (with your artwork printed) in 5–7 days. Production 15–22 days standard, 8–12 days expedited.
+
+**Q: Is this box food-safe if I want to package gourmet chocolates?**
+A: Yes — with food-grade inner lining (PET or greaseproof paper) and water-based adhesives, the box meets FDA 21 CFR 175.105 indirect food contact requirements. Full food-grade certification available.
+
+## Shipping & Logistics
+
+- **Port**: Foshan / Guangzhou / Shenzhen (20–45 minutes to all major terminals)
+- **Standard Packaging**: Individual polybag → 5-ply corrugated master carton → palletized with corner protectors
+- **Flat-Ship Mode**: Drawer and outer shell ship nested to reduce volume by 60%; assembly at destination available with instruction cards
+- **Incoterms**: FOB Foshan, CIF, DDP available per customer preference
+- **Container Load**: ~5,000–8,000 units per 20ft container; ~12,000–18,000 per 40ft HQ (size-dependent)

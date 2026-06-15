@@ -62,3 +62,58 @@ Gold foil stamped folding cartons deliver premium tactile and visual impact for 
 - KBA 1050 4-color + Heidelberg 7+1 UV + Bobst foil stamping and die-cutting
 - Export to 40+ countries across six continents
 - Daily capacity: 1.7 million boxes across all product lines
+
+## Why Bincai vs Industry Comparison
+
+| Feature | Bincai | Typical Factory |
+|---|---|---|
+| **Foil Registration** | ±0.15mm (Bobst SP 102 BMA) | ±0.5–1.0mm (manual platen) |
+| **Foil Savings** | Programmable advance — 40%+ foil saved | Fixed advance, 15–25% waste |
+| **Press Capability** | 7-color + UV coat in single pass (Heidelberg CD 102) | 4-color maximum |
+| **Spot Colors** | Up to 7 PMS + CMYK simultaneously | 2–3 PMS max |
+| **Foil Types** | 6 finishes (gold/silver/rose gold/copper/holographic/matte gold) | 2–3 finishes |
+| **Color Accuracy** | ΔE ≤ 2.0 with X-Rite inline spectrophotometer | Visual comparison only |
+| **Surface Finishes** | 7 options (matte/gloss/soft-touch/spot UV/glitter UV/textured UV/pearlescent) | 2–3 options |
+| **Certifications** | ISO 9001 + FSC + G7 Master | ISO 9001 only (if any) |
+| **Daily Folding Output** | 800,000 cartons | 20,000–50,000 cartons |
+| **Prototype** | Free 5–7 day with full decoration | 10–14 day, often charged |
+
+## Sustainability
+
+- **FSC-Certified Paperboard**: All carton board from FSC Mix or FSC Recycled certified mills; chain-of-custody documentation provided with every shipment
+- **Soy-Based Inks**: Available as eco-alternative to petroleum-based offset inks — reduced VOC emissions, compostable at end-of-life
+- **Water-Based Aqueous Coating**: Replaces solvent-based varnishes for matte/gloss finishes — zero VOC, fully recyclable
+- **Recyclable**: 100% paper-based carton (with water-based coatings) is curbside recyclable; foil-stamped areas are deinkable in modern pulping facilities
+- **Biodegradable Lamination**: PLA-based biodegradable lamination available as alternative to PET film lamination — compostable in industrial facilities (EN 13432)
+- **Flat-Shipping**: Folding cartons ship flat, reducing transport volume by 80%+ vs rigid boxes — lower carbon footprint per unit
+
+## Frequently Asked Questions
+
+**Q: What is the minimum order quantity for gold foil stamped cartons?**
+A: Standard MOQ is 500 units. For multi-process cartons (foil + emboss + spot UV), MOQ is 1,000. Rush orders of 300 units available with surcharge.
+
+**Q: Can you foil stamp a large solid area on my carton?**
+A: Yes — our Bobst SP 102 BMA handles foil areas up to 750×1,050mm. For solid-foil backgrounds, we recommend adding micro-emboss texture to prevent foil cracking at fold lines.
+
+**Q: What surface finish works best for luxury cosmetics packaging?**
+A: Soft-touch velvet lamination is our #1 recommendation for cosmetics — it creates a premium tactile feel that consumers associate with luxury. Paired with spot UV on the logo and gold foil accents, it delivers maximum shelf impact.
+
+**Q: How long from artwork approval to production delivery?**
+A: Standard delivery 7–10 working days for simple decoration (foil + lamination); 10–15 working days for multi-process (foil + emboss + spot UV + window patch). Expedited 5–7 days available.
+
+**Q: Can you produce cartons with windows for product visibility?**
+A: Yes — die-cut window with PET, PVC, or PLA (biodegradable) film patching inline. Bobst Ambition folder-gluer with window-patching module delivers ±0.3mm window registration.
+
+**Q: Is the foil durable enough for retail shelf handling?**
+A: Absolutely — all foil-stamped surfaces pass Sutherland 4-lb rub test (100+ cycles) and cross-hatch adhesion test (ISO 2409). For high-abrasion retail environments, we add protective aqueous overcoat on foil areas.
+
+**Q: Do you support variable data printing for serial numbers or QR codes?**
+A: Yes — HP Indigo digital module for variable data: QR codes, sequential numbering, personalized messages, and regional barcodes (EAN/UPC). Up to 1,200 dpi resolution.
+
+## Shipping & Logistics
+
+- **Port**: Foshan Shunde / Guangzhou Nansha / Shenzhen Yantian (20–60 minutes to all)
+- **Standard Packaging**: Bundled in 50/100-unit packs → 5-ply corrugated master carton → palletized with stretch wrap
+- **Flat-Shipping**: Folding cartons ship flat-packed; 80%+ volume reduction vs rigid boxes
+- **Incoterms**: FOB Foshan, CIF, DDP per customer preference
+- **Container Load**: ~50,000–120,000 flat cartons per 20ft; ~120,000–250,000 per 40ft HQ (size-dependent)

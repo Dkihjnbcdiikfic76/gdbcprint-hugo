@@ -62,3 +62,57 @@ Executive-grade portfolio-style magnetic closure presentation box — manufactur
 - **One-stop service**: structural design → material selection → printing → box-making → magnetic assembly → accessory integration → QC → shipping
 - Free structural design, 3D rendering, and physical prototype for every new order
 - Diamond Member on Made-in-China.com, Audited Supplier with on-site factory verification
+
+## Why Bincai vs Industry Comparison
+
+| Feature | Bincai | Typical Factory |
+|---|---|---|
+| **Magnet Positioning** | CNC-machined cavities ±0.2mm | Manual placement ±1.0–2.0mm |
+| **Magnet Grade** | N52 neodymium (≥3N hold per pair) | N35 ferrite (≤1N hold) |
+| **Closure Cycle Test** | 1,000-cycle endurance | Not tested |
+| **Document Sleeve** | Ultrasonic-welded PET 0.3–0.5mm | Adhesive-bonded (peels) |
+| **Pen Loop Elastic** | Industrial-grade elastic, 10,000+ stretch cycles | Basic elastic, 500–1,000 cycles |
+| **Cover Materials** | 12+ wrapping options (leatherette/linen/leather/art paper) | 3–5 options |
+| **Certifications** | ISO 9001 + FSC + G7 Master | ISO 9001 only (if any) |
+| **3D Rendering** | Free photorealistic 3D render within 24hrs | 2D sketch only |
+| **Daily Output** | 1.7M boxes total; dedicated portfolio line | 2,000–5,000 boxes |
+| **Experience** | 22 years serving corporate/automotive/luxury | 3–8 years |
+
+## Sustainability
+
+- **FSC-Certified Materials**: All greyboard and paper wrapping from FSC Mix or FSC Recycled certified mills; chain-of-custody documentation provided
+- **Soy-Based Inks**: Available for all CMYK and spot color printing — reduced VOC emissions, improved biodegradability
+- **Water-Based Adhesives**: Starch and PVA formulations compliant with REACH and California Proposition 65; low-VOC for indoor corporate use
+- **PET Sleeve**: Recyclable PET (R-PET available upon request); sleeve is separable from paper body for proper recycling stream sorting
+- **Biodegradable Foam**: PLA-based biodegradable foam insert available as alternative to EVA for eco-conscious brands; compostable in industrial facilities (EN 13432)
+- **Recyclable Core**: Paper-based body (greyboard + paper wrap) is 100% curbside recyclable after magnet removal
+
+## Frequently Asked Questions
+
+**Q: What is the MOQ for custom portfolio presentation boxes?**
+A: Standard MOQ is 500 units. For premium leather-wrapped configurations with multi-level embossing, MOQ is 1,000. Prototype orders of 100 units available with tooling surcharge.
+
+**Q: Can you incorporate our corporate brand guidelines into the design?**
+A: Yes — we match Pantone brand colors, reproduce your logo in foil stamping or embossing with ±0.15mm registration, and follow your brand typography and layout specifications. Free brand compliance review included.
+
+**Q: What file formats do you need for the foam tray design?**
+A: 3D CAD files (STEP, IGES, or SolidWorks) are ideal. If you don't have CAD, we create the foam cavity design from your product dimensions and photos — free of charge.
+
+**Q: How durable is the magnetic closure over time?**
+A: Every production batch undergoes 1,000-cycle open-close endurance testing. N52 neodymium magnets maintain >95% pull force after 1,000 cycles. For ultra-heavy-use corporate applications, we recommend the optional metal clasp reinforcement.
+
+**Q: Can the document sleeve hold multiple pages?**
+A: Yes — the 0.3–0.5mm PET sleeve accommodates 5–15 sheets (80gsm) depending on thickness. For thicker brochures or booklets, we can upgrade to a 0.7mm PET sleeve or a die-cut cardboard pocket.
+
+**Q: What is the turnaround time for a corporate event order of 2,000+ units?**
+A: Tooling 10–18 days + production 18–25 days = 28–43 days total. Expedited 15–20 days available for time-sensitive corporate events. We have fulfilled 5,000+ unit corporate event orders within 3 weeks.
+
+**Q: Can the box be branded on the inside as well as the outside?**
+A: Yes — full-wrap interior printing on inner lid and base panels. Foil-stamped brand message inside the lid, embossed pattern on interior surfaces, and custom-printed foam tray lining are all available.
+
+## Shipping & Logistics
+
+- **Port**: Foshan / Guangzhou / Shenzhen (30–60 minutes to all major container terminals)
+- **Standard Packaging**: Individual polybag → custom-fit corrugated insert → 5-ply master carton → palletized
+- **Incoterms**: FOB Foshan, CIF, DDP per customer preference
+- **Container Load**: ~3,000–6,000 units per 20ft container; ~7,000–14,000 per 40ft HQ (A4-size estimate; varies by dimensions)
