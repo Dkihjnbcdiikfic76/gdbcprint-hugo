@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, SGS"
 ---
 
-![Straight Tuck End Folding Carton — Premium Candle & Home Fragrance with Spot UV + Gold Foil](/images/cat-fold-autolock.jpg)
+![Straight Tuck End Folding Carton — Premium Candle & Home Fragrance with Spot UV + Gold Foil](/images/cat-fold-cosmetic.jpg)
 
 Straight tuck end folding carton for premium candle and home fragrance packaging — manufactured by **Guangdong Bincai Color Printing Co., Ltd.** Designed for luxury candle brands, artisan chandlers, and home fragrance companies, this folding carton combines the cost-efficiency of a straight tuck end structure with premium finishing techniques — spot UV varnish and gold foil stamping — to create shelf presence that competes with luxury rigid boxes at a fraction of the cost. The carton ships flat and assembles in seconds, making it ideal for brands that self-fulfill. Produced across our 18,000 sqm factory with 1.7M daily output capacity.
 

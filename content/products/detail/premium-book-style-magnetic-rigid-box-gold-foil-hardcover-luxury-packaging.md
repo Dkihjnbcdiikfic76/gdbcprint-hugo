@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Book-Style Magnetic Box](/images/magnetic-closure-box.jpg)
+![Book-Style Magnetic Box](/images/cat-rigid-others.jpg)
 
 ## Product Overview
 

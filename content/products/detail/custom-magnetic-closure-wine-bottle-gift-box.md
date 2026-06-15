@@ -18,7 +18,7 @@ tags:
   - ISO 9001 certified
 ---
 
-![Bincai Magnetic Closure Boxes](/images/magnetic-closure-box.jpg)
+![Bincai Magnetic Closure Boxes](/images/cat-rigid-others.jpg)
 
 ## Product Overview
 

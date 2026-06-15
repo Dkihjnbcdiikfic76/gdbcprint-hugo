@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Folding Cartons](/images/cat-fold-autolock.jpg)
+![Bincai Folding Cartons](/images/cat-fold-cosmetic.jpg)
 
 Custom window folding carton with gold foil stamping for bakery and pastry packaging — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). Engineered for bakeries, patisseries, and food brands requiring premium shelf presentation with product visibility. The die-cut PET window (0.3mm food-grade) allows customers to see the product while maintaining structural integrity. Gold foil stamping on kraft or white art paper stock creates an artisanal, premium aesthetic. Auto-lock bottom eliminates glue and speeds up assembly in high-volume environments. Produced on German-engineered KBA Rapida 105 4-color offset press with Bobst SP 102 CER flatbed die-cutting for precise window and crease registration. Our 18,000 sqm Foshan facility delivers 1.7 million folding cartons daily under ISO 9001:2015 and FSC certification — from a single-source manufacturer with in-house design, prepress, printing, die-cutting, and gluing.
 

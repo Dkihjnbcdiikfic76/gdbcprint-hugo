@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Magnetic Closure Luxury Watch Display Box](/images/magnetic-closure-box.jpg)
+![Bincai Magnetic Closure Luxury Watch Display Box](/images/cat-rigid-others.jpg)
 
 The magnetic closure luxury watch display box elevates timepiece presentation with museum-quality lighting and refined materials. Manufactured by Guangdong Bincai Color Printing Co., Ltd. — a 22-year Foshan paper box specialist with 18,000 sqm across two production facilities — this box wraps 2mm rigid greyboard in premium vegan leather (PU) with a soft-touch matte finish, creating a tactile experience worthy of haute horlogerie. The hidden magnetic closure eliminates visible hardware for a seamless, minimalist exterior, while the LED-illuminated interior — activated automatically upon opening — spotlights the timepiece like a gallery showcase.
 

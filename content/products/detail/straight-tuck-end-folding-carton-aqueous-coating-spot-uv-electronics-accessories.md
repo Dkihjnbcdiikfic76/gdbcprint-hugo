@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Straight Tuck End Folding Carton for Electronics](/images/cat-fold-autolock.jpg)
+![Bincai Straight Tuck End Folding Carton for Electronics](/images/cat-fold-cosmetic.jpg)
 
 The straight tuck end (STE) folding carton is the workhorse of electronics accessory packaging — efficient to manufacture, compact to ship flat, and capable of premium presentation when finished with aqueous coating and precision Spot UV. Manufactured by Guangdong Bincai Color Printing Co., Ltd., a 22-year Foshan paper box specialist with ISO 9001:2015 and FSC Chain-of-Custody certifications, this carton prints on 350gsm CCNB (clay-coated newsback) or coated duplex board on the KBA Rapida 105 4-color offset press at 200 LPI, then receives inline matte aqueous coating with selective Spot UV on the Heidelberg Speedmaster CD 102 7+1 UV press.
 

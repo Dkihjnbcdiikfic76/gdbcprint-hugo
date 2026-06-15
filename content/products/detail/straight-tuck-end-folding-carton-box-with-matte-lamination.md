@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001:2015, FSC Chain-of-Custody"
 ---
 
-![Bincai Folding Cartons](/images/cat-fold-autolock.jpg)
+![Bincai Folding Cartons](/images/cat-fold-cosmetic.jpg)
 
 ## Product Overview
 

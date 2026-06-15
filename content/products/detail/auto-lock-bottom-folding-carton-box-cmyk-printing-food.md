@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Folding Cartons](/images/cat-fold-autolock.jpg)
+![Bincai Folding Cartons](/images/cat-fold-cosmetic.jpg)
 
 Auto-lock bottom folding carton box with full-color CMYK offset printing for food, bakery, and confectionery packaging — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). 18,000 sqm factory (10,000 + 8,000 smart factory, 2025) with KBA 1050 4-color and Heidelberg 7+1 UV presses. Daily output 1.7 million boxes.
 

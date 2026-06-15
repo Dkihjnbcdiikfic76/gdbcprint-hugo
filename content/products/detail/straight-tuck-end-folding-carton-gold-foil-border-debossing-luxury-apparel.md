@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Straight Tuck End Folding Carton with Gold Foil Border and Debossing for Luxury Apparel](/images/cat-fold-autolock.jpg)
+![Straight Tuck End Folding Carton with Gold Foil Border and Debossing for Luxury Apparel](/images/cat-fold-cosmetic.jpg)
 
 ## Product Overview
 

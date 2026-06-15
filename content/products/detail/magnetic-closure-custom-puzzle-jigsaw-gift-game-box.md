@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, SGS"
 ---
 
-![Magnetic Closure Custom Jigsaw Puzzle Gift Box — Game & Toy Packaging](/images/magnetic-closure-box.jpg)
+![Magnetic Closure Custom Jigsaw Puzzle Gift Box — Game & Toy Packaging](/images/cat-rigid-others.jpg)
 
 ## Product Overview
 

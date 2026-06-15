@@ -18,7 +18,7 @@ tags:
   - ISO 9001 certified
 ---
 
-![Bincai Corrugated Mailer](/images/corrugated-mailer.jpg)
+![Bincai Corrugated Mailer](/images/cat-fold-mailer.jpg)
 
 Corrugated insulated meal kit shipper for frozen food subscription boxes by Guangdong Bincai Color Printing Co., Ltd. — a Diamond Member on Made-in-China.com with 22 years of manufacturing excellence (founded 2003). Double-wall BC or EB flute corrugated construction with integrated thermal insulation liner keeps contents frozen for 24–48 hours during transit. Gel pack compartments and tear-strip easy-open design for a premium unboxing experience. Produced on our BHS 2.5m Corrugator line and KBA 1050 4-color Flexo press across our 18,000 sqm facility (10,000+8,000 smart factory, 2025 expansion). ISO 9001:2015 and FSC® certified.
 

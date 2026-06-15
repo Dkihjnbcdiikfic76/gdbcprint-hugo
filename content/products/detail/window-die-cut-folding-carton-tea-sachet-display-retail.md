@@ -18,7 +18,7 @@ tags:
   - ISO 9001 certified
 ---
 
-![Bincai Folding Carton](/images/cat-fold-autolock.jpg)
+![Bincai Folding Carton](/images/cat-fold-cosmetic.jpg)
 
 Die-cut window folding carton with clear PET film for tea sachet display at retail by Guangdong Bincai Color Printing Co., Ltd. — a Diamond Member on Made-in-China.com with 22 years of manufacturing excellence (founded 2003). The precision die-cut window with optically clear PET film allows customers to see the tea sachets inside, building trust and conveying product quality at the point of sale. The food-grade SBS board and adhesive meet FDA and EU food contact standards. Produced on KBA 1050 4-color and Heidelberg 7+1 UV presses across our 18,000 sqm facility (10,000+8,000 smart factory) (2025 expansion). Daily output: 1.7 million color boxes + 220,000+ gift boxes.
 

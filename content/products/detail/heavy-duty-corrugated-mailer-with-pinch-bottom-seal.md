@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, BSCI"
 ---
 
-![Bincai Corrugated Mailers](/images/corrugated-mailer.jpg)
+![Bincai Corrugated Mailers](/images/cat-fold-mailer.jpg)
 
 ## Product Overview
 

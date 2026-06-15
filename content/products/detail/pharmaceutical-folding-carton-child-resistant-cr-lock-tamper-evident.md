@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, ISO 8317 Compliant"
 ---
 
-![Bincai Folding Cartons](/images/cat-fold-autolock.jpg)
+![Bincai Folding Cartons](/images/cat-fold-cosmetic.jpg)
 
 ## Product Overview
 

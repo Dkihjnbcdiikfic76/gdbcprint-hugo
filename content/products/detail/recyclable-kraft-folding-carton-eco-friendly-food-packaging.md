@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Recyclable Kraft Folding Carton Eco-Friendly Food Packaging](/images/cat-fold-autolock.jpg)
+![Recyclable Kraft Folding Carton Eco-Friendly Food Packaging](/images/cat-fold-cosmetic.jpg)
 
 ## Overview
 

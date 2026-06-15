@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Magnetic Closure Boxes](/images/magnetic-closure-box.jpg)
+![Bincai Magnetic Closure Boxes](/images/cat-rigid-others.jpg)
 
 Magnetic closure watch box with vegan leather wrap for luxury timepiece packaging — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). Designed for premium watch brands requiring an elevated unboxing experience. The exterior features a 0.8mm textured vegan leather wrap (PU-based, REACH-compliant) over 2.5mm rigid greyboard with precision French-fold corner wrapping. The hidden N42 neodymium magnetic flap delivers a satisfying tactile closure with ±1mm alignment tolerance. Inside, removable microsuede watch cushions accommodate dials 38–48mm, with a dedicated compartment for strap or bracelet storage. Produced on German-engineered KBA Rapida 105 4-color offset press (15,000 sheets/hour) and Heidelberg Speedmaster CD 102 7+1 UV press (inter-deck UV curing, single-pass CMYK+spot+coating) with Bobst SP 102 BMA foil stamping. Our 18,000 sqm Foshan facility delivers 220,000+ rigid boxes daily under ISO 9001:2015 quality management and FSC Chain-of-Custody certification.
 

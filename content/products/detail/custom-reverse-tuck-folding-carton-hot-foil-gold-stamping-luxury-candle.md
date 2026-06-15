@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001:2015, FSC Chain-of-Custody"
 ---
 
-![Custom Reverse-Tuck Folding Carton Hot Foil Gold Stamping Luxury Candle Packaging](/images/cat-fold-autolock.jpg)
+![Custom Reverse-Tuck Folding Carton Hot Foil Gold Stamping Luxury Candle Packaging](/images/cat-fold-cosmetic.jpg)
 
 ## Product Overview
 

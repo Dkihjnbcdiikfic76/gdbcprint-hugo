@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Magnetic Closure Cube-Shaped Gift Box with 360° Design Print — Premium Brand Packaging](/images/magnetic-closure-box.jpg)
+![Magnetic Closure Cube-Shaped Gift Box with 360° Design Print — Premium Brand Packaging](/images/cat-rigid-others.jpg)
 
 ## Product Overview
 

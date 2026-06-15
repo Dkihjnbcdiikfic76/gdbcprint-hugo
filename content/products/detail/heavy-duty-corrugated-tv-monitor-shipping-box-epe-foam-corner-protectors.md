@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, ISTA 3A"
 ---
 
-![Heavy Duty Corrugated TV Monitor Shipping Box](/images/corrugated-mailer.jpg)
+![Heavy Duty Corrugated TV Monitor Shipping Box](/images/cat-fold-mailer.jpg)
 
 ## Product Overview
 

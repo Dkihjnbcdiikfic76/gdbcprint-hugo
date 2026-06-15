@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Eco-Friendly Corrugated Shipping Box Custom Print](/images/corrugated-mailer.jpg)
+![Eco-Friendly Corrugated Shipping Box Custom Print](/images/cat-fold-mailer.jpg)
 
 ## Product Overview
 

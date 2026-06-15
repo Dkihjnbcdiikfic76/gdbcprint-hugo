@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Magnetic Closure Watch Box](/images/magnetic-closure-box.jpg)
+![Bincai Magnetic Closure Watch Box](/images/cat-rigid-others.jpg)
 
 Guangdong Bincai Color Printing Co., Ltd. presents the single-watch magnetic closure presentation box — a premium packaging solution for luxury timepiece brands, corporate recognition gifts, and high-end retail display. Manufactured in our 18,000 sqm Foshan facility with 22 years of rigid box expertise, this box combines a vegan leather-wrapped rigid board exterior with N52 neodymium magnetic closure and plush flocked velvet interior. Every detail — from ±0.15mm foil registration to 10,000-cycle hinge durability — reflects Bincai's commitment to precision craftsmanship under ISO 9001:2015 and FSC Chain-of-Custody certification.
 

@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Magnetic Closure Tea Set Gift Box](/images/magnetic-closure-box.jpg)
+![Magnetic Closure Tea Set Gift Box](/images/cat-rigid-others.jpg)
 
 ## Product Overview
 

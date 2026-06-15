@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001:2015, FSC Chain-of-Custody"
 ---
 
-![Bincai Magnetic Clamshell Presentation Box](/images/magnetic-closure-box.jpg)
+![Bincai Magnetic Clamshell Presentation Box](/images/cat-rigid-others.jpg)
 
 The clamshell magnetic closure presentation box with custom foam insert is the premium packaging standard for consumer electronics, delivering the unboxing experience that defines luxury tech brands. The clamshell design opens like a book to reveal the product nestled in a precision die-cut foam cradle, while concealed N52 neodymium magnets provide a satisfying, secure closure with an audible snap. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** (founded 2003, 22 years) at our 18,000 sqm Foshan facility on KBA 1050 4-color and Heidelberg 7+1 UV presses, with ISO 9001:2015 and FSC Chain-of-Custody certifications.
 

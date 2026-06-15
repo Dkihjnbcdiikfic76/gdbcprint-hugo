@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, ISO 15378 GMP"
 ---
 
-![Bincai Folding Cartons](/images/cat-fold-autolock.jpg)
+![Bincai Folding Cartons](/images/cat-fold-cosmetic.jpg)
 
 Reverse tuck folding carton with CMYK UV offset printing for pharmaceutical and healthcare packaging — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). Engineered for pharmaceutical products, medical devices, nutraceuticals, and healthcare supplements requiring tamper-evident, compliant packaging. The reverse tuck design features interlocking top and bottom flaps that resist accidental opening during transit while providing a professional unboxing experience. Constructed from 400gsm solid bleached sulphate (SBS) board with aqueous coating for scratch resistance and moisture protection. Produced on KBA Rapida 105 4-color offset press and Heidelberg Speedmaster CD 102 7+1 UV press with inter-deck UV curing. Our 18,000 sqm Foshan facility operates under ISO 9001:2015, ISO 15378 GMP for pharmaceutical packaging, and FSC Chain-of-Custody certification — ensuring compliance with global healthcare packaging standards.
 

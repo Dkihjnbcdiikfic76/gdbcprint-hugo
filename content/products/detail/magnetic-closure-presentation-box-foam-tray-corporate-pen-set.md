@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Magnetic Closure Boxes](/images/magnetic-closure-box.jpg)
+![Bincai Magnetic Closure Boxes](/images/cat-rigid-others.jpg)
 
 Custom magnetic closure presentation box with precision die-cut foam tray for corporate pen sets and executive gifts — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). The magnetic flip-lid design opens like a book to reveal a custom die-cut foam tray holding pens, USB drives, cufflinks, or other executive accessories in individual cavities. The satisfying magnetic snap and premium materials communicate brand quality from the first touch. Produced on KBA 1050 4-color and Heidelberg 7+1 UV presses across 18,000 sqm factory (10,000+8,000 smart factory) floor. Daily output 1.7 million boxes with 220+ skilled workers.
 

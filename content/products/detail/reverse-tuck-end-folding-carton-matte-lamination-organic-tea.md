@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, ISO 15378 GMP"
 ---
 
-![Bincai Folding Carton](/images/cat-fold-autolock.jpg)
+![Bincai Folding Carton](/images/cat-fold-cosmetic.jpg)
 
 ## Product Overview
 

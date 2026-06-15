@@ -11,7 +11,7 @@ params:
   material: "CCNB 350-450gsm / SBS C1S 15-24pt / Art Paper 250-450gsm / Aqueous Coating / Soft-Touch Lamination"
   certification: "ISO 9001, FSC, SGS"
 ---
-![Custom Printed Tea Paper Packaging Box](/images/cat-fold-autolock.jpg)
+![Custom Printed Tea Paper Packaging Box](/images/cat-fold-cosmetic.jpg)
 
 Aromatic-preserving folding carton for premium tea packaging — manufactured by **Guangdong Bincai Color Printing Co., Ltd.**, a 22-year packaging enterprise (founded 2003) serving tea brands across China and internationally. Available with optional aluminum foil inner lining for moisture and aroma barrier, this tea box protects delicate tea leaves from oxidation, UV degradation, and flavor loss. The straight-tuck or auto-lock bottom folding carton ships flat for economical freight and assembles in seconds. Full-color CMYK offset printing on KBA 1050 4-color press with Heidelberg 7+1 UV for metallic inks and spot coatings. Hot foil stamping in gold, silver, or copper creates the elevated aesthetic tea packaging demands. Produced across Bincai's 18,000 sqm dual factory (10,000+8,000 sqm smart factory) in Foshan, Guangdong. ISO 9001:2015 and FSC certified. Daily output 1.7 million boxes. MOQ 500 units.
 

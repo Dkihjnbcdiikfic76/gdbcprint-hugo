@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, GMP Pharma Zone, ASTM D3475 (CRC Option)"
 ---
 
-![Folding Carton](/images/cat-fold-health.jpg)
+![Folding Carton](/images/cat-fold-cosmetic.jpg)
 
 ## Product Overview
 

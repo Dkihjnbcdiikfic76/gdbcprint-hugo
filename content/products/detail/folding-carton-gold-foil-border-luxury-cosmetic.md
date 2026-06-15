@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Folding Cartons](/images/cat-fold-autolock.jpg)
+![Bincai Folding Cartons](/images/cat-fold-cosmetic.jpg)
 
 Luxury folding carton with a continuous gold foil stamped border and soft-touch matte finish — the signature packaging for premium cosmetics, fragrances, and skincare. Designed and manufactured by **Guangdong Bincai Color Printing Co., Ltd.** (founded 2003, 22 years), this carton delivers immediate luxury perception through the contrast of metallic gold precision against a velvety matte surface. The gold foil border frames the carton on all visible panels, creating a cohesive visual identity whether the box is faced front, side, or top on retail shelves. The soft-touch coating provides a tactile, fingerprint-resistant surface that invites handling — a key differentiator in cosmetics where customers pick up and examine packaging before purchase. Available in reverse-tuck, straight-tuck, or auto-lock bottom configurations for assembly line efficiency. Produced on Heidelberg 7+1 UV and KBA 1050 offset presses with integrated Heidelberg cylinder foil stamping across 18,000 sqm (10,000+8,000 smart factory) of factory space in Foshan, Guangdong. Daily output capacity of 1.7 million boxes (post-2025 expansion). ISO 9001:2015 and FSC Chain-of-Custody certified.
 

@@ -18,7 +18,7 @@ tags:
   - ISO 9001 certified
 ---
 
-![Bincai Corrugated Mailer](/images/corrugated-mailer.jpg)
+![Bincai Corrugated Mailer](/images/cat-fold-mailer.jpg)
 
 White kraft-faced corrugated e-commerce shipping mailer with integrated tear strip and self-seal adhesive closure by Guangdong Bincai Color Printing Co., Ltd. — a Diamond Member on Made-in-China.com with 22 years of manufacturing excellence (founded 2003). The dual perforated tear strips enable frustration-free opening without scissors or knives, while the self-seal adhesive strip eliminates the need for packing tape — reducing packaging time by 40% in fulfillment operations. Produced on KBA 1050 4-color and Heidelberg 7+1 UV presses across our 18,000 sqm facility (10,000+8,000 smart factory) (2025 expansion). Daily output: 1.7 million color boxes + 220,000+ gift boxes.
 

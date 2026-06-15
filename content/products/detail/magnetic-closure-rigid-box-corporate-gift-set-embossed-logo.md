@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Magnetic Closure Boxes](/images/magnetic-closure-box.jpg)
+![Bincai Magnetic Closure Boxes](/images/cat-rigid-others.jpg)
 
 Custom magnetic closure rigid box for corporate gift sets — engineered by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging manufacturer with 22 years of industry expertise (founded 2003), headquartered in Foshan, the heart of the Pearl River Delta manufacturing corridor. Built for corporate promotions, executive gifts, and premium brand giveaways, this rigid box features a substantial 2.5mm greyboard construction with embossed company branding and magnetic flip-cover closure. All printing runs on a **KBA Rapida 105 4-color** offset press and a **Heidelberg Speedmaster CD 102 7+1 UV** press, while die-cutting is handled by a **Bobst Novacut 106-E** and corrugated substrates feed through a **BHS 2.5m corrugator line**. These machines operate across an 18,000 sqm factory campus (10,000 sqm main facility + 8,000 sqm smart factory expansion), staffed by **350+ skilled workers** delivering a **1.7 million box daily output**. Certified to **ISO 9001:2015**, **FSC Chain-of-Custody**, and **Sedex SMETA** ethical audit standards.
 
