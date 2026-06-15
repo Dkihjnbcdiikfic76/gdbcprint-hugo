@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, SGS"
 ---
 
-![Corrugated Subscription Box — Tear Strip + Full-Color Flexo for E-Commerce Monthly Kits](/images/cat-fold-mailer.jpg)
+![Corrugated Subscription Box — Tear Strip + Full-Color Flexo for E-Commerce Monthly Kits](/images/corrugated-mailer.jpg)
 
 Corrugated subscription box with integrated tear strip and full-color flexo print — manufactured by **Guangdong Bincai Color Printing Co., Ltd.** Purpose-built for e-commerce subscription and DTC (direct-to-consumer) monthly kit fulfillment, this B-flute corrugated box combines protective shipping strength with a premium branded unboxing experience. The tear strip enables easy, tool-free opening while the double-sided self-seal strip allows customers to reseal and return items. Full-color flexographic printing on Kraft or white-top liner delivers vibrant brand graphics at cost-effective volumes. Produced across our 18,000 sqm factory with 1.7M daily output capacity.
 

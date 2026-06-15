@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, SGS"
 ---
 
-![Rigid Gift Box](/images/cat-rigid-cosmetic.jpg)
+![Two-Piece Rigid Gift Box](/images/cat-rigid-others.jpg)
 
 ## Product Overview
 

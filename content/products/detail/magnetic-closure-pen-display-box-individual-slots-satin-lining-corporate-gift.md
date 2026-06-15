@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, SGS"
 ---
 
-![Magnetic Closure Pen Display Gift Box — Individual Slots + Satin Lining](/images/cat-rigid-others.jpg)
+![Magnetic Closure Pen Display Gift Box — Individual Slots + Satin Lining](/images/magnetic-closure-box.jpg)
 
 Magnetic closure pen display gift box with individual pen slots and premium satin lining for corporate gifts and executive stationery — manufactured by **Guangdong Bincai Color Printing Co., Ltd.** This elegant pen presentation box features a magnetic flap closure that opens to reveal one or two pens secured in satin-lined grooves or elastic straps. The exterior can be finished in matte art paper, leatherette, or textured linen with gold foil logo debossing for a distinguished corporate identity. An optional card slot inside the lid holds a certificate of authenticity or personal message. Produced on KBA 1050 4-color and Heidelberg 7+1 UV presses across our 18,000 sqm factory.
 

@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, SGS"
 ---
 
-![Magnetic Closure Shoe Box — Die-Cut Viewing Window + Satin Ribbon Pull](/images/cat-magnetic-closure.jpg)
+![Magnetic Closure Shoe Box — Die-Cut Viewing Window + Satin Ribbon Pull](/images/magnetic-closure-box.jpg)
 
 Magnetic closure shoe box with die-cut viewing window and satin ribbon pull — manufactured by **Guangdong Bincai Color Printing Co., Ltd.** Designed for premium footwear brands, sneaker retailers, and direct-to-consumer shoe companies seeking an elevated unboxing experience. The die-cut PET window allows customers to view the shoes without opening the box, while the satin ribbon pull provides an elegant opening mechanism. The magnetic closure lid snaps shut securely and the rigid board construction protects footwear during retail display and shipping. Produced across our 18,000 sqm factory with 1.7M daily output capacity.
 
