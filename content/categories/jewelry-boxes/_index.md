@@ -1,0 +1,5 @@
+---
+title: "Jewelry Boxes"
+description: "Custom jewelry boxes manufactured by Bincai. Velvet flocking, PU leatherette, satin lining, ring rolls, necklace hooks, earring strips, bracelet compartments, magnetic flip lids, drawer slides, antique brass lock-and-key hardware. KBA Rapida 1050 4-color + Heidelberg 7+1 UV offset printing. ISO 9001:2015 & FSC certified, CPSIA compliant. MOQ 300–500. Free samples. 22 years experience, 18,000 sqm factory. Serving fine jewelry, bridal, watch, and luxury accessory brands from Foshan, China."
+keywords: "jewelry box, velvet jewelry box, PU leatherette box, ring display box, necklace box, bracelet box, drawer jewelry box, lock and key jewelry box, jewelry packaging manufacturer China, Bincai jewelry box, ISO 9001 FSC jewelry box, CPSIA compliant jewelry box, KBA Heidelberg jewelry packaging, 22 years packaging factory, Foshan jewelry box supplier, wholesale jewelry box, OEM jewelry packaging, luxury jewelry display box, bridal jewelry box, Diamond Member Made-in-China"
+---

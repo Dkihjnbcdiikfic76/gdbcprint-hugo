@@ -2,7 +2,7 @@
 title: "White Corrugated E-Commerce Box with Tear Strip Subscription"
 date: 2026-06-10
 draft: false
-description: "White corrugated e-commerce box with tear strip for subscription brands. B/E/BC flute. ISTA 1A tested. FBA sizing compliant. ISO 9001 & FSC. 1.7M daily capacity. Free samples."
+description: "White corrugated e-commerce box with tear strip for subscription and DTC brands — custom manufactured by Guangdong Bincai Color Printing Co., Ltd. B/E/BC flute options, ISTA 1A drop-tested, FBA sizing compliant. BHS 2.5m corrugator, Bobst SP 102 BMA die-cutter, KBA 1050 4-color flexo printing. ISO 9001:2015 & FSC Chain-of-Custody certified. 18,000 sqm factory (10,000+8,000 smart factory, 2025 expansion). 22 years manufacturing, 1.7M boxes daily. MOQ 500, free pre-production samples 5-7 days. Serving e-commerce brands from Foshan, China."
 keywords: "white corrugated e-commerce box, tear strip mailer box, subscription box packaging, FBA compliant corrugated box, e-flute mailer China, custom printed corrugated box, self-sealing shipping box, ISTA tested mailer, eco-friendly e-commerce packaging, Bincai corrugated manufacturer"
 categories: ["corrugated-mailers"]
 params:
