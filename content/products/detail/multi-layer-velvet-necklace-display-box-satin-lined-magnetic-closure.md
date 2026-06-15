@@ -2,8 +2,8 @@
 title: "Multi-Layer Velvet Necklace Display Box — Satin-Lined Compartments + Magnetic Closure"
 date: 2026-06-15
 draft: false
-description: "Multi-layer velvet necklace display box with satin-lined compartments and magnetic closure by Guangdong Bincai Color Printing — Diamond Member on Made-in-China.com. ISO 9001 FSC certified, 22 years experience, 18,000 sqm factory, 1.7M daily output. Velvet-wrapped rigid board, satin lining, magnetic flap closure, custom foil stamping."
-keywords: "velvet necklace display box, multi-layer jewelry box, satin lined jewelry box, magnetic closure jewelry box, luxury necklace packaging, Bincai, Guangdong jewelry box factory, 22 years experience, ISO 9001 certified, FSC certified, 18,000 sqm factory, 1.7M daily output, OEM jewelry box China, Diamond Member MIC, velvet necklace display, custom jewelry packaging"
+description: "Multi-layer velvet necklace display box with satin-lined compartments and magnetic flap closure by Guangdong Bincai Color Printing — Diamond Member on Made-in-China.com. ISO 9001 FSC certified, 22 years experience (since 2003), 18,000 sqm dual factory (10,000+8,000 sqm smart factory), 1.7M daily output. KBA 1050 4-color + Heidelberg 7+1 UV offset press, Bobst SP 102 BMA hot foil stamping (gold/silver/rose gold). 2mm rigid greyboard wrapped in electrostatic flocked velvet, 210T satin-lined compartments, N35 neodymium magnetic flap closure (1,000+ cycle rated). Optional LED strip lighting with CR2032 battery (auto-on when opened), custom die-cut necklace holders, certificate slot. MOQ 300-500, free pre-production samples. OEM jewelry box China, luxury necklace display, velvet jewelry packaging, custom jewelry gift box."
+keywords: "velvet necklace display box, multi-layer jewelry box, satin lined jewelry box, magnetic closure jewelry box, luxury necklace packaging, velvet flocked box, gold foil jewelry box, jewelry display case, necklace presentation box, pendant display box, bridal jewelry packaging, Bincai, Guangdong Bincai Color Printing, Guangdong jewelry box factory, 22 years experience, Foshan packaging factory, ISO 9001 certified box, FSC certified packaging, ISO 9001 FSC box, 18,000 sqm factory, 1.7M daily output, OEM jewelry box China, Diamond Member MIC, velvet necklace display, custom jewelry packaging, KBA 1050 offset box, Heidelberg 7+1 UV, Bobst foil stamping box, electrostatic flocking box, N35 magnetic box, satin lined display box, jewelry retail packaging, luxury brand packaging, MOQ 300 jewelry box, free sample jewelry box, LED jewelry display, hot foil jewelry box, necklace gift packaging"
 categories: ["jewelry-boxes"]
 params:
   moq: "300-500"
@@ -44,6 +44,33 @@ Multi-layer velvet necklace display box with satin-lined compartments and magnet
 | Assembly | Hand-finished wrapping + machine-assisted gluing, 10-point QA per unit |
 | Foil | Gold/silver/rose gold hot stamp, heated brass die, 120-140°C, dwell time 0.5-1.5s |
 | QC | Visual AQL 2.5 Level II, flap open/close 500+ cycles, foil adhesion tape test, dimensional ±1mm |
+
+## Seven-Stage Quality Control Gates
+
+| Gate | Stage | Inspection | Defect Trigger |
+|---|---|---|---|
+| **G1** | Raw Material Incoming | Greyboard caliper 2.0mm ±0.15mm, velvet roll color ΔE ≤1.5, satin fabric GSM ±5%, magnet pull force 8-12N, FSC cert verification | Board caliper >±0.2mm → batch reject; magnet force <7N → supplier QC |
+| **G2** | Board Cutting & Wrapping Preparation | Board dimensions ±0.5mm, wrapping paper squareness 90° ±0.5°, adhesive coverage 100% on wrap paper | Board warp >1mm/100mm → flatten/reject; adhesive gaps → roller check |
+| **G3** | Printing & Foil Stamping (Heidelberg 7+1 UV + Bobst SP 102 BMA) | Foil transfer completeness (10× magnification), Heidelberg color ΔE ≤2.0, foil registration ±0.3mm, hot stamp temperature 120-140°C ±2°C | Foil voids >0.5mm² → die heat check; registration >0.5mm → setup correction |
+| **G4** | Velvet Flocking & Surface | Electrostatic flock density ≥80 fibers/mm², color match ΔE ≤1.5, no bald spots, adhesive coverage uniformity, pile height 0.8-1.2mm | Shedding >5 fibers/cm² (tape test) → strip & re-flock; bald spot → reject |
+| **G5** | Die-Cutting & Insert Fabrication | Insert fitment ±0.5mm, satin wrapping smooth (no wrinkles), die-cut edges clean (no fiber tear), compartment depth ±0.3mm | Insert fitment >1mm → die adjustment; satin wrinkle → re-wrap |
+| **G6** | Assembly & Magnet Integration | Magnetic flap alignment ±0.5mm, closure force 8-12N per pair, flap open/close 500 cycles min, velvet seam alignment ±0.3mm, ribbon/accessory attachment secure | Magnet misalignment >1mm → jig recalibration; closure force <7N → magnet replacement |
+| **G7** | Final QC & Packing | ISTA 1A drop test (sampling), visual AQL 2.5 Level II under 1000 lux, LED function test (if equipped), foil adhesion tape test, individual poly bag + gift-ready inspection | Drop failure → batch quarantine; visual defect rate >4% → 100% inspection |
+
+## Sustainability & Compliance
+
+| Standard | Scope | Status |
+|---|---|---|
+| **ISO 9001:2015** | Quality management system — design, production, delivery | Certified since 2009 |
+| **FSC Chain-of-Custody** | Fiber traceability for paperboard components | FSC-C147294 |
+| **REACH** | EU chemical safety regulation — adhesives, dyes, flocking | Compliant |
+| **RoHS** | Hazardous substance restriction — electronic LED components | Compliant |
+| **EN 71-3** | Toy safety — migration of heavy metals (child-safe for jewelry often gifted to minors) | Compliant |
+| **ASTM F963** | Toy safety standard — US CPSC requirements | Compliant |
+| **ASTM D3359** | Adhesion cross-hatch tape test (velvet flocking to board) | 4B minimum (≤5% removal) |
+| **Soy-Based Ink** | VOC ≤0.5%, heavy-metal free — used on paper wraps | Standard |
+| **Magnet Safety** | N35 neodymium — embedded in board layers, not accessible; ASTM F963 small parts | Compliant |
+| **ISTA 1A** | Packaged-product drop/vibration testing | In-house certified lab |
 
 ## Why Choose Bincai for Jewelry Boxes
 | Our Advantage | What It Means for You |
