@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Magnetic Closure Gift Box with Velvet Insert](/images/magnetic-closure-boxes.jpg)
+![Magnetic Closure Gift Box with Velvet Insert](/images/cat-rigid-others.jpg)
 
 ## Product Overview
 

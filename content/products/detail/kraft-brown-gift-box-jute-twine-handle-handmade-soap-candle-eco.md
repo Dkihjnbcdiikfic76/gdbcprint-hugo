@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001:2015, FSC Chain-of-Custody, Sedex SMETA"
 ---
 
-![Bincai Kraft Eco Gift Box with Jute Handle](/images/kraft-eco-box.jpg)
+![Bincai Kraft Eco Gift Box with Jute Handle](/images/cat-paper-bag.jpg)
 
 The kraft brown gift box with jute twine handle represents Bincai's commitment to sustainable packaging without compromising on structural integrity or brand presentation. Constructed from 350gsm FSC-certified kraft paperboard with water-based PVA adhesive and printed with soy-based inks, this box is 100% recyclable in standard paper streams and fully biodegradable. The natural jute twine handle — sourced from renewable jute fiber — provides both functional carrying convenience and a tactile, rustic aesthetic that resonates with eco-conscious consumers. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** (founded 2003, 22 years) at our ISO 9001:2015 and FSC Chain-of-Custody certified 18,000 sqm Foshan facility.
 

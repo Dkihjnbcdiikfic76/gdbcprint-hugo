@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Christmas Gift Boxes](/images/cat-rigid-others.jpg)
+![Bincai Christmas Gift Boxes](/images/cat-fold-gift.jpg)
 
 The Christmas Snowflake Window Gift Box with LED Light combines festive aesthetics with functional illumination, manufactured by Guangdong Bincai Color Printing Co., Ltd. Founded in 2003 with 22 years of paper packaging expertise, Bincai operates an 18,000 sqm dual-factory complex in Foshan's Pearl River Delta manufacturing hub. Our KBA Rapida 105 4-color offset press and Heidelberg Speedmaster CD 102 7+1 UV press produce over 1.7 million boxes daily, backed by ISO 9001:2015 quality management, FSC Chain-of-Custody certification, and Sedex SMETA social compliance. This box features a precision die-cut snowflake window, warm white LED illumination powered by a user-replaceable CR2032 battery module, and a magnetic snap-shut lid that creates a premium unboxing experience for holiday gifting.
 

@@ -18,7 +18,7 @@ tags:
   - organic skincare
 ---
 
-![Bincai Kraft Eco Box](/images/kraft-eco-box.jpg)
+![Bincai Kraft Eco Box](/images/cat-paper-bag.jpg)
 
 Eco-friendly kraft paper folding carton printed with soy-based inks for organic skincare and natural cosmetics — manufactured by **Guangdong Bincai Color Printing Co., Ltd.**, a Diamond Member on Made-in-China.com with 22 years of sustainable packaging expertise (founded 2003). Every element is chosen for environmental integrity: FSC-certified recycled kraft board (300-450gsm), soy-based CMYK inks (low-VOC, renewable), water-based aqueous coating (plastic-free), and compostable starch-based adhesive. Optional PLA (polylactic acid) window film — plant-derived and industrially compostable to EN 13432 — replaces traditional petroleum-based PET windows. Produced on KBA 1050 4-color and Heidelberg 7+1 UV presses with dedicated eco-ink lines across our 18,000 sqm dual-factory (10,000+8,000 sqm smart factory, 2025 expansion). OK Compost and EN 13432 certified for industrial composting.
 

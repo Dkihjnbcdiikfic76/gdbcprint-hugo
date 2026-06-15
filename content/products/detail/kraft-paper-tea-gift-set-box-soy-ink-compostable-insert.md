@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Kraft Eco Box](/images/kraft-eco-box.jpg)
+![Bincai Kraft Eco Box](/images/cat-paper-bag.jpg)
 
 Guangdong Bincai Color Printing Co., Ltd. manufactures this 100% recyclable kraft paper tea gift set box for eco-conscious tea brands. Every component — from the FSC-certified kraft board exterior to the compostable molded pulp insert tray — is plastic-free and fully recyclable in standard paper streams. Soy-based inks print directly onto the kraft surface using our KBA Rapida 105 4-color offset press, achieving rich, natural-looking graphics without petroleum-based solvents. The rigid-box construction (2.0mm greyboard + kraft wrap) provides premium shelf presence while the molded pulp insert cradles 6-12 tea sachets or 2-3 loose-leaf tins securely. Manufactured in our 18,000 sqm Foshan facility, each box undergoes Seven-Stage QC with ISO 9001:2015 and FSC Chain-of-Custody certification confirming every shipment's traceable origin. Daily output of 1.7 million boxes supports bulk orders with consistent quality.
 

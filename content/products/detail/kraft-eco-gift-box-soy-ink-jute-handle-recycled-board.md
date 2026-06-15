@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC Recycled"
 ---
 
-![Kraft Eco Box](/images/kraft-eco-box.jpg)
+![Kraft Eco Box](/images/cat-paper-bag.jpg)
 
 ## Product Overview
 

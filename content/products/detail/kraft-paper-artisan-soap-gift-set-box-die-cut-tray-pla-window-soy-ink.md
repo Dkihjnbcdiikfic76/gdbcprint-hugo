@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Kraft Artisan Soap Gift Box](/images/kraft-eco-box.jpg)
+![Bincai Kraft Artisan Soap Gift Box](/images/cat-paper-bag.jpg)
 
 The kraft paper artisan soap gift set box delivers uncompromising sustainability without sacrificing the premium unboxing experience that handmade soap brands depend on. Manufactured by Guangdong Bincai Color Printing Co., Ltd. — an ISO 9001:2015 and FSC-certified packaging specialist with 22 years of export manufacturing in Foshan — this box pairs a rigid-feel recycled kraft board construction with a crystal-clear compostable PLA window, die-cut interior tray, and soy-based ink printing.
 

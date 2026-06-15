@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, OK Compost HOME, Seed Paper Biodegradable"
 ---
 
-![Bamboo-Fiber Kraft Eco Gift Box with Seed Paper Tag Biodegradable](/images/kraft-eco-box.jpg)
+![Bamboo-Fiber Kraft Eco Gift Box with Seed Paper Tag Biodegradable](/images/cat-paper-bag.jpg)
 
 Innovative bamboo-fiber kraft eco gift box — manufactured by **Guangdong Bincai Color Printing Co., Ltd.**, a Diamond Member on Made-in-China.com since 2015, Audited Supplier with 22 years of experience. The board combines 30% fast-renewable bamboo fiber with 70% post-consumer recycled (PCR) content, printed with soy-based inks for full biodegradability. The crowning feature is a detachable plantable seed paper hang tag embedded with wildflower or herb seeds — after unboxing, the recipient plants the tag and grows flowers, creating a memorable circular-economy brand moment. Every component is home compostable within 90–180 days. Ideal for eco-conscious beauty, wellness, organic food, and sustainable fashion brands that want packaging to match their values. Produced on KBA 1050 4-color and Heidelberg 7+1 UV presses across 18,000 sqm factory.
 

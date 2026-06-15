@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Eco Kraft Box](/images/kraft-eco-box.jpg)
+![Eco Kraft Box](/images/cat-paper-bag.jpg)
 
 ## Product Overview
 

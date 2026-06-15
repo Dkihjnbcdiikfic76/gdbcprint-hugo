@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001:2015, FSC Chain-of-Custody, OK Biodegradable"
 ---
 
-![Brown Kraft Folding Box with Jute Handle](/images/kraft-eco-box.jpg)
+![Brown Kraft Folding Box with Jute Handle](/images/cat-paper-bag.jpg)
 
 ## Product Overview
 

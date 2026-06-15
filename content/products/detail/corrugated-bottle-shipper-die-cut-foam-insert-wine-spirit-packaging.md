@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, ISTA 3A"
 ---
 
-![Bincai Corrugated Mailers](/images/corrugated-mailer.jpg)
+![Bincai Corrugated Mailers](/images/cat-fold-mailer.jpg)
 
 Corrugated bottle shipper with die-cut foam insert for wine and spirit packaging — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). Engineered for wineries, distilleries, and beverage e-commerce requiring ISTA 3A-certified single-bottle shipping. The double-wall B/C-flute corrugated construction (6.5mm combined thickness) provides crush resistance for transit while the precision die-cut EPE foam insert (20mm density) suspends the bottle neck and base, absorbing impact from all directions. Self-locking bottom eliminates tape, and the integrated tear strip allows recipients to open without tools. Tested and certified for 750ml wine bottles (Bordeaux, Burgundy, Champagne) and 700ml spirit bottles (whiskey, vodka, gin). Produced on automated corrugated converting lines at our 18,000 sqm Foshan facility with ISTA 3A drop-test validation. Daily output: 1.5 million boxes under ISO 9001:2015 and FSC Chain-of-Custody certification.
 

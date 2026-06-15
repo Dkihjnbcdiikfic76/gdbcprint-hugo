@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, ISTA 7D, GDP-Ready"
 ---
 
-![Bincai Corrugated Mailers](/images/corrugated-mailer.jpg)
+![Bincai Corrugated Mailers](/images/cat-fold-mailer.jpg)
 
 Thermal-lined corrugated mailer box engineered for cold chain pharmaceutical and biotech shipping. Double-wall BC-flute construction with reflective metallized PET thermal liner, water-resistant adhesive bonding, tamper-evident tear strip, and integrated gel-pack compartments. ISTA 7D summer/winter thermal profile tested for 48-72 hours at 2-8°C. Manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). 18,000 sqm integrated factory with KBA 1050 4-color, Heidelberg 7+1 UV, and Bobst automatic die-cutters. Daily output 1.7 million boxes.
 

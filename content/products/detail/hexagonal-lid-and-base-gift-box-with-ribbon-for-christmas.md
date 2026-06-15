@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, SGS"
 ---
 
-![Hexagonal Lid and Base Gift Box with Ribbon for Christmas](/images/cat-rigid-others.jpg)
+![Hexagonal Lid and Base Gift Box with Ribbon for Christmas](/images/cat-fold-gift.jpg)
 
 ## Product Overview
 

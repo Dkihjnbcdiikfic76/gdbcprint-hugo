@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Kraft Eco Boxes](/images/kraft-eco-box.jpg)
+![Bincai Kraft Eco Boxes](/images/cat-paper-bag.jpg)
 
 The FSC-Certified Kraft Paper Gift Box with Seed-Embedded Hang Tag represents the next generation of sustainable packaging — where every element tells an environmental story. Manufactured by Guangdong Bincai Color Printing Co., Ltd. at our 18,000 sqm Foshan facility, this box is built from 100% recycled kraft board (350gsm) with soy-based ink printing and a natural jute twine handle. The signature feature is a plantable seed-embedded hang tag — after unboxing, your customer plants the tag and grows wildflowers, transforming packaging waste into living beauty. ISO 9001:2015 quality systems and FSC Chain-of-Custody certification ensure every box meets rigorous environmental and manufacturing standards. Produced on KBA 1050 4-color and Heidelberg 7+1 UV presses with 1.7M daily box capacity.
 

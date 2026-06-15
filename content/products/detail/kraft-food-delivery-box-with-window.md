@@ -11,7 +11,7 @@ params:
   material: "Recycled Kraft / PET Window"
   certification: "ISO 9001, FSC"
 ---
-![Kraft Eco Box](/images/kraft-eco-box.jpg)
+![Kraft Eco Box](/images/cat-paper-bag.jpg)
 
 ## Product Overview
 

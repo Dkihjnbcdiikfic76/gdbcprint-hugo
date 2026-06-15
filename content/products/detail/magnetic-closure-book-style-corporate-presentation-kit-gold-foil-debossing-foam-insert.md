@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Magnetic Closure Boxes — Corporate Presentation Kit](/images/magnetic-closure-box.jpg)
+![Bincai Magnetic Closure Boxes — Corporate Presentation Kit](/images/cat-rigid-others.jpg)
 
 The **Magnetic Closure Book-Style Corporate Presentation Kit** transforms routine business materials into a memorable brand experience. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** (founded 2003, 22 years experience) at our 18,000 sqm dual-factory facility in Foshan, this kit is designed to mirror the tactile experience of opening a fine hardcover book — the magnetic closure releases with a satisfying soft snap, the heavy board cover swings open on a fabric-wrapped hinge, and the interior reveals a precisely die-cut foam tray showcasing your brand assets. Produced on our **KBA Rapida 1050 4-color offset** and **Heidelberg Speedmaster CD 102 7+1 UV** presses with 220,000+ rigid boxes daily output, we deliver presentation kits that elevate brand perception from the first touch.
 

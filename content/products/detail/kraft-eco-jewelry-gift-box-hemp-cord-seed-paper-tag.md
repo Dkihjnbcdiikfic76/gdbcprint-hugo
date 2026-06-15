@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, SGS"
 ---
 
-![Kraft Eco Jewelry Gift Box — Hemp Cord Tie + Seed Paper Hang Tag](/images/kraft-eco-box.jpg)
+![Kraft Eco Jewelry Gift Box — Hemp Cord Tie + Seed Paper Hang Tag](/images/cat-paper-bag.jpg)
 
 Kraft eco jewelry gift box with hemp cord tie and seed paper hang tag — manufactured by **Guangdong Bincai Color Printing Co., Ltd.** This 100% post-consumer recycled kraft board jewelry box combines rustic charm with genuine sustainability. The hemp cord tie closure replaces synthetic ribbons, while the attached seed paper hang tag is embedded with wildflower seeds — customers can plant it to grow flowers. Soy-based inks print custom branding without petroleum-derived solvents. The natural kraft aesthetic is ideal for artisan jewelers, eco-conscious brands, and brands communicating authentic sustainability values. Produced on our KBA Rapida 1050 press and Bobst SP 102 BMA die-cutter across our 18,000 sqm factory with 1.7M daily output capacity.
 

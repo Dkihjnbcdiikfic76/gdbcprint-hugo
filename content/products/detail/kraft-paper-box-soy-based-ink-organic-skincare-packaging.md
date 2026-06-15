@@ -19,7 +19,7 @@ tags:
   - ISO 9001 certified
 ---
 
-![Bincai Kraft Eco Box for Organic Skincare](/images/kraft-eco-box.jpg)
+![Bincai Kraft Eco Box for Organic Skincare](/images/cat-paper-bag.jpg)
 
 Fully recyclable kraft paper box with soy-based ink printing — purpose-designed for organic skincare, clean beauty, and sustainable wellness brands. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.**, ISO 9001:2015 and FSC Chain-of-Custody certified. Every component is chosen for end-of-life recyclability: FSC-certified unbleached kraft board, vegetable-based soy ink (VOC-free, unlike petroleum inks), water-based adhesive, and an optional PLA (polylactic acid) biodegradable window film derived from corn starch. No plastic lamination — the natural uncoated kraft surface communicates eco-authenticity to the growing segment of sustainability-conscious consumers (73% of Gen Z and Millennials willing to pay more for sustainable packaging, per First Insight). 18,000 sqm factory in Foshan, Guangdong. 22 years of manufacturing experience.
 

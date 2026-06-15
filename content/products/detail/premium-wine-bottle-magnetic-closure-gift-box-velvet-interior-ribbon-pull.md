@@ -18,7 +18,7 @@ tags:
   - ISO 9001 certified
 ---
 
-![Bincai Magnetic Closure Box](/images/magnetic-closure-boxes.jpg)
+![Bincai Magnetic Closure Box](/images/cat-rigid-others.jpg)
 
 Premium wine bottle magnetic closure gift box with plush velvet interior and elegant satin ribbon pull tab by Guangdong Bincai Color Printing Co., Ltd. (founded 2003). Designed for single or dual wine bottles, champagne, premium spirits, and craft beverages. The magnetic snap-shut closure creates a premium unboxing experience while the velvet-lined interior cradles and protects the bottle. Gold foil logo stamping and UV spot varnish accents on Heidelberg 7+1 UV press. Daily output: 1.7 million color boxes + 220,000+ gift boxes.
 

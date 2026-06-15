@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Kraft Eco Boxes](/images/kraft-eco-box.jpg)
+![Bincai Kraft Eco Boxes](/images/cat-paper-bag.jpg)
 
 Kraft eco-friendly baby shower favor box set with soy-based ink custom printing — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). Made from 100% recycled kraft paperboard and printed with soy-based inks, these favor boxes are fully biodegradable and compostable — the perfect choice for eco-conscious celebrations. The natural kraft finish with jute twine closure creates a rustic, handcrafted aesthetic that resonates with today's sustainability-minded consumers. KBA 1050 4-color and Heidelberg 7+1 UV presses deliver precision printing across 18,000 sqm factory (10,000+8,000 smart factory). Daily output 1.7 million boxes.
 

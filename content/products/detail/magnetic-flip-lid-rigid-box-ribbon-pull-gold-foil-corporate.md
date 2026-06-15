@@ -18,7 +18,7 @@ tags:
   - FSC certified
 ---
 
-![Bincai Magnetic Flip-Lid Box](/images/magnetic-closure-boxes.jpg)
+![Bincai Magnetic Flip-Lid Box](/images/cat-rigid-others.jpg)
 
 Premium magnetic flip-lid rigid box with satin ribbon pull and hot gold foil logo — manufactured by **Guangdong Bincai Color Printing Co., Ltd.**, a Diamond Member on Made-in-China.com since 2015 with 22 years of manufacturing excellence (founded 2003). The magnetic closure delivers a satisfying, weighty snap that signals luxury before the box is even opened. The satin ribbon pull tab provides effortless one-finger opening. Built on 1600-2000gsm greyboard wrapped in custom-printed art paper, with N52 neodymium magnets recessed into the lid and base for flush alignment. Hot foil stamping in gold, silver, rose gold, or holographic finishes creates an indelible brand impression. Produced on KBA 1050 4-color and Heidelberg 7+1 UV presses across our 18,000 sqm dual-factory (10,000+8,000 sqm smart factory, 2025 expansion). Daily output: 220,000+ rigid gift boxes.
 

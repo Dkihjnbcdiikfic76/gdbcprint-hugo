@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Magnetic Closure Boxes](/images/magnetic-closure-boxes.jpg)
+![Bincai Magnetic Closure Boxes](/images/cat-rigid-others.jpg)
 
 Magnetic closure premium whiskey decanter gift set box with satin-lined interior and custom die-cut foam insert — crafted for luxury spirits brands, limited-edition releases, and high-end corporate gifting. The magnetic closure provides a satisfying, secure close while maintaining a clean, uninterrupted exterior surface for premium branding. Inside, a precision CNC-cut EVA foam insert cradles the decanter and accompanying glasses, while the satin-lined interior creates a gallery-like presentation. Manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). KBA 1050 4-color and Heidelberg 7+1 UV presses produce gallery-quality printing across an 18,000 sqm dual-factory campus. Daily output 1.7 million boxes.
 

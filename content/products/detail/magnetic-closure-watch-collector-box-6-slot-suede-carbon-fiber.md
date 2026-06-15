@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Magnetic Closure Watch Collector Box](/images/magnetic-closure-boxes.jpg)
+![Magnetic Closure Watch Collector Box](/images/cat-rigid-others.jpg)
 
 ## Product Overview
 

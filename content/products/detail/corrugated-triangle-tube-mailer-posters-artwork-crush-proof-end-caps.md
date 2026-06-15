@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Corrugated Triangle Tube Mailer](/images/corrugated-mailer.jpg)
+![Corrugated Triangle Tube Mailer](/images/cat-fold-mailer.jpg)
 
 Corrugated triangle tube mailer for posters, artwork, and large-format prints — designed and manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience. The triangular prism design provides superior crush resistance compared to traditional round tubes — three reinforced edges distribute impact forces, and the rigid end caps lock into position to prevent telescoping during transit. Constructed from 200lb test ECT-32 B-flute corrugated board with kraft or white-top liner, each mailer features a self-sealing adhesive strip (peel-and-seal) and a perforated tear strip for frustration-free recipient opening. Ideal for e-commerce poster sellers, art galleries, photographers, architects, and print-on-demand businesses. Produced on KBA Rapida 105 4-color and Heidelberg Speedmaster CD 102 7+1 UV presses at our 18,000 sqm Foshan facility under ISO 9001:2015 and FSC Chain-of-Custody certification.
 

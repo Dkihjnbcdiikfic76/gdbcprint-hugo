@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Kraft Eco Boxes](/images/kraft-eco-box.jpg)
+![Bincai Kraft Eco Boxes](/images/cat-paper-bag.jpg)
 
 Kraft paper eco-friendly soap gift set box with recycled cardboard tray and natural jute twine handle — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). Designed for artisan soap makers, natural skincare brands, and eco-conscious gift companies, this box combines the warm, earthy aesthetic of unbleached kraft paper with a functional recycled cardboard tray that holds 2-6 soap bars or bath products securely. The jute twine handle adds a rustic, handmade touch that resonates with consumers seeking plastic-free, sustainable packaging. KBA 1050 4-color and Heidelberg 7+1 UV presses deliver natural-tone printing across 18,000 sqm factory. Daily output 1.7 million boxes.
 

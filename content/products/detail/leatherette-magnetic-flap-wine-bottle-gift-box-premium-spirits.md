@@ -18,7 +18,7 @@ tags:
   - ISO 9001 certified
 ---
 
-![Bincai Magnetic Closure Box](/images/magnetic-closure-boxes.jpg)
+![Bincai Magnetic Closure Box](/images/cat-rigid-others.jpg)
 
 Leatherette-wrapped magnetic flap rigid wine bottle gift box with die-cut bottle cavity and gold foil branding by Guangdong Bincai Color Printing Co., Ltd. — a Diamond Member on Made-in-China.com with 22 years of manufacturing excellence (founded 2003). The premium PU leatherette exterior with gold foil branding creates a luxury presentation that elevates the perceived value of any wine, champagne, or spirits brand. The magnetic flap closure provides a satisfying snap-shut action while the die-cut cavity holds bottles securely during transport. Produced on KBA 1050 4-color and Heidelberg 7+1 UV presses across our 18,000 sqm facility (10,000+8,000 smart factory) (2025 expansion). Daily output: 1.7 million color boxes + 220,000+ gift boxes.
 

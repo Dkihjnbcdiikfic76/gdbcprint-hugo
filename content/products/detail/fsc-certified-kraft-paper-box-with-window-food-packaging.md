@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Kraft Eco Boxes](/images/kraft-eco-box.jpg)
+![Bincai Kraft Eco Boxes](/images/cat-paper-bag.jpg)
 
 FSC certified kraft paper box with clear PET window for food packaging — designed for bakeries, confectionery brands, and organic food companies seeking sustainable packaging with product visibility. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** (founded 2003) in a 18,000 sqm (10,000+8,000 smart factory) ISO 9001 and FSC certified factory. Printed on KBA 1050 4-color and Heidelberg 7+1 UV presses with food-safe, low-migration inks. 22 years of expertise delivering 1.7 million boxes daily to clients in 40+ countries.
 

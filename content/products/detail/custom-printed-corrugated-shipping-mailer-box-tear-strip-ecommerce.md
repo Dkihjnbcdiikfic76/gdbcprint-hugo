@@ -19,7 +19,7 @@ tags:
   - ISO 9001 certified
 ---
 
-![Bincai Corrugated Shipping Mailer Box](/images/corrugated-mailer.jpg)
+![Bincai Corrugated Shipping Mailer Box](/images/cat-fold-mailer.jpg)
 
 Custom printed corrugated shipping mailer box with integrated tear strip — engineered for e-commerce, subscription services, and direct-to-consumer (DTC) fulfillment. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** with 22 years of packaging expertise. The self-locking bottom eliminates the need for tape during assembly, while the easy-open tear strip provides a frustration-free unboxing experience that modern consumers expect. Full-color flexographic or offset printing on kraft or white-top liner transforms your shipping box into a branded marketing asset. Produced on our in-house BHS 2.5m corrugator line — one of the few packaging factories in Southern China with integrated corrugated board production. ISTA-tested for transit durability. 18,000 sqm factory in Foshan, Guangdong.
 

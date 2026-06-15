@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001:2015, FSC Chain-of-Custody, OK Compost HOME (TÜV Austria), EN 13432"
 ---
 
-![Kraft Paper Gift Box with Natural Cork Lid and Jute Strap Closure](/images/kraft-eco-box.jpg)
+![Kraft Paper Gift Box with Natural Cork Lid and Jute Strap Closure](/images/cat-paper-bag.jpg)
 
 ## Product Overview
 

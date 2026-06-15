@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, SGS"
 ---
 
-![Kraft Eco-Friendly Wine Bottle Gift Box — Jute Twine Handle + Die-Cut Window](/images/kraft-eco-box.jpg)
+![Kraft Eco-Friendly Wine Bottle Gift Box — Jute Twine Handle + Die-Cut Window](/images/cat-paper-bag.jpg)
 
 Kraft eco-friendly wine bottle gift box with natural jute twine handle and die-cut display window — manufactured by **Guangdong Bincai Color Printing Co., Ltd.** Designed for boutique vineyards, craft distilleries, and specialty wine retailers seeking sustainable luxury packaging, this box combines the natural appeal of kraft board with the rustic elegance of jute twine. The die-cut window allows the bottle label to be showcased without opening, while the integrated jute handle provides easy carry. Produced across our 18,000 sqm factory with 1.7M daily output capacity and FSC certified materials.
 

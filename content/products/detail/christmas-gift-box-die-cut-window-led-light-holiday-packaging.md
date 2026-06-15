@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Christmas LED Gift Box](/images/cat-rigid-others.jpg)
+![Bincai Christmas LED Gift Box](/images/cat-fold-gift.jpg)
 
 The Christmas Gift Box with die-cut window and integrated LED light is a premium illuminated holiday packaging solution that transforms gift presentation into a memorable experience. Produced by Guangdong Bincai Color Printing Co., Ltd. — a 22-year manufacturer operating 18,000 sqm of ISO 9001 & FSC certified production space in Foshan — this box features a precisely die-cut PET window that reveals the product within, illuminated by a concealed LED spotlight module. The warm LED glow highlights jewelry, confectionery, or luxury accessories while the magnetic closure and plush velvet interior deliver a premium unboxing experience. Bincai's KBA 1050 4-color and Heidelberg 7+1 UV presses apply vivid holiday graphics with foil-stamped snowflake or star patterns on the lid.
 

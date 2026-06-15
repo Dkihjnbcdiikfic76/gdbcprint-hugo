@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Magnetic Closure Box](/images/magnetic-closure-boxes.jpg)
+![Bincai Magnetic Closure Box](/images/cat-rigid-others.jpg)
 
 The Magnetic Closure Luxury Candle Gift Box is a premium rigid packaging solution engineered specifically for luxury candle brands. Manufactured by Guangdong Bincai Color Printing Co., Ltd. at their 18,000 sqm dual-factory facility in Foshan, this box combines elegant presentation with robust product protection. The hidden N52 neodymium magnets deliver a satisfying snap closure while the satin ribbon pull tab provides effortless opening — a detail that discerning candle brands value for high-end retail environments.
 

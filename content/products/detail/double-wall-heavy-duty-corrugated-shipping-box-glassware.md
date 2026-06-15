@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001:2015, FSC Chain-of-Custody, ISTA 1A/3A Drop Test"
 ---
 
-![Bincai Corrugated Mailers](/images/corrugated-mailer.jpg)
+![Bincai Corrugated Mailers](/images/cat-fold-mailer.jpg)
 
 ## Product Overview
 

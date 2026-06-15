@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, Compostable (EN 13432)"
 ---
 
-![Kraft Tea Box](/images/kraft-eco-box.jpg)
+![Kraft Tea Box](/images/cat-paper-bag.jpg)
 
 ## Product Overview
 

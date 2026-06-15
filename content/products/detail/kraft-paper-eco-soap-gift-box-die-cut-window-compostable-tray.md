@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Kraft Eco Box](/images/kraft-eco-box.jpg)
+![Bincai Kraft Eco Box](/images/cat-paper-bag.jpg)
 
 The Kraft Paper Eco-Friendly Soap Gift Box is designed for artisan soap makers and natural skincare brands seeking packaging that matches their sustainability values. Manufactured by Guangdong Bincai Color Printing Co., Ltd. in their 18,000 sqm Foshan facility, this box combines 300gsm FSC-certified recycled kraft board with a compostable molded pulp tray — every component is biodegradable, recyclable, or compostable. The die-cut window with compostable PLA film lets customers see the soap inside without opening the box, while soy-based ink printing keeps the entire package free of petroleum-derived materials.
 

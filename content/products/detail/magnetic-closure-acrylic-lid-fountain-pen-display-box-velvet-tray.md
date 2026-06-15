@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Magnetic Closure Acrylic-Lid Pen Display Box](/images/magnetic-closure-boxes.jpg)
+![Magnetic Closure Acrylic-Lid Pen Display Box](/images/cat-rigid-others.jpg)
 
 ## Product Overview
 

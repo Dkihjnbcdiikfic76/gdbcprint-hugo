@@ -18,7 +18,7 @@ tags:
   - ISO 9001 certified
 ---
 
-![Bincai Kraft Eco Boxes](/images/kraft-eco-box.jpg)
+![Bincai Kraft Eco Boxes](/images/cat-paper-bag.jpg)
 
 ## Product Overview
 

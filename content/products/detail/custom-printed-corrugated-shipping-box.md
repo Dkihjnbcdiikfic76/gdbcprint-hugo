@@ -11,7 +11,7 @@ params:
   material: "B-Flute / E-Flute / BC-Flute Corrugated / Kraft or White Top Liner / Self-Sealing / Tear Strip"
   certification: "ISO 9001, FSC, SGS"
 ---
-![Bincai Corrugated Mailers](/images/corrugated-mailer.jpg)
+![Bincai Corrugated Mailers](/images/cat-fold-mailer.jpg)
 
 Heavy-duty custom printed corrugated shipping box engineered for e-commerce, retail distribution, and international freight — manufactured by **Guangdong Bincai Color Printing Co., Ltd.** with 22 years of packaging expertise (founded 2003). Available in B-flute (3mm, crush-resistant), E-flute (1.5mm, fine print surface), and BC double-wall (6mm, heavy cargo) constructions with kraft or white-top liner options. Self-locking bottom eliminates tape during assembly, and optional tear strip enables easy consumer opening. Full-color flexo post-print or litho-laminated offset printing on KBA 1050 4-color press delivers vibrant branding. ISTA 1A drop-test validated for safe courier shipping. Produced across Bincai's 18,000 sqm dual factory (10,000+8,000 sqm smart factory) in Foshan, Guangdong. ISO 9001:2015 and FSC certified. Daily output 1.7 million boxes. MOQ 500 units.
 

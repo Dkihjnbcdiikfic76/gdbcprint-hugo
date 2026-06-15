@@ -18,7 +18,7 @@ tags:
   - wholesale paper boxes
 ---
 
-![Bincai Kraft Eco Boxes](/images/kraft-eco-box.jpg)
+![Bincai Kraft Eco Boxes](/images/cat-paper-bag.jpg)
 
 ## Product Overview
 

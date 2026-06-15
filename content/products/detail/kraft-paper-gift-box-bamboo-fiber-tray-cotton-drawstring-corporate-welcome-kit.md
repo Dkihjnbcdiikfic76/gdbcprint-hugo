@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, EN 13432"
 ---
 
-![Bincai Kraft Eco Boxes](/images/kraft-eco-box.jpg)
+![Bincai Kraft Eco Boxes](/images/cat-paper-bag.jpg)
 
 ## Product Overview
 

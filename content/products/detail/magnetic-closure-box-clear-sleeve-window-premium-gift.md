@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Magnetic Closure Box with Clear Sleeve](/images/magnetic-closure-boxes.jpg)
+![Bincai Magnetic Closure Box with Clear Sleeve](/images/cat-rigid-others.jpg)
 
 Premium magnetic closure rigid box with a transparent PET sleeve window — crafted by **Guangdong Bincai Color Printing Co., Ltd.**, a full-chain packaging enterprise with 22 years of manufacturing excellence (founded 2003). The clear sleeve window allows the product to be fully showcased without removal, creating a double-layer unboxing experience: the sleeve slides off to reveal the rigid box underneath, then the magnetic flap opens with a satisfying snap. The PET window is precision die-cut and edge-polished for distortion-free product visibility. The sleeve adds an extra layer of protection during transit while doubling as a branding canvas — print your logo, pattern, or messaging on the sleeve, the box lid, or both for layered brand storytelling. Produced on KBA 1050 4-color and Heidelberg 7+1 UV offset presses across our 18,000 sqm Foshan factory (10,000+8,000 smart factory). Daily output capacity of 1.7 million boxes (post-2025 expansion). ISO 9001:2015 and FSC Chain-of-Custody certified.
 

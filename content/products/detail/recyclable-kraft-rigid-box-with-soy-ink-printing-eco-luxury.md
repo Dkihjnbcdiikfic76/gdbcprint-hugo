@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Kraft Eco Boxes](/images/kraft-eco-box.jpg)
+![Bincai Kraft Eco Boxes](/images/cat-paper-bag.jpg)
 
 Fully recyclable kraft rigid box with soy-based ink printing — combining luxury rigid box construction with uncompromising environmental responsibility. No plastic lamination, no solvent-based adhesives, no mixed-material construction that prevents recycling. Manufactured by Guangdong Bincai Color Printing Co., Ltd., FSC Chain-of-Custody certified.
 

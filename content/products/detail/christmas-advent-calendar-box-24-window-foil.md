@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Christmas Gift Boxes](/images/cat-rigid-others.jpg)
+![Bincai Christmas Gift Boxes](/images/cat-fold-gift.jpg)
 
 The 24-window Christmas advent calendar rigid box is one of the most technically demanding products in paper packaging — 24 precisely die-cut windows, each requiring consistent alignment with printed numbering, backed by clear PET film, and integrated into a rigid box structure that must open and close smoothly through a month of daily use. Manufactured by Guangdong Bincai Color Printing Co., Ltd. at its 18,000 sqm Foshan facility, this advent calendar box showcases the full range of Bincai's manufacturing capabilities: KBA Rapida 105 4-color offset for vibrant holiday graphics, Heidelberg Speedmaster CD 102 7+1 UV for spot UV and metallic accents, Bobst hot-foil for gold window numbering, precision die-cutting for 24 identical window apertures, and N52 neodymium magnet closure engineering.
 

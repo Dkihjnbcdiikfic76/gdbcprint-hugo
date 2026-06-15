@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Magnetic Closure Portfolio Presentation Box with Document Sleeve and Pen Loop](/images/magnetic-closure-boxes.jpg)
+![Magnetic Closure Portfolio Presentation Box with Document Sleeve and Pen Loop](/images/cat-rigid-others.jpg)
 
 Executive-grade portfolio-style magnetic closure presentation box — manufactured by **Guangdong Bincai Color Printing Co., Ltd.**, a Diamond Member on Made-in-China.com since 2015, Audited Supplier with 22 years of experience. Inspired by premium document folios, this box features a book-style magnetic flap that opens to reveal a thoughtfully organized interior: a clear PET document sleeve on the inner lid for brochures, certificates, or welcome letters; an elastic pen loop for branded writing instruments; and a custom die-cut foam tray for the primary gift item. The invisible neodymium magnetic closure provides a satisfying, secure snap. Ideal for corporate award ceremonies, luxury brand press kits, VIP client gifts, and executive onboarding packages. Produced on KBA 1050 4-color and Heidelberg 7+1 UV presses across 18,000 sqm factory.
 

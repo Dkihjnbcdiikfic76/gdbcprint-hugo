@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, ISPM-15 Heat Treatment (available)"
 ---
 
-![Corrugated Shipper](/images/corrugated-mailer.jpg)
+![Corrugated Shipper](/images/cat-fold-mailer.jpg)
 
 ## Product Overview
 

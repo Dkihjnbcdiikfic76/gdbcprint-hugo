@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Corrugated Heavy-Duty E-Commerce Shipping Box](/images/corrugated-mailers.jpg)
+![Bincai Corrugated Heavy-Duty E-Commerce Shipping Box](/images/cat-fold-mailer.jpg)
 
 The heavy-duty double-wall corrugated e-commerce shipping box with integrated tear strip is engineered for direct-to-consumer brands that demand both protection and presentation. Guangdong Bincai Color Printing Co., Ltd. manufactures this product in our 18,000 sqm dual-factory complex in Foshan, China, using the BHS 2.5m Corrugator for board production, Bobst SP 102 BMA for precision die-cutting, and Emmeci MC2004 for automated box making. With ISO 9001:2015 and FSC Chain-of-Custody certifications and a daily output of 1.7 million boxes, Bincai delivers industrial-grade corrugated packaging at e-commerce scale.
 

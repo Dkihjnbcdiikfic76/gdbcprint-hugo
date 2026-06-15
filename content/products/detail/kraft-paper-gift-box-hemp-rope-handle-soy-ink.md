@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Kraft Paper Gift Box with Natural Hemp Rope Handle and Soy-Based Ink](/images/kraft-eco-box.jpg)
+![Kraft Paper Gift Box with Natural Hemp Rope Handle and Soy-Based Ink](/images/cat-paper-bag.jpg)
 
 ## Product Overview
 

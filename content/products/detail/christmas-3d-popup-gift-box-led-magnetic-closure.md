@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, SGS, CE (LED module)"
 ---
 
-![Christmas 3D Pop-Up Gift Box with LED Lighting](/images/cat-rigid-others.jpg)
+![Christmas 3D Pop-Up Gift Box with LED Lighting](/images/cat-fold-gift.jpg)
 
 Spectacular Christmas 3D pop-up gift box with integrated LED illumination — manufactured by **Guangdong Bincai Color Printing Co., Ltd.**, a full-chain packaging enterprise with 22 years of manufacturing expertise (founded 2003). When opened, the box reveals a multi-layered 3D paper-engineered pop-up scene — a winter wonderland, Santa's workshop, or a custom brand tableau — internally illuminated by a warm-white LED module (CR2032 battery, CE certified) that brings the laser-cut scene to life. The rigid box construction uses 1200gsm FSC-certified greyboard wrapped in matte-laminated art paper with magnetic closure for a satisfying reveal. Bobst SP 102 BMA laser die-cutting ensures precision-fit pop-up layers. Produced on KBA 1050 4-color offset and Heidelberg 7+1 UV presses across Bincai's 18,000 sqm dual factory (10,000+8,000 sqm smart factory) in Foshan, Guangdong. ISO 9001:2015 and FSC certified. Daily output 1.7 million boxes. MOQ 500 with free pre-production samples.
 

@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001:2015, FSC CoC"
 ---
 
-![Magnetic Closure Cigar Humidor Box with Spanish Cedar Lining and Custom Embossing](/images/magnetic-closure-boxes.jpg)
+![Magnetic Closure Cigar Humidor Box with Spanish Cedar Lining and Custom Embossing](/images/cat-rigid-others.jpg)
 
 ## Product Overview
 
