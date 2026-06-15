@@ -2,8 +2,8 @@
 title: "FSC Certified Kraft Tray Box with Soy Ink Food-Safe Packaging"
 date: 2026-06-11
 draft: false
-description: "FSC-certified kraft paper tray box with soy-based ink printing for food-safe packaging. Foldable tray design, 100% compostable, no plastic lamination. ISO 9001 & FSC, 18,000 sqm factory (10,000+8,000 smart factory), 22 years. Perfect for bakeries, organic food brands, and meal kit delivery."
-keywords: "FSC kraft tray box, soy ink food packaging, compostable tray box, food safe packaging, kraft paper tray, biodegradable food box, organic food packaging, Bincai kraft box, sustainable bakery box, eco food tray, plastic free food packaging, FSC certified food box"
+description: "FSC-certified kraft paper tray box with soy-based ink printing for food-safe packaging by Guangdong Bincai — 18,000 sqm Foshan factory (10,000 + 8,000 smart factory) equipped with KBA 1050 offset press, Heidelberg 7+1 UV press, BHS 2.5m corrugated line, Bobst die-cutters, and Emmeci rigid box machines. ISO 9001 & FSC certified, 1.7 million boxes daily output, 22 years expertise. 100% compostable to EN 13432, soy-based inks with zero petroleum solvents, water-based adhesive — no plastic lamination. Ideal for bakeries, organic food brands, and meal kit delivery."
+keywords: "FSC kraft tray box, soy ink food packaging, compostable tray box, food safe packaging, kraft paper tray, biodegradable food box, organic food packaging, Bincai kraft box, sustainable bakery box, eco food tray, plastic free food packaging, FSC certified food box, compostable food tray, food safe paper box, kraft bakery box, biodegradable food packaging, sustainable food box, eco-friendly tray, plastic-free food box, EN 13432 compostable box, FSC certified tray, kraft paper tray box, water-based adhesive food box, Guangdong eco packaging, wholesale sustainable box, OEM food safe box, 22 years eco packaging, zero plastic food box, soy based ink printing, food grade kraft box, compostable bakery packaging, kraft tray with window, eco food packaging wholesale, FSC chain of custody packaging, food contact safe box, grease resistant kraft tray, natural kraft food box, recyclable food packaging, sustainable meal kit packaging, artisan bakery box, food safe printing, industrial compostable packaging, kraft display tray, Foshan packaging manufacturer, KBA 1050 food box, Bobst die-cut tray"
 categories: ["kraft-eco-boxes"]
 params:
   moq: "1000-2000"
@@ -67,3 +67,57 @@ The FSC-certified kraft tray box with soy-based ink is purpose-built for food br
 | **FDA 21 CFR** | Soy-based inks compliant with indirect food contact regulations |
 | **ISO 9001:2015** | Quality management system certified since 2010 |
 | **BSCI** | Social compliance audited — ethical labor practices throughout supply chain |
+
+## Quality Assurance
+
+| Test | Standard | Specification |
+|------|----------|---------------|
+| Overall Migration | EU 10/2011 | ≤ 10 mg/dm² total migration into food simulant |
+| Specific Migration (Heavy Metals) | EU 10/2011, Annex II | Pb < 0.01 mg/kg, Cd < 0.002 mg/kg, Hg < 0.005 mg/kg |
+| Sensory Testing | EN 1230-1 | No odor or taste transfer to food product |
+| Cobb Water Absorption | ISO 535 | ≤ 30 g/m² (60-second test) — grease/moisture barrier verified |
+| Burst Strength | ISO 2759 | ≥ 450 kPa for 350gsm kraft board |
+| Ink Adhesion (Tape Pull) | ASTM D3359 | Rating 4B or higher — soy ink bond integrity after cure |
+| Compostability | EN 13432 | ≥ 90% biodegradation within 6 months, ≤ 12 weeks disintegration |
+| Glue Bond Strength | TAPPI T-541 | ≥ 3.5 N/cm peel strength — water-based adhesive verified |
+| Microbiological Purity | ISO 4833-1 | Total aerobic count < 250 CFU/g on food-contact surface |
+| Formaldehyde Content | GB 18580 | ≤ 0.05 mg/L emission — safe for enclosed food packaging |
+
+## FAQ
+
+**What is the minimum order quantity (MOQ) for FSC kraft tray boxes?**
+Our standard MOQ is 1,000–2,000 units depending on size and customization complexity. For simple single-color kraft trays, we can accommodate orders as low as 1,000 pieces. Highly customized orders with embossing, PLA windows, or specialty die-cuts may require 2,000+ units. Contact our sales team for exact MOQ based on your specifications.
+
+**What food safety certifications does this packaging carry?**
+Our FSC kraft tray boxes are manufactured in an ISO 9001:2015 certified facility with FSC Chain-of-Custody certification. The packaging meets EU 10/2011 food contact migration standards, FDA 21 CFR for indirect food contact (soy-based inks), and EN 13432 for industrial compostability. All materials — kraft board, soy ink, and water-based adhesive — are tested for heavy metal migration and sensory neutrality.
+
+**Is this packaging fully compostable? How long does it take to break down?**
+Yes, the entire box is certified compostable to EN 13432. In industrial composting facilities (58°C, controlled humidity), the box disintegrates within 12 weeks and achieves ≥ 90% biodegradation within 6 months. The soy-based inks and water-based adhesive are also compostable — no components need to be separated before composting. Home composting is possible but takes longer (6–12 months).
+
+**Are there any printing limitations with soy-based ink on kraft board?**
+Soy-based inks deliver excellent CMYK color reproduction on kraft board, though results differ slightly from coated white stock. The natural brown kraft color shows through, creating a warm, artisanal aesthetic. We recommend using bold colors and avoiding large areas of light pastels. Our KBA 1050 press with automatic ink density control ensures consistent color matching across production runs. Spot UV, embossing, and debossing are all compatible with soy ink printing.
+
+**How long does it take to receive samples and complete mass production?**
+Sample delivery takes 7–10 business days from artwork approval. Mass production lead time is 15–18 business days after sample confirmation. With our 1.7 million boxes daily capacity and dedicated food-grade production zone, we can accommodate urgent orders with expedited timelines. Rush orders (10–12 days production) are available with advance scheduling.
+
+## Why Choose Bincai for Sustainable Food Packaging
+
+| Feature | Bincai | Industry Typical |
+|---------|--------|-----------------|
+| **Food-Grade Production Zone** | Dedicated ISO Class 8 cleanroom with positive air pressure, HEPA filtration, UV-C sterilization, and pest control program | Standard factory floor with no food-grade separation or air quality control |
+| **Soy Ink Technology** | Soy-based offset inks with < 2% VOC on KBA 1050 press, automatic ink density control, FDA 21 CFR compliant | Petroleum-based inks with 30–40% VOC content, manual color matching, no food contact certification |
+| **FSC Traceability** | Full FSC Chain-of-Custody certification — traceability from certified forest to finished box, certificate number printed on-box | Generic "eco-friendly" claims with no third-party forest certification or chain-of-custody documentation |
+| **EN 13432 Compostability** | Complete box certified to EN 13432 — all components (board, ink, adhesive) independently verified compostable | Partial compostability — box may be kraft but uses petroleum inks or synthetic adhesives that contaminate compost |
+| **Lead Time** | 7–10 days sample, 15–18 days production — 1.7M daily capacity with dedicated food-grade zone | 14–21 days sample, 25–35 days production — shared production lines with non-food packaging |
+
+## Seven-Stage QC Gates
+
+| Stage | QC Gate | Inspection Detail |
+|-------|---------|-------------------|
+| 1. Raw Material | FSC Certificate Check | Verify FSC Chain-of-Custody certificate number, kraft board weight (300–400gsm), moisture content ≤ 8%, and supplier CoC documentation |
+| 2. Print | Soy Ink Verification | Confirm soy-based ink batch certificate, color density within ΔE ≤ 1.5 of approved proof, VOC content < 2%, ink adhesion tape-pull test |
+| 3. Die-Cut | Bobst Precision Check | Dimensional tolerance ± 0.3mm, clean edge cuts with no fiber tear, crease depth verification, sample fold test for tray locking |
+| 4. Gluing | Water-Based Adhesive QC | Adhesive batch food-grade certificate, bond strength ≥ 3.5 N/cm peel test, application weight 0.02g per bond point, open time verification |
+| 5. Food-Grade Zone | Cleanroom Environment Audit | ISO Class 8 particle count, positive air pressure differential ≥ 15 Pa, UV-C sterilization log, pest control inspection, operator hygiene check |
+| 6. Migration Testing | Food Contact Safety | EU 10/2011 overall migration test (≤ 10 mg/dm²), specific heavy metal migration (Pb, Cd, Hg), sensory evaluation (EN 1230-1), microbiological purity |
+| 7. Final Audit | Pre-Shipment Inspection | AQL 2.5 sampling per ISO 2859-1, carton drop test, pallet integrity, FSC logo placement verification, compostability certificate enclosed |
