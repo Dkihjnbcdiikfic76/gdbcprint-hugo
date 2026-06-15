@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Kraft Eco Boxes](/images/cat-fold-cosmetic.jpg)
+![Bincai Kraft Eco Boxes](/images/kraft-eco-box.jpg)
 
 Kraft paper sustainable cosmetics gift set box with compostable bamboo fiber tray and soy-based ink printing — purpose-designed for clean beauty, organic skincare, and eco-conscious cosmetics brands that demand packaging as sustainable as the products inside. The 100% recycled kraft board exterior printed with soy-based inks communicates natural authenticity, while the molded bamboo fiber tray provides a compostable, plastic-free alternative to traditional foam inserts. Manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). KBA 1050 4-color and Heidelberg 7+1 UV presses deliver precise printing across 18,000 sqm dual-factory campus. Daily output 1.7 million boxes. ISO 9001:2015 and FSC Chain-of-Custody certified.
 
