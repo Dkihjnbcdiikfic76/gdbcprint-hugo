@@ -74,3 +74,72 @@ Custom sleeve-style folding carton for premium chocolate and confectionery packa
 | **Drop Test** | ISTA 1A | 10-drop sequence; sleeve intact, chocolate undamaged |
 | **Barcode Scan** | Internal FC-002 | 100% inline verification; Grade B or better (ISO 15416) |
 | **Surface Inspection** | AQL 2.5 (ISO 2859-1) | 100% visual for print defects, foil placement, coating uniformity |
+
+## Seven-Stage QC Gates
+
+1. **Raw Material Inspection** — SBS/FBB board grammage verification (250-450gsm), food-grade certification audit (FDA 21 CFR / EU 1935/2004), foil grade certification, adhesive food-safety documentation
+2. **Pre-Press Proofing** — color calibration to Pantone targets, foil die fit verification against artwork, window film clarity and food-grade certification check, structural die proof with tray/sleeve fit test
+3. **In-Process Printing** — spectrophotometer color check every 500 sheets (ΔE ≤ 2.0), Heidelberg Prinect inline defect detection, food-grade low-migration ink certification per batch
+4. **Foil Stamping & Coatings** — foil adhesion tape test (ASTM D3359 Class 4B minimum), soft-touch coating uniformity (gloss meter 3-5 GU at 60°), spot UV registration ±0.2mm
+5. **Die-Cutting & Window Patching** — ±0.2mm sleeve/tray dimensional tolerance, window film adhesive bond verification, PET film clarity and scratch inspection, crease depth consistency
+6. **Gluing & Assembly** — folder-gluer side-seam bond ≥ 200 N/m peel strength, sleeve-tray insertion/removal force specification (2-8 N insert, 1-5 N remove), barcode scan Grade B or better (ISO 15416)
+7. **Pre-Shipment Inspection** — AQL 2.5 Level II per ISO 2859-1, sensory taint test (ISO 13302 Robinson test at 40°C/24h), ISTA 1A drop test (10-drop sequence), food-contact migration certificate per batch
+
+## Production Workflow
+
+| Stage | Process | Equipment | Key Parameter |
+|---|---|---|---|
+| 1. Structural Design | Sleeve + tray dimensioning, 3D rendering | ArtiosCAD | 3-day design turnaround |
+| 2. Pre-Press | Color separation, foil die mapping, plate making | Kodak CTP | 175 LPI offset / flexo plates |
+| 3. Printing | CMYK + Pantone offset on SBS/FBB board | KBA 1050 4-color | 15,000 sph, ΔE ≤ 2.0 |
+| 4. Specialty Finishing | Hot foil stamping, soft-touch coating, spot UV | Heidelberg 7+1 UV | ±0.15mm foil registration |
+| 5. Die-Cutting | Sleeve panels and tray scored/cut | Bobst flatbed die-cutter | ±0.2mm tolerance |
+| 6. Window Patching | PET or open window film application | Automatic window patcher | ±0.3mm placement accuracy |
+| 7. Gluing | Side-seam adhesive + tray assembly | Automatic folder-gluer | 30,000+ units/hour |
+| 8. Sleeve-Tray Fit | Insertion test and QC pass | Fit-test station | 2-8 N insertion force |
+| 9. Final QC | Full inspection + packaging | AQL sampling station | ISTA 1A drop, sensory taint test |
+
+## Sustainability & Food Safety Compliance
+
+- **Food-Grade Throughout** — All materials (SBS board, inks, adhesives, coatings, window film) certified to FDA 21 CFR 176.170 and EU 1935/2004 for direct and indirect food contact; full migration testing documentation per batch
+- **FSC Chain-of-Custody** — SBS and FBB boards sourced from FSC-certified mills (FSC-C147294), supporting responsible forestry for premium confectionery brands communicating sustainability to consumers
+- **Low-Migration UV Inks** — Heidelberg 7+1 UV line uses low-migration UV ink systems specifically formulated for food packaging, with cured ink migration below EU 10 ppb detection threshold
+- **Compostable Window Option** — PLA bioplastic window film certified to ASTM D6400 for industrial composting, replacing traditional PET for brands targeting zero-waste packaging goals
+- **Water-Based Coatings** — Aqueous matte and soft-touch coatings are solvent-free, VOC-free, and do not interfere with paper recyclability
+- **Molded Pulp Trays** — Bagasse (sugarcane fiber) insert trays available as fully compostable alternative to plastic thermoformed trays; custom-molded to chocolate piece geometry
+- **Recycling Compatible** — Paperboard sleeve and tray are accepted in all municipal paper recycling streams; metal foil area < 5% of surface for recyclability compliance
+- **Sensory Safety** — ISO 13302 Robinson test performed on every production batch: no detectable taint transferred to chocolate after 40°C/24h sealed contact
+
+## Why Choose Bincai for Chocolate & Confectionery Packaging
+
+Bincai's 22 years of folding carton expertise meets the exacting standards of premium chocolate and confectionery brands. Food safety is not an afterthought — it's built into every production decision. Our KBA 1050 4-color press runs food-grade soy-based inks as standard, while the Heidelberg 7+1 UV line uses low-migration UV ink systems formulated specifically for indirect food contact packaging. Every production batch undergoes ISO 13302 Robinson sensory testing — chocolate sealed in our cartons at 40°C for 24 hours, then evaluated by a trained sensory panel for any detectable taint transfer. This is the standard set by Lindt, Godiva, and Ferrero's packaging specifications, and Bincai meets it batch after batch. Our Bobst flatbed die-cutters maintain ±0.2mm tolerance on sleeve-tray fit — critical when a 0.3mm gap means a truffle shifts in transit. With ISO 9001:2015 quality management, FSC certification, 1.7M daily output, and dedicated food-packaging production lanes with segregated material handling, Bincai is the manufacturing partner for confectionery brands in 40+ countries seeking packaging that protects product integrity and brand reputation equally.
+
+**Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000+8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | Bobst die-cutting | ISO 9001 & FSC | FDA 21 CFR & EU 1935/2004 compliant | Foshan, Guangdong, China
+
+**Shipping:** Flat-packed with trays nested inside sleeves to minimize freight volume. Standard production lead time 12–18 working days. Free pre-production samples with your branding within 5–7 days. MOQ 1000 units per design.
+
+## FAQ
+
+**Q: Are your inks and coatings really food-safe for chocolate?**
+
+A: Yes. All printing inks are low-migration formulations compliant with FDA 21 CFR 176.170 and EU 1935/2004. Coatings (soft-touch, aqueous, UV) are independently tested for migration below the 10 ppb detection threshold. Every production batch includes a certificate of compliance. Most importantly, we perform ISO 13302 Robinson sensory testing — chocolate sealed in our carton at 40°C for 24 hours, then evaluated for taint — on every batch. This goes beyond chemical testing to verify real-world sensory safety.
+
+**Q: Can the sleeve accommodate different chocolate bar thicknesses?**
+
+A: Yes. Sleeve dimensions are fully custom. Standard configurations handle bar thickness from 8mm (thin tasting bars) to 25mm (thick inclusion bars). The friction-fit sleeve design means even a 1mm thickness variation between SKUs can use the same tray — the sleeve simply slides over. For multi-SKU product lines, we design a universal tray with SKU-specific sleeve printing, saving die costs.
+
+**Q: What's the difference between SBS and FBB board for chocolate?**
+
+A: SBS (Solid Bleached Sulfate) offers the brightest white surface for vibrant CMYK printing and is the standard for premium chocolate. FBB (Folding Box Board) has a mechanical pulp middle layer making it slightly stiffer at the same grammage — preferred for heavier chocolate collections. Both are FSC-certified and food-grade. Our team recommends based on your chocolate weight and desired print quality.
+
+**Q: How do you prevent chocolate from melting during shipping in summer?**
+
+A: While the carton itself provides insulation, we offer several thermal protection options: (1) foil-lined interior layer reflecting radiant heat, (2) thicker board grades (350-450gsm) for improved thermal mass, (3) coordination with insulated shipper box production. For temperature-sensitive chocolate shipments (June-September to warm climates), we recommend pairing our folding carton with a corrugated insulated mailer — both produced in our 18,000 sqm facility for single-source logistics.
+
+**Q: Can you match a specific brand color exactly (e.g., Tiffany Blue, Cadbury Purple)?**
+
+A: Yes. Our Heidelberg 7+1 UV press uses Pantone spot color matching with spectrophotometer verification (ΔE ≤ 2.0). For trademark brand colors, we maintain a dedicated ink formulation library and can match within ΔE ≤ 1.5 on repeat orders. We provide a wet-proof sample for color approval before full production.
+
+**Q: Is there a minimum order for seasonal holiday packaging (Christmas, Valentine's)?**
+
+A: Standard MOQ is 1000 units per design. For seasonal programs, we recommend ordering 6-8 weeks ahead of your shipping date. Our production capacity allows us to handle Q4 seasonal peaks — we produce 1.7M boxes daily and reserve dedicated capacity for holiday programs placed by September. Trial orders of 500 units accepted with existing die. Lead time 12-18 working days standard, 7-10 days expedited.
