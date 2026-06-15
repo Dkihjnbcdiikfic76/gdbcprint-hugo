@@ -1,9 +1,9 @@
 ---
 title: "Custom Tuck Top Folding Carton CMYK Offset Printing"
-date: 2026-06-10
+date: 2026-06-16
 draft: false
 description: "Custom tuck-top folding carton with CMYK offset printing, Pantone spot colors, hot foil stamping, and spot UV. KBA 1050 + Heidelberg 7+1 UV manufactured at 18,000 sqm factory (10,000+8,000 smart factory). ISO 9001 & FSC certified, 22 years experience, daily output 1.7M boxes. MOQ 500, free samples."
-keywords: "tuck top folding carton, custom folding carton, CMYK offset printing box, Pantone spot color box, hot foil stamping box, spot UV packaging, retail display carton, folding carton factory China, ISO 9001 FSC packaging, Bincai Color Printing, Guangdong packaging manufacturer, custom tuck-top box, retail folding carton wholesale"
+keywords: "tuck top folding carton, custom folding carton, CMYK offset printing box, Pantone spot color box, hot foil stamping box, spot UV packaging, retail display carton, folding carton factory China, ISO 9001 FSC packaging, Bincai Color Printing, Guangdong packaging manufacturer, custom tuck-top box, retail folding carton wholesale, KBA Rapida 1050 offset box, Heidelberg 7+1 UV carton, Bobst die cutting carton, 18,000 sqm folding carton factory, 22 years box manufacturing, 1.7M daily cartons, Foshan packaging factory, MOQ 500 folding carton, OEM folding carton China, aqueous coating box, soft-touch carton, cosmetic folding carton, electronics packaging carton, food folding carton, FSC chain of custody box, soy-based ink box, Bincai Guangdong"
 categories: ["folding-cartons"]
 params:
   moq: "500-1000"
