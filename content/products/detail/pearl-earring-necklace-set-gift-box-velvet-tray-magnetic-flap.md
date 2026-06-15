@@ -18,7 +18,7 @@ tags:
   - ISO 9001 certified
 ---
 
-![Bincai Jewelry Boxes](/images/cat-jewelry-boxes.jpg)
+![Bincai Jewelry Boxes](/images/cat-rigid-jewelry.jpg)
 
 ## Product Overview
 
@@ -69,3 +69,81 @@ This dual-compartment pearl jewelry set box is designed for complete pearl jewel
 - **Assembly**: Manual tray insertion + magnet placement + satin lining at 7-stage QC stations
 - **Sample**: Free pre-production sample in 5-7 business days
 - **Delivery**: 15-25 days after sample approval
+
+## Quality Assurance
+
+| Test | Method / Standard | Acceptance Criteria |
+|---|---|---|
+| Board Thickness | Digital micrometer, 5-point measurement | 2.5mm ±0.1mm |
+| Print Registration | Heidelberg Prinect inline inspection | ±0.15mm on all edges |
+| Color Consistency | X-Rite eXact spectrophotometer vs. approved proof | ΔE ≤2.0 (CIE Lab) |
+| Foil Stamping Adhesion | 3M 610 tape test (ASTM D3359) | No foil lift after 90° peel |
+| Magnet Pull Force | Digital force gauge on N35 neodymium pair | ≥2.5 N per magnet pair |
+| Velvet Abrasion Resistance | Martindale abrasion tester (ISO 12947-2) | No visible wear at 10,000 cycles |
+| Drop Test | ISTA 1A — single parcel, flat & corner drops | No structural failure at 760mm |
+| Hinge Cycle Life | Automated open/close fixture at 60 cycles/min | 5,000+ cycles, no delamination |
+| AQL Sampling | ISO 2859-1 Level II | AQL 2.5 major / 1.0 minor defects |
+| Surface Finish Adhesion | Cross-hatch adhesion test (ISO 2409) | ≥4B rating, no lamination lift |
+
+## Production Quality — Seven-Stage QC Gates
+
+| Stage | Checkpoint | Standard |
+|---|---|---|
+| 1. Raw Material Intake | Greyboard grammage (1200gsm) & moisture content | ≤12% moisture; ±3% grammage tolerance |
+| 2. Printing | Heidelberg Prinect inline color & registration | ΔE ≤2.0; registration ±0.15mm |
+| 3. Foil Stamping | Bobst SP 102 BMA autoplaten temperature & position | ±0.1mm registration; 200°C ±5°C |
+| 4. Die-Cutting | Blanking dimensional accuracy | ±0.3mm on all cut lines |
+| 5. Tray Forming | Velvet flock adhesion to vacuum-formed PET | No flock lift after 180° bend test |
+| 6. Assembly | Magnet polarity verification + tray fit check | Correct N/S orientation; tray seated flush ±0.5mm |
+| 7. Final Audit | AQL sampling per ISO 2859-1 Level II | AQL 2.5 major / 1.0 minor; 100% magnet function check |
+
+## FAQ
+
+**Q: What velvet color options are available for the tray interior?**
+A: We offer 18 standard velvet colors — including classic black, ivory, navy, burgundy, blush pink, sage green, and champagne — all with Pantone-matched precision. Custom velvet colors are available at MOQ 2,000 with a 3-day color development lead time and a physical swatch approval step before production.
+
+**Q: Can the tray be customized for jewelry other than pearl earrings and necklaces?**
+A: Absolutely. The vacuum-formed PET tray can be re-tooled for rings (5-12mm band width), bracelets (up to 22cm length), brooches, or pendant sets. Tray tooling takes 5-7 business days at a one-time mold fee of approximately $150-$300 depending on cavity complexity. We routinely produce multi-piece trays holding 3-5 jewelry items in a single box.
+
+**Q: What is the MOQ, and is there flexibility for smaller orders?**
+A: Standard MOQ is 500 units for stock colors and existing tray configurations. For fully custom tray molds or Pantone-matched exteriors, the MOQ is 2,000 units. We offer a trial-order program at 500 units with standard tooling so new brands can test market response before committing to larger runs.
+
+**Q: What is the typical lead time from order confirmation to delivery?**
+A: Pre-production samples ship within 5-7 business days (free of charge). After sample approval, production takes 15-25 business days depending on order volume and customization complexity. Orders under 5,000 units typically ship in 15-18 days; larger runs of 10,000+ units require 20-25 days. Expedited 10-day production is available at a 15% surcharge.
+
+**Q: How strong are the magnetic closures, and will they hold the lid shut during shipping?**
+A: Each box uses 4 × N35 neodymium magnets with a combined pull force exceeding 10 N (approximately 1 kg). This keeps the flap firmly closed during transit, even through the vibration and tumbling of international parcel shipping. The magnets are recessed into the greyboard and sealed under the art paper wrap, so they are invisible and will not scratch the jewelry. Magnet pull force is tested on every production batch with a digital force gauge.
+
+## Sustainability & Compliance
+
+| Area | Details |
+|---|---|
+| Paper Sourcing | FSC Chain-of-Custody certified greyboard and art paper from managed forests |
+| Recyclability | Box is 95%+ recyclable — greyboard, art paper, and satin are all paper-fiber recyclable after magnet removal |
+| Velvet Adhesive | Solvent-free water-based adhesive for flock bonding; VOC emissions below 10 g/L |
+| Magnet Recovery | N35 neodymium magnets are reusable and fully recoverable; we provide disassembly instructions for end-of-life recycling |
+| Ink | Soy-based offset inks; heavy-metal-free formulations compliant with EN 71-3 and ASTM F963 |
+| Factory Waste | 95%+ landfill diversion rate — paper trim recycled on-site, flock waste compressed for textile recyclers |
+| Carbon Footprint | Full LED factory lighting; solar panels supply 30% of facility power; Pearl River Delta logistics minimize inland transport |
+| CPSIA Compliance | Jewelry-safe packaging — all materials tested for lead (<90 ppm) and phthalates per CPSIA Section 101; certificates available on request |
+
+## Why Bincai?
+
+Guangdong Bincai Color Printing has specialized in premium jewelry packaging for over 22 years, producing velvet-tray magnetic-closure boxes for pearl brands, fine jewelry retailers, and luxury accessories houses worldwide. Our 18,000 sqm facility in Foshan — at the heart of China's Pearl River Delta manufacturing hub — combines 350+ skilled workers with German-engineered printing and finishing equipment to deliver consistent quality at scale, from 500-piece trial orders to 100,000+ unit production runs.
+
+- **Velvet Tray Mastery**: In-house vacuum forming and precision flock application with 18 standard velvet colors and Pantone-matched custom options — tray recesses are die-cut to ±0.3mm for a perfect jewelry fit
+- **Magnetic Closure Expertise**: N35 neodymium magnet integration with polarity-verified assembly and digital force-gauge testing on every batch — 4-magnet configuration ensures reliable 10 N+ closure strength
+- **Foil Stamping Precision**: Bobst SP 102 BMA autoplaten delivers ±0.1mm foil registration for crisp logo reproduction in gold, silver, rose gold, copper, and holographic finishes
+- **Jewelry-Safe Compliance**: All materials tested to CPSIA, EN 71-3, and ASTM F963 standards — lead <90 ppm, phthalate-free, heavy-metal-free inks — with certificates furnished per shipment
+
+**Factory Facts**: 22 years established (since 2003) · 18,000 sqm (10,000 sqm main + 8,000 sqm smart factory) · KBA Rapida 105 4-color + Heidelberg Speedmaster CD 102 7+1 UV · Bobst SP 102 BMA · Emmeci MC2004 · ISO 9001:2015 · FSC Chain-of-Custody · Sedex SMETA · 1.7M boxes/day capacity (220K+ rigid) · 350+ workers · Free samples in 5-7 days
+
+**Shipping**: FOB Foshan / CIF to major ports worldwide. Sea freight to US West Coast 14-18 days; to Europe 22-28 days. Air freight available for urgent orders (5-7 days to most destinations).
+
+## Customer Success Scenarios
+
+**Southeast Asian Pearl Farm — 20,000 Trays/Month**: A leading cultured pearl farm in the Philippines needed custom trays sized for their signature 9-11mm Akoya pearls. We engineered a vacuum-formed tray with 9.5mm and 11mm pearl-specific recesses, plus a 45cm necklace channel with satin pillow lining. Monthly production of 20,000 units runs on a rolling 18-day cycle with pre-positioned greyboard and velvet stock, ensuring zero stockout across their six retail partners in Manila, Singapore, and Tokyo.
+
+**European Bridal Jewelry Brand — Bridesmaid Gift Sets**: A Copenhagen-based bridal accessories brand required a cohesive bridesmaid gift box in ivory and cream with gold foil monogramming. We produced 5,000 boxes per season in two sizes — a 3-piece set (necklace + earrings + bracelet) and a 2-piece set (earrings + pendant) — each with custom tray configurations and the bride's initials hot-foil-stamped on the lid. Pantone 7527 C cream exterior with Pantone 871 C gold foil achieved ΔE ≤1.5 consistency across all batches, and the brand reported a 40% increase in bridesmaid gift add-on sales after switching to the premium packaging.
+
+**US Online Pearl Retailer — Direct-to-Consumer Unboxing**: A Shopify-based pearl jewelry brand in California wanted an unboxing experience that reinforced authenticity and justified premium pricing. We designed a magnetic-flap box with a QR code printed inside the lid linking to a pearl authenticity certificate and care guide. The tray included a custom recess for a branded authenticity card alongside the necklace and earring slots. After launching the new packaging, the brand saw a 25% increase in customer-shared unboxing videos on social media and a measurable drop in return rates attributed to perceived quality improvement.
