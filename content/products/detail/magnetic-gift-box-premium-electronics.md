@@ -72,3 +72,63 @@ Bincai's magnetic rigid gift box for premium electronics is engineered for brand
 | **Abrasion Resistance** | Taber CS-10 | ≥100 cycles no visible wear |
 | **100% Visual Inspection** | D50 standard lighting | Every unit inspected |
 | **Humidity Test** | 40°C / 90% RH / 48h | No delamination or warping |
+
+## Seven-Stage Quality Control Gates
+
+Every magnetic electronics gift box passes through Bincai's proprietary Seven-Gate QC system before shipment:
+
+| Gate | Inspection Point | Method | Acceptable Standard |
+|---|---|---|---|
+| **Gate 1** | Raw Material Incoming | Spectrophotometer + caliper + moisture meter | Board caliper ±5%, moisture 6–8%, color within ΔE 2.0 |
+| **Gate 2** | Sheet-Fed Printing | Heidelberg Prinect Inpress Control (inline spectrophotometer) | ΔE ≤ 2.0, registration ±0.15mm, no hickeys or ghosting |
+| **Gate 3** | Lamination & Coating | Visual + cross-hatch adhesion test (ASTM D3359) | No bubbles, peeling, or delamination; 5B adhesion rating |
+| **Gate 4** | Die-Cutting & Creasing | Digital caliper on 10% random sample | ±0.3mm dimensional, clean cuts without fiber tear |
+| **Gate 5** | Box Wrapping & Magnet Insertion | Pull-force gauge on 100% of magnet pairs | ≥4.5 N magnet retention, zero magnet misalignment |
+| **Gate 6** | Foam Insert CNC & Fit Check | Go/no-go gauge + visual under D50 lighting | ±0.5mm cavity fit, no foam debris or burrs |
+| **Gate 7** | Final Assembly & Packaging | AQL 2.5 Level II sampling + drop test (ISTA 1A) | Zero functional defects, lid gap ≤1.0mm, clean surface |
+
+## Sustainability & Compliance
+
+| Standard | Requirement | Bincai Compliance |
+|---|---|---|
+| **FSC Chain-of-Custody** | Traceable fiber from certified forests | FSC-C141996 certified; audit trail from pulp mill to finished box |
+| **EU Packaging Directive 94/62/EC** | Sum of heavy metals (Pb+Cd+Hg+Cr VI) ≤ 100 ppm | All inks and coatings tested below threshold |
+| **REACH SVHC** | No Substances of Very High Concern above 0.1% w/w | Full SVHC declaration available upon request |
+| **California Proposition 65** | No listed chemicals without warning label | Compliant; phthalate-free adhesives and inks |
+| **RoHS 3 (EU 2015/863)** | Restricted substances in electrical packaging | Compliant for electronics accessory packaging; full test report available |
+| **EVA Foam Recyclability** | End-of-life pathway identification | EVA classified as #7 — recycling programs available in EU/Japan; we offer molded pulp alternative for brands targeting full recyclability |
+
+## Frequently Asked Questions
+
+**Q: Can the foam insert be designed for multiple device models in one box?**
+A: Yes. Our CNC routers can profile multi-cavity inserts that accommodate different device generations or a device + accessories (charger, cable, manual) in a single tray. We provide 3D renderings for your approval before tooling.
+
+**Q: What is the lead time for a custom foam mold?**
+A: Foam tooling takes 5–7 working days. We include digital 3D mockups within 48 hours of receiving your device dimensions or CAD file.
+
+**Q: Can the box exterior be branded with my company's PMS colors?**
+A: Absolutely. Our Heidelberg 7+1 UV press handles up to 7 Pantone spot colors plus UV coating in a single pass. We match any PMS color with spectrophotometer verification and provide color drawdowns for approval before production.
+
+**Q: Is the magnetic closure strong enough for heavy electronics like over-ear headphones?**
+A: Yes. We use dual N35 neodymium magnets rated at ≥4.5N pull force per pair. For heavier products (300g+), we upgrade to N42 magnets (≥6.0N) or triple-magnet configurations. We test every unit on the magnet pull-force gauge at Gate 5.
+
+**Q: What is your sample policy?**
+A: We offer free digital 3D renderings (48 hours) and physical hard-proof samples via DHL/FedEx (7–10 days). Sample cost is credited against your first production order. Rush 5-day samples are available with a $150 surcharge.
+
+**Q: Can you do full-color CMYK printing on the box interior?**
+A: Yes. Both exterior and interior can be fully printed on our Heidelberg press. For maximum luxury impact, we recommend a black or charcoal interior wrap with gold foil brand logo — massively elevates the unboxing experience.
+
+**Q: Do you offer fulfillment and kitting services?**
+A: Yes. Bincai provides value-added services including product insertion, accessory kitting, barcode labeling, and drop-ship directly to Amazon FBA, your 3PL, or end customers. Our 18,000 sqm facility has dedicated kitting zones with QC oversight.
+
+## Why Bincai for Premium Electronics Packaging?
+
+| Our Advantage | What It Means for Your Brand |
+|---|---|
+| **22 Years Electronics Packaging** | Since 2003, we've produced packaging for headphones, smartwatches, tablets, drones, and IoT devices — we understand EMI shielding, ESD protection, and retail shelf requirements |
+| **German Press Technology** | Heidelberg Speedmaster CD 102 7+1 UV + KBA Rapida 105 4-color — the same presses used by Apple and Samsung packaging suppliers |
+| **In-House Foam Engineering** | CNC foam routing, die-cutting, and assembly all under one roof — no subcontracting delays, full quality control |
+| **Dual-Factory Capacity** | 18,000 sqm across two facilities with 24/7 production capability — scale from 500-unit pilot to 500,000-unit annual contract without slowdown |
+| **Global Compliance Ready** | RoHS, REACH, Prop 65, FSC — your packaging is pre-qualified for EU, North American, and Asia-Pacific markets |
+| **Smart Factory Integration** | Real-time production tracking, automated magnet pull testing, and digital QC records shared via customer portal |
+| **End-to-End Service** | From structural design and 3D prototyping through production, kitting, and global logistics — single point of accountability |
