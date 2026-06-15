@@ -1,15 +1,15 @@
 ---
-title: "Single Wall Corrugated Shipping Box with Tear Strip"
+title: "Single Wall Corrugated Shipping Box with Tear Strip — Bincai E-Commerce & Subscription Box Packaging"
 date: 2026-06-10
 draft: false
-description: "Custom single-wall corrugated shipping box with integrated tear strip for easy consumer opening. B/C/E-flute options, flexo/offset printed. Ideal for e-commerce, subscription boxes, and mail-order. ISO 9001 & FSC certified. Bincai — 22-year factory, 18,000 sqm (10,000+8,000 smart factory), MOQ 500."
-keywords: "corrugated shipping box, single-wall corrugated box, tear strip box, e-commerce shipping box, subscription box, mail order packaging, custom corrugated mailer, corrugated box manufacturer China, ISO 9001 FSC packaging, tear-open box, Bincai Color Printing, shipping box with tear strip, retail shipping box"
+description: "Custom single-wall corrugated shipping box with integrated tear strip for easy consumer opening by Bincai. B/C/E-flute options, flexo/offset printed on KBA 1050 4-color and Heidelberg 7+1 UV presses. 22 years manufacturing, 18,000 sqm factory (10,000+8,000 smart factory), daily output 1.7 million boxes. Ideal for e-commerce, subscription boxes, and mail-order fulfillment. ISO 9001:2015 & FSC Chain-of-Custody certified. MOQ 500."
+keywords: "corrugated shipping box, single-wall corrugated box, tear strip box, e-commerce shipping box, subscription box, mail order packaging, custom corrugated mailer, corrugated box manufacturer China, ISO 9001 FSC packaging, tear-open box, Bincai Color Printing, shipping box with tear strip, retail shipping box, B-flute corrugated box, C-flute shipping box, E-flute retail box, flexo printed corrugated, offset printed box, tear-strip mailer, easy-open shipping box, direct-to-consumer packaging, DTC fulfillment box, corrugated shipping container, kraft corrugated box, custom size shipping box, Guangdong corrugated manufacturer, Foshan packaging factory, KBA 1050 offset, Heidelberg 7+1 UV, ISO 9001:2015 certified, FSC Chain-of-Custody, 22 year factory, 18 000 sqm, 1.7M daily output, sustainable shipping box, eco-friendly corrugated, wholesale shipping boxes, OEM corrugated packaging, ISTA tested shipping box, tear-perforation box"
 categories: ["corrugated-mailers"]
 params:
   moq: "500-1000"
   price: "0.25-3.00"
   material: "B/C/E/BC Flute Corrugated / Kraft / White Top / Test Liner"
-  certification: "ISO 9001, FSC"
+  certification: "ISO 9001:2015, FSC Chain-of-Custody"
 ---
 
 ![Bincai Corrugated Mailers](/images/corrugated-mailer.jpg)
