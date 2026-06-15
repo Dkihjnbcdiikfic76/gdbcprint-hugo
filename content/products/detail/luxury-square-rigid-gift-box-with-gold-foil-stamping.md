@@ -61,4 +61,87 @@ Timeless luxury square rigid gift box with gold foil stamping — manufactured b
 - 18,000 sqm dual factory with dedicated rigid box production lines
 - MOQ 500–1000 units; free pre-production samples in 5–7 working days
 
+## Quality Assurance
+
+| Test | Method/Standard | Acceptance Criteria |
+|------|----------------|---------------------|
+| Greyboard thickness | Digital caliper, ISO 534 | Spec ±0.1 mm |
+| Wrap paper adhesion | Cross-cut tape test, ASTM D3359 | Classification 4B min |
+| Foil adhesion | 3M 600 tape test, rub test 50 cycles | No peel / flake / visible wear |
+| Color consistency | X-Rite eXact spectrophotometer | ΔE ≤ 2.0 vs master proof |
+| Magnet pull force | Force gauge, N35 | ≥ 6 N per pair |
+| Hinge cycle test | Automated rig, 2,000 open-close | No loosening, magnet secure |
+| Corner inspection | Feeler gauge, visual | All 4 corners flush, gap ≤ 0.3 mm |
+| Drop test | ISTA 1A, 10 drops from 760 mm | No structural failure |
+| AQL sampling | ISO 2859-1 Level II | AQL 2.5 major / AQL 1.0 minor |
+| Final inspection | D65 lighting booth, ISO 3664 | Zero cosmetic defects |
+
+## Production Quality — Seven-Stage QC Gates
+
+| Stage | Checkpoint | Standard |
+|-------|-----------|----------|
+| 1 — Raw Material | Greyboard grammage & density, art paper batch verification, foil roll consistency | ISO 534 / ISO 536, FSC-STD-40-004 |
+| 2 — Printing | Color ΔE ≤ 2.0, registration ±0.15 mm, ink density consistency | Heidelberg Prinect Inpress Control, ISO 12647-2 |
+| 3 — Foil & Embossing | Foil adhesion ±0.15 mm registration, emboss depth ±0.1 mm, blind deboss clean edges | Bobst SP 102 BMA, Internal QA-SOP-FOIL-003 |
+| 4 — Die-Cutting | Box blank dimension ±0.3 mm, mitered corners flush, clean cut edges | Bobst flatbed die-cutter, ISO 2768-m |
+| 5 — Rigid Box Assembly | Wrap tension, corner sharpness, magnet alignment, interior tray fit | Emmeci MC2004 automatic line, Internal QA-SOP-RIGID-011 |
+| 6 — Magnet & Fitment | Magnet snap force ≥ 6 N, 2,000-cycle hinge test, insert cavity fit verification | Internal QA-SOP-MAG-005 |
+| 7 — Final Audit | AQL 2.5 Level II, full functional test, D65 visual inspection, packaging integrity | ISO 2859-1 |
+
+## FAQ
+
+**Q: What is the minimum order quantity for this luxury square rigid gift box?**
+
+A: MOQ is 500 units. We provide free pre-production samples (5–7 working days) so you can evaluate the gold foil quality, material feel, and structural integrity before committing to production.
+
+**Q: Can I customize the foil color and embossing pattern?**
+
+A: Yes. We offer gold (22K imitation), silver, rose gold, copper, holographic, matte gold, and matte silver foil. For embossing, we can create custom brass dies from your artwork. Multi-pass foil stamping supports up to 3 foil colors on a single box via sequential Bobst SP 102 BMA passes.
+
+**Q: How does the magnetic closure hold up over time?**
+
+A: We use N35-grade neodymium magnets delivering ≥ 6 N pull force per pair. Our automated hinge cycle test verifies 2,000+ open-close cycles without loosening or magnet dislodgement, ensuring years of reliable use in retail and gift applications.
+
+**Q: Can the box be shipped flat to reduce freight costs?**
+
+A: Yes. For orders above 3,000 units, we recommend flat-packed (unassembled) shipping which reduces freight volume by 60–70%. A standard 40HQ container holds 40,000–80,000 rigid boxes flat-packed versus 15,000–30,000 assembled. Pre-assembled shipping is available for smaller orders.
+
+**Q: What interior customization options are available?**
+
+A: We offer satin-covered foam inserts, flocked PET trays, velvet-lined cavities, molded pulp trays, and ribbon pull-tabs — all die-cut to your exact product dimensions. We'll verify the insert fit with your product sample before mass production.
+
+**Q: What is the production lead time?**
+
+A: Standard lead time is 12–18 days for new tooling and 8–12 days for repeat orders. Rush production at 5–7 days is available. Pre-production samples ship in 5–7 business days.
+
+## Sustainability & Compliance
+
+| Aspect | Detail |
+|--------|--------|
+| Paper Sourcing | FSC Chain-of-Custody certified greyboard and art paper — each shipment traceable to responsibly managed forests |
+| Greyboard Core | 100% recycled post-consumer and post-industrial fiber — closed-loop recycling within Southern China's paper industry |
+| Adhesive | Water-based PVA — biodegradable, VOC-free, GB/T 33372-2020 and EU 94/62/EC compliant |
+| Foil | Hot stamping foil carrier is polyester-based — minimal waste; foil waste is collected for specialized recycling |
+| Ink | Soy-based vegetable inks — heavy-metal-free, REACH compliant, suitable for food-contact indirect packaging |
+| Magnets | N35 neodymium magnets are recoverable during recycling — magnetic separation captures them for reuse |
+| Factory Waste | 95%+ paper and board waste diverted from landfill via closed-loop recycling program |
+| Carbon | LED factory lighting, Emmeci MC2004 energy-efficient assembly line, optimized batch production scheduling |
+| Certifications | ISO 9001:2015, FSC Chain-of-Custody, Sedex SMETA 4-Pillar, SGS product testing |
+
+## Why Choose Bincai for Luxury Rigid Gift Boxes?
+
+Bincai has earned the trust of global luxury brands, premium retailers, and corporate gifting programs who demand rigid box packaging that communicates quality before the product is even seen. Our 18,000 sqm Foshan facility integrates KBA 1050 and Heidelberg Speedmaster CD 102 7+1 UV offset presses with the Emmeci MC2004 automatic rigid box line and Bobst SP 102 BMA hot foil stamping — delivering Italian-grade rigid box precision at Chinese manufacturing speed and pricing.
+
+**The Bincai Difference:**
+
+- **Full-Process Rigid Box Manufacturing** — Greyboard lamination, art paper/leatherette wrapping, foil stamping, embossing, magnet insertion, interior tray fabrication, and final QA — every step is in-house. No subcontracting means consistent quality from sample to production.
+- **Gold Foil Mastery** — Bobst SP 102 BMA with multi-pass registration delivers the crisp, reflective branding that luxury brands demand. We run 50,000+ foil-stamped rigid boxes daily with ±0.15 mm registration tolerance.
+- **Material Versatility** — From classic gold foil on matte black art paper to holographic foil on linen-textured stock, our material library spans 157–250gsm art papers, 0.6mm PU leatherette in 30+ colors, metallic foil papers, and woodgrain papers.
+- **Scalable Production** — 220,000+ rigid boxes daily output handles both boutique 500-unit runs for limited editions and 100,000+ unit brand rollouts with equal attention to quality.
+- **Fast Sampling** — 5–7 day pre-production samples let you evaluate color, foil quality, and structural feel before production. We've helped 200+ brands launch premium packaging since 2003.
+
+**Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day + 220K+ gift boxes | KBA Rapida 1050 + Heidelberg Speedmaster XL 7+1 UV | Bobst SP 102 BMA | ISO 9001:2015 & FSC Chain-of-Custody | Foshan, Guangdong, China.
+
+**Shipping:** Flat-packed option reduces freight volume 60–70%. Typical 40HQ container holds 30,000–80,000 rigid boxes. Lead time 12–18 days FOB Shenzhen/Guangzhou.
+
 [View on Made-in-China.com →](https://bincaipaperbox.en.made-in-china.com/)
