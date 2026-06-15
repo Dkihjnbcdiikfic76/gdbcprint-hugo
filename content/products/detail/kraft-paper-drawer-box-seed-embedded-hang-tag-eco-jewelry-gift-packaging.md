@@ -18,7 +18,7 @@ tags:
   - ISO 9001 certified
 ---
 
-![Bincai Kraft Eco Box](/images/cat-rigid-others.jpg)
+![Bincai Kraft Eco Box](/images/kraft-eco-box.jpg)
 
 Kraft paper drawer box with seed-embedded hang tag for eco jewelry gift packaging by Guangdong Bincai Color Printing Co., Ltd. — a Diamond Member on Made-in-China.com with 22 years of manufacturing excellence (founded 2003). Made from FSC-certified recycled kraft paperboard with a plantable seed-paper hang tag embedded with wildflower seeds — customers plant the tag and it grows. Jute twine drawer pull and soy-based ink printing complete the zero-waste promise. Produced on KBA 1050 4-color and Heidelberg 7+1 UV presses across our 18,000 sqm facility (10,000+8,000 smart factory, 2025 expansion). Daily output: 1.7 million boxes. ISO 9001:2015 and FSC® certified.
 
