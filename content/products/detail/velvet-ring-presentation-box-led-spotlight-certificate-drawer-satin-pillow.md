@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Velvet Ring Presentation Box with LED & Certificate Drawer](/images/cat-fold-mailer.jpg)
+![Bincai Velvet Ring Presentation Box with LED & Certificate Drawer](/images/cat-rigid-jewelry.jpg)
 
 The velvet ring presentation box with LED spotlight and certificate drawer is designed for the most significant jewelry moment — the reveal. Manufactured by Guangdong Bincai Color Printing Co., Ltd. — a 22-year Foshan paper box specialist with 18,000 sqm across two facilities — this box wraps 1.5mm rigid greyboard in premium velvet with a magnetic closure that opens with satisfying precision. A warm white LED spotlight automatically illuminates the ring as the lid opens, while the concealed pull-out drawer elegantly presents the certificate of authenticity, diamond grading report, or brand story.
 

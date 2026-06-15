@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, OK Compost HOME (EN 13432)"
 ---
 
-![Bincai Kraft Paper Honeycomb Wine Shipper](/images/cat-fold-mailer.jpg)
+![Bincai Kraft Paper Honeycomb Wine Shipper](/images/kraft-eco-box.jpg)
 
 The kraft paper honeycomb wine shipper represents a breakthrough in sustainable wine logistics — combining FSC-certified kraft outer construction with a hexagonal honeycomb structural core that delivers crush resistance rivaling double-wall corrugated at 40% less material weight. Manufactured by Guangdong Bincai Color Printing Co., Ltd. — a 22-year Foshan packaging specialist with 18,000 sqm of dual-factory production — this shipper uses 100% biodegradable molded pulp bottle cradles and jute rope carry handles for a fully home-compostable packaging system.
 
