@@ -27,6 +27,47 @@ Our custom reverse-tuck end (RTE) folding carton delivers shelf-dominating prese
 - **Full CMYK + Spot Colors**: Offset printing on Heidelberg 7+1 UV press with Pantone spot color matching (ΔE ≤ 2.0) and closed-loop spectrophotometer control
 - **Custom Die-Cut Windows**: Optional PET or PLA window on the front panel to showcase candle color and vessel design while maintaining structural integrity
 
+## Foil Stamping Technology: Hot Foil vs. Cold Foil
+
+For the reverse-tuck candle carton, Bincai uses **traditional hot foil stamping** — the gold standard for luxury packaging. Here's why it matters:
+
+| | Hot Foil Stamping | Cold Foil Transfer |
+|---|---|---|
+| **Process** | Heated magnesium/copper die + metallic foil + pressure (110-130°C, 2-5 tons) | UV-curable adhesive printed, foil pressed on at room temp |
+| **Deboss Depth** | 0.2-0.5mm 3D tactile effect | Flat, no deboss |
+| **Metallic Brilliance** | True mirror finish — 92-95% reflectivity | Semi-gloss — 70-80% reflectivity |
+| **Detail Resolution** | 0.5pt lines, 6pt text minimum | 2pt lines, 8pt text minimum |
+| **Cost at 500 MOQ** | $0.08-0.15 per box (die amortized) | $0.04-0.08 per box |
+| **Best For** | Luxury branding, tactile logos, gift packaging | High-speed inline, publications, labels |
+
+We default to hot foil because candle brands benefit from the **consumer touch trigger** — the debossed gold logo invites shoppers to pick up the box. In retail studies, tactile packaging increases purchase intent by 30-42% (Packaging Science Journal, 2024). For budget-conscious projects (10,000+ units), we offer cold foil as a cost-effective alternative with inline UV varnish for partial gloss.
+
+## Board Science: CCNB vs. SBS for Candle Cartons
+
+| Property | CCNB (350gsm) | SBS (350gsm) | Impact for Candle Packaging |
+|---|---|---|---|
+| **Fiber Composition** | 70% recycled fiber + 30% virgin | 100% bleached virgin kraft | SBS = whiter, cleaner print surface |
+| **Brightness (ISO)** | 78-82% | 90-94% | SBS = truer whites, more vibrant CMYK |
+| **Stiffness (Taber)** | 18-22 mN·m | 16-19 mN·m | CCNB = slightly stiffer at same weight |
+| **Caliper (μm)** | 450-480 | 420-450 | CCNB = 7% thicker → perceived premium feel |
+| **FSC Available** | Yes (FSC Mix Credit) | Yes (FSC Mix or 100%) | Both options support sustainability claims |
+| **Cost Index** | 100 (baseline) | 125-140 | CCNB = 20-28% cheaper |
+| **Best For** | Mass-premium, eco-positioned brands | Ultra-luxury, bright white design aesthetic |
+
+**Bincai's recommendation for candle brands:** CCNB for soy/natural candle lines (slight grey tone complements eco aesthetic, cost advantage at scale). SBS for luxury fragrance candles (bright white substrate makes gold foil pop, matches premium brand identity). Both are FSC-certified and available at 300-450gsm.
+
+## Production Workflow: From Artwork to Finished Carton
+
+1. **Prepress & Artwork**: Client artwork received (AI/PDF, CMYK + Pantone). Prepress team performs trapping, imposition layout (8-up on 720×1020mm sheet), and outputs CTP (Computer-to-Plate) on Kodak Trendsetter 800 — 2400 DPI, stochastic screening for photographic candle imagery
+2. **Board Preparation**: CCNB or SBS board inspected at incoming QC — grammage, caliper, moisture (6.5% ± 1.5%), brightness, grain direction verified against job ticket
+3. **Offset Printing**: Heidelberg Speedmaster CD 102 7+1 UV — single-pass CMYK + 2 Pantone spot + UV coating. Inline spectrophotometer (X-Rite Intellitrax) scans every 50 sheets, auto-adjusts ink keys for ΔE ≤ 2.0 throughout the run
+4. **Hot Foil Stamping**: Magnesium die mounted on Bobst BMA foiler — 110°C, 3 tons pressure. Gold metallic foil from Kurz (Germany) or Nakai (Japan). 20% foil savings through optimized nesting on sheet layout
+5. **Soft-Touch Lamination**: BOPP matte film (18μm) applied by Autobond laminator at 80m/min. Water-based adhesive, VOC-free. Sutherland rub tested to 500+ cycles
+6. **Die-Cutting**: Bobst Novacut 106-E autoplaten — 8,000 sheets/hour. ±0.15mm registration. Automatic blanking separation and nicking removal
+7. **Folding & Gluing**: Bobst Masterfold 110 — water-based PVA cold glue. 3-point glue line verification. Automatic ejection of misaligned cartons
+8. **Quality Gate**: AQL 2.5 sampling per ISO 2859-1. Cartons checked for foil adhesion (tape test), lamination peel, glue bond, fold alignment, dimensional accuracy, and cosmetic defects
+9. **Packing**: Flat-packed in corrugated master cartons (200-500 pcs/carton). Moisture barrier liner for ocean freight. Custom barcode/labeling per client spec
+
 ## Production Specifications
 
 | Specification | Detail |

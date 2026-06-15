@@ -57,6 +57,33 @@ Elegant hexagonal rigid gift box with magnetic closure and satin ribbon for prem
 | Lead Time | 15-20 working days after sample approval |
 | Food Safety | FDA 21 CFR, EU 1935/2004 Compliant |
 
+## Quality Control
+
+|| Gate | Inspection | Method/Standard | Equipment |
+||---|---|---|---|
+|| **1. Board Inspection** | Grammage, caliper, moisture, grain direction | ISO 536, ISO 534 | Electronic balance, micrometer, moisture meter |
+|| **2. Sheet Cutting** | Dimensional accuracy, squareness | ±0.5mm tolerance | Polar 137XT, digital protractor |
+|| **3. Printing** | Color density, dot gain, registration | ISO 12647-2, ΔE ≤ 2.0 | X-Rite eXact spectrophotometer, Heidelberg Prinect |
+|| **4. Lamination/Finish** | Peel strength, bubble inspection | ≥3.0N/15mm, visual loupe 10× | Peel tester, inspection light table |
+|| **5. Die-Cutting** | Hexagon angles (120° ± 0.3°), edge quality, nick cleanout | CNC-measured, visual jig | CMM coordinate measuring, digital protractor |
+|| **6. Magnet Insertion** | Magnet pocket depth, polarity check, pull force | N52 ≥ 2.5kg pull force per magnet | Gauss meter, digital force gauge |
+|| **7. Ribbon Attachment** | Knot integrity, ribbon alignment, color match | Visual + pull test (3kg min) | Visual jig, force gauge |
+|| **8. Tray Insertion** | Tray fit, PET clarity, food-grade certification | Visual + certificate verification | Inspection station, UV light (contamination) |
+|| **9. Final Inspection** | AQL 2.5 sampling, cosmetic, dimensional, functional | ISO 2859-1 Level II | Full inspection station with calibrated measurement tools |
+
+## Sustainability & Certifications
+
+|| Standard | Description | Status |
+|---|---|---|
+|| **FSC® Chain-of-Custody** | Responsible forest management — greyboard and paper wrap traceability | Certified (FSC-C147289) |
+|| **ISO 9001:2015** | Quality management system — 7-stage QC audit trail | Certified |
+|| **FDA 21 CFR** | Food contact materials — PET tray and paper wrap compliance | Compliant |
+|| **EU 1935/2004** | Food contact materials regulation (EU) | Compliant |
+|| **EU 94/62/EC** | Packaging & packaging waste directive — heavy metal limits | Compliant |
+|| **CONEG/TPCH** | Toxics in Packaging — Pb+Cd+Hg+Cr⁶⁺ <100ppm | Compliant |
+
+The hexagonal box is designed for recyclability: the paperboard body and wrap are fully recyclable in standard paper streams. The PET inner tray is PET #1 — the most widely recycled plastic globally. Magnets are removable before recycling; for orders 10,000+, we offer a magnet-free version where the closure relies entirely on the satin ribbon tie.
+
 ## Why Bincai
 
 Guangdong Bincai Color Printing is one of the few packaging manufacturers in Southern China with both precision die-cutting for complex polygonal shapes and FDA-compliant food-contact material handling. Our hexagonal box production line uses CNC-guided die-cutting for perfect 120° angles on all six sides — no misalignment, no visible seams. With 22 years of rigid box expertise and 220,000+ daily gift box output, we serve luxury chocolatiers and patisseries across Europe, North America, and Asia. ISO 9001:2015, FSC, and SGS food-contact certified.
