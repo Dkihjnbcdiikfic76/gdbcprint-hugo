@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, SGS, CE (motor + LED)"
 ---
 
-![LED-Illuminated Rotating Jewelry Display Stand Box](/images/cat-fold-gift.jpg)
+![LED-Illuminated Rotating Jewelry Display Stand Box](/images/cat-rigid-jewelry.jpg)
 
 Motorized luxury rotating jewelry display box with LED illumination and remote control — manufactured by **Guangdong Bincai Color Printing Co., Ltd.**, a full-chain packaging enterprise with 22 years of manufacturing expertise (founded 2003). A silent DC motor turntable (3 RPM, CE certified) rotates the jewelry piece through 360° while warm-white LED strip lighting (2700K, 95+ CRI) illuminates it from multiple angles — revealing every facet of gemstones and precious metals. The infrared remote control lets users start/stop rotation, dim LEDs, and toggle between continuous rotation and 8-position pause mode. The interior features a flocked or velvet-covered display platform with ring slots, necklace hooks, or a flat display pad. Rigid box construction with magnetic closure wrapped in premium leatherette or art paper with gold foil branding. Produced on KBA 1050 4-color offset and Heidelberg 7+1 UV presses across Bincai's 18,000 sqm dual factory (10,000+8,000 sqm smart factory) in Foshan, Guangdong. ISO 9001:2015 and FSC certified. Daily output 1.7 million boxes. MOQ 300.
 
