@@ -67,3 +67,50 @@ Guangdong Bincai Color Printing's kraft paper drawer box with die-cut PET window
 - Greyboard core uses minimum 85% post-consumer recycled content
 - Water-based adhesives — no solvent emissions
 - Carbon footprint report available for bulk orders (>10,000 units)
+
+## Why Choose Bincai for Kraft Eco Packaging
+
+Guangdong Bincai Color Printing Co., Ltd. has been manufacturing sustainable kraft packaging since 2003 — long before "eco-friendly" became a marketing trend. With 22 years of expertise and a fully integrated 18,000 sqm facility running KBA Rapida 105 4-color offset (15,000 sheets/hour) and Heidelberg Speedmaster CD 102 7+1 UV presses, Bincai is uniquely positioned to deliver premium eco-packaging at mass-production pricing. Our FSC Chain-of-Custody certification (SCS-COC-006331) is backed by verifiable batch traceability — not just a logo on the box.
+
+| Advantage | Bincai | Industry Typical |
+|---|---|---|
+| **FSC Certification** | SCS-COC-006331 — full batch traceability | Self-declared / uncertified |
+| **Soy-Based Inks** | EN 71-3 heavy-metal-free, biodegradable | Petroleum-based standard |
+| **Recycled Content** | Greyboard 85%+ post-consumer recycled | 30–50% typical |
+| **PET Window** | Food-grade, anti-fog, R-PET option | Industrial-grade PET |
+| **Water-Based Adhesive** | VOC-free throughout | Solvent-based common |
+| **Daily Capacity** | 220,000+ rigid boxes | 20,000–50,000 typical |
+| **Design Support** | In-house CAD + prototyping | Broker referral |
+
+## 7-Stage Quality Control
+
+1. **Incoming Material Inspection** — Kraft paperboard GSM verification (±3%), moisture content 7.0%±1.5%, FSC CoC batch validation, PET film thickness/gauge verification
+2. **Print QC** — Heidelberg inline spectrophotometer with Delta E ≤ 2.0 color monitoring; registration check every 500 sheets; UV coating cure verification (thumb-twist test)
+3. **Die-Cutting QC** — ±0.5mm cutting tolerance; crease depth calibrated to board thickness per batch; automatic waste stripping; 100% inspection for incomplete cuts
+4. **Window Patching QC** — PET film adhesion peel test ≥ 2.5 N/cm; anti-fog coating integrity verification; clarity check (no haze, scratches, or finger marks)
+5. **Drawer Assembly QC** — Sliding action smoothness test (≤ 3N pull force); ribbon pull-tab attachment strength (≥ 15N); drawer-to-sleeve fit gap tolerance ±0.5mm
+6. **Functional Testing** — Humidity chamber test for tea packaging (40°C, 75% RH, 72 hours — no warping or delamination); ISTA 1A drop test per batch
+7. **Pre-Shipment Inspection** — AQL 2.5 Level II per ISO 2859-1; 100% functional test on drawer slide, ribbon pull, window clarity; third-party SGS/Intertek/Bureau Veritas available
+
+## Frequently Asked Questions
+
+**Q: Is the PET window really eco-friendly?**
+A: The PET window is the only non-paper component in the box. We offer three paths to reduce its environmental impact: (1) R-PET (minimum 30% post-consumer recycled PET), (2) PLA biodegradable window film (compostable per EN 13432 — requires industrial composting facility), and (3) window-free design using a die-cut aperture that reveals product directly. Many tea brands prefer the aperture approach — it provides 100% product visibility with zero plastic and zero window cost.
+
+**Q: How airtight is the drawer? Will my tea stay fresh?**
+A: The drawer design provides passive freshness protection — the snug slide-fit creates a natural barrier against ambient air exchange. For enhanced freshness, we can add an inner PE-coated liner bag or aluminum foil laminate pouch as an insert. For long-term tea storage (6+ months), we recommend pairing the kraft drawer box with a heat-sealed inner pouch printed with your branding.
+
+**Q: Can I use this box for food products other than tea?**
+A: Yes — the drawer format works beautifully for dried fruits, nuts, artisanal chocolates, cookies, spice blends, coffee beans, loose herbs, and granola. All materials are food-grade: PET window is FDA 21 CFR compliant, soy inks are EN 71-3 heavy-metal-free, and water-based adhesives contain no solvents. Food contact certificate available on request.
+
+**Q: What customization options make the biggest visual impact on shelf?**
+A: Three techniques: (1) Hot foil stamping on kraft — the metallic-on-matte contrast is striking and reads as "premium craft"; (2) A custom-shaped die-cut window — a tea leaf, heart, or brand logo window creates instant category recognition; (3) Interior printing — a pleasant surprise when the drawer is opened, reinforcing brand identity at the unboxing moment. Combine all three for maximum shelf presence.
+
+**Q: What's the minimum order quantity and lead time?**
+A: MOQ 500 units for standard sizes with existing tooling. 1,000 units for custom dimensions requiring new die fabrication. Lead time: 10–12 working days for new tooling (from artwork approval), 7–10 working days for repeat orders. Free pre-production samples with your logo and full decoration within 7 business days — shipped via DHL/FedEx international priority.
+
+**Q: Can you do foil stamping and embossing on kraft paper?**
+A: Yes — and it's one of our most popular combinations. Hot foil stamping on natural kraft creates an elegant "earthy luxury" aesthetic that's highly sought after in premium tea, organic food, and artisan product markets. Blind embossing (no foil, just the relief impression) is also stunning on kraft — it's subtle until the light catches it. We can stamp foil, blind emboss, or combine both (registered foil stamping + embossing) for maximum dimensionality.
+
+**Q: Do you offer packaging design services or do I need to provide print-ready artwork?**
+A: Both. If you have print-ready AI/PDF artwork with die lines and bleed, we proceed directly to pre-press. If you need design support, our in-house design team can create packaging concepts from your brand guidelines, logo files, and product specifications. We also offer 3D rendered mockups so you can visualize the finished box before committing to tooling — standard at no cost with production orders.
