@@ -2,8 +2,8 @@
 title: "Reverse Tuck Folding Carton Box Cosmetic Skincare Packaging"
 date: 2026-06-10
 draft: false
-description: "Reverse tuck folding carton for cosmetic & skincare packaging. KBA 1050 CMYK offset + Heidelberg 7+1 UV. Food-safe inks, soft-touch & foil finishes. ISO 9001 & FSC. 1.7M daily output. Free samples."
-keywords: "reverse tuck folding carton, cosmetic packaging box, skincare box manufacturer, foil stamped cosmetic box, soft-touch finish carton, KBA Heidelberg printed box, FSC certified cosmetic packaging, custom tuck-end box, luxury skincare carton China, Bincai Color Printing"
+description: "Reverse tuck folding carton for cosmetic, skincare, and beauty packaging — RTE structure with premium finishes. KBA 1050 4-color CMYK offset + Heidelberg 7+1 UV with spot coatings and Pantone matching. Bobst flatbed die-cutting with ±0.15mm registration. Soft-touch matte lamination, hot foil stamping (gold/silver/rose gold/holographic), spot UV, embossing/debossing. Food-safe low-migration inks. 300-400gsm SBS/CCNB board. ISO 9001:2015 and FSC Chain-of-Custody certified with GMI color standards. 1.7M daily output from 18,000 sqm campus. 22 years experience. Guangdong Bincai Color Printing — Diamond Member on Made-in-China.com. MOQ 500. Free samples."
+keywords: "reverse tuck folding carton, cosmetic packaging box, skincare box manufacturer, RTE folding carton, foil stamped cosmetic box, soft-touch finish carton, KBA Heidelberg printed box, FSC certified cosmetic packaging, custom tuck-end box, luxury skincare carton China, Bincai Color Printing, Bobst die-cutting carton, hot foil stamping gold silver, spot UV cosmetic box, embossing debossing carton, food-safe low-migration inks, SBS CCNB board carton, GMI color standard packaging, ISO 9001:2015 certified, Heidelberg 7+1 UV press, 18,000 sqm factory Foshan, 1.7M daily box output, 22 years packaging manufacturer, Diamond Member MIC China, straight tuck STE carton, auto-lock bottom carton, holographic foil carton, rose gold foil box, aqueous coating box, Pantone matching packaging, premium beauty packaging box"
 categories: ["folding-cartons"]
 params:
   moq: "500-1000"
