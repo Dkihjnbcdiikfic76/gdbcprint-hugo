@@ -43,7 +43,7 @@ The natural brown kraft paper package box with jute string handle is designed fo
 
 ## Production Specifications
 
-- **Press**: Heidelberg 7+1 UV (premium) / flexo (economy kraft runs)
+- **Press**: Heidelberg 7+1 UV (premium kraft runs) / KBA Rapida 105 4-color (15,000 sheets/hr) / flexo (economy kraft runs)
 - **Die-cutting**: Bobst flatbed, precision ±0.2mm
 - **Board**: FSC-certified recycled kraft, 250-400gsm
 - **Inks**: Soy-based, EN 71-3 compliant (food contact safe)
@@ -77,3 +77,45 @@ The natural brown kraft paper package box with jute string handle is designed fo
 | Visual Inspection | ISO 2859-1 AQL 2.5 Level II | 100% for print registration, glue bond, handle attachment |
 | Material Traceability | FSC-STD-40-004 | Full chain-of-custody from certified forest to finished box |
 | Compostability | EN 13432 | Full disintegration + ecotoxicity pass (PLA window variant) |
+
+## Seven-Stage Quality Control Gates
+
+| Gate | Stage | Inspection | Defect Trigger |
+|---|---|---|---|
+| **G1** | Raw Material Incoming | Caliper ±10%, moisture 6.5–8.5%, FSC cert, recycled content verification, soy-ink batch cert | Off-spec caliper → batch rejection |
+| **G2** | Sheet Preparation | Kraft sheet flatness, surface pH 6.8–7.2, optical brightness | Warp >2mm/m → reconditioning |
+| **G3** | Printing (Flexo/Offset) | Color ΔE ≤2.0, registration ±0.5mm, ink adhesion 3B+ (tape test), soy-ink VOC verification | ΔE >3.0 → ink reformulation |
+| **G4** | Die-Cutting & Creasing | Dimensional ±0.2mm, scoring depth 50–60% board, edge clean, window cut precision | Blank >0.5mm → die adjustment |
+| **G5** | Gluing (Water-Based PVA) | Bond ≥4N/15mm, open time, zero squeeze-out, biodegradable adhesive cert | Bond <3N → glue temperature/pH check |
+| **G6** | Handle Attachment & Assembly | Jute pull strength ≥8kg, stitch/bond integrity, closure function test | Handle tear <5kg → batch reinforcement |
+| **G7** | Final QC & Packing | ISTA 1A drop (0.76m × 10 drops), visual cosmetic, barcode grade B+, count accuracy, biodegradability sampling | Drop failure → batch quarantine; composter fail → trace raw material batch |
+
+## Sustainability & Compliance
+
+| Standard | Scope | Status |
+|---|---|---|
+| **ISO 9001:2015** | Quality management system — design, production, delivery | Certified since 2009 |
+| **FSC Chain-of-Custody** | Fiber traceability — forest to finished box | FSC-C147294 |
+| **EN 13432** | Compostable packaging — full disintegration + ecotoxicity (PLA variant) | Certified |
+| **ASTM D6400** | Compostable plastics (PLA window film) | ASTM-certified |
+| **ASTM D5338** | Biodegradability under composting — ≥90% in 180 days | Verified |
+| **EN 71-3** | Heavy metals — migration from toy materials (child-safe) | Compliant (all soy inks) |
+| **EU 1935/2004** | Food contact materials framework regulation | Compliant |
+| **REACH** | EU chemical safety regulation | Compliant |
+| **RoHS** | Hazardous substance restriction | Compliant |
+| **Soy-Based Inks** | VOC ≤0.5%, heavy-metal-free, fully biodegradable | Standard on all kraft products |
+| **Water-Based PVA Adhesive** | Formaldehyde-free, food-contact compliant | Standard on all assembly |
+| **100% Repulpable** | Full fiber recovery in standard recycling stream | Verified per TAPPI |
+
+## Why Choose Bincai for Kraft Eco Boxes
+
+- **22 years of sustainable packaging expertise** — established 2003, trusted by artisan food, organic skincare, and zero-waste brands across 60+ countries
+- **18,000 sqm integrated facility** — 10,000 sqm main plant + 8,000 sqm smart factory (2025), with dedicated eco-packaging production line
+- **KBA Rapida 105 4-color offset** — 15,000 sheets/hr on kraft with soy-based inks for photo-quality eco-branding
+- **Heidelberg 7+1 UV** — premium kraft runs with metallic soy inks + water-based coating for elevated sustainable packaging
+- **Bobst flatbed die-cutting** — ±0.2mm precision, compatible with recycled kraft caliper variations
+- **Plastic-free supply chain** — water-based PVA adhesive, aqueous coating, PLA bio-film windows, jute/cotton handles — zero fossil-based plastics
+- **EN 13432 + ASTM D6400 certified compostability** — full certification for home + industrial composting (PLA window variant)
+- **1.7 million boxes daily capacity** — dedicated 200K+ eco-box segment with 3-shift operation
+- **MOQ 500** — startup-friendly with free pre-production sample in 5–7 days
+- **Flat-pack design** — 60% shipping volume reduction, lower carbon footprint, FBA-compatible sizing
