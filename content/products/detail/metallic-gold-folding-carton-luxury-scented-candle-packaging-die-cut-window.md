@@ -18,7 +18,7 @@ tags:
   - ISO 9001 certified
 ---
 
-![Bincai Folding Carton](/images/cat-fold-cosmetic.jpg)
+![Bincai Folding Carton](/images/cat-fold-gift.jpg)
 
 Metallic gold folding carton for luxury scented candle packaging with die-cut window by Guangdong Bincai Color Printing Co., Ltd. — a Diamond Member on Made-in-China.com with 22 years of manufacturing excellence (founded 2003). The metallic gold foil lamination creates a luxurious shimmer that catches light on retail shelves, while the die-cut PET window lets customers see and smell the candle. Auto-lock bottom for fast assembly and crush-lock closure for secure retail display. Produced on KBA 1050 4-color and Heidelberg 7+1 UV presses across our 18,000 sqm facility (10,000+8,000 smart factory, 2025 expansion). Daily output: 1.7 million color boxes. ISO 9001:2015 and FSC® certified.
 

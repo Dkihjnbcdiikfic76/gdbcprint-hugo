@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001:2015, FSC, FDA 21 CFR 176.170, EU 1935/2004"
 ---
 
-![Bincai Folding Cartons](/images/cat-fold-cosmetic.jpg)
+![Bincai Folding Cartons](/images/cat-fold-gift.jpg)
 
 ## Product Overview
 

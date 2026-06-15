@@ -18,7 +18,7 @@ tags:
   - ISO 9001 certified
 ---
 
-![Bincai Folding Carton](/images/cat-fold-cosmetic.jpg)
+![Bincai Folding Carton](/images/cat-fold-gift.jpg)
 
 Custom window folding carton for gourmet bakery and dessert display by Guangdong Bincai Color Printing Co., Ltd. — a Diamond Member on Made-in-China.com with 22 years of manufacturing excellence (founded 2003). This die-cut window carton showcases artisan baked goods, pastries, and confections while protecting them during transport and retail display. The crystal-clear PET or compostable PLA window lets the product sell itself, while the rigid SBS board provides crush resistance. Food-grade aqueous coating ensures direct food contact safety. Produced on KBA 1050 4-color and Heidelberg 7+1 UV presses across our 18,000 sqm facility (10,000+8,000 smart factory) (2025 expansion). Daily output: 1.7 million color boxes.
 

@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Folding Cartons](/images/cat-fold-cosmetic.jpg)
+![Bincai Folding Cartons](/images/cat-fold-gift.jpg)
 
 Crash-lock bottom folding carton with grease-resistant coating for bakery, pastry, and baked goods packaging — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). The crash-lock (snap-lock) bottom design folds flat for storage and pops open instantly when squared up, making it ideal for bakeries with high-volume counter service. The integrated grease-resistant coating prevents oil and butter from soaking through the board — keeping your brand printing crisp and your customers' hands clean. KBA 1050 4-color and Heidelberg 7+1 UV presses deliver precision printing across 18,000 sqm factory (10,000+8,000 smart factory). Daily output 1.7 million boxes.
 

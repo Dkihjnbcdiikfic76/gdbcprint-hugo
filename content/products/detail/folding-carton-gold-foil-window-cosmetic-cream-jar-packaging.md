@@ -18,7 +18,7 @@ tags:
   - ISO 9001 certified
 ---
 
-![Bincai Gold Foil Cosmetic Carton](/images/cat-fold-cosmetic.jpg)
+![Bincai Gold Foil Cosmetic Carton](/images/cat-fold-gift.jpg)
 
 Folding Carton with gold foil-stamped die-cut window for cosmetic cream jar packaging by Guangdong Bincai Color Printing Co., Ltd. — a Diamond Member on Made-in-China.com with 22 years of manufacturing excellence (founded 2003). This premium folding carton features SBS C1S board with a gold foil-stamped window frame, allowing the product jar to be displayed while conveying luxury branding. The reverse-tuck or straight-tuck closure ensures secure product retention for retail shelves and e-commerce fulfillment. Produced on KBA 1050 4-color and Heidelberg 7+1 UV presses across our 18,000 sqm facility. Daily output: 1.7 million color boxes.
 

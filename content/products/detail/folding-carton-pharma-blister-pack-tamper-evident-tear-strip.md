@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, ISO 15378, GMP, SGS"
 ---
 
-![Folding Carton with Tamper-Evident Tear Strip — Pharmaceutical Blister Pack Outer Box](/images/cat-fold-cosmetic.jpg)
+![Folding Carton with Tamper-Evident Tear Strip — Pharmaceutical Blister Pack Outer Box](/images/cat-fold-gift.jpg)
 
 Folding carton with tamper-evident tear strip designed for pharmaceutical blister pack outer packaging — manufactured by **Guangdong Bincai Color Printing Co., Ltd.** Engineered to meet the stringent requirements of pharmaceutical packaging, this straight tuck end (STE) carton integrates a perforated tear strip opening, Braille embossing for accessibility compliance, and optional child-resistant (CR) locking features. Produced under ISO 15378 GMP conditions with full batch traceability. The 350-450gsm SBS or CCNB board provides crush resistance for blister pack integrity during distribution. Produced on our KBA Rapida 1050 4-color press and Bobst SP 102 BMA die-cutter across our 18,000 sqm factory with 1.7M daily output capacity.
 

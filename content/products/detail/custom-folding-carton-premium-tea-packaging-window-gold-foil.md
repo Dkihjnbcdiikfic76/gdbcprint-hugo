@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Folding Carton Cosmetic](/images/cat-fold-cosmetic.jpg)
+![Bincai Folding Carton Cosmetic](/images/cat-fold-gift.jpg)
 
 The Custom Folding Carton for Premium Tea Packaging is engineered for tea brands that demand both shelf appeal and product protection. Manufactured by Guangdong Bincai Color Printing Co., Ltd. in their 18,000 sqm Foshan facility, this carton combines offset CMYK printing on KBA Rapida 105 and Heidelberg Speedmaster CD 102 7+1 UV presses with hot gold foil stamping on Bobst equipment — delivering the rich, tactile finish that premium tea packaging requires. The die-cut front window with PLA film lets consumers see the tea leaves or sachets inside, while the auto-lock bottom ensures quick assembly and secure product retention during shipping.
 

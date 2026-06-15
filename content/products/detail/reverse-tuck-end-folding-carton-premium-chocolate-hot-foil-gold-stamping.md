@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Reverse Tuck End Carton](/images/cat-fold-cosmetic.jpg)
+![Reverse Tuck End Carton](/images/cat-fold-gift.jpg)
 
 ## Product Overview
 

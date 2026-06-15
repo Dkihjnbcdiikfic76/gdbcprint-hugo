@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, Food-Safe Inks"
 ---
 
-![Bincai Folding Cartons](/images/cat-fold-cosmetic.jpg)
+![Bincai Folding Cartons](/images/cat-fold-gift.jpg)
 
 ## Product Overview
 

@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Folding Carton Sleeve Tray](/images/cat-fold-cosmetic.jpg)
+![Folding Carton Sleeve Tray](/images/cat-fold-gift.jpg)
 
 Folding carton sleeve tray with window for confectionery display packaging — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). 18,000 sqm factory (10,000+8,000 smart factory) with KBA and Heidelberg presses. Daily output 1.7 million boxes.
 

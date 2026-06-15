@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, FDA 21 CFR 175.105, EN 71-3"
 ---
 
-![Bincai Folding Carton Luxury Dried Fruit & Nut Gift Packaging](/images/cat-fold-cosmetic.jpg)
+![Bincai Folding Carton Luxury Dried Fruit & Nut Gift Packaging](/images/cat-fold-gift.jpg)
 
 Guangdong Bincai Color Printing Co., Ltd. (founded 2003) delivers premium folding carton packaging engineered for luxury dried fruits, gourmet nuts, and upscale confectionery gifting. Featuring a tuck-top closure paired with a snap-lock (auto-lock) bottom, this carton ships flat to minimize logistics costs and assembles in seconds at the point of filling — no glue, no tape, no equipment required.
 

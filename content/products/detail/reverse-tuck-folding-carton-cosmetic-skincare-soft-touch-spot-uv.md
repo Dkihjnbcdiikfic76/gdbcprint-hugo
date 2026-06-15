@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, SGS"
 ---
 
-![Reverse Tuck Folding Carton — Soft-Touch Matte + Spot UV for Cosmetic & Skincare](/images/cat-fold-cosmetic.jpg)
+![Reverse Tuck Folding Carton — Soft-Touch Matte + Spot UV for Cosmetic & Skincare](/images/cat-fold-gift.jpg)
 
 Custom reverse tuck end (RTE) folding carton designed for premium cosmetic and skincare products — manufactured by **Guangdong Bincai Color Printing Co., Ltd.** This sleek folding carton features a soft-touch matte lamination that delivers a luxurious velvety feel, complemented by selective spot UV accents that highlight brand logos, product names, or decorative patterns. The reverse tuck end design with auto-lock bottom provides quick assembly and secure closure for jars, bottles, tubes, and skincare sets. Produced on KBA 1050 4-color offset and Heidelberg 7+1 UV presses across our 18,000 sqm factory.
 

@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Folding Carton](/images/cat-fold-cosmetic.jpg)
+![Folding Carton](/images/cat-fold-gift.jpg)
 
 ## Product Overview
 

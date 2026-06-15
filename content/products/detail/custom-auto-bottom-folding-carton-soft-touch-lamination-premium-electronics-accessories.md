@@ -18,7 +18,7 @@ tags:
   - ISO 9001 certified
 ---
 
-![Bincai Folding Carton](/images/cat-fold-cosmetic.jpg)
+![Bincai Folding Carton](/images/cat-fold-gift.jpg)
 
 Custom auto-bottom folding carton with soft-touch lamination for premium electronics accessories by Guangdong Bincai Color Printing Co., Ltd. — a Diamond Member on Made-in-China.com with 22 years of manufacturing excellence (founded 2003). This folding carton features an auto-lock bottom mechanism that assembles in under 2 seconds without glue, tape, or tools — dramatically reducing fulfillment labor costs. The soft-touch matte lamination delivers a luxurious velvety tactile experience that communicates premium quality before the customer even opens the box. Produced on KBA 1050 4-color and Heidelberg 7+1 UV presses across our 18,000 sqm facility (10,000+8,000 smart factory) (2025 expansion). Daily output: 1.7 million color boxes + 220,000+ gift boxes.
 

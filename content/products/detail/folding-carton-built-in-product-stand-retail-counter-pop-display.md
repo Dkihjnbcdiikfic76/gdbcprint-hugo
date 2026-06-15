@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Folding Carton with Built-in Product Stand for Retail Counter POP Display](/images/cat-fold-cosmetic.jpg)
+![Folding Carton with Built-in Product Stand for Retail Counter POP Display](/images/cat-fold-gift.jpg)
 
 Innovative dual-function folding carton that transforms from shipping mailer to countertop display stand — manufactured by **Guangdong Bincai Color Printing Co., Ltd.**, a Diamond Member on Made-in-China.com since 2015, Audited Supplier with 22 years of experience. The patented crease-and-fold structure ships flat as a standard carton for product protection during transit, then unfolds at retail into an angled display stand that elevates the product for maximum visibility. Die-cut locking tabs hold the display position without glue, tape, or tools — pure structural engineering from Bincai's in-house design team. Eliminates the need for separate retail display fixtures, reducing packaging waste and store labor. Produced on KBA Rapida 105 4-color and Heidelberg Speedmaster CD 102 7+1 UV presses across 18,000 sqm factory (10,000+8,000 sqm smart factory, 2025 expansion).
 

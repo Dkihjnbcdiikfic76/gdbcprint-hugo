@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Folding Cartons](/images/cat-fold-cosmetic.jpg)
+![Bincai Folding Cartons](/images/cat-fold-gift.jpg)
 
 Folding carton auto-bottom tea sachet box with compostable PLA window and gold foil stamping — engineered for premium loose leaf tea, herbal infusion, and specialty tea brands that demand sustainability without sacrificing luxury aesthetics. The auto-lock bottom crates instantly for rapid filling, while the die-cut PLA window (certified compostable per EN 13432) showcases the product inside. Gold foil stamping on the front panel communicates premium positioning. Manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). KBA 1050 4-color and Heidelberg 7+1 UV presses deliver gallery-quality print across 18,000 sqm factory. Daily output 1.7 million boxes.
 

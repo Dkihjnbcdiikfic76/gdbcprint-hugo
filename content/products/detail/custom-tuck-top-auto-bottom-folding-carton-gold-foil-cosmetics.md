@@ -18,7 +18,7 @@ tags:
   - FSC certified
 ---
 
-![Bincai Folding Carton for Cosmetics](/images/cat-fold-cosmetic.jpg)
+![Bincai Folding Carton for Cosmetics](/images/cat-fold-gift.jpg)
 
 Custom tuck-top auto-bottom folding carton with gold hot foil stamping designed for luxury cosmetics, skincare, and fragrance packaging — manufactured by **Guangdong Bincai Color Printing Co., Ltd.**, ISO 9001:2015 and FSC Chain-of-Custody certified. The auto-lock bottom allows rapid manual assembly (under 3 seconds per box) without adhesive, making it ideal for high-volume cosmetic filling lines. Full-color Heidelberg 7+1 UV offset printing delivers photographic-quality brand imagery, while the soft-touch lamination creates the velvety tactile feel that premium cosmetic brands demand. Optional die-cut PET window showcases the product within. 22 years of manufacturing experience since 2003. Daily output of 1.7 million boxes.
 
