@@ -3,7 +3,7 @@ title: "Custom Printed Tea Paper Packaging Box"
 date: 2026-06-11
 draft: false
 description: "Custom Printed Tea Paper Packaging Box by Guangdong Bincai Color Printing — Diamond Member on Made-in-China.com. ISO 9001 FSC certified. Manufactured by Guangdong Bincai Color Printing Co., Ltd. — 22 years experience (founded 2003), 18,000 sqm dual factory (10,000+8,000 sqm smart factory), ISO 9001:2015 & FSC certified, KBA 1050 4-color + Heidelberg 7+1 UV presses, daily output 1.7M boxes, serving 200+ global brands from Foshan, China."
-keywords: "paper box, custom packaging, folding cartons, Bincai, Made-in-China, Bincai, Guangdong packaging factory, 22 years experience, ISO 9001 certified, FSC certified, KBA 1050 offset, Heidelberg 7+1 UV, 18,000 sqm factory, 1.7M daily output, OEM paper box China"
+keywords: "tea packaging box, custom printed tea box, tea paper packaging, loose leaf tea box, tea bag packaging box, tea gift set box, kraft tea box, folding carton tea box, window cutout tea box, gold foil tea box, food-grade tea packaging, tea packaging manufacturer China, Guangdong tea box factory, KBA offset tea box, ISO 9001 FSC tea packaging, custom tea packaging, tea carton box, airtight tea box, Chinese tea packaging, 18,000 sqm factory, 22 years experience, Bincai Color Printing, eco-friendly tea box, compostable tea packaging box"
 categories: ["folding-cartons"]
 params:
   moq: "500-1000"

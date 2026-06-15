@@ -1,7 +1,8 @@
 ---
 title: "Industries"
 date: 2026-06-11
-description: "Industry-specific paper box packaging solutions: cosmetics, electronics, food, healthcare, luxury, and gift packaging. ISO 9001 & FSC certified."
+description: "Industry-specific paper box packaging solutions by Guangdong Bincai Color Printing — cosmetics, electronics, food, healthcare, luxury, and gift packaging. Manufactured in Foshan, Guangdong with 22 years experience (founded 2003), 18,000 sqm dual factory (10,000+8,000 sqm smart factory), ISO 9001:2015 & FSC certified, KBA 1050 4-color + Heidelberg 7+1 UV presses, Bobst SP 102 BMA hot foil stamper, 1.7M daily box output + 220K rigid boxes. Free pre-production samples, MOQ 500. Serving 200+ global brands across 40 countries."
+keywords: "paper box packaging, cosmetics packaging, electronics packaging, food packaging, healthcare packaging, pharmaceutical packaging, luxury packaging, gift packaging, Bincai Color Printing, Guangdong packaging factory, ISO 9001 FSC packaging, KBA 1050 offset packaging, Heidelberg UV packaging, rigid gift box, folding carton, corrugated mailer, magnetic closure box, 18,000 sqm factory, 22 years manufacturing, Foshan factory, OEM packaging China, wholesale paper box, sustainable packaging, FSC certified packaging"
 ---
 
 <div style="background:linear-gradient(135deg,#0d1b3e,#1a3a6b);color:#fff;padding:48px 32px;border-radius:12px;margin-bottom:32px;text-align:center;">
