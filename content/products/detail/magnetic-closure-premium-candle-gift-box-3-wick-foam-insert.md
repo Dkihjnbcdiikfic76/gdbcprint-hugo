@@ -2,8 +2,8 @@
 title: "Magnetic Closure Premium Candle Gift Box 3-Wick Foam Insert"
 date: 2026-06-14
 draft: false
-description: "Magnetic closure rigid gift box for premium 3-wick candles with custom die-cut foam insert, spot UV coating, and embossed logo. ISO 9001 & FSC certified Guangdong factory, 22 years experience, 18,000 sqm facility, daily output 1.7M boxes. MOQ 500 units."
-keywords: "candle gift box, magnetic closure candle box, 3-wick candle packaging, premium candle box, foam insert candle box, spot UV luxury box, Guangdong manufacturer, candle packaging supplier"
+description: "Premium magnetic closure rigid gift box for 3-wick candles with custom CNC die-cut EVA foam insert (45kg/m³ density), spot UV coating, and embossed logo. KBA 1050 4-color + Heidelberg 7+1 UV offset printing, N35 neodymium magnets (2.2kg holding force), ISTA 3A drop-tested. ISO 9001 & FSC certified Guangdong manufacturer with 22 years experience, 18,000 sqm factory (10,000+8,000 smart factory), daily output 1.7M boxes. MOQ 500 units, free pre-production sample."
+keywords: "candle gift box, magnetic closure candle box, 3-wick candle packaging, premium candle box, foam insert candle box, spot UV luxury box, custom candle packaging, luxury home fragrance box, die-cut foam insert, embossed candle box, rigid gift box manufacturer, candle box wholesale China, Guangdong packaging factory, Bincai candle box, FSC certified gift box, neodymium magnet closure, soy wax candle packaging, candle gift set box"
 categories: ["magnetic-closure-boxes"]
 params:
   moq: "500-2000"
