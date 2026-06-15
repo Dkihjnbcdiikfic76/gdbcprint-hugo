@@ -57,3 +57,59 @@ Luxury watch presentation rigid box with plush velvet interior and custom gold f
 - Color matching via spectrophotometer (Delta E < 2.0)
 - Pre-production sample approval before mass production
 - Third-party inspection available (SGS, Bureau Veritas, TÜV)
+
+## Seven-Stage QC Gates
+
+| Stage | Checkpoint | Standard |
+|-------|-----------|----------|
+| Raw Material | Greyboard grammage verification, magnet grade check | 1200–1600gsm greyboard, N52 neodymium magnets, FSC-STD-40-004 CoC |
+| Wrapping | Art paper tension and alignment on Emmeci MC2004 | ±0.15mm alignment tolerance, no bubbles or creases |
+| Foil Stamping | Gold foil adhesion and registration on Bobst SP 102 BMA | ±0.1mm foil placement, cross-hatch adhesion pass |
+| Print | Color density and dot gain on Heidelberg Prinect inline | ΔE ≤ 2.0 across all Pantone spots, inline spectrophotometer |
+| Velvet Lining | Adhesion strength and surface finish | Peel strength ≥ 3.0 N/cm², no wrinkles or lifting |
+| Assembly | Hinge cycle testing and closure force | 10,000+ open/close cycles, closure force 3–8 N |
+| Final Audit | AQL sampling under controlled lighting | AQL 2.5 Level II per ISO 2859-1, visual inspection under D65 illuminant |
+
+## Sustainability & Compliance
+
+| Aspect | Detail |
+|--------|--------|
+| FSC Chain of Custody | All greyboard and art paper sourced from FSC-certified mills (FSC-STD-40-004) |
+| Recyclability | Greyboard and art paper components are fully recyclable; velvet linings are removable for separate disposal |
+| Water-Based Adhesive | VOC-free adhesives compliant with GB/T 36420-2018 for indoor air quality |
+| Soy-Based Ink Option | Soy-based offset inks available for reduced environmental impact |
+| Factory Waste | 95%+ waste diversion rate through paper recycling and controlled scrap programs |
+| Carbon Reduction | LED lighting throughout production floors, optimized press scheduling to reduce energy waste |
+| Certifications | ISO 9001:2015 quality management, FSC CoC, Sedex SMETA ethical audit |
+
+## Why Bincai?
+
+With 22 years of rigid and luxury box manufacturing expertise, Bincai operates one of Guangdong's most advanced packaging facilities. Our Heidelberg Speedmaster CD 102 7+1 UV press delivers instant-cure finishes that protect gold foil registration, while the Bobst SP 102 BMA ensures ±0.1mm foil stamping precision on every box. The Emmeci MC2004 automatic wrapping line guarantees consistent greyboard coverage across 220,000+ rigid boxes produced daily.
+
+**The Bincai Difference:**
+
+- **Heidelberg 7+1 UV instant-cure** — sharp, durable finishes that lock in foil registration and protect against scuffing during transit
+- **Bobst SP 102 BMA foil stamping** — ±0.1mm precision for intricate gold foil logos and multi-level embossing on rigid surfaces
+- **Emmeci MC2004 automatic wrapping** — consistent art paper tension and alignment across high-volume rigid box production runs
+- **220,000+ rigid boxes per day** — scalable capacity from 500-piece sample runs to 100,000+ unit orders without quality compromise
+
+**Factory Facts:** Founded 2003 | 22 years of expertise | 18,000 sqm dual-factory (10,000 + 8,000 sqm smart factory) | 1.7M boxes/day total (220,000+ rigid/gift boxes) | KBA Rapida 105 + Heidelberg Speedmaster CD 102 7+1 UV | Bobst SP 102 BMA | Emmeci MC2004 | ISO 9001:2015 & FSC CoC | Foshan, Guangdong, China
+
+**Shipping:** Rigid boxes ship flat-packed or semi-assembled to reduce freight volume. Pre-production samples delivered in 5–7 days; mass production lead time 10–14 days depending on order size and finishing complexity.
+
+## FAQ
+
+**Q: What is the minimum order quantity for luxury rigid watch boxes?**
+A: Our standard MOQ is 500 units for custom luxury rigid boxes. For initial orders or new designs, we can accommodate runs starting at 500 pieces with full customization including gold foil, velvet lining, and magnetic closure. Volume pricing improves significantly at 1,000+ and 5,000+ tiers.
+
+**Q: Can you produce boxes for single-watch and multi-watch configurations?**
+A: Yes. We manufacture single-watch presentation boxes, dual-watch display cases, and multi-watch collector trays holding 4, 6, 8, or 12 timepieces. Each configuration uses custom die-cut foam or molded pulp inserts precisely shaped to your watch dimensions, with individual velvet-lined compartments and optional watch pillow cushions.
+
+**Q: Can the velvet interior be matched to a specific Pantone color?**
+A: Absolutely. We offer velvet, satin, and suede interior linings matched to your specified Pantone color. Our fabric suppliers maintain a library of 200+ standard velvet shades, and custom dyeing is available for exact Pantone matching with a 7–10 day lead time. Pre-production material swatches are included with every sample order.
+
+**Q: How durable is the gold foil stamping on the box exterior?**
+A: Our gold foil is applied on the Bobst SP 102 BMA hot stamping press at ±0.1mm precision with cross-hatch adhesion testing on every lot. The foil withstands 10,000+ open/close cycles without peeling, flaking, or discoloration. We also offer protective UV spot varnish or soft-touch lamination over the foil area for additional scuff resistance during shipping and retail handling.
+
+**Q: How quickly can I receive a pre-production sample?**
+A: Pre-production samples are delivered within 5–7 business days from design approval. Samples include the actual greyboard, art paper, velvet lining, and gold foil materials used in mass production — not mock-ups. We ship samples via DHL/FedEx at no charge for qualified orders. Material swatches (velvet, art paper, foil options) can be sent in advance within 2–3 days.
