@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Folding Cartons](/images/cat-fold-cosmetic.jpg)
+![Bincai Folding Cartons](/images/cat-fold-autolock.jpg)
 
 Tuck-end folding carton with hot foil stamping for scented candle packaging — engineered by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of manufacturing excellence (founded 2003). Designed specifically for premium scented candles, home fragrance products, and artisanal candle brands. The tuck-end closure provides secure packaging while remaining easy to open and reclose. Constructed from 350gsm C1S (coated one side) solid bleached sulphate board with matte lamination for a soft, elegant tactile finish. Hot foil stamping in gold, silver, or rose gold creates a striking brand impression. Produced on KBA Rapida 105 4-color offset press with Heidelberg Speedmaster CD 102 7+1 UV press for specialty coatings. Our 18,000 sqm Foshan facility (10,000 sqm main + 8,000 sqm smart factory commissioned 2025) delivers 1.7 million color boxes daily under ISO 9001:2015 and FSC Chain-of-Custody certification.
 

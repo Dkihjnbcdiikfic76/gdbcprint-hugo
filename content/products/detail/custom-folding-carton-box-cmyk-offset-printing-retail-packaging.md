@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Folding Cartons](/images/cat-fold-cosmetic.jpg)
+![Bincai Folding Cartons](/images/cat-fold-autolock.jpg)
 
 Custom folding carton box with CMYK offset printing for retail packaging — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience. ISO 9001 and FSC certified factory in Foshan, China, operating KBA 1050 4-color and Heidelberg 7+1 UV presses with 1.7 million boxes daily output.
 

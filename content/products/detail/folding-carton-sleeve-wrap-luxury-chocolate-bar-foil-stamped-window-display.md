@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, SGS, Food-Safe Inks"
 ---
 
-![Folding Cartons](/images/cat-fold-cosmetic.jpg)
+![Folding Cartons](/images/cat-fold-autolock.jpg)
 
 Elegant folding carton sleeve wrap for luxury chocolate bars and premium confectionery, manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — Diamond Member on Made-in-China.com since 2015, Audited Supplier. 350gsm SBS (solid bleached sulfate) board with soft-touch matte lamination, hot foil-stamped decorative border, and a clear die-cut PET window that showcases the chocolate bar inside. Slide-on sleeve design — the inner tray slides out revealing the confectionery in a premium presentation.
 

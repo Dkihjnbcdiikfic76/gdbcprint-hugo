@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Reverse Tuck End Folding Carton for Pharmaceuticals](/images/cat-fold-cosmetic.jpg)
+![Reverse Tuck End Folding Carton for Pharmaceuticals](/images/cat-fold-autolock.jpg)
 
 ## Reverse Tuck End Folding Carton — Pharmaceutical & Supplement Grade
 

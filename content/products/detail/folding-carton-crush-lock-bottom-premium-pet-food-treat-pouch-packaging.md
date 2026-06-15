@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, Food-Grade Aqueous Coating"
 ---
 
-![Folding Carton](/images/cat-fold-cosmetic.jpg)
+![Folding Carton](/images/cat-fold-autolock.jpg)
 
 ## Product Overview
 

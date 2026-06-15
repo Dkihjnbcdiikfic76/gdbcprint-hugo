@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001:2015, FSC Chain-of-Custody"
 ---
 
-![Custom Folding Carton with Crush-Lock Bottom and Metallic Foil Logo](/images/cat-fold-cosmetic.jpg)
+![Custom Folding Carton with Crush-Lock Bottom and Metallic Foil Logo](/images/cat-fold-autolock.jpg)
 
 ## Product Overview
 

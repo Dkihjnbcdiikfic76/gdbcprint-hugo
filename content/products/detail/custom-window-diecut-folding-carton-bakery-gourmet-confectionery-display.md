@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, FDA 21 CFR, EU 1935/2004"
 ---
 
-![Folding Carton](/images/cat-fold-cosmetic.jpg)
+![Folding Carton](/images/cat-fold-autolock.jpg)
 
 ## Product Overview
 

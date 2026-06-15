@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, FDA Food Contact Compliant"
 ---
 
-![Reverse-Tuck Folding Carton for Gourmet Chocolate Bar](/images/cat-fold-cosmetic.jpg)
+![Reverse-Tuck Folding Carton for Gourmet Chocolate Bar](/images/cat-fold-autolock.jpg)
 
 ## Product Overview
 
