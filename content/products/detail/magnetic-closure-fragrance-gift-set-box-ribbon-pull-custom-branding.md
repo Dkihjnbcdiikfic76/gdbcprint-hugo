@@ -32,45 +32,40 @@ Premium magnetic closure fragrance gift set box engineered for luxury perfume an
 | Option | Available Choices |
 |---|---|
 | **Size** | 180×120×60mm to 320×220×100mm; custom dimensions available |
-| **Bottle Cavities** | 1, 2, 3, or 4 bottle slots with protective foam dividers |
-| **Board** | 2.0mm or 2.5mm rigid greyboard core |
-| **Wrapping** | 128–200gsm art paper, textured specialty paper, leatherette finish |
-| **Printing** | Full CMYK offset + Pantone spot colors; gold/silver/rose gold hot foil stamping |
-| **Finishes** | Matte/gloss lamination, soft-touch velvet coating, spot UV varnish |
-| **Foil Colors** | Gold, silver, rose gold, copper, holographic, brushed metal |
-| **Ribbon** | Satin, grosgrain, or velvet ribbon in 30+ Pantone-matched colors |
-| **Interior Lining** | Flocked velvet, satin, or suede-effect paper lining |
-| **Closure** | Hidden neodymium magnet snap (2× or 4× magnets depending on size) |
+| **Bottle Cavities** | 1, 2, 3, or 4 bottle slots with protective foam dividers; custom cavity profiling for EDP, EDT, rollerball, or travel-size atomizers |
+| **Board** | 2.0mm or 2.5mm rigid greyboard core; 3.0mm available for oversized/heavy multi-bottle sets |
+| **Wrapping** | 128–200gsm art paper, textured specialty paper, leatherette finish, linen-textured, metallic pearlescent |
+| **Printing** | Full CMYK offset + Pantone spot colors; gold/silver/rose gold/copper/holographic hot foil stamping |
+| **Finishes** | Matte/gloss lamination, soft-touch velvet coating, spot UV varnish, aqueous varnish, anti-scratch film |
+| **Foil Colors** | Gold, silver, rose gold, copper, holographic, brushed metal, matte gold, champagne foil |
+| **Ribbon** | Satin, grosgrain, or velvet ribbon in 30+ Pantone-matched colors; custom-printed brand ribbon available |
+| **Interior Lining** | Flocked velvet, satin, or suede-effect paper lining in 60+ color options; custom-printed brand pattern fabric |
+| **Closure** | Hidden neodymium magnet snap (2× or 4× magnets depending on size); N35–N52 grade for optimal hold |
+| **Additional Features** | LED strip lighting in lid (battery-powered with auto-off), mirror insert under lid, hidden drawer for samples/certificates, NFC chip integration for brand authentication, RFID anti-counterfeiting tag |
+| **Branding** | Debossed logo, embossed pattern, registered emboss + foil, micro-emboss all-over texture, digital foil (variable data) for numbered limited editions |
 
 ## Production Specifications
-- KBA Rapida 105 4-color offset press for precision color reproduction
-- Heidelberg Speedmaster CD 102 7+1 UV press for specialty coatings and varnishes
-- Automatic rigid box wrapping line with ±0.3mm corner miter precision
-- Hot foil stamping with custom magnesium/brass dies — single or multi-level
-- Magnetic pocket routing and neodymium magnet insertion (closure force ≥5.0N)
-- Die-cut EVA or PU foam tray with bottle-specific cavity profiling
-- Satin ribbon threading and securement with hidden adhesive anchors
-- ISO 9001:2015 quality management at every production stage
-- FSC-certified paper and board sourcing with full chain of custody
+- **KBA Rapida 105** 4-color offset press for precision color reproduction across 1050×740mm sheet size — ideal for multi-up rigid box wrapping
+- **Heidelberg Speedmaster CD 102** 7+1 UV press for specialty coatings, instant UV curing, and inline varnish effects
+- **Automatic rigid box wrapping line** with ±0.3mm corner miter precision — servo-driven wrap-and-turn with optical alignment
+- **Hot foil stamping** with custom magnesium or brass dies — single-level and multi-level (sculpted) embossed foil combinations; temperature controlled ±2°C for consistent foil transfer
+- **Magnetic pocket routing**: CNC-routed recesses in 2.0mm greyboard for flush neodymium magnet insertion — zero protrusion, invisible from exterior
+- **Magnet specification**: N35–N52 grade neodymium magnets — closure force ≥5.0N per magnet pair; magnet pairing QC ensures polarity alignment
+- **Foam tray fabrication**: CNC contour cutting of EVA foam (38–60 ASKER C density) and PU foam for bottle-specific cavities — ±0.5mm tolerance for snug, rattle-free glass bottle retention
+- **Ribbon anchoring**: Satin ribbon threaded through board with hidden adhesive anchors tested to 8 kgf pull strength — zero detachment in transit
+- **Adhesive system**: Water-based PVA and hot-melt adhesives — VOC compliant, no solvent odor transfer to fragrance packaging
+- **QC inspection**: 4-stage inspection — incoming board/paper → inline print → post-assembly dimensional → final AQL 2.5 cosmetic and functional check
+- **Lead time**: 7–12 days for new design sampling + 15–25 days mass production; 5-7 day pre-production sample
 
-## Quality Details
-- Magnetic hold force: ≥5.0N per magnet pair for secure closure
-- Foil registration accuracy: ±0.2mm position tolerance
-- Bottle cavity fit: ±0.5mm tolerance for snug, rattle-free hold
-- Lid alignment: ≤0.8mm gap variance around entire perimeter
-- Ribbon pull strength: tested to 8kgf without anchor failure
-- Corner miter precision: ±0.3mm for seamless wrapped corners
-- Color consistency: ΔE ≤ 2.0 across production batch
-- Drop test: 1.0m drop with bottles — zero damage to packaging or contents
-- Free pre-production samples with 5-7 day turnaround
-- MOQ 500–2000 units; lower trial MOQ available for new brand partnerships
+## Why Choose Bincai for Fragrance Packaging
 
-## Factory
-- 22 years of manufacturing excellence since 2003
-- Dual factories: 10,000 sqm main + 8,000 sqm smart factory in Foshan, Pearl River Delta
-- 500+ skilled workers across 3 shifts
-- ISO 9001:2015 certified quality management system
-- FSC Chain-of-Custody certified
-- KBA Rapida 105 4-color + Heidelberg Speedmaster CD 102 7+1 UV presses
-- In-house structural design team for custom insert engineering
-- Export to 60+ countries across North America, Europe, Middle East, and Asia-Pacific
+- **22 years of luxury packaging expertise** — manufacturing premium rigid boxes for global fragrance, cosmetics, and spirits brands since 2003
+- **German-Swiss precision equipment**: KBA Rapida 105 + Heidelberg Speedmaster CD 102 7+1 UV + Bobst foil stamping — world-class print and finishing for luxury brand standards
+- **Fragrance-specific engineering**: Dedicated fragrance packaging team understands bottle geometry, glass protection requirements, and the sensory unboxing experience that luxury fragrance buyers expect
+- **Anti-counterfeiting expertise**: NFC chip integration, RFID tags, holographic foil, micro-emboss patterns, and serialized digital foil for limited edition authentication — protecting your brand in global markets
+- **ISO 9001:2015 & FSC Chain-of-Custody certified** — quality management and sustainable sourcing verified by annual SGS audits
+- **18,000 sqm dual-factory** (10,000 main + 8,000 smart factory commissioned 2025) in Foshan, Guangdong — capacity to scale from boutique launch to global distribution
+- **Flexible MOQ starting at 500 units** — accessible for niche fragrance houses and indie perfumers launching their first gift set
+- **End-to-end fragrance packaging service**: Structural design → material selection → prototype sampling (5-7 days) → mass production → QC inspection → FSC documentation → export logistics to 60+ countries
+- **200+ global brand clients** served including luxury fragrance houses, duty-free operators, and premium cosmetics brands
+- Diamond Member on Made-in-China.com — verified manufacturer with on-site factory audit; genuine B2B partner, not a trading company
