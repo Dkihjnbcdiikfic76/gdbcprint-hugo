@@ -51,3 +51,75 @@ Eco-friendly kraft paper artisan chocolate gift box with compostable molded fibe
 - Made-in-China.com Diamond Member — mandatory on-site audit verified
 - 22 years manufacturing experience (founded 2003)
 - Food-safe production environment with dedicated clean zone
+
+## Quality Assurance
+
+| Inspection Point | Method | Standard |
+|---|---|---|
+| Board weight | Grammage scale — 10 samples per batch | As specified ±5% |
+| Board caliper | Digital micrometer | As specified ±0.05mm |
+| Tray compostability | EN 13432 disintegration test | ≥90% disintegration in 12 weeks |
+| PLA window clarity | Spectrophotometer — haze meter | >90% light transmission |
+| Window seal integrity | Pull test — 20 units per batch | No delamination at 5N pull force |
+| Soy ink cure | Tape test — 10 samples per color | No ink transfer to tape |
+| Chocolate cavity fit | Insert standard test chocolate — 20 trays | Snug fit, no movement when tilted 30° |
+| Jute twine strength | Tensile test | ≥50N break strength |
+| Print registration | Visual under D50 — every 500 sheets | ±2mm offset registration |
+| Overall appearance | Visual under D50 — AQL sampling | No stains, crease defects, or coating irregularities |
+| Food contact safety | EU 1935/2004 migration test | Overall migration ≤10 mg/dm² |
+
+## Why Choose Bincai
+
+When you partner with Bincai for your artisan chocolate packaging, you gain a manufacturer with unmatched eco-packaging expertise and production capability:
+
+- **22 Years of Manufacturing Excellence** — Founded in 2003, Bincai has spent over two decades mastering paper packaging. From corrugated shippers to luxury rigid boxes to compostable food packaging, our cross-category experience means we understand both structural integrity and aesthetic presentation.
+
+- **18,000 sqm Dual Factory** — Our Foshan campus includes a 10,000 sqm primary production facility plus an 8,000 sqm smart factory. This dual-site layout provides production redundancy and the capacity to handle seasonal chocolate rush orders (Christmas, Valentine's, Easter) without disrupting ongoing production.
+
+- **German Press Technology** — We operate the KBA Rapida 105 4-color offset press (15,000 sheets/hour) alongside the Heidelberg Speedmaster CD 102 7+1 UV press with inter-deck UV curing. This press combination gives you the flexibility of both volume production and high-end soy-ink printing from a single supplier.
+
+- **ISO 9001:2015 & FSC Certified** — Our quality management system ensures batch-to-batch consistency, while FSC Chain-of-Custody certification allows you to label your chocolate boxes with the FSC mark — increasingly demanded by eco-conscious consumers and retailers worldwide.
+
+- **Full Compostability Stack** — Unlike suppliers who claim "eco-friendly" with only a kraft exterior, Bincai engineers every component — board, tray, window, ink, adhesive, and closure — for complete compostability. We hold EN 13432 (industrial) and OK Compost HOME certifications for the complete assembled box.
+
+- **1.7 Million Boxes Daily Output** — With fully automated die-cutting, folding, and gluing lines across 18,000 sqm, we deliver consistent quality whether your order is 500 units for a farmers market launch or 50,000 for a national retail rollout.
+
+- **Free Pre-Production Samples** — We provide physical samples with your custom tray layout, soy-ink print, and jute closure in 5–7 working days so you can test chocolate fit, compostability claims, and unboxing experience before production.
+
+**Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
+
+## Sustainability
+
+Bincai's compostable chocolate box is designed from the ground up for the circular economy:
+
+- **FSC Certified Kraft Board** — All paperboard is sourced from FSC-certified forests and controlled sources. The kraft exterior uses unbleached natural fiber, eliminating the chlorine bleaching process that generates dioxins and other persistent organic pollutants.
+
+- **Molded Fiber Tray** — Made from bagasse (sugarcane waste) or recycled paper pulp — not virgin wood fiber. The tray is home-compostable and will break down in a backyard compost pile within 90–120 days alongside food scraps.
+
+- **PLA Window** — Unlike traditional PET or PVC windows that persist for centuries, our PLA window is derived from corn starch and certified compostable per EN 13432. It biodegrades into CO₂, water, and biomass in industrial composting conditions.
+
+- **Soy-Based Inks** — Vegetable-based offset inks with >20% soy oil content emit significantly fewer VOCs during printing than petroleum-based inks and are compatible with the paper recycling stream. Soy inks de-ink more efficiently during repulping.
+
+- **Plastic-Free & Glue-Minimized** — The box uses water-based PVA adhesive only at essential seam points. The jute twine closure and tuck-flap assembly eliminate the need for plastic tape, magnet inserts, or non-compostable hardware.
+
+- **Certified Compostability** — The complete assembled box is certified to EN 13432 (industrial composting) and OK Compost HOME. We provide full certification documentation with every order for your own sustainability marketing and regulatory compliance.
+
+## FAQ
+
+**Q: Is the entire box truly compostable — can I put it in my backyard compost?**
+
+A: Yes — the kraft board, molded fiber tray, soy-based ink, and water-based adhesive are all home-compostable per OK Compost HOME certification. The PLA window requires industrial composting conditions (58°C ±2°C, controlled humidity) to fully biodegrade. For backyard composting, we recommend removing the PLA window and placing it in municipal organics collection. The remaining box components will break down in a healthy home compost pile within 90–120 days.
+
+**Q: Will the box protect artisan chocolates during shipping — can it handle summer temperatures?**
+
+A: The 350–450gsm kraft board with tuck-flap closure provides adequate structural protection for domestic shipping. For temperature-sensitive shipments during summer months, we recommend the box as primary packaging inside an insulated corrugated outer shipper with cool packs. The kraft board and molded fiber tray maintain structural integrity from -20°C to 50°C. For international or long-haul shipping, we offer a corrugated outer mailer as a matched set.
+
+**Q: Can you customize the tray cavities for our specific chocolate shapes — domes, squares, seasonal shapes?**
+
+A: Absolutely. Our die-board engineering team creates custom molded fiber tray cavities to match your exact chocolate dimensions. We require 3D CAD files or physical chocolate samples for cavity design. New tray tooling takes 7–10 days and is included in your sampling package. MOQ for custom tray layouts is 1,000 units. We can accommodate round domes, square tablets, heart shapes, bar formats, and mixed assortments with dividers between flavor variants.
+
+**Q: What certifications do you hold for food contact safety — can we sell chocolate in this box in the EU and North America?**
+
+A: We hold full documentation for global market compliance: EU 1935/2004 food contact materials (overall migration ≤10 mg/dm²), FDA 21 CFR indirect food additive compliance for the US market, EN 13432 and OK Compost HOME for compostability claims, FSC Chain-of-Custody for sustainable forestry, and ISO 9001:2015 for manufacturing quality. We provide a complete documentation package — including certificates, migration test reports, and declarations of compliance — with every production order to support your own regulatory filings and marketing claims.
+
+MOQ 500–1000 units. Samples available in 5–7 days. Lead time 15–20 days. Phone: +86-18934352881. Email: qo82@icloud.com.
