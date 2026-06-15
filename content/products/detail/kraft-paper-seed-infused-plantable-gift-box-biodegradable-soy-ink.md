@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, Seed Quality Certified"
 ---
 
-![Bincai Kraft Eco Boxes](/images/cat-paper-bag.jpg)
+![Bincai Kraft Eco Boxes](/images/kraft-eco-box.jpg)
 
 Kraft paper seed-infused plantable gift box with biodegradable soy-ink printing — a packaging innovation from Guangdong Bincai Color Printing Co., Ltd. that transforms from protective packaging into a garden. Each box is made from 100% post-consumer recycled kraft paperboard embedded with a curated blend of non-GMO wildflower seeds (typically a mix of poppy, daisy, cornflower, and black-eyed Susan). After the recipient enjoys the gift, they soak the box in water overnight, plant it in soil, and within 7-21 days the seeds germinate — leaving zero waste. Every element is biodegradable: the board decomposes within 90 days in soil, soy-based inks (heavy-metal-free, VOC-free) break down naturally, and starch-based adhesive dissolves without residue. No plastic windows, no synthetic lamination, no petroleum-based inks. Manufactured at our 18,000 sqm Foshan facility under ISO 9001:2015, FSC Chain-of-Custody, and seed quality certification — 22 years of Guangdong manufacturing since 2003.
 

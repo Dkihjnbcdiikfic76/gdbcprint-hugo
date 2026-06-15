@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001:2015, FSC Chain-of-Custody, SGS, EN 13432, ASTM D6400"
 ---
 
-![Bincai Kraft Eco Boxes](/images/cat-paper-bag.jpg)
+![Bincai Kraft Eco Boxes](/images/kraft-eco-box.jpg)
 
 ## Eco Kraft Paper Rigid Box with Embossing & Soy-Based Ink
 

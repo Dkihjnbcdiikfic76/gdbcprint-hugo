@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Kraft Paper Tube Cylinder Box with Metal Lid](/images/cat-paper-bag.jpg)
+![Kraft Paper Tube Cylinder Box with Metal Lid](/images/kraft-eco-box.jpg)
 
 ## Kraft Paper Tube Cylinder Box with Metal Lid — Eco-Conscious Cosmetic Packaging
 

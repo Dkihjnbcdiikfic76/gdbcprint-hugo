@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Kraft Paper Gift Box with Window Display Eco](/images/cat-paper-bag.jpg)
+![Kraft Paper Gift Box with Window Display Eco](/images/kraft-eco-box.jpg)
 
 Eco-friendly kraft paper gift box with window display — manufactured by **Guangdong Bincai Color Printing Co., Ltd.**, a full-chain packaging enterprise with 22 years of experience (founded 2003). The natural brown kraft finish with a clear window creates an organic, artisan aesthetic that lets the product speak for itself. Printed with soy-based inks on FSC-certified kraft board across 18,000 sqm factory (10,000+8,000 sqm smart factory). Daily output 1.7 million boxes.
 

@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Christmas Gift Boxes](/images/cat-fold-gift.jpg)
+![Bincai Christmas Gift Boxes](/images/cat-rigid-others.jpg)
 
 The Christmas Advent Calendar Gift Box with 12 numbered pull-out drawers combines the tradition of advent counting with luxury presentation, manufactured by Guangdong Bincai Color Printing Co., Ltd. Founded in 2003 and operating from an 18,000 sqm dual-factory complex in Foshan's Pearl River Delta, Bincai brings 22 years of paper packaging expertise to every project. Our KBA Rapida 105 4-color offset press and Heidelberg Speedmaster CD 102 7+1 UV press produce over 1.7 million boxes daily under ISO 9001:2015 quality management and FSC Chain-of-Custody certification. This advent calendar features 12 individually numbered pull-out drawers with die-cut tab pulls, a magnetic flap front closure with satin ribbon accent, full-color festive printing, and food-safe aqueous coating — making it suitable for chocolate, candy, beauty samples, tea sachets, or small gift items.
 

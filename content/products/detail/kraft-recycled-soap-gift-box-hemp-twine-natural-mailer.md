@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Recycled Kraft Soap Box](/images/cat-paper-bag.jpg)
+![Bincai Recycled Kraft Soap Box](/images/kraft-eco-box.jpg)
 
 Guangdong Bincai Color Printing Co., Ltd. (founded 2003, 22 years of sustainable packaging expertise) presents this fully compostable recycled Kraft soap gift box — designed for artisanal soap makers, natural skincare brands, and zero-waste subscription services. Manufactured in our 18,000 sqm Foshan facility under ISO 9001:2015 and FSC Chain-of-Custody certification, every box uses 100% post-consumer recycled Kraft board printed with soy-based inks and closed with a natural hemp twine tie — no plastic, no laminates, no synthetic adhesives.
 

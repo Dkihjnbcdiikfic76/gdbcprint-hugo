@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, ASTM D6400 Compostable, FDA 21 CFR 175.105"
 ---
 
-![Bincai Kraft Eco Boxes](/images/cat-paper-bag.jpg)
+![Bincai Kraft Eco Boxes](/images/kraft-eco-box.jpg)
 
 ## Product Overview
 

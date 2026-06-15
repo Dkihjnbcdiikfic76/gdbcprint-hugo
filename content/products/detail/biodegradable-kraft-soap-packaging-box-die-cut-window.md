@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, EN 13432, ASTM D6400"
 ---
 
-![Bincai Biodegradable Kraft Soap Packaging Box with Die-Cut Window](/images/cat-paper-bag.jpg)
+![Bincai Biodegradable Kraft Soap Packaging Box with Die-Cut Window](/images/kraft-eco-box.jpg)
 
 Guangdong Bincai Color Printing Co., Ltd. (founded 2003) delivers genuinely sustainable packaging with this biodegradable kraft soap box — designed for artisan soap makers and eco-conscious personal care brands who refuse to compromise between product visibility and environmental responsibility. Unlike conventional window boxes that use petroleum-based PET or PVC film (500+ year decomposition), this box features a PLA (polylactic acid) compostable window film certified to EN 13432 and ASTM D6400 standards for industrial composting.
 

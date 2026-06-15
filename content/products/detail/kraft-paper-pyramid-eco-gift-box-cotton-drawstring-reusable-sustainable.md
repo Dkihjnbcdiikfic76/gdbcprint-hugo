@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, Home Compostable"
 ---
 
-![Kraft Paper Pyramid Gift Box with Cotton Drawstring](/images/cat-paper-bag.jpg)
+![Kraft Paper Pyramid Gift Box with Cotton Drawstring](/images/kraft-eco-box.jpg)
 
 ## Product Overview
 

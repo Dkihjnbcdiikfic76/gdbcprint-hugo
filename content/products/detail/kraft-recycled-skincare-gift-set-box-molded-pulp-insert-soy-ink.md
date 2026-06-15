@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Kraft Skincare Gift Set Box](/images/cat-paper-bag.jpg)
+![Bincai Kraft Skincare Gift Set Box](/images/kraft-eco-box.jpg)
 
 The kraft recycled skincare gift set box is an eco-conscious rigid packaging solution designed for clean beauty and organic skincare brands. Guangdong Bincai Color Printing Co., Ltd. manufactures this product in our 18,000 sqm dual-factory complex in Foshan, China, using KBA Rapida 105 4-color offset and Heidelberg Speedmaster CD 102 7+1 UV presses. With ISO 9001:2015 and FSC Chain-of-Custody certifications and a daily output of 1.7 million boxes, Bincai delivers sustainable packaging at competitive export scale.
 

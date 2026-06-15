@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, EN 13432 (PLA Window Option), EU 1935/2004 (Food-Safe Option)"
 ---
 
-![Kraft Paper Perfume Rigid Box](/images/cat-paper-bag.jpg)
+![Kraft Paper Perfume Rigid Box](/images/kraft-eco-box.jpg)
 
 ## Product Overview
 

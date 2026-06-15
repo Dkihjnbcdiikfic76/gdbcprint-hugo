@@ -11,7 +11,7 @@ params:
   material: "FSC Kraft Paperboard 200-350gsm / Recycled Kraft / Soy-Based Ink / Water-Based Adhesive"
   certification: "ISO 9001, FSC, SGS"
 ---
-![Eco-Friendly Paper Slide Box for Chocolate Candy Cosmetic](/images/cat-paper-bag.jpg)
+![Eco-Friendly Paper Slide Box for Chocolate Candy Cosmetic](/images/kraft-eco-box.jpg)
 
 Plastic-free eco-friendly paper slide box with friction-fit sleeve and tray — manufactured by **Guangdong Bincai Color Printing Co., Ltd.**, a 22-year packaging enterprise (founded 2003) committed to sustainable manufacturing. The two-piece slide design — a printed outer sleeve that glides over a plain or printed inner tray — creates a satisfying tactile unboxing ritual without any plastic, magnets, or adhesives in the slide mechanism. Made from FSC-certified recycled kraft paperboard printed with soy-based inks and assembled with water-based adhesive, this box is 100% biodegradable, recyclable, and compostable (EN 13432 compliant with PLA window option). The clean kraft aesthetic with optional spot color printing communicates authentic eco-values to sustainability-conscious consumers. Produced on KBA 1050 4-color offset press across Bincai's 18,000 sqm dual factory (10,000+8,000 sqm smart factory) in Foshan, Guangdong. ISO 9001:2015 and FSC certified. Daily output 1.7 million boxes. MOQ 500 with free pre-production samples.
 

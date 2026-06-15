@@ -18,7 +18,7 @@ tags:
   - ISO 9001 certified
 ---
 
-![Bincai Kraft Eco Box](/images/cat-paper-bag.jpg)
+![Bincai Kraft Eco Box](/images/kraft-eco-box.jpg)
 
 Kraft paper eco-friendly soap packaging box with die-cut window and soy-based ink printing by Guangdong Bincai Color Printing Co., Ltd. (founded 2003). Designed for handmade soap bars, organic skincare products, natural deodorants, bath bombs, and eco-conscious cosmetic brands. Made from FSC certified kraft paper with compostable PLA window film or recyclable PET window. Printed with vegetable-based soy ink for full environmental compatibility. The entire package is curbside recyclable in paper streams. Produced across 18,000 sqm facility. Daily output: 1.7 million boxes.
 

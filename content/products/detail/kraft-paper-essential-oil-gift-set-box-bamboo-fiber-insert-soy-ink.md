@@ -18,7 +18,7 @@ tags:
   - ISO 9001 certified
 ---
 
-![Bincai Kraft Eco Box](/images/cat-paper-bag.jpg)
+![Bincai Kraft Eco Box](/images/kraft-eco-box.jpg)
 
 Kraft paper essential oil gift set box with bamboo fiber insert and soy-based ink printing by Guangdong Bincai Color Printing Co., Ltd. — a Diamond Member on Made-in-China.com with 22 years of manufacturing excellence (founded 2003). This fully compostable kraft paper gift box is designed for the clean beauty and wellness industry — where packaging sustainability is as important as product purity. The natural kraft exterior printed with soy-based ink, paired with a molded bamboo fiber insert tray, creates a tactile eco-luxury unboxing experience. A PLA (polylactic acid) window made from corn starch offers product visibility without petroleum-based plastics. Produced on KBA 1050 4-color and Heidelberg 7+1 UV presses across our 18,000 sqm facility (10,000+8,000 sqm smart factory) (2025 expansion). Daily output: 1.7 million color boxes + 220,000+ gift boxes.
 

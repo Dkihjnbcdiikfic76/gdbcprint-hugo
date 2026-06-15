@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Kraft Eco Boxes](/images/cat-paper-bag.jpg)
+![Bincai Kraft Eco Boxes](/images/kraft-eco-box.jpg)
 
 Kraft paper drawer box with jute rope handle for eco-friendly gift packaging — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). Designed for sustainable brands seeking plastic-free, fully recyclable gift packaging with a natural aesthetic. The slide-out drawer mechanism with thumb notch provides smooth, tool-free access to contents. A natural jute rope handle (6mm diameter) integrated through reinforced eyelets offers a rustic, tactile carrying experience. Printed with water-based inks on FSC-certified kraft board for complete biodegradability — zero plastic, zero lamination, zero compromise on aesthetics. Produced on KBA Rapida 105 4-color offset press with water-based ink system at our 18,000 sqm Foshan facility. Daily capacity: 1.7 million boxes under ISO 9001:2015 and FSC Chain-of-Custody certification.
 

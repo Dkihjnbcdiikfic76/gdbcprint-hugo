@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC Recycled, BSCI"
 ---
 
-![Recycled Kraft Wine Bottle Gift Box with Carry Handle](/images/cat-paper-bag.jpg)
+![Recycled Kraft Wine Bottle Gift Box with Carry Handle](/images/kraft-eco-box.jpg)
 
 ## Product Overview
 

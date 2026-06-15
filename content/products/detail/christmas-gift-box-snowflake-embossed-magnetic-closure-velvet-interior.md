@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Christmas Gift Box](/images/cat-fold-gift.jpg)
+![Bincai Christmas Gift Box](/images/cat-rigid-others.jpg)
 
 The Christmas Gift Box with snowflake embossing and magnetic closure is a premium rigid holiday packaging solution designed for luxury seasonal gifting. Manufactured by Guangdong Bincai Color Printing Co., Ltd. — a 22-year Foshan-based factory with 18,000 sqm of production space — this box combines seasonal aesthetics with durable construction. The lid features deep snowflake embossing with hot foil stamping, while the interior is fully lined with soft velvet flocking to cradle delicate items. Bincai's KBA 1050 4-color offset and Heidelberg Speedmaster CD 102 7+1 UV presses ensure crisp, vibrant holiday graphics with ΔE ≤ 2.0 color consistency. Each box is assembled with N52 neodymium magnets for a satisfying closure and can be customized with brand logos, custom snowflake patterns, or alternative interior linings.
 

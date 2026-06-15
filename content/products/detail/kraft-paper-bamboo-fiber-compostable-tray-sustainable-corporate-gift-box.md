@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, EN 13432, OK Compost HOME"
 ---
 
-![Bincai Kraft Paper Bamboo Fiber Sustainable Corporate Gift Box](/images/cat-paper-bag.jpg)
+![Bincai Kraft Paper Bamboo Fiber Sustainable Corporate Gift Box](/images/kraft-eco-box.jpg)
 
 Guangdong Bincai Color Printing Co., Ltd. (founded 2003) delivers genuinely sustainable luxury with this kraft paper bamboo fiber gift box — engineered for forward-thinking corporations, brands, and organizations that demand premium packaging without the environmental cost of plastic inserts and petroleum-based materials. Every component is biodegradable: FSC-certified kraft paperboard exterior, soy-based ink printing, water-based PVA adhesive, and a molded bamboo fiber inner tray that home-composts in 6–12 months.
 

@@ -55,7 +55,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Christmas Advent Calendar Gift Box for Chocolate Candy](/images/cat-fold-gift.jpg)
+![Christmas Advent Calendar Gift Box for Chocolate Candy](/images/cat-rigid-others.jpg)
 
 ## Product Overview
 

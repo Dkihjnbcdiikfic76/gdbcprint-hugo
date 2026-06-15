@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Christmas Gift Boxes](/images/cat-fold-gift.jpg)
+![Bincai Christmas Gift Boxes](/images/cat-rigid-others.jpg)
 
 Christmas gift box with all-over snowflake hot foil pattern and magnetic closure — the definitive premium holiday packaging solution. The richly textured snowflake foil design creates festive elegance while the magnetic flip-lid with satin ribbon pull delivers a memorable unboxing experience. Manufactured by Guangdong Bincai Color Printing Co., Ltd., combining 22 years of rigid box expertise with state-of-the-art hot foil technology.
 

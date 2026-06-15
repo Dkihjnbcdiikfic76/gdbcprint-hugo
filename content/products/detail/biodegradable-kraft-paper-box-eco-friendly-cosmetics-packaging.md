@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, REACH compliant"
 ---
 
-![Bincai Kraft Eco Boxes](/images/cat-paper-bag.jpg)
+![Bincai Kraft Eco Boxes](/images/kraft-eco-box.jpg)
 
 Biodegradable kraft paper box engineered for eco-conscious cosmetics brands — by Guangdong Bincai Color Printing Co., Ltd. (founded 2003), a full-chain packaging enterprise with 22 years of manufacturing excellence. 18,000 sqm factory (10,000+8,000 smart factory) equipped with KBA 1050 4-color and Heidelberg 7+1 UV presses, daily output 1.7 million boxes. FSC Chain-of-Custody certified with soy-based inks and 100% recyclable materials.
 

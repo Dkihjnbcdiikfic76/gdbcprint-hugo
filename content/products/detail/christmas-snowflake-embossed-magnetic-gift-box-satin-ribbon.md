@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Christmas Snowflake Embossed Magnetic Gift Box](/images/cat-fold-gift.jpg)
+![Bincai Christmas Snowflake Embossed Magnetic Gift Box](/images/cat-rigid-others.jpg)
 
 Guangdong Bincai Color Printing Co., Ltd. (founded 2003) brings 22 years of premium rigid box manufacturing expertise to holiday packaging with this Christmas snowflake embossed magnetic gift box. Designed for luxury seasonal gifting, this rigid box combines a custom-embossed snowflake pattern on the lid with a double satin ribbon closure and hidden N35 neodymium magnet pairs for a satisfying, premium unboxing experience.
 

@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001:2015, FSC Chain-of-Custody"
 ---
 
-![Kraft Paper Wine Bottle Gift Bag with Die-Cut Handle Gold Foil Eco-Luxury](/images/cat-paper-bag.jpg)
+![Kraft Paper Wine Bottle Gift Bag with Die-Cut Handle Gold Foil Eco-Luxury](/images/kraft-eco-box.jpg)
 
 ## Product Overview
 
