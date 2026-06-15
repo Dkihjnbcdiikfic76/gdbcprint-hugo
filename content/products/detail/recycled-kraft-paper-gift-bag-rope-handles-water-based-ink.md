@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, SGS"
 ---
 
-![Recycled Kraft Paper Gift Bag with Rope Handles](/images/cat-fold-mailer.jpg)
+![Recycled Kraft Paper Gift Bag with Rope Handles](/images/cat-paper-bag.jpg)
 
 Eco-committed recycled kraft paper gift bag with natural rope handles — manufactured by **Guangdong Bincai Color Printing Co., Ltd.**, a full-chain packaging enterprise with 22 years of manufacturing expertise (founded 2003). Made from 100% post-consumer recycled (PCR) kraft paper (120–200gsm), this bag combines sustainability with premium retail aesthetics. The natural brown kraft base is printed with water-based inks — solvent-free, low-VOC, and fully biodegradable — using KBA 1050 4-color offset for crisp, vibrant branding. Twisted cotton or jute rope handles are knotted through reinforced brass or cardboard eyelets for durability up to 5kg load capacity. Optional matte lamination adds water resistance and a soft-touch premium feel. Produced across Bincai's 18,000 sqm dual factory (10,000+8,000 sqm smart factory) in Foshan, Guangdong. ISO 9001:2015 and FSC certified. Daily output 1.7 million boxes (bag line: 300,000+ bags/day). MOQ 1,000.
 
