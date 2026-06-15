@@ -67,3 +67,50 @@ Metallic gold folding carton for luxury scented candle packaging with die-cut wi
 - **ISO 9001:2015** and **FSC®** certified
 - **1.7 million boxes/day** output capacity
 - **Free pre-production samples** with 5–7 day turnaround
+
+## Sustainability & Compliance
+
+| Area | Bincai Standard |
+|---|---|
+| Board Source | FSC® Chain-of-Custody certified SBS from managed plantations |
+| Inks | Soy-based and vegetable-based offset inks — VOC content < 3 % |
+| Window Film | PET-free compostable PLA option — industrially compostable per EN 13432 |
+| Lamination | Water-based metallic foil lamination available; BOPP-free matt/gloss options |
+| Coatings | Water-based UV and aqueous coatings — no solvent-based varnishes |
+| Waste Management | > 95 % production waste recycled; trim offcuts baled for paper-mill return |
+| Certifications | ISO 9001:2015 · FSC® CoC · Sedex SMETA 4-Pillar · Disney FAMA |
+| Regulatory Compliance | EU Packaging Directive 94/62/EC · REACH · California Prop 65 · CPSIA |
+
+## Seven-Stage QC Gates
+
+| Stage | Checkpoint | Method / Standard |
+|---|---|---|
+| 1 — Incoming Board | SBS caliper, brightness, moisture | Digital micrometer · ISO 534 · Moisture meter ≤ 8 % |
+| 2 — Pre-Press Proof | Color target, trapping, die-line registration | GMG soft-proof · Epson contract proof ΔE ≤ 2.0 |
+| 3 — Printing | Ink density, dot gain, foil alignment | Spectrophotometer inline (Prinect Axis Control) · ΔE ≤ 1.5 |
+| 4 — Metallic Foil Lamination | Adhesion strength, surface defects | Cross-hatch tape peel test ASTM D3359 · 100 % visual |
+| 5 — Die-Cutting & Window | Window alignment, PET/PLA film clarity, crease depth | Optical comparator ± 0.3 mm · Haze meter < 2 % |
+| 6 — Folding & Gluing | Auto-lock engagement, glue bond, squareness | Function test per carton · Bond strength > 1.5 N/15 mm |
+| 7 — Final Audit & Packing | AQL sampling, drop test, packing count | AQL 2.5 Level II (ISO 2859-1) · ISTA 2A transit test |
+
+## FAQ
+
+**Q: Can the metallic gold finish be applied to the entire carton or only specific panels?**
+
+A: Both options are available. Full-wrap metallic gold foil lamination covers every panel for maximum shelf impact. Alternatively, we can apply selective cold-foil transfer to specific areas — such as the logo, borders, or decorative motifs — while keeping other panels in printed CMYK, reducing cost without sacrificing luxury appeal.
+
+**Q: What window film options are available, and is a plastic-free alternative possible?**
+
+A: Standard windows use 0.3 mm clear PET film for excellent clarity and durability. For brands pursuing plastic-free packaging, we offer compostable PLA (polylactic acid) window film that is industrially compostable per EN 13432 and provides comparable transparency. Custom window shapes — circles, arches, logo silhouettes — are available with either material.
+
+**Q: What is the MOQ and how quickly can I receive samples?**
+
+A: The minimum order quantity is 500 units for standard sizes and finishes. We provide free pre-production samples within 5–7 working days so you can evaluate the metallic finish, window clarity, and structural integrity before committing to a production run. Production lead time is 10–15 working days after sample approval.
+
+**Q: How does Bincai ensure the metallic foil won't peel or scratch during shipping?**
+
+A: Every batch undergoes a cross-hatch tape peel adhesion test (ASTM D3359) and visual inspection for bubbles, scratches, and delamination. Our Bobst SP 102 BMA die-cutter and inline foil stations maintain consistent pressure and temperature, and finished cartons are flat-packed with interleaving tissue to prevent surface scuffing during transit. ISTA 2A drop and vibration tests validate packaging durability.
+
+**Q: Can you match a specific brand Pantone colour for the gold tone and other printed elements?**
+
+A: Absolutely. We print on KBA Rapida 105 and Heidelberg Speedmaster CD 102 presses with full Pantone spot-colour capability. Our pre-press team creates GMG soft proofs and Epson contract proofs held to ΔE ≤ 2.0 from your target. Hot-foil stamping is available in gold, rose gold, silver, copper, and holographic finishes, and metallic foil lamination can be tinted to match your brand's exact gold shade.
