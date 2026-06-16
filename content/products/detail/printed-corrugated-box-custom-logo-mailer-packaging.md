@@ -14,7 +14,7 @@ params:
 
 ![Bincai Corrugated Mailers](/images/corrugated-mailers.jpg)
 
-Printed corrugated box with custom logo for mailer and e-commerce packaging — manufactured by Guangdong Bincai Color Printing Co., Ltd., a Diamond Member on Made-in-China.com with 22 years of manufacturing excellence (founded 2003). Available in B-flute (3mm), C-flute (4mm), E-flute (1.5mm), or double-wall BC-flute (6mm) for optimal protection during transit. Custom flexographic or offset litho-laminated printing for crisp logo reproduction. FBA-compliant construction meets Amazon's 6-foot drop test and ISTA 3A transit testing standards. Produced on KBA 1050 4-color and Heidelberg 7+1 UV presses across 18,000 sqm of factory space. Daily output: 1.7 million color boxes + 220,000+ gift boxes.
+Printed corrugated box with custom logo for mailer and e-commerce packaging — manufactured by Guangdong Bincai Color Printing Co., Ltd., a Diamond Member on Made-in-China.com with 22 years of manufacturing excellence (founded 2003). Available in B-flute (3mm), C-flute (4mm), E-flute (1.5mm), or double-wall BC-flute (6mm) for optimal protection during transit. Custom flexographic or offset litho-laminated printing for crisp logo reproduction. FBA-compliant construction meets Amazon's 6-foot drop test and ISTA 3A transit testing standards. Produced on KBA 1050 4-color and Heidelberg 7+1 UV presses across 18,000 sqm of factory space. For complete design guidance — including flute type selection, board grade engineering, and ISTA testing standards — see our <a href="/blog/corrugated-mailer-design-guide-bincai/">Corrugated Mailer Design Guide</a>. Daily output: 1.7 million color boxes + 220,000+ gift boxes.
 
 ## Applications
 - E-commerce shipping and mailer boxes for direct-to-consumer brands
@@ -63,11 +63,12 @@ Printed corrugated box with custom logo for mailer and e-commerce packaging — 
 - Fully automatic corrugated die-cutting and folder-gluer lines
 - Daily capacity: 1.7 million color boxes + 220,000+ gift boxes
 - High-Tech Enterprise certified; ISO 9001:2015 & FSC certified
+- Browse all <a href="/categories/corrugated-mailers/">corrugated mailer products</a> for additional sizes and flute configurations.
 
 ## FAQ
 
 **Q: What is the difference between flexo and litho-laminate printing on corrugated?**
-A: Flexographic printing applies ink directly to the corrugated liner using raised rubber or photopolymer plates — it is cost-effective for 1–4 color designs at high volumes (5,000+ units). Offset litho-lamination prints your full-color artwork onto a separate paper sheet (128–157gsm art paper) which is then laminated onto the corrugated board. Litho-lam delivers photo-quality graphics, gradients, and fine text that flexo cannot achieve — ideal for brand-critical unboxing experiences. We recommend flexo for functional shipping boxes and litho-lam for premium e-commerce mailers where the box is part of the brand experience.
+A: Flexographic printing applies ink directly to the corrugated liner using raised rubber or photopolymer plates — it is cost-effective for 1–4 color designs at high volumes (5,000+ units). Offset litho-lamination prints your full-color artwork onto a separate paper sheet (128–157gsm art paper) which is then laminated onto the corrugated board. Litho-lam delivers photo-quality graphics, gradients, and fine text that flexo cannot achieve — ideal for brand-critical unboxing experiences. We recommend flexo for functional shipping boxes and litho-lam for premium e-commerce mailers where the box is part of the brand experience. Dive deeper into flute engineering and board grades in our <a href="/blog/corrugated-packaging-engineering-flute-types-board-grades-bincai/">Corrugated Engineering Guide</a>.
 
 **Q: Will these boxes pass Amazon FBA requirements?**
 A: Yes. Our corrugated mailers are designed to meet Amazon FBA packaging standards: (a) constructed to pass the 6-foot drop test without product damage, (b) ECT-32 minimum for single-wall boxes, (c) no external marketing materials or pricing, (d) adequate void fill if needed. We can provide ISTA 3A transit test certification upon request. Please specify "FBA-compliant" when ordering so we configure flute grade, board weight, and closure type to Amazon's requirements.
