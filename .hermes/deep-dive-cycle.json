@@ -1,8 +1,8 @@
 {
   "day": 4,
-  "task": 2,
-  "rotation": 2,
-  "next": "Day 4 Run 3, Task #3 HOMEPAGE NUMBERS",
+  "task": 4,
+  "rotation": 4,
+  "next": "Day 4 Run 5, Task #5 INTERNAL LINKS",
   "started": "2026-06-16T00:00:00Z",
   "cycle": "deep-dive",
   "tasks": {
