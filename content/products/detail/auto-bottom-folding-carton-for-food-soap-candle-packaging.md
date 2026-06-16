@@ -92,6 +92,11 @@ When you partner with Bincai, you're choosing a packaging manufacturer with the 
 
 - **Free Pre-Production Samples** — We provide free physical samples in 5–7 working days so you can test fit, finish, and structure before committing to a production run. No surprises — what you approve is exactly what we produce.
 
+## Related Resources
+
+- **[Food-Grade Paper Box Packaging Standards →](/blog/food-grade-paper-box-packaging-bincai-standards/)** — Everything you need to know about FDA 21 CFR, EU 1935/2004, and global food-contact packaging compliance. Essential reading if your folding cartons touch food, confectionery, or beverages.
+- **[Explore All Folding Cartons →](/categories/folding-cartons/)** — Browse our full range of folding cartons: auto-lock bottom, die-cut window, tuck-top, straight-tuck, retail display, and food-grade configurations with MOQ from 500 units.
+
 ## Sustainability
 
 Bincai is committed to environmentally responsible packaging. Our folding cartons support your brand's sustainability goals without compromising on quality or shelf impact:
