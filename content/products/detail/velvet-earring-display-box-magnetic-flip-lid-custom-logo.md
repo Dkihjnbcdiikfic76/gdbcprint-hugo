@@ -144,3 +144,9 @@ Jewelry packaging demands precision at a scale that most factories cannot delive
 **Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day + 80K+ jewelry boxes | KBA Rapida 1050 + Heidelberg Speedmaster XL 7+1 UV | Bobst SP 102 BMA | ISO 9001:2015 & FSC Chain-of-Custody | CPSIA | Foshan, Guangdong, China.
 
 **Shipping:** Jewelry boxes are shipped flat-packed or pre-assembled per customer preference. Typical 40HQ container holds 80,000–200,000 jewelry boxes flat-packed. Lead time 10–15 days FOB Shenzhen/Guangzhou.
+
+## Ready to Elevate Your Jewelry Brand?
+
+**Send us your earring dimensions and logo artwork — we'll ship you a free sample in your chosen velvet color (12+ stock colors available) within 5–7 days.** See how N52 magnetic closure, gold foil debossing, and precision die-cut inserts transform your jewelry's perceived value. Our dedicated jewelry box line produces 80,000+ units daily — from 500-unit boutique orders to 50,000+ department store rollouts. Free 3D mockup within 24 hours, no tooling charge on first orders above 2,000 units.
+
+[Get Your Free Velvet Sample →](/contact/)

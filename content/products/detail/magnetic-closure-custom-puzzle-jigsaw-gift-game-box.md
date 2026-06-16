@@ -124,3 +124,9 @@ A: Yes. All inks are soy-based and compliant with EN 71-3 (toy safety, migration
 - In-house CNC foam routing workshop — custom EVA/PU inserts with ±0.5mm precision
 - Export to 60+ countries across North America, Europe, Middle East, and Asia-Pacific
 - Diamond Member on Made-in-China.com, Audited Supplier
+
+## Ready to Start Your Puzzle Packaging Project?
+
+**Send us your game specs — piece count, box dimensions, and artwork — for a same-day quote with free 3D structural mockup.** Whether you're launching a 500-piece family puzzle or a deluxe collector's edition game box, we'll engineer the foam insert, magnetic closure, and full-color game-board printing to your exact requirements. Free pre-production sample with your custom foam cavities in 5–7 days. MOQ from 500 units with volume pricing at 1,000 / 3,000 / 5,000+.
+
+[Request Your Free Sample & Quote →](/contact/)

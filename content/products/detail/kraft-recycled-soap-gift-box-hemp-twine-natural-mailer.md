@@ -72,4 +72,10 @@ Bincai's recycled Kraft boxes are produced on the same industrial presses (KBA 1
 
 **Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
 
-**Shipping:** Flat-packed — 2,00-3,000 units per master carton. Twine pre-threaded or loose per customer preference. Lead time 10-14 days. Free pre-production samples 5-7 days.
+**Shipping:** Flat-packed — 2,000-3,000 units per master carton. Twine pre-threaded or loose per customer preference. Lead time 10-14 days. Free pre-production samples 5-7 days.
+
+## Ready to Switch to Plastic-Free Packaging?
+
+**Send us your soap dimensions and logo artwork — we'll ship you a free sample on 100% recycled Kraft with soy-based ink printing within 5 days.** See how your brand looks on plastic-free, fully compostable packaging that resonates with eco-conscious buyers. Whether you need 1,000 units for a seasonal launch or 50,000+ for a retail rollout, our 1.7M-box daily capacity ensures on-time delivery. No minimums on hemp twine color selection.
+
+[Get Your Free Eco Sample →](/contact/)

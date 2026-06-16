@@ -97,3 +97,9 @@ Every box is produced in our **18,000 sqm ISO 9001 & FSC-certified facility** wi
 - **Daily output: 1.7 million boxes** — ensuring on-time delivery for global brands
 
 We source SBS (solid bleached sulfate), CCNB (clay-coated newsback), kraft, and FBB (folding box board) from 5 qualified mills with full traceability. Every material batch undergoes 45-point incoming inspection in our climate-controlled storage (22°C / 50% RH).
+
+## Ready to Package Your Tea Collection?
+
+**Send us your tea pouch dimensions, preferred ribbon color, and logo artwork — we'll return a 3D-rendered hexagonal box design within 24 hours, followed by a free pre-production sample in 5–7 days.** Whether you need 500 units for a limited-edition release or 50,000 for a global tea brand rollout, our Bobst hexagonal die-cutting and satin ribbon assembly line delivers consistent premium quality. Foil stamping, embossing, and custom divider options included at no tooling charge on first orders above 2,000 units.
+
+[Start Your Sample Order →](/contact/)

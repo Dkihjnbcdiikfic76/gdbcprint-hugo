@@ -135,3 +135,9 @@ A: Full customization including box structure (hinged, telescopic, drawer, flip-
 
 **Q: What is the lead time for wine gift box orders?**
 A: New orders with custom tooling (new die-cut, new foil plate) ship in 15–20 working days from artwork approval. Repeat orders using existing tooling ship in 7–10 working days. Rush orders can be accommodated in as few as 5 working days with prior arrangement. Free samples are shipped via express courier in 5–7 days after 3D mockup sign-off.
+
+## Ready to Elevate Your Wine Presentation?
+
+**Send us your bottle dimensions — Bordeaux, Burgundy, Champagne, or custom spirits — plus your label artwork and preferred foil color. We'll return a free 3D mockup within 24 hours and a production-quality sample with your foil-stamped logo in 5–7 days.** Our dedicated rigid box lines produce 220,000+ gift boxes daily — from 500-unit trial runs to 100,000+ holiday season releases. Choose your velvet color from 20+ stock options or Pantone-match to your brand palette.
+
+[Request Your Wine Box Sample →](/contact/)
