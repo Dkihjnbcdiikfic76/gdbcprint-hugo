@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Corrugated Mailers](/images/corrugated-mailers.jpg)
+![Bincai Corrugated Mailers](/images/cat-fold-mailer.jpg)
 
 ## Product Overview
 
@@ -106,3 +106,17 @@ Since 2003, Guangdong Bincai Color Printing Co., Ltd. has manufactured corrugate
 - **22 Years, ISO & FSC Certified** — Reliable quality management with Diamond Member verification on Made-in-China.com
 
 **Factory Facts:** Founded 2003 | 22 years | Diamond Member | 18,000 sqm (10,000 + 8,000 smart factory) | 500K+ mailers/day + 1.7M color boxes/day | KBA Rapida 105 + Heidelberg Speedmaster CD 102 7+1 UV | Bobst die-cutters | ISO 9001:2015 & FSC | Foshan, Guangdong, China
+
+## When the Self-Locking Literature Mailer Is the Right Choice
+
+| Your Situation | Why This Mailer Fits |
+|---|---|
+| **Fulfilling 500+ books/day** | Self-locking assembly eliminates tape gun — saves 3–5 seconds per package × 500 = 25–42 minutes/day labor recovered |
+| **Customer complaints about box damage from box cutters** | Perforated tear strip opens cleanly — zero risk of knife damage to book covers or dust jackets |
+| **Paying dimensional weight surcharges** | Flat-ship design — 8× more mailers per pallet, 60–70% inbound freight savings |
+| **Returns/exchanges are 15%+ of your volume** | Optional dual tear strip (open + return) — customer reuses same mailer, no repackaging labor |
+| **Single-book shipments under 1.5 kg** | E-flute (1.2mm) is optimal — crush protection in a slim profile that avoids postal oversize surcharges |
+| **Multi-book sets or heavy art books (1.5–5 kg)** | B-flute (2.5mm) with 32+ ECT — handles weight without bulge or bottom blowout |
+| **Subscription box with 5,000+ monthly subscribers** | Zero-tape, zero-tools assembly scales to any volume — seasonal peaks absorbed by Bincai's 500K/day capacity |
+
+**Sweet Spot**: Publishers and fulfillment centers shipping 1,000–50,000 books/month where the combined labor savings (no tape) and customer experience improvement (no box-cutter damage) deliver measurable ROI within 30–90 days of switching from taped mailers.

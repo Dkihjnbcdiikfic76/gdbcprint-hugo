@@ -101,3 +101,19 @@ A: Our LED strips are fully enclosed behind a diffuser panel — there is zero e
 
 A: Standard production lead time is 18-22 days for existing tooling and stock materials. Custom LED configuration (color temperature, battery type) adds 3-5 days. Custom-dyed velvet flocking adds 7-10 days. New tier layout requiring new die-cut tooling adds 5-7 days. Pre-production samples with your exact tier layout and materials ship within 5-7 days. Bincai produces 1.7M boxes daily — capacity for orders from 500 to 50,000+ units.
 MOQ 500 units. Velvet color swatches, LED brightness demo video, and mirror finish samples available. Sample within 7 days. Lead time 18-27 days. Phone: +86-18934352881. Email: qo82@icloud.com.
+
+## How the 3-Tier LED Jewelry Box Compares
+
+| Factor | Bincai 3-Tier LED | Generic Velvet Jewelry Box | Luxury Branded Box (Retail) |
+|---|---|---|---|
+| **Tier Configuration** | 3 dedicated tiers (necklace/earrings/ring) | 1-2 tiers, shared compartment | 1-2 tiers, brand-standard layout |
+| **LED Lighting** | 3000K warm LED, touch-dimmer, 500+ hr battery | None | None or basic LED |
+| **CRI (Color Accuracy)** | 80+ CRI — accurate gemstone rendering | N/A | N/A |
+| **Magnet Grade** | N48 neodymium (2.5–3.5N closure) | Ferrite or no magnet | N35–N42 standard |
+| **Velvet Pile** | 0.5mm electrostatic flocking, 5B adhesion | Varies, shedding common | Premium, 0.3–0.5mm |
+| **Mirror Quality** | 3mm float glass with safety backing | Plastic mirror or none | Glass mirror |
+| **Hinge Cycles** | 10,000+ tested | 500–2,000 typical | 5,000+ |
+| **MOQ** | 500 | 1,000–3,000 | 5,000+ |
+| **Per-Unit Cost** | $3.50–12.80 | $1.50–5.00 | $8.00–30.00 |
+
+**When the 3-Tier LED Box Wins**: For jewelry brands selling coordinated necklace + earring + ring sets at $80–500 retail, the LED-lit mirror and dedicated tier layout justify the higher per-unit cost through higher conversion (customers try on jewelry at the point of sale) and reduced returns (the mirror lets customers verify quality on delivery). Bincai's touch-dimmer with memory function means the lighting experience is consistent every time the box is opened — a detail that builds brand trust over repeated use.

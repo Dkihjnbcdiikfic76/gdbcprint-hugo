@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Folding Cartons](/images/folding-cartons.jpg)
+![Bincai Folding Cartons](/images/cat-fold-cosmetic.jpg)
 
 ## Product Overview
 
@@ -96,5 +96,19 @@ Yes. We offer die-cut window patching with PET (crystal clear), PVC (economical)
 **Q: What is your typical lead time from order to delivery?**
 Pre-production samples ship in 5-7 working days with digital or wet-proof printing. After sample approval, mass production takes 12-18 working days depending on complexity (foil stamping, embossing, and window patching add 2-3 days each). Die-cut tooling requires 3-5 working days for new sizes. Sea freight to US West Coast: 12-15 days, Europe: 22-28 days. Air freight available for urgent orders (3-5 days). We ship FOB Shenzhen/Guangzhou, and can arrange door-to-door DDP service.
 
-**Q: Can you handle food-grade and child-resistant packaging requirements?**
-Yes. We produce food-contact safe folding cartons using FDA 21 CFR 176.170 and EU 1935/2004 compliant materials, inks, and adhesives. For pharmaceutical and supplement packaging, we offer child-resistant (CR) certified structures with push-and-turn or squeeze-and-slide mechanisms. All food and pharma orders include full material traceability documentation and certificates of compliance. Our ISO 9001:2015 system ensures batch-level traceability from raw material to finished carton.`
+**Q: Can you handle food-grade and child-resistant packaging requirements?**\nYes. We produce food-contact safe folding cartons using FDA 21 CFR 176.170 and EU 1935/2004 compliant materials, inks, and adhesives. For pharmaceutical and supplement packaging, we offer child-resistant (CR) certified structures with push-and-turn or squeeze-and-slide mechanisms. All food and pharma orders include full material traceability documentation and certificates of compliance. Our ISO 9001:2015 system ensures batch-level traceability from raw material to finished carton.
+
+## When Folding Cartons Beat Rigid Boxes for Retail
+
+| Your Situation | Why a Folding Carton from Bincai Wins |
+|---|---|
+| **Selling at retail under $30 MSRP** | Folding cartons at $0.15–1.80 keep packaging costs under 8% of retail — rigid boxes at $2.80+ would consume 15–30% margin |
+| **Shipping flat to a 3PL or Amazon FBA** | Flat-ship saves 70% on inbound freight vs assembled rigid — 10,000 cartons fit on one pallet |
+| **Product weight under 300g** | Folding carton structural integrity is sufficient — rigid box overkill adds cost without benefit |
+| **High SKU count (50+ product variants)** | Quick die-change on Bobst flatbed — different sizes produced same day, no MOQ penalty for variety |
+| **Sustainability reporting is mandatory** | FSC-certified SBS board, aqueous coatings — fully recyclable in curbside paper streams, no mixed materials to separate |
+| **Seasonal or limited-edition packaging** | 12–18 day lead time + in-house die-making — launch seasonal packaging on retail timelines |
+| **You need gold foil brand impact at cost** | Bobst SP 102 BMA ±0.1mm foil registration — luxury aesthetic at folding carton economics |
+| **Product requires window for visibility** | Die-cut PET/PVC/PLA window patches — customer sees product without opening, reducing package damage at retail |
+
+**The Folding Carton Sweet Spot**: Products retailing $8–40 where brand presentation matters but packaging cost must stay under 10% of retail. Bincai's dual Heidelberg + KBA press line means the same print quality seen on $80 rigid boxes is available at folding carton economics — the difference is board thickness, not printing capability.
