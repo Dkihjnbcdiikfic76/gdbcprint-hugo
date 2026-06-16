@@ -16,7 +16,7 @@ params:
 
 ## Overview
 
-Guangdong Bincai Color Printing's natural kraft paper gift box with jute ribbon combines rustic elegance with uncompromising sustainability. Raw kraft texture, natural jute tie, soy-based ink printing — every detail communicates eco-conscious quality. FSC certified, fully recyclable, zero plastic. Manufactured in our ISO 9001:2015 certified 18,000 sqm factory (10,000+8,000 smart factory) with 22 years of expertise and daily output of 1.7 million boxes.
+Guangdong Bincai Color Printing's natural kraft paper gift box with jute ribbon combines rustic elegance with uncompromising sustainability. Raw kraft texture, natural jute tie, soy-based ink printing — every detail communicates eco-conscious quality. FSC certified, fully recyclable, zero plastic. Manufactured in our ISO 9001:2015 certified 18,000 sqm factory (10,000+8,000 smart factory) with 22 years of expertise and daily output of 1.7 million boxes. See our [real-world case study with a Nordic food brand](/blog/case-study-nordic-food-brand/) for how sustainable kraft packaging performs in demanding B2B applications. Explore all [kraft eco boxes](/kraft-eco-boxes/) in our collection.
 
 ## Applications
 
@@ -64,9 +64,9 @@ Guangdong Bincai Color Printing's natural kraft paper gift box with jute ribbon 
 
 ## Sustainability
 
-- **FSC Mix Credit**: Full chain-of-custody, on-pack logo available
+- **FSC Mix Credit**: Full chain-of-custody, on-pack logo available — learn more in our [FSC & ISO certifications guide](/blog/bincai-certifications-quality-assurance-iso-fsc-g7/)
 - **Soy Inks**: Biodegradable, low-VOC, heavy-metal-free
-- **Plastic-Free**: No lamination, no synthetic coatings, no windows
+- **Plastic-Free**: No lamination, no synthetic coatings, no windows — read our [complete eco-manufacturing approach](/blog/sustainable-paper-box-packaging-bincai-eco-manufacturing/)
 - **Water-Based Adhesives**: Solvent-free, repulpable
 - **Jute Ribbon**: Natural fiber, biodegradable, renewable resource
 - **Carbon**: ~45% lower footprint vs conventional ribbon + lamination box
