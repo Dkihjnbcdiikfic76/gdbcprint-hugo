@@ -91,6 +91,11 @@ The telescopic rigid gift box with gold foil monogram window is designed for lux
 | **ISO 9001 & FSC** | Quality and sustainability certified |
 | **Free Samples** | 3–5 working days (freight collect) |
 
+## Related Resources
+
+- **[Rigid Box Engineering Deep-Dive →](/blog/luxury-rigid-box-engineering-anatomy-bincai/)** — Understand the structural anatomy of luxury rigid boxes: greyboard grades, wrap materials, corner construction, hinge designs, and how each component affects cost and quality.
+- **[Explore All Rigid Gift Boxes →](/categories/rigid-gift-boxes/)** — Browse our full range of rigid gift boxes: magnetic closure, book-style, drawer, telescopic, and custom designs.
+
 ## Contact
 
 MOQ 500 units. Trial orders welcome. Free pre-production samples. Lead time 20–30 days. Phone: +86-18934352881 (Mr. Zhou). Email: qo82@icloud.com. [Request free quote →](/contact/)

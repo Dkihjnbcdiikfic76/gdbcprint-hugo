@@ -102,6 +102,11 @@ A: Every box design is validated through ISTA 3A protocol before production rele
 **Q: What's the lead time for first-time orders vs. repeats?**
 A: First-time orders: 10–15 working days (includes structural design, die fabrication, printing plate production, pre-production sample approval). Repeat orders with existing tooling: 7–10 working days. Rush service (5 working days) available with 15% surcharge for repeat orders. For subscription box launches with tight timelines, we offer split-shipment options — initial 20% air freight (3–5 days transit) for launch-day fulfillment, balance by sea freight (25–35 days).
 
+## Related Resources
+
+- **[Corrugated Mailer Design Guide →](/blog/corrugated-mailer-design-guide-bincai/)** — Covers flute selection (B/C/E/BC), structural optimization, ISTA testing requirements, printing methods (flexo vs litho-lam), and cost engineering for subscription box brands.
+- **[Explore All Corrugated Mailers →](/categories/corrugated-mailers/)** — Browse our full range of corrugated packaging: subscription mailers, shipping boxes, e-commerce packaging, and custom structural designs.
+
 ## Why Choose Bincai for Subscription Box Packaging
 
 Guangdong Bincai Color Printing Co., Ltd. is a vertically integrated corrugated packaging manufacturer with deep expertise in subscription box fulfillment:
