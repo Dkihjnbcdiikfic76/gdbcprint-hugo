@@ -78,6 +78,11 @@ Not every product needs a custom-shaped box — but for these scenarios, a disti
 
 **Real example from Bincai production:** A cosmetics brand switched from rectangular to hexagonal rigid boxes for their holiday collection. The hexagon boxes communicated "honeycomb / natural / artisanal" without any additional print cost, and the collection sold through in 3 weeks vs. 6 weeks for the previous year's rectangular packaging. The packaging shape — not the product — drove the 2× sell-through rate.
 
+## Related Resources
+
+- **[Luxury Rigid Box Engineering: Anatomy, Materials & Construction →](/blog/luxury-rigid-box-engineering-anatomy-bincai/)** — Understand how greyboard, wrap materials, and structural engineering combine to create rigid boxes that hold their shape — essential knowledge when designing custom die-cut shapes.
+- **[Explore All Rigid Gift Boxes →](/categories/rigid-gift-boxes/)** — Browse our full range of rigid gift boxes: standard rectangular, magnetic closure, drawer-slide, book-style, and fully custom die-cut shapes.
+
 ## FAQ
 
 **Q: What's the minimum order quantity for custom-shaped boxes?**

@@ -1,8 +1,8 @@
 {
   "day": 3,
-  "task": 4,
-  "rotation": 3,
-  "next": "Day 3 Run 5, Task #5 INTERNAL LINKS",
+  "task": 5,
+  "rotation": 4,
+  "next": "Day 3 Run 6, Task #6 BUILD & DEPLOY",
   "started": "2026-06-16T00:00:00Z",
   "cycle": "deep-dive",
   "tasks": {
