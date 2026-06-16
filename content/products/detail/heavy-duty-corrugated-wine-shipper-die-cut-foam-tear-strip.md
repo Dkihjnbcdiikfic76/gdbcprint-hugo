@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, ISTA 3A"
 ---
 
-![Bincai Corrugated Mailers](/images/corrugated-mailers.jpg)
+![Bincai Corrugated Mailers](/images/cat-fold-mailer.jpg)
 
 Heavy-duty corrugated wine shipper with die-cut EPE foam insert and dual tear-strip opening — manufactured by Guangdong Bincai Color Printing Co., Ltd., leveraging 22 years of packaging expertise (since 2003). Produced on our BHS 2.5m Corrugator for consistent board quality and precision die-cut on Bobst SP 102 BMA/E. The integrated dual tear-strip allows frictionless unboxing without tools, while the die-cut EPE foam insert cradles each bottle with 360° protection. ISTA 3A certified for direct-to-consumer wine shipping. Daily output of 1.7M boxes from our 18,000 sqm dual-factory (10,000+8,000 sqm smart factory, 2025 expansion) in Foshan, Pearl River Delta.
 
@@ -78,6 +78,20 @@ Heavy-duty corrugated wine shipper with die-cut EPE foam insert and dual tear-st
 | Energy | 480 kWp rooftop solar array, closed-loop water system |
 | Waste | 94% recovery rate, corrugated scrap baled and recycled |
 | End-of-Life | Fully recyclable in OCC (old corrugated container) stream |
+
+## Wine Shipper Selection Matrix — Match the Box to Your Shipment
+
+Bincai produces wine shippers for every bottle count and logistics scenario. Use this matrix to self-select:
+
+| Bottle Count | Flute Grade | Foam Type | Closure | Best For | Approx. Cost |
+|-------------|------------|-----------|---------|----------|-------------|
+| 1 bottle | BC-flute (6mm) | Die-cut EPE, full-wrap | Single tear strip | DTC wine club, gift shipments | $0.50–1.20 |
+| 2 bottle (side-by-side) | BC-flute (6mm) | Die-cut EPE, divider wall | Single tear strip | Premium 2-bottle gifts, tasting kits | $0.80–1.80 |
+| 3 bottle (triangle) | EB-flute (4.5mm) | Die-cut EPE, 3-cavity | Dual tear strip | Mixed-variety packs, introductory sets | $1.20–2.50 |
+| 6 bottle | BC-flute (6mm) | Die-cut EPE or molded pulp | Dual tear strip + handle | Wine club monthly, e-commerce | $2.00–4.00 |
+| 12 bottle (case) | BC-flute (6mm) | Die-cut EPE or corrugated divider | Tear strip + reinforced handle | Wholesale, restaurant supply, bulk | $3.00–6.00 |
+
+**The single-bottle sweet spot:** Most wineries over-package single bottles. A BC-flute shipper with die-cut EPE foam achieves ISTA 3A certification at $0.50–1.20/unit — comparable to molded pulp but with better branding capability (flexo print on kraft or litho-laminate for premium). For DTC wineries shipping 500–5,000 bottles/month, the branded shipper pays for itself in reduced breakage claims (typical: <0.3% vs 1.5–3% for generic shippers) and customer perception (a branded shipper signals "this winery cares about quality from vineyard to doorstep").
 
 ## Why Choose Bincai for Corrugated Packaging
 

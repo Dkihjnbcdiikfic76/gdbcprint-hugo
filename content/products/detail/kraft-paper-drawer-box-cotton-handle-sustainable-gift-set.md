@@ -110,3 +110,24 @@ A: Yes, our in-house team can create artwork optimized for kraft substrate print
 
 **Q: How long does production take?**
 A: Standard 12-18 working days after sample approval. Rush orders at 7-10 days with surcharge.
+
+## Kraft Drawer Box vs Coated Box vs Tin — Format Comparison for Eco Brands
+
+Sustainable brands face a packaging format decision that affects brand perception, cost, and environmental claims. Here's how Bincai's kraft drawer box compares:
+
+| Factor | Kraft Drawer Box (Bincai) | Coated Paper Box (Matte/Gloss) | Metal Tin |
+|--------|--------------------------|-------------------------------|-----------|
+| **Eco Credibility** | ★★★★★ 100% recyclable, compostable, plastic-free | ★★★ Recyclable but plastic lamination required | ★★ Recyclable metal but high energy footprint |
+| **Tactile Experience** | ★★★★★ Warm, organic, textured kraft | ★★★★ Smooth, premium, fingerprint-resistant | ★★ Cold, industrial |
+| **Drawer Function** | ★★★★★ Smooth-glide with cotton pull | ★★ No drawer (hinged lid dominant) | ★★★★ Hinged, satisfying but heavy |
+| **Per-Unit Cost** | $1.80–7.00 | $1.20–5.00 | $2.50–10.00 |
+| **Print Vibrancy** | ★★★ Soy ink on kraft = earthy, muted | ★★★★★ CMYK on white = full vibrancy | ★★★★ Screen-printed or labeled |
+| **Weight** | ★★★★ Lightweight (1.5mm board) | ★★★★ Lightweight | ★★ Heavy (shipping cost) |
+| **Customization Ceiling** | ★★★ Cotton handle, divider, tissue | ★★★★ Foil, emboss, spot UV, window | ★★ Emboss/deboss only |
+| **End-of-Life** | ★★★★★ Paper stream OR compost | ★★★ Recyclable (remove lamination) | ★★★ Recyclable but low recovery rate |
+
+**When the kraft drawer box wins:** Your brand's core narrative is sustainability, transparency, and natural materials. The unbleached kraft surface IS the design — it communicates "we thought about every material choice" without saying a word. The drawer format adds functional delight (slide to reveal) that coated boxes can't easily replicate. This is the format for organic tea brands, natural skincare lines, and eco-conscious corporate gifting where the packaging must match the product's values.
+
+**When coated boxes win:** Your product photography demands full-color vibrancy (bright cosmetics packaging, vivid food photography) or your brand identity depends on metallic foil effects and spot UV gloss that kraft can't reproduce. The kraft aesthetic is a deliberate choice — not every product benefits from looking "earthy."
+
+**When metal tins win:** Reusability is the primary differentiator — customers keep tins for years as storage containers. But the environmental math is worse: a metal tin must be reused 20–30 times to offset its production carbon footprint vs a single-use recyclable paper box.

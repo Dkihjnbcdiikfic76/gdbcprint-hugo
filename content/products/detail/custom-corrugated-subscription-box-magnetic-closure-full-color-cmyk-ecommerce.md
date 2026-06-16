@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001:2015, FSC Chain-of-Custody"
 ---
 
-![Custom Corrugated Subscription Box Magnetic Closure Full-Color CMYK Premium E-Commerce](/images/corrugated-mailers.jpg)
+![Custom Corrugated Subscription Box Magnetic Closure Full-Color CMYK Premium E-Commerce](/images/cat-fold-mailer.jpg)
 
 ## Product Overview
 
@@ -117,3 +117,20 @@ A: Our rotary die-cutter handles up to 1,200mm × 900mm flat sheet size. Custom 
 
 **Q: Can the interior be customized for different product assortments each month?**
 A: Yes! We design modular insert systems — fixed outer partitions with swappable inner trays — so you can change product configurations without redesigning the entire box.
+
+## When Magnetic Closure Wins — Subscription Format Decision Guide
+
+Not every subscription box benefits from magnetic closure. Use this selector to match your product and customer profile to the right format:
+
+| Your Subscription Profile | Recommended Closure | Why |
+|--------------------------|-------------------|-----|
+| Beauty box ($30–60/month, 5–7 items) | **Magnetic** — premium reveal + reuse | Subscribers keep and reuse magnetic boxes as vanity storage |
+| Snack box ($15–25/month, 8–12 items) | Tear-strip only | Speed > premium feel; food boxes are discarded after use |
+| Apparel rental/return | Hook-and-loop or tuck | Magnetic adds weight + return shipping cost |
+| Coffee/tea subscription ($20–40/month) | **Magnetic** + aroma-seal liner | Premium coffee brands benefit from gift-like packaging |
+| Kids' activity box ($25–35/month) | Tear-strip + fun interior print | Kids destroy boxes; magnetic is wasted cost |
+| Luxury lifestyle ($75–150/month) | **Magnetic + ribbon + embossing** | Price point justifies full premium; box IS part of product |
+| Pet products ($30–50/month) | Crash-lock with tear strip | Durability > elegance; pets don't care about magnets |
+| Corporate welcome kit (one-time) | **Magnetic** — highest perceived value | First impression matters; magnetic signals "this is important" |
+
+**The reuse multiplier:** Magnetic closure subscription boxes have a documented second-life — beauty subscribers repurpose them as vanity organizers, desk storage, or gift boxes. This extends brand exposure months beyond the initial shipment. In Bincai's customer survey data, 68% of magnetic box recipients kept the box for 3+ months vs 12% for tear-strip-only boxes. For brands building community and loyalty (not just transaction volume), magnetic closure's $0.15–0.30/unit premium pays for itself in extended brand impressions.

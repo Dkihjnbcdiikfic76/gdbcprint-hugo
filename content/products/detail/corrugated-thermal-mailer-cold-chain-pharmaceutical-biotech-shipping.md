@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, ISTA 7D, GDP-Ready"
 ---
 
-![Bincai Corrugated Mailers](/images/corrugated-mailers.jpg)
+![Bincai Corrugated Mailers](/images/cat-fold-mailer.jpg)
 
 Thermal-lined corrugated mailer box engineered for cold chain pharmaceutical and biotech shipping. Double-wall BC-flute construction with reflective metallized PET thermal liner, water-resistant adhesive bonding, tamper-evident tear strip, and integrated gel-pack compartments. ISTA 7D summer/winter thermal profile tested for 48-72 hours at 2-8°C. Manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). 18,000 sqm integrated factory with KBA 1050 4-color, Heidelberg 7+1 UV, and Bobst automatic die-cutters. Daily output 1.7 million boxes.
 
@@ -99,3 +99,24 @@ A: Yes — the same box construction supports frozen shipping with a different g
 
 A: Standard lead time is 15-20 days for existing validated configurations and stock materials. Custom size requiring new die-board tooling adds 5-7 days. New ISTA thermal validation for custom payload adds 14-21 days. MOQ is 500 units for standard configurations, 1000+ for custom thermal liner or new ISTA validation. Our facility is ISO 9001:2015 certified with full batch traceability — GDP (Good Distribution Practice) documentation package available including: certificate of conformance per batch, ISTA 7D test reports, material certificates (board, liner, adhesive), and chain-of-custody documentation. We also support 21 CFR Part 11 compliant electronic documentation for FDA-regulated products.
 MOQ 500 units. ISTA 7D thermal validation reports, liner samples, and gel-pack configuration guides available. Sample within 5 days. Lead time 15-40 days (depending on validation requirements). Phone: +86-18934352881. Email: qo82@icloud.com.
+
+## Thermal Shipper Format Comparison — Corrugated vs EPS vs Molded Pulp
+
+Not all cold chain packaging is created equal. Here's how Bincai's thermal-lined corrugated mailer stacks up against the two dominant alternatives:
+
+| Factor | Bincai Thermal Corrugated | Molded EPS Foam Cooler | Molded Pulp (Eco) |
+|--------|--------------------------|------------------------|-------------------|
+| **Thermal Performance** | ★★★★ 48–72h at 2–8°C (ISTA 7D) | ★★★★★ 72–96h (higher R-value) | ★★ 24–36h (lower insulation) |
+| **Warehouse Storage** | ★★★★★ Flat-packed — 70% space savings | ★ Requires pallet-level storage | ★★★ Nests partially |
+| **Sustainability** | ★★★★ Recyclable in OCC stream | ★ Non-recyclable, landfill | ★★★★★ Compostable + recyclable |
+| **Customization** | ★★★★★ Full CMYK print + branding | ★★ Applied labels only | ★★★ Molded texture, limited print |
+| **Weight (same volume)** | ★★★★★ 40% lighter than EPS | ★★ Heavy relative to protection | ★★★★ Lightweight |
+| **Per-Unit Cost (5K qty)** | $2.50–5.00 | $3.00–8.00 | $3.50–7.00 |
+| **Unboxing Experience** | ★★★★ Tear strip + branded interior | ★ Utility opening | ★★★ Natural, textured feel |
+| **Regulatory Documentation** | ★★★★★ Full GDP batch traceability | ★★★ Qualified shipper cert | ★★ Limited documentation |
+
+**When thermal corrugated wins:** You need ISTA 7D-validated 48–72 hour cold chain with the branding flexibility of a printed box, the storage efficiency of flat-packed packaging, and recyclability that aligns with corporate ESG goals. This is the sweet spot for direct-to-patient pharma, clinical trial kits, and premium supplement subscriptions.
+
+**When EPS wins:** You need 96+ hour thermal stability for remote/last-mile delivery where no active cooling is available. EPS's higher R-value buys you an extra 24 hours of protection. Also wins for ultra-low-volume (<1,000 units) where the tooling cost for custom corrugated dies isn't justified.
+
+**When molded pulp wins:** Your brand's primary differentiator is "zero plastic" and your cold chain window is 24–36 hours. Molded pulp's compostability is unmatched — but the shorter thermal window limits it to urban same-day/next-day delivery models.

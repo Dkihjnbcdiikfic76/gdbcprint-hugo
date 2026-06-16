@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Folding Cartons](/images/folding-cartons.jpg)
+![Bincai Folding Cartons](/images/cat-fold-cosmetic.jpg)
 
 ## Product Overview
 
@@ -116,3 +116,19 @@ Cosmetic packaging must sell the product before the consumer ever opens the box 
 With **1.7 million boxes produced daily** across our **18,000 sqm integrated facility**, we handle seasonal cosmetic industry peaks — holiday gift sets, Valentine's Day launches, Mother's Day promotions — without missing delivery deadlines. Our ISO 9001:2015 and FSC® certifications provide the documentation your retail partners and regulatory bodies require. And with 22 years serving global cosmetic brands, we understand the nuances of beauty packaging: color-critical reproduction, tactile finishes that drive purchase intent, and the uncompromising quality standards that luxury consumers expect.
 
 **Factory Facts:** Founded 2003 | 22 years experience | 18,000 sqm (10,000 + 8,000 smart factory) | KBA 1050 + Heidelberg 7+1 UV | Bobst SP 102 BMA | 1.7M boxes/day | ISO 9001 & FSC certified | Foshan, Guangdong, China
+
+## Finish Selector — Soft-Touch vs Matte Lamination vs Aqueous Coating
+
+The finish you choose defines how your cosmetic carton feels in a customer's hand — and influences purchase decision. Here's how to pick:
+
+| Your Brand / Product | Best Finish | Why |
+|---------------------|------------|-----|
+| Premium skincare ($60–150), anti-aging, luxury serums | **Soft-Touch Lamination** | Velvety feel = luxury signal; fingerprint-resistant on dark boxes; +20–30% cost |
+| Clean beauty, natural cosmetics, minimalist brands | **Matte Lamination** | Understated sophistication; smooth non-reflective surface; +10–15% cost |
+| Mass-market cosmetics, drugstore brands, value sets | **Aqueous Coating** (matte or gloss) | Most economical; fully recyclable (no plastic film); inline application |
+| Fragrance gift sets, limited editions | **Soft-Touch + Spot UV** on logo | Dual texture — velvety body + glossy logo pop; memorable tactile experience |
+| Eco-positioned brand, "zero plastic" claim | **Aqueous Matte + Deboss** | No plastic lamination; deboss adds tactile interest without coating; fully repulpable |
+| Dark-colored boxes (black, navy, burgundy) | **Soft-Touch** | Hides fingerprints that plague dark matte boxes; looks pristine longer on-shelf |
+| Bright white boxes, high-gloss photography | **Gloss Lamination** | Amplifies color vibrancy; makes product photography "pop"; reflects retail lighting |
+
+**The fingerprint test:** Take your box mockup to a retail environment. Touch it 20 times — the way customers will. If fingerprints are visible, you need soft-touch or a lighter color. Dark matte boxes without soft-touch look worn within hours on a retail shelf. This is the #1 finish mistake we see new cosmetic brands make — choosing matte lamination on a black box because it looks elegant in a 3D render, then discovering the first customer who picks it up leaves a visible fingerprint that the next 50 customers see.

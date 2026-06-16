@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Folding Cartons](/images/folding-cartons.jpg)
+![Bincai Folding Cartons](/images/cat-fold-cosmetic.jpg)
 
 ## Product Overview
 
@@ -93,3 +93,21 @@ A: Our standard pillow box range runs from 80×50×30mm (perfect for a single pi
 
 **Q: What's the minimum order quantity and sampling timeline?**
 A: MOQ is 500 units for standard configurations (existing die lines). For custom sizes requiring new tooling, MOQ is 1,000 units. We provide a digital color proof within 48 hours and a physical white-glue sample in 5-7 working days. Full production lead time is 12-15 days after sample approval, or 15-18 days if a custom cutting die or foil stamping die is required.
+
+## Why This Pillow Box — Competitive Differentiation
+
+The pillow-shaped folding carton is not just another gift box — it's a format decision that communicates brand identity before the customer reads a single word. Here's how it compares against alternative formats:
+
+| Factor | Bincai Pillow Box | Standard Tuck-Top Carton | Two-Piece Rigid Box |
+|--------|-------------------|-------------------------|---------------------|
+| **Shelf Presence** | ★★★★★ Curved sculptural silhouette stops the eye | ★★ Rectangular, blends in | ★★★★ Premium but conventional |
+| **Per-Unit Cost** | $0.35–1.80 | $0.15–0.60 | $1.50–4.00 |
+| **Assembly Speed** | <3 seconds (snap-lock, no adhesive) | 5–10 seconds (tuck flaps) | Pre-assembled (no consumer assembly) |
+| **Flat-Ship Savings** | 80% freight volume reduction | 60–70% reduction | 0% (ships assembled) |
+| **Unboxing Experience** | ★★★★ Unique pillow reveal | ★★ Standard open-top | ★★★★★ Premium lid-off moment |
+| **Crush Resistance** | ★★★★ Curved sides add structural strength | ★★★ Standard box compression | ★★★★★ 1,200gsm greyboard core |
+| **Customization Ceiling** | Foil + soft-touch + window patching | Foil + coatings + window | Embossing + foil + magnetic + ribbon |
+
+**When the pillow box wins:** You're a mid-premium brand (candles $30–80, skincare $40–120, artisan food $25–60) that needs to differentiate on-shelf without the $1.50+ per-unit cost of a rigid box. The curved silhouette communicates "this is special" at 70% lower cost than a two-piece rigid — the sweet spot for giftable products where packaging IS part of the product experience.
+
+**Production example:** A European candle brand switched from standard tuck-top cartons to Bincai pillow boxes with soft-touch lamination and gold foil logo for their holiday collection. Retail sell-through improved 22% (buyer feedback: "the shape made me pick it up"). Per-unit packaging cost decreased $0.15 vs their previous two-piece rigid box while maintaining premium perception.

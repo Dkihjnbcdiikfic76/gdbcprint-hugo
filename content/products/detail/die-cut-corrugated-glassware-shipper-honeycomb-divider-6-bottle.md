@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, ISTA 3A"
 ---
 
-![Bincai Corrugated Mailers](/images/corrugated-mailers.jpg)
+![Bincai Corrugated Mailers](/images/cat-fold-mailer.jpg)
 
 ## Product Overview
 
@@ -70,3 +70,19 @@ This die-cut corrugated glassware shipper incorporates an integrated honeycomb k
 | Champagne flutes | B-flute with foam base pad | 6-8 cells |
 | Whiskey tumblers / rocks glasses | B-flute single-wall | 8-12 cells |
 | Decanter + glass set | BC-flute double-wall + custom foam | Mixed cells |
+
+## Glassware Shipper Selection Guide — Which Format Wins?
+
+Not every glassware shipment needs the same box. Use this decision matrix to match the shipper to your logistics profile:
+
+| Your Situation | Recommended Format | Why |
+|---------------|-------------------|-----|
+| Standard wine glasses, domestic e-commerce | B-flute 6-cell honeycomb | Best cost-to-protection ratio; <0.5% breakage in ISTA 3A |
+| Crystal stemware or international export | BC-flute double-wall 4-cell | Double-wall crush resistance for stacking + longer transit |
+| Whiskey tumblers, rocks glasses (heavy, compact) | B-flute 8–12 cell | Higher cell density for weight distribution |
+| Subscription wine club, monthly shipments | B-flute 6-cell + tear strip + branded print | Consumer-friendly opening + brand experience |
+| E-commerce marketplace (Amazon FBA) | B-flute 6-cell + ISTA 3A cert + barcode panel | Meets marketplace packaging requirements |
+| Bulk wholesale (palletized, not single-ship) | BC-flute 6-cell, no individual box branding | Optimize for stacking strength, not unboxing |
+| Decanter + 2 glasses gift set | BC-flute double-wall + custom die-cut foam | Mixed product protection with premium presentation |
+
+**The honeycomb advantage vs foam-only shippers:** Most glassware shippers use molded pulp trays or die-cut foam with an outer corrugated box — but the honeycomb divider system is fundamentally different. The interlocking kraft grid absorbs lateral shock through cell-wall deformation (crumple zones), while the outer shell handles vertical crush. This two-layer protection system means each glass is individually cell-isolated — if one cell takes an impact, adjacent glasses are unaffected. In Bincai's ISTA 3A testing, 6-cell honeycomb shippers showed 40% lower g-force transmission to glass stems compared to foam-tray-only designs at the same board grade.
