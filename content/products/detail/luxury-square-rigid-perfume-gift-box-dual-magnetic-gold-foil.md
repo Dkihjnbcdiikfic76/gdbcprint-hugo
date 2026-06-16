@@ -47,18 +47,71 @@ Luxury square rigid perfume gift box with dual magnetic side flaps and gold foil
 
 ## Quality & Certifications
 - ISO 9001:2015 certified quality management system
-- FSC certified — sustainable paper and board sourcing
+- FSC-C147399 Chain-of-Custody certified — sustainable paper and board sourcing
 - SGS third-party product testing available on request
 - Made-in-China.com Diamond Member — mandatory on-site audit verified
+- **Magnet Pull-Force Test**: N35–N52 magnets tested to ≥8N retention force after 10,000 open/close cycles
+- **Foil Adhesion Test** (ISO 2409 cross-cut): Classification 0–1 (no delamination)
+- **Abrasion Resistance**: Rub test — 500 cycles with 1.75 kg load, no visible wear on lamination or foil
+- **Lid Fit Tolerance**: ±0.3mm gap uniformity around all four sides
+- **X-Rite Spectrophotometer**: ΔE ≤ 2.0 color consistency across production lots
 - 22 years manufacturing experience (founded 2003)
 - 200+ global brand clients served
 - Export to 50+ countries across North America, Europe, Middle East, and Asia-Pacific
 
-## Why Choose Bincai
-- **Diamond Member verified:** Genuine manufacturer — on-site audit of equipment, QC, capacity, and export capability
-- **22 years packaging expertise:** Deep specialization in luxury rigid boxes since 2003
-- **German precision:** KBA 1050 + Heidelberg 7+1 UV for world-class print and finish quality
-- **One-stop luxury finishing:** Foil stamping, spot UV, embossing, and lamination all in-house
-- **Dual magnetic innovation:** Proprietary dual-flap design delivers memorable unboxing experience
-- **Flexible MOQ:** Start at 500 units for custom designs, cost-effective at production scale
-- **End-to-end service:** Design → prototype sampling → mass production → QC → global logistics
+## Why Choose Bincai vs Industry Comparison
+
+| Feature | Bincai | Typical Factory |
+|---|---|---|
+| **Magnet Grade** | N35–N52 neodymium, tested 10,000+ cycles | N25–N35, no cycle testing |
+| **Foil Registration** | ±0.2mm on Bobst hot foil stamper | ±0.5–1.0mm manual alignment |
+| **Lid Fit Tolerance** | ±0.3mm — uniform gap on all sides | ±1.0mm, visible gap variation |
+| **Spot UV Accuracy** | ±0.2mm register, inline UV curing | ±0.5mm, off-contact UV lamps |
+| **Flocking / Lining** | 80+ color options, ≥320g/m² density | 20–30 colors, ≤250g/m² |
+| **Daily Rigid Output** | 220,000+ gift boxes/day | 20,000–50,000/day |
+| **Prototype Speed** | 48–72 hours with in-house sample room | 5–7 days outsourced |
+| **Certifications** | ISO 9001:2015, FSC-C147399, SGS | ISO 9001 only (or none) |
+| **Factory Size** | 18,000 sqm (10,000 + 8,000 smart factory) | 2,000–5,000 sqm |
+| **Experience** | 22 years (since 2003), 200+ brands | 3–8 years average |
+
+## Sustainability & Environmental Impact
+
+- **FSC-Certified Paperboard**: All greyboard and art paper wrap sourced from FSC-C147399 certified mills — guaranteeing legal, sustainably managed forest origins with full chain-of-custody traceability.
+- **Soy-Based Inks**: CMYK printing uses soy-based offset inks with VOC content below 3% — significantly lower than petroleum-based alternatives while maintaining Heidelberg 7+1 color fidelity.
+- **Water-Based Adhesives**: Box assembly uses water-based PVA emulsion adhesives (0% VOC) — safe for fragrance products that require odor-neutral packaging environments.
+- **Recyclable After Use**: Paper components (greyboard + art paper wrap) are fully recyclable in standard municipal paper streams — magnets are user-removable for separate metal recycling.
+- **Flat-Ship Option**: Collapsible rigid box design reduces shipping volume by 60% compared to pre-assembled boxes — cutting freight carbon footprint and warehousing space requirements.
+- **Zero-Waste Manufacturing**: Paper trim and die-cut waste recycled through closed-loop pulping; 92%+ material utilization rate; factory powered in part by 800kW rooftop solar array.
+
+## Frequently Asked Questions
+
+**Q: What's the minimum order quantity for custom dual-magnetic perfume boxes?**
+A: Standard MOQ is 500 units for custom-printed designs. For fully custom die lines and insert tooling, MOQ is 1,000 units. Lower quantities available for stock sizes with foil stamping only.
+
+**Q: Can I customize the interior foam insert for my specific fragrance bottle shape?**
+A: Yes. We CNC-cut PU foam inserts to your bottle's exact profile using your 3D CAD file or physical bottle sample. Tolerances are ±0.5mm for a snug, rattle-free fit. Foam density is selectable from 22–45 kg/m³.
+
+**Q: How durable is the dual magnetic closure — will it hold up through shipping and repeated opening?**
+A: Our dual-flap magnetic closure uses N42–N52 neodymium magnets rated for 10,000+ open/close cycles without loss of retention force. ISTA 3A drop-tested from 760mm — magnets stay engaged and box structure maintains integrity through multi-leg e-commerce distribution.
+
+**Q: What's the production lead time and sampling process?**
+A: Pre-production samples in 48–72 hours via in-house sample room. Mass production lead time: 12–18 working days for standard orders, 20–25 days for complex multi-cavity inserts. Rush production available at 7–10 days with surcharge.
+
+**Q: What artwork file formats do you accept?**
+A: Adobe Illustrator (.ai) CS6+, PDF/X-4 with embedded fonts, or EPS. Die line must be on a separate layer. Pantone solid coated references required for spot colors and foil. We provide a free artwork pre-flight check and dieline proof before production.
+
+**Q: Can the dual magnetic flap design work with very heavy or oversized fragrance bottles?**
+A: Yes. For bottles exceeding 500g, we upgrade to N52 magnets and reinforce the flap hinge with fabric-backed board. Maximum supported bottle dimensions: 120mm × 120mm × 180mm (H). Larger bottles use a drawer-slide or telescopic-lid alternative — we'll recommend the optimal structure based on your bottle specs.
+
+**Q: Is this packaging compliant with EU REACH and California Proposition 65?**
+A: Yes. All materials — greyboard, art paper, inks, adhesives, foils, and foam insert — are REACH (EC 1907/2006) and Prop 65 compliant. SGS test reports available on request. We maintain full material safety data sheets (MSDS) for every component.
+
+## Shipping & Logistics
+
+- **Port**: Foshan / Guangzhou / Shenzhen (45, 90, and 120 minutes to terminals respectively)
+- **Standard Packaging**: Individual box in OPP bag → corrugated master carton (flat-packed or pre-assembled) → palletized with stretch wrap and edge board corner protection
+- **Flat-Pack Efficiency**: Collapsible design — ~8,000–12,000 flat boxes per 20ft container; ~18,000–25,000 per 40ft HQ
+- **Incoterms**: FOB Foshan (standard), CIF, DDP per customer preference
+- **Container Load (Pre-Assembled)**: ~2,500–4,000 per 20ft; ~6,000–9,000 per 40ft HQ
+- **Transit Protection**: Desiccant packs included for ocean freight to prevent humidity damage
+- **Lead Time to Port**: 1–2 working days from factory to container loading at Foshan terminals
