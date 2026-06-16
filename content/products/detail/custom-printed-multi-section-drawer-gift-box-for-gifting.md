@@ -11,7 +11,7 @@ params:
   material: "Greyboard 1200-1600gsm / Art Paper Wrap 157-250gsm / Hot Foil / Embossing / Matte Lamination"
   certification: "ISO 9001, FSC, SGS"
 ---
-![Custom Printed Multi-Section Drawer Gift Box for Gifting](/images/cat-rigid-others.jpg)
+![Custom Printed Multi-Section Drawer Gift Box for Gifting](/images/rigid-gift-boxes.jpg)
 
 ## Product Overview
 

@@ -18,7 +18,7 @@ tags:
   - ISO 9001 certified
 ---
 
-![Bincai Rigid Gift Box](/images/cat-rigid-others.jpg)
+![Bincai Rigid Gift Box](/images/rigid-gift-boxes.jpg)
 
 Custom round hat box with magnetic closure and leather handle by **Guangdong Bincai Color Printing Co., Ltd.** — a Diamond Member on Made-in-China.com with 22 years of manufacturing excellence (founded 2003). This elegant telescopic round box combines vintage trunk aesthetics with contemporary luxury packaging engineering. The two-piece telescopic design opens smoothly to reveal the interior, while the concealed magnetic closure provides secure closure without visible hardware. The genuine leather carry handle adds both functionality and a premium tactile element that elevates the unboxing experience to a luxury ritual. Produced on KBA Rapida 105 4-color and Heidelberg Speedmaster CD 102 7+1 UV presses across our 18,000 sqm facility (10,000+8,000 sqm smart factory, 2025 expansion). Daily output: 1.7 million color boxes + 220,000+ gift boxes.
 

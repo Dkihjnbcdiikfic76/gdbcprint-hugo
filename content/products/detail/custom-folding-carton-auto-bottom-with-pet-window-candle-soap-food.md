@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Folding Cartons](/images/cat-fold-gift.jpg)
+![Bincai Folding Cartons](/images/folding-cartons.jpg)
 
 Custom folding carton with auto-lock bottom and PET window — the workhorse of retail packaging combining quick assembly, product visibility, and premium print quality. The auto-bottom design erects in under 2 seconds without manual folding, making it ideal for high-volume production lines. Manufactured by Guangdong Bincai Color Printing Co., Ltd.
 

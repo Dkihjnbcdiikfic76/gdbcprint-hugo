@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001:2015, FSC Chain-of-Custody, Sedex SMETA"
 ---
 
-![Bincai Rigid Gift Boxes](/images/cat-rigid-others.jpg)
+![Bincai Rigid Gift Boxes](/images/rigid-gift-boxes.jpg)
 
 ## Product Overview
 

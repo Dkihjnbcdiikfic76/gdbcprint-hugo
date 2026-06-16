@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Rigid Gift Boxes — Premium Cigar Packaging](/images/cat-rigid-others.jpg)
+![Bincai Rigid Gift Boxes — Premium Cigar Packaging](/images/rigid-gift-boxes.jpg)
 
 This **Rigid Two-Piece Cigar Presentation Box** is a luxury packaging solution for premium cigar brands and tobacco retailers. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** (founded 2003) at our 18,000 sqm dual-factory facility in Foshan, Pearl River Delta, this humidor-style box combines traditional craftsmanship with modern production precision. The interior is lined with authentic **Spanish cedar (Cedrela odorata)** veneer — the gold standard for cigar storage — which naturally regulates humidity and imparts the classic cedar aroma prized by cigar aficionados. Each box is produced on our **KBA Rapida 1050 4-color offset** and **Heidelberg Speedmaster CD 102 7+1 UV** presses with a daily capacity of 1.7 million boxes, ensuring consistent quality at any scale.
 

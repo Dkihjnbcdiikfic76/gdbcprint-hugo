@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, ISO 15378, GMP"
 ---
 
-![Pharmaceutical Folding Carton with Tamper-Evident Seal](/images/cat-fold-gift.jpg)
+![Pharmaceutical Folding Carton with Tamper-Evident Seal](/images/folding-cartons.jpg)
 
 ## Product Overview
 

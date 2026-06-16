@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, SGS"
 ---
 
-![Luxury Square Rigid Perfume Gift Box — Dual Magnetic Closure with Gold Foil](/images/cat-rigid-others.jpg)
+![Luxury Square Rigid Perfume Gift Box — Dual Magnetic Closure with Gold Foil](/images/rigid-gift-boxes.jpg)
 
 Luxury square rigid perfume gift box with dual magnetic side flaps and gold foil detailing — manufactured by **Guangdong Bincai Color Printing Co., Ltd.** This premium two-piece telescopic rigid box features an innovative dual magnetic side-flap opening mechanism that parts dramatically to reveal the fragrance bottle cradled in a custom satin-lined foam insert. The exterior showcases matte lamination with selective spot UV accents and gold foil hot stamping for a sophisticated luxury brand presentation. The dual magnetic closure provides secure, satisfying closure with an elegant reveal. Produced on KBA 1050 4-color and Heidelberg 7+1 UV presses across our 18,000 sqm factory.
 

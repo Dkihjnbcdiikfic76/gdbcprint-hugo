@@ -18,7 +18,7 @@ tags:
   - ISO 9001 certified
 ---
 
-![Bincai Rigid Gift Box](/images/cat-rigid-others.jpg)
+![Bincai Rigid Gift Box](/images/rigid-gift-boxes.jpg)
 
 Deep-embossed logo rigid presentation box with double satin ribbon closure for corporate gifting and premium product launches by Guangdong Bincai Color Printing Co., Ltd. — a Diamond Member on Made-in-China.com with 22 years of manufacturing excellence (founded 2003). The combination of deep embossing and double satin ribbon creates a tactile and visual experience that communicates brand prestige before the recipient even opens the box. The rigid greyboard construction protects contents during shipping and handling while maintaining a premium feel. Produced on KBA 1050 4-color and Heidelberg 7+1 UV presses across our 18,000 sqm facility (10,000+8,000 smart factory) (2025 expansion). Daily output: 1.7 million color boxes + 220,000+ gift boxes.
 

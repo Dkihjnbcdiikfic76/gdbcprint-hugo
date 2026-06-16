@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, SGS"
 ---
 
-![Hexagonal Rigid Gift Box with Satin Ribbon Closure](/images/cat-rigid-others.jpg)
+![Hexagonal Rigid Gift Box with Satin Ribbon Closure](/images/rigid-gift-boxes.jpg)
 
 ## Product Overview
 

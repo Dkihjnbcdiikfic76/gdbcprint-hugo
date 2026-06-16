@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Rigid Two-Piece Telescope Corporate Gift Box](/images/cat-rigid-others.jpg)
+![Bincai Rigid Two-Piece Telescope Corporate Gift Box](/images/rigid-gift-boxes.jpg)
 
 The rigid two-piece telescope box is the definitive packaging format for corporate gifting — a structured, high-perceived-value presentation that elevates branded merchandise, executive gifts, and client welcome kits into memorable brand experiences. Manufactured by Guangdong Bincai Color Printing Co., Ltd., a 22-year Foshan paper box specialist operating from an 18,000 sqm dual-factory, this box combines the classic telescope lid-and-base construction with custom embossing, precision hot foil stamping, and a satin ribbon pull for effortless access.
 

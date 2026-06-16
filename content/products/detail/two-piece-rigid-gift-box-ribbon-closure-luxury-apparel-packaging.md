@@ -18,7 +18,7 @@ tags:
   - ISO 9001 certified
 ---
 
-![Bincai Rigid Ribbon Apparel Box](/images/cat-rigid-others.jpg)
+![Bincai Rigid Ribbon Apparel Box](/images/rigid-gift-boxes.jpg)
 
 Two-Piece Rigid Gift Box with grosgrain ribbon closure for luxury apparel packaging by Guangdong Bincai Color Printing Co., Ltd. — a Diamond Member on Made-in-China.com with 22 years of manufacturing excellence (founded 2003). The classic two-piece telescoping design features a separate lid and base wrapped in premium art paper, with a grosgrain ribbon tie that adds an elegant unboxing ritual. Ideal for luxury fashion brands presenting scarves, ties, shirts, lingerie, and accessories. Produced on KBA 1050 4-color and Heidelberg 7+1 UV presses across our 18,000 sqm facility. Daily output: 1.7 million color boxes + 220,000+ gift boxes.
 

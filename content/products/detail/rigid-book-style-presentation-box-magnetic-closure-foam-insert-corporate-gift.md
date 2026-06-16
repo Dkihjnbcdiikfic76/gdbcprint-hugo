@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Rigid Gift Boxes](/images/cat-rigid-others.jpg)
+![Bincai Rigid Gift Boxes](/images/rigid-gift-boxes.jpg)
 
 Rigid book-style magnetic closure presentation box with custom die-cut foam insert — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). The book-style hinged lid opens like a hardcover book, revealing a precision die-cut foam or satin-lined interior that securely cradles each item. Ideal for corporate gift kits, executive onboarding packages, premium electronics unboxing, and luxury brand presentations. KBA 1050 4-color and Heidelberg 7+1 UV presses deliver precision printing across 18,000 sqm factory (10,000+8,000 smart factory). Daily output 1.7 million boxes.
 

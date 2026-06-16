@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Premium Rigid Gift Boxes](/images/cat-rigid-others.jpg)
+![Bincai Premium Rigid Gift Boxes](/images/rigid-gift-boxes.jpg)
 
 The Two-Tier Telescopic Rigid Wedding Favor Box represents the pinnacle of luxury event packaging. Manufactured by Guangdong Bincai Color Printing Co., Ltd. at our 18,000 sqm Foshan facility, this two-piece telescopic box features a removable upper tray and deeper lower compartment — perfect for presenting an assortment of wedding favors, luxury confectionery, or bridal party gifts. Gold foil hot stamping on premium art paper and a hand-tied satin ribbon closure create an unforgettable unboxing experience that elevates brand perception. Built on 2.5mm rigid greyboard with ±0.15mm foil registration, every box is produced on KBA 1050 4-color and Heidelberg 7+1 UV presses with ISO 9001:2015 quality systems and FSC Chain-of-Custody certification.
 

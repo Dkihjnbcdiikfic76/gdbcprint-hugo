@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Triangular Champagne Box](/images/cat-rigid-others.jpg)
+![Triangular Champagne Box](/images/rigid-gift-boxes.jpg)
 
 ## Product Overview
 

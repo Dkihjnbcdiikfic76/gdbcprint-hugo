@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Folding Cartons](/images/cat-fold-gift.jpg)
+![Bincai Folding Cartons](/images/folding-cartons.jpg)
 
 Straight-tuck end folding carton with holographic cold foil effect for luxury cosmetics — designed and manufactured by Guangdong Bincai Color Printing Co., Ltd. This premium folding carton combines the eye-catching shimmer of holographic cold foil transfer with precise offset printing to create packaging that demands attention on retail shelves. The straight-tuck end (STE) construction provides clean, secure closure while enabling flat shipping for cost efficiency. The holographic cold foil is applied in-line on our Heidelberg Speedmaster CD 102 7+1 UV press, achieving ±0.15mm registration against CMYK artwork — the iridescent rainbow effect shifts from silver through blue, pink, and gold depending on viewing angle and lighting. Produced at our 18,000 sqm Foshan facility with 22 years of folding carton expertise, delivering 1.7 million boxes daily under ISO 9001:2015 and FSC Chain-of-Custody certification.
 

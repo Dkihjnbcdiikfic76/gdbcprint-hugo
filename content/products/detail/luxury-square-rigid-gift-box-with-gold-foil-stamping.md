@@ -11,7 +11,7 @@ params:
   material: "Greyboard 1200-1600gsm / Art Paper Wrap 157-250gsm / Hot Foil / Embossing / Matte Lamination"
   certification: "ISO 9001, FSC, SGS"
 ---
-![Luxury Square Rigid Gift Box with Gold Foil Stamping](/images/cat-rigid-others.jpg)
+![Luxury Square Rigid Gift Box with Gold Foil Stamping](/images/rigid-gift-boxes.jpg)
 
 Timeless luxury square rigid gift box with gold foil stamping — manufactured by **Guangdong Bincai Color Printing Co., Ltd.**, a full-chain packaging enterprise with 22 years of manufacturing expertise (founded 2003). The classic square silhouette wrapped in premium art paper or leatherette with precision gold foil accents defines understated elegance for luxury brands. Built with 2.5mm FSC-certified greyboard for a substantial hand-feel, the magnetic or two-piece lid-and-base construction creates a ceremonial unboxing experience. Multi-pass gold foil stamping on Bobst SP 102 BMA delivers crisp, reflective branding that never fades. Produced on KBA 1050 4-color offset and Heidelberg 7+1 UV presses across Bincai's 18,000 sqm dual factory (10,000+8,000 sqm smart factory) in Foshan, Guangdong. ISO 9001:2015 and FSC certified. Daily output 1.7 million boxes. MOQ 500 with free pre-production samples.
 

@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, SGS"
 ---
 
-![Personalized Design Gift Box with Custom Inner Tray Inserts](/images/cat-rigid-others.jpg)
+![Personalized Design Gift Box with Custom Inner Tray Inserts](/images/rigid-gift-boxes.jpg)
 
 ## Product Overview
 

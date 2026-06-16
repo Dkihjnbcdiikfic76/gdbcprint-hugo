@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Premium Folding Cartons](/images/cat-fold-gift.jpg)
+![Bincai Premium Folding Cartons](/images/folding-cartons.jpg)
 
 The Straight-Tuck End Folding Carton with Soft-Touch Lamination is engineered for luxury cosmetics brands that demand tactile sophistication at shelf. Manufactured by Guangdong Bincai Color Printing Co., Ltd. at our 18,000 sqm Foshan facility, this carton combines the velvety feel of soft-touch matte lamination with precision gold foil logo stamping — creating a premium unboxing experience that commands attention in the beauty aisle. The straight-tuck end closure provides secure product retention while the auto-lock bottom enables rapid assembly. Produced on KBA 1050 4-color and Heidelberg 7+1 UV presses with ±0.15mm print registration, each carton meets ISO 9001:2015 quality standards and is available with FSC-certified board.
 

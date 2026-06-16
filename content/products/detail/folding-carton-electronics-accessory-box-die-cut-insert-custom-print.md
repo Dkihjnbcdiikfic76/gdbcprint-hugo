@@ -18,7 +18,7 @@ tags:
   - ISO 9001 certified
 ---
 
-![Bincai Folding Cartons](/images/cat-fold-gift.jpg)
+![Bincai Folding Cartons](/images/folding-cartons.jpg)
 
 ## Product Overview
 

@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, SGS"
 ---
 
-![Art Pattern Square Paper Gift Box for Premium Packaging](/images/cat-rigid-others.jpg)
+![Art Pattern Square Paper Gift Box for Premium Packaging](/images/rigid-gift-boxes.jpg)
 
 ## Product Overview
 

@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, SGS"
 ---
 
-![Rigid Gift Box with Embossed Pattern & Magnetic Closure — Luxury Watch Collector Display](/images/cat-rigid-others.jpg)
+![Rigid Gift Box with Embossed Pattern & Magnetic Closure — Luxury Watch Collector Display](/images/rigid-gift-boxes.jpg)
 
 Rigid gift box with embossed pattern and magnetic closure — designed for luxury watch collector display by **Guangdong Bincai Color Printing Co., Ltd.** This premium two-piece rigid setup box features deeply embossed surface patterns, a secure magnetic snap closure, and a soft suede-lined interior tailored for single or multi-watch presentation. The 2.5mm greyboard core delivers exceptional crush resistance, while the embossed+foil surface creates a tactile luxury feel that elevates brand perception at retail and unboxing. Produced on our Heidelberg 7+1 UV press and Bobst SP 102 BMA die-cutter across our 18,000 sqm factory with 1.7M daily output capacity.
 

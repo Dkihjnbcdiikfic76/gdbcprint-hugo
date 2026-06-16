@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, SGS"
 ---
 
-![Custom Folding Carton with Hidden Magnetic Closure](/images/cat-fold-gift.jpg)
+![Custom Folding Carton with Hidden Magnetic Closure](/images/folding-cartons.jpg)
 
 Discreetly luxurious folding carton with hidden magnetic closure — manufactured by **Guangdong Bincai Color Printing Co., Ltd.**, a full-chain packaging enterprise with 22 years of manufacturing expertise (founded 2003). The carton appears as a minimalist monolithic block with no visible closure — two N35 neodymium magnets are embedded between the paperboard layers during lamination, creating an invisible magnetic clasp that snaps the flap shut with satisfying precision. The 350gsm FSC-certified SBS board is wrapped in soft-touch lamination that feels like suede to the fingertips — fingerprints wipe clean and the tactile experience signals luxury before the product is even seen. Spot UV accents and hot foil stamping on Kolbus DA270 add branding brilliance. The auto-lock bottom erects in one motion with no adhesive required. Produced on KBA 1050 4-color offset and Heidelberg 7+1 UV presses across Bincai's 18,000 sqm dual factory (10,000+8,000 sqm smart factory) in Foshan, Guangdong. ISO 9001:2015 and FSC certified. Daily output 1.7 million boxes. MOQ 1,000.
 

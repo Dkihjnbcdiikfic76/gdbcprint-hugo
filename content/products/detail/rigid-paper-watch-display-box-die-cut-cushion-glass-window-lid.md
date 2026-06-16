@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, RoHS"
 ---
 
-![Rigid Paper Watch Display Box with Die-Cut Cushion and Glass Window Lid](/images/cat-rigid-others.jpg)
+![Rigid Paper Watch Display Box with Die-Cut Cushion and Glass Window Lid](/images/rigid-gift-boxes.jpg)
 
 Premium rigid watch display box with glass viewing window — manufactured by **Guangdong Bincai Color Printing Co., Ltd.**, a Diamond Member on Made-in-China.com since 2015, Audited Supplier with 22 years of experience. The rigid board body provides exceptional structural integrity while the tempered glass window lid offers a clear, scratch-resistant showcase for luxury timepieces. A precision die-cut cushion cradles the watch securely, available in plush velvet, microfiber suede, or satin finishes. The magnetic closure or optional metal hinge provides a satisfying premium feel upon opening. Ideal for retail countertop displays, duty-free showcases, and collector-grade watch storage. Produced on KBA 1050 4-color and Heidelberg 7+1 UV presses across 18,000 sqm factory (10,000+8,000 sqm smart factory).
 

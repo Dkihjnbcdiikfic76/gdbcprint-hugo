@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, SGS"
 ---
 
-![Rigid Book-Style Magnetic Closure Gift Box — Premium Chocolate & Confectionery](/images/cat-rigid-others.jpg)
+![Rigid Book-Style Magnetic Closure Gift Box — Premium Chocolate & Confectionery](/images/rigid-gift-boxes.jpg)
 
 Rigid book-style magnetic closure gift box designed for premium chocolates, truffles, and fine confectionery — manufactured by **Guangdong Bincai Color Printing Co., Ltd.** This elegant book-style rigid box opens like a hardcover volume to reveal a custom die-cut tray cradling individual chocolates or pralines. The hinged lid features dual magnetic snap closures for secure, satisfying opening and closing, complemented by a satin ribbon pull for easy access. The exterior can be wrapped in art paper, leatherette, or linen with gold foil hot stamping for a luxury brand impression. Produced on KBA 1050 4-color and Heidelberg 7+1 UV presses across our 18,000 sqm factory.
 

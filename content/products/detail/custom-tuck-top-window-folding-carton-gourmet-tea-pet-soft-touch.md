@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Folding Carton Box](/images/cat-fold-gift.jpg)
+![Folding Carton Box](/images/folding-cartons.jpg)
 
 ## Product Overview
 

@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![CMYK Litho-Laminate Folding Carton for Premium Retail Display Packaging](/images/cat-fold-gift.jpg)
+![CMYK Litho-Laminate Folding Carton for Premium Retail Display Packaging](/images/folding-cartons.jpg)
 
 CMYK litho-laminate folding carton for premium retail display packaging — delivering photo-quality print on a rigid-feel substrate, from Guangdong Bincai Color Printing Co., Ltd. (22 years, founded 2003). This carton combines two packaging technologies into one premium solution: offset lithographic printing on 157gsm C2S (coated-two-sides) art paper, laminated to 1.5mm E-flute micro-corrugated board. The result is a folding carton with the visual impact of a luxury rigid box — 200-line screen CMYK printing with Pantone spot colors and UV coating on Heidelberg Speedmaster CD 102 7+1 UV press — with the structural protection and flat-shipping efficiency of corrugated. The auto-lock bottom pops open instantly with tuck-top closure for quick assembly. Surface enhancement options include hot foil stamping (gold/silver/copper/rose gold), spot UV gloss coating, sculpted embossing, and soft-touch matte lamination. Our 18,000 sqm facility delivers 1.7M boxes daily under ISO 9001:2015 and FSC Chain-of-Custody certification.
 

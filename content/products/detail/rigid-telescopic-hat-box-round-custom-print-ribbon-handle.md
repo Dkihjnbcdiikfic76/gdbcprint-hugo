@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Rigid Hat Box](/images/cat-rigid-others.jpg)
+![Rigid Hat Box](/images/rigid-gift-boxes.jpg)
 
 ## Product Overview
 

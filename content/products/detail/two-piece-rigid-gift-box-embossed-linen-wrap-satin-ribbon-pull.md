@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Two-Piece Rigid Gift Box with Embossed Linen-Texture Wrap & Satin Ribbon Pull](/images/cat-rigid-others.jpg)
+![Two-Piece Rigid Gift Box with Embossed Linen-Texture Wrap & Satin Ribbon Pull](/images/rigid-gift-boxes.jpg)
 
 ## Product Overview
 

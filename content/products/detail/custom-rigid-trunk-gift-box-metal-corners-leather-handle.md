@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, REACH (Metal Hardware), CPSIA (US)"
 ---
 
-![Custom Rigid Trunk Gift Box](/images/cat-rigid-others.jpg)
+![Custom Rigid Trunk Gift Box](/images/rigid-gift-boxes.jpg)
 
 ## Product Overview
 

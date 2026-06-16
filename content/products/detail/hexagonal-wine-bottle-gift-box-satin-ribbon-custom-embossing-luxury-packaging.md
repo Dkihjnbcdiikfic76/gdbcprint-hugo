@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001:2015, FSC Chain-of-Custody"
 ---
 
-![Hexagonal Wine Box](/images/cat-rigid-others.jpg)
+![Hexagonal Wine Box](/images/rigid-gift-boxes.jpg)
 
 ## Product Overview
 

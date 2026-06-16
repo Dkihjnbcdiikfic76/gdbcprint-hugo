@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, SGS"
 ---
 
-![Premium Rigid Watch Gift Box — Velvet Cushion Insert + Magnetic Closure Lid](/images/cat-rigid-others.jpg)
+![Premium Rigid Watch Gift Box — Velvet Cushion Insert + Magnetic Closure Lid](/images/rigid-gift-boxes.jpg)
 
 Premium rigid watch gift box with velvet cushion insert and magnetic closure lid — manufactured by **Guangdong Bincai Color Printing Co., Ltd.** Designed for luxury watch brands, timepiece retailers, and corporate watch gifting, this 2mm rigid board box delivers the weight, tactile quality, and presentation that premium watches demand. The exterior is wrapped in flocked velvet or premium leatherette with gold or silver hot foil branding, while the interior features a removable satin pillow cushion that holds the watch securely. The magnetic closure lid provides a satisfying premium snap. Produced across our 18,000 sqm factory with 1.7M daily output capacity.
 

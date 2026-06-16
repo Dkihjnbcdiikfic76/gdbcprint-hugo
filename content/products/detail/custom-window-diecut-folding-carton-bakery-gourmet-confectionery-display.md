@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, FDA 21 CFR, EU 1935/2004"
 ---
 
-![Folding Carton](/images/cat-fold-gift.jpg)
+![Folding Carton](/images/folding-cartons.jpg)
 
 ## Product Overview
 

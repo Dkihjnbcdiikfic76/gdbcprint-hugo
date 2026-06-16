@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, SGS"
 ---
 
-![Two-Piece Rigid Gift Box](/images/cat-rigid-others.jpg)
+![Two-Piece Rigid Gift Box](/images/rigid-gift-boxes.jpg)
 
 ## Product Overview
 

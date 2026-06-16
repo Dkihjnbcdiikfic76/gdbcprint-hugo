@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Folding Carton](/images/cat-fold-gift.jpg)
+![Bincai Folding Carton](/images/folding-cartons.jpg)
 
 Guangdong Bincai Color Printing Co., Ltd. produces this tuck-top auto-bottom folding carton specifically engineered for cosmetic cream jars — 30ml, 50ml, and 100ml formats. The auto-lock base assembles in one motion on high-speed filling lines (compatible with speeds up to 120 cartons/minute), while the tuck-top closure provides secure retail presentation. Gold hot foil stamping on the brand panel and precision spot UV varnish highlight create shelf presence that competes with prestige brands at mass-market cost per unit. Manufactured on KBA Rapida 105 and Heidelberg Speedmaster CD 102 7+1 UV presses with inline die-cutting in our 18,000 sqm Foshan facility, each carton passes Seven-Stage QC with ISO 9001:2015 and FSC Chain-of-Custody certification. Daily output of 1.7 million boxes supports volume orders from 1,000 to 1,000,000+ units.
 

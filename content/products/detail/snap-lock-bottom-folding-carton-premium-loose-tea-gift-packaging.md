@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, Food-Safe Ink"
 ---
 
-![Snap-Lock Bottom Folding Carton Tea Gift Box](/images/cat-fold-gift.jpg)
+![Snap-Lock Bottom Folding Carton Tea Gift Box](/images/folding-cartons.jpg)
 
 ## Product Overview
 

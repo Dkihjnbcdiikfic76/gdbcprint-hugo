@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Folding Cartons](/images/cat-fold-gift.jpg)
+![Bincai Folding Cartons](/images/folding-cartons.jpg)
 
 Custom die-cut window folding carton for luxury chocolate truffle gift packaging — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). The precision die-cut window with crystal-clear PET film showcases premium chocolate truffles, pralines, or artisan confections while protecting them during retail display and transit. Gold foil stamping on rich matte board creates a luxury gifting impression worthy of high-end chocolate brands. KBA 1050 4-color and Heidelberg 7+1 UV presses deliver confectionery-grade printing across 18,000 sqm factory. Daily output 1.7 million boxes.
 

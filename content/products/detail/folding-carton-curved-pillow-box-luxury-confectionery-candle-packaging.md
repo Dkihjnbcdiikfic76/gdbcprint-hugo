@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Folding Cartons — Luxury Curved Pillow Box](/images/cat-fold-gift.jpg)
+![Bincai Folding Cartons — Luxury Curved Pillow Box](/images/folding-cartons.jpg)
 
 The **Folding Carton Curved Pillow Box** is a distinctive, die-cut packaging format that combines the simplicity of a single-piece folding carton with the premium aesthetic of a sculpted, organic form. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** (founded 2003, 22 years experience) at our 18,000 sqm dual-factory facility in Foshan, this box ships flat and assembles in seconds — the self-locking bottom and pre-scored curved side panels naturally form the signature pillow shape without any gluing on the assembly line. Produced on our **KBA Rapida 1050 4-color offset** and **Heidelberg Speedmaster CD 102 7+1 UV** presses with a daily capacity of 1.7 million boxes, we deliver consistent, high-impact packaging at competitive volumes.
 

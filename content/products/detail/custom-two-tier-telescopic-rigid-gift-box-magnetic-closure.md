@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001:2015, FSC Chain-of-Custody"
 ---
 
-![Custom Two-Tier Telescopic Rigid Gift Box with Magnetic Closure](/images/cat-rigid-others.jpg)
+![Custom Two-Tier Telescopic Rigid Gift Box with Magnetic Closure](/images/rigid-gift-boxes.jpg)
 
 ## Product Overview
 

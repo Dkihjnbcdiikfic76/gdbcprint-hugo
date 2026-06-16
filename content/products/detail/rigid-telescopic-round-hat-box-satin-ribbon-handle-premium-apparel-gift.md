@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Rigid Gift Boxes](/images/cat-rigid-others.jpg)
+![Bincai Rigid Gift Boxes](/images/rigid-gift-boxes.jpg)
 
 Rigid telescopic round hat box with satin ribbon carry handle — designed for premium apparel, luxury fashion accessories, and high-end corporate gifting. The classic round silhouette with telescopic lid makes a distinguished unboxing statement, while the integrated satin ribbon handle provides comfortable carrying. Manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). KBA 1050 4-color and Heidelberg 7+1 UV presses deliver flawless print quality across an 18,000 sqm dual-factory campus. Daily output exceeds 1.7 million boxes.
 

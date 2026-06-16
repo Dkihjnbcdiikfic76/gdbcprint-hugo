@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, PAT (ISO 18916)"
 ---
 
-![Bincai Rigid Hinged-Lid Archival Photo Storage Box](/images/cat-rigid-others.jpg)
+![Bincai Rigid Hinged-Lid Archival Photo Storage Box](/images/rigid-gift-boxes.jpg)
 
 Guangdong Bincai Color Printing Co., Ltd. (founded 2003) delivers museum-grade archival storage boxes engineered for long-term photograph and document preservation. Unlike standard gift boxes, every material in this box — from the grey board core to the covering fabric to the adhesive — is selected and tested for archival safety: acid-free, lignin-free, and pH-neutral (pH 8.0–9.5 buffered with 3% calcium carbonate reserve).
 

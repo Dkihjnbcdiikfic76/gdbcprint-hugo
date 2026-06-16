@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001:2015, FSC Chain-of-Custody"
 ---
 
-![Bincai Reverse-Tuck Folding Carton](/images/cat-fold-gift.jpg)
+![Bincai Reverse-Tuck Folding Carton](/images/folding-cartons.jpg)
 
 The reverse-tuck folding carton with matte lamination and gold hot foil stamping delivers luxury cosmetics packaging that balances premium aesthetics with high-speed production economics. Reverse-tuck construction — where top and bottom flaps tuck from opposite sides — provides secure closure while allowing the carton to be erected rapidly on automated packaging lines. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** (founded 2003) at our 18,000 sqm Foshan factory on KBA 1050 and Heidelberg 7+1 UV presses with ISO 9001:2015 and FSC Chain-of-Custody certifications.
 

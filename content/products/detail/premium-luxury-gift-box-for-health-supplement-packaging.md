@@ -11,7 +11,7 @@ params:
   material: "Greyboard 1200-1600gsm / Art Paper Wrap 157-250gsm / Hot Foil / Embossing / Matte Lamination"
   certification: "ISO 9001, FSC, SGS"
 ---
-![Premium Luxury Gift Box for Health Supplement Packaging](/images/cat-rigid-others.jpg)
+![Premium Luxury Gift Box for Health Supplement Packaging](/images/rigid-gift-boxes.jpg)
 
 Pharmaceutical-grade luxury rigid gift box for health supplements, nutraceuticals, and wellness products — manufactured by **Guangdong Bincai Color Printing Co., Ltd.**, a full-chain packaging enterprise with 22 years of experience (founded 2003). Engineered with dual-wall 2.5mm greyboard for crush resistance during international shipping, this box meets the elevated expectations of premium supplement brands. Optional tamper-evident seal, child-resistant closure, and pharmaceutical-grade printing create trust at point of sale. Produced on KBA 1050 4-color offset and Heidelberg 7+1 UV presses across Bincai's 18,000 sqm dual factory (10,000+8,000 sqm smart factory). Daily output capacity 1.7 million boxes. ISO 9001:2015 and FSC certified. Serving 200+ global brands from Foshan, Guangdong, China.
 

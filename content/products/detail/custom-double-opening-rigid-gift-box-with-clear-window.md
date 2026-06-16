@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, SGS"
 ---
 
-![Custom Double-Opening Rigid Gift Box with Clear Window](/images/cat-rigid-others.jpg)
+![Custom Double-Opening Rigid Gift Box with Clear Window](/images/rigid-gift-boxes.jpg)
 
 Premium custom double-opening rigid gift box with clear window — manufactured by **Guangdong Bincai Color Printing Co., Ltd.**, a Diamond Member on Made-in-China.com since 2015, Audited Supplier with 22 years of experience. The signature double-opening design splits the lid into two hinged panels that swing open like a book cover, revealing the product through a crystal-clear PET window while the velvet-lined interior cradles the contents. This dramatic unboxing experience is favored by luxury brands for high-value product presentation. Produced on KBA 1050 4-color and Heidelberg 7+1 UV presses across 18,000 sqm factory (10,000+8,000 sqm smart factory).
 

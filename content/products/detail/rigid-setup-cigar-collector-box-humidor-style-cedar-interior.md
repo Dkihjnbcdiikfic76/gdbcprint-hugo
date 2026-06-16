@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Rigid Cigar Collector Box](/images/cat-rigid-others.jpg)
+![Bincai Rigid Cigar Collector Box](/images/rigid-gift-boxes.jpg)
 
 Guangdong Bincai Color Printing Co., Ltd. (founded 2003) crafts this premium rigid cigar collector box for luxury tobacco brands, duty-free retailers, and limited-edition releases. Built in our 18,000 sqm Foshan facility under ISO 9001:2015 and FSC certification, each box features genuine Spanish cedar (Cedrela odorata) wood veneer interior lining — the traditional material of choice for cigar storage due to its natural moisture-regulating properties and aromatic oils that complement cigar aging.
 

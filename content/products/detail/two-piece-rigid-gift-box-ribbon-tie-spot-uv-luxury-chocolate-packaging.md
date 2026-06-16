@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001:2015, FSC Chain-of-Custody"
 ---
 
-![Bincai Rigid Gift Box with Ribbon Tie](/images/cat-rigid-others.jpg)
+![Bincai Rigid Gift Box with Ribbon Tie](/images/rigid-gift-boxes.jpg)
 
 The two-piece rigid gift box with ribbon tie and spot UV is a premium packaging solution engineered for luxury chocolates, artisan confectionery, gourmet foods, and upscale corporate gifting. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** (founded 2003) at our 18,000 sqm dual-factory complex in Foshan, Pearl River Delta, China, these boxes are precision-built on KBA Rapida 105 4-color offset presses with finishing on Heidelberg Speedmaster CD 102 7+1 UV lines. Every box carries ISO 9001:2015 and FSC Chain-of-Custody certifications, reflecting our 22-year commitment to quality and sustainable sourcing. Daily output capacity exceeds 1.7 million boxes, including 220,000+ rigid boxes, ensuring reliable supply for seasonal and high-volume orders.
 

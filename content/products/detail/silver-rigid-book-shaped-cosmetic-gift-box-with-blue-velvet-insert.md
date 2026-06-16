@@ -11,7 +11,7 @@ params:
   material: "Greyboard 1200-1600gsm / Art Paper Wrap 157-250gsm / Hot Foil / Embossing / Matte Lamination"
   certification: "ISO 9001, FSC, SGS"
 ---
-![Silver Rigid Book-Shaped Cosmetic Gift Box with Blue Velvet Insert](/images/cat-rigid-others.jpg)
+![Silver Rigid Book-Shaped Cosmetic Gift Box with Blue Velvet Insert](/images/rigid-gift-boxes.jpg)
 
 Premium custom silver rigid book-shaped cosmetic gift box with blue velvet insert manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — a Diamond Member on Made-in-China.com since 2015, Audited Supplier with 22 years of experience.
 

@@ -11,7 +11,7 @@ params:
   material: "Greyboard 1200-1600gsm / Art Paper Wrap 157-250gsm / Hot Foil / Embossing / Matte Lamination"
   certification: "ISO 9001, FSC, SGS"
 ---
-![Luxury Orange Two-Piece Rigid Gift Box with Gold Foil](/images/cat-rigid-others.jpg)
+![Luxury Orange Two-Piece Rigid Gift Box with Gold Foil](/images/rigid-gift-boxes.jpg)
 
 ## Product Overview
 

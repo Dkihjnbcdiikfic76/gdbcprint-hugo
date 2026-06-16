@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Rigid Gift Boxes](/images/cat-rigid-others.jpg)
+![Bincai Rigid Gift Boxes](/images/rigid-gift-boxes.jpg)
 
 Custom rigid paper box with magnetic lid for tech accessories and gadget gift sets — manufactured by Guangdong Bincai Color Printing Co., Ltd., a 22-year packaging enterprise (founded 2003) with KBA 1050 4-color and Heidelberg 7+1 UV printing across 18,000 sqm of factory floor (10,000+8,000 smart factory). Designed for tech brands, electronics retailers, and corporate promotional programs, this rigid box features a magnetic flip-cover lid with precision die-cut foam insert for secure gadget presentation. The 2.5mm greyboard construction with soft-touch matte laminate provides a premium tactile experience that signals quality before the product is even revealed. Neodymium N35 magnetic closure delivers over 1,000 silent open-close cycles. Daily output 1.7 million boxes. ISO 9001 and FSC certified. Bobst BMA foil stamping available for precision metallic branding with ±0.2mm registration.
 

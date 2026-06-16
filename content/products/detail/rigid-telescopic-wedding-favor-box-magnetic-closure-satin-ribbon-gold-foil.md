@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Rigid Two-Piece Telescopic Wedding Favor Box](/images/cat-rigid-others.jpg)
+![Bincai Rigid Two-Piece Telescopic Wedding Favor Box](/images/rigid-gift-boxes.jpg)
 
 The rigid two-piece telescopic wedding favor box transforms guest gifting from an afterthought into a statement of elegance. Manufactured by Guangdong Bincai Color Printing Co., Ltd. — a 22-year Foshan paper box specialist with 18,000 sqm of dual-factory production space — this compact favor box combines the premium feel of 2mm rigid greyboard with full-color CMYK offset printing, precision magnetic closure, and luxurious gold hot foil detailing. The satin ribbon pull adds a tactile finishing touch, making every guest feel honored.
 
