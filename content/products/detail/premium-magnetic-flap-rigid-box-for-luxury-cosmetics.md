@@ -76,4 +76,10 @@ Premium magnetic flap rigid box for luxury cosmetics and skincare — manufactur
 | 🆓 Sample | Free pre-production sample, 5–7 working days |
 | 🌍 Shipping | Worldwide DHL/FedEx/UPS/Sea freight |
 
-[View on Made-in-China.com →](https://bincaipaperbox.en.made-in-china.com/)
+---
+
+## Ready to Elevate Your Cosmetic Packaging?
+
+**Send us your product dimensions (skincare jar, serum bottle, or palette) for a free magnetic flap rigid box sample with your logo — delivered in 5–7 business days.** Every sample includes a complimentary flat-ship structural analysis showing exactly how much you'll save on freight (typical savings: 40–60% on volume vs. pre-assembled boxes). For beauty brands launching holiday 2026 collections, our Q3 production window opens with locked pricing on N52 magnet + soft-touch lamination configurations.
+
+💄 **[Request Your Free Cosmetic Box Sample →](https://bincaipaperbox.en.made-in-china.com/contact-info.html)**

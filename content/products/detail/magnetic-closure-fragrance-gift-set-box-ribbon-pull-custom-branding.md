@@ -69,3 +69,11 @@ Premium magnetic closure fragrance gift set box engineered for luxury perfume an
 - **End-to-end fragrance packaging service**: Structural design → material selection → prototype sampling (5-7 days) → mass production → QC inspection → FSC documentation → export logistics to 60+ countries
 - **200+ global brand clients** served including luxury fragrance houses, duty-free operators, and premium cosmetics brands
 - Diamond Member on Made-in-China.com — verified manufacturer with on-site factory audit; genuine B2B partner, not a trading company
+
+---
+
+## Ready to Start Your Fragrance Box Project?
+
+**Send us your bottle dimensions (height × diameter in mm) and brand color codes for a free fragrance gift box prototype with your logo in gold foil — delivered in 5–7 business days.** Every sample includes a complimentary unboxing experience video showing your box from first touch to final reveal, so you can evaluate the sensory impact before production. For brands launching seasonal collections, ask about our 3-color foil + micro-emboss combination that creates a tactile, light-catching surface impossible to replicate with standard printing.
+
+📦 **[Request Your Free Fragrance Box Sample →](https://bincaipaperbox.en.made-in-china.com/contact-info.html)**

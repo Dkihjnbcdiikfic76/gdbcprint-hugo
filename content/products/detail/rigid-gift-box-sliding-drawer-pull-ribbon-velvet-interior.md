@@ -136,3 +136,11 @@ Not every jewelry presentation needs a drawer — but when the unboxing ritual i
 | Shipping cost sensitivity (DTC e-commerce) | Flat-ship drawer design saves 60% freight | Assembled drawer box — higher shipping volume |
 
 **When a standard lid+base box is better**: If your price point is under $30, your packaging budget is tight, or your product is a single small item (single ring, single pendant) — the drawer mechanism adds $0.50–1.50 per unit. For budget-conscious segments, Bincai's standard magnetic rigid boxes deliver premium feel at lower cost.
+
+---
+
+## Ready to Prototype Your Sliding Drawer Box?
+
+**Send us your jewelry dimensions and preferred velvet color for a free sliding drawer box prototype — delivered in 3–5 business days.** Every sample includes a complimentary drawer mechanism stress-test report certifying 10,000+ open/close cycles on your exact configuration, plus a flat-ship cost analysis showing your freight savings (typically 60% volume reduction vs. assembled boxes). For jewelry brands launching engagement ring collections, ask about our LED spotlight lid + single ring slot + N52 magnetic catch combination — the complete proposal-moment packaging in one box.
+
+💍 **[Request Your Free Drawer Box Sample →](https://bincaipaperbox.en.made-in-china.com/contact-info.html)**

@@ -138,4 +138,12 @@ Our vertically integrated 18,000 sqm Foshan facility houses every stage of rigid
 
 With ISO 9001:2015 quality management, FSC Chain-of-Custody certification, and 220,000+ rigid boxes produced daily, Bincai delivers the consistency and capacity that corporate procurement teams demand. Free pre-production samples with your exact product dimensions arrive in 5–7 working days — evaluate the unboxing experience before you commit.
 
+---
+
+## Planning Your Next Corporate Gift Program?
+
+**Send us your gift product dimensions (pen + notebook, watch + cufflinks, or custom kitted items) and preferred surface material for a free executive rigid box prototype with velvet tray — delivered in 5–7 business days.** Every sample includes a complimentary unboxing experience design consultation: our team reviews your tray layout, ribbon pull action, and magnetic closure feel against Fortune 500 corporate gifting benchmarks, then delivers a 1-page optimization report with specific improvements. For annual programs ordering 2,000+ units, ask about our year-over-year master reference sample program that guarantees ΔE ≤ 2.5 color consistency across production runs separated by 12+ months.
+
+🏆 **[Request Your Free Executive Box Sample →](https://bincaipaperbox.en.made-in-china.com/contact-info.html)**
+
 **Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | 220,000+ rigid boxes/day | KBA 1050 + Heidelberg 7+1 UV | Bobst SP 102 BMA foil stamping | ISO 9001 & FSC | Foshan, Guangdong, China

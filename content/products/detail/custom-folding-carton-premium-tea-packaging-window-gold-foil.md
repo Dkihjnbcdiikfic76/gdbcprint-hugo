@@ -107,4 +107,12 @@ A: Digital proofs within 24 hours, physical samples in 5–7 working days, and p
 
 Guangdong Bincai Color Printing Co., Ltd. brings 22 years of folding carton expertise to the premium tea packaging market. Our integrated manufacturing — from KBA and Heidelberg offset printing through Bobst foil stamping to die-cutting and window film application — happens under one roof, eliminating the delays and quality gaps of multi-vendor production. Bincai's 350+ skilled workers and ISO 9001 quality system ensure every tea carton meets the exacting standards of specialty tea brands. From FSC-certified board to compostable PLA windows, we offer the full spectrum of sustainability options that today's tea consumers demand.
 
+---
+
+## Ready to Package Your Tea for Retail?
+
+**Send us your tea packaging specs (carton dimensions + quantity per box + foil preference) for a free folding carton sample with gold foil and die-cut window — delivered in 5–7 business days.** Every sample includes a complimentary shelf-impact mockup showing your carton in a simulated retail tea aisle context, so you can evaluate visual hierarchy and consumer eye-tracking before committing to production. For brands pursuing B Corp or specialty tea retailer compliance, ask about our FSC-certified board + compostable PLA window combination — the full sustainability package in one carton.
+
+🍵 **[Request Your Free Tea Carton Sample →](https://bincaipaperbox.en.made-in-china.com/contact-info.html)**
+
 **Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
