@@ -44,7 +44,7 @@
 {{ else if eq $cat "jewelry-boxes" }}{{ $img = "/images/cat-rigid-jewelry.webp" }}
 {{ else if eq $cat "paper-bags" }}{{ $img = "/images/cat-paper-bag.webp" }}{{ end }}
 <div class="prod-card" style="background:#fff;border:1px solid #e0e0e0;border-radius:10px;overflow:hidden;box-shadow:rgba(0,0,0,.04) 2px 6px, rgba(0,0,0,.06) 4px 12px;transition:all .3s ease;">
-<img src="{{ $img }}" alt="{{ .Title }}" loading="lazy" decoding="async" style="width:100%;aspect-ratio:1;object-fit:cover;border-radius:8px 8px 0 0;">
+<img loading="lazy" src="{{ $img }}" alt="{{ .Title }}" loading="lazy" decoding="async" style="width:100%;aspect-ratio:1;object-fit:cover;border-radius:8px 8px 0 0;">
 <div style="padding:16px;">
 <h3 style="font-size:15px;font-weight:600;line-height:1.3;margin-bottom:6px;"><a href="{{ .RelPermalink }}" style="color:#1d1d1f;">{{ .Title | truncate 80 }}</a></h3>
 {{ with .Params.material }}<div style="font-size:13px;color:#777;margin-bottom:4px;">{{ . }}</div>{{ end }}
@@ -58,7 +58,7 @@
 <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:16px;">
 {{ range .Pages }}
 <div class="card">
-<img src="{{ with .Params.image }}{{ . }}{{ else }}/images/hero-banner-wide.webp{{ end }}" alt="{{ .Title }}" loading="lazy" decoding="async" style="width:100%;aspect-ratio:1.8;object-fit:cover;">
+<img loading="lazy" src="{{ with .Params.image }}{{ . }}{{ else }}/images/hero-banner-wide.webp{{ end }}" alt="{{ .Title }}" loading="lazy" decoding="async" style="width:100%;aspect-ratio:1.8;object-fit:cover;">
 <div style="padding:20px;">
 <h3 style="font-size:16px;font-weight:600;margin-bottom:8px;"><a href="{{ .RelPermalink }}" style="color:#1d1d1f;">{{ .Title }}</a></h3>
 {{ with .Description }}<p style="font-size:14px;color:#777;line-height:1.5;">{{ . }}</p>{{ end }}
