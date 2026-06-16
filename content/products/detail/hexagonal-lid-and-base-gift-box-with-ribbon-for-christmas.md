@@ -75,3 +75,9 @@ Guangdong Bincai Color Printing's hexagonal lid-and-base gift box is a standout 
 | Color Consistency | ISO 12647-2 | ΔE ≤ 2.0 across production batch |
 | Humidity Resistance | Internal | 48hrs at 40°C / 90% RH — no warping or delamination |
 | Ribbon Cycle | Internal | ≥ 500 tie/untie cycles without ribbon fraying or color transfer |
+
+---
+
+## Ready to Start?
+
+**Planning your holiday collection? Send us your product dimensions for a festive prototype with your logo and ribbon color — ready in 7 days.** We'll produce a fully finished hexagonal box sample with your choice of foil stamping, ribbon, and interior lining so you can validate shelf appeal before committing to production. Free seasonal design consultation included — our team will recommend the right finishes and color palette for your Christmas, Lunar New Year, or Valentine's collection. [Get your holiday sample →](/contact/)

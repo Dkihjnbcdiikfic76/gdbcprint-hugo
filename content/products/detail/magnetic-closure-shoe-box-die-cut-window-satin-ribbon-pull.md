@@ -81,3 +81,9 @@ A: Yes. We can die-cut ventilation holes (3-5mm diameter) in the side panels wit
 
 **Q: How flat does the box ship?**
 A: Standard configuration ships fully assembled — ready to use. For freight savings, we offer flat-ship collapsible designs that fold flat (15-20mm height) and snap into shape via pre-installed magnetic corners. Flat-ship reduces shipping volume by 70% and is ideal for brands fulfilling from their own warehouses.
+
+---
+
+## Ready to Start?
+
+**Send us your shoe dimensions and brand colors — get a windowed sample box with your logo in 10 days.** Whether you're launching a sneaker drop or refreshing retail packaging, we'll produce a magnetic-closure sample with die-cut window, satin ribbon pull, and foam insert customized to your footwear. Free flat-ship design analysis included — we'll recommend the most cost-efficient configuration for your fulfillment model. [Request your sample →](/contact/)

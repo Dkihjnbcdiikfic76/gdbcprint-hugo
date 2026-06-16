@@ -74,3 +74,9 @@ The Bincai Luxury Necklace Gift Box combines a magnetic flap closure with sumptu
 | Color Accuracy | ISO 12647-2 | ΔE ≤ 2.0 (Pantone) |
 | Lid Alignment | Internal | ≤0.8mm gap tolerance |
 | Drop Test | ISTA 1A | 10-drop sequence, 760mm |
+
+---
+
+## Ready to Start?
+
+**Request a free velvet-lined sample with your logo in gold foil — ships in 5–7 days.** Tell us your necklace type (chain, pendant, statement) and preferred velvet color, and we'll produce a production-grade sample with magnetic flap closure and custom foil stamping. Includes a complimentary insert recommendation for your exact product dimensions. [Get your free sample →](/contact/)

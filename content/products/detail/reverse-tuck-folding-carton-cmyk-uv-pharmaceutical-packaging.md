@@ -117,3 +117,9 @@ A: Yes. We offer child-resistant (CR) folding carton designs tested per ISO 8317
 | Factory Waste | Closed-loop recycling diverts 95%+ of production paper waste from landfill |
 | Compliance | ISO 15378 GMP, ISO 9001:2015, FSC Chain-of-Custody, High-Tech Enterprise Certified |
 | Carbon | LED factory lighting, optimized press scheduling, smart factory energy management |
+
+---
+
+## Ready to Start?
+
+**Send us your packaging specification and receive a GMP-compliant prototype in 5–7 days.** Include your product dimensions, required board caliper, and whether you need Braille embossing, serialization, or tamper-evident features. We'll provide a pre-production sample produced on the same ISO 15378-certified line as your full order — plus a free regulatory compliance consultation for your target market (EU, US FDA, or TGA). [Submit your spec →](/contact/)

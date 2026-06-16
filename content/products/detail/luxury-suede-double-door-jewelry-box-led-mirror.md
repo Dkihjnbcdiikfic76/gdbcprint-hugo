@@ -81,3 +81,9 @@ The Bincai Luxury Double-Door Jewelry Box represents the pinnacle of retail jewe
 ---
 
 *Guangdong Bincai Color Printing Co., Ltd. — 22 years of packaging excellence. ISO 9001:2015 & FSC certified. 18,000 sqm Foshan facility (10,000+8,000 smart factory). Daily output: 1.7M+ boxes. Serving 60+ countries worldwide.*
+
+---
+
+## Ready to Start?
+
+**Send us your jewelry specs for a working LED sample with your logo in 7 days.** Include your necklace or ring dimensions, preferred suede color (50+ options), and logo artwork — we'll ship a fully functional double-door sample with mirror, LED, and custom insert so you can test the unboxing experience before production. Free digital rendering provided within 48 hours. [Request your sample →](/contact/)
