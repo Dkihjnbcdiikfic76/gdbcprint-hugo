@@ -85,6 +85,11 @@ Kraft paper drawer box with jute rope handle for eco-friendly gift packaging —
 | Factory Waste | Closed-loop recycling diverts 95%+ of production paper waste from landfill |
 | Carbon | LED factory lighting, optimized KBA 1050 press scheduling, FSC carbon-credit eligible |
 
+## Related Resources
+
+- **[Sustainable Paper Box Packaging: Bincai Eco Manufacturing →](/blog/sustainable-paper-box-packaging-bincai-eco-manufacturing/)** — Comprehensive guide to Bincai's eco-friendly manufacturing: FSC chain-of-custody, water-based ink systems on KBA 1050, closed-loop recycling (95%+ diversion), SoyPrint certification, EN 13432 compostability, and how we eliminate plastic from packaging without sacrificing quality or aesthetics.
+- **[Explore All Kraft Eco Boxes →](/categories/kraft-eco-boxes/)** — Browse our full sustainable packaging range: telescopic-lid boxes, drawer boxes, folding cartons, gift boxes with seed paper tags, bamboo-fiber composites, and 100% PCR kraft configurations — all zero-plastic, fully biodegradable.
+
 ## Why Choose Bincai
 
 For eco-friendly brands, Bincai isn't just a manufacturer — we're a sustainability partner. With 22 years of experience in paper packaging manufacturing, our 18,000 sqm dual-factory (10,000 sqm main plant + 8,000 sqm smart factory) in Foshan, Guangdong, delivers zero-plastic, fully biodegradable packaging at industrial scale. Our KBA Rapida 105 4-color offset press runs water-based ink systems natively — no retrofit, no compromise on print quality. ISO 9001:2015 and FSC Chain-of-Custody certifications ensure every production batch meets international standards. Free pre-production samples with 5-7 day turnaround let you validate material feel, color matching, and structural integrity before committing to production.

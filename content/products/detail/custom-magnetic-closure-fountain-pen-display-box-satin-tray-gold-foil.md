@@ -88,6 +88,11 @@ A: The N35 neodymium magnets are positioned in the front flap and base board, ty
 - **Designed for Keepsake Longevity** — Unlike disposable packaging, these display boxes are designed to be kept and reused for years, extending the product life cycle and reducing waste.
 - **Soy-Based Inks** — Low-VOC soy-based inks for all exterior printing.
 
+## Related Resources
+
+- **[Magnetic Closure Box Engineering Guide →](/blog/magnetic-closure-box-engineering-bincai/)** — Deep dive into the engineering behind Bincai's magnetic closure boxes: magnet grade selection (N35–N52), closure force calculations, hinge durability testing to 5,000+ cycles, and how we match magnet specs to box size for the perfect open/close feel.
+- **[Explore All Magnetic Closure Boxes →](/categories/magnetic-closure-boxes/)** — Browse our full magnetic closure lineup: luxury gift boxes, watch cases, pen displays, jewelry boxes, candle packaging, and custom configurations with N35–N52 neodymium magnets.
+
 ---
 
 ## Ready to Start?

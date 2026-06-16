@@ -1,8 +1,8 @@
 {
   "day": 5,
-  "task": 3,
-  "rotation": 3,
-  "next": "Day 5 Run 4, Task #4 PRODUCT DIFFERENTIATION",
+  "task": 5,
+  "rotation": 5,
+  "next": "Day 5 Run 6, Task #6 BUILD & DEPLOY",
   "started": "2026-06-16T00:00:00Z",
   "cycle": "deep-dive",
   "tasks": {

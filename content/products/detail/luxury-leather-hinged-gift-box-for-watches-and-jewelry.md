@@ -105,6 +105,11 @@ A: Digital color proof within 48 hours. Physical sample (white-glue mockup) in 5
 **Q: Can I order different exterior colors and textures within the same production batch?**
 A: Yes. You can mix up to 4 different leatherette colors/textures within a single MOQ of 500 units total (e.g., 125 black croc + 125 navy matte + 125 burgundy pebbled + 125 cream matte). The minimum per color variant is 125 units. For more than 4 variants, we recommend splitting into separate production batches to maintain efficiency.
 
+## Related Resources
+
+- **[Rigid Box Interior Engineering: Foam, Flocking & Satin Lining →](/blog/rigid-box-interior-engineering-foam-flocking-satin-lining-bincai/)** — Technical guide on interior fitment engineering: CNC die-cut EVA foam tolerances, velvet flocking pile heights (0.8–1.5mm), electrostatic application, satin lining installation, and how each interior choice impacts unboxing perception.
+- **[Explore All Jewelry Boxes →](/categories/jewelry-boxes/)** — Browse our full jewelry packaging range: LED mirror boxes, rotating ring displays, drawer-style necklace boxes, watch cases, bracelet trays, and custom velvet/PU leatherette configurations.
+
 ---
 
 <a href="/contact/" class="btn-cta">Designing your next jewelry collection packaging? Send us your product dimensions for a free leather swatch kit and same-day quote — free prototype with your logo in 5 days →</a>
