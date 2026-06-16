@@ -125,7 +125,7 @@ Many packaging suppliers label their boxes "eco-friendly" without third-party ve
 | **Lamination** | None — natural uncoated kraft finish | Plastic lamination (BOPP/PET) — contaminates paper recycling stream |
 | **End-of-Life** | 100% recyclable in municipal paper stream; industrially compostable with PLA window | Requires delamination before recycling; window non-recyclable |
 
-**Why this matters for your brand:** Retailers like Whole Foods, Sephora Clean, and Credo Beauty now require supplier sustainability documentation. Bincai provides a per-order compliance packet including FSC certificate, ASTM D6866 ink test report, EN 13432 PLA certificate, and a recyclability verification per PTS-RH 021/97 — ready to attach to your retailer sustainability questionnaire.
+**Why this matters for your brand:** Major retailers and beauty chains now require supplier sustainability documentation. Bincai provides a per-order compliance packet including FSC certificate, ASTM D6866 ink test report, EN 13432 PLA certificate, and a recyclability verification per PTS-RH 021/97 — ready to attach to your retailer sustainability questionnaire.
 
 ## Why Bincai?
 
