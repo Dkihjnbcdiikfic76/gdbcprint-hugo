@@ -53,6 +53,21 @@ Architecturally stunning dome-shaped rigid gift box with transparent PVC viewing
 - ISO 9001:2015 quality management system — audited annually by SGS
 - Eco option: replace PVC with die-cut paper lattice window for 100% paper recyclability
 
+## Why Dome Shape
+
+The dome lid is not merely decorative — it delivers measurable structural and visual advantages over standard rectangular rigid boxes.
+
+| Advantage | Dome-Shaped Rigid Box | Standard Rectangular Rigid Box with Lid |
+|---|---|---|
+| **Visible Display Surface** | Curved lid provides 40%+ larger visible surface area than a flat lid of equal footprint — product is seen from multiple angles through the window | Flat lid limits viewing to a single plane; product visible only from directly above |
+| **Product Preview** | Gold foil edge banding + clear PVC/PET window allows full product preview without opening — reduces handling damage in retail | Solid lid requires lifting to see contents; ribbon-tied lids slow the reveal and obscure product |
+| **Structural Rigidity** | Dome geometry distributes compressive loads across the curved surface (arch principle) — 22%+ crush resistance vs. flat lids of equal board thickness | Flat lid deflects under stacking pressure; requires thicker board or internal stiffeners to prevent caving |
+| **Shelf Presence** | Dome silhouette stands 25-40mm taller than flat boxes — naturally draws eye above rectangular competitors on shelf | Standard rectangular profile blends with surrounding boxes; relies solely on print and finish to attract attention |
+| **Interior Volume** | Dome interior accommodates taller products (perfume bottles, figurines, stacked chocolates) without increasing box footprint | Flat lid constrains product height to base-depth only; tall items require deeper (and more expensive) base construction |
+| **Perceived Value** | Museum-display aesthetic signals luxury — consumers associate dome shapes with jewelry cases, cloche covers, and architectural domes | Rectangular box is ubiquitous — harder to communicate premium positioning through shape alone |
+
+**Best use cases for dome shape:** Perfume launches (bottle silhouette visible through dome window), luxury chocolate collections (dome height accommodates layered truffles), limited-edition cosmetics (dome creates collector-display appeal), and corporate awards (dome converts box into permanent trophy display).
+
 ## FAQ
 **Q: What dome sizes are available?** A: Standard dome formers range from 100mm to 350mm diameter. Custom dome dimensions available for orders above 2,000 units with a one-time tooling charge.
 

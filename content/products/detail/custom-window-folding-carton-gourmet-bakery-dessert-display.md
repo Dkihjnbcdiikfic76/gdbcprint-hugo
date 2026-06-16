@@ -96,3 +96,7 @@ Every box is produced in our **10,000 sqm ISO 9001 & FSC-certified facility** wi
 - **Daily output: 1.5 million boxes** — ensuring on-time delivery for global brands
 
 We source SBS (solid bleached sulfate), CCNB (clay-coated newsback), kraft, and FBB (folding box board) from 5 qualified mills with full traceability. Every material batch undergoes 45-point incoming inspection in our climate-controlled storage (22°C / 50% RH).
+
+## Get Your Same-Day Bakery Box Quote
+
+**Share your bakery product dimensions and preferred window shape — we'll provide a custom quote within one business day.** Tell us your board grade (350–450gsm SBS), window film preference (crystal-clear PET or compostable PLA to EN 13432), closure style (tuck-top, auto-lock, tuck-end), and quantity. Free pre-production samples in 5–7 days with your exact pastry fit. Flat-shipping design saves 80–85% on freight. Diamond Member on MIC with 987 products — 22 years, ISO 9001 & FSC certified, 1.7M boxes/day.

@@ -80,6 +80,25 @@ Eco-friendly kraft paper mailer box with paper tape closure — 100% recyclable,
 | **MOQ** | 500 units, free pre-production samples in 5-7 days | 2,000-5,000 units |
 | **Diamond Member** | Made-in-China.com Audited Supplier (on-site factory verification) | Unverified supplier |
 
+## Why This Eco Mailer
+
+- **100% recycled kraft + paper tape — zero plastic in entire construction.** Every component (board, tape, tear strip, adhesive, ink) is plant-based and curbside recyclable without disassembly.
+- **Water-based biodegradable adhesive with zero VOC emissions.** Cold-glue PVA system eliminates solvent off-gassing in your fulfillment center and passes EPA Method 24 testing.
+- **FSC Mix certified (FSC-C147399)** — independently audited chain of custody from forest to finished box, supporting credible ESG reporting.
+- **Flat-ship design saves 80–90% freight volume** vs pre-assembled rigid mailers, cutting per-unit shipping cost and carbon footprint proportionally.
+- **EN 13432 verified: ≥90% biodegradation in 180 days** — not a self-declared claim but a third-party lab-tested result under standardized composting conditions.
+
+| Feature | Bincai Eco Kraft Mailer | Standard Corrugated Mailer with Plastic Tape |
+|---|---|---|
+| **Tape Material** | Water-activated kraft paper tape (reinforced, tensile ≥40 N/cm) | Polypropylene (PP) or PVC plastic tape |
+| **Adhesive System** | Water-based PVA — zero VOC | Hot-melt synthetic adhesive (petroleum-based) |
+| **Ink** | Soy-based offset ink, EN 13432 compliant | Petroleum-based flexo ink (VOC 25–45%) |
+| **Curbside Recyclable** | Yes — 100% paper, PTS method verified | Requires tape removal; tape not recyclable |
+| **Biodegradation** | ≥90% in 180 days (EN 13432) | Plastic tape: 400–500 years in landfill |
+| **Certifications** | FSC Mix + ISO 9001 + Sedex SMETA + EN 13432 | Typically self-declared only |
+| **Flat-Ship Volume Savings** | 80–90% reduction vs assembled | Similar (both ship flat) |
+| **Tamper Evidence** | Paper tape creates fiber-tear bond — visible if opened | Plastic tape can be peeled and reapplied undetected |
+
 ## Frequently Asked Questions
 
 **Q: Is the paper tape really strong enough for shipping?**

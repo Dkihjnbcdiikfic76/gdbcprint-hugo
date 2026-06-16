@@ -11,7 +11,7 @@ params:
   material: "CCNB 350-450gsm / SBS C1S 15-24pt / Art Paper 250-450gsm / Aqueous Coating / Soft-Touch Lamination"
   certification: "ISO 9001, FSC, SGS"
 ---
-![Custom Printed Tea Paper Packaging Box](/images/folding-cartons.jpg)
+![Custom Printed Tea Paper Packaging Box](/images/cat-fold-cosmetic.jpg)
 
 Aromatic-preserving folding carton for premium tea packaging — manufactured by **Guangdong Bincai Color Printing Co., Ltd.**, a 22-year packaging enterprise (founded 2003) serving tea brands across China and internationally. Available with optional aluminum foil inner lining for moisture and aroma barrier, this tea box protects delicate tea leaves from oxidation, UV degradation, and flavor loss. The straight-tuck or auto-lock bottom folding carton ships flat for economical freight and assembles in seconds. Full-color CMYK offset printing on KBA 1050 4-color press with Heidelberg 7+1 UV for metallic inks and spot coatings. Hot foil stamping in gold, silver, or copper creates the elevated aesthetic tea packaging demands. Produced across Bincai's 18,000 sqm dual factory (10,000+8,000 sqm smart factory) in Foshan, Guangdong. ISO 9001:2015 and FSC certified. Daily output 1.7 million boxes. MOQ 500 units.
 
@@ -72,6 +72,20 @@ Tea packaging sits at the intersection of food safety, aroma preservation, and l
 - **Bobst SP 102 BMA** for multi-pass hot foil stamping — up to 3 foil colors with ±0.15mm registration
 - **MOQ 500** — viable for small-batch artisan tea brands, seasonal releases, and limited edition collections
 - **10–15 day lead time**; free pre-production samples with 3D digital proof in 24 hours
+
+## When Tea Cartons Win
+
+Not every tea format needs the same packaging. This scenario matrix helps you decide when a printed folding carton outperforms alternatives — and where it saves money.
+
+| Your Situation | Why a Paper Folding Carton Wins | Cost per Unit (Carton vs Metal Tin) |
+|---|---|---|
+| **Subscription tea boxes (monthly 50–100g)** | Flat-ship saves 80–90% freight; auto-lock bottom assembles in &lt;1 second at your fulfillment center; fully curbside recyclable for eco-conscious subscribers | $0.15–$0.45 vs $1.20–$2.50 (tin) |
+| **Retail shelf display (supermarket/specialty)** | Full CMYK offset + spot UV on KBA 1050 creates shelf-stopping graphics; die-cut window lets shoppers see leaf quality; stackable STE design maximizes shelf density | $0.20–$0.60 vs $1.50–$3.00 (tin) |
+| **Gift sets (2–6 tea varieties)** | Two-piece lid-and-base with divider inserts; gold/copper foil stamping on Bobst SP 102 BMA; magnetic closure for reusable keepsake box; satin interior lining | $1.50–$5.00 vs $4.00–$12.00 (tin set) |
+| **Sample packs (5–10g sachets × 5–8 flavors)** | Compact 60×40×20mm STE carton per sachet, or multi-cavity tray carton; MOQ 500 viable for limited runs; 10–15 day lead time for seasonal launches | $0.10–$0.25 vs $0.80–$1.50 (mini tin) |
+| **Premium loose-leaf (single origin, $50+/100g)** | Aluminum foil inner lining preserves aroma 12+ months; soft-touch matte lamination signals luxury; embossed logo + serial QR code for provenance storytelling | $0.80–$2.00 vs $2.00–$5.00 (tin) |
+
+**Key takeaway**: Paper folding cartons deliver 60–85% cost savings vs metal tins at equivalent visual impact, with the added advantages of flat-ship logistics, full recyclability, and faster turnaround (7–15 days vs 25–40 days for custom tins).
 
 ## Customer Success Scenarios
 

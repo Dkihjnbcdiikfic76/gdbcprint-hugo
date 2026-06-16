@@ -147,4 +147,8 @@ Guangdong Bincai Color Printing Co., Ltd. has been a trusted name in luxury pack
 | Sample Lead Time | 5–7 business days (free) |
 | Mass Production Lead Time | 12–20 days |
 | MOQ | 500 units (standard); 1,000 units (custom) |
-| Shipping Ports | Yantian, Nansha, Shekou (Shenzhen / Guangzhou) |
+|| Shipping Ports | Yantian, Nansha, Shekou (Shenzhen / Guangzhou) |
+
+## Get Your LED Jewelry Box Quote Today
+
+**Tell us your jewelry type, quantity, and LED preference — we'll return a same-day quote with sample timeline.** Choose warm white 3000K, cool white 6000K, or RGB addressable LED with your preferred activation method (touch sensor, magnetic reed switch). Specify your velvet color from 20+ standard options or provide a Pantone number for custom matching. Free pre-production samples with your exact jewelry dimensions ship in 5–7 working days. Diamond Member on MIC with 987 products — 22 years, 18,000 sqm dual factory, ISO 9001:2015 & FSC certified.

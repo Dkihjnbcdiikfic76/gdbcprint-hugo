@@ -113,4 +113,8 @@ Bincai luxury pen display boxes combine premium presentation with responsible ma
 | **18,000 sqm Dual Factory** | Complete in-house production — printing, foil stamping, die-cutting, wrapping, assembly under one roof |
 | **1.7M Daily Total Output** | Handle seasonal corporate gifting peaks (year-end, awards season) without production bottlenecks |
 | **MOQ 500 | Free Samples 5-7 Days** | Low minimums for testing — complimentary pre-production samples for executive approval |
-| **Diamond Member on MIC** | 10+ years verified supplier on Made-in-China.com — audited factory, trade assurance, reliable partner |
+|| **Diamond Member on MIC** | 10+ years verified supplier on Made-in-China.com — audited factory, trade assurance, reliable partner |
+
+## Get Your Custom Pen Box Quote
+
+**Email us your pen specifications and logo — receive a layout mockup within 24 hours at no cost.** Tell us your pen diameter (8–16mm standard), slot count (single/dual/multi), preferred interior (satin, velvet, suede), and exterior finish (PU leatherette, linen, carbon-fiber, matte paper). We'll provide a same-day quote with per-unit pricing at your quantity tier, plus estimated sample and production lead times. Free pre-production samples in 5–7 days. Verified Diamond Member with 987 products on Made-in-China.com — 22 years, ISO 9001 & FSC certified.

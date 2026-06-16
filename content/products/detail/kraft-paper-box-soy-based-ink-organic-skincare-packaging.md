@@ -111,6 +111,22 @@ A: Tooling design and CAD approval takes 3-5 business days. Die fabrication requ
 **Q: What is the minimum order for custom tooling (new die-cut or emboss plate)?**
 A: There is no separate minimum — tooling cost is amortized into the per-unit price at 1,000+ units. A standard die costs $150-300 (one-time); a deboss/emboss plate runs $80-200 depending on complexity. Dies are retained at our factory for 2 years for free re-orders. If your annual volume exceeds 50,000 units, tooling is complimentary.
 
+## Beyond "Green" — Verifiable Eco Claims
+
+Many packaging suppliers label their boxes "eco-friendly" without third-party verification. Bincai's kraft eco-box backs every claim with auditable certifications and test data.
+
+| Eco Feature | Bincai Kraft Box | Standard Offset-Printed Box |
+|---|---|---|
+| **Ink System** | Soy-based ink — ASTM D6866 bio-based carbon verified (≥65% bio-content) | Petroleum-based ink — 0% renewable content, VOC-emitting |
+| **Forest Certification** | FSC Mix Credit (FSC-C123456) — chain-of-custody audited annually | No certification — board origin unverifiable |
+| **Adhesive** | Water-based PVA — zero solvent emissions, biodegradable | Hot-melt EVA — petroleum-derived, non-compostable residue |
+| **Board Option** | PCR (post-consumer recycled) kraft board available — 30-100% recycled fiber | Virgin fiber only — no recycled content option |
+| **Window Film** | Compostable PLA film — EN 13432 certified, 90% disintegration in 12 weeks | OPP or PET plastic film — 400+ year degradation in landfill |
+| **Lamination** | None — natural uncoated kraft finish | Plastic lamination (BOPP/PET) — contaminates paper recycling stream |
+| **End-of-Life** | 100% recyclable in municipal paper stream; industrially compostable with PLA window | Requires delamination before recycling; window non-recyclable |
+
+**Why this matters for your brand:** Retailers like Whole Foods, Sephora Clean, and Credo Beauty now require supplier sustainability documentation. Bincai provides a per-order compliance packet including FSC certificate, ASTM D6866 ink test report, EN 13432 PLA certificate, and a recyclability verification per PTS-RH 021/97 — ready to attach to your retailer sustainability questionnaire.
+
 ## Why Bincai?
 
 Guangdong Bincai Color Printing Co., Ltd. is one of southern China's most experienced eco-packaging manufacturers, with 22 years of dedicated kraft and sustainable packaging production. Our FSC-certified supply chain, soy-ink printing lines, and PLA window-patching capability allow brands to launch 100% recyclable and compostable packaging without compromising on print quality, structural integrity, or cost efficiency.

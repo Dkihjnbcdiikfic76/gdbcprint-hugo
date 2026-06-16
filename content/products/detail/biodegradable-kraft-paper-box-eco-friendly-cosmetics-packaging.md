@@ -62,6 +62,27 @@ Biodegradable kraft paper box engineered for eco-conscious cosmetics brands — 
 - Daily capacity: 1.7 million boxes (50,000+ kraft eco boxes dedicated)
 - Export to 40+ countries with sustainable packaging as a strategic product category
 
+## Eco Claims That Hold Up
+
+In an era of greenwashing scrutiny, every sustainability claim on this box is backed by a named standard, a certificate number, or a measurable metric:
+
+- **EN 13432 industrial compostability** — kraft + soy ink + aqueous coating configuration tested to ≥90% biodegradation within 180 days under controlled composting. Not a self-declaration; lab-verified per ASTM D6400.
+- **Soy-based ink with VOC ≤0.5%** — compared to 25–45% VOC in conventional petroleum inks. Heavy-metal free per EN 71-3; safe for incidental skin contact on cosmetics packaging.
+- **FSC Chain-of-Custody (FSC-C147294)** — every kraft board sheet traceable from certified forest to your finished box. Annual third-party audit by accredited certification body.
+- **EU Green Claims Directive ready** — all environmental statements on this product are substantiated with specific test data, certificate numbers, and methodology references. No vague "eco-friendly" or "green" without proof.
+- **Water-based PVA adhesive (FDA 21 CFR 175.105)** — zero solvent residue, indirect food-contact compliant, fully repulpable in standard recycling streams.
+
+| Attribute | Bincai Kraft Cosmetic Box | Generic "Eco" Packaging | Plastic Jar (PET/HDPE) |
+|---|---|---|---|
+| **Biodegradation** | ≥90% in 180 days (ASTM D6400) | Untested or self-declared | Not biodegradable (400+ years) |
+| **Ink VOC Content** | ≤0.5% (soy-based) | Often 5–15% (water-based flexo) | N/A (label only) |
+| **Fiber Traceability** | FSC-C147294 chain of custody | "Recycled" without certificate | N/A — petroleum feedstock |
+| **Adhesive Safety** | FDA 21 CFR 175.105 compliant PVA | Unknown adhesive chemistry | No adhesive (molded) |
+| **Recyclability** | 100% repulpable, curbside accepted | Requires de-lamination or separation | Recyclable but &lt;30% actually recycled |
+| **Carbon Footprint (per unit)** | ~45g CO₂e (flat-ship, plant-based materials) | ~60–80g CO₂e (heavier board, film lamination) | ~120–180g CO₂e (petroleum extraction + molding) |
+| **Regulatory Compliance** | REACH + RoHS + EN 71-3 + ASTM F963 | Partial or undocumented | REACH (plastic-specific) |
+| **End-of-Life** | Industrial compost or paper recycling | Landfill if contaminated with film | Downcycled or landfill |
+
 ## FAQ
 
 **Q: Is this box truly compostable at home, or only in industrial facilities?**

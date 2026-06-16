@@ -122,3 +122,7 @@ A5: Jewelry boxes ship via **DHL, FedEx, UPS (air), or sea freight** in fumigati
 - **Paper-Dominant Recyclable Design** — Box construction is 95%+ paper by weight (greyboard + velvet paper), making it curbside recyclable after magnet removal. Magnet removal instructions included on inner lid.
 - **LED Smart Factory Lighting** — The 8,000 sqm Gaobu smart factory operates 100% on LED lighting with motion-sensor controls, reducing energy consumption by 40% compared to conventional fluorescent lighting.
 - **Factory Waste Recycling 95%+** — Over 95% of production waste (paper trim, board offcuts, ink wash water) is recycled or repurposed. Greyboard offcuts are returned to the paper mill for re-pulping. Zero waste to landfill target by 2027.
+
+## Get Your Necklace Box Quote — Same-Day Response
+
+**Send us your necklace strand count and velvet color preference — we'll return a quote with logo mockup within 24 hours.** Specify hook count (3-tier standard or custom), closure type (magnetic flip-lid or magnetic + ribbon tie), exterior finish (matte velvet, PU leather, linen), and gold/silver/rose gold foil preference. Free pre-production samples in 5–7 days with your exact necklace dimensions and chosen velvet color swatches. Diamond Member on MIC with 987 products — 22 years, 18,000 sqm, ISO 9001 & FSC certified, KBA + Heidelberg offset.
