@@ -69,3 +69,7 @@ Luxury 3-layer rigid drawer box for premium tea set gift packaging by Guangdong 
 - **ISO 9001:2015** quality management and **FSC®** chain-of-custody certified
 - **1.7 million boxes/day** output capacity ensures on-time delivery at any volume
 - **Free pre-production samples** with 5–7 day turnaround
+
+---
+
+<a href="/contact/" class="btn-cta">Send us your tea set dimensions for a free 3D mockup and same-day pricing — free drawer-box sample with your logo included →</a>

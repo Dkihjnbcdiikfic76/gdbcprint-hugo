@@ -117,3 +117,7 @@ We use **N52-grade neodymium magnets** (10mm diameter × 3mm thickness), the str
 ### What book cloth options do you offer for the spine?
 
 We stock **40+ book cloth colors** across three quality grades: standard starch-filled buckram, premium acrylic-coated cloth (better scuff resistance and foil adhesion), and luxury rayon-based cloth with a silk-like hand feel. All are available with gold, silver, rose gold, copper, or custom PMS-matched foil stamping on the spine. Cloth swatch books ship within 3 business days so you can evaluate texture and color in person before committing.
+
+---
+
+**Send us your book cover artwork and spine title for a same-day quote with 3D proof in 24 hours.** We'll ship a free pre-production sample with your actual foil stamping and chosen book cloth in 8-10 days — hold it, open it, feel the magnetic flap snap. Perfect for limited-edition hardcovers, prestige wine & spirits gift sets, and corporate milestone presentations where the packaging tells the story before the product is revealed.

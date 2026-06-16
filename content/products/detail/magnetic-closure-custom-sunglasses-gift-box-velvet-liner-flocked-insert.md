@@ -77,3 +77,7 @@ Bincai's magnetic closure expertise comes from 22 years of producing premium rig
 **Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
 
 **Shipping:** Flat-packed unassembled — 60% freight volume savings vs. pre-assembled. Standard 10-14 day production lead time. Sea freight to US West Coast: 12-16 days; Europe: 25-30 days.
+
+---
+
+**Ready to see your sunglasses in packaging that matches their quality?** Send us your frame dimensions and logo artwork for a same-day quote with free pre-production sample — typical turnaround 5-7 days. Whether you need 500 units for a boutique launch or 50,000 for a global eyewear brand rollout, Bincai's KBA 1050 + Heidelberg 7+1 UV presses deliver consistent premium quality at every scale.

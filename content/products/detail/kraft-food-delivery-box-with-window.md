@@ -163,3 +163,7 @@ Sustainability in food packaging is not just about materials — it's about manu
 | **Sample Lead Time** | 5–7 days (free) | 10–15 days (charged) |
 | **Flat-Ship Design** | Standard (60% freight savings) | Often pre-assembled |
 | **Solar Power** | 1.2MW rooftop (30% electricity offset) | Rarely available |
+
+---
+
+<a href="/contact/" class="btn-cta">Send us your box dimensions for a same-day quote — free PLA window sample included →</a>

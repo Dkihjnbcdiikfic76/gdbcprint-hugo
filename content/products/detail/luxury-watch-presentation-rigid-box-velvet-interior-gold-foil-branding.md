@@ -113,3 +113,7 @@ A: Our gold foil is applied on the Bobst SP 102 BMA hot stamping press at ±0.1m
 
 **Q: How quickly can I receive a pre-production sample?**
 A: Pre-production samples are delivered within 5–7 business days from design approval. Samples include the actual greyboard, art paper, velvet lining, and gold foil materials used in mass production — not mock-ups. We ship samples via DHL/FedEx at no charge for qualified orders. Material swatches (velvet, art paper, foil options) can be sent in advance within 2–3 days.
+
+---
+
+<a href="/contact/" class="btn-cta">Launching a new timepiece? Send us your watch dimensions for a free velvet sample kit and same-day pricing — free prototype with your logo in 5 days →</a>

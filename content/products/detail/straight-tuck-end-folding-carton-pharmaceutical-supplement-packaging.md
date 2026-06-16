@@ -49,3 +49,7 @@ Straight tuck end (STE) folding carton engineered for pharmaceutical, OTC drug, 
 
 ## Quality & Capacity
 Manufactured in our 18,000 sqm ISO 9001:2015 certified facility with dedicated pharmaceutical packaging production zones. Quality controls include inline spectrophotometric color verification to ISO 12647-2, barcode grading to ISO/IEC 15415, glue-line integrity testing, and statistical process control (SPC) with real-time Cpk monitoring. With 22 years of experience and a daily output capacity of over 1.7 million boxes, Bincai delivers pharmaceutical-grade folding cartons with the consistency and traceability required by regulated markets.
+
+---
+
+<a href="/contact/" class="btn-cta">Need GMP-compliant pharma cartons? Send us your bottle specs for a same-day quote — free child-resistant sample carton with Braille embossing included →</a>

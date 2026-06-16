@@ -160,3 +160,7 @@ A: Our watch boxes are tested to ISTA 3A (parcel delivery) standards and ship wi
 **Q: What's the minimum order and can I start with a small test batch?**
 
 A: MOQ is 300-500 units for standard sizes and configurations. We actively encourage small test batches — order 300 units, test market response, refine the packaging based on customer feedback, then scale to volume. Per-unit cost at 300 units: approximately $5.50-6.50. At 5,000+ units: approximately $2.80-3.80. Free pre-production sample (3-5 units, 7-10 days) for structural and material approval before production commitment.
+
+---
+
+**Want to experience the LED unboxing magic firsthand?** Send us your watch dimensions and brand logo for a same-day quote. We'll ship a free working sample with your logo hot-stamped, vegan leather wrap in your brand color, and the LED module installed and calibrated — open the lid and see your timepiece illuminated under gallery-quality light. Typical sample lead time: 7-10 days. Ideal for luxury watch brands launching new collections, corporate milestone gifts, and DTC timepiece brands upgrading from standard packaging to museum-grade presentation.

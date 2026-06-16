@@ -126,3 +126,7 @@ A: Yes. We produce brand-specific variants with custom exterior colors, textures
 ---
 
 *Guangdong Bincai Color Printing Co., Ltd. — 22 years of packaging excellence. ISO 9001:2015 & FSC certified. 18,000 sqm Foshan facility (10,000+8,000 sqm smart factory). Heidelberg Speedmaster XL 7+1 UV + KBA Rapida 105 presses. Daily output: 1.7M+ boxes. Serving 60+ countries worldwide.*
+
+---
+
+**Send us your watch brand's color spec and slot count for a same-day quote.** We'll ship a free physical sample with tempered glass, carbon fiber texture, and functional magnet hinges in 10-12 days — touch the suede pillows and test the UV-blocking glass before you commit. Ideal for brands launching 6-watch collector sets or upgrading from standard PU cases to gallery-quality carbon fiber display.
