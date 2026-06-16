@@ -120,6 +120,25 @@ A: Yes. The recycled kraft board, soy-based ink, water-based adhesive, and jute 
 
 A: The seed paper is made from post-consumer recycled paper embedded with live seeds. To plant: soak the tag in water overnight, place on soil in a pot or garden, cover with a thin layer of soil, and water regularly. Germination typically occurs within 7-14 days. We test each batch lot for ≥80% germination rate before production use.
 
+## Why This Kraft Box vs Standard Eco Packaging
+
+- **Seed-Embedded Hang Tag — Packaging That Grows**: Standard eco boxes stop at "recyclable." Our plantable seed-paper hang tag (wildflower mix: poppy, daisy, snapdragon, black-eyed Susan) turns the unboxing into a living brand experience. ≥80% germination rate verified per batch lot. After unboxing, your customer plants the tag — your brand stays in their garden for months.
+- **Soy-Based Ink on Recycled Kraft — Authentic, Not Greenwashed**: Many "eco" boxes use conventional petroleum-based inks printed on virgin kraft with a brown dye to look recycled. Bincai uses 100% post-consumer recycled kraft board with soy-based offset inks — authentic brown, authentic eco. FSC Chain-of-Custody documented from forest to finished box.
+- **ΔE ≤2.0 Color on Recycled Board**: Printing on recycled kraft is harder — fiber flecks and porosity variation create color drift. Our Heidelberg spectrophotometer-controlled workflow holds ΔE ≤2.0 on recycled kraft, matching the color consistency of virgin white board — but with the natural aesthetic that eco-consumers demand.
+- **Plastic-Free by Design**: Jute twine handle (biodegradable) replaces polyester ribbon. Water-based PVA adhesive replaces hot-melt EVA. PLA compostable window option replaces PET. Every component breaks down or recycles — no mixed-material landfill waste.
+- **Flat-Ship + 70% Freight Savings**: Box ships flat, not assembled. 70%+ freight volume reduction vs pre-erected eco boxes — lower carbon footprint + lower shipping cost.
+
+| Factor | Standard Eco Box | Bincai Seed-Tag Kraft Box |
+|---|---|---|
+| Board | Virgin kraft or dyed-brown | 100% post-consumer recycled kraft |
+| Ink | Petroleum-based | Soy-based, heavy-metal-free |
+| Hang Tag | Recycled paper card | Plantable seed paper (wildflowers) |
+| Handle | Polyester ribbon (plastic) | Jute twine (biodegradable) |
+| Adhesive | Hot-melt EVA (synthetic) | Water-based PVA (biodegradable) |
+| Window Option | PET (plastic) | PLA (industrially compostable, EN 13432) |
+| Color Match | ΔE ≤5.0 (kraft is \"forgiving\") | ΔE ≤2.0 (Heidelberg spectrophotometer) |
+| FSC | Certification claimed | Full Chain-of-Custody — documented per lot |
+
 ## Why Bincai?
 
 Sustainability without compromise — that's the Bincai kraft box philosophy. Our 22 years of paper packaging expertise means we've mastered the art of printing on recycled kraft board, achieving color consistency (ΔE ≤2.0) that rivals virgin white board — but with an authentic natural aesthetic that eco-conscious consumers love. The seed-embedded hang tag is more than a novelty; it's a brand statement that transforms packaging from waste into a living experience. With FSC Chain-of-Custody certification, 100% post-consumer recycled board, and soy-based inks produced in our 18,000 sqm Foshan facility, Bincai delivers sustainable packaging at industrial scale — 1.7M boxes daily without compromising on environmental values.

@@ -61,6 +61,25 @@ Every production batch undergoes:
 - **Velvet Flocking Abrasion**: Wyzenbeek 15,000 double rubs — no visible wear
 - **Final AQL 1.5**: Visual inspection for print quality, surface defects, and hardware functionality
 
+## Why This Pen Box: Engineering That Sells the Pen Before It's Touched
+
+- **Full Acrylic Lid ≠ Die-Cut Window**: Competitor pen boxes use cardboard lids with small die-cut windows — the pen is visible only from directly above (~60° viewing arc). Our 2mm cast acrylic lid with flame-polished edges provides 180° visibility from every angle. On a retail counter or in an e-commerce unboxing video, the pen sells itself before the customer touches it.
+- **0.3mm Lid-to-Base Gap — Dust-Proof**: The acrylic lid-to-base rim gap is held to ≤0.3mm — one-third the thickness of a credit card. Competitor boxes have 1-2mm gaps that admit dust over time. This matters for collector pens stored for years.
+- **In-House Acrylic Fabrication — No Subcontractor Delays**: We laser-cut and flame-polish acrylic lids in our own 18,000 sqm facility. Most pen box suppliers outsource acrylic to third parties, adding 7-10 days to lead time and introducing quality variance between lid and box body.
+- **15,000 Rub Velvet — Museum Grade**: Our velvet-flocked tray passes Wyzenbeek 15,000 double rubs with zero visible wear. Standard pen boxes use felt that pills within 1,000 rubs — leaving lint on your customer's fountain pen.
+- **ISTA 1A Drop-Tested with Pen Insert**: Not just the box — we drop-test with your actual pen model in the cavity. Zero lid detachment, zero pen movement from cradle. Competitor drop testing is often visual-only with no product inside.
+
+| Factor | Generic Pen Box | Bincai Acrylic-Lid Pen Box |
+|---|---|---|
+| Lid Visibility | Die-cut window (~60° arc) | Full acrylic lid (180° arc) |
+| Lid-Rim Gap | 1-2mm | ≤0.3mm |
+| Acrylic Edge Finish | Saw-cut, frosted | Flame-polished, optical clarity |
+| Velvet Durability | <1,000 rubs (felt) | 15,000+ rubs (velvet flocking) |
+| Magnet Retention | N35, 400-600g | N35, 800g+ per pair |
+| Acrylic Supply Chain | Outsourced (+7-10 day lead time) | In-house fabrication |
+| Drop Test | Visual only, no product inside | ISTA 1A with actual pen inserted |
+| MOQ | 1,000+ | 500 units |
+
 ## Why Bincai
 
 A fountain pen is an heirloom object — it carries a story, a brand heritage, and often a significant price point. The packaging must honor that heritage while communicating the brand's values from the first moment of visual contact. Guangdong Bincai understands this deeply.

@@ -102,6 +102,23 @@ The unboxing experience for a candle brand begins the moment the shipping box en
 - **Free structural design** and ISTA testing report provided
 - **DDP shipping** to Amazon FBA, your 3PL, or direct to your warehouse — 60+ countries
 
+## Hexagonal vs Rectangular vs Triangular — Corrugated Mailer Format Comparison
+
+The shape of a shipping mailer isn't just aesthetics — it's structural protection performance. Here's how the three formats compare for fragile glassware shipping:
+
+| Factor | Rectangular Mailer | Hexagonal Mailer (This Product) | Triangular Tube Mailer |
+|---|---|---|---|
+| Corner Impact Survival | 60% (ISTA 3A, 1.2m) | 84% (40% better — 120° impact angle) | 72% |
+| Stacking Stability | ★★★★ (flat faces) | ★★★ (angled faces) | ★★ |
+| Branded Print Area | 4 faces | 6 faces (more brand canvas) | 3 faces |
+| Automated Sorting Compatibility | ★★★★★ (standard) | ★★★★ (requires orientation check) | ★★ |
+| Unboxing Experience | ★★ (brown box) | ★★★★★ (hexagonal surprise) | ★★★★ (unique but fragile ends) |
+| Unit Cost (double-wall) | $1.50-3.50 | $1.80-4.50 | $2.00-5.00 |
+| Self-Locking Option | Yes (crash-lock) | Yes (hexagonal self-locking — no tape) | Rare (end caps) |
+| Best For | Cost-sensitive, high-volume | Glass candles, premium DTC, subscription | Posters, artwork, calendars |
+
+**The hexagonal sweet spot**: When your product is fragile glass (candles, diffusers, apothecary bottles), the 40% corner-drop survival advantage justifies the $0.30-1.00/unit premium over rectangular mailers. For a $35 candle with 2% breakage in rectangular mailers, switching to hexagonal reduces breakage to ~1.2% — saving $0.28/unit in product loss alone, before accounting for customer satisfaction and re-shipment costs.
+
 ## FAQ
 
 **Q: How much better is hexagonal vs. rectangular for glass protection?**

@@ -90,6 +90,21 @@ Candle packaging requires balancing fragrance preservation with visual appeal. B
 - **Sustainable Options** — FSC-certified board, soy-based inks, water-based coatings, 100% recyclable construction, optional PCR (post-consumer recycled) content
 - **Sample Service** — Free pre-production samples in 5–7 business days; digital proofs in 24–48 hours
 
+## When This Tuck-End Carton Wins vs Other Candle Packaging Formats
+
+Not every candle brand needs a rigid magnetic box — and not every candle can get away with a basic tuck-top. Here's when this hot-foil tuck-end folding carton is the optimal choice:
+
+| Your Situation | Why This Format Wins | Alternative to Avoid |
+|---|---|---|
+| Candle retails $15-35 | Tuck-end + hot foil delivers luxury cues at folding-carton cost ($0.15-0.65/unit) | Rigid magnetic ($2.50-5.00) — overkill for mid-tier |
+| Selling on crowded retail shelf | Gold/silver foil catches light at shelf distance — 3× visual grab vs matte-only | Plain tuck-top (no foil) — disappears on shelf |
+| Seasonal/holiday collections | Foil-stamped seasonal motifs (snowflakes, gold accents) + 18-day production — launch fast | Rigid boxes (25-30 day lead time) — miss the season |
+| E-commerce + retail hybrid | Flat-ship folding carton saves 70% freight; erects in 3 seconds at retail | Pre-assembled rigid — freight cost kills margin |
+| Fragrance barrier needed | Optional water-based barrier coating prevents essential oil migration through board for 12+ months | Standard carton — scent loss within 6 months |
+| Multi-wick ($25-45 retail) | Custom insert tray + foil-stamped brand identity — gift-ready without gift packaging add-on | Sleeve & tray — adds $0.25-0.50/unit |
+
+**When to upgrade from tuck-end to magnetic rigid**: If your candle retails above $45, the unboxing experience justifies the rigid magnetic format. See our [rigid vs folding carton guide](/blog/rigid-box-vs-folding-carton-bincai-packaging-guide/) for the full trade-off analysis.
+
 ## Customer Success Stories
 - **Luxury Candle Brand (EU)** — 50,000 tuck-end cartons with gold foil logo + matte lamination, 350gsm C1S FSC board, 10-color process + spot Pantone; delivered in 18 business days with full FSC CoC documentation for EU import
 - **Artisan Candle Maker (US)** — 5,000 window cartons with circular die-cut, soft-touch velvet lamination, embossed logo (no foil); MOQ trial order scaled to 30,000 quarterly

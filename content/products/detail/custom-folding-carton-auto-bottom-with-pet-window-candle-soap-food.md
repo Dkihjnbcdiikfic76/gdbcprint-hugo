@@ -90,6 +90,22 @@ Guangdong Bincai Color Printing brings 22 years of precision folding carton manu
 
 **Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | KBA 1050 + Heidelberg 7+1 UV | 3 automatic folder-gluers | 1.7M boxes/day | ISO 9001 & FSC certified | Foshan, Guangdong, China | Exporting to 40+ countries
 
+## When This Auto-Bottom Carton Wins — Format Selection Guide
+
+The auto-lock bottom with PET window is one of 5 folding carton formats. Here's when it's the right choice:
+
+| Your Product | Recommended Format | Why |
+|---|---|---|
+| Scented candle in glass jar (200-500g) | **Auto-Bottom + PET Window** (this product) | Auto-bottom supports weight, window sells the candle fragrance label |
+| Artisanal soap bars (100-200g, multiple scents) | **Auto-Bottom + PET Window** — customer sees soap color/texture | Visual selection without opening; 2-second assembly |
+| Gourmet cookies/chocolates | Window carton or tuck-top | Food-safe SBS required; auto-bottom for weight |
+| Bath bombs (fragile, multiple colors) | **Auto-Bottom + PET Window** | Customer sees variety; reinforced bottom prevents crush |
+| Tea bags in sachets | Tuck-top or pillow pack | Lightweight — auto-bottom overkill |
+| Pet treats (irregular shapes) | **Auto-Bottom + Window** | Product visibility builds trust; grease-resistant coating option |
+| Subscription box monthly items | Tuck-top with tear strip | Different format — see our [subscription box guide](/blog/subscription-box-packaging-engineering-bincai/) |
+
+**The auto-bottom advantage**: Erects in <2 seconds vs 5-8 seconds for manual tuck-bottom folding. For a contract packager filling 5,000 units/day, that's ~4 hours of labor saved per production run — at $15/hour, $60/day savings that compounds across every reorder.
+
 ## FAQ
 
 **Q: What is the minimum order quantity for custom folding cartons?**
