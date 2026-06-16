@@ -120,6 +120,8 @@ The hexagonal format isn't for every product. Use this decision guide:
 | **Duty-free / airport retail** | **Hexagonal Box with window** | Small footprint (85mm) + window visibility + unique shape = impulse purchase magnet |
 | **Volume jewelry brand (>10K units)** | Standard square box | Die-cut complexity of hexagon adds $0.20-0.50/unit at scale — square is more cost-effective for volume |
 | **Brand with hexagonal logo/motif** | **Hexagonal Box — obviously** | Packaging geometry that echoes your brand mark creates instant visual recognition |
+| **Pop-Up Market / Craft Fair** | **Hexagonal Box with window** | Eye-catching shape draws foot traffic from 10+ feet away; window lets shoppers preview without handling — reduces "may I open?" friction and speeds sales |
+| **Subscription Box Curator** | **Hexagonal Box** | Unique unboxing moment drives social shares (Instagram/TikTok); honeycomb shape nests inside square mailer with branded tissue fill for a layered reveal experience |
 
 **Sweet spot:** Artisan jewelers, bridal collections, and brands where packaging IS a differentiator (not a cost center). For these use cases, the hexagon's uniqueness advantage outweighs the 20-30% cost premium over square boxes.
 

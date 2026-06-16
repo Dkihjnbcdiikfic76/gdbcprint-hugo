@@ -82,6 +82,18 @@ The hexagonal form factor sets this box apart from conventional square/rectangul
 
 - **Global Shipping**: 90 minutes from Yantian/Nansha/Shekou ports. FOB, CIF, DDP terms. Serving 60+ countries with full export documentation and FSC certification for EU market access.
 
+## Format Comparison: Hexagonal vs. Square vs. Rectangular Gift Boxes
+
+| Factor | Hexagonal | Square | Rectangular |
+|--------|-----------|--------|-------------|
+| **Shelf Impact** | ★★★★★ — unique geometry draws eye instantly; 360° brand surface | ★★★ — familiar, blends into shelf | ★★★ — standard, easily overlooked |
+| **Cost (1K MOQ)** | ★★★ — +10–15% vs square (hexagonal die ~$200 one-time) | ★★★★★ — lowest die + wrapping cost | ★★★★ — standard tooling, efficient nesting |
+| **Unboxing Experience** | ★★★★★ — ribbon ritual + rotational reveal on 6 faces | ★★★ — lift-lid or magnetic flip | ★★★★ — book-style or drawer options |
+| **Best For** | Luxury confectionery, wedding favors, cosmetic gift sets, corporate differentiation | Jewelry, electronics, general retail | Books, wine, apparel, multi-item kits |
+| **Packing Efficiency** | ★★★ — ~8% void vs square in master carton | ★★★★★ — tessellates perfectly | ★★★★ — efficient palletization |
+
+*Bincai produces all three formats on the same Bobst + Kolbus line. Hexagonal die tooling is a one-time ~$200 investment — the per-unit premium of 10–15% delivers outsized brand differentiation on shelf and social media.*
+
 ## FAQ
 
 **Q: Is the hexagonal shape more expensive than a square box?**

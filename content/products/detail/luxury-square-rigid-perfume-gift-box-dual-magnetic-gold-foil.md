@@ -106,6 +106,24 @@ A: Yes. For bottles exceeding 500g, we upgrade to N52 magnets and reinforce the 
 **Q: Is this packaging compliant with EU REACH and California Proposition 65?**
 A: Yes. All materials — greyboard, art paper, inks, adhesives, foils, and foam insert — are REACH (EC 1907/2006) and Prop 65 compliant. SGS test reports available on request. We maintain full material safety data sheets (MSDS) for every component.
 
+## When Dual Magnetic Rigid Wins — Perfume Packaging Decision Guide
+
+Not every fragrance needs a dual-magnetic rigid box. Use this scenario selector to match your packaging format to your brand position and distribution channel:
+
+| Your Situation | Recommended Format | Why |
+|---|---|---|
+| **Luxury/niche fragrance, retail counter display** | **Dual Magnetic Rigid Box** | Dramatic side-flap opening creates a theatrical reveal moment — customers remember the unboxing as part of the fragrance experience |
+| **Mass-market fragrance (>50K units)** | Folding carton with tuck-end | Cost efficiency at scale; rigid box premium isn't justified when product moves on price |
+| **Limited edition or holiday collection** | **Dual Magnetic Rigid Box with gold foil** | Collectible packaging signals scarcity; magnetic closure invites repeated opening — box becomes keepsake |
+| **E-commerce DTC fragrance brand** | **Dual Magnetic Rigid Box (collapsible)** | Flat-ship saves 60% freight; customer receives luxury unboxing at home — drives social sharing |
+| **Fragrance discovery/sample set (4–8 vials)** | **Dual Magnetic Rigid Box with multi-cavity insert** | Magnetic flaps reveal all vials simultaneously — visual impact of the full collection at first glance |
+| **Travel retail / duty-free** | **Dual Magnetic Rigid Box with window** | Compact, premium, visible product — impulse purchase trigger in high-traffic retail environments |
+| **Corporate gifting / VIP client packages** | **Dual Magnetic Rigid Box with personalized foil** | Recipient's name in gold foil + magnetic reveal = memorable brand impression that lives on the shelf |
+| **Budget-conscious indie perfumer (<1K units)** | Telescopic rigid lid-and-base | Simpler construction, lower tooling cost; still premium feel without magnetic mechanism |
+| **Refillable fragrance system** | **Dual Magnetic Rigid Box** | Magnetic closure encourages repeated opening for refill ritual — box stays in daily rotation |
+
+**Sweet spot:** Niche/luxury fragrances retailing above $80, limited editions, gifting occasions, and DTC brands where the unboxing IS the brand experience. The dual magnetic mechanism adds $0.80–1.50/unit vs simple telescopic — justified when packaging drives perceived value and social sharing.
+
 ## Shipping & Logistics
 
 - **Port**: Foshan / Guangzhou / Shenzhen (45, 90, and 120 minutes to terminals respectively)
