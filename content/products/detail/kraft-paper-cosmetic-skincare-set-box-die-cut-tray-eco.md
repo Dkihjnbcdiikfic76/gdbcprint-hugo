@@ -64,12 +64,48 @@ FSC-certified kraft paper cosmetic skincare set box with custom die-cut tray —
 - Free pre-production samples with 5-7 day turnaround
 - MOQ 500–1000 units; trial orders and OEM/ODM accepted
 
+## Why Choose Bincai for Eco Packaging
+- **22 years of green packaging leadership** — pioneering sustainable packaging solutions since 2003, with continuous investment in eco-materials, low-carbon processes, and circular design
+- **Dedicated eco-packaging production cell** — segregated FSC material flow from reception to finished goods, preventing cross-contamination with non-certified materials
+- **Zero-waste manufacturing target** — kraft offcuts recycled through on-site baling system; soy ink containers returned to supplier for closed-loop reuse; process water recirculated
+- **Dual certification** — ISO 9001:2015 quality management + FSC Chain-of-Custody (FSC-CXXXXXX) for verified sustainable sourcing
+- **PLA window expertise** — in-house composability testing per EN 13432 with external lab validation; optimal application temperature and adhesive selection for clean beauty brands
+- **Full-service OEM/ODM** — from concept sketch to finished box, our in-house structural design team optimizes for material efficiency without sacrificing premium presentation
+- **Competitive MOQ** — starting at 500 units for standard sizes; flexible scaling for growing clean beauty brands
+- Free pre-production samples in 5-7 days with DHL/FedEx worldwide express shipping
+
 ## Factory
 - 22 years of manufacturing excellence since 2003
 - Dual factories: 10,000 sqm main + 8,000 sqm smart factory in Foshan, Pearl River Delta
-- 500+ skilled workers across 3 shifts
+- 500+ skilled workers across 3 shifts with specialized eco-packaging training
 - ISO 9001:2015 certified quality management system
 - FSC Chain-of-Custody certified (license code: FSC-CXXXXXX)
 - KBA Rapida 105 4-color + Heidelberg Speedmaster CD 102 7+1 UV presses
+- Bobst SP 102 BMA Autoplaten die-cutter for precision tray cutting
 - Dedicated eco-packaging production line with segregated FSC material flow
-- Export to 60+ countries across North America, Europe, and Asia-Pacific
+- In-house PLA window patching line with water-based biodegradable adhesives
+- Export to 60+ countries across North America, Europe, Asia-Pacific, and Middle East
+- Sustainable energy: 800kW rooftop solar array covering 35% of daytime production power
+
+## Sustainability & Environmental Impact
+- **FSC Mix/Credit certified** kraft board — full Chain-of-Custody from responsibly managed forests to finished packaging
+- **Soy-based inks** — renewable, low-VOC vegetable inks replacing petroleum-based formulations; certified biodegradable per ASTM D6868
+- **Water-based adhesives** — zero solvent content, VOC emissions < 0.1 g/L, safe for food-contact-adjacent applications
+- **PLA compostable window** — industrially compostable per EN 13432 (disintegrates within 12 weeks, biodegrades within 6 months)
+- **100% paper recyclable** — kraft board and tray separate cleanly in standard curbside paper recycling streams
+- **Carbon footprint reduction** — kraft board production emits 40% less CO₂ vs virgin bleached board; 800kW solar array reduces grid electricity demand
+- **Zero-waste initiatives** — paper offcuts baled and recycled; wooden pallets reused; ink containers returned to supplier for closed-loop recycling
+- **Compliance** — EU REACH, US CPSIA, California Proposition 65, EN 13432 industrial compostability for PLA window option
+
+## FAQ
+**What is the minimum order quantity?** MOQ is 500–1000 units depending on size and complexity. We offer trial runs of 100–300 units for brand testing at a modest surcharge.
+
+**Can you print my logo on kraft board?** Yes. We offer 1–4 color soy-based offset printing, foil stamping (gold/silver/copper), and blind embossing — all on natural kraft surfaces for an authentic eco-luxe look.
+
+**Is the PLA window truly compostable?** Yes. The PLA film is certified to EN 13432 for industrial composting — it disintegrates within 12 weeks and fully biodegrades within 6 months under controlled composting conditions (58°C, 50%+ humidity).
+
+**What tray customization options are available?** We offer custom die-cut kraft trays, molded pulp inserts (bagasse, bamboo fiber), and E-flute kraft fitments — all precision-cut to your product dimensions. Send us your product samples and we'll engineer the perfect fit.
+
+**How long does production take?** Standard lead time is 12-18 working days after sample approval. Rush orders at 7-10 days with priority scheduling.
+
+**Do you ship internationally?** Yes. We export to 60+ countries with DHL, FedEx, UPS, and sea freight options. Incoterms FOB Shenzhen/Guangzhou or CIF to your destination port.
