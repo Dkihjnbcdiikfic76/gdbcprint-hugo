@@ -2,8 +2,8 @@
 title: "Kraft Paper Gift Box with Die-Cut Window and Cotton Rope Handle"
 date: 2026-06-10
 draft: false
-description: "Eco-friendly kraft paper gift box with die-cut display window and cotton rope handle — 100% recyclable, soy-based ink printing, FSC certified board. KBA 1050 & Heidelberg 7+1 UV manufactured. Bincai — 22-year factory, 18,000 sqm (10,000+8,000 smart factory), MOQ 500."
-keywords: "kraft paper gift box, die-cut window box, cotton rope handle box, eco-friendly gift box, sustainable packaging box, recyclable paper box, FSC certified box, soy ink packaging, kraft window box, eco gift box manufacturer China, ISO 9001 FSC packaging, Bincai Color Printing, natural kraft gift packaging"
+description: "Eco-friendly kraft paper gift box with precision die-cut display window and natural cotton rope handle — 100% recyclable, FSC CoC certified board, soy-based ink printing, starch-based adhesive. Manufactured by Guangdong Bincai Color Printing — 22 years since 2003, ISO 9001:2015 certified. 18,000 sqm (10,000+8,000 smart factory 2025) with KBA Rapida 105 4-color + Heidelberg Speedmaster CD 102 7+1 UV. Zero plastic construction, compostable in 90 days. 1.7M boxes daily. MOQ 500."
+keywords: "kraft paper gift box, die-cut window box, cotton rope handle box, eco-friendly gift box, sustainable packaging box, recyclable paper box, FSC certified box, soy ink packaging, kraft window box, eco gift box manufacturer China, ISO 9001 FSC packaging, Bincai Color Printing, natural kraft gift packaging, KBA Rapida 105 kraft box, Heidelberg 7+1 UV kraft box, zero plastic box, compostable gift box, starch adhesive box, 22 years Guangdong factory, 18,000 sqm eco factory, 1.7M daily boxes, Foshan sustainable packaging, organic product packaging, artisan gift box, handmade soap box, farm-to-table packaging, zero waste packaging, FSC CoC kraft box, eco wedding favor box, wholesale kraft gift box China, recycled paperboard box, cotton rope handle box, sustainable retail packaging, OEM eco box manufacturer"
 categories: ["kraft-eco-boxes"]
 params:
   moq: "500-1000"
