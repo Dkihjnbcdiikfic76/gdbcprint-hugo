@@ -77,7 +77,7 @@ The carbon fiber-textured PU leatherette wrap delivers motorsport-inspired aesth
 
 ## Why Choose Bincai for Watch Packaging
 
-- **LED Integration Expertise**: Our in-house electronics team handles LED circuit design, reed switch calibration, and battery compartment engineering — all tested to 5,000+ open/close cycles. No outsourced electronics subassembly means faster iteration and consistent quality.
+- **LED Integration Expertise**: Our in-house electronics team handles LED circuit design, reed switch calibration, and battery compartment engineering — all tested to 5,000+ open/close cycles. No outsourced electronics subassembly means faster iteration and consistent quality. For the structural foundation behind this level of precision, see our guide to [rigid box engineering and anatomy](/blog/luxury-rigid-box-engineering-anatomy-bincai/).
 
 - **Kolbus + Hand-Wrapping Hybrid**: Machine precision for structural dimensions (±0.3mm), human skill for perfect carbon fiber pattern alignment across curved lid edges. This combination is rare in the industry and defines Bincai's rigid box quality.
 
@@ -100,3 +100,5 @@ A: 300 units for a single watch cavity with our standard cushion. Custom multi-w
 ---
 
 *Guangdong Bincai Color Printing Co., Ltd. — 22 years of packaging excellence. ISO 9001:2015 & FSC certified. 18,000 sqm Foshan facility. Kolbus DA270 casemaker + Heidelberg Speedmaster XL 7+1 UV. Daily output: 220K+ rigid boxes. Serving 60+ countries worldwide. Diamond Member on Made-in-China.com.*
+
+Explore our full [jewelry and luxury presentation box collection](/products/jewelry-boxes/) for more styles — from LED-lit watch cases to velvet ring boxes and multi-tier jewelry displays.

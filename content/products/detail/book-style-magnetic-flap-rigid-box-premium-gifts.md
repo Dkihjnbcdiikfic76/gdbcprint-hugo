@@ -16,7 +16,7 @@ params:
 
 ## Product Overview
 
-The book-style magnetic flap rigid box elevates packaging to bibliophilic art — it opens like a treasured hardcover volume, with a wraparound flap secured by concealed magnets and a decorative spine that begs to be displayed on a shelf. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — ISO 9001:2015 and FSC certified, 22 years of luxury packaging — each box combines the structural integrity of 1600gsm greyboard with the elegance of book-cloth spine wrapping and gold foil spine titling. Our Heidelberg 7+1 UV press prints the cover art, and our artisan finishing team hand-applies spine reinforcement, magnetic flaps, and interior lining.
+The book-style magnetic flap rigid box elevates packaging to bibliophilic art — it opens like a treasured hardcover volume, with a wraparound flap secured by concealed magnets and a decorative spine that begs to be displayed on a shelf. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — ISO 9001:2015 and FSC certified, 22 years of luxury packaging — each box combines the structural integrity of 1600gsm greyboard with the elegance of book-cloth spine wrapping and gold foil spine titling. Our Heidelberg 7+1 UV press prints the cover art, and our artisan finishing team hand-applies spine reinforcement, magnetic flaps, and interior lining. For a technical deep dive into the engineering behind our magnetic flap systems, read our guide to [magnetic closure box engineering](/blog/magnetic-closure-box-engineering-bincai/).
 
 ## Design Features
 
@@ -71,7 +71,7 @@ With **22 years of manufacturing heritage** (founded 2003), Guangdong Bincai Col
 | Certifications | ISO 9001:2015 quality management, FSC-C147399 chain of custody, SGS audited, BSCI compliant |
 | Artisan Team | Specialist finishing crew for hand-applied spines, magnetic flap assembly, and interior lining |
 
-What truly sets Bincai apart is our **artisan finishing team**. While high-speed automation powers our volume production, the book-style magnetic flap box demands a human touch — spine cloth is case-wrapped by hand, magnets are seated with manual precision, and interior linings are inspected under controlled lighting. This blend of industrial scale and artisanal care is why luxury brands across wine & spirits, publishing, watches, and corporate gifting choose Bincai.
+What truly sets Bincai apart is our **artisan finishing team**. While high-speed automation powers our volume production, the book-style magnetic flap box demands a human touch — spine cloth is case-wrapped by hand, magnets are seated with manual precision, and interior linings are inspected under controlled lighting. This blend of industrial scale and artisanal care is why luxury brands across wine & spirits, publishing, watches, and corporate gifting choose Bincai. Explore our full [rigid gift box collection](/products/rigid-gift-boxes/) to see more premium packaging formats — from classic magnetic closure boxes to custom-shaped cylindrical gift boxes.
 
 ## Sustainability
 
