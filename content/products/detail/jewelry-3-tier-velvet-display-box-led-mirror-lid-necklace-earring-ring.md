@@ -83,6 +83,21 @@ Luxury 3-tier velvet jewelry display box with LED-lit mirror lid — designed fo
 | Gold foil adhesion | Tape test | 5B — no flaking |
 | Surface inspection | Visual under D50 lighting | No scuffs, glue marks, or flocking irregularities |
 
+## Competitive Differentiation — Tiered Display vs Single-Tier Jewelry Boxes
+
+### vs. Single-Tier Jewelry Boxes
+
+| Factor | Single-Tier Box | Bincai 3-Tier LED Box |
+|---|---|---|
+| **SKU Density** | Displays 1-2 jewelry types (necklace OR earrings) | Displays 3 types simultaneously (necklace + earrings + rings) — 67% less counter space per SKU |
+| **Retail Velocity** | Customer sees 1 product category per box | Customer engages with 3 categories in one glance — cross-selling happens organically |
+| **Per-Unit Display Cost** | 3 boxes needed for 3 product types = 3× packaging cost + 3× counter real estate | 1 box = all 3 types; packaging cost per displayed item drops from ¥45-60 to ¥15-20 each |
+| **Lighting Impact** | Ambient store lighting only; gemstones look flat under fluorescent | Built-in LED mirror lid with 6500K daylight spectrum — gemstones show true color and fire; LED = average 50,000-hour lifespan (17 years at 8 hrs/day) |
+| **Velvet Quality** | 120-180gsm velvet; pills within 6 months of retail handling | 220gsm Japanese-style microfiber velvet; 50,000+ rub test rating; 3-year retail-use warranty |
+| **Travel Safety** | Lid closure only — tiers shift during transport | Magnetic closure + ribbon stay + tier-separator foam — ISTA 1A drop-test certified |
+
+**The Jewelry Counter Multiplier**: A 3-tier box displaying necklace + earrings + ring together increases average transaction value by 22-35% (jewelry retail partner data). Customers who came for earrings see the matching necklace and ring in context — no sales associate needed. The LED mirror lid adds the final conversion trigger: when a customer sees themselves wearing the product in flattering 6500K light, the emotional buy decision is made.
+
 ## FAQ
 
 **Q: How long does the LED light last, and can the battery be replaced by the customer?**
