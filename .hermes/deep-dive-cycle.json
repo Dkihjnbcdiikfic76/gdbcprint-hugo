@@ -1,8 +1,8 @@
 {
   "day": 7,
-  "task": 5,
-  "rotation": 5,
-  "next": "Day 7 Run 6, Task #6 BUILD & DEPLOY",
+  "task": 6,
+  "rotation": 6,
+  "next": "Day 7 Run 7, Task #1 CTA OPTIMIZATION",
   "started": "2026-06-16T00:00:00Z",
   "cycle": "deep-dive",
   "tasks": {
