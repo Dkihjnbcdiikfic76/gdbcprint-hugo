@@ -2,8 +2,8 @@
 title: "Custom Magnetic Closure Fountain Pen Display Box with Faux Leather Wrap"
 date: 2026-06-14
 draft: false
-description: "Custom magnetic closure fountain pen display box with premium faux leather wrap and suede interior lining. Book-style lid with hidden neodymium magnetic closure, precision die-cut pen tray for single, dual, or 6-pen collector configurations. Manufactured by Guangdong Bincai Color Printing Co., Ltd. — 22 years since 2003, 18,000 sqm dual-factory (Foshan, China), KBA Rapida 105 4-color + Heidelberg Speedmaster CD 102 7+1 UV presses, ISO 9001:2015 & FSC Chain-of-Custody certified, 1.7M boxes daily output. Free pre-production samples in 5-7 days. MOQ 300-500 units. Ideal for luxury writing instrument brands, corporate executive gifts, limited edition collector packaging, and pen boutique retail displays."
-keywords: "pen display box, fountain pen box, magnetic closure pen box, faux leather pen case, luxury writing instrument packaging, pen collector box, corporate pen gift box, Bincai, Made-in-China, custom pen display, suede pen box, premium pen packaging, executive gift packaging, writing instrument case, neodymium magnetic box, book-style pen box, debossed pen box, hot foil pen box, rollerball pen box, pen boutique packaging, OEM pen box, wholesale pen packaging, Guangdong manufacturer, Foshan supplier, KBA 1050 offset, Heidelberg 7+1 UV, ISO 9001 FSC, 18000 sqm factory, 22 years manufacturer, luxury gift box, leather-look packaging, magnetic gift box, collector edition box, sample service, premium paper box export"
+description: "Custom magnetic closure fountain pen display box with premium faux leather wrap and suede interior lining. Book-style lid with hidden neodymium magnetic closure, precision die-cut pen tray for single, dual, or 6-pen collector configurations. Manufactured by Guangdong Bincai Color Printing Co., Ltd. — 22 years since 2003, 18,000 sqm dual-factory (Foshan, China), KBA Rapida 105 4-color + Heidelberg Speedmaster CD 102 7+1 UV + Bobst SP 102 BMA/E hot foil stamping presses, ISO 9001:2015 & FSC Chain-of-Custody certified, 1.7M boxes daily output. Free pre-production samples in 5-7 days. MOQ 300-500 units. Ideal for luxury writing instrument brands, corporate executive gifts, limited edition collector packaging, and pen boutique retail displays."
+keywords: "pen display box, fountain pen box, magnetic closure pen box, faux leather pen case, luxury writing instrument packaging, pen collector box, corporate pen gift box, Bobst SP 102 BMA foil, hot foil debossed pen box, rollerball pen packaging, premium pen presentation case, N35 neodymium magnetic box, book-style pen box, suede pen box, OEM pen box manufacturer, wholesale pen packaging China, KBA Rapida 105 offset, Heidelberg 7+1 UV, ISO 9001:2015 FSC CoC, 18,000 sqm factory, 22 years Guangdong manufacturer, Foshan paper box supplier, luxury gift box, leather-look packaging, magnetic gift box, collector edition box, executive corporate gift packaging, writing instrument display case, sample service, premium paper box export, fountain pen boutique packaging, Bincai color printing, custom pen display, pen packaging factory, 1.7M daily boxes"
 categories: ["magnetic-closure-boxes"]
 params:
   moq: "300-500"
@@ -58,7 +58,7 @@ Our custom magnetic closure fountain pen display box wraps premium greyboard in 
 | Closure | Hidden Neodymium Magnets |
 | Tray Configuration | Single, Dual, Triple, or 6-Slot Die-Cut |
 | Printing | Heidelberg 7+1 UV Offset for Interior Branding |
-| Daily Output | Up to 1.5 Million Boxes |
+| Daily Output | Up to 1.7 Million Boxes |
 | Certifications | ISO 9001:2015, FSC® Certified |
 | Factory | 10,000 sqm Production Floor, 22 Years Experience |
 ---
