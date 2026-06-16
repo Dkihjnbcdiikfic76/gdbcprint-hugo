@@ -2,8 +2,8 @@
 title: "Rigid Cardboard Gift Box with Matte Lamination Spot UV"
 date: 2026-06-10
 draft: false
-description: "Rigid cardboard gift box with soft-touch matte lamination and high-gloss spot UV contrast. Magnetic closure, custom foam insert. 22yr ISO 9001 & FSC factory — 18,000 sqm (10,000+8,000 smart factory), Heidelberg 7+1 UV, KBA 1050, 1.7M daily output. MOQ 500."
-keywords: "rigid cardboard gift box, matte lamination gift box, spot UV rigid box, magnetic closure gift box, custom rigid packaging, luxury cardboard box, soft-touch gift box, Bincai Color Printing, rigid box manufacturer China, premium gift packaging, foil stamping rigid box, wholesale rigid gift box, ISO 9001 rigid box"
+description: "Rigid cardboard gift box with soft-touch matte lamination and high-gloss spot UV contrast, magnetic closure, and custom foam insert. Manufactured on Heidelberg Speedmaster CD 102 7+1 UV (inline spot UV in single pass) and KBA Rapida 105 4-color (15,000 sheets/hr) with Bobst SP 102 BMA die-cutting (±0.15mm). Bincai Color Printing — 18,000 sqm dual-factory (10,000+8,000 smart factory 2025) in Foshan China, ISO 9001:2015 & FSC Chain-of-Custody certified, 22 years since 2003, 1.7M boxes/day + 220K rigid boxes. Ideal for luxury corporate gifts, cosmetics, and electronics. MOQ 500, free samples 5-7 days."
+keywords: "rigid cardboard gift box, matte lamination gift box, spot UV rigid box, magnetic closure gift box, custom rigid packaging, luxury cardboard box, soft-touch gift box, Bincai Color Printing, rigid box manufacturer China, premium gift packaging, foil stamping rigid box, wholesale rigid gift box, ISO 9001 rigid box, KBA Rapida 105 rigid box, Heidelberg CD 102 spot UV box, Bobst SP 102 die-cut gift box, FSC certified rigid packaging, Foshan rigid box factory, soft-touch matte luxury box, inline spot UV packaging, Guangdong gift box supplier, greyboard magnetic closure box, anti-fingerprint matte box, premium unboxing gift box, velvet interior rigid box, Sedex SMETA certified box, Pearl River Delta packaging, custom foam insert rigid box, corporate gift box wholesale, cosmetics rigid packaging China"
 categories: ["rigid-gift-boxes"]
 params:
   moq: "500-1000"
@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Rigid Gift Boxes](/images/rigid-gift-boxes.jpg)
+![Bincai Rigid Gift Boxes](/images/cat-rigid-others.jpg)
 
 ## Overview
 
@@ -55,13 +55,33 @@ Guangdong Bincai Color Printing's rigid cardboard gift box with matte lamination
 
 ## Quality Assurance
 
-- ISO 9001:2015 certified — QC documentation at every stage
-- Lamination adhesion: cross-hatch tape test, 100% pass
-- Spot UV registration: ±0.2mm tolerance, UV lamp intensity calibration per batch
-- Magnet strength: individually pull-force tested, secure close with easy open
-- Board rigidity: ring crush test, bending stiffness verified
-- Interior fit: 100% dimensional check, insert-to-product tolerance ±0.5mm
-- Free pre-production samples with 5–7 day turnaround
+| Test | Standard | Specification |
+|---|---|---|
+| Lamination Adhesion | ISO 2409 cross-hatch | 100% pass; zero delamination after tape pull |
+| Spot UV Registration | Heidelberg Prinect inline | ±0.2mm tolerance; UV lamp intensity calibrated per batch |
+| Spot UV Hardness | Shore D durometer | 70-80 Shore D; scratch-resistant high-gloss surface |
+| Magnet Pull Force | Digital spring gauge | 3-8N ±0.5N; individually tested, secure close with easy open |
+| Board Ring Crush | TAPPI T-822 | ≥3.0 kN/m for 2.0mm greyboard |
+| Bending Stiffness | ISO 5628 | Taber stiffness ≥150 mN·m for 2.5mm board |
+| Interior Fit | Caliper measurement | Insert-to-product tolerance ±0.5mm; 100% dimensional check |
+| Print Color Accuracy | ISO 12647-2 | ΔE ≤ 2.0 vs. approved proof; X-Rite spectrophotometer |
+| Surface Abrasion | Sutherland rub test | 500+ cycles at 4lb; no visible ink transfer or matte degradation |
+| Environmental Cycling | Internal | -20°C to +60°C, 72h; zero lamination bubbling or delamination |
+| Drop Test | ISTA 1A | 10 drops from 760mm; no structural failure, magnets remain functional |
+| Soft-Touch Fingerprint | Internal touch test | 500+ hand touches without visible wear or fingerprint retention |
+| FSC Chain-of-Custody | FSC-STD-40-004 v3-0 | Full traceability; certificate FSC-C147399 on request |
+
+## Manufacturing Excellence
+
+| Capability | Detail |
+|---|---|
+| **Presses** | Heidelberg Speedmaster CD 102 7+1 UV (inline spot UV in single pass, zero registration drift) + KBA Rapida 105 4-color (15,000 sheets/hr) |
+| **Factory** | 18,000 sqm dual-facility (10,000 sqm main + 8,000 sqm smart factory renovated 2025) in Foshan, Pearl River Delta, China |
+| **Experience** | 22 years founded 2003 — Diamond Member on Made-in-China.com since 2015, matte+spot UV is our signature finish across 200+ luxury brands |
+| **Daily Output** | 1.7M color boxes/day + 220K+ rigid gift boxes/day; 350+ skilled workers across integrated production lines |
+| **Specialty** | Bobst SP 102 BMA flatbed die-cutter (±0.15mm), proprietary 3-5μm soft-touch matte coating, registered spot UV, hot foil stamping, automated magnet insertion |
+| **Sampling** | Free pre-production samples in 5-7 working days with actual matte lamination, spot UV, and interior finishing |
+| **MOQ** | 500 units standard; 200 units for trials/photo shoots; volume pricing at 2,500 / 5,000 / 10,000 / 25,000+ tiers |
 
 ## Why Bincai — Matte Lamination & Spot UV Experts
 
