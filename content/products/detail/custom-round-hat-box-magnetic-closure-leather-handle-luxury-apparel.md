@@ -112,3 +112,9 @@ A round hat box is one of the most technically demanding rigid box formats. The 
 **Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day + 220K gift boxes | KBA Rapida 105 + Heidelberg CD 102 7+1 UV + Bobst SP 102 BMA | ISO 9001:2015 & FSC-C147399 | Foshan, Guangdong, China
 
 **Shipping:** Round hat boxes ship nested (smaller diameters inside larger) to reduce freight volume by approximately 40%. Standard export packaging: individual polybag + corrugated master carton with foam corner protectors. FOB Shenzhen/Yantian or FOB Guangzhou/Nansha. Sea freight: 18–25 days to US West Coast, 25–35 days to Europe. Air freight: 3–5 days global. MOQ: 500 units per design.
+
+---
+
+## Ready to Start?
+
+**Send us your hat dimensions and brand artwork for a free round telescopic sample with genuine leather handle in 5–7 days — plus a complimentary 3D rendering within 24 hours.** Every sample is produced on our Emmeci MC2004 cylindrical wrapping line with seamless 360° print registration (±0.5mm diameter tolerance), so what you approve is exactly what rolls off the production line. 22 years of luxury rigid box expertise. [→ Get your free sample](/contact/)

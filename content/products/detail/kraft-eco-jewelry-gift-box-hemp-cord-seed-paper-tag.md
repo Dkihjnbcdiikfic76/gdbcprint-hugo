@@ -74,3 +74,9 @@ A: Yes. Our soy-based inks are food-safe and the recycled kraft board meets FDA 
 
 ## Why Choose Bincai for Eco Jewelry Packaging?
 Guangdong Bincai's 22 years of packaging expertise meets genuine sustainability commitment. Our FSC-certified recycled kraft board, soy-based inks, and plantable seed paper tags create packaging that customers keep and plant — not discard. KBA Rapida 1050 press and Bobst SP 102 BMA die-cutter deliver precision at scale. ISO 9001 certified, 18,000 sqm factory, 1.7M daily output — eco packaging without compromise.
+
+---
+
+## Ready to Start?
+
+**Send us your jewelry dimensions and brand logo for a free FSC-certified recycled kraft sample in 7 days — complete with your custom seed paper hang tag (choose wildflower, herb, or tree seeds) and natural hemp cord closure.** Printed with soy-based inks on 100% post-consumer recycled board. Every sample includes a germination test certificate for the seed paper and FSC-C147399 chain-of-custody documentation. 22-year factory, MOQ 500. [→ Get your free eco sample](/contact/)

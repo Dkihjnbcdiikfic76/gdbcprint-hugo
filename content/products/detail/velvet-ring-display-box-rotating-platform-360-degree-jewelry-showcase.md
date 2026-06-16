@@ -135,3 +135,9 @@ Designing a moving, illuminated jewelry box is harder than it looks — there ar
 **Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | 220,000+ rigid boxes daily | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
 
 **Shipping:** Flat-packed with removable battery compartment — 50% freight volume reduction vs. pre-assembled. Typical container loads: 10,000–15,000 units per 20ft. Batteries shipped separately per IATA lithium battery regulations for air freight.
+
+---
+
+## Ready to Start?
+
+**Send us your ring dimensions and logo artwork for a free motorized LED display sample in 7–10 days — with your choice of velvet color, LED color temperature (cool white, warm white, or amber), and custom foil-stamped lid.** Every sample includes a full electronics burn-in test certificate (motor rated 500+ hours, LED array 100+ hours per battery set) and anti-tarnish velvet treatment. 3D rendering within 24 hours. 22 years of luxury jewelry packaging. MOQ 500. [→ Get your free rotating display sample](/contact/)

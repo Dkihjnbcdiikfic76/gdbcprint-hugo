@@ -119,3 +119,9 @@ A: Yes. All watch boxes ship with FSC Chain-of-Custody documentation, ISO 9001:2
 | Magnet | N35 neodymium — RoHS compliant, recoverable and reusable |
 | Factory Waste | Closed-loop recycling diverts 95%+ of production paper waste from landfill |
 | Carbon | LED factory lighting, optimized press scheduling, smart factory energy management |
+
+---
+
+## Ready to Start?
+
+**Send us your watch case dimensions, preferred velvet color (choose from 20+ shades), and logo artwork for a free pre-production sample in 5–7 days — complete with your foil-stamped exterior and velvet-flocked interior.** Every watch box is assembled on our dedicated rigid box line with N35 neodymium magnet closure (3.0N+ pull force, 2,000+ hinge cycles tested). 22 years of luxury packaging manufacturing. [→ Get your free watch box sample](/contact/)

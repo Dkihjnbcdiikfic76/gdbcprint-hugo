@@ -110,3 +110,9 @@ A: The tear strip is engineered and tested to tear cleanly in a single continuou
 **Q: Are the boxes recyclable?**
 
 A: Yes. Self-seal corrugated mailers are fully recyclable in standard curbside paper/cardboard programs. The hot-melt adhesive strip and PET tear strip are present in such small quantities that they do not interfere with repulping — they are screened out as contaminants during the recycling process. We recommend adding a "Please Recycle This Box" message printed on the interior flap to encourage consumer recycling. FSC certification (FSC-C147399) verifies responsible fiber sourcing through the supply chain.
+
+---
+
+## Ready to Start?
+
+**Send us your product dimensions for a free ISTA 3A pre-production test mailer in 7 days — complete with self-seal adhesive strip, your choice of tear strip color, and a 3D shipping simulation report.** Engineered on our in-house BHS double-wall corrugator with ECT 44+ lb/in crush resistance and 22 years of corrugated packaging expertise — every test mailer comes with a full ISTA 3A pass/fail certificate so you can validate protection before committing to production. [→ Get your free test mailer](/contact/)
