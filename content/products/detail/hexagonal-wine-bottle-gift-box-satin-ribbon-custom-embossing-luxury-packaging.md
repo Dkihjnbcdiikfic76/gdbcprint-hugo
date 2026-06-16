@@ -152,4 +152,8 @@ A: Yes. Bincai provides free pre-production samples within 5–7 working days, i
 
 ---
 
-Ready to package your wine or spirits in a box that's as exceptional as what's inside? **Contact Guangdong Bincai Color Printing** and let our 22 years of premium packaging expertise elevate your brand.
+## Ship Us Your Bottle — Get a Free Hexagonal Sample in 7 Days
+
+Send your wine or spirit bottle to our Foshan factory. We'll reverse-engineer a precision EVA foam cradle, produce a **free custom sample** with your choice of foil color, ribbon shade, and embossing pattern, and ship it to you within 7 working days. Include your target retail price point and order quantity for a same-day quotation. Whether you're a boutique Napa winery launching a reserve collection or a global spirits brand refreshing holiday gift packaging — Bincai's 22 years of hexagonal rigid box manufacturing turns your bottle into an unboxing experience that customers photograph and share.
+
+📧 qo82@icloud.com | 📱 +86-18934352881

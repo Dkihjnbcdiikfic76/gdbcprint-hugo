@@ -113,3 +113,9 @@ Bincai understands that a cookie bag is not just a container — it's a mobile b
 Contact: qo82@icloud.com | +86-18934352881 | No.6-7 Shunyuan North Rd, Wusha, Daliang, Shunde, Foshan, Guangdong, China
 
 [View on Made-in-China.com →](https://bincaipaperbox.en.made-in-china.com/)
+
+## Get Your Custom Cookie Bag Sample — Free
+
+Send us your bakery logo and preferred bag dimensions. We'll create a **free digital proof in 24 hours** and ship a physical pre-production sample with your custom print within 5–7 days. No charge for samples — just cover shipping. Whether you need 500 bags for a seasonal launch or 50,000 for a national bakery chain, Bincai's KBA 1050 offset press and 22 years of paper bag manufacturing deliver bakery packaging that turns customers into walking billboards.
+
+📧 qo82@icloud.com | 📱 +86-18934352881

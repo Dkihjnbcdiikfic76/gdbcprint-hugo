@@ -106,3 +106,9 @@ BHS (Bielefeld, Germany) is the same corrugator brand used by Smurfit Kappa and 
 ## Why Bincai for Industrial Packaging
 
 Bincai has been the packaging partner for automotive and industrial exporters across 40+ countries since 2003. Our BHS 2.5m corrugator is the gold standard — the same equipment used by Smurfit Kappa and International Paper — producing triple-wall board rated ECT 51+ that survives intercontinental freight without box failure. The litho-laminate press line (Heidelberg 7+1 UV) puts premium branding on industrial packaging, turning a shipping box into a brand asset. ISTA 3A certified. ISO 9001:2015. FSC chain-of-custody. MOQ 500. Lead time 18–25 working days. Direct factory pricing — no middlemen.
+
+## Send Your Part Specs — Get a Free ISTA Drop Test Report
+
+Send us the CAD file or physical sample of your automotive part. Our packaging engineers will design a custom triple-wall box with CNC-cut PE foam insert, produce a pre-production sample, and run an **ISTA 3A drop test — all at no charge**. We'll ship you the test report along with the sample box so you can verify performance before committing to production. Direct factory pricing with no middlemen. Lead time 18–25 working days. Single-source supplier: corrugated box + foam insert + litho-laminate printing under one roof.
+
+📧 qo82@icloud.com | 📱 +86-18934352881

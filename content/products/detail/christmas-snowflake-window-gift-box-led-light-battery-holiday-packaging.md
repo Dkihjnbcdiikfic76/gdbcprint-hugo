@@ -136,3 +136,9 @@ A: Standard production lead time is 10–14 days from artwork approval. For Q4 h
 **Q: Can the LED light be warm white instead of cool white?**
 
 A: Yes. We stock warm white (2700K), pure white (4000K), cool white (6000K), and RGB color-changing LED modules. Simply specify your preferred color temperature or multicolor requirement during order placement. Warm white (2700K) is our default for holiday packaging as it creates the coziest, most inviting glow."
+
+## Reserve Your Q4 Christmas Production Slot Now
+
+Bincai's holiday packaging production slots fill by August each year. Send us your snowflake window design concept or brand artwork — we'll return a **free working sample with functioning LED module** within 7 days. Specify your preferred LED color temperature (2700K warm white recommended for holiday gifting), packaging dimensions, and order quantity for a same-day quote with confirmed Q4 delivery schedule. MOQ from 500 units with flexible seasonal scaling.
+
+📧 qo82@icloud.com | 📱 +86-18934352881

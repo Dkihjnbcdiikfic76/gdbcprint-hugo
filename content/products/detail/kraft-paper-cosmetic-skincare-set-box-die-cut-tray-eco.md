@@ -131,4 +131,10 @@ EU Green Claims Directive (effective 2026) requires brands to substantiate envir
 
 **How long does production take?** Standard lead time is 12-18 working days after sample approval. Rush orders at 7-10 days with priority scheduling.
 
-**Do you ship internationally?** Yes. We export to 60+ countries with DHL, FedEx, UPS, and sea freight options. Incoterms FOB Shenzhen/Guangzhou or CIF to your destination port.
+A: Yes. We export to 60+ countries with DHL, FedEx, UPS, and sea freight options. Incoterms FOB Shenzhen/Guangzhou or CIF to your destination port.
+
+## Request Your Eco-Packaging Documentation Package — Free
+
+Before you order, we'll send you a **free compliance documentation package** — FSC certificate copy, soy ink compliance lab report, PLA compostability certificate (EN 13432), and a physical kraft sample swatch showing your brand logo in soy ink on FSC kraft board. All within 5 days, all at no charge. Clean beauty brands use our documentation to satisfy EU Green Claims Directive requirements and retailer sustainability scorecards. Send us your product dimensions and we'll engineer a custom die-cut tray with zero-plastic construction.
+
+📧 qo82@icloud.com | 📱 +86-18934352881
