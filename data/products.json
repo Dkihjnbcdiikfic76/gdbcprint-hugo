@@ -1,11 +1,19 @@
 [
   {
-    "title": "2026 Christmas Gift Box with Magnetic Closure Holiday Packaging",
-    "category": "magnetic-closure-boxes",
+    "title": "1-2-3 Bottom Rigid Gift Box with Magnetic Closure — Premium Gift Packaging",
+    "category": "rigid-gift-boxes",
     "moq": "500-1000",
-    "price": "0.10-5.00",
-    "material": "Greyboard 1200-1600gsm / N52 Neodymium Magnets / Art Paper 157gsm",
-    "slug": "2026-christmas-gift-box-with-magnetic-closure-holiday-packaging"
+    "price": "1.20-3.80",
+    "material": "Greyboard 2.0mm / 157gsm Art Paper Wrap / N42 Magnets",
+    "slug": "one-two-three-bottom-rigid-gift-box-magnetic-premium"
+  },
+  {
+    "title": "100% PCR Kraft Telescopic-Lid Eco Candle & Home Fragrance Box",
+    "category": "kraft-eco-boxes",
+    "moq": "1000-3000",
+    "price": "0.60-2.50",
+    "material": "100% PCR Kraft Paperboard 300–400gsm / Soy-Based Inks / Water-Based Adhesive / FSC Recycled",
+    "slug": "pcr-kraft-telescopic-lid-eco-candle-box"
   },
   {
     "title": "2-Tier Drawer-Slide Velvet Jewelry Display Box with Lock and Key",
@@ -14,6 +22,30 @@
     "price": "5.00-18.00",
     "material": "Greyboard 1200-1800gsm / PU Leatherette or Velvet Paper Wrap / Full Velvet Flocking Interior / Antique Brass Lock & Key Hardware / Ball-Bearing Drawer Slides / Satin Lining",
     "slug": "2tier-drawer-slide-velvet-jewelry-display-box-lock-key"
+  },
+  {
+    "title": "2026 Christmas Gift Box with Magnetic Closure Holiday Packaging",
+    "category": "magnetic-closure-boxes",
+    "moq": "500-1000",
+    "price": "0.10-5.00",
+    "material": "Greyboard 1200-1600gsm / N52 Neodymium Magnets / Art Paper 157gsm",
+    "slug": "2026-christmas-gift-box-with-magnetic-closure-holiday-packaging"
+  },
+  {
+    "title": "3-Tier Velvet Jewelry Display Box with LED Mirror Lid — Necklace, Earring & Ring Set",
+    "category": "jewelry-boxes",
+    "moq": "500",
+    "price": "3.50-12.80",
+    "material": "Greyboard 1600gsm / Velvet Flocking / N48 Magnets / LED Strip / Mirror Glass",
+    "slug": "jewelry-3-tier-velvet-display-box-led-mirror-lid-necklace-earring-ring"
+  },
+  {
+    "title": "360° Rotating Velvet Ring Display Box with LED Spotlight — Custom Logo",
+    "category": "jewelry-boxes",
+    "moq": "500-1000",
+    "price": "2.50-6.00",
+    "material": "Greyboard 1.5mm / Electrostatic Velvet / LED Module / N35 Magnets",
+    "slug": "velvet-ring-display-box-rotating-platform-360-degree-jewelry-showcase"
   },
   {
     "title": "Art Pattern Square Paper Gift Box for Premium Packaging",
@@ -96,20 +128,36 @@
     "slug": "black-magnetic-rigid-box-for-electronics-premium-packaging"
   },
   {
-    "title": "Book-Style Magnetic Flap Rigid Box for Premium Gifts",
-    "category": "rigid-gift-boxes",
-    "moq": "500-1000",
-    "price": "2.50-7.00",
-    "material": "Greyboard 1200-1600gsm / Art Paper 157gsm / Neodymium Magnet / Book Cloth Spine",
-    "slug": "book-style-magnetic-flap-rigid-box-premium-gifts"
-  },
-  {
     "title": "Book Style Rigid Gift Box with Magnetic Flap Custom Print",
     "category": "rigid-gift-boxes",
     "moq": "500-1000",
     "price": "0.25-3.00",
     "material": "Greyboard 1200-1600gsm / Art Paper 157gsm / Velvet Flocking / Hot Foil",
     "slug": "book-style-rigid-gift-box-with-magnetic-flap-custom-print"
+  },
+  {
+    "title": "Book-Style Magnetic Closure Corporate Presentation Kit — Satin Ribbon, Custom Foam Insert, Gold Foil",
+    "category": "magnetic-closure-boxes",
+    "moq": "500-1000",
+    "price": "2.50-6.00",
+    "material": "2.5mm greyboard + 157gsm art paper wrap, N52 magnets, satin ribbon, EVA foam",
+    "slug": "magnetic-closure-book-style-corporate-presentation-kit-foam-insert-gold-foil"
+  },
+  {
+    "title": "Book-Style Magnetic Closure Photography Portfolio Box with Archival Acid-Free Linen Wrap",
+    "category": "magnetic-closure-boxes",
+    "moq": "300-500",
+    "price": "5.50-15.00",
+    "material": "3.0mm Archival Greyboard / Acid-Free Linen / N52 Magnet / pH-Neutral Adhesive / Alkaline Buffer",
+    "slug": "magnetic-closure-photography-portfolio-box-archival-acid-free-linen-wrap"
+  },
+  {
+    "title": "Book-Style Magnetic Flap Rigid Box for Premium Gifts",
+    "category": "rigid-gift-boxes",
+    "moq": "500-1000",
+    "price": "2.50-7.00",
+    "material": "Greyboard 1200-1600gsm / Art Paper 157gsm / Neodymium Magnet / Book Cloth Spine",
+    "slug": "book-style-magnetic-flap-rigid-box-premium-gifts"
   },
   {
     "title": "Brown Kraft Paper Folding Box with Jute Handle Eco Retail Packaging",
@@ -136,14 +184,6 @@
     "slug": "christmas-3d-popup-gift-box-led-magnetic-closure"
   },
   {
-    "title": "Christmas Advent Calendar Rigid Box with 24 Die-Cut Windows and Foil Accents — Holiday Gift Packaging",
-    "category": "christmas-gift-boxes",
-    "moq": "500-1000",
-    "price": "3.50-7.00",
-    "material": "157gsm C1S art paper over 2.5mm greyboard, PET window film, N52 neodymium magnets, gold foil stamp",
-    "slug": "christmas-advent-calendar-box-24-window-foil"
-  },
-  {
     "title": "Christmas Advent Calendar Gift Box 12-Drawer Chocolate Candy Countdown Magnetic Closure",
     "category": "christmas-gift-boxes",
     "moq": "500-1000",
@@ -160,6 +200,22 @@
     "slug": "christmas-advent-calendar-gift-box-24-drawer-chocolate-candy"
   },
   {
+    "title": "Christmas Advent Calendar Rigid Box with 24 Die-Cut Windows and Foil Accents — Holiday Gift Packaging",
+    "category": "christmas-gift-boxes",
+    "moq": "500-1000",
+    "price": "3.50-7.00",
+    "material": "157gsm C1S art paper over 2.5mm greyboard, PET window film, N52 neodymium magnets, gold foil stamp",
+    "slug": "christmas-advent-calendar-box-24-window-foil"
+  },
+  {
+    "title": "Christmas Gift Box Snowflake Hot Foil Magnetic Closure Luxury Holiday",
+    "category": "christmas-gift-boxes",
+    "moq": "500",
+    "price": "2.80-14.00",
+    "material": "Greyboard 1200-1600gsm / Art Paper 157-200gsm / Hot Foil / N52 Neodymium Magnets / Velvet Lining",
+    "slug": "christmas-gift-box-snowflake-hot-foil-magnetic-closure-luxury-holiday"
+  },
+  {
     "title": "Christmas Gift Box — Die-Cut Window LED Light Holiday Gift Packaging",
     "category": "christmas-gift-boxes",
     "moq": "500-1000",
@@ -174,14 +230,6 @@
     "price": "1.80-4.50",
     "material": "2.5mm greyboard + 157g C2S art paper wrap, velvet flocking interior (0.8mm), N52 neodymium magnets",
     "slug": "christmas-gift-box-snowflake-embossed-magnetic-closure-velvet-interior"
-  },
-  {
-    "title": "Christmas Gift Box Snowflake Hot Foil Magnetic Closure Luxury Holiday",
-    "category": "christmas-gift-boxes",
-    "moq": "500",
-    "price": "2.80-14.00",
-    "material": "Greyboard 1200-1600gsm / Art Paper 157-200gsm / Hot Foil / N52 Neodymium Magnets / Velvet Lining",
-    "slug": "christmas-gift-box-snowflake-hot-foil-magnetic-closure-luxury-holiday"
   },
   {
     "title": "Christmas Snowflake Embossed Magnetic Gift Box with Satin Ribbon — Luxury Holiday Packaging",
@@ -256,6 +304,14 @@
     "slug": "corrugated-book-mailer-self-seal-adhesive-durable-shipping-packaging"
   },
   {
+    "title": "Corrugated Book Wrap Mailer — Self-Sealing E-Commerce Shipping Box",
+    "category": "corrugated-mailers",
+    "moq": "1000",
+    "price": "0.35-0.80",
+    "material": "B-Flute Corrugated / Kraft Liner / Self-Seal Adhesive",
+    "slug": "corrugated-mailer-book-wrap-shipper"
+  },
+  {
     "title": "Corrugated Bottle Shipper with Die-Cut Foam Insert Wine Spirit Packaging",
     "category": "corrugated-mailers",
     "moq": "500-1000",
@@ -270,6 +326,14 @@
     "price": "0.35-1.20",
     "material": "B-flute or E-flute double-wall corrugated, 200-300gsm kraft/white top liner, water-based flexo inks",
     "slug": "corrugated-cosmetic-subscription-box-cmyk-flexo-tear-strip-self-locking-bottom"
+  },
+  {
+    "title": "Corrugated E-Commerce Shipping Mailer with Tear Strip for Apparel & Soft Goods",
+    "category": "corrugated-mailers",
+    "moq": "500-1000",
+    "price": "0.18-0.65",
+    "material": "B-Flute Single-Wall Kraft / White-Top Kraft Corrugated",
+    "slug": "corrugated-shipping-mailer-tear-strip-ecommerce-apparel"
   },
   {
     "title": "Corrugated E-Commerce Subscription Box — Tear Strip, Custom Full-Color Print",
@@ -344,14 +408,6 @@
     "slug": "corrugated-heavy-duty-die-cut-parts-shipper-foam-partition-pallet"
   },
   {
-    "title": "Double-Wall Corrugated Furniture Box — Heavy-Duty Pallet Shipper for International Export",
-    "category": "corrugated-mailers",
-    "moq": "500-1000",
-    "price": "1.50-4.50",
-    "material": "Double-wall BC/EB flute Kraft (outer liner 200gsm test liner, medium 140gsm semi-chemical, inner liner 170gsm)",
-    "slug": "corrugated-heavy-duty-double-wall-furniture-shipper-pallet-base"
-  },
-  {
     "title": "Corrugated Heavy-Duty E-Commerce Shipping Box — Double-Wall — Tear Strip — Bincai Industrial Packaging",
     "category": "corrugated-mailers",
     "moq": "1000",
@@ -408,22 +464,6 @@
     "slug": "corrugated-literature-mailer-self-seal-book-catalog"
   },
   {
-    "title": "Corrugated Book Wrap Mailer — Self-Sealing E-Commerce Shipping Box",
-    "category": "corrugated-mailers",
-    "moq": "1000",
-    "price": "0.35-0.80",
-    "material": "B-Flute Corrugated / Kraft Liner / Self-Seal Adhesive",
-    "slug": "corrugated-mailer-book-wrap-shipper"
-  },
-  {
-    "title": "Custom Corrugated Mailer Box with Integrated Bubble Lining for Glassware Shipping",
-    "category": "corrugated-mailers",
-    "moq": "500-1000",
-    "price": "0.80-4.50",
-    "material": "Corrugated Board / Bubble Film / Kraft",
-    "slug": "corrugated-mailer-bubble-lining-glassware-shipping"
-  },
-  {
     "title": "Corrugated Multi-Depth Shipping Box with Tear Strip for Subscription Fulfillment",
     "category": "corrugated-mailers",
     "moq": "1000",
@@ -440,22 +480,6 @@
     "slug": "corrugated-pizza-box-custom-printed-food-delivery-packaging"
   },
   {
-    "title": "Corrugated E-Commerce Shipping Mailer with Tear Strip for Apparel & Soft Goods",
-    "category": "corrugated-mailers",
-    "moq": "500-1000",
-    "price": "0.18-0.65",
-    "material": "B-Flute Single-Wall Kraft / White-Top Kraft Corrugated",
-    "slug": "corrugated-shipping-mailer-tear-strip-ecommerce-apparel"
-  },
-  {
-    "title": "Custom Printed Corrugated Subscription Box — Full-Color Wrap with Tear Strip & Self-Locking Base",
-    "category": "corrugated-mailers",
-    "moq": "1000-3000",
-    "price": "0.85-2.80",
-    "material": "Single-Wall B-Flute Corrugated / 150gsm Kraft Liner / Litho-Laminated Art Paper Wrap / Tear Strip / Self-Locking Base",
-    "slug": "corrugated-subscription-box-full-color-wrap-tear-strip-self-locking"
-  },
-  {
     "title": "Corrugated Subscription Box — Tear Strip + Full-Color Flexo for E-Commerce Monthly Kits",
     "category": "corrugated-mailers",
     "moq": "500-1000",
@@ -470,14 +494,6 @@
     "price": "0.60-2.20",
     "material": "B-Flute Single-Wall / B/C-Flute Double-Wall Corrugated + PE Foam Insert",
     "slug": "corrugated-tablet-ipad-mailer-die-cut-foam-cradle-electronics-shipping"
-  },
-  {
-    "title": "Thermal-Lined Corrugated Mailer Box for Cold Chain Pharmaceutical & Biotech Shipping",
-    "category": "corrugated-mailers",
-    "moq": "500",
-    "price": "2.50-9.80",
-    "material": "Double-Wall BC-Flute / Metallized PET Liner / Water-Resistant Adhesive",
-    "slug": "corrugated-thermal-mailer-cold-chain-pharmaceutical-biotech-shipping"
   },
   {
     "title": "Corrugated Triangle Tube Mailer for Posters and Artwork with Crush-Proof End Caps",
@@ -544,12 +560,12 @@
     "slug": "custom-corrugated-half-slotted-container-hsc-die-cut-partitions-glass-bottles"
   },
   {
-    "title": "Custom Corrugated Mailer with Tamper-Evident Security Seal — E-Commerce & Pharma Shipping",
+    "title": "Custom Corrugated Mailer Box with Integrated Bubble Lining for Glassware Shipping",
     "category": "corrugated-mailers",
     "moq": "500-1000",
-    "price": "0.35-2.80",
-    "material": "Corrugated / Kraft / E-Flute / B-Flute / Security Seal",
-    "slug": "custom-corrugated-mailer-security-seal-tamper-evident"
+    "price": "0.80-4.50",
+    "material": "Corrugated Board / Bubble Film / Kraft",
+    "slug": "corrugated-mailer-bubble-lining-glassware-shipping"
   },
   {
     "title": "Custom Corrugated Mailer with Self-Locking Bottom Tear Strip",
@@ -560,12 +576,12 @@
     "slug": "custom-corrugated-mailer-with-self-locking-bottom-tear-strip"
   },
   {
-    "title": "Custom Corrugated Subscription Box — Kraft Body + Full-Color CMYK Label with Tear Strip",
+    "title": "Custom Corrugated Mailer with Tamper-Evident Security Seal — E-Commerce & Pharma Shipping",
     "category": "corrugated-mailers",
-    "moq": "1000",
-    "price": "0.60-1.50",
-    "material": "B-Flute Corrugated / 125gsm Kraft Liner / Offset Litho Label",
-    "slug": "custom-corrugated-subscription-box-kraft-cmyk-label-tear-strip"
+    "moq": "500-1000",
+    "price": "0.35-2.80",
+    "material": "Corrugated / Kraft / E-Flute / B-Flute / Security Seal",
+    "slug": "custom-corrugated-mailer-security-seal-tamper-evident"
   },
   {
     "title": "Custom Corrugated Subscription Box Magnetic Closure Full-Color CMYK Premium E-Commerce",
@@ -574,6 +590,14 @@
     "price": "1.20-4.50",
     "material": "B-Flute Corrugated / 200gsm Kraft Liner / Full-Color Litho-Laminated Wrap / Hidden Neodymium Magnets / Tear-Strip",
     "slug": "custom-corrugated-subscription-box-magnetic-closure-full-color-cmyk-ecommerce"
+  },
+  {
+    "title": "Custom Corrugated Subscription Box — Kraft Body + Full-Color CMYK Label with Tear Strip",
+    "category": "corrugated-mailers",
+    "moq": "1000",
+    "price": "0.60-1.50",
+    "material": "B-Flute Corrugated / 125gsm Kraft Liner / Offset Litho Label",
+    "slug": "custom-corrugated-subscription-box-kraft-cmyk-label-tear-strip"
   },
   {
     "title": "Custom Die-Cut Handle Folding Carton with Hot Foil Stamping for Luxury Retail",
@@ -632,14 +656,6 @@
     "slug": "custom-folding-carton-box-cmyk-printing-retail"
   },
   {
-    "title": "Custom Folding Carton with Crush-Lock Bottom and Metallic Foil Logo — Bincai Premium Retail Packaging",
-    "category": "folding-cartons",
-    "moq": "500-1000",
-    "price": "0.35-1.80",
-    "material": "350gsm CCNB / 400gsm SBS Board / Hot Foil Stamping / Soft-Touch Matte Lamination / Die-Cut Crush-Lock Base",
-    "slug": "custom-folding-carton-crush-lock-bottom-metallic-foil-logo"
-  },
-  {
     "title": "Custom Folding Carton Die-Cut Handle Spot UV Retail Luxury Box",
     "category": "folding-cartons",
     "moq": "1000",
@@ -648,20 +664,12 @@
     "slug": "custom-folding-carton-die-cut-handle-spot-uv-retail-luxury"
   },
   {
-    "title": "Custom Folding Carton with Full-Flap Lid and Insert — Luxury Apparel Packaging",
+    "title": "Custom Folding Carton for Electronics Accessories — Die-Cut Insert + CMYK Print",
     "category": "folding-cartons",
-    "moq": "1000-2000",
-    "price": "0.35-1.20",
-    "material": "350gsm CCNB / 157gsm Art Paper Wrap / Soft-Touch Lamination",
-    "slug": "custom-folding-carton-full-flap-lid-insert-apparel"
-  },
-  {
-    "title": "Custom Folding Carton with Hot Foil Stamping for Organic Skincare",
-    "category": "folding-cartons",
-    "moq": "1000-2000",
-    "price": "0.30-1.20",
-    "material": "CCNB 400gsm / Soft-Touch Matte Lamination / Hot Foil Stamping / Soy-Based Ink / FSC Certified Board",
-    "slug": "custom-folding-carton-hot-foil-stamping-organic-skincare"
+    "moq": "1000-3000",
+    "price": "0.15-0.80",
+    "material": "Coated Duplex Board 300-450gsm / Greyboard Insert / Aqueous or UV Coating / PET Window Film",
+    "slug": "folding-carton-electronics-accessory-box-die-cut-insert-custom-print"
   },
   {
     "title": "Custom Folding Carton for Premium Tea Packaging with Window and Gold Foil",
@@ -688,12 +696,12 @@
     "slug": "custom-folding-carton-soft-touch-matte-lamination-cosmetic-box"
   },
   {
-    "title": "Custom Folding Carton with Window Cutout for Artisan Chocolate Display",
+    "title": "Custom Folding Carton with Crush-Lock Bottom and Metallic Foil Logo — Bincai Premium Retail Packaging",
     "category": "folding-cartons",
-    "moq": "1000",
-    "price": "0.25-0.80",
-    "material": "350gsm CCNB / PET Window Film / Matte Lamination",
-    "slug": "custom-folding-carton-window-cutout-artisan-chocolate-display"
+    "moq": "500-1000",
+    "price": "0.35-1.80",
+    "material": "350gsm CCNB / 400gsm SBS Board / Hot Foil Stamping / Soft-Touch Matte Lamination / Die-Cut Crush-Lock Base",
+    "slug": "custom-folding-carton-crush-lock-bottom-metallic-foil-logo"
   },
   {
     "title": "Custom Folding Carton with Euro Hang Tab Retail Display",
@@ -702,6 +710,38 @@
     "price": "0.15-0.80",
     "material": "350gsm CCNB / 400gsm White Kraft / SBS Board",
     "slug": "custom-folding-carton-with-euro-hang-tab-retail-display"
+  },
+  {
+    "title": "Custom Folding Carton with Full-Flap Lid and Insert — Luxury Apparel Packaging",
+    "category": "folding-cartons",
+    "moq": "1000-2000",
+    "price": "0.35-1.20",
+    "material": "350gsm CCNB / 157gsm Art Paper Wrap / Soft-Touch Lamination",
+    "slug": "custom-folding-carton-full-flap-lid-insert-apparel"
+  },
+  {
+    "title": "Custom Folding Carton with Hidden Magnetic Closure Luxury Cosmetics Packaging Soft-Touch",
+    "category": "folding-cartons",
+    "moq": "1000-3000",
+    "price": "0.30-2.50",
+    "material": "FSC SBS C1S/C2S 300-400gsm / Soft-Touch Lamination / Hidden N35 Magnets / Spot UV / Gold Foil",
+    "slug": "hidden-magnetic-closure-folding-carton-luxury-cosmetics-soft-touch"
+  },
+  {
+    "title": "Custom Folding Carton with Hot Foil Stamping for Organic Skincare",
+    "category": "folding-cartons",
+    "moq": "1000-2000",
+    "price": "0.30-1.20",
+    "material": "CCNB 400gsm / Soft-Touch Matte Lamination / Hot Foil Stamping / Soy-Based Ink / FSC Certified Board",
+    "slug": "custom-folding-carton-hot-foil-stamping-organic-skincare"
+  },
+  {
+    "title": "Custom Folding Carton with Window Cutout for Artisan Chocolate Display",
+    "category": "folding-cartons",
+    "moq": "1000",
+    "price": "0.25-0.80",
+    "material": "350gsm CCNB / PET Window Film / Matte Lamination",
+    "slug": "custom-folding-carton-window-cutout-artisan-chocolate-display"
   },
   {
     "title": "Custom Folding Paper Box with PVC Window Display Food Safe",
@@ -800,6 +840,14 @@
     "slug": "custom-kraft-paper-folding-box-sustainable-retail-packaging"
   },
   {
+    "title": "Custom Kraft Paper Pyramid Gift Box with Cotton Drawstring — Reusable Eco-Luxury Packaging",
+    "category": "kraft-eco-boxes",
+    "moq": "500-1000",
+    "price": "1.20-3.50",
+    "material": "350gsm Unbleached Kraft Board / 300gsm Recycled Kraft",
+    "slug": "kraft-paper-pyramid-eco-gift-box-cotton-drawstring-reusable-sustainable"
+  },
+  {
     "title": "Custom Kraft Paper Shopping Bag with Twisted Handles Retail",
     "category": "kraft-eco-boxes",
     "moq": "500-1000",
@@ -864,6 +912,14 @@
     "slug": "custom-magnetic-closure-fountain-pen-display-box-faux-leather-wrap"
   },
   {
+    "title": "Custom Magnetic Closure Humidor-Style Cigar Box with Spanish Cedar Lining and Digital Hygrometer",
+    "category": "magnetic-closure-boxes",
+    "moq": "500-1000",
+    "price": "8.00-25.00",
+    "material": "2.5mm Greyboard / Genuine Leatherette / Spanish Cedar / Silicone Gasket",
+    "slug": "custom-magnetic-closure-humidor-style-cigar-box-spanish-cedar-lining-digital-hygrometer"
+  },
+  {
     "title": "Custom Magnetic Closure Premium Fountain Pen Display Box with Satin Tray",
     "category": "magnetic-closure-boxes",
     "moq": "500-1000",
@@ -872,12 +928,20 @@
     "slug": "custom-magnetic-closure-fountain-pen-display-box-satin-tray-gold-foil"
   },
   {
-    "title": "Custom Magnetic Closure Humidor-Style Cigar Box with Spanish Cedar Lining and Digital Hygrometer",
+    "title": "Custom Magnetic Closure Presentation Box with Foam Tray for Corporate Pen Set",
     "category": "magnetic-closure-boxes",
     "moq": "500-1000",
-    "price": "8.00-25.00",
-    "material": "2.5mm Greyboard / Genuine Leatherette / Spanish Cedar / Silicone Gasket",
-    "slug": "custom-magnetic-closure-humidor-style-cigar-box-spanish-cedar-lining-digital-hygrometer"
+    "price": "2.00-9.00",
+    "material": "Greyboard 1200-1600gsm / N42-N52 Neodymium Magnets / Suede / Foam",
+    "slug": "magnetic-closure-presentation-box-foam-tray-corporate-pen-set"
+  },
+  {
+    "title": "Custom Magnetic Closure Sunglasses Gift Box — Velvet Liner with Flocked Insert",
+    "category": "magnetic-closure-boxes",
+    "moq": "500",
+    "price": "1.20-3.50",
+    "material": "157gsm C1S art paper over 2.5mm greyboard, N52 neodymium magnets, velvet liner, flocked PET insert",
+    "slug": "magnetic-closure-custom-sunglasses-gift-box-velvet-liner-flocked-insert"
   },
   {
     "title": "Custom Magnetic Closure Wine Bottle Gift Box",
@@ -966,6 +1030,14 @@
     "price": "0.25-1.80",
     "material": "E-Flute / B-Flute Corrugated / Kraft or White Top Liner / Tear Strip / Hot Melt Adhesive",
     "slug": "custom-printed-corrugated-shipping-mailer-box-tear-strip-ecommerce"
+  },
+  {
+    "title": "Custom Printed Corrugated Subscription Box — Full-Color Wrap with Tear Strip & Self-Locking Base",
+    "category": "corrugated-mailers",
+    "moq": "1000-3000",
+    "price": "0.85-2.80",
+    "material": "Single-Wall B-Flute Corrugated / 150gsm Kraft Liner / Litho-Laminated Art Paper Wrap / Tear Strip / Self-Locking Base",
+    "slug": "corrugated-subscription-box-full-color-wrap-tear-strip-self-locking"
   },
   {
     "title": "Custom Printed Durable Corrugated Box for Clothing and Gifts",
@@ -1064,6 +1136,14 @@
     "slug": "custom-rigid-gift-box-with-ribbon-gold-foil-embossing"
   },
   {
+    "title": "Custom Rigid Gift Box with Telescopic Lid Hot Foil Stamping — Bincai Premium Luxury Packaging",
+    "category": "rigid-gift-boxes",
+    "moq": "500-1000",
+    "price": "1.50-8.00",
+    "material": "Greyboard 1200-2000gsm / Art Paper 157gsm / N42-N52 Neodymium Magnets / Specialty Paper / Hot Foil",
+    "slug": "rigid-gift-box-telescopic-lid-hot-foil-premium"
+  },
+  {
     "title": "Custom Rigid Trunk-Style Gift Box with Metal Corners & Leather Handle",
     "category": "rigid-gift-boxes",
     "moq": "500-1000",
@@ -1088,6 +1168,14 @@
     "slug": "custom-shape-rigid-paper-box-with-die-cut-window-display"
   },
   {
+    "title": "Custom Sleeve-Style Folding Carton for Premium Chocolate Confectionery",
+    "category": "folding-cartons",
+    "moq": "1000-3000",
+    "price": "0.35-2.50",
+    "material": "SBS Board / Art Paper / Kraft",
+    "slug": "sleeve-style-folding-carton-premium-chocolate-confectionery"
+  },
+  {
     "title": "Custom Special Shape Paper Box Die-Cut Unique Design",
     "category": "rigid-gift-boxes",
     "moq": "500-1000",
@@ -1104,20 +1192,20 @@
     "slug": "custom-toy-packaging-box-with-window-display-corrugated"
   },
   {
-    "title": "Custom Tuck-Top Auto-Bottom Folding Carton with Gold Foil for Luxury Cosmetics",
-    "category": "folding-cartons",
-    "moq": "1000-3000",
-    "price": "0.10-0.80",
-    "material": "SBS C1S / C2S 250-400gsm / Gold Hot Foil / Soft-Touch Lamination / PET Window Optional",
-    "slug": "custom-tuck-top-auto-bottom-folding-carton-gold-foil-cosmetics"
-  },
-  {
     "title": "Custom Tuck Top Folding Carton CMYK Offset Printing",
     "category": "folding-cartons",
     "moq": "500-1000",
     "price": "0.25-3.00",
     "material": "Greyboard 300–450gsm / Art Paper 128–200gsm / Kraft Paper / SBS Board",
     "slug": "custom-tuck-top-folding-carton-cmyk-offset-printing"
+  },
+  {
+    "title": "Custom Tuck-Top Auto-Bottom Folding Carton with Gold Foil for Luxury Cosmetics",
+    "category": "folding-cartons",
+    "moq": "1000-3000",
+    "price": "0.10-0.80",
+    "material": "SBS C1S / C2S 250-400gsm / Gold Hot Foil / Soft-Touch Lamination / PET Window Optional",
+    "slug": "custom-tuck-top-auto-bottom-folding-carton-gold-foil-cosmetics"
   },
   {
     "title": "Custom Tuck-Top Folding Carton with Hot Foil Stamping Cosmetic Box",
@@ -1144,14 +1232,6 @@
     "slug": "custom-two-tier-telescopic-rigid-gift-box-magnetic-closure"
   },
   {
-    "title": "Custom Window Die-Cut Folding Carton for Luxury Chocolate Truffle Gift Box with Gold Foil",
-    "category": "folding-cartons",
-    "moq": "500-1000",
-    "price": "0.35-2.50",
-    "material": "SBS C1S 15-20pt / FBB 250-400gsm / PET Window Film / Food-Grade Inks",
-    "slug": "custom-window-die-cut-folding-carton-luxury-chocolate-truffle-gift-box-gold-foil"
-  },
-  {
     "title": "Custom Window Die-Cut Folding Carton for Bakery and Gourmet Confectionery Display",
     "category": "folding-cartons",
     "moq": "1000-3000",
@@ -1160,12 +1240,12 @@
     "slug": "custom-window-diecut-folding-carton-bakery-gourmet-confectionery-display"
   },
   {
-    "title": "Custom Window Folding Carton with Gold Foil Stamping Bakery Pastry Box",
+    "title": "Custom Window Die-Cut Folding Carton for Luxury Chocolate Truffle Gift Box with Gold Foil",
     "category": "folding-cartons",
-    "moq": "1000-3000",
-    "price": "0.08-0.40",
-    "material": "C1S/C2S Board 300-400gsm / PET Window 0.3mm / Gold Foil / Aqueous Coating",
-    "slug": "custom-window-folding-carton-gold-foil-bakery-pastry-box"
+    "moq": "500-1000",
+    "price": "0.35-2.50",
+    "material": "SBS C1S 15-20pt / FBB 250-400gsm / PET Window Film / Food-Grade Inks",
+    "slug": "custom-window-die-cut-folding-carton-luxury-chocolate-truffle-gift-box-gold-foil"
   },
   {
     "title": "Custom Window Folding Carton for Gourmet Bakery and Dessert Display",
@@ -1174,6 +1254,14 @@
     "price": "0.15-1.80",
     "material": "SBS 350-450gsm / PET or PLA Window Film / Food-Grade Aqueous Coating",
     "slug": "custom-window-folding-carton-gourmet-bakery-dessert-display"
+  },
+  {
+    "title": "Custom Window Folding Carton with Gold Foil Stamping Bakery Pastry Box",
+    "category": "folding-cartons",
+    "moq": "1000-3000",
+    "price": "0.08-0.40",
+    "material": "C1S/C2S Board 300-400gsm / PET Window 0.3mm / Gold Foil / Aqueous Coating",
+    "slug": "custom-window-folding-carton-gold-foil-bakery-pastry-box"
   },
   {
     "title": "Customizable Fuchsia Corrugated Mailer Boxes for Ecommerce Shipping",
@@ -1232,20 +1320,68 @@
     "slug": "dome-shaped-rigid-gift-box-clear-pvc-window-gold-foil"
   },
   {
-    "title": "Double-Door Rigid Gift Box with Pull-Out Drawer Luxury Packaging — Bincai Premium Presentation",
-    "category": "rigid-gift-boxes",
-    "moq": "500-1000",
-    "price": "3.50-12.00",
-    "material": "Greyboard 1200-1600gsm / Art Paper 157-200gsm / Neodymium Magnet N35 / Velvet Flocking 1.5mm / Nickel-Plated Piano Hinge",
-    "slug": "double-door-rigid-gift-box-with-pull-drawer"
-  },
-  {
     "title": "Double Door Rigid Gift Box with Satin Ribbon Magnetic Closure — Bincai Luxury Presentation Packaging",
     "category": "rigid-gift-boxes",
     "moq": "500-1000",
     "price": "0.25-3.00",
     "material": "Greyboard 800-1600gsm / N35-N52 Neodymium Magnets / Satin Ribbon / Art Paper 128-200gsm",
     "slug": "double-door-rigid-gift-box-with-satin-ribbon-magnetic-closure"
+  },
+  {
+    "title": "Double Layer Jewelry Gift Box with Drawer Rings Bracelet Storage",
+    "category": "jewelry-boxes",
+    "moq": "500-1000",
+    "price": "1.20-5.50",
+    "material": "Greyboard 1200-1600gsm / N42-N52 Neodymium Magnets / Velvet Lining",
+    "slug": "double-layer-jewelry-gift-box-with-drawer-rings-bracelet-storage"
+  },
+  {
+    "title": "Double Layer Velvet Necklace & Earring Display Box with LED Lighting",
+    "category": "jewelry-boxes",
+    "moq": "500-1000",
+    "price": "2.80-8.50",
+    "material": "Flocked Velvet / PU Leather Wrap / SBS 1200gsm / Gold Foil / Anti-Tarnish Lining",
+    "slug": "double-layer-velvet-necklace-earring-display-box-magnetic-closure-led-lighting"
+  },
+  {
+    "title": "Double Ring Box Velvet Interior LED Light Magnetic Closure Wedding Band Set",
+    "category": "jewelry-boxes",
+    "moq": "500-1000",
+    "price": "1.20-6.00",
+    "material": "Greyboard 1200-1500gsm / Electrostatic Velvet Flocking / N52 Neodymium Magnets / LED Module CR2032 / Art Paper Wrapping",
+    "slug": "double-ring-box-velvet-interior-led-light-magnetic-closure"
+  },
+  {
+    "title": "Double Wall Corrugated Shipping Mailer Heavy Duty Ecommerce Packaging",
+    "category": "corrugated-mailers",
+    "moq": "500-1000",
+    "price": "0.30-3.00",
+    "material": "BC-Flute Double-Wall Kraft Corrugated / Tear Strip / Self-Seal Adhesive",
+    "slug": "double-wall-corrugated-shipping-mailer-heavy-duty-ecommerce-packaging"
+  },
+  {
+    "title": "Double Wall Heavy Duty Corrugated Shipping Box Custom Size",
+    "category": "corrugated-mailers",
+    "moq": "500-1000",
+    "price": "0.25-3.00",
+    "material": "BC-Flute Corrugated / Kraft Liner / 200gsm Test Liner",
+    "slug": "double-wall-heavy-duty-corrugated-shipping-box-custom-size"
+  },
+  {
+    "title": "Double-Deck Velvet Earring Stud Display Box — Magnetic Lid with 24-Pair Tray — Bincai Premium Jewelry Retail Packaging",
+    "category": "jewelry-boxes",
+    "moq": "500",
+    "price": "2.50-5.00",
+    "material": "Greyboard 2.0mm / Velvet Flocking / Mirror Insert / Elastic Stud Straps",
+    "slug": "velvet-earring-stud-display-box-magnetic-double-deck"
+  },
+  {
+    "title": "Double-Door Rigid Gift Box with Pull-Out Drawer Luxury Packaging — Bincai Premium Presentation",
+    "category": "rigid-gift-boxes",
+    "moq": "500-1000",
+    "price": "3.50-12.00",
+    "material": "Greyboard 1200-1600gsm / Art Paper 157-200gsm / Neodymium Magnet N35 / Velvet Flocking 1.5mm / Nickel-Plated Piano Hinge",
+    "slug": "double-door-rigid-gift-box-with-pull-drawer"
   },
   {
     "title": "Double-Layer Bracelet & Bangle Display Box with Velvet Groove Insert",
@@ -1264,14 +1400,6 @@
     "slug": "double-layer-earring-necklace-gift-box-mirror-led-light-satin-interior"
   },
   {
-    "title": "Double Layer Jewelry Gift Box with Drawer Rings Bracelet Storage",
-    "category": "jewelry-boxes",
-    "moq": "500-1000",
-    "price": "1.20-5.50",
-    "material": "Greyboard 1200-1600gsm / N42-N52 Neodymium Magnets / Velvet Lining",
-    "slug": "double-layer-jewelry-gift-box-with-drawer-rings-bracelet-storage"
-  },
-  {
     "title": "Double-Layer Slide-Out Velvet Necklace Display Box with Magnetic Closure",
     "category": "jewelry-boxes",
     "moq": "500-1000",
@@ -1286,22 +1414,6 @@
     "price": "0.30-3.50",
     "material": "Greyboard 1200gsm / Flocked Velvet / N42 Magnets / Soft-Touch Laminate",
     "slug": "double-layer-velvet-jewelry-box-magnetic-flap-ring-earring-display"
-  },
-  {
-    "title": "Double Layer Velvet Necklace & Earring Display Box with LED Lighting",
-    "category": "jewelry-boxes",
-    "moq": "500-1000",
-    "price": "2.80-8.50",
-    "material": "Flocked Velvet / PU Leather Wrap / SBS 1200gsm / Gold Foil / Anti-Tarnish Lining",
-    "slug": "double-layer-velvet-necklace-earring-display-box-magnetic-closure-led-lighting"
-  },
-  {
-    "title": "Double Ring Box Velvet Interior LED Light Magnetic Closure Wedding Band Set",
-    "category": "jewelry-boxes",
-    "moq": "500-1000",
-    "price": "1.20-6.00",
-    "material": "Greyboard 1200-1500gsm / Electrostatic Velvet Flocking / N52 Neodymium Magnets / LED Module CR2032 / Art Paper Wrapping",
-    "slug": "double-ring-box-velvet-interior-led-light-magnetic-closure"
   },
   {
     "title": "Double-Wall Corrugated Champagne Shipper with Die-Cut Foam Cradle 6-Bottle Export",
@@ -1336,12 +1448,20 @@
     "slug": "double-wall-corrugated-export-pallet-box-industrial-machinery"
   },
   {
-    "title": "Double-Wall Corrugated Heavy-Duty Fine China Dinnerware Shipper with Honeycomb Cell Divider",
+    "title": "Double-Wall Corrugated Furniture Box — Heavy-Duty Pallet Shipper for International Export",
     "category": "corrugated-mailers",
-    "moq": "500-1,000",
-    "price": "2.00-6.50",
-    "material": "BC/BE/AB Flute Double-Wall Corrugated / Kraft or White Top Liner / Honeycomb Cell Divider",
-    "slug": "double-wall-corrugated-fine-china-dinnerware-shipper-honeycomb-cell-divider"
+    "moq": "500-1000",
+    "price": "1.50-4.50",
+    "material": "Double-wall BC/EB flute Kraft (outer liner 200gsm test liner, medium 140gsm semi-chemical, inner liner 170gsm)",
+    "slug": "corrugated-heavy-duty-double-wall-furniture-shipper-pallet-base"
+  },
+  {
+    "title": "Double-Wall Corrugated Heavy-Duty E-Commerce Shipping Mailer",
+    "category": "corrugated-mailers",
+    "moq": "1000-3000",
+    "price": "0.35-1.80",
+    "material": "BC-Flute Double-Wall Corrugated (Kraft 125gsm × 5 plies) / ECT 44 / Self-Locking Bottom",
+    "slug": "double-wall-corrugated-heavy-duty-shipping-mailer"
   },
   {
     "title": "Double-Wall Corrugated Heavy-Duty Electronics Flat-Screen TV Shipping Box",
@@ -1352,20 +1472,20 @@
     "slug": "double-wall-corrugated-heavy-duty-electronics-tv-box"
   },
   {
+    "title": "Double-Wall Corrugated Heavy-Duty Fine China Dinnerware Shipper with Honeycomb Cell Divider",
+    "category": "corrugated-mailers",
+    "moq": "500-1,000",
+    "price": "2.00-6.50",
+    "material": "BC/BE/AB Flute Double-Wall Corrugated / Kraft or White Top Liner / Honeycomb Cell Divider",
+    "slug": "double-wall-corrugated-fine-china-dinnerware-shipper-honeycomb-cell-divider"
+  },
+  {
     "title": "Double-Wall Corrugated Heavy-Duty Industrial Parts Shipper — Custom Foam Partitions, Pallet-Ready",
     "category": "corrugated-mailers",
     "moq": "500-1000",
     "price": "1.50-5.00",
     "material": "BC-flute double-wall corrugated (7mm), EPE foam partitions",
     "slug": "double-wall-corrugated-heavy-duty-industrial-parts-shipper-foam-partitions-export"
-  },
-  {
-    "title": "Double-Wall Corrugated Heavy-Duty E-Commerce Shipping Mailer",
-    "category": "corrugated-mailers",
-    "moq": "1000-3000",
-    "price": "0.35-1.80",
-    "material": "BC-Flute Double-Wall Corrugated (Kraft 125gsm × 5 plies) / ECT 44 / Self-Locking Bottom",
-    "slug": "double-wall-corrugated-heavy-duty-shipping-mailer"
   },
   {
     "title": "Double-Wall Corrugated Mailer Box with Self-Sealing Strip for E-Commerce",
@@ -1406,14 +1526,6 @@
     "price": "1.80-4.50",
     "material": "BC-Flute Corrugated / EPE Foam Insert / Kraft Liner",
     "slug": "double-wall-corrugated-wine-shipping-box-foam-insert-2-bottle"
-  },
-  {
-    "title": "Double Wall Heavy Duty Corrugated Shipping Box Custom Size",
-    "category": "corrugated-mailers",
-    "moq": "500-1000",
-    "price": "0.25-3.00",
-    "material": "BC-Flute Corrugated / Kraft Liner / 200gsm Test Liner",
-    "slug": "double-wall-heavy-duty-corrugated-shipping-box-custom-size"
   },
   {
     "title": "Double-Wall Heavy-Duty Corrugated Shipping Box — Glassware & Fragile Items",
@@ -1464,6 +1576,22 @@
     "slug": "earring-gift-box-with-satin-lining-gold-foil-hot-stamping"
   },
   {
+    "title": "Eco Kraft Folding Carton with Soy-Based Ink Sustainable",
+    "category": "folding-cartons",
+    "moq": "500-1000",
+    "price": "0.15-1.20",
+    "material": "FSC Kraft Paper 250–400gsm / Soy-Based Ink / Water-Based Coating",
+    "slug": "eco-kraft-folding-carton-with-soy-based-ink-sustainable"
+  },
+  {
+    "title": "Eco Kraft Paper Rigid Box with Embossing Soy-Based Ink",
+    "category": "kraft-eco-boxes",
+    "moq": "500-1000",
+    "price": "0.25-3.00",
+    "material": "FSC Kraft Paper (128-200gsm) / Recycled Greyboard (800-2000gsm) / Soy-Based Ink / Cotton or Jute Ribbon",
+    "slug": "eco-kraft-paper-rigid-box-with-embossing-soy-based-ink"
+  },
+  {
     "title": "Eco-Friendly Corrugated Shipping Box Custom Print",
     "category": "corrugated-mailers",
     "moq": "500-1000",
@@ -1504,22 +1632,6 @@
     "slug": "eco-friendly-paper-slide-box-for-chocolate-candy-cosmetic"
   },
   {
-    "title": "Eco Kraft Folding Carton with Soy-Based Ink Sustainable",
-    "category": "folding-cartons",
-    "moq": "500-1000",
-    "price": "0.15-1.20",
-    "material": "FSC Kraft Paper 250–400gsm / Soy-Based Ink / Water-Based Coating",
-    "slug": "eco-kraft-folding-carton-with-soy-based-ink-sustainable"
-  },
-  {
-    "title": "Eco Kraft Paper Rigid Box with Embossing Soy-Based Ink",
-    "category": "kraft-eco-boxes",
-    "moq": "500-1000",
-    "price": "0.25-3.00",
-    "material": "FSC Kraft Paper (128-200gsm) / Recycled Greyboard (800-2000gsm) / Soy-Based Ink / Cotton or Jute Ribbon",
-    "slug": "eco-kraft-paper-rigid-box-with-embossing-soy-based-ink"
-  },
-  {
     "title": "Elegant Wedding Favor Two-Tier Rigid Gift Box with Satin Ribbon and Gold Foil",
     "category": "rigid-gift-boxes",
     "moq": "500",
@@ -1552,20 +1664,20 @@
     "slug": "flip-top-magnetic-closure-box-eva-foam-insert-electronics"
   },
   {
+    "title": "Flocked Necklace Presentation Box — Magnetic Flap Closure with Custom Logo Hot Stamping",
+    "category": "jewelry-boxes",
+    "moq": "500-1000",
+    "price": "1.80-4.50",
+    "material": "2.0mm greyboard with flocked paper wrap, N48 magnetic flap, velvet necklace insert with clasp channel",
+    "slug": "jewelry-necklace-presentation-box-flocked-insert-magnetic-flap"
+  },
+  {
     "title": "Folding Carton Auto-Bottom Premium Tea Sachet Box with Compostable Window and Gold Foil",
     "category": "folding-cartons",
     "moq": "1,000-3,000",
     "price": "0.35-1.20",
     "material": "350-450gsm CCNB/SBS Board / PLA Compostable Window Film / Soy-Based Ink",
     "slug": "folding-carton-auto-bottom-tea-sachet-box-compostable-pla-window-gold-foil"
-  },
-  {
-    "title": "Folding Carton with Built-in Product Stand for Retail Counter POP Display",
-    "category": "folding-cartons",
-    "moq": "1000-3000",
-    "price": "0.80-3.00",
-    "material": "SBS C1S/C2S 300-450gsm / Kraft Back or White Back / Crease-and-Fold Structure / Water-Based Adhesive / Optional Anti-Slip Coating on Base",
-    "slug": "folding-carton-built-in-product-stand-retail-counter-pop-display"
   },
   {
     "title": "Folding Carton Crush-Lock Bottom — Premium Pet Food & Treat Pouch Packaging",
@@ -1584,14 +1696,6 @@
     "slug": "folding-carton-curved-pillow-box-luxury-confectionery-candle-packaging"
   },
   {
-    "title": "Folding Carton with Die-Cut Blister Tray — Custom Pharma & Supplement Retail Packaging",
-    "category": "folding-cartons",
-    "moq": "2000-5000",
-    "price": "0.25-1.50",
-    "material": "SBS Board 300-400gsm / PVC- or PET-Blister Tray / Aqueous Coating / Optional Tamper-Evident Seal",
-    "slug": "folding-carton-die-cut-custom-blister-packaging-pharma-supplement-retail"
-  },
-  {
     "title": "Folding Carton Die-Cut Display Tray — Retail Counter Packaging",
     "category": "folding-cartons",
     "moq": "1000",
@@ -1600,52 +1704,12 @@
     "slug": "folding-carton-die-cut-display-tray"
   },
   {
-    "title": "Custom Folding Carton for Electronics Accessories — Die-Cut Insert + CMYK Print",
-    "category": "folding-cartons",
-    "moq": "1000-3000",
-    "price": "0.15-0.80",
-    "material": "Coated Duplex Board 300-450gsm / Greyboard Insert / Aqueous or UV Coating / PET Window Film",
-    "slug": "folding-carton-electronics-accessory-box-die-cut-insert-custom-print"
-  },
-  {
-    "title": "Folding Carton with Gold Foil Border Luxury Cosmetic Gift Box",
-    "category": "folding-cartons",
-    "moq": "500-1000",
-    "price": "0.30-1.80",
-    "material": "SBS Board 300–400gsm / Art Paper 350gsm / Gold Foil 12μm / Soft-Touch Coating",
-    "slug": "folding-carton-gold-foil-border-luxury-cosmetic"
-  },
-  {
-    "title": "Folding Carton with Gold Foil Window Cosmetic Cream Jar Packaging",
-    "category": "folding-cartons",
-    "moq": "500-1000",
-    "price": "0.08-2.50",
-    "material": "SBS C1S 350gsm / Gold Foil / PET Window Film / Aqueous Coating",
-    "slug": "folding-carton-gold-foil-window-cosmetic-cream-jar-packaging"
-  },
-  {
-    "title": "Folding Carton with Tamper-Evident Tear Strip — Pharmaceutical Blister Pack Outer Box",
-    "category": "folding-cartons",
-    "moq": "1000-3000",
-    "price": "0.15-0.45",
-    "material": "350-450gsm SBS / CCNB / Tamper-Evident Tear Strip / Braille Embossing / Child-Resistant Lock / UV Varnish / FSC Certified / ISO 15378 GMP / ISO 9001",
-    "slug": "folding-carton-pharma-blister-pack-tamper-evident-tear-strip"
-  },
-  {
     "title": "Folding Carton Pillow Box with Curved Design for Luxury Gifts",
     "category": "folding-cartons",
     "moq": "500-1000",
     "price": "0.35-1.80",
     "material": "C1S Art Board 300-400gsm / Gold Foil / Soft-Touch Matte Lamination",
     "slug": "folding-carton-pillow-box-curved-design-luxury-gift"
-  },
-  {
-    "title": "Reverse-Tuck Folding Carton for Gourmet Chocolate Bar with Hot-Stamp Foil Window",
-    "category": "folding-cartons",
-    "moq": "1000",
-    "price": "0.25-0.85",
-    "material": "SBS (Solid Bleached Sulfate) 300-400gsm + Food-Grade PET Window Film + Hot-Stamp Foil",
-    "slug": "folding-carton-reverse-tuck-gourmet-chocolate-bar-hot-stamp-foil-window"
   },
   {
     "title": "Folding Carton Sleeve & Tray Combo for Candle & Soap Gift Sets",
@@ -1680,28 +1744,12 @@
     "slug": "folding-carton-sleeve-wrap-luxury-chocolate-bar-foil-stamped-window-display"
   },
   {
-    "title": "Straight-Tuck End Folding Carton with Soft-Touch Lamination — Luxury Cosmetics Packaging, Gold Foil Logo",
-    "category": "folding-cartons",
-    "moq": "1000-3000",
-    "price": "0.35-0.95",
-    "material": "350gsm C1S SBS board + soft-touch lamination, gold foil",
-    "slug": "folding-carton-straight-tuck-end-soft-touch-lamination-cosmetics-gold-foil-logo"
-  },
-  {
     "title": "Folding Carton Tuck Top Auto-Bottom for Snack Food Packaging",
     "category": "folding-cartons",
     "moq": "1000-3000",
     "price": "0.08-0.45",
     "material": "Art Paper / Kraft / SBS Board",
     "slug": "folding-carton-tuck-top-auto-bottom-snack-food-packaging-box"
-  },
-  {
-    "title": "Folding Carton with Tuck-Top and Auto-Lock Bottom for Confectionery Packaging",
-    "category": "folding-cartons",
-    "moq": "1000",
-    "price": "1.20-4.50",
-    "material": "350gsm C1S SBS Board / Soft-Touch Lamination / PET/PLA Window / Gold Foil / Water-Based Adhesive / Food-Safe Ink",
-    "slug": "folding-carton-tuck-top-auto-lock-bottom-confectionery"
   },
   {
     "title": "Folding Carton Tuck-Top Snap-Lock Bottom — Luxury Dried Fruit & Nut Gift Packaging with Gold Foil Stamping",
@@ -1712,12 +1760,60 @@
     "slug": "folding-carton-tuck-top-snap-lock-bottom-luxury-dried-fruit-nut-gift-packaging"
   },
   {
+    "title": "Folding Carton with Built-in Product Stand for Retail Counter POP Display",
+    "category": "folding-cartons",
+    "moq": "1000-3000",
+    "price": "0.80-3.00",
+    "material": "SBS C1S/C2S 300-450gsm / Kraft Back or White Back / Crease-and-Fold Structure / Water-Based Adhesive / Optional Anti-Slip Coating on Base",
+    "slug": "folding-carton-built-in-product-stand-retail-counter-pop-display"
+  },
+  {
+    "title": "Folding Carton with Die-Cut Blister Tray — Custom Pharma & Supplement Retail Packaging",
+    "category": "folding-cartons",
+    "moq": "2000-5000",
+    "price": "0.25-1.50",
+    "material": "SBS Board 300-400gsm / PVC- or PET-Blister Tray / Aqueous Coating / Optional Tamper-Evident Seal",
+    "slug": "folding-carton-die-cut-custom-blister-packaging-pharma-supplement-retail"
+  },
+  {
+    "title": "Folding Carton with Gold Foil Border Luxury Cosmetic Gift Box",
+    "category": "folding-cartons",
+    "moq": "500-1000",
+    "price": "0.30-1.80",
+    "material": "SBS Board 300–400gsm / Art Paper 350gsm / Gold Foil 12μm / Soft-Touch Coating",
+    "slug": "folding-carton-gold-foil-border-luxury-cosmetic"
+  },
+  {
+    "title": "Folding Carton with Gold Foil Window Cosmetic Cream Jar Packaging",
+    "category": "folding-cartons",
+    "moq": "500-1000",
+    "price": "0.08-2.50",
+    "material": "SBS C1S 350gsm / Gold Foil / PET Window Film / Aqueous Coating",
+    "slug": "folding-carton-gold-foil-window-cosmetic-cream-jar-packaging"
+  },
+  {
     "title": "Folding Carton with Insert Tray for Tea Coffee Packaging",
     "category": "folding-cartons",
     "moq": "500-1000",
     "price": "0.25-3.00",
     "material": "SBS C1S 18pt / CCNB / Art Paper 250-450gsm / Food-Safe Aqueous Coating",
     "slug": "folding-carton-with-insert-tray-for-tea-coffee-packaging"
+  },
+  {
+    "title": "Folding Carton with Tamper-Evident Tear Strip — Pharmaceutical Blister Pack Outer Box",
+    "category": "folding-cartons",
+    "moq": "1000-3000",
+    "price": "0.15-0.45",
+    "material": "350-450gsm SBS / CCNB / Tamper-Evident Tear Strip / Braille Embossing / Child-Resistant Lock / UV Varnish / FSC Certified / ISO 15378 GMP / ISO 9001",
+    "slug": "folding-carton-pharma-blister-pack-tamper-evident-tear-strip"
+  },
+  {
+    "title": "Folding Carton with Tuck-Top and Auto-Lock Bottom for Confectionery Packaging",
+    "category": "folding-cartons",
+    "moq": "1000",
+    "price": "1.20-4.50",
+    "material": "350gsm C1S SBS Board / Soft-Touch Lamination / PET/PLA Window / Gold Foil / Water-Based Adhesive / Food-Safe Ink",
+    "slug": "folding-carton-tuck-top-auto-lock-bottom-confectionery"
   },
   {
     "title": "FSC Certified Kraft Paper Box with Custom Stamp Logo Natural Look",
@@ -1734,6 +1830,14 @@
     "price": "0.20-1.50",
     "material": "FSC Kraft Paper 250–400gsm / PET Window / Soy-Based Ink",
     "slug": "fsc-certified-kraft-paper-box-with-window-food-packaging"
+  },
+  {
+    "title": "FSC Certified Kraft Paper Drawer Box — Bamboo Pull Handle & Soy-Based Ink Printing",
+    "category": "kraft-eco-boxes",
+    "moq": "500-2000",
+    "price": "1.60-4.50",
+    "material": "FSC Certified Kraft Paperboard 350gsm / Natural Bamboo Pull Handle / Cotton Drawstring / Soy-Based Ink / Water-Based Adhesive",
+    "slug": "fsc-kraft-paper-drawer-box-bamboo-pull-handle-soy-ink-eco"
   },
   {
     "title": "FSC Certified Kraft Paper Gift Box with Custom Logo Print",
@@ -1768,12 +1872,12 @@
     "slug": "fsc-kraft-hinged-lid-box-compostable-window-food"
   },
   {
-    "title": "FSC Certified Kraft Paper Drawer Box — Bamboo Pull Handle & Soy-Based Ink Printing",
+    "title": "FSC-Certified Kraft Paper Gift Box — Seed-Embedded Hang Tag, Soy-Based Ink, Jute Handle",
     "category": "kraft-eco-boxes",
-    "moq": "500-2000",
-    "price": "1.60-4.50",
-    "material": "FSC Certified Kraft Paperboard 350gsm / Natural Bamboo Pull Handle / Cotton Drawstring / Soy-Based Ink / Water-Based Adhesive",
-    "slug": "fsc-kraft-paper-drawer-box-bamboo-pull-handle-soy-ink-eco"
+    "moq": "500-1000",
+    "price": "0.80-2.50",
+    "material": "350gsm recycled kraft board, soy-based ink, jute twine, seed paper tag",
+    "slug": "kraft-paper-eco-gift-box-seed-hang-tag-soy-ink-jute-handle-fsc"
   },
   {
     "title": "Full-Overlap Corrugated Mailer for Heavy-Duty Industrial Parts Shipping",
@@ -1798,6 +1902,14 @@
     "price": "0.20-0.80",
     "material": "Food-Grade SBS C1S/C2S 250-400gsm / PE Barrier Coating / PLA Compostable Coating / Water-Based Adhesive / Optional Window PET 0.3mm",
     "slug": "gable-top-folding-carton-gourmet-food-takeaway"
+  },
+  {
+    "title": "Heavy Duty Corrugated Shipping Box Double Wall Custom Size",
+    "category": "corrugated-mailers",
+    "moq": "500-1000",
+    "price": "0.35-2.50",
+    "material": "Kraft / White Kraft / Test Liner — B/C/E/BC Flute",
+    "slug": "heavy-duty-corrugated-shipping-box-double-wall-custom-size"
   },
   {
     "title": "Heavy-Duty Corrugated Automotive Parts Shipping Box — Triple-Wall & Custom Foam",
@@ -1832,14 +1944,6 @@
     "slug": "heavy-duty-corrugated-mailer-with-pinch-bottom-seal"
   },
   {
-    "title": "Heavy Duty Corrugated Shipping Box Double Wall Custom Size",
-    "category": "corrugated-mailers",
-    "moq": "500-1000",
-    "price": "0.35-2.50",
-    "material": "Kraft / White Kraft / Test Liner — B/C/E/BC Flute",
-    "slug": "heavy-duty-corrugated-shipping-box-double-wall-custom-size"
-  },
-  {
     "title": "Heavy-Duty Corrugated Shipping Box with Foam Insert for Fragile Items",
     "category": "corrugated-mailers",
     "moq": "500-1000",
@@ -1870,6 +1974,14 @@
     "price": "0.50-4.00",
     "material": "BC-Flute or EB-Flute Corrugated / Die-Cut EPE Foam Insert / Kraft or White-Top Liner / Hot Melt Adhesive",
     "slug": "heavy-duty-corrugated-wine-shipper-die-cut-foam-tear-strip"
+  },
+  {
+    "title": "Heavy-Duty Triple-Wall Corrugated Export Shipping Box — Custom Size",
+    "category": "corrugated-mailers",
+    "moq": "500-1000",
+    "price": "0.50-8.00",
+    "material": "Triple-wall B/C/B flute / Kraft 175-300gsm liner / White or Brown / Custom flexo print / Burst 275+ PSI",
+    "slug": "triple-wall-corrugated-export-shipping-box-heavy-duty-bhs"
   },
   {
     "title": "Hexagonal Corrugated Candle Shipping Mailer with Die-Cut Foam Insert — Glassware Protection",
@@ -1904,20 +2016,20 @@
     "slug": "hexagonal-paper-gift-box-with-magnetic-closure-custom"
   },
   {
-    "title": "Hexagonal Rigid Gift Box with Custom Print & Satin Ribbon — Luxury Confectionery Packaging",
-    "category": "rigid-gift-boxes",
-    "moq": "500-1000",
-    "price": "1.50-4.20",
-    "material": "Greyboard 2.0mm / 157gsm Art Paper Wrap / Satin Ribbon / Foam Insert",
-    "slug": "hexagonal-rigid-gift-box-custom-print-ribbon-luxury-confectionery"
-  },
-  {
     "title": "Hexagonal Rigid Gift Box Magnetic Closure Custom Die-Cut Window Wedding",
     "category": "special-shape-boxes",
     "moq": "500",
     "price": "3.00-15.00",
     "material": "Greyboard 1200-1800gsm / Art Paper 157-200gsm / PET Window / N52 Neodymium Magnets / Velvet Lining",
     "slug": "hexagonal-rigid-gift-box-magnetic-closure-custom-die-cut-window-wedding"
+  },
+  {
+    "title": "Hexagonal Rigid Gift Box with Custom Print & Satin Ribbon — Luxury Confectionery Packaging",
+    "category": "rigid-gift-boxes",
+    "moq": "500-1000",
+    "price": "1.50-4.20",
+    "material": "Greyboard 2.0mm / 157gsm Art Paper Wrap / Satin Ribbon / Foam Insert",
+    "slug": "hexagonal-rigid-gift-box-custom-print-ribbon-luxury-confectionery"
   },
   {
     "title": "Hexagonal Rigid Gift Box with Magnetic Closure and Satin Ribbon for Premium Confectionery",
@@ -1976,22 +2088,6 @@
     "slug": "hexagonal-velvet-earring-box-transparent-window-satin-lining"
   },
   {
-    "title": "Luxury Hexagonal Wine Bottle Gift Box with Satin Ribbon — Custom Embossing",
-    "category": "rigid-gift-boxes",
-    "moq": "500-1000",
-    "price": "3.00-8.00",
-    "material": "1.5mm Greyboard / 157gsm Art Paper / Die-Cut EVA Foam Cradle / Satin Ribbon / Brushed Gold Foil",
-    "slug": "hexagonal-wine-bottle-gift-box-satin-ribbon-custom-embossing-luxury-packaging"
-  },
-  {
-    "title": "Custom Folding Carton with Hidden Magnetic Closure Luxury Cosmetics Packaging Soft-Touch",
-    "category": "folding-cartons",
-    "moq": "1000-3000",
-    "price": "0.30-2.50",
-    "material": "FSC SBS C1S/C2S 300-400gsm / Soft-Touch Lamination / Hidden N35 Magnets / Spot UV / Gold Foil",
-    "slug": "hidden-magnetic-closure-folding-carton-luxury-cosmetics-soft-touch"
-  },
-  {
     "title": "High-Impact E-Commerce Corrugated Mailer with Tear-Strip and Full-Color Flexo Print",
     "category": "corrugated-mailers",
     "moq": "1000-3000",
@@ -2008,36 +2104,12 @@
     "slug": "hinged-rigid-gift-box-metallic-board-premium-wine-spirits"
   },
   {
-    "title": "3-Tier Velvet Jewelry Display Box with LED Mirror Lid — Necklace, Earring & Ring Set",
-    "category": "jewelry-boxes",
-    "moq": "500",
-    "price": "3.50-12.80",
-    "material": "Greyboard 1600gsm / Velvet Flocking / N48 Magnets / LED Strip / Mirror Glass",
-    "slug": "jewelry-3-tier-velvet-display-box-led-mirror-lid-necklace-earring-ring"
-  },
-  {
     "title": "Jewelry Box for Necklace & Pendant — Velvet Interior Display Packaging",
     "category": "jewelry-boxes",
     "moq": "500-1000",
     "price": "0.80-2.50",
     "material": "Greyboard 1.5mm / Velvet Lining / Satin Cushion / 157gsm Art Paper",
     "slug": "jewelry-box-necklace-pendant-velvet"
-  },
-  {
-    "title": "Velvet Jewelry Gift Box with Hidden Message Compartment and Magnetic Closure",
-    "category": "jewelry-boxes",
-    "moq": "500",
-    "price": "3.20-9.50",
-    "material": "2mm Greyboard + Velvet Exterior + Satin Interior + Hidden Drawer Mechanism",
-    "slug": "jewelry-box-velvet-hidden-message-compartment-magnetic-closure"
-  },
-  {
-    "title": "Two-Tier Velvet Watch Display Box with Drawer and Valet Tray — Custom Logo",
-    "category": "jewelry-boxes",
-    "moq": "500",
-    "price": "4.50-12.80",
-    "material": "2mm Greyboard + Velvet Wrap / Suede-Look Interior",
-    "slug": "jewelry-box-velvet-watch-display-two-tier-drawer-valet-tray"
   },
   {
     "title": "Jewelry Bracelet Gift Box with Magnetic Flap, Velvet Inlay and Satin Pillow",
@@ -2056,14 +2128,6 @@
     "slug": "jewelry-display-paper-box-with-led-light-velvet"
   },
   {
-    "title": "Flocked Necklace Presentation Box — Magnetic Flap Closure with Custom Logo Hot Stamping",
-    "category": "jewelry-boxes",
-    "moq": "500-1000",
-    "price": "1.80-4.50",
-    "material": "2.0mm greyboard with flocked paper wrap, N48 magnetic flap, velvet necklace insert with clasp channel",
-    "slug": "jewelry-necklace-presentation-box-flocked-insert-magnetic-flap"
-  },
-  {
     "title": "Jewelry Ring Display Box LED Spotlight Velvet Flocking Interior",
     "category": "jewelry-boxes",
     "moq": "300-500",
@@ -2080,12 +2144,28 @@
     "slug": "kraft-brown-gift-box-jute-twine-handle-handmade-soap-candle-eco"
   },
   {
+    "title": "Kraft Eco Jewelry Gift Box — Hemp Cord Tie + Seed Paper Hang Tag",
+    "category": "kraft-eco-boxes",
+    "moq": "500-1000",
+    "price": "0.50-1.50",
+    "material": "100% Recycled Kraft Board 350gsm / Soy-Based Inks / Hemp Cord Tie Closure / Plantable Seed Paper Hang Tag / Biodegradable / FSC Certified / ISO 9001",
+    "slug": "kraft-eco-jewelry-gift-box-hemp-cord-seed-paper-tag"
+  },
+  {
     "title": "Kraft Eco-Friendly Baby Shower Favor Box Set Soy Ink Custom Print Sustainable",
     "category": "kraft-eco-boxes",
     "moq": "500-1000",
     "price": "0.15-1.50",
     "material": "250-400gsm Recycled Kraft Paperboard / Soy-Based Ink / Jute Twine / Water-Based Adhesive",
     "slug": "kraft-eco-baby-shower-favor-box-set-soy-ink-custom-print-sustainable"
+  },
+  {
+    "title": "Kraft Eco-Friendly Gift Box with Soy-Based Ink and Natural Jute Handle",
+    "category": "kraft-eco-boxes",
+    "moq": "1000",
+    "price": "1.20-3.50",
+    "material": "100% Recycled Kraft Board / Soy Ink / Jute Handle",
+    "slug": "kraft-eco-gift-box-soy-ink-jute-handle-recycled-board"
   },
   {
     "title": "Kraft Eco-Friendly Soap Bar Sleeve Box with Die-Cut Window",
@@ -2104,30 +2184,6 @@
     "slug": "kraft-eco-friendly-tuck-top-mailer-box-soy-ink"
   },
   {
-    "title": "Kraft Paper Eco Gift Box with Seed-Embedded Hang Tag and Soy-Based Ink Printing",
-    "category": "kraft-eco-boxes",
-    "moq": "500",
-    "price": "1.80-5.50",
-    "material": "100% Recycled Kraft Board + Seed-Embedded Hang Tag + Cotton Twine + Soy-Based Ink",
-    "slug": "kraft-eco-gift-box-seed-embedded-hang-tag-soy-ink-printing"
-  },
-  {
-    "title": "Kraft Eco-Friendly Gift Box with Soy-Based Ink and Natural Jute Handle",
-    "category": "kraft-eco-boxes",
-    "moq": "1000",
-    "price": "1.20-3.50",
-    "material": "100% Recycled Kraft Board / Soy Ink / Jute Handle",
-    "slug": "kraft-eco-gift-box-soy-ink-jute-handle-recycled-board"
-  },
-  {
-    "title": "Kraft Eco Jewelry Gift Box — Hemp Cord Tie + Seed Paper Hang Tag",
-    "category": "kraft-eco-boxes",
-    "moq": "500-1000",
-    "price": "0.50-1.50",
-    "material": "100% Recycled Kraft Board 350gsm / Soy-Based Inks / Hemp Cord Tie Closure / Plantable Seed Paper Hang Tag / Biodegradable / FSC Certified / ISO 9001",
-    "slug": "kraft-eco-jewelry-gift-box-hemp-cord-seed-paper-tag"
-  },
-  {
     "title": "Kraft Eco-Friendly Wine Bottle Gift Box — Jute Twine Handle + Die-Cut Window",
     "category": "kraft-eco-boxes",
     "moq": "500-1000",
@@ -2142,14 +2198,6 @@
     "price": "0.35-1.20",
     "material": "Recycled Kraft / PET Window",
     "slug": "kraft-food-delivery-box-with-window"
-  },
-  {
-    "title": "Kraft Paper Honeycomb Wine Shipper — Biodegradable Molded Pulp Interior with Jute Handle",
-    "category": "kraft-eco-boxes",
-    "moq": "500-1000",
-    "price": "1.20-3.80",
-    "material": "FSC-certified kraft cardboard, honeycomb kraft core, biodegradable molded pulp, jute rope",
-    "slug": "kraft-honeycomb-wine-shipper-molded-pulp-jute-handle"
   },
   {
     "title": "Kraft Mushroom Mycelium Packaging Box — 100% Home-Compostable Custom Print",
@@ -2280,6 +2328,22 @@
     "slug": "kraft-paper-eco-box-seed-embedded-tag-sustainable-gift"
   },
   {
+    "title": "Kraft Paper Eco Gift Box with Seed-Embedded Hang Tag and Soy-Based Ink Printing",
+    "category": "kraft-eco-boxes",
+    "moq": "500",
+    "price": "1.80-5.50",
+    "material": "100% Recycled Kraft Board + Seed-Embedded Hang Tag + Cotton Twine + Soy-Based Ink",
+    "slug": "kraft-eco-gift-box-seed-embedded-hang-tag-soy-ink-printing"
+  },
+  {
+    "title": "Kraft Paper Eco-Friendly Soap Gift Box with Die-Cut Window and Compostable Tray",
+    "category": "kraft-eco-boxes",
+    "moq": "1000",
+    "price": "0.60-1.80",
+    "material": "300gsm recycled kraft board, 100% compostable molded pulp tray, PLA window film, soy-based ink",
+    "slug": "kraft-paper-eco-soap-gift-box-die-cut-window-compostable-tray"
+  },
+  {
     "title": "Kraft Paper Eco-Friendly Soap Gift Set Box with Recycled Cardboard Tray and Jute Handle",
     "category": "kraft-eco-boxes",
     "moq": "500-1000",
@@ -2294,22 +2358,6 @@
     "price": "0.12-0.60",
     "material": "Kraft Paper 250-400gsm / FSC Certified / PET or PLA Window / Soy-Based Ink",
     "slug": "kraft-paper-eco-friendly-soap-packaging-box-window-soy-ink"
-  },
-  {
-    "title": "FSC-Certified Kraft Paper Gift Box — Seed-Embedded Hang Tag, Soy-Based Ink, Jute Handle",
-    "category": "kraft-eco-boxes",
-    "moq": "500-1000",
-    "price": "0.80-2.50",
-    "material": "350gsm recycled kraft board, soy-based ink, jute twine, seed paper tag",
-    "slug": "kraft-paper-eco-gift-box-seed-hang-tag-soy-ink-jute-handle-fsc"
-  },
-  {
-    "title": "Kraft Paper Eco-Friendly Soap Gift Box with Die-Cut Window and Compostable Tray",
-    "category": "kraft-eco-boxes",
-    "moq": "1000",
-    "price": "0.60-1.80",
-    "material": "300gsm recycled kraft board, 100% compostable molded pulp tray, PLA window film, soy-based ink",
-    "slug": "kraft-paper-eco-soap-gift-box-die-cut-window-compostable-tray"
   },
   {
     "title": "Kraft Paper Essential Oil Gift Set Box with Bamboo Fiber Insert and Soy-Based Ink Printing",
@@ -2344,12 +2392,12 @@
     "slug": "kraft-paper-gift-box-cotton-handle-soy-ink-fsc-certified-eco"
   },
   {
-    "title": "Kraft Paper Gift Box with Natural Hemp Rope Handle and Soy-Based Ink",
+    "title": "Kraft Paper Gift Box with Die-Cut Window and Cotton Rope Handle",
     "category": "kraft-eco-boxes",
-    "moq": "500",
-    "price": "2.20-5.80",
-    "material": "350gsm Uncoated Kraft Board / Natural Hemp Rope 5mm / Soy-Based CMYK Ink / Water-Based Adhesive / Zero Plastic Components",
-    "slug": "kraft-paper-gift-box-hemp-rope-handle-soy-ink"
+    "moq": "500-1000",
+    "price": "0.45-1.80",
+    "material": "Kraft Paper / FSC Board / Cotton",
+    "slug": "kraft-paper-gift-box-with-window-die-cut-cotton-rope-handle"
   },
   {
     "title": "Kraft Paper Gift Box with Natural Cork Lid and Jute Strap Closure — Bincai Earth-Luxury",
@@ -2360,20 +2408,12 @@
     "slug": "kraft-paper-gift-box-natural-cork-lid-jute-strap-closure-eco"
   },
   {
-    "title": "Kraft Paper Gift Box with Window — Eco-Friendly Recyclable Soap & Candle Packaging",
+    "title": "Kraft Paper Gift Box with Natural Hemp Rope Handle and Soy-Based Ink",
     "category": "kraft-eco-boxes",
-    "moq": "500-1000",
-    "price": "0.25-1.50",
-    "material": "Recycled Kraft Board 400gsm / PLA Compostable Window 50μm / Soy-Based Ink",
-    "slug": "kraft-paper-gift-box-window-eco-friendly-soap-candle-packaging"
-  },
-  {
-    "title": "Kraft Paper Gift Box with Die-Cut Window and Cotton Rope Handle",
-    "category": "kraft-eco-boxes",
-    "moq": "500-1000",
-    "price": "0.45-1.80",
-    "material": "Kraft Paper / FSC Board / Cotton",
-    "slug": "kraft-paper-gift-box-with-window-die-cut-cotton-rope-handle"
+    "moq": "500",
+    "price": "2.20-5.80",
+    "material": "350gsm Uncoated Kraft Board / Natural Hemp Rope 5mm / Soy-Based CMYK Ink / Water-Based Adhesive / Zero Plastic Components",
+    "slug": "kraft-paper-gift-box-hemp-rope-handle-soy-ink"
   },
   {
     "title": "Kraft Paper Gift Box with Window Display Eco",
@@ -2384,12 +2424,28 @@
     "slug": "kraft-paper-gift-box-with-window-display-eco"
   },
   {
+    "title": "Kraft Paper Gift Box with Window — Eco-Friendly Recyclable Soap & Candle Packaging",
+    "category": "kraft-eco-boxes",
+    "moq": "500-1000",
+    "price": "0.25-1.50",
+    "material": "Recycled Kraft Board 400gsm / PLA Compostable Window 50μm / Soy-Based Ink",
+    "slug": "kraft-paper-gift-box-window-eco-friendly-soap-candle-packaging"
+  },
+  {
     "title": "Kraft Paper Greeting Card Gift Set Box with Seed-Embedded Hang Tag",
     "category": "kraft-eco-boxes",
     "moq": "500-1000",
     "price": "0.80-2.20",
     "material": "400gsm Kraft Board / Soy Ink / Seed Paper Tag / Jute Twine",
     "slug": "kraft-paper-greeting-card-gift-set-box-seed-embedded-hang-tag"
+  },
+  {
+    "title": "Kraft Paper Honeycomb Wine Shipper — Biodegradable Molded Pulp Interior with Jute Handle",
+    "category": "kraft-eco-boxes",
+    "moq": "500-1000",
+    "price": "1.20-3.80",
+    "material": "FSC-certified kraft cardboard, honeycomb kraft core, biodegradable molded pulp, jute rope",
+    "slug": "kraft-honeycomb-wine-shipper-molded-pulp-jute-handle"
   },
   {
     "title": "Kraft Paper Perfume Rigid Box with Magnetic Closure — Eco-Luxury Packaging",
@@ -2408,14 +2464,6 @@
     "slug": "kraft-paper-planter-box-seed-paper-liner-biodegradable-plantable"
   },
   {
-    "title": "Custom Kraft Paper Pyramid Gift Box with Cotton Drawstring — Reusable Eco-Luxury Packaging",
-    "category": "kraft-eco-boxes",
-    "moq": "500-1000",
-    "price": "1.20-3.50",
-    "material": "350gsm Unbleached Kraft Board / 300gsm Recycled Kraft",
-    "slug": "kraft-paper-pyramid-eco-gift-box-cotton-drawstring-reusable-sustainable"
-  },
-  {
     "title": "Kraft Paper Pyramid Gift Box with Compostable PLA Window Soy Ink Dried Flower Tea",
     "category": "kraft-eco-boxes",
     "moq": "500",
@@ -2424,20 +2472,20 @@
     "slug": "kraft-paper-pyramid-gift-box-compostable-pla-window-soy-ink-dried-flower-tea"
   },
   {
+    "title": "Kraft Paper Sandwich Wrap Box with PLA Window and Soy-Based Ink for Food Service",
+    "category": "kraft-eco-boxes",
+    "moq": "5000-10000",
+    "price": "0.20-0.95",
+    "material": "350gsm Unbleached Kraft Board / PLA Window / Soy-Based Ink / Grease-Resistant Coating",
+    "slug": "kraft-sandwich-wrap-box-pla-window-soy-ink-compostable-food-service"
+  },
+  {
     "title": "Kraft Paper Seed-Infused Plantable Gift Box with Biodegradable Soy-Ink Printing",
     "category": "kraft-eco-boxes",
     "moq": "1000-3000",
     "price": "0.28-0.95",
     "material": "Recycled Kraft Paperboard with Embedded Seeds / Soy-Based Ink / Starch-Based Adhesive",
     "slug": "kraft-paper-seed-infused-plantable-gift-box-biodegradable-soy-ink"
-  },
-  {
-    "title": "Kraft Paper Shopping Bag — Foil Stamping with Matte Lamination Luxury Retail",
-    "category": "paper-bags",
-    "moq": "1000-2000",
-    "price": "0.35-1.20",
-    "material": "150g/180g/200g kraft paper, matte lamination, twisted kraft paper rope handles, reinforced cardboard base",
-    "slug": "kraft-paper-shopping-bag-foil-stamping-matte-lamination-luxury-retail"
   },
   {
     "title": "Kraft Paper Shopping Bag Twisted Handle Gold Foil Logo Eco-Friendly Retail",
@@ -2454,6 +2502,22 @@
     "price": "0.50-2.00",
     "material": "200-350gsm FSC-certified kraft paper, twisted kraft paper handles, reinforced cardboard bottom insert, water-based PVA adhesive",
     "slug": "kraft-paper-shopping-bag-twisted-handles-spot-uv-logo"
+  },
+  {
+    "title": "Kraft Paper Shopping Bag — Foil Stamping with Matte Lamination Luxury Retail",
+    "category": "paper-bags",
+    "moq": "1000-2000",
+    "price": "0.35-1.20",
+    "material": "150g/180g/200g kraft paper, matte lamination, twisted kraft paper rope handles, reinforced cardboard base",
+    "slug": "kraft-paper-shopping-bag-foil-stamping-matte-lamination-luxury-retail"
+  },
+  {
+    "title": "Kraft Paper Shoulder Box with Magnetic Snap Closure and Custom Divider — Eco-Friendly Gift Set Packaging",
+    "category": "kraft-eco-boxes",
+    "moq": "500-1000",
+    "price": "2.20-6.50",
+    "material": "FSC Kraft Liner 250gsm / Recycled Greyboard 1600gsm / NdFeB Magnets / Soy-Based Ink / Kraft Card Dividers",
+    "slug": "kraft-shoulder-box-magnetic-snap-custom-divider-eco-gift"
   },
   {
     "title": "Kraft Paper Soap Sleeve Box with Die-Cut Window and Soy-Based Ink",
@@ -2528,44 +2592,20 @@
     "slug": "kraft-paper-wine-bottle-gift-bag-die-cut-handle-gold-foil-eco-luxury"
   },
   {
-    "title": "Kraft Recycled Skincare Gift Set Box — Molded Pulp Insert — Soy Ink Printed — Bincai Eco Packaging",
-    "category": "kraft-eco-boxes",
-    "moq": "500",
-    "price": "1.80-3.50",
-    "material": "350gsm recycled kraft board + molded pulp insert + soy-based ink + N52 magnets",
-    "slug": "kraft-recycled-skincare-gift-set-box-molded-pulp-insert-soy-ink"
-  },
-  {
-    "title": "Recycled Kraft Soap Gift Box — Hemp Twine Tie Closure with Natural Brown Mailer",
-    "category": "kraft-eco-boxes",
-    "moq": "500-1000",
-    "price": "0.80-2.50",
-    "material": "100% post-consumer recycled Kraft board (300gsm), hemp twine tie, soy-based ink",
-    "slug": "kraft-recycled-soap-gift-box-hemp-twine-natural-mailer"
-  },
-  {
-    "title": "Kraft Paper Sandwich Wrap Box with PLA Window and Soy-Based Ink for Food Service",
-    "category": "kraft-eco-boxes",
-    "moq": "5000-10000",
-    "price": "0.20-0.95",
-    "material": "350gsm Unbleached Kraft Board / PLA Window / Soy-Based Ink / Grease-Resistant Coating",
-    "slug": "kraft-sandwich-wrap-box-pla-window-soy-ink-compostable-food-service"
-  },
-  {
-    "title": "Kraft Paper Shoulder Box with Magnetic Snap Closure and Custom Divider — Eco-Friendly Gift Set Packaging",
-    "category": "kraft-eco-boxes",
-    "moq": "500-1000",
-    "price": "2.20-6.50",
-    "material": "FSC Kraft Liner 250gsm / Recycled Greyboard 1600gsm / NdFeB Magnets / Soy-Based Ink / Kraft Card Dividers",
-    "slug": "kraft-shoulder-box-magnetic-snap-custom-divider-eco-gift"
-  },
-  {
     "title": "Kraft Paper Wine Tote Bag with Die-Cut Handle and Gold Foil Stamp — Eco-Luxury Wine Packaging",
     "category": "paper-bags",
     "moq": "1000-3000",
     "price": "0.80-2.20",
     "material": "200gsm FSC-certified kraft paper, reinforced cardboard base, gold foil stamp",
     "slug": "kraft-wine-tote-bag-die-cut-handle-foil"
+  },
+  {
+    "title": "Kraft Recycled Skincare Gift Set Box — Molded Pulp Insert — Soy Ink Printed — Bincai Eco Packaging",
+    "category": "kraft-eco-boxes",
+    "moq": "500",
+    "price": "1.80-3.50",
+    "material": "350gsm recycled kraft board + molded pulp insert + soy-based ink + N52 magnets",
+    "slug": "kraft-recycled-skincare-gift-set-box-molded-pulp-insert-soy-ink"
   },
   {
     "title": "Leather-Finish Rigid Jewelry Box with Magnetic Clasp — Rings & Earrings",
@@ -2584,20 +2624,20 @@
     "slug": "leatherette-magnetic-flap-wine-bottle-gift-box-premium-spirits"
   },
   {
-    "title": "LED-Lit Velvet Jewelry Display Box with 360° Rotating Platform for Retail",
-    "category": "jewelry-boxes",
-    "moq": "300-500",
-    "price": "8.00-35.00",
-    "material": "Greyboard 1600-2000gsm / Premium Velvet Paper Wrap / LED Strip 2835 SMD / DC Motor Platform / Rechargeable Battery or USB-C / Satin Lining / Gold Foil Logo",
-    "slug": "led-lit-velvet-jewelry-display-box-360-rotating-platform-retail"
-  },
-  {
     "title": "LED-Illuminated Rotating Jewelry Display Stand Box 360° Showcase Remote Control",
     "category": "jewelry-boxes",
     "moq": "300-500",
     "price": "3.00-15.00",
     "material": "Greyboard 1200-1600gsm / Velvet or Satin Interior / DC Motor Turntable / LED Strip / IR Remote / Magnetic Closure",
     "slug": "led-rotating-jewelry-display-stand-box-360-remote-control"
+  },
+  {
+    "title": "LED-Lit Velvet Jewelry Display Box with 360° Rotating Platform for Retail",
+    "category": "jewelry-boxes",
+    "moq": "300-500",
+    "price": "8.00-35.00",
+    "material": "Greyboard 1600-2000gsm / Premium Velvet Paper Wrap / LED Strip 2835 SMD / DC Motor Platform / Rechargeable Battery or USB-C / Satin Lining / Gold Foil Logo",
+    "slug": "led-lit-velvet-jewelry-display-box-360-rotating-platform-retail"
   },
   {
     "title": "Luxury Brooch Pin Display Box with Velvet Lining & Satin Pillow — Magnetic Flap",
@@ -2640,14 +2680,6 @@
     "slug": "luxury-cigar-humidor-style-rigid-gift-box-cedar-lining-gold-foil"
   },
   {
-    "title": "Luxury Cufflink Presentation Box with Magnetic Flip Lid Velvet Interior",
-    "category": "magnetic-closure-boxes",
-    "moq": "500-1000",
-    "price": "1.20-3.80",
-    "material": "2.0mm Greyboard / Leatherette Wrap / N52 Magnet / Velvet Insert",
-    "slug": "luxury-cufflink-presentation-box-magnetic-flip-lid-velvet"
-  },
-  {
     "title": "Luxury Cufflink & Tie Clip Display Box with Velvet Interior and LED Spotlight",
     "category": "jewelry-boxes",
     "moq": "500",
@@ -2656,12 +2688,28 @@
     "slug": "luxury-cufflink-tie-clip-display-box-velvet-interior-led-spotlight"
   },
   {
+    "title": "Luxury Cufflink Presentation Box with Magnetic Flip Lid Velvet Interior",
+    "category": "magnetic-closure-boxes",
+    "moq": "500-1000",
+    "price": "1.20-3.80",
+    "material": "2.0mm Greyboard / Leatherette Wrap / N52 Magnet / Velvet Insert",
+    "slug": "luxury-cufflink-presentation-box-magnetic-flip-lid-velvet"
+  },
+  {
     "title": "Luxury Folding Carton with Gold Foil Stamping Gift Packaging",
     "category": "folding-cartons",
     "moq": "500-1000",
     "price": "0.35-3.50",
     "material": "Art Paper / Greyboard / Gold Foil / Matte/Gloss Lamination",
     "slug": "luxury-folding-carton-with-gold-foil-stamping-gift-packaging"
+  },
+  {
+    "title": "Luxury Hexagonal Wine Bottle Gift Box with Satin Ribbon — Custom Embossing",
+    "category": "rigid-gift-boxes",
+    "moq": "500-1000",
+    "price": "3.00-8.00",
+    "material": "1.5mm Greyboard / 157gsm Art Paper / Die-Cut EVA Foam Cradle / Satin Ribbon / Brushed Gold Foil",
+    "slug": "hexagonal-wine-bottle-gift-box-satin-ribbon-custom-embossing-luxury-packaging"
   },
   {
     "title": "Luxury Leather Hinged Gift Box for Watches and Jewelry",
@@ -2704,20 +2752,20 @@
     "slug": "luxury-paper-bag-with-ribbon-handle-custom-logo"
   },
   {
-    "title": "Luxury Paper Gift Bag with Rope Handle Matte Lamination Spot UV Custom Logo Retail",
-    "category": "paper-bags",
-    "moq": "500-1000",
-    "price": "0.35-2.50",
-    "material": "210gsm art paper, matte/gloss lamination, twisted rope handles, reinforced eyelets",
-    "slug": "luxury-paper-gift-bag-rope-handle-matte-lamination-spot-uv-custom-logo"
-  },
-  {
     "title": "Luxury Paper Gift Bag with Ribbon Handle Custom Logo Print",
     "category": "kraft-eco-boxes",
     "moq": "500-1000",
     "price": "0.30-4.50",
     "material": "Kraft Paper / Art Paper / Satin Ribbon / Cotton Rope",
     "slug": "luxury-paper-gift-bag-with-ribbon-handle-custom-logo-print"
+  },
+  {
+    "title": "Luxury Paper Gift Bag with Rope Handle Matte Lamination Spot UV Custom Logo Retail",
+    "category": "paper-bags",
+    "moq": "500-1000",
+    "price": "0.35-2.50",
+    "material": "210gsm art paper, matte/gloss lamination, twisted rope handles, reinforced eyelets",
+    "slug": "luxury-paper-gift-bag-rope-handle-matte-lamination-spot-uv-custom-logo"
   },
   {
     "title": "Luxury Rectangular Rigid Gift Box with Magnetic Flap UV Spot",
@@ -2776,6 +2824,14 @@
     "slug": "luxury-velvet-necklace-display-box-led-mirror-gold-foil"
   },
   {
+    "title": "Luxury Watch & Jewelry Rigid Paper Box with Magnetic Flap",
+    "category": "rigid-gift-boxes",
+    "moq": "500-1000",
+    "price": "1.50-8.00",
+    "material": "Greyboard 1200–1600gsm / Velvet or Suede Interior / N52 Magnets / Art Paper Wrap",
+    "slug": "luxury-watch-jewelry-rigid-paper-box-with-magnetic-flap"
+  },
+  {
     "title": "Luxury Watch Case Rigid Paper Box with Pillow Insert Magnetic Closure",
     "category": "jewelry-boxes",
     "moq": "500-1000",
@@ -2790,14 +2846,6 @@
     "price": "3.50-6.80",
     "material": "2.0mm greyboard + carbon fiber textured paper + microfiber suede lining + N52 magnets",
     "slug": "luxury-watch-gift-set-box-magnetic-closure-carbon-fiber-texture-drawer"
-  },
-  {
-    "title": "Luxury Watch & Jewelry Rigid Paper Box with Magnetic Flap",
-    "category": "rigid-gift-boxes",
-    "moq": "500-1000",
-    "price": "1.50-8.00",
-    "material": "Greyboard 1200–1600gsm / Velvet or Suede Interior / N52 Magnets / Art Paper Wrap",
-    "slug": "luxury-watch-jewelry-rigid-paper-box-with-magnetic-flap"
   },
   {
     "title": "Luxury Watch Presentation Box with Carbon Fiber Texture LED Lighting",
@@ -2862,14 +2910,6 @@
     "price": "0.40-3.50",
     "material": "Greyboard 1200-1600gsm / N42-N52 Neodymium Magnets / Velvet / Satin Ribbon",
     "slug": "magnetic-closure-book-style-box-velvet-lining-corporate-gift"
-  },
-  {
-    "title": "Book-Style Magnetic Closure Corporate Presentation Kit — Satin Ribbon, Custom Foam Insert, Gold Foil",
-    "category": "magnetic-closure-boxes",
-    "moq": "500-1000",
-    "price": "2.50-6.00",
-    "material": "2.5mm greyboard + 157gsm art paper wrap, N52 magnets, satin ribbon, EVA foam",
-    "slug": "magnetic-closure-book-style-corporate-presentation-kit-foam-insert-gold-foil"
   },
   {
     "title": "Magnetic Closure Book-Style Corporate Presentation Kit — Gold Foil Debossing, Foam Insert",
@@ -2968,14 +3008,6 @@
     "slug": "magnetic-closure-custom-puzzle-jigsaw-gift-game-box"
   },
   {
-    "title": "Custom Magnetic Closure Sunglasses Gift Box — Velvet Liner with Flocked Insert",
-    "category": "magnetic-closure-boxes",
-    "moq": "500",
-    "price": "1.20-3.50",
-    "material": "157gsm C1S art paper over 2.5mm greyboard, N52 neodymium magnets, velvet liner, flocked PET insert",
-    "slug": "magnetic-closure-custom-sunglasses-gift-box-velvet-liner-flocked-insert"
-  },
-  {
     "title": "Magnetic Closure Double-Door Gift Box with Satin Ribbon Tie — Luxury Fragrance & Perfume Gift Set Packaging",
     "category": "magnetic-closure-boxes",
     "moq": "500-1000",
@@ -3022,14 +3054,6 @@
     "price": "0.80-2.80",
     "material": "Greyboard / Food-Safe Art Paper / PET",
     "slug": "magnetic-closure-gift-box-for-premium-chocolate-confectionery"
-  },
-  {
-    "title": "Magnetic Closure Single-Door Gift Box with Ribbon Pull Premium",
-    "category": "magnetic-closure-boxes",
-    "moq": "500-1000",
-    "price": "1.50-6.00",
-    "material": "Greyboard 1200-1600gsm / Art Paper 157gsm / Neodymium Magnet / Satin Ribbon / Velvet Flocking",
-    "slug": "magnetic-closure-gift-box-single-door-ribbon-pull-premium"
   },
   {
     "title": "Magnetic Closure Gift Box with Removable Insert Tray — Bincai Luxury Multi-Product Packaging",
@@ -3088,6 +3112,14 @@
     "slug": "magnetic-closure-luxury-chocolate-gift-box-with-gold-foil-ribbon"
   },
   {
+    "title": "Magnetic Closure Luxury Perfume Gift Box with Die-Cut Satin Window and Ribbon Pull",
+    "category": "magnetic-closure-boxes",
+    "moq": "500",
+    "price": "3.80-9.20",
+    "material": "2mm Greyboard + Soft-Touch Matte Lamination or Textured Linen / Die-Cut Satin Window",
+    "slug": "magnetic-closure-perfume-gift-box-die-cut-satin-window-ribbon"
+  },
+  {
     "title": "Magnetic Closure Luxury Rigid Gift Box Custom Logo Hot Stamping",
     "category": "rigid-gift-boxes",
     "moq": "500-1000",
@@ -3136,28 +3168,12 @@
     "slug": "magnetic-closure-pen-display-box-individual-slots-satin-lining-corporate-gift"
   },
   {
-    "title": "Magnetic Closure Luxury Perfume Gift Box with Die-Cut Satin Window and Ribbon Pull",
-    "category": "magnetic-closure-boxes",
-    "moq": "500",
-    "price": "3.80-9.20",
-    "material": "2mm Greyboard + Soft-Touch Matte Lamination or Textured Linen / Die-Cut Satin Window",
-    "slug": "magnetic-closure-perfume-gift-box-die-cut-satin-window-ribbon"
-  },
-  {
     "title": "Magnetic Closure Photo Album Presentation Box — Linen Wrap Archival Quality",
     "category": "magnetic-closure-boxes",
     "moq": "500-1000",
     "price": "5.50-12.00",
     "material": "2mm Greyboard / Linen Bookcloth / Acid-Free Archival Paper / Hidden Magnets",
     "slug": "magnetic-closure-photo-album-presentation-box-linen-wrap-archival-quality"
-  },
-  {
-    "title": "Book-Style Magnetic Closure Photography Portfolio Box with Archival Acid-Free Linen Wrap",
-    "category": "magnetic-closure-boxes",
-    "moq": "300-500",
-    "price": "5.50-15.00",
-    "material": "3.0mm Archival Greyboard / Acid-Free Linen / N52 Magnet / pH-Neutral Adhesive / Alkaline Buffer",
-    "slug": "magnetic-closure-photography-portfolio-box-archival-acid-free-linen-wrap"
   },
   {
     "title": "Magnetic Closure Portfolio Presentation Box with Document Sleeve and Pen Loop",
@@ -3216,14 +3232,6 @@
     "slug": "magnetic-closure-premium-whiskey-gift-box-wood-grain-embossed-foam-insert"
   },
   {
-    "title": "Custom Magnetic Closure Presentation Box with Foam Tray for Corporate Pen Set",
-    "category": "magnetic-closure-boxes",
-    "moq": "500-1000",
-    "price": "2.00-9.00",
-    "material": "Greyboard 1200-1600gsm / N42-N52 Neodymium Magnets / Suede / Foam",
-    "slug": "magnetic-closure-presentation-box-foam-tray-corporate-pen-set"
-  },
-  {
     "title": "Magnetic Closure Presentation Folder Kit with Document Sleeve Pen Loop USB Slot",
     "category": "magnetic-closure-boxes",
     "moq": "500",
@@ -3240,20 +3248,20 @@
     "slug": "magnetic-closure-rigid-box-corporate-gift-set-embossed-logo"
   },
   {
-    "title": "Magnetic Closure Rigid Box with Ribbon Pull for Luxury Stationery Sets",
-    "category": "magnetic-closure-boxes",
-    "moq": "500-1000",
-    "price": "0.70-4.00",
-    "material": "Greyboard 1200–1600gsm / Art Paper 157gsm / N52 Neodymium Magnets / Satin Ribbon",
-    "slug": "magnetic-closure-rigid-box-ribbon-pull-stationery-set"
-  },
-  {
     "title": "Magnetic Closure Rigid Box Velvet Flocking Pen Collector Edition",
     "category": "magnetic-closure-boxes",
     "moq": "500-1000",
     "price": "0.80-4.50",
     "material": "Greyboard 1200–1600gsm / Art Paper 157gsm / N52 Neodymium Magnets / Velvet Flocking",
     "slug": "magnetic-closure-rigid-box-velvet-flocking-pen-collector"
+  },
+  {
+    "title": "Magnetic Closure Rigid Box with Ribbon Pull for Luxury Stationery Sets",
+    "category": "magnetic-closure-boxes",
+    "moq": "500-1000",
+    "price": "0.70-4.00",
+    "material": "Greyboard 1200–1600gsm / Art Paper 157gsm / N52 Neodymium Magnets / Satin Ribbon",
+    "slug": "magnetic-closure-rigid-box-ribbon-pull-stationery-set"
   },
   {
     "title": "Magnetic Closure Rigid Candle Gift Box with Satin Ribbon Custom Foil Stamping",
@@ -3286,6 +3294,14 @@
     "price": "2.50-6.00",
     "material": "2.5mm greyboard wrapped in vegan leather (PU), N52 neodymium magnets, flocked velvet insert tray",
     "slug": "magnetic-closure-single-watch-gift-box-vegan-leather-velvet"
+  },
+  {
+    "title": "Magnetic Closure Single-Door Gift Box with Ribbon Pull Premium",
+    "category": "magnetic-closure-boxes",
+    "moq": "500-1000",
+    "price": "1.50-6.00",
+    "material": "Greyboard 1200-1600gsm / Art Paper 157gsm / Neodymium Magnet / Satin Ribbon / Velvet Flocking",
+    "slug": "magnetic-closure-gift-box-single-door-ribbon-pull-premium"
   },
   {
     "title": "Magnetic Closure Tea Set Gift Box with Custom Foam Insert",
@@ -3328,20 +3344,20 @@
     "slug": "magnetic-closure-watch-box-with-velvet-flocking-interior"
   },
   {
-    "title": "Magnetic Closure Watch Collector Box with 12-Slot Suede Tray & Tempered Glass Lid",
-    "category": "magnetic-closure-boxes",
-    "moq": "100-500",
-    "price": "8.50-22.00",
-    "material": "3mm Rigid Greyboard / Black Leatherette / Suedette / 5mm Tempered Glass / N52 Neodymium Magnets / Stainless Steel Hinges",
-    "slug": "magnetic-closure-watch-collector-box-12-slot-suede-glass-lid"
-  },
-  {
     "title": "Magnetic Closure Watch Collector Box 6-Slot Suede Interior Carbon Fiber",
     "category": "magnetic-closure-boxes",
     "moq": "500-1000",
     "price": "6.00-18.00",
     "material": "Greyboard 1600gsm / Carbon Fiber Texture Paper / Suede Lining / Tempered Glass Window / Neodymium Magnet / Metal Hinge",
     "slug": "magnetic-closure-watch-collector-box-6-slot-suede-carbon-fiber"
+  },
+  {
+    "title": "Magnetic Closure Watch Collector Box with 12-Slot Suede Tray & Tempered Glass Lid",
+    "category": "magnetic-closure-boxes",
+    "moq": "100-500",
+    "price": "8.50-22.00",
+    "material": "3mm Rigid Greyboard / Black Leatherette / Suedette / 5mm Tempered Glass / N52 Neodymium Magnets / Stainless Steel Hinges",
+    "slug": "magnetic-closure-watch-collector-box-12-slot-suede-glass-lid"
   },
   {
     "title": "Magnetic Closure Watch Roll Travel Case — 3-Watch Suede Interior",
@@ -3488,22 +3504,6 @@
     "slug": "octagonal-rigid-gift-box-with-ribbon-bow-luxury"
   },
   {
-    "title": "1-2-3 Bottom Rigid Gift Box with Magnetic Closure — Premium Gift Packaging",
-    "category": "rigid-gift-boxes",
-    "moq": "500-1000",
-    "price": "1.20-3.80",
-    "material": "Greyboard 2.0mm / 157gsm Art Paper Wrap / N42 Magnets",
-    "slug": "one-two-three-bottom-rigid-gift-box-magnetic-premium"
-  },
-  {
-    "title": "100% PCR Kraft Telescopic-Lid Eco Candle & Home Fragrance Box",
-    "category": "kraft-eco-boxes",
-    "moq": "1000-3000",
-    "price": "0.60-2.50",
-    "material": "100% PCR Kraft Paperboard 300–400gsm / Soy-Based Inks / Water-Based Adhesive / FSC Recycled",
-    "slug": "pcr-kraft-telescopic-lid-eco-candle-box"
-  },
-  {
     "title": "Pearl Earring & Necklace Set Gift Box with Velvet Tray & Magnetic Flap",
     "category": "jewelry-boxes",
     "moq": "500-1000",
@@ -3536,20 +3536,20 @@
     "slug": "pharmaceutical-folding-carton-child-resistant-cr-lock-tamper-evident"
   },
   {
-    "title": "Pharmaceutical Folding Carton with Tamper-Evident Seal — ISO 15378 Compliant",
-    "category": "folding-cartons",
-    "moq": "1000-3000",
-    "price": "0.05-0.80",
-    "material": "SBS C1S 300-400gsm / Tamper-Evident Tear Strip / Hot Melt Adhesive / Braille Embossing / CGMP Environment",
-    "slug": "pharmaceutical-folding-carton-tamper-evident-iso-15378"
-  },
-  {
     "title": "Pharmaceutical Folding Carton with Tamper-Evident Seal Braille Embossing",
     "category": "folding-cartons",
     "moq": "1000-3000",
     "price": "0.30-1.20",
     "material": "Solid Bleached Sulfate (SBS) 350gsm / Tear Strip / Tamper-Evident Tape",
     "slug": "pharmaceutical-folding-carton-tamper-evident-seal-braille"
+  },
+  {
+    "title": "Pharmaceutical Folding Carton with Tamper-Evident Seal — ISO 15378 Compliant",
+    "category": "folding-cartons",
+    "moq": "1000-3000",
+    "price": "0.05-0.80",
+    "material": "SBS C1S 300-400gsm / Tamper-Evident Tear Strip / Hot Melt Adhesive / Braille Embossing / CGMP Environment",
+    "slug": "pharmaceutical-folding-carton-tamper-evident-iso-15378"
   },
   {
     "title": "Pillow-Pack Folding Carton for Chocolate Bar Display Retail Packaging",
@@ -3656,6 +3656,14 @@
     "slug": "premium-magnetic-rigid-gift-box-for-luxury-perfume-packaging"
   },
   {
+    "title": "Premium Paper Shopping Bag with Twisted Rope Handles and Spot UV Logo — Luxury Retail Packaging",
+    "category": "paper-bags",
+    "moq": "1000-3000",
+    "price": "0.60-1.80",
+    "material": "157gsm–250gsm C1S art paper or kraft, twisted paper rope handles, reinforced cardboard base insert",
+    "slug": "premium-shopping-bag-rope-handles-spot-uv"
+  },
+  {
     "title": "Premium Rigid Gift Box for Wine Bottle Velvet Lining",
     "category": "rigid-gift-boxes",
     "moq": "500-1000",
@@ -3670,14 +3678,6 @@
     "price": "3.00-7.00",
     "material": "2mm Rigid Grey Board / Velvet or Leatherette Wrap / Magnetic Closure Lid / Satin Pillow Cushion / Hot Foil Gold/Silver Stamping / Optional Die-Cut Certificate Slot / Optional Drawer for Accessories / Gift-Ready Individual Poly Bag",
     "slug": "premium-rigid-watch-gift-box-velvet-cushion-magnetic-closure-lid"
-  },
-  {
-    "title": "Premium Paper Shopping Bag with Twisted Rope Handles and Spot UV Logo — Luxury Retail Packaging",
-    "category": "paper-bags",
-    "moq": "1000-3000",
-    "price": "0.60-1.80",
-    "material": "157gsm–250gsm C1S art paper or kraft, twisted paper rope handles, reinforced cardboard base insert",
-    "slug": "premium-shopping-bag-rope-handles-spot-uv"
   },
   {
     "title": "Premium Shoulder-Neck Rigid Gift Box with Magnetic Closure for Luxury Spirits Packaging",
@@ -3702,6 +3702,14 @@
     "price": "2.50-6.00",
     "material": "Greyboard 1200gsm / Premium Velvet Flocking / LED Strip / Mirror Glass / Neodymium Magnet",
     "slug": "premium-velvet-jewelry-box-led-light-mirror"
+  },
+  {
+    "title": "Premium Watch Display Box with Velvet Pillow Custom Logo Embossing — Bincai Luxury Timepiece Packaging",
+    "category": "jewelry-boxes",
+    "moq": "500-1000",
+    "price": "2.00-12.00",
+    "material": "Greyboard (1200-1800gsm) / Art Paper / Velvet Flocking / Die-Cut Velvet Pillow / Neodymium Magnet",
+    "slug": "watch-display-box-with-velvet-pillow-custom-logo-embossing"
   },
   {
     "title": "Premium White Kraft Paper Gift Bag with Die-Cut Handle and Spot UV Finish",
@@ -3776,6 +3784,14 @@
     "slug": "recyclable-kraft-rigid-box-with-soy-ink-printing-eco-luxury"
   },
   {
+    "title": "Recycled Kraft Gift Box Hemp Twine Handle Organic Skincare Packaging",
+    "category": "kraft-eco-boxes",
+    "moq": "500-1000",
+    "price": "0.20-2.50",
+    "material": "100% Recycled Kraft Paperboard 800–1200gsm / Natural Hemp Twine / Soy-Based Ink",
+    "slug": "recycled-kraft-gift-box-hemp-twine-handle-organic-skincare-packaging"
+  },
+  {
     "title": "Recycled Kraft Gift Box with Cotton Ribbon Closure & Foil Stamp",
     "category": "kraft-eco-boxes",
     "moq": "500-1000",
@@ -3808,20 +3824,20 @@
     "slug": "recycled-kraft-paper-window-gift-box-fsc"
   },
   {
+    "title": "Recycled Kraft Soap Gift Box — Hemp Twine Tie Closure with Natural Brown Mailer",
+    "category": "kraft-eco-boxes",
+    "moq": "500-1000",
+    "price": "0.80-2.50",
+    "material": "100% post-consumer recycled Kraft board (300gsm), hemp twine tie, soy-based ink",
+    "slug": "kraft-recycled-soap-gift-box-hemp-twine-natural-mailer"
+  },
+  {
     "title": "Recycled Kraft Wine Bottle Gift Box with Carry Handle — Eco-Luxury Packaging",
     "category": "kraft-eco-boxes",
     "moq": "500-1000",
     "price": "0.80-3.50",
     "material": "100% PCR Kraft 350-450gsm / Water-Based Flexo / Soy Ink / Cotton Rope Handle / Zero Plastic / FSC Recycled",
     "slug": "recycled-kraft-wine-bottle-gift-box-carry-handle-eco"
-  },
-  {
-    "title": "Reverse Tuck End Folding Carton with Matte Lamination for Organic Tea",
-    "category": "folding-cartons",
-    "moq": "1000-3000",
-    "price": "0.15-0.80",
-    "material": "350gsm SBS C1S / Matte Lamination / Spot UV / Food-Grade Aqueous Coating / PLA Compostable Window (optional)",
-    "slug": "reverse-tuck-end-folding-carton-matte-lamination-organic-tea"
   },
   {
     "title": "Reverse Tuck End Folding Carton for Pharmaceutical Supplement Packaging",
@@ -3848,6 +3864,14 @@
     "slug": "reverse-tuck-end-pharmaceutical-supplement-folding-carton-gmp"
   },
   {
+    "title": "Reverse Tuck End Folding Carton with Matte Lamination for Organic Tea",
+    "category": "folding-cartons",
+    "moq": "1000-3000",
+    "price": "0.15-0.80",
+    "material": "350gsm SBS C1S / Matte Lamination / Spot UV / Food-Grade Aqueous Coating / PLA Compostable Window (optional)",
+    "slug": "reverse-tuck-end-folding-carton-matte-lamination-organic-tea"
+  },
+  {
     "title": "Reverse Tuck Folding Carton Box Cosmetic Skincare Packaging",
     "category": "folding-cartons",
     "moq": "500-1000",
@@ -3870,6 +3894,14 @@
     "price": "0.15-0.55",
     "material": "SBS/CCNB 300-450gsm / Soft-Touch Matte Lamination / Spot Gloss UV / KBA 1050 4-color offset / Reverse Tuck End (RTE) / Auto-lock Bottom / Gold/Silver Hot Foil (optional) / Die-Cut Window (optional)",
     "slug": "reverse-tuck-folding-carton-cosmetic-skincare-soft-touch-spot-uv"
+  },
+  {
+    "title": "Reverse-Tuck Folding Carton for Gourmet Chocolate Bar with Hot-Stamp Foil Window",
+    "category": "folding-cartons",
+    "moq": "1000",
+    "price": "0.25-0.85",
+    "material": "SBS (Solid Bleached Sulfate) 300-400gsm + Food-Grade PET Window Film + Hot-Stamp Foil",
+    "slug": "folding-carton-reverse-tuck-gourmet-chocolate-bar-hot-stamp-foil-window"
   },
   {
     "title": "Reverse-Tuck Folding Carton with Matte Lamination & Gold Hot Foil — Cosmetics Packaging",
@@ -3904,6 +3936,14 @@
     "slug": "rigid-cardboard-gift-box-with-matte-lamination-spot-uv"
   },
   {
+    "title": "Rigid Cigar Collector Box — Spanish Cedar Interior with Humidor-Style Hinged Lid",
+    "category": "rigid-gift-boxes",
+    "moq": "500-1000",
+    "price": "4.00-9.00",
+    "material": "3.0mm greyboard with bookcloth/leatherette wrap, Spanish cedar wood veneer interior, solid brass hinges, N52 neodymium magnets",
+    "slug": "rigid-setup-cigar-collector-box-humidor-style-cedar-interior"
+  },
+  {
     "title": "Rigid Drawer Box Premium Tea Set Gift Packaging 3-Layer",
     "category": "rigid-gift-boxes",
     "moq": "500-1000",
@@ -3928,6 +3968,14 @@
     "slug": "rigid-embossed-magnetic-watch-collector-box-suede-interior"
   },
   {
+    "title": "Rigid Gift Box with Ribbon Closure Custom Print Luxury Packaging",
+    "category": "rigid-gift-boxes",
+    "moq": "500-1000",
+    "price": "0.28-3.50",
+    "material": "Greyboard 1200-1600gsm / Art Paper 157gsm / Velvet Flocking / Hot Foil",
+    "slug": "rigid-gift-box-with-ribbon-closure-custom-print-luxury-packaging"
+  },
+  {
     "title": "Rigid Gift Box with Single Tray Telescopic Lid — Watch Collector Display Packaging",
     "category": "rigid-gift-boxes",
     "moq": "500",
@@ -3942,22 +3990,6 @@
     "price": "2.50-8.00",
     "material": "2.5mm Greyboard / 157gsm Art Paper / Velvet Flocking / Satin Ribbon",
     "slug": "rigid-gift-box-sliding-drawer-pull-ribbon-velvet-interior"
-  },
-  {
-    "title": "Custom Rigid Gift Box with Telescopic Lid Hot Foil Stamping — Bincai Premium Luxury Packaging",
-    "category": "rigid-gift-boxes",
-    "moq": "500-1000",
-    "price": "1.50-8.00",
-    "material": "Greyboard 1200-2000gsm / Art Paper 157gsm / N42-N52 Neodymium Magnets / Specialty Paper / Hot Foil",
-    "slug": "rigid-gift-box-telescopic-lid-hot-foil-premium"
-  },
-  {
-    "title": "Rigid Gift Box with Ribbon Closure Custom Print Luxury Packaging",
-    "category": "rigid-gift-boxes",
-    "moq": "500-1000",
-    "price": "0.28-3.50",
-    "material": "Greyboard 1200-1600gsm / Art Paper 157gsm / Velvet Flocking / Hot Foil",
-    "slug": "rigid-gift-box-with-ribbon-closure-custom-print-luxury-packaging"
   },
   {
     "title": "Rigid Hinged-Lid Photo Archive Storage Box — Acid-Free Archival Document & Photograph Preservation Box",
@@ -4000,12 +4032,12 @@
     "slug": "rigid-perfume-luxury-gift-box-ribbon-closure-foil-stamping"
   },
   {
-    "title": "Rigid Cigar Collector Box — Spanish Cedar Interior with Humidor-Style Hinged Lid",
+    "title": "Rigid Telescopic Round Hat Box with Satin Ribbon Handle for Premium Apparel Gifts",
     "category": "rigid-gift-boxes",
-    "moq": "500-1000",
-    "price": "4.00-9.00",
-    "material": "3.0mm greyboard with bookcloth/leatherette wrap, Spanish cedar wood veneer interior, solid brass hinges, N52 neodymium magnets",
-    "slug": "rigid-setup-cigar-collector-box-humidor-style-cedar-interior"
+    "moq": "200-500",
+    "price": "3.00-9.00",
+    "material": "1200-1600gsm Greyboard / 157gsm Art Paper Wrap / Specialty Paper / Satin Ribbon",
+    "slug": "rigid-telescopic-round-hat-box-satin-ribbon-handle-premium-apparel-gift"
   },
   {
     "title": "Rigid Telescopic Round Hat Box — Custom Print with Ribbon Handle",
@@ -4016,36 +4048,12 @@
     "slug": "rigid-telescopic-hat-box-round-custom-print-ribbon-handle"
   },
   {
-    "title": "Rigid Telescopic Round Hat Box with Satin Ribbon Handle for Premium Apparel Gifts",
-    "category": "rigid-gift-boxes",
-    "moq": "200-500",
-    "price": "3.00-9.00",
-    "material": "1200-1600gsm Greyboard / 157gsm Art Paper Wrap / Specialty Paper / Satin Ribbon",
-    "slug": "rigid-telescopic-round-hat-box-satin-ribbon-handle-premium-apparel-gift"
-  },
-  {
     "title": "Rigid Telescopic Two-Piece Flat-Pack Gift Box — Wholesale Bulk Shipping Optimized",
     "category": "rigid-gift-boxes",
     "moq": "1000-2000",
     "price": "0.60-3.50",
     "material": "Rigid Greyboard 1.5-3.0mm / Art Paper 128-200gsm / Flat-Pack Score Design",
     "slug": "rigid-telescopic-two-piece-flat-pack-gift-box-wholesale-shipping"
-  },
-  {
-    "title": "Two-Tier Telescopic Rigid Wedding Favor Box — Gold Foil Hot Stamping, Satin Ribbon Closure",
-    "category": "rigid-gift-boxes",
-    "moq": "500-1000",
-    "price": "1.80-4.50",
-    "material": "2.5mm greyboard + 157gsm art paper wrap, gold foil, satin ribbon",
-    "slug": "rigid-telescopic-wedding-favor-box-gold-foil-satin-ribbon-two-tier"
-  },
-  {
-    "title": "Rigid Two-Piece Telescopic Wedding Favor Box — Magnetic Closure with Satin Ribbon & Gold Foil",
-    "category": "rigid-gift-boxes",
-    "moq": "500-1000",
-    "price": "0.65-1.80",
-    "material": "2mm rigid greyboard, art paper wrap (157-200gsm), satin ribbon, neodymium magnets",
-    "slug": "rigid-telescopic-wedding-favor-box-magnetic-closure-satin-ribbon-gold-foil"
   },
   {
     "title": "Rigid Two-Piece Cigar Presentation Box — Spanish Cedar Lining, Humidor-Style",
@@ -4070,6 +4078,14 @@
     "price": "1.50-4.00",
     "material": "1,200gsm greyboard core, 157gsm art paper wrap, matte or gloss lamination, N52 magnets (optional), satin ribbon pull",
     "slug": "rigid-two-piece-telescope-corporate-gift-box-embossing-hot-foil"
+  },
+  {
+    "title": "Rigid Two-Piece Telescopic Wedding Favor Box — Magnetic Closure with Satin Ribbon & Gold Foil",
+    "category": "rigid-gift-boxes",
+    "moq": "500-1000",
+    "price": "0.65-1.80",
+    "material": "2mm rigid greyboard, art paper wrap (157-200gsm), satin ribbon, neodymium magnets",
+    "slug": "rigid-telescopic-wedding-favor-box-magnetic-closure-satin-ribbon-gold-foil"
   },
   {
     "title": "Rigid Two-Tier Wedding Favor Gift Box — Satin Ribbon Closure & Gold Foil Monogram",
@@ -4120,14 +4136,6 @@
     "slug": "silver-rigid-book-shaped-cosmetic-gift-box-with-blue-velvet-insert"
   },
   {
-    "title": "Single-Tier Velvet Ring Display Box with LED Light and Beveled Mirror",
-    "category": "jewelry-boxes",
-    "moq": "300-500",
-    "price": "3.50-12.00",
-    "material": "Greyboard 1200-1600gsm / PU Leatherette Exterior / Electrostatic Velvet Flocking 1.5mm / LED Panel 3000K / Magnetic Reed Switch / Beveled Mirror / Elastic Ring Retention",
-    "slug": "single-tier-velvet-ring-display-box-led-light-beveled-mirror"
-  },
-  {
     "title": "Single Wall Corrugated Shipping Box with Tear Strip — Bincai E-Commerce & Subscription Box Packaging",
     "category": "corrugated-mailers",
     "moq": "500-1000",
@@ -4136,12 +4144,12 @@
     "slug": "single-wall-corrugated-shipping-box-with-tear-strip"
   },
   {
-    "title": "Custom Sleeve-Style Folding Carton for Premium Chocolate Confectionery",
-    "category": "folding-cartons",
-    "moq": "1000-3000",
-    "price": "0.35-2.50",
-    "material": "SBS Board / Art Paper / Kraft",
-    "slug": "sleeve-style-folding-carton-premium-chocolate-confectionery"
+    "title": "Single-Tier Velvet Ring Display Box with LED Light and Beveled Mirror",
+    "category": "jewelry-boxes",
+    "moq": "300-500",
+    "price": "3.50-12.00",
+    "material": "Greyboard 1200-1600gsm / PU Leatherette Exterior / Electrostatic Velvet Flocking 1.5mm / LED Panel 3000K / Magnetic Reed Switch / Beveled Mirror / Elastic Ring Retention",
+    "slug": "single-tier-velvet-ring-display-box-led-light-beveled-mirror"
   },
   {
     "title": "Slim Magnetic Closure Box for Premium Stationery and Notebook Gift Sets",
@@ -4168,28 +4176,28 @@
     "slug": "square-rigid-gift-box-magnetic-lid-matte-lamination-custom"
   },
   {
-    "title": "Straight Tuck End Folding Carton with Aqueous Coating and Euro Hang Tab — Retail Ready Supplement Packaging",
-    "category": "folding-cartons",
-    "moq": "1000-3000",
-    "price": "0.15-0.55",
-    "material": "350gsm CCNB / 400gsm SBS / 450gsm FBB Board",
-    "slug": "straight-tuck-end-folding-carton-aqueous-coating-euro-hang-tab"
-  },
-  {
-    "title": "Straight Tuck End Folding Carton — Aqueous Coating with Spot UV for Premium Electronics Accessories",
-    "category": "folding-cartons",
-    "moq": "1000-2000",
-    "price": "0.15-0.60",
-    "material": "350gsm CCNB/coated duplex board, matte aqueous coating, Spot UV varnish, water-based PVA adhesive",
-    "slug": "straight-tuck-end-folding-carton-aqueous-coating-spot-uv-electronics-accessories"
-  },
-  {
     "title": "Straight Tuck End Folding Carton Box with Matte Lamination",
     "category": "folding-cartons",
     "moq": "500-1000",
     "price": "0.15-0.80",
     "material": "Art Paper / SBS Board / CCNB / Kraft / Greyboard",
     "slug": "straight-tuck-end-folding-carton-box-with-matte-lamination"
+  },
+  {
+    "title": "Straight Tuck End Folding Carton Pharmaceutical Supplement Packaging",
+    "category": "folding-cartons",
+    "moq": "500-1000",
+    "price": "0.08-0.80",
+    "material": "SBS C1S/C2S 12–24pt or CCNB / Aqueous or UV Coating",
+    "slug": "straight-tuck-end-folding-carton-pharmaceutical-supplement-packaging"
+  },
+  {
+    "title": "Straight Tuck End Folding Carton with Aqueous Coating and Euro Hang Tab — Retail Ready Supplement Packaging",
+    "category": "folding-cartons",
+    "moq": "1000-3000",
+    "price": "0.15-0.55",
+    "material": "350gsm CCNB / 400gsm SBS / 450gsm FBB Board",
+    "slug": "straight-tuck-end-folding-carton-aqueous-coating-euro-hang-tab"
   },
   {
     "title": "Straight Tuck End Folding Carton with Braille Embossing for Pharmaceutical OTC Packaging",
@@ -4208,6 +4216,22 @@
     "slug": "straight-tuck-end-folding-carton-gold-foil-border-debossing-luxury-apparel"
   },
   {
+    "title": "Straight Tuck End Folding Carton with Soft-Touch Lamination and Gold Foil Accent for Premium Skincare",
+    "category": "folding-cartons",
+    "moq": "500-1000",
+    "price": "0.85-2.50",
+    "material": "350gsm CCNB / 157gsm C2S Art Paper / Soft-Touch Matte Lamination / Gold Hot Foil / Die-Cut Inner Tray",
+    "slug": "straight-tuck-end-folding-carton-soft-touch-gold-foil-skincare"
+  },
+  {
+    "title": "Straight Tuck End Folding Carton — Aqueous Coating with Spot UV for Premium Electronics Accessories",
+    "category": "folding-cartons",
+    "moq": "1000-2000",
+    "price": "0.15-0.60",
+    "material": "350gsm CCNB/coated duplex board, matte aqueous coating, Spot UV varnish, water-based PVA adhesive",
+    "slug": "straight-tuck-end-folding-carton-aqueous-coating-spot-uv-electronics-accessories"
+  },
+  {
     "title": "Straight Tuck End Folding Carton — Premium Candle & Home Fragrance with Spot UV + Gold Foil",
     "category": "folding-cartons",
     "moq": "1000-3000",
@@ -4216,12 +4240,12 @@
     "slug": "straight-tuck-end-folding-carton-premium-candle-home-fragrance-spot-uv-gold-foil"
   },
   {
-    "title": "Straight Tuck End Folding Carton with Soft-Touch Lamination and Gold Foil Accent for Premium Skincare",
+    "title": "Straight-Tuck End Folding Carton with Soft-Touch Lamination — Luxury Cosmetics Packaging, Gold Foil Logo",
     "category": "folding-cartons",
-    "moq": "500-1000",
-    "price": "0.85-2.50",
-    "material": "350gsm CCNB / 157gsm C2S Art Paper / Soft-Touch Matte Lamination / Gold Hot Foil / Die-Cut Inner Tray",
-    "slug": "straight-tuck-end-folding-carton-soft-touch-gold-foil-skincare"
+    "moq": "1000-3000",
+    "price": "0.35-0.95",
+    "material": "350gsm C1S SBS board + soft-touch lamination, gold foil",
+    "slug": "folding-carton-straight-tuck-end-soft-touch-lamination-cosmetics-gold-foil-logo"
   },
   {
     "title": "Straight-Tuck Folding Carton with Holographic Cold Foil for Luxury Cosmetics",
@@ -4238,6 +4262,22 @@
     "price": "2.80-7.50",
     "material": "2.5mm Greyboard / 157gsm Art Paper Wrap / Soft-Touch Lamination / Gold Foil / PET Window",
     "slug": "telescopic-rigid-gift-box-gold-foil-monogram-window-luxury-apparel"
+  },
+  {
+    "title": "Textured Linen Rigid Gift Box Ribbon Closure Premium Apparel Packaging",
+    "category": "rigid-gift-boxes",
+    "moq": "500-1000",
+    "price": "0.60-5.00",
+    "material": "Rigid Greyboard 1200–1600gsm / Textured Linen Wrap / Satin or Grosgrain Ribbon",
+    "slug": "textured-linen-rigid-gift-box-ribbon-closure-premium-apparel-packaging"
+  },
+  {
+    "title": "Thermal-Lined Corrugated Mailer Box for Cold Chain Pharmaceutical & Biotech Shipping",
+    "category": "corrugated-mailers",
+    "moq": "500",
+    "price": "2.50-9.80",
+    "material": "Double-Wall BC-Flute / Metallized PET Liner / Water-Resistant Adhesive",
+    "slug": "corrugated-thermal-mailer-cold-chain-pharmaceutical-biotech-shipping"
   },
   {
     "title": "Trapezoid Luxury Watch Box with Velvet Inlay and Magnetic Closure — Custom Presentation Packaging",
@@ -4278,14 +4318,6 @@
     "price": "8.00-45.00",
     "material": "AAA/ACA Triple-Wall Corrugated / Kraft Liner / Water-Resistant Adhesive / Wood Pallet Base",
     "slug": "triple-wall-corrugated-export-pallet-box-industrial-machinery-heavy-equipment-shipping"
-  },
-  {
-    "title": "Heavy-Duty Triple-Wall Corrugated Export Shipping Box — Custom Size",
-    "category": "corrugated-mailers",
-    "moq": "500-1000",
-    "price": "0.50-8.00",
-    "material": "Triple-wall B/C/B flute / Kraft 175-300gsm liner / White or Brown / Custom flexo print / Burst 275+ PSI",
-    "slug": "triple-wall-corrugated-export-shipping-box-heavy-duty-bhs"
   },
   {
     "title": "Tuck-End Folding Carton with Hot Foil Stamping — Scented Candle Packaging",
@@ -4368,12 +4400,36 @@
     "slug": "two-piece-rigid-setup-box-foam-insert-electronics-premium-packaging"
   },
   {
+    "title": "Two-Tier Telescopic Rigid Wedding Favor Box — Gold Foil Hot Stamping, Satin Ribbon Closure",
+    "category": "rigid-gift-boxes",
+    "moq": "500-1000",
+    "price": "1.80-4.50",
+    "material": "2.5mm greyboard + 157gsm art paper wrap, gold foil, satin ribbon",
+    "slug": "rigid-telescopic-wedding-favor-box-gold-foil-satin-ribbon-two-tier"
+  },
+  {
     "title": "Two-Tier Velvet Jewelry Display Box with Lock and Key — Premium Jewelry Packaging",
     "category": "jewelry-boxes",
     "moq": "500-1000",
     "price": "4.00-8.00",
     "material": "2.5mm greyboard with 157gsm art paper wrap, electrostatic velvet flocking, solid brass lock and key, N35 neodymium magnets, EVA foam insert, CR2032 LED module",
     "slug": "two-tier-velvet-jewelry-display-box-lock-key"
+  },
+  {
+    "title": "Two-Tier Velvet Watch Display Box with Drawer and Valet Tray — Custom Logo",
+    "category": "jewelry-boxes",
+    "moq": "500",
+    "price": "4.50-12.80",
+    "material": "2mm Greyboard + Velvet Wrap / Suede-Look Interior",
+    "slug": "jewelry-box-velvet-watch-display-two-tier-drawer-valet-tray"
+  },
+  {
+    "title": "Two-Tone Velvet Bracelet Gift Box with Magnetic Closure — Custom Logo Embossing",
+    "category": "jewelry-boxes",
+    "moq": "500-1000",
+    "price": "1.20-3.50",
+    "material": "Greyboard 1.5mm / Velvet Lining (Dual-Color) / Satin Pillow",
+    "slug": "velvet-bracelet-gift-box-magnetic-closure-two-tone-lining"
   },
   {
     "title": "Velvet Bangle Bracelet Display Box Magnetic Closure Satin Pillow",
@@ -4392,6 +4448,14 @@
     "slug": "velvet-bangle-display-box-magnetic-closure-led-spotlight-satin-groove-insert"
   },
   {
+    "title": "Velvet Bracelet Bangle Display Box Magnetic Closure Satin Pillow",
+    "category": "jewelry-boxes",
+    "moq": "500-1000",
+    "price": "0.80-6.00",
+    "material": "Rigid Greyboard 1200–1600gsm / Flocked Velvet / N52 Neodymium Magnets / Satin Fabric",
+    "slug": "velvet-bracelet-bangle-display-box-magnetic-closure-satin-pillow"
+  },
+  {
     "title": "Velvet Bracelet Bangle Display Box with N52 Magnetic Closure",
     "category": "jewelry-boxes",
     "moq": "500-1000",
@@ -4408,20 +4472,20 @@
     "slug": "velvet-bracelet-display-box-led-spotlight-satin-pillow"
   },
   {
-    "title": "Two-Tone Velvet Bracelet Gift Box with Magnetic Closure — Custom Logo Embossing",
-    "category": "jewelry-boxes",
-    "moq": "500-1000",
-    "price": "1.20-3.50",
-    "material": "Greyboard 1.5mm / Velvet Lining (Dual-Color) / Satin Pillow",
-    "slug": "velvet-bracelet-gift-box-magnetic-closure-two-tone-lining"
-  },
-  {
     "title": "Velvet Cufflink Display Box with Suede Tray & Magnetic Closure — Custom Embossing",
     "category": "jewelry-boxes",
     "moq": "500",
     "price": "1.80-6.50",
     "material": "Greyboard 1200-1600gsm / Velvet Flocking 250gsm / Suede Tray / Magnetic Snap",
     "slug": "velvet-cufflink-display-box-suede-tray-magnetic-closure-custom-embossing"
+  },
+  {
+    "title": "Velvet Double Ring Solitaire Display Box Magnetic Closure Satin Pillow",
+    "category": "jewelry-boxes",
+    "moq": "500-1000",
+    "price": "0.15-3.50",
+    "material": "Greyboard 1200gsm / Velvet Fabric / Satin Lining / N52 Magnets",
+    "slug": "velvet-double-ring-solitaire-display-box-magnetic-closure-satin-pillow"
   },
   {
     "title": "Velvet Double-Deck Necklace Bracelet Gift Box with Magnetic Closure and Satin Pillows",
@@ -4448,14 +4512,6 @@
     "slug": "velvet-double-layer-ring-earring-display-box-led-mirror-magnetic-closure"
   },
   {
-    "title": "Velvet Double Ring Solitaire Display Box Magnetic Closure Satin Pillow",
-    "category": "jewelry-boxes",
-    "moq": "500-1000",
-    "price": "0.15-3.50",
-    "material": "Greyboard 1200gsm / Velvet Fabric / Satin Lining / N52 Magnets",
-    "slug": "velvet-double-ring-solitaire-display-box-magnetic-closure-satin-pillow"
-  },
-  {
     "title": "Velvet Earbud Wireless Headphone Display Box Magnetic Closure Custom Logo",
     "category": "jewelry-boxes",
     "moq": "500-1000",
@@ -4478,14 +4534,6 @@
     "price": "0.80-4.50",
     "material": "Velvet (polyester 0.8-1.5mm pile) / Rigid Board / N52 Magnets / Satin Interior",
     "slug": "velvet-earring-display-box-magnetic-flip-lid-custom-logo"
-  },
-  {
-    "title": "Double-Deck Velvet Earring Stud Display Box — Magnetic Lid with 24-Pair Tray — Bincai Premium Jewelry Retail Packaging",
-    "category": "jewelry-boxes",
-    "moq": "500",
-    "price": "2.50-5.00",
-    "material": "Greyboard 2.0mm / Velvet Flocking / Mirror Insert / Elastic Stud Straps",
-    "slug": "velvet-earring-stud-display-box-magnetic-double-deck"
   },
   {
     "title": "Velvet Hinged Ring Box with LED Spotlight and Magnetic Closure",
@@ -4520,20 +4568,28 @@
     "slug": "velvet-jewelry-display-box-mirror-lid-led-necklace"
   },
   {
-    "title": "Velvet Jewelry Gift Box with Magnetic Closure & Gold Foil for Ring Packaging",
-    "category": "jewelry-boxes",
-    "moq": "500-1000",
-    "price": "0.30-2.50",
-    "material": "Greyboard 800-2000gsm / Velvet Flocking 0.8-1.5mm / Satin Ribbon",
-    "slug": "velvet-jewelry-gift-box-magnetic-closure-gold-foil-ring-packaging"
-  },
-  {
     "title": "Velvet Jewelry Gift Box Set — 3-Layer Drawer for Ring, Bracelet & Necklace Collection",
     "category": "jewelry-boxes",
     "moq": "300-1000",
     "price": "3.50-12.00",
     "material": "Rigid Greyboard 2.0mm / Velvet Flocking Interior / Magnetic Flap / Satin / LED (optional)",
     "slug": "velvet-jewelry-gift-box-set-3-layer-drawer-ring-bracelet-necklace-collection"
+  },
+  {
+    "title": "Velvet Jewelry Gift Box with Hidden Message Compartment and Magnetic Closure",
+    "category": "jewelry-boxes",
+    "moq": "500",
+    "price": "3.20-9.50",
+    "material": "2mm Greyboard + Velvet Exterior + Satin Interior + Hidden Drawer Mechanism",
+    "slug": "jewelry-box-velvet-hidden-message-compartment-magnetic-closure"
+  },
+  {
+    "title": "Velvet Jewelry Gift Box with Magnetic Closure & Gold Foil for Ring Packaging",
+    "category": "jewelry-boxes",
+    "moq": "500-1000",
+    "price": "0.30-2.50",
+    "material": "Greyboard 800-2000gsm / Velvet Flocking 0.8-1.5mm / Satin Ribbon",
+    "slug": "velvet-jewelry-gift-box-magnetic-closure-gold-foil-ring-packaging"
   },
   {
     "title": "Velvet Jewelry Presentation Box with LED Spotlight and Dual-Layer Drawer",
@@ -4640,14 +4696,6 @@
     "slug": "velvet-ring-display-box-led-spotlight-custom-logo-gold-foil"
   },
   {
-    "title": "360° Rotating Velvet Ring Display Box with LED Spotlight — Custom Logo",
-    "category": "jewelry-boxes",
-    "moq": "500-1000",
-    "price": "2.50-6.00",
-    "material": "Greyboard 1.5mm / Electrostatic Velvet / LED Module / N35 Magnets",
-    "slug": "velvet-ring-display-box-rotating-platform-360-degree-jewelry-showcase"
-  },
-  {
     "title": "Velvet Ring Presentation Box with LED Spotlight and 360° Rotating Platform",
     "category": "jewelry-boxes",
     "moq": "500-1000",
@@ -4686,14 +4734,6 @@
     "price": "2.80-6.50",
     "material": "2mm Rigid Greyboard / Italian Flocked Velvet / Anti-Tarnish Microfiber / Elastic Ribbon / Nylon Zipper",
     "slug": "velvet-travel-jewelry-roll-organizer-detachable-ring-bar-zipper"
-  },
-  {
-    "title": "Premium Watch Display Box with Velvet Pillow Custom Logo Embossing — Bincai Luxury Timepiece Packaging",
-    "category": "jewelry-boxes",
-    "moq": "500-1000",
-    "price": "2.00-12.00",
-    "material": "Greyboard (1200-1800gsm) / Art Paper / Velvet Flocking / Die-Cut Velvet Pillow / Neodymium Magnet",
-    "slug": "watch-display-box-with-velvet-pillow-custom-logo-embossing"
   },
   {
     "title": "White Corrugated E-Commerce Box with Tear Strip Subscription",
