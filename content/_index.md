@@ -6,7 +6,7 @@ keywords: "custom paper box manufacturer, rigid gift box, folding carton, corrug
 
 # Guangdong Bincai Color Printing — Custom Paper Box Manufacturer Since 2003
 
-**23 Years · ISO 9001:2015 (SGS CN24/00002738) · FSC C147399 · High-Tech Enterprise Guangdong (2024) · 18,000 sqm Factory · 1.7M Boxes Daily**
+**23 Years · ISO 9001:2015 (SGS CN24/00002738) · FSC C147399 · High-Tech Enterprise Guangdong (2024) · 18,000 sqm Factory · 1.7M Boxes Daily · 7-Day Delivery · 32 Orders/Month · 379 Active Clients**
 
 ---
 
