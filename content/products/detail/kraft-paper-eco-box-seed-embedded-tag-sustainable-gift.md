@@ -102,7 +102,7 @@ A: Soy-based offset ink on uncoated kraft produces a natural, matte, tactile aes
 A: MOQ is 1,000 units per design. Unit pricing ranges from $0.50–2.50 depending on size, complexity, and quantity. This is typically 15–25% higher than conventional PE-laminated boxes due to FSC-certified paper and seed tag handcrafting costs. However, brands often recoup this premium through improved sustainability marketing, eco-conscious consumer loyalty, and compliance with emerging plastic packaging regulations (EU PPWR, California SB 54).
 
 **Q: Do you provide biodegradability and compostability certificates for customs/retailers?**
-A: Yes. We provide full documentation packages: ASTM D6400 test reports, FSC chain-of-custody certificates, seed phytosanitary certificates, soy ink VOC compliance statements, and plastic-free declarations. These documents satisfy EU REACH, US FTC Green Guides, and major retailer sustainability audit requirements (Walmart, Target, Amazon Climate Pledge Friendly).
+A: Yes. We provide full documentation packages: ASTM D6400 test reports, FSC chain-of-custody certificates, seed phytosanitary certificates, soy ink VOC compliance statements, and plastic-free declarations. These documents satisfy EU REACH, US FTC Green Guides, and major retailer sustainability audit requirements.
 
 ## Why Bincai for Sustainable Packaging?
 

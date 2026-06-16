@@ -27,7 +27,7 @@ Designed for flat-pack furniture, sofas, cabinetry, and oversized home goods, th
 | Mattress | Rolled/compressed mattresses | Boxed mattress D2C, compression-wrapped in poly + corrugated outer |
 | Office Furniture | Desk & workstation components | Panel systems, monitor arms, sit-stand legs |
 | Appliance | Small kitchen appliances | Air fryers, toaster ovens, stand mixers with EPS cushioning |
-| E-Commerce | Oversized FBA/FBM shipments | Amazon FBA oversized tier, Walmart DSV |
+| E-Commerce | Oversized FBA/FBM shipments | Amazon FBA oversized tier, major retail DSV programs |
 | Industrial | Machinery spare parts | Die-cut compartments for multi-part kits with VCI paper |
 
 ## Customization Options

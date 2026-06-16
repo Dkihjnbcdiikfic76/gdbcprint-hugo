@@ -106,7 +106,7 @@ Bincai has been the folding carton partner for cosmetic and skincare brands sinc
 - **Retail Display Ready**: Soft-touch matte creates a premium tactile invitation on-shelf. Spot UV highlights logo, ingredient callouts, or decorative elements that catch consumer attention under retail lighting (3000K–4000K).
 - **Instagram-Worthy Unboxing**: The reverse-tuck mechanism reveals product cleanly; the soft-touch surface photographs beautifully without glare. We consult on structural design for the unboxing video era.
 - **Batch Traceability**: Variable data printing (QR codes, batch numbers, expiry dates) integrated inline — essential for regulatory compliance in EU (EC 1223/2009) and US FDA cosmetic GMP.
-- **Sample-to-Production Color Consistency**: Spectrophotometer-controlled color management ensures that your Sephora shelf carton matches the pre-production sample exactly — even across production runs spanning 12 months.
+- **Sample-to-Production Color Consistency**: Spectrophotometer-controlled color management ensures that your retail shelf carton matches the pre-production sample exactly — even across production runs spanning 12 months.
 
 ## Frequently Asked Questions (Extended)
 
@@ -133,6 +133,6 @@ A: The reverse-tuck is excellent for retail shelf display, but for subscription 
 | **German + KBA Press Lineup** | Heidelberg Speedmaster CD 102 7+1 UV for premium finishes + KBA Rapida 105 for high-volume runs — the right press for every order size |
 | **Soft-Touch Mastery** | Our soft-touch matte lamination is fingerprint-resistant, scuff-proof, and velvet-smooth — tested for 24-month retail shelf life |
 | **18,000 sqm Integrated Facility** | Prepress → printing → lamination → foil stamping → die-cutting → gluing → QC → packing — everything under one roof, zero subcontracting |
-| **Color Consistency** | Spectrophotometer-managed color across runs; ΔE ≤ 2.0 guaranteed — your carton at Nordstrom matches the one at Sephora matches the one shipped last quarter |
+| **Color Consistency** | Spectrophotometer-managed color across runs; ΔE ≤ 2.0 guaranteed — your carton at one retail location matches the one shipped last quarter |
 | **Global Compliance** | EU Cosmetic Regulation 1223/2009, US FDA MoCRA, FSC, REACH, Proposition 65 — your packaging is pre-qualified for worldwide retail |
 | **1.7M Daily Output** | Scale from 1,000-unit launch to 1,000,000-unit seasonal campaign with no capacity constraints |

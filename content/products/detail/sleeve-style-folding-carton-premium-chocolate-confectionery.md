@@ -150,7 +150,7 @@ A: SBS (Solid Bleached Sulfate) offers the brightest white surface for vibrant C
 
 A: While the carton itself provides insulation, we offer several thermal protection options: (1) foil-lined interior layer reflecting radiant heat, (2) thicker board grades (350-450gsm) for improved thermal mass, (3) coordination with insulated shipper box production. For temperature-sensitive chocolate shipments (June-September to warm climates), we recommend pairing our folding carton with a corrugated insulated mailer — both produced in our 18,000 sqm facility for single-source logistics.
 
-**Q: Can you match a specific brand color exactly (e.g., Tiffany Blue, Cadbury Purple)?**
+**Q: Can you match a specific brand color exactly (e.g., Signature Blue, Cadbury Purple)?**
 
 A: Yes. Our Heidelberg 7+1 UV press uses Pantone spot color matching with spectrophotometer verification (ΔE ≤ 2.0). For trademark brand colors, we maintain a dedicated ink formulation library and can match within ΔE ≤ 1.5 on repeat orders. We provide a wet-proof sample for color approval before full production.
 
