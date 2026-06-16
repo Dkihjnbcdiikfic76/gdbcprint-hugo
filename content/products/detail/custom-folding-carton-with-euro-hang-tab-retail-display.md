@@ -75,6 +75,11 @@ Perfect for retail products sold on pegboard displays across multiple categories
 - **Promotional & Gift** — sample kit boxes, loyalty reward packaging, event giveaway cartons
 - **Fashion Accessories** — sunglasses sleeves, watch strap cartons, jewelry display boxes (lightweight)
 
+## Related Resources
+
+- **[Folding Carton vs. Rigid Box — Which Packaging Is Right for Your Product? →](/blog/rigid-box-vs-folding-carton-bincai-packaging-guide/)** — Understand the structural, cost, and application differences between folding cartons and rigid boxes to make an informed packaging decision for your retail display needs.
+- **[Explore All Folding Cartons →](/products/folding-cartons/)** — Browse our full range of custom folding cartons: auto-lock bottom, tuck-top, crash-lock, window cartons, hang-tab retail displays, and more.
+
 ## Quality Assurance
 
 In-line quality control at every production stage ensures consistent excellence:

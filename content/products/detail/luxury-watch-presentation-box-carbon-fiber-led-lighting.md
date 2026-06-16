@@ -83,6 +83,11 @@ The carbon fiber-textured PU leatherette wrap delivers motorsport-inspired aesth
 
 - **Watch Industry Experience**: We manufacture for watch brands shipping to 60+ countries. Our packaging meets EU REACH and California Proposition 65 material safety standards. Anti-tarnish testing available for long-term storage verification.
 
+## Related Resources
+
+- **[Rigid Box Interior Engineering — Foam, Flocking & Satin Lining →](/blog/rigid-box-interior-engineering-foam-flocking-satin-lining-bincai/)** — Deep dive into the materials and engineering behind premium box interiors — from anti-tarnish velvet to CNC-cut foam inserts — essential knowledge for luxury watch and jewelry packaging.
+- **[Explore All Jewelry & Watch Boxes →](/products/jewelry-boxes/)** — Browse our full range of luxury presentation boxes: LED-lit watch cases, velvet ring boxes, multi-tier necklace displays, and more.
+
 ## FAQ
 
 **Q: How long do the LED batteries last?**
