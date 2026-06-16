@@ -1,28 +1,18 @@
 {{ define "main" }}
 {{ $pages := .Pages }}
-{{ $catName := "" }}
-{{ $displayTitle := .Title }}
-{{ if eq (len $pages) 0 }}
-  {{ $catName = replaceRE "^/products/([^/]+)/$" "$1" .RelPermalink }}
-  {{ if $catName }}
-    {{ $pages = index .Site.Taxonomies.categories $catName }}
-    {{ if not $displayTitle }}{{ $displayTitle = replace $catName "-" " " | title }}{{ end }}
-  {{ end }}
-{{ end }}
+{{ $paginator := .Paginate $pages 50 }}
 
 <section style="max-width:1200px;margin:0 auto;padding:40px 24px;">
-<h1 style="font-size:clamp(28px,5vw,36px);font-weight:700;margin-bottom:8px;">{{ $displayTitle }}</h1>
+<h1 style="font-size:clamp(28px,5vw,36px);font-weight:700;margin-bottom:8px;">{{ .Title }} ({{ len $pages }})</h1>
 {{ with .Description }}<p style="color:#666;font-size:14px;margin-bottom:24px;">{{ . }}</p>{{ end }}
 
-{{ if eq .Section "products" }}
 <input type="text" id="searchInput" placeholder="Search {{ len $pages }} products..." 
   style="width:100%;padding:12px 20px;border:1.5px solid #d0d0d0;border-radius:8px;font-size:15px;font-family:inherit;margin-bottom:24px;
   background:url('data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 24 24%22 width=%2220%22 height=%2220%22><circle cx=%2210%22 cy=%2210%22 r=%227%22 fill=%22none%22 stroke=%22%23999%22 stroke-width=%222%22/><line x1=%2215%22 y1=%2215%22 x2=%2221%22 y2=%2221%22 stroke=%22%23999%22 stroke-width=%222%22/></svg>') 16px center no-repeat;padding-left:44px;"
   oninput="var q=this.value.toLowerCase();this.nextElementSibling.querySelectorAll('.prod-card').forEach(c=>c.style.display=c.textContent.toLowerCase().includes(q)?'block':'none')">
-{{ end }}
 
 <div class="prod-grid" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:16px;">
-{{ range $pages }}
+{{ range $paginator.Pages }}
 {{ $cat := index .Params.categories 0 }}
 {{ $img := partial "category-img.html" (dict "category" $cat "title" .Title) }}
 <div class="card prod-card" style="padding:0;">
@@ -38,7 +28,13 @@
 </div>
 
 <div style="text-align:center;margin-top:32px;padding-bottom:40px;">
-<a href="/contact/" class="btn-cta">Inquire About {{ $displayTitle }}</a>
+{{ if $paginator.HasNext }}
+  <a href="{{ $paginator.Next.URL }}" class="btn-primary">Next Page →</a>
+{{ end }}
+{{ if $paginator.HasPrev }}
+  <a href="{{ $paginator.Prev.URL }}" class="btn-primary" style="margin-right:10px;">← Previous</a>
+{{ end }}
 </div>
+<div style="text-align:center;font-size:12px;color:#888;margin-top:8px;">Page {{ $paginator.PageNumber }} of {{ $paginator.TotalPages }} · {{ len $pages }} products</div>
 </section>
 {{ end }}

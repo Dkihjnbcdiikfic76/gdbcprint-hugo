@@ -76,7 +76,7 @@ Guangdong Bincai Color Printing has been the trusted manufacturing partner for l
 | **FSC Chain-of-Custody** | Sustainable paper and board sourcing — every batch traceable to certified forestry |
 | **1.7M Daily Output** | 220,000+ luxury rigid/gift boxes + 1.7M color boxes — even peak-season holiday orders ship on time |
 | **Free Pre-Production Samples** | Fully decorated samples with your custom logo, suede color, and foil in 5–7 days by DHL/FedEx |
-| **Diamond Member Since 2015** | Audited Supplier on Made-in-China.com — verified factory, verified certifications, verified quality |
+| **Diamond Member** | Audited Supplier on Made-in-China.com — verified factory, verified certifications, verified quality |
 
 Our suede-interior watch boxes are produced on a dedicated rigid box assembly line where each box passes through automated wrapping, corner taping, magnet insertion, interior suede lamination, and pillow fitting — all under one roof with real-time QC.
 

@@ -90,7 +90,7 @@ Guangdong Bincai Color Printing Co., Ltd. is a full-chain rigid box manufacturer
 - **Bobst Novacut 106-E Die-Cutting** — Precision steel-rule die cutting with ±0.3mm tolerance for bottle cavity inserts
 - **1.7 Million Daily Output** — Including 220,000+ rigid boxes per day across 6 dedicated production lines
 - **ISO 9001:2015 & FSC Chain-of-Custody** — Certified quality management and sustainable forestry sourcing
-- **Diamond Member on Made-in-China.com** — Since 2015, with verified factory audit and trade assurance
+- **Diamond Member on Made-in-China.com** — Since 2026, with verified factory audit and trade assurance
 - **MOQ 500 pcs** — Free pre-production samples with 3D mockup approval, shipped in 5–7 days
 - **OEM & ODM Capability** — Custom structural design, CAD prototyping, and pantograph velvet cavity engineering for any bottle shape
 
