@@ -79,6 +79,11 @@ Guangdong Bincai Color Printing Co., Ltd. is the trusted partner for premium boo
 | **Prop 65** | California Proposition 65 compliant — all inks, adhesives, and coatings tested for listed substances |
 | **Carbon Footprint** | Consolidated manufacturing reduces transport between subcontractors; optimized shipping configurations lower per-box carbon impact |
 
+## Related Resources
+
+- **[Luxury Rigid Box Engineering: Anatomy of a Premium Gift Box →](/blog/luxury-rigid-box-engineering-anatomy-bincai/)** — A technical deep-dive into greyboard lamination, corner-wrapping precision (±0.2mm), magnetic closure embedding, and the structural engineering behind rigid gift boxes that feel substantial and luxurious.
+- **[Explore All Rigid Gift Boxes →](/categories/rigid-gift-boxes/)** — Browse our full range: book-style boxes, two-piece telescopic lids, drawer-slide gift boxes, magnetic flap boxes, and luxury corporate gift packaging.
+
 ## FAQ
 
 **Q: What makes Bincai's book-style rigid boxes different from competitors?**

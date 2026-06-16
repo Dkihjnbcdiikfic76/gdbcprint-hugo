@@ -100,6 +100,11 @@ Soy-based inks deliver excellent CMYK color reproduction on kraft board, though 
 **How long does it take to receive samples and complete mass production?**
 Sample delivery takes 7–10 business days from artwork approval. Mass production lead time is 15–18 business days after sample confirmation. With our 1.7 million boxes daily capacity and dedicated food-grade production zone, we can accommodate urgent orders with expedited timelines. Rush orders (10–12 days production) are available with advance scheduling.
 
+## Related Resources
+
+- **[Sustainable Paper Box Packaging: Bincai's Eco Manufacturing →](/blog/sustainable-paper-box-packaging-bincai-eco-manufacturing/)** — How our 18,000 sqm factory achieves zero-solvent production with soy-based inks, water-based adhesives, and FSC-certified materials for truly compostable packaging.
+- **[Explore All Kraft Eco Boxes →](/categories/kraft-eco-boxes/)** — Browse our full eco-friendly range: kraft tray boxes, FSC-certified gift boxes, compostable food packaging, recycled kraft mailers, and plastic-free folding cartons.
+
 ## Why Choose Bincai for Sustainable Food Packaging
 
 | Feature | Bincai | Industry Typical |

@@ -113,6 +113,11 @@ Guangdong Bincai Color Printing Co., Ltd. (founded 2003) is one of the few packa
 6. **Foil Stamping QC** — Registration ±0.1mm; adhesion cross-hatch test (ASTM D3359, 5B rating); 100% visual for incomplete transfer or scorching
 7. **Final Assembly & Pre-Shipment** — Lid alignment gap ≤ 1.0mm; closure feel test (smooth magnetic engagement); ISTA 1A drop test per batch; AQL 2.5 Level II sampling per ISO 2859-1. Third-party SGS/Intertek/Bureau Veritas inspection available.
 
+## Related Resources
+
+- **[Rigid Box Interior Engineering: Foam, Flocking & Satin Lining →](/blog/rigid-box-interior-engineering-foam-flocking-satin-lining-bincai/)** — How electrostatic velvet flocking, die-cut EVA foam inserts, and satin lining are engineered for jewelry protection and presentation — from density testing to tarnish-free material certification.
+- **[Explore All Jewelry Boxes →](/categories/jewelry-boxes/)** — Browse our full jewelry packaging range: velvet flocking boxes, PU leather-look sets, satin-lined hinged boxes, LED-lit display cases, ring/bracelet/necklace combos, and custom-shaped jewelry packaging.
+
 ## Frequently Asked Questions
 
 **Q: What's the difference between PU leather-look paper and genuine leather for jewelry boxes?**
