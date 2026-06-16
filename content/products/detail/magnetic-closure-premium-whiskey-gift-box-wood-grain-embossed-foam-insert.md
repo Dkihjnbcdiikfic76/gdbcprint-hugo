@@ -135,3 +135,11 @@ A: The standard layout accommodates two Glencairn-style whiskey tasting glasses 
 **Q: Does the magnetic closure stay secure during shipping?**
 
 A: Yes. The dual N52 magnets provide 2.0kg combined pull force — tested to remain closed through ISTA 1A drop testing (10 drops from 760mm with bottle weight simulator). For extra security during international freight, we offer an optional clear PVC sleeve or paper band that reinforces closure without affecting presentation.
+
+---
+
+## Preparing a Special Whiskey Release?
+
+**Send us your bottle dimensions (height × diameter in mm) for a free wood-grain embossed sample with custom foam insert — delivered in 5-7 business days with your logo in gold foil.** Choose from 4 wood-grain textures (oak, walnut, mahogany, ebony) and we'll produce a working prototype with your bottle cavity layout. For distilleries planning 2026 holiday gift sets, our Q3 production window opens July 15 — reserve your slot with a 3,000-unit PO to lock in current pricing and 12-day lead time.
+
+🥃 **[Request Your Free Whiskey Box Sample →](https://bincaipaperbox.en.made-in-china.com/contact-info.html)**

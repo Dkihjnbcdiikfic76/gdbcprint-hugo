@@ -75,4 +75,10 @@ The Bincai Kraft Paper Shoulder Box with Magnetic Snap Closure bridges the gap b
 
 ---
 
+## Ready to Go Plastic-Free?
+
+**Send us your product lineup (dimensions + quantities) for a same-day eco-box quote.** We'll create a free digital mockup with your logo on kraft within 24 hours — no commitment, no minimum. Sample kits with your custom divider layout ship in 5-7 working days. For brands shipping 1,000+ units/month, ask about our FSC-labeled master carton program with consolidated ocean freight to US/EU warehouses.
+
+📦 **[Request Your Free Mockup →](https://bincaipaperbox.en.made-in-china.com/contact-info.html)**
+
 *Guangdong Bincai Color Printing Co., Ltd. — 22 years of packaging excellence. ISO 9001:2015 & FSC certified. 18,000 sqm Foshan facility (10,000+8,000 smart factory). Daily output: 1.7M+ boxes. Serving 60+ countries worldwide.*

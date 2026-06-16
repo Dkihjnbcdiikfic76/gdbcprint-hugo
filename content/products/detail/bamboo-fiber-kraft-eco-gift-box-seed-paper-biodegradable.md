@@ -124,3 +124,11 @@ A: We provide digital and physical copies of: FSC Chain-of-Custody (FSC-C147399)
 **Q: What's the minimum order quantity and lead time for this specialty board?**
 
 A: MOQ is 1,000-3,000 units depending on complexity. The bamboo-kraft composite board has a 15-20 day production lead time (custom fiber blend, Fourdrinier machine scheduling) plus 15-25 days for printing, die-cutting, and finishing. Total lead time: 30-45 days for first orders; 20-30 days for repeats once the board formulation is locked. Rush service is available for an expediting fee and can reduce total lead time to 20-25 days.
+
+---
+
+## Want Packaging That Grows Into Flowers?
+
+**Share your product specs for a free seed-paper sample kit — shipped to your door within 7 days.** Every kit includes 3 seed-paper tag variants (wildflower, herb, and your choice) plus a physical bamboo-kraft box sample with your logo in soy ink. For brands pursuing B Corp, CDP, or retailer sustainability compliance, ask about our complimentary Life-Cycle Assessment (LCA) report with cradle-to-grave carbon footprint data for your specific box configuration.
+
+🌱 **[Claim Your Free Seed-Paper Sample Kit →](https://bincaipaperbox.en.made-in-china.com/contact-info.html)**

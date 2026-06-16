@@ -129,4 +129,10 @@ A: Yes. Our corrugated garment mailers pass ISTA 1A testing (10 drops from 760mm
 
 A: MOQ is 500 units for standard sizes using our existing rotary die tooling. For custom-size boxes requiring new die fabrication, MOQ is 1,000 units. Free pre-production samples (flat structure and printed) are provided within 5–7 working days. Standard production lead time is 10–14 working days. Rush orders can be accommodated (7–10 working days) with a 15% surcharge. We recommend ordering samples first to validate the box dimensions against your folded garments.
 
-[View on Made-in-China.com →](https://bincaipaperbox.en.made-in-china.com/)
+---
+
+## Shipping 500+ Shirts Per Month?
+
+**Send us your folded garment dimensions for a custom mailer quote with free structural samples in 5 business days.** We'll prototype your exact size with your choice of E-flute (compact print-friendly) or B-flute (extra crush protection) — complete with your brand colors via litho-laminate CMYK. For brands scaling Q4 holiday volume, lock in production slots now with a 90-day rolling forecast — no deposit required on first orders under 5,000 units.
+
+📦 **[Get Your Free Mailer Sample →](https://bincaipaperbox.en.made-in-china.com/contact-info.html)**

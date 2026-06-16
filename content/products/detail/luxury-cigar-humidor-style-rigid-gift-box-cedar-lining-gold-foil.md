@@ -125,4 +125,10 @@ Bincai brings 22 years of rigid-box expertise to cigar packaging with a level of
 
 **Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000+8,000 smart factory) | 220,000+ gift boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
 
-**Shipping:** Flat-packed nested assembly — reduces freight volume by 60%. Standard lead time 10–14 days for production, 5–7 days for pre-production samples. MOQ 500 units with flexible OEM/ODM arrangements. Free custom samples with your logo within 7 business days. Contact us for a quote.
+## Launching a Limited-Edition Cigar Release?
+
+**Tell us your box format (singles, 3-pack, 5-pack, 10-pack) and we'll ship a free gold-foil sample with genuine Spanish cedar lining within 7 days — your logo, your woodgrain choice, your specs.** Every sample includes a Boveda 69% RH humidity pack pre-installed so you can test aroma retention before production. For tobacconists placing reorders of 2,000+ units, ask about our bi-annual production slot program with locked pricing and 15-day turnaround.
+
+🥃 **[Request Your Free Humidor-Style Sample →](https://bincaipaperbox.en.made-in-china.com/contact-info.html)**
+
+**Shipping:** Flat-packed nested assembly — reduces freight volume by 60%. Standard lead time 10–14 days for production, 5–7 days for pre-production samples. MOQ 500 units with flexible OEM/ODM arrangements.
