@@ -1,6 +1,6 @@
 ---
 title: "Custom Paper Box Manufacturer | Rigid Boxes, Folding Cartons, Corrugated Mailers, Magnetic Closure, Jewelry Boxes — ISO 9001 & FSC Certified | Bincai"
-description: "Guangdong Bincai Color Printing — custom paper box manufacturer with 23 years of experience. ISO 9001:2015 & FSC Chain-of-Custody (C147399) certified. 18,000 sqm dual factory (10,000 + 8,000 sqm smart factory, 2025 expansion) with KBA Rapida 1050 4-color and Heidelberg Speedmaster 7+1 UV offset presses, BHS 2.5m corrugator, Bobst SP 102 BMA die-cutter. Daily output 1.7 million color boxes + 220,000 gift boxes. 951 orders fulfilled from 379 active clients across 109 countries. Revenue: ¥590K YTD Jan-May 2026, ¥1.67M in 2025 (21% YoY), ¥4.28M cumulative 3-year. 32 orders/month (162 YTD 2026, 5 completed months). 304 unique products shipped across 986 line items (top product: eco-friendly kraft tubes, 47 orders). 7-day fastest delivery. Diamond Member on Made-in-China.com with 987 products live. MOQ 500 units with free pre-production samples. Based in Foshan, Guangdong, China — exporting worldwide since 2003."
+description: "Guangdong Bincai Color Printing — custom paper box manufacturer with 23 years of experience. ISO 9001:2015 & FSC Chain-of-Custody (C147399) certified. 18,000 sqm dual factory (10,000 + 8,000 sqm smart factory, 2025 expansion) with KBA Rapida 1050 4-color and Heidelberg Speedmaster 7+1 UV offset presses, BHS 2.5m corrugator, Bobst SP 102 BMA die-cutter. Daily output 1.7 million color boxes + 220,000 gift boxes. 951 orders fulfilled from 379 active clients across 109 countries (232 US-based, 61% of client base). Revenue: ¥590K YTD Jan-May 2026, ¥1.67M in 2025 (21% YoY), ¥4.28M cumulative 3-year. 32 orders/month (162 YTD 2026, 5 completed months). 304 unique products shipped across 986 line items (top product: eco-friendly kraft tubes, 47 orders). 7-day fastest delivery. Diamond Member on Made-in-China.com with 987 products live. MOQ 500 units with free pre-production samples. Based in Foshan, Guangdong, China — exporting worldwide since 2003."
 keywords: "custom paper box manufacturer, rigid gift box, folding carton, corrugated mailer, magnetic closure box, jewelry box, kraft eco box, Bincai Color Printing, Guangdong packaging factory, ISO 9001 FSC certified, KBA Rapida 1050, Heidelberg 7+1 UV, BHS corrugator, Bobst die-cutter, 18,000 sqm factory, 23 years packaging, Foshan paper box manufacturer, wholesale custom boxes China, OEM paper box, luxury packaging, sustainable packaging, eco-friendly paper box, FSC paper box, 1.7M daily output"
 ---
 
@@ -59,7 +59,7 @@ Velvet flocking, PU leatherette, satin-lined jewelry boxes with ring rolls, neck
 - **MOQ 500 Units** — Flexible quantities for startups and enterprise alike
 - **Free Pre-Production Samples** — 5–7 day turnaround, freight collect
 - **7-Day Fastest Delivery** — DHL/UPS/FedEx Express to US/EU markets
-- **32 Orders/Month** — 951 orders fulfilled over 3 years (156 in 2023, 250 in 2024, 383 in 2025, 162 YTD Jan-May 2026. Revenue: ¥630K→¥1.39M→¥1.67M, ¥4.28M cumulative)
+- **32 Orders/Month** — 951 orders fulfilled over 3 years (156 in 2023, 250 in 2024, 383 in 2025, 162 YTD Jan-May 2026. ~30-40 orders in active production at any time across the 18,000 sqm facility. Revenue: ¥630K→¥1.39M→¥1.67M, ¥4.28M cumulative)
 - **304 Unique Products Shipped** — Across 986 line items in 36 months of operational data
 - **Diamond Member on Made-in-China.com** — Audited Supplier, 987 products live
 
@@ -69,7 +69,7 @@ Velvet flocking, PU leatherette, satin-lined jewelry boxes with ring rolls, neck
 
 *ISO 9001:2015 Certified · FSC C147399 Chain-of-Custody · High-Tech Enterprise Guangdong · 23 Years Manufacturing Excellence · 379 Active Clients · 109 Countries · Foshan, Guangdong, China*
 
-- **32 orders/month** (951 fulfilled from 3-year OKKI CRM: 156 in 2023, 250 in 2024, 383 in 2025, 162 YTD Jan-May 2026. Revenue: ¥630K→¥1.39M→¥1.67M, ¥4.28M cumulative)
+- **32 orders/month** (951 fulfilled from 3-year OKKI CRM: 156 in 2023, 250 in 2024, 383 in 2025, 162 YTD Jan-May 2026; 9 in May 2026. ~30-40 in active production at any time. Revenue: ¥630K→¥1.39M→¥1.67M, ¥4.28M cumulative)
 - **379 active clients** (verified order data — 232 from US, top markets: US, UK, Japan, Canada, Italy, Germany)
 - **Fastest delivery: 7 days** (DHL/UPS/FedEx Express to US/EU)
 - **304 unique products shipped** (986 line items across 36 months of operational data)
