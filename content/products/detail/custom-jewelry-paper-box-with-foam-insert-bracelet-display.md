@@ -16,7 +16,7 @@ params:
 
 ## Product Overview
 
-Showcase bracelets, bangles, and fine jewelry with this premium custom rigid jewelry box featuring a precision-cut foam insert. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — an ISO 9001:2015 and FSC Chain-of-Custody certified factory with 22 years of packaging expertise (founded 2003). Our 18,000 sqm Foshan facility (10,000+8,000 smart factory, commissioned in 2025, produces over 220,000 rigid gift boxes daily across Heidelberg 7+1 UV and KBA 1050 4-color offset presses. Each jewelry box is hand-finished by our 80+ skilled craftspeople, ensuring museum-grade presentation for luxury brands worldwide.
+Showcase bracelets, bangles, and fine jewelry with this premium custom rigid jewelry box featuring a precision-cut foam insert. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — an ISO 9001:2015 and FSC Chain-of-Custody certified factory with 22 years of packaging expertise (founded 2003). Our 18,000 sqm Foshan facility (10,000+8,000 smart factory, commissioned in 2025, produces over 220,000 rigid gift boxes daily across Heidelberg 7+1 UV and KBA 1050 4-color offset presses. Each jewelry box is hand-finished by our 80+ skilled craftspeople, ensuring museum-grade presentation for luxury brands worldwide. Learn more about our [rigid box interior engineering — foam, flocking, and satin lining techniques](/blog/rigid-box-interior-engineering-foam-flocking-satin-lining-bincai/).
 
 ## Manufacturing Specifications
 
@@ -119,8 +119,11 @@ A: Standard MOQ is 500 units per design. We provide free pre-production samples 
 A: Our KBA Rapida 105 4-color press runs at 15,000 sheets/hour with inline spectrophotometer monitoring. Color consistency is maintained within ΔE ≤ 2.0 across the entire run per ISO 12647-2. The Heidelberg Speedmaster CD 102 7+1 UV adds inline coating in the same pass, eliminating registration drift between color and finish layers.
 
 **Q: What certifications does Bincai hold for sustainable jewelry packaging?**
-A: Bincai holds ISO 9001:2015 quality management certification, FSC Chain-of-Custody (FSC-C147399) for sustainably sourced paper and board, and Sedex SMETA ethical manufacturing audit. Our 350+ skilled workers operate across the 18,000 sqm facility under documented quality systems. All greyboard and art paper sourcing is fully traceable.
+A: Bincai holds ISO 9001:2015 quality management certification, FSC Chain-of-Custody (FSC-C147399) for sustainably sourced paper and board, and Sedex SMETA ethical manufacturing audit. Our 350+ skilled workers operate across the 18,000 sqm facility under documented quality systems. All greyboard and art paper sourcing is fully traceable. See our [complete certifications and quality assurance overview](/blog/bincai-certifications-quality-assurance-iso-fsc-g7/).
 
 **Q: What is the production lead time and daily capacity for rigid jewelry boxes?**
 A: Standard lead time is 10-15 working days from artwork approval, with expedited 7-10 day service available. Our dual-factory produces 220,000+ rigid gift boxes daily alongside 1.7M color boxes. With 22 years of experience since 2003, we've delivered to 200+ luxury brands across 60+ countries without missing a deadline — even during peak holiday seasons.
 
+---
+
+**Explore more:** Browse our full range of [jewelry packaging boxes](/categories/jewelry-boxes/). For a deeper look at our manufacturing heritage, read [22 years of paper box manufacturing at Bincai](/blog/22-years-paper-box-manufacturing-bincai/).
