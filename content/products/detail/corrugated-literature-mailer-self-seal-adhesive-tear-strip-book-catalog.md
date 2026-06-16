@@ -71,6 +71,11 @@ Bincai operates one of the largest dedicated BHS 2.5m corrugator lines in Southe
 
 All corrugated mailers are manufactured with 70–85% recycled content (standard kraft liners) or FSC-certified virgin fiber (white-top). The self-seal adhesive is applied as a thin 15mm strip using <1g of hot-melt per unit — minimal material usage. Mailers are 100% recyclable in standard corrugated recovery streams (adhesive and tear strip fibers disperse during repulping). Our BHS corrugator line recovers 98% of trim waste for immediate re-pulping in a closed-loop system.
 
+## Related Resources
+
+- **[Corrugated Mailer Design Guide: Flutes, Adhesives & ISTA Compliance →](/blog/corrugated-mailer-design-guide-bincai/)** — Technical reference covering B-flute vs E-flute selection, self-seal adhesive chemistry, tear strip perforation engineering, and Amazon FFP Tier 1 certification requirements — everything you need to specify the right mailer for your book or catalog fulfillment operation.
+- **[Explore All Corrugated Mailers →](/categories/corrugated-mailers/)** — Browse our full range of corrugated shipping solutions: literature mailers, book wraps, subscription box shippers, and custom die-cut mailers in B-flute, E-flute, and double-wall configurations. MOQ 500, 250K daily output.
+
 ## FAQ
 
 **Q: Will the self-seal adhesive hold during summer shipping to hot climates?**

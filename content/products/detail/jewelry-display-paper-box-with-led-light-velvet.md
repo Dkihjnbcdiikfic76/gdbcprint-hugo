@@ -100,6 +100,11 @@ A: Free pre-production samples ship within 5–7 business days for standard conf
 **Q: What is the lead time for a 10,000-unit order?**
 A: Standard production lead time is 12–20 days after sample approval for orders up to 10,000 units. Larger quantities scale proportionally: 10,000–50,000 units: 20–30 days; 50,000+ units: 30–45 days. Our daily rigid box output of 220,000+ units ensures we can accommodate rush orders — contact us for expedited scheduling.
 
+## Related Resources
+
+- **[Rigid Box Interior Engineering: Foam, Flocking & Satin Lining →](/blog/rigid-box-interior-engineering-foam-flocking-satin-lining-bincai/)** — Technical deep-dive into luxury jewelry box interiors: velvet pile height optimization, EVA foam die-cutting for custom-fit jewelry cavities, satin vs microfiber lining selection, and how Bincai integrates LED modules with precision-cut foam inserts for illuminated display.
+- **[Explore All Jewelry & Watch Boxes →](/categories/jewelry-boxes/)** — Browse our full range of premium jewelry packaging: LED-lit display boxes, necklace presentation sets, ring boxes, bracelet trays, earring cards, and multi-compartment jewelry sets. Velvet flocking, hot foil logos, custom foam inserts, MOQ 500.
+
 ## Sustainability & Compliance
 
 | Standard / Certification | Scope | Status |
