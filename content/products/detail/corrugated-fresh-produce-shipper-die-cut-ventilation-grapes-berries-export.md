@@ -81,6 +81,22 @@ Standard corrugated boxes trap heat and moisture — the enemy of fresh produce 
 | Burst Strength | ISO 2759 | ≥900 kPa |
 | Dimensional Tolerance | Internal | ±2.0mm on all panels |
 
+## When Each Packaging Format Wins — Fresh Produce Export Decision Guide
+
+Selecting the right shipper for produce export isn't just about box specs — it's about matching format to the supply chain reality:
+
+| Supply Chain Scenario | Recommended Format | Why |
+|---|---|---|
+| **Premium table grapes, air freight, 3-5 day transit** | **Ventilated B-flute shipper, 32-vent pattern** | Maximum airflow prevents CO₂ buildup during rapid transport; B-flute is light enough to not trigger air freight weight penalties |
+| **Berries, sea freight, 21-30 day transit, cold chain** | **Ventilated B-flute with moisture-resistant coating** | Coating maintains box integrity through 30 days at 95% RH; vents manage respiration humidity without collapse |
+| **Mixed produce consolidation (grapes + berries + cherries in one container)** | **Multiple vent patterns per SKU, all same B-flute platform** | Different respiration rates require different airflow; same board platform simplifies pallet stacking and inventory |
+| **Organic produce with sustainability certification required** | **Ventilated B-flute, FSC + soy-based inks** | Full documentation trail for organic certification; FSC chain-of-custody satisfies retailer sustainability requirements |
+| **Local farm-to-market, 50 km, same-day delivery** | Unvented or minimal-vent B-flute | Short transit doesn't need humidity engineering — save $0.10-0.20/unit by omitting coating and reducing vent count |
+| **Frozen produce (-18°C supply chain)** | Wax-coated or moisture-barrier corrugated | Standard water-based coating can become brittle at -18°C — wax alternative or PE-laminated board needed |
+| **High-end DTC (direct-to-consumer) produce box** | **Ventilated B-flute + full-color offset print** | Branded produce box that arrives on doorsteps — KBA 1050 offset print turns a commodity shipper into a premium experience |
+
+**The B-flute standard:** For fresh produce export, B-flute (3mm) remains the dominant format because it hits the sweet spot between compression strength (400kg top-load), light weight, and cost. E-flute (1.6mm) is too thin for stacking more than 3 layers in cold storage; BC double-wall (6mm) adds 50% more weight and cost without a proportional strength gain. The "why" behind B-flute dominance isn't tradition — it's physics meeting economics.
+
 ## Sustainability
 
 | Aspect | Detail |

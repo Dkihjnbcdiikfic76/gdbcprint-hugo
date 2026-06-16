@@ -101,6 +101,22 @@ Bincai's corrugated mailers pass through 7 quality checkpoints:
 | **REACH** | Compliant | No SVHC in inks, coatings, or adhesives |
 | **Recyclability** | 100% Recyclable | Single-material kraft construction; repulpable water-based adhesives |
 
+## When BC-Flute Double-Wall Wins — Format Selection Guide for Industrial Parts
+
+Not every industrial part needs double-wall. Use this guide to match packaging format to your shipment profile:
+
+| Your Shipment | Recommended Format | Why |
+|---|---|---|
+| **Part < 5 kg, non-fragile, domestic** | Single-wall B-flute (3mm) | Adequate protection, lowest cost — $0.30-0.80/unit |
+| **Part 5-35 kg, sharp/fragile, international** | **BC-Flute Double-Wall (6mm)** | 200# burst resists puncture from sharp edges; 44 ECT handles stacking in container |
+| **Part > 35 kg, extreme heavy** | Triple-wall BCA (9mm) or corrugated pallet box | BCA: 80+ ECT, 275+ burst — for engine blocks, castings, heavy forgings |
+| **Corrosion-sensitive bare metal** | **BC-Flute + VCI treatment** | Volatile Corrosion Inhibitor protects bare steel/iron/aluminum for 90 days sea freight |
+| **Amazon FBA / e-commerce parcel** | **BC-Flute, ISTA 3A certified** | Amazon requires ISTA 3A or SIOC certification for FBA — double-wall tested to standard |
+| **Retail-ready (customer opens)** | BC-Flute with tear-strip | Easy-open without tools; white-top kraft exterior for polished unboxing |
+| **Just parts in a plastic bag** | Single-wall B-flute | Double-wall is overkill — save $0.15-0.40/unit |
+
+**Decision threshold:** The upgrade from B-flute to BC double-wall adds approximately $0.15-0.40/unit. If your part weighs over 5 kg, has sharp edges, or ships internationally in containers where boxes are stacked 5+ layers high, the double-wall investment pays for itself in reduced damage claims. For domestic e-commerce shipments of lightweight parts under 5 kg, single-wall is sufficient — invest the savings in printed branding instead.
+
 ## Why Choose Bincai for Industrial Corrugated Packaging?
 
 | Advantage | What It Means for You |

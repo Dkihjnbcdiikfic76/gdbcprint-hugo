@@ -78,6 +78,23 @@ A: Yes. Our velvet flocking can be custom-dyed to match any Pantone color for or
 **Q: What is REACH compliance and why does it matter for gift boxes sold in the EU?**
 A: REACH (Registration, Evaluation, Authorisation and Restriction of Chemicals) is the EU regulation (EC 1907/2006) governing chemical substances in products sold within the European Economic Area. For paper packaging, REACH compliance means all materials — greyboard, adhesives, inks, coatings, flocking fibers, and magnets — have been tested and verified free of Substances of Very High Concern (SVHCs) above 0.1% concentration. This is essential for brands selling to EU consumers and is increasingly required by global retailers. Bincai provides REACH compliance certificates with every EU-bound shipment at no additional cost.
 
+## Why This Magnetic Closure Box vs Standard Gift Boxes
+
+The magnetic closure box isn't just a box with magnets — it's a different packaging format with distinct advantages for specific use cases:
+
+| Factor | Standard Rigid Box (Lid+Base) | Cardboard Folding Box | **Bincai Magnetic Closure Box** |
+|---|---|---|---|
+| **Closure Type** | Friction-fit — lid rests on base | Tuck flap — can loosen over time | Hidden N42-N52 magnets — satisfying snap, 5.0N retention |
+| **Unboxing Experience** | ★★ — functional | ★ — utilitarian | ★★★★★ — luxury reveal, audible magnetic click |
+| **Exterior Cleanliness** | Good | Variable (flap lines visible) | Clean — zero visible hardware, uninterrupted design surface |
+| **Reusability** | Good | Poor — wears after 20+ cycles | Excellent — 10,000+ open/close cycles, 500+ without force degradation |
+| **Flat-Ship** | No — ships assembled | Yes — ships flat | Yes — ships flat, erects in seconds |
+| **Best For** | Gift presentation, retail display | Cost-sensitive volume shipping | High-end jewelry, watches, accessories — where unboxing IS the brand |
+| **Unit Cost (1K qty)** | $1.50–5.00 | $0.20–0.80 | $2.00–6.00 |
+| **Gift-Ready Out of Box** | Yes | Needs tissue/wrapping | Yes — velvet interior + magnetic closure = immediately giftable |
+
+**When magnetic closure wins:** If your product retails above $50 and the customer opens the packaging themselves (e-commerce, boutique retail), the satisfying magnetic snap and clean exterior elevate the perceived value. For jewelry, watches, and accessories — where the unboxing moment is often shared on social media — the magnetic closure delivers an experience that friction-fit boxes and tuck-flap cartons can't match. The hidden hardware design means your brand's foil-stamped logo sits on an uninterrupted surface, not competing with visible closure mechanisms.
+
 ## Why Bincai
 
 | Strength | Detail |

@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Rigid Gift Boxes](/images/rigid-gift-boxes.jpg)
+![Bincai Rigid Gift Boxes](/images/cat-rigid-others.jpg)
 
 ## Product Overview
 
@@ -71,6 +71,23 @@ Custom rigid gift box with telescopic lid and precision hot foil stamping — ma
 | **Drop Test** | ISTA 1A | 10-drop sequence at 760mm — box maintains structural integrity; contents protected |
 | **Cycle Testing** | Internal | 500+ open/close cycles — zero hinge loosening or delamination |
 | **ISO 9001:2015** | Full traceability from raw material to finished box; AQL 2.5 Level II sampling |
+
+## Why This Telescopic Lid Rigid Box vs Standard Two-Piece Box
+
+The telescopic lid design isn't an aesthetic choice — it's an engineering decision that affects everything from brand perception to shipping logistics:
+
+| Factor | Standard Two-Piece Box | **Bincai Telescopic Lid Box** |
+|---|---|---|
+| **Unboxing Reveal** | Lid lifts off — product appears all at once | Lid slides up — gradual reveal, 30-120mm dramatic unveiling |
+| **Lid Exterior Canvas** | Seam visible at lid-to-base junction | Clean, uninterrupted exterior — full-face foil/print canvas with no construction seams |
+| **Perceived Value** | ★★★ — standard gift box | ★★★★★ — retail luxury presentation |
+| **Flat-Ship Capability** | Base nests inside lid — ships assembled | Telescopic pieces nest concentrically — 30% more pallet density |
+| **Print Registration Across Parts** | Lid and base printed separately — slight mismatch possible | Lid extends over base — visible misalignment minimal |
+| **Best For** | Volume gifts, mass retail | Premium cosmetics, jewelry, spirits, limited editions |
+| **Unit Cost (2K qty)** | $0.80–3.00 | $1.50–5.00 |
+| **Shelf Presence** | Standard | Commanding — extra height creates billboard effect on retail shelves |
+
+**The telescopic advantage for luxury brands:** When a customer opens a standard two-piece box, they complete the unboxing in one motion — lift the lid, see the product. The telescopic lid adds a 1-3 second sliding window where anticipation builds before the product is revealed. For prestige cosmetics, limited-edition spirits, and premium corporate gifts where packaging IS part of the product story, those extra seconds of reveal translate directly to perceived value. Plus, the seamless exterior surface eliminates the lid-to-base junction that limits foil stamping surface area on standard boxes — you get one uninterrupted canvas for brand expression.
 
 ## Factory
 

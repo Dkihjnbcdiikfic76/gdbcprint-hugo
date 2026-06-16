@@ -112,6 +112,23 @@ A: Our water-based flexo inks are formulated for abrasion resistance. Under norm
 
 A: MOQ is 500 units for a custom die-cut mailer with new cutting and creasing dies. The steel rule die is produced in-house in 3-5 days and included at no charge for orders of 2,000+ units. For smaller orders, the die charge is $150-250 depending on complexity. We can also adapt your jar dimensions to an existing mailer template from our die library — if a close match exists, MOQ is 500 units with no die charge.
 
+## Why This Die-Cut Candle Mailer vs Standard Corrugated Shipping Box
+
+A generic corrugated box ships your candle — a die-cut mailer with engineered foam cradle protects it. Here's the difference:
+
+| Factor | Standard Corrugated Box | **Bincai Die-Cut Candle Mailer with Foam Cradle** |
+|---|---|---|
+| **Jar Protection** | Loose fill (peanuts, crumpled paper) — jar can shift during transit, contacting box walls | EPE foam cradle die-cut to jar profile — jar suspended 20mm from all six walls |
+| **Breakage Rate** | 3-8% typical for glass jars in standard corrugated | <0.5% — ISTA 1A drop-tested from 760mm, zero jar-to-wall contact |
+| **Assembly Speed** | Tape bottom + pack loose fill + tape top: 45-60 seconds | Self-locking bottom + drop-in foam cradle: <10 seconds per box |
+| **Unboxing Experience** | Loose fill spills everywhere — wasteful, messy | Clean lift-out — candle presented in branded cradle, zero loose fill |
+| **Brand Display** | Plain brown kraft or basic flexo print on corrugated | Full-color flexo print or litho-lam label — box doubles as brand billboard |
+| **Freight Optimization** | Air-filled loose fill wastes volume | Foam cradles nest for density — 30% more units per pallet vs loose-fill boxes |
+| **Unit Cost (1K qty)** | $0.40–1.50 | $0.85–3.20 |
+| **Best For** | Budget shipping, non-fragile items | Fragile glass, candles, ceramics — where arrival condition = brand reputation |
+
+**The die-cut advantage for candle brands:** When a customer opens a box and finds broken glass and wax shards mixed with packing peanuts, they don't blame the carrier — they blame your brand. The engineered foam cradle eliminates the "fingers crossed" approach to candle shipping. For subscription box services shipping 10,000+ candles monthly, reducing breakage from 5% to 0.5% saves thousands in replacements and preserves customer trust. And the branded exterior turns a shipping expense into a marketing asset — every box that travels through the carrier network is a mobile advertisement.
+
 ## Why Bincai?
 
 Bincai operates its own BHS 2.5m corrugator — not a sheet plant that buys combined board from a third party. This vertical integration means your candle mailer's flute profile, board grade, and liner weight are specified at the roll-stock level, not selected from a limited inventory of standard sheets. The die-cut foam cradle is produced on our in-house EPE fabrication line — not sourced from a separate packaging supplier — so the cradle and box are designed together, not cobbled together from different vendors. When a candle brand ships 50,000 jars for holiday season and zero arrive cracked, that's not luck — it's integrated engineering from corrugator to cradle.

@@ -106,6 +106,23 @@ The hexagon shape isn't just geometry — it's a branding decision that tells yo
 
 **The hexagon advantage for jewelry brands:** In a sea of square boxes at trade shows and department store counters, the hexagonal shape stops the eye. The transparent PET window framed by a hexagon border creates a natural "spotlight" effect — the earrings appear to float in a geometric frame. For artisan jewelers and limited-edition collections where packaging IS part of the product story, the hexagon box signals "this piece was made with intention" before the lid even opens.
 
+## When Hexagonal Wins — Scenario Selector for Jewelry Brands
+
+The hexagonal format isn't for every product. Use this decision guide:
+
+| Your Situation | Recommended Format | Why |
+|---|---|---|
+| **Mass-market jewelry with 50+ SKUs** | Standard square box | Cost efficiency, uniform shelf grid, easier inventory management |
+| **Artisan/handcrafted jewelry, limited editions** | **Hexagonal Box** | Distinctive shape signals "handcrafted" before box opens — stands out at craft fairs and boutique displays |
+| **Bridal party gifts (5-20 units)** | **Hexagonal Box with personalized foil** | Unique shape + custom foil = memorable keepsake; bridesmaids keep the box |
+| **E-commerce jewelry (ship in mailer)** | Standard square or rectangular | Hexagon shapes are less space-efficient in shipping mailers — square reduces DIM weight |
+| **Trade show sample display** | **Hexagonal Box** | In a sea of square sample boxes, the hexagon stops attendees — booth traffic driver |
+| **Duty-free / airport retail** | **Hexagonal Box with window** | Small footprint (85mm) + window visibility + unique shape = impulse purchase magnet |
+| **Volume jewelry brand (>10K units)** | Standard square box | Die-cut complexity of hexagon adds $0.20-0.50/unit at scale — square is more cost-effective for volume |
+| **Brand with hexagonal logo/motif** | **Hexagonal Box — obviously** | Packaging geometry that echoes your brand mark creates instant visual recognition |
+
+**Sweet spot:** Artisan jewelers, bridal collections, and brands where packaging IS a differentiator (not a cost center). For these use cases, the hexagon's uniqueness advantage outweighs the 20-30% cost premium over square boxes.
+
 ## FAQ
 
 **Q: What is the MOQ?**
