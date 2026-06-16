@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Corrugated Mailer](/images/cat-fold-mailer.jpg)
+![Bincai Corrugated Mailer](/images/corrugated-mailers.jpg)
 
 The Heavy-Duty Corrugated E-Commerce Shipper with Tear Strip and Custom Print is purpose-built for the demands of direct-to-consumer e-commerce — where the shipping box IS the brand experience. Manufactured by Guangdong Bincai Color Printing Co., Ltd. in their 18,000 sqm Foshan facility, this shipper combines double-wall B/C-flute construction for crush resistance with an integrated tear strip that eliminates the frustration of tape and box cutters. Custom CMYK offset or flexo printing on the exterior turns a utilitarian shipping box into a mobile brand billboard — every delivery is a marketing opportunity.
 

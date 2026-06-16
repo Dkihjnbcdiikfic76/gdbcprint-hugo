@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Corrugated Mailers](/images/cat-fold-mailer.jpg)
+![Bincai Corrugated Mailers](/images/corrugated-mailers.jpg)
 
 Double-wall corrugated heavy-duty fine china dinnerware shipper with precision honeycomb cell divider — purpose-engineered for protecting fine china, porcelain, and ceramic dinnerware during domestic and international shipping. The BHS 2.5m corrugator produces consistent BC/BE/AB flute double-wall board with superior edge crush test (ECT) ratings for stacking strength. The die-cut honeycomb cell divider isolates each plate, bowl, or platter from adjacent items, preventing edge chipping and surface scratching. Manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). Daily output 1.7 million boxes across 18,000 sqm dual-factory campus.
 

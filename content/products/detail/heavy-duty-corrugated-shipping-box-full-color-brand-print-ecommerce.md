@@ -18,7 +18,7 @@ tags:
   - ISO 9001 certified
 ---
 
-![Bincai Corrugated Mailer](/images/cat-fold-mailer.jpg)
+![Bincai Corrugated Mailer](/images/corrugated-mailers.jpg)
 
 Heavy-duty corrugated shipping box with full-color brand printing designed for e-commerce fulfillment by Guangdong Bincai Color Printing Co., Ltd. (founded 2003). Available in double-wall or triple-wall configurations with B-flute, BC-flute, or BA-flute corrugation for maximum product protection during shipping. The self-sealing adhesive strip and integrated tear strip provide quick packing efficiency and a clean consumer unboxing experience. Produced on our BHS 2.5m corrugator line with flexographic printing. Daily output: 1.7 million boxes.
 

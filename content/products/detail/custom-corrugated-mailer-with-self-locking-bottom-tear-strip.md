@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Corrugated Mailers](/images/cat-fold-mailer.jpg)
+![Bincai Corrugated Mailers](/images/corrugated-mailers.jpg)
 
 Custom corrugated mailer with self-locking bottom and tear strip — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). Purpose-built for e-commerce and subscription box shipping, the self-locking bottom eliminates the need for tape during assembly (assembles in under 3 seconds) while the integrated perforated tear strip gives end customers an effortless, tool-free unboxing experience. Produced on KBA Rapida 105 4-color offset and Heidelberg Speedmaster CD 102 7+1 UV presses with Bobst SP 102 flatbed die-cutting (±0.15mm precision) across 18,000 sqm of factory space (18,000 sqm integrated facility (10,000+8,000 smart factory), Foshan Guangdong). Daily output 1.7 million boxes. ISTA 3A drop-test validated for e-commerce fulfillment. ISO 9001:2015 and FSC Chain-of-Custody certified.
 

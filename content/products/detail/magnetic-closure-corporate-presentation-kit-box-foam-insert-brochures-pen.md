@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Magnetic Closure Boxes](/images/cat-rigid-others.jpg)
+![Bincai Magnetic Closure Boxes](/images/magnetic-closure-boxes.jpg)
 
 Magnetic closure corporate presentation kit box with custom foam insert — designed and manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). This premium presentation case transforms a stack of documents into a memorable brand experience. The custom die-cut EVA or PU foam insert precisely holds A4 brochures, business cards, a premium pen, and a USB drive or product sample — every item has its place. Hidden N52 neodymium magnets provide a satisfying snap closure that conveys quality the moment the recipient opens the box. The exterior features soft-touch matte lamination with gold or silver foil-stamped logo, delivering the weight and presence of a luxury product. Produced on German-engineered KBA Rapida 105 4-color offset press and Heidelberg Speedmaster CD 102 7+1 UV press at our 18,000 sqm Foshan facility — delivering 220,000+ rigid boxes daily under ISO 9001:2015 and FSC Chain-of-Custody certification.
 

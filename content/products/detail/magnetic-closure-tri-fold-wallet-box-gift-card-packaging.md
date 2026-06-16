@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, CPSIA (US)"
 ---
 
-![Magnetic Closure Tri-Fold Wallet Box](/images/cat-rigid-others.jpg)
+![Magnetic Closure Tri-Fold Wallet Box](/images/magnetic-closure-boxes.jpg)
 
 ## Product Overview
 

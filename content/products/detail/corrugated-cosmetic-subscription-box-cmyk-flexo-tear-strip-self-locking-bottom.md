@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Corrugated Cosmetic Subscription Box](/images/cat-fold-mailer.jpg)
+![Bincai Corrugated Cosmetic Subscription Box](/images/corrugated-mailers.jpg)
 
 The corrugated cosmetic subscription box is a high-performance ecommerce packaging solution engineered for beauty brands running monthly curation programs, skincare sampling kits, and cosmetic discovery boxes. Manufactured by Guangdong Bincai Color Printing Co., Ltd. — a 22-year Foshan paper box specialist with 18,000 sqm of dual-factory production space — this mailer combines full-color CMYK flexo printing, a clean perforated tear strip for customer unboxing, and a self-locking crash-lock bottom that assembles in under three seconds without tape or glue.
 

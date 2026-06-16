@@ -18,7 +18,7 @@ tags:
   - ISO 9001 certified
 ---
 
-![Bincai Magnetic Wine Box](/images/cat-rigid-others.jpg)
+![Bincai Magnetic Wine Box](/images/magnetic-closure-boxes.jpg)
 
 Magnetic Closure Luxury Wine Bottle Gift Box with satin ribbon pull tab by Guangdong Bincai Color Printing Co., Ltd. — a Diamond Member on Made-in-China.com with 22 years of manufacturing excellence (founded 2003). Designed to transform a standard 750ml wine or spirits bottle into a premium gift presentation, this rigid box features a die-cut interior cavity that cradles the bottle securely, a satin ribbon pull for effortless lifting, and N52 neodymium magnets for a satisfying snap-shut closure. Produced on KBA 1050 4-color and Heidelberg 7+1 UV presses across our 18,000 sqm facility. Daily output: 1.7 million color boxes + 220,000+ gift boxes.
 

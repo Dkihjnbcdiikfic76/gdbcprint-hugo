@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Double-Wall Corrugated Heavy-Duty E-Commerce Shipping Mailer](/images/cat-fold-mailer.jpg)
+![Double-Wall Corrugated Heavy-Duty E-Commerce Shipping Mailer](/images/corrugated-mailers.jpg)
 
 Double-wall BC-flute corrugated heavy-duty e-commerce shipping mailer — engineered for direct-to-consumer brands shipping fragile, heavy, or high-value products, from Guangdong Bincai Color Printing Co., Ltd. (founded 2003). This BC-flute double-wall construction (7mm combined thickness) features a 5-ply structure: 125gsm Kraft liner → 110gsm Medium (B-flute) → 125gsm Kraft liner → 110gsm Medium (C-flute) → 125gsm Kraft liner. The result: 2.5× the burst strength of single-wall B-flute and an Edge Crush Test (ECT) rating of 44 lb/in — suitable for products up to 25kg. Integrated features include a self-locking crash-lock bottom (no tape required, assembles in 2 seconds), dual tear-strip opening for recipient convenience, and dust flaps for secure closure. Produced on Bincai's BHS 2.5m corrugator line — the world's most advanced corrugated production system — with inline 4-color flexo printing, rotary die-cutting, and automatic gluing. Our 18,000 sqm Foshan facility delivers 1.7M boxes daily under ISO 9001:2015 and FSC Chain-of-Custody certification.
 

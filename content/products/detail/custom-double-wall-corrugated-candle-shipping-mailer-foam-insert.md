@@ -18,7 +18,7 @@ tags:
   - ISO 9001 certified
 ---
 
-![Bincai Corrugated Mailer](/images/cat-fold-mailer.jpg)
+![Bincai Corrugated Mailer](/images/corrugated-mailers.jpg)
 
 Custom double-wall corrugated candle shipping mailer with die-cut PE foam insert by Guangdong Bincai Color Printing Co., Ltd. — a Diamond Member on Made-in-China.com with 22 years of manufacturing excellence (founded 2003). Engineered specifically for the e-commerce candle industry, this mailer combines BC-flute double-wall corrugated strength with a precision die-cut foam cradle that immobilizes candles during transit. The self-locking bottom and tear-strip opening create a frustration-free unboxing experience. Corrugated board is produced in-house on our BHS 2.5m corrugator, ensuring consistent quality and shorter lead times. Produced across our 18,000 sqm facility (10,000+8,000 smart factory) (2025 expansion). Daily output: 1.7 million color boxes + 450,000+ corrugated boxes.
 

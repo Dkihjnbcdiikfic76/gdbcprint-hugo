@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, ISTA"
 ---
 
-![Heavy-Duty Triple-Wall Corrugated Export Shipping Box](/images/cat-fold-mailer.jpg)
+![Heavy-Duty Triple-Wall Corrugated Export Shipping Box](/images/corrugated-mailers.jpg)
 
 ## Product Overview
 

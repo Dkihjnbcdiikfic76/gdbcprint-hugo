@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Magnetic Closure Wood-Grain Premium Wine & Spirit Box](/images/cat-rigid-others.jpg)
+![Magnetic Closure Wood-Grain Premium Wine & Spirit Box](/images/magnetic-closure-boxes.jpg)
 
 Magnetic closure wood-grain premium wine and spirit box — the definitive packaging solution for luxury beverage brands, from Guangdong Bincai Color Printing Co., Ltd. (founded 2003, 22 years). Engineered with a 3mm heavy-duty rigid greyboard structure wrapped in realistic wood-grain textured paper, this magnetic closure box delivers the gravitas of a wooden humidor at a fraction of the cost. Six wood-grain finishes are available: American white oak, French walnut, Honduran mahogany, cherry wood, African ebony, and Scandinavian pine. Each features high-definition wood-grain texturing with authentic knot and grain reproduction, finished with a matte protective laminate. The N52 neodymium magnetic closure (4 magnets) provides a premium snap-close experience while the die-cut bottle cradle insert with satin ribbon lift securely holds standard 750ml bottles, magnum 1.5L formats, and custom spirits bottle shapes. Produced on KBA Rapida 105 4-color and Heidelberg Speedmaster CD 102 7+1 UV offset presses with Bobst SP 102 BMA foil stamping for brand logos and vintage markings. Our 18,000 sqm Foshan facility delivers 220,000+ rigid boxes daily under ISO 9001:2015 and FSC Chain-of-Custody certifications.
 

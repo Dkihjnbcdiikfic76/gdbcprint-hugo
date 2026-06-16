@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Magnetic Closure Rigid Candle Gift Box](/images/cat-rigid-others.jpg)
+![Magnetic Closure Rigid Candle Gift Box](/images/magnetic-closure-boxes.jpg)
 
 ## Magnetic Closure Rigid Candle Gift Box with Satin Ribbon — Premium Home Fragrance Packaging
 

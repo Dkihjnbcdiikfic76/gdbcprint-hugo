@@ -18,7 +18,7 @@ tags:
   - ISO 9001 certified
 ---
 
-![Bincai Magnetic Closure Box](/images/cat-rigid-others.jpg)
+![Bincai Magnetic Closure Box](/images/magnetic-closure-boxes.jpg)
 
 Magnetic closure multi-layer tea chest gift box with gold foil embossing by Guangdong Bincai Color Printing Co., Ltd. — a Diamond Member on Made-in-China.com with 22 years of manufacturing excellence (founded 2003). This exquisite 3-tier tea chest combines the charm of antique tea cabinets with modern precision magnetic closure engineering. Three satin-lined drawers slide out smoothly on precision-cut tracks, each secured by concealed N52 neodymium magnets that provide a satisfying magnetic latch. The book-style lid opens to reveal the top drawer with a gold foil embossed brand plate. Brass-finish drawer pulls add vintage character. Produced on KBA 1050 4-color and Heidelberg 7+1 UV presses across our 18,000 sqm facility (10,000+8,000 smart factory) (2025 expansion). Daily output: 1.7 million color boxes + 220,000+ gift boxes.
 

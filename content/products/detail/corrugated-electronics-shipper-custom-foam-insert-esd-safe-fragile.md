@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Corrugated Mailers](/images/cat-fold-mailer.jpg)
+![Bincai Corrugated Mailers](/images/corrugated-mailers.jpg)
 
 Corrugated electronics shipper with custom ESD-safe foam insert — engineered for the safe transit of sensitive electronic components and devices. The double-wall BC-flute construction provides crush resistance while the anti-static/conductive foam insert prevents electrostatic discharge damage. Produced on industry-leading KBA 1050 4-color offset and Heidelberg 7+1 UV presses at our 10,000 sqm ISO 9001 & FSC certified factory. Manufactured by Guangdong Bincai Color Printing Co., Ltd. with 22 years of experience, daily output of 1.7 million boxes, trusted by electronics manufacturers worldwide.
 

@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001:2015, FSC Chain-of-Custody, SGS, ISTA 1A"
 ---
 
-![Magnetic Closure Box](/images/cat-rigid-others.jpg)
+![Magnetic Closure Box](/images/magnetic-closure-boxes.jpg)
 
 ## Magnetic Closure Candle Box with Window Display
 

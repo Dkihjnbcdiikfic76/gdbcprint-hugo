@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, ISTA 1A/3A"
 ---
 
-![Corrugated Heavy-Duty Die-Cut Parts Shipper — Foam Partition & Pallet-Ready](/images/cat-fold-mailer.jpg)
+![Corrugated Heavy-Duty Die-Cut Parts Shipper — Foam Partition & Pallet-Ready](/images/corrugated-mailers.jpg)
 
 Industrial-grade corrugated heavy-duty parts shipper with die-cut foam partitions and pallet-ready base — manufactured by **Guangdong Bincai Color Printing Co., Ltd.** This robust shipping solution features double-wall BC flute (6mm) or triple-wall ACA flute (10mm) corrugated construction, custom die-cut EPE or PU foam partitions that cradle heavy industrial parts, and a pallet-compatible base design for forklift handling. The moisture-resistant outer coating protects contents during sea freight and warehouse storage. Heavy-duty PP strapping channels and corner protectors ensure load stability during transit. ISTA 1A and 3A testing available. Produced across our 18,000 sqm factory.
 

@@ -19,7 +19,7 @@ tags:
   - ISO 9001 certified
 ---
 
-![Bincai Slim Magnetic Closure Box](/images/cat-rigid-others.jpg)
+![Bincai Slim Magnetic Closure Box](/images/magnetic-closure-boxes.jpg)
 
 Slim-profile magnetic closure rigid box designed for premium stationery, notebooks, planners, and writing instrument gift sets — manufactured by **Guangdong Bincai Color Printing Co., Ltd.**, a Diamond Member on Made-in-China.com with 22 years of manufacturing excellence (founded 2003). The slim 25-35mm profile is engineered specifically for A5 notebooks, hardcover journals, planner systems, and luxury pen sets — packaging categories where standard-depth magnetic boxes feel oversized and wasteful. Concealed neodymium magnets create a satisfying snap closure, while the satin ribbon lift tab adds an elegant retrieval gesture. A debossed logo on the lid provides subtle, premium brand presence. Produced on KBA 1050 4-color and Heidelberg 7+1 UV presses across 18,000 sqm factory in Foshan. Daily output: 1.7 million boxes plus 220,000+ gift boxes.
 

@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001:2015, FSC Chain-of-Custody"
 ---
 
-![Custom Corrugated Subscription Box Magnetic Closure Full-Color CMYK Premium E-Commerce](/images/cat-fold-mailer.jpg)
+![Custom Corrugated Subscription Box Magnetic Closure Full-Color CMYK Premium E-Commerce](/images/corrugated-mailers.jpg)
 
 ## Product Overview
 

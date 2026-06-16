@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Hexagonal Corrugated Candle Shipping Mailer](/images/cat-fold-mailer.jpg)
+![Hexagonal Corrugated Candle Shipping Mailer](/images/corrugated-mailers.jpg)
 
 ## Product Overview
 

@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Corrugated Mailers — Heavy-Duty Furniture Flat-Pack Shipper](/images/cat-fold-mailer.jpg)
+![Bincai Corrugated Mailers — Heavy-Duty Furniture Flat-Pack Shipper](/images/corrugated-mailers.jpg)
 
 The **Corrugated Heavy-Duty Furniture Flat-Pack Shipper** is engineered for the demanding requirements of e-commerce furniture delivery — protecting large, flat, heavy items through the parcel carrier network while delivering a brand-worthy unboxing experience. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** (founded 2003, 22 years experience) at our 18,000 sqm dual-factory facility in Foshan, this box is produced on our **BHS 2.5m corrugator** with precision flexo printing on **KBA Rapida 1050** presses, achieving a daily output of 1.7 million boxes.
 
