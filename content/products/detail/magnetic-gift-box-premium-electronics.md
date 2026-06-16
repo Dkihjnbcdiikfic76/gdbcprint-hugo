@@ -132,3 +132,9 @@ A: Yes. Bincai provides value-added services including product insertion, access
 | **Global Compliance Ready** | RoHS, REACH, Prop 65, FSC — your packaging is pre-qualified for EU, North American, and Asia-Pacific markets |
 | **Smart Factory Integration** | Real-time production tracking, automated magnet pull testing, and digital QC records shared via customer portal |
 | **End-to-End Service** | From structural design and 3D prototyping through production, kitting, and global logistics — single point of accountability |
+
+## Start Your Electronics Packaging Project
+
+**Send us your device dimensions (or CAD file) for a same-day quote with free CNC foam insert 3D mockup.** Whether you're packaging headphones, smartwatches, earbuds, or gaming peripherals, we'll engineer the EVA foam cavity, magnetic closure, and full-color printing to your exact specs. Free pre-production hard sample shipped via DHL in 5–7 days. MOQ from 500 units with volume pricing at 1,000 / 3,000 / 5,000+. Already have a packaging spec? Upload it and we'll match or beat your current supplier's pricing.
+
+[Upload Your Specs for a Same-Day Quote →](/contact/)

@@ -125,8 +125,10 @@ A: Yes. All inks are soy-based and compliant with EN 71-3 (toy safety, migration
 - Export to 60+ countries across North America, Europe, Middle East, and Asia-Pacific
 - Diamond Member on Made-in-China.com, Audited Supplier
 
-## Ready to Start Your Puzzle Packaging Project?
+## Start Your Puzzle Packaging Project
 
 **Send us your game specs — piece count, box dimensions, and artwork — for a same-day quote with free 3D structural mockup.** Whether you're launching a 500-piece family puzzle or a deluxe collector's edition game box, we'll engineer the foam insert, magnetic closure, and full-color game-board printing to your exact requirements. Free pre-production sample with your custom foam cavities in 5–7 days. MOQ from 500 units with volume pricing at 1,000 / 3,000 / 5,000+.
 
-[Request Your Free Sample & Quote →](/contact/)
+**New this season: Get a free branded sample set shipped to your office.** Send your logo and box dimensions — we'll produce 3 finished samples with different finishes (matte, soft-touch, spot UV) so you can feel the difference in hand. No obligation, freight collect.
+
+[Request Your Free Sample Set & Quote →](/contact/)

@@ -78,3 +78,11 @@ This recycled kraft paper window gift box combines eco-conscious materials with 
 | **AQL Sampling** | ISO 2859-1 | Level II, AQL 2.5 (major), AQL 4.0 (minor) |
 | **FSC Traceability** | FSC-STD-40-004 | Full Chain-of-Custody from forest to finished box |
 | **Compostability (PLA)** | EN 13432 | Window film disintegration ≤ 12 weeks |
+
+## Start Your Eco Packaging Project
+
+**Send us your product specs for a free window-box structural mockup with full FSC documentation within 24 hours.** Whether you're packaging organic granola, artisan candles, natural soaps, or specialty teas, we'll design the window shape, select the board weight, and recommend PET vs compostable PLA based on your brand's sustainability goals. Free pre-production sample with soy-ink printing and your choice of window film in 5–7 days. MOQ from 500 units — trial orders welcome for new brands launching their first eco packaging line.
+
+**Not sure which window film fits your sustainability claims?** Tell us your target market (EU, US, Australia) and we'll provide a compliance matrix showing which certifications (EN 13432, FSC, OK Biodegradable) your configuration qualifies for — free, no order required.
+
+[Get Your Free Window-Box Mockup & Compliance Review →](/contact/)

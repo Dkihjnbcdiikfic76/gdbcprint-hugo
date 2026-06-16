@@ -136,3 +136,11 @@ A: ISO 9001:2015 (quality management), FSC Chain-of-Custody (responsible forestr
 | **REACH (EC 1907/2006)** | SVHC compliance on all materials | Compliant — third-party lab tested annually |
 | **RoHS (2011/65/EU)** | Heavy metal restrictions | Compliant |
 | **ISPM 15** | Export pallet heat treatment | All pallets heat-treated and stamped for international shipping |
+
+## Start Your Wine Carrier Project
+
+**Send us your bottle specs (type, count, weight) and brand artwork for a same-day quote with free flat-pack structural sample.** Whether you need 6-bottle tasting room carriers, 12-bottle club shipment boxes, or custom configurations for Champagne and magnum formats, we'll engineer the die-cut handle, divider system, and soy-ink printing to match your brand aesthetic. Free pre-production sample with your logo and handle configuration in 5–7 days. MOQ from 1,000 units.
+
+**Launching a new vintage or wine club tier?** We'll produce 10 finished carrier samples with your new label artwork — use them for your launch event, trade show booth, or influencer mailers. Sample set at production cost only, freight collect.
+
+[Upload Your Bottle Specs for a Same-Day Quote →](/contact/)

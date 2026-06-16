@@ -109,3 +109,11 @@ Bincai is committed to environmentally responsible packaging. Our kraft eco boxe
 - **Zero Plastic Construction** — There is no plastic anywhere in the box — no PET window, no plastic laminate, no synthetic twine, no hot melt glue. The entire construction is paper, plant fiber (jute), and water-based chemistry, making it fully compatible with both recycling and composting end-of-life pathways.
 
 - **Carbon-Conscious Shipping** — Favor boxes ship flat (knocked down), maximizing pallet density. A standard pallet carries 5,000–12,000 flat favor boxes versus only 400–800 if pre-assembled — reducing transport carbon emissions by 85% or more.
+
+## Start Your Favor Box Project
+
+**Send us your event theme (colors, motif, message) — we'll ship 5 customized sample boxes with your design in 5 working days.** Whether you're planning a baby shower, wedding, bridal brunch, gender reveal, or corporate wellness event, we'll print your custom artwork with soy-based inks on 100% recycled kraft, add jute twine or cotton ribbon closure, and deliver finished samples so you can touch and approve before production. MOQ from 200 units (digital print) or 500 units (offset). Free design consultation included.
+
+**Need favor boxes fast?** We stock blank kraft favor boxes in 80x80x80mm and 100x100x80mm for same-day dispatch (min 100 units) — add custom stamping or tags in 3 working days. Perfect for last-minute event planning.
+
+[Send Your Theme for Free Custom Samples →](/contact/)
