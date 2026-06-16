@@ -64,6 +64,11 @@ Heavy-duty full-overlap slotted container (FOL) engineered for industrial parts 
 - AQL 2.5 sampling inspection on finished goods; 100% inspection on export-critical palletized shipments
 - Lead time: 5–10 days for tooling/mold creation + 10–20 days mass production; expedited 7-day rush available
 
+## Related Resources
+
+- **[Corrugated Mailer Design Guide: Flute Types, Board Grades & Structural Engineering →](/blog/corrugated-mailer-design-guide-bincai/)** — Technical guide covering flute selection, board grade optimization, FOL vs HSC structural trade-offs, and ISTA testing protocols for industrial shipping applications.
+- **[Explore All Corrugated Mailers →](/categories/corrugated-mailers/)** — Browse our full corrugated shipping range: heavy-duty double-wall mailers, lit mailers, wine shippers, and custom die-cut partitions.
+
 ## Factory & Manufacturing Capabilities
 - **22 years** of corrugated packaging expertise since 2003 — serving automotive, industrial, aerospace, and heavy equipment sectors
 - **18,000 sqm dual-factory** (10,000 sqm main factory + 8,000 sqm smart factory commissioned 2025) in Foshan, Pearl River Delta

@@ -115,6 +115,11 @@ A: Yes. We provide full documentation packages: ASTM D6400 test reports, FSC cha
 - **ISO 9001 & FSC Dual Certified**: Third-party audited quality management and sustainable sourcing — compliant with EU, US, and Asia-Pacific environmental regulations
 - **Free Pre-Production Samples**: 5–7 working days with full sustainability documentation package
 
+## Related Resources
+
+- **[Sustainable Paper Box Packaging & Eco Manufacturing →](/blog/sustainable-paper-box-packaging-bincai-eco-manufacturing/)** — Comprehensive guide to sustainable packaging: FSC certification, compostable materials, soy ink systems, and closed-loop manufacturing — directly relevant to every kraft eco box we produce.
+- **[Explore All Kraft Eco Boxes →](/categories/kraft-eco-boxes/)** — Browse our full sustainable packaging range: PCR kraft boxes, bamboo fiber gift sets, compostable food boxes, and seed-embedded plantable packaging.
+
 ## Factory
 
 - 22 years of manufacturing since 2003 in Foshan, Guangdong, China
