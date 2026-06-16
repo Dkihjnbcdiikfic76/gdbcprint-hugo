@@ -122,3 +122,7 @@ A: With 400gsm C1S board and engineered flap geometry, our TTAB cartons handle u
 
 **Q: Are Bincai's folding cartons compatible with Amazon FBA SIOC certification?**
 A: Yes. We design to Amazon Ships In Own Container (SIOC) Tier 1 (Frustration-Free Packaging) and Tier 2 standards. Our structural engineers optimize the auto-bottom geometry for ISTA 6-Amazon.com-SIOC testing. We provide test reports for your Amazon certification submission.
+
+## Start Your Project
+
+Ready to optimize your e-commerce packaging? Send us your carton dimensions and quantity for a **same-day quote** with a free structural design consultation. We'll ship pre-production samples with your branding in 5–7 days — no tooling charge for standard configurations. [→ Request your sample at bincaipaperbox.en.made-in-china.com](https://bincaipaperbox.en.made-in-china.com/)

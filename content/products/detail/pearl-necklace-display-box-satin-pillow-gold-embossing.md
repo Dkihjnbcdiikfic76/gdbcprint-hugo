@@ -96,3 +96,7 @@ Our pearl necklace display boxes are produced across our **18,000 sqm dual-facto
 - **Low MOQ flexibility** — 500-unit minimum order with free branded pre-production samples; no minimum for reorders with existing tooling
 - **Complete jewelry packaging partner** — ring boxes, earring displays, bracelet cases, and multi-piece sets produced on the same line for single-source efficiency
 - **ISO 9001:2015 & FSC certified** — full quality management system with traceable, responsibly sourced materials for brand sustainability commitments
+
+## Start Your Project
+
+Designing luxury pearl packaging for your brand? Send us your logo for a **free gold-foil proof sample** — see the ±0.15mm precision of Bobst SP 102 BMA hot stamping before you commit. MOQ 500 units, samples in 5–7 days. [→ Request your free sample at bincaipaperbox.en.made-in-china.com](https://bincaipaperbox.en.made-in-china.com/)

@@ -134,4 +134,6 @@ A: Yes. The box can be supplied pre-assembled or flat-packed in a user-friendly 
 
 A: MOQ is 500 units for standard sizes with our existing tooling. For fully custom sizes requiring new cutting and embossing dies, MOQ is 1,000 units. We also offer smaller trial runs (300 units) for prototypes and market testing at a modest per-unit premium. Free pre-production samples are provided within 5–7 working days so you can validate the design before committing to production.
 
-[View on Made-in-China.com →](https://bincaipaperbox.en.made-in-china.com/)
+## Start Your Project
+
+Planning your Q4 holiday collection? **Secure production slots now** — Q3 fills by September for Christmas delivery. Send us your artwork for a free embossed snowflake sample with your brand's foil stamping. MOQ 500, samples in 5–7 days. [→ Start your holiday project at bincaipaperbox.en.made-in-china.com](https://bincaipaperbox.en.made-in-china.com/)

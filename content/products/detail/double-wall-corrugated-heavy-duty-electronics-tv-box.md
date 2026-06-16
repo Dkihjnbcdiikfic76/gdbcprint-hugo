@@ -98,3 +98,7 @@ Every box is produced in our **18,000 sqm ISO 9001 & FSC-certified facility** wi
 - **Daily output: 1.7 million boxes** — ensuring on-time delivery for global brands
 
 We source kraft linerboard from 5 qualified mills with FSC chain-of-custody certification and full traceability. Every material batch undergoes 45-point incoming inspection in our climate-controlled storage (22°C / 50% RH).
+
+## Start Your Project
+
+Shipping flat-screen TVs this quarter? Email us your screen model, dimensions, and annual volume — we'll engineer the double-wall structure with custom EPS/EPE foam cushioning and deliver a **quote within 24 hours**. Free ISTA 3A drop-test report with your first order. [→ Get your TV box quote at bincaipaperbox.en.made-in-china.com](https://bincaipaperbox.en.made-in-china.com/)

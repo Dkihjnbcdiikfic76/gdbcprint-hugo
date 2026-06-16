@@ -138,3 +138,7 @@ A: Yes. We have an in-house ISTA-certified testing lab with compression tester, 
 | **ISTA-Certified Testing Lab** | In-house compression, drop, vibration, and environmental testing — test reports included with every order, no third-party delays |
 | **Flat-Pack Logistics Genius** | 75% volume reduction vs assembled boxes — your container ships 4× more product, slashing per-unit ocean freight by ~60% |
 | **Global Compliance** | FSC, RoHS, REACH, Prop 65, ISTA — pre-qualified for Amazon FBA, EU retail, and North American distribution |
+
+## Start Your Project
+
+Have a specific laptop model to protect? Send us your device CAD file or exact dimensions — our engineering team will design a custom foam insert and return **CAD renderings + a quote within 24 hours**. Free ISTA 3A drop-testing on your first order, pre-production samples in 5–7 days. [→ Get your foam insert design at bincaipaperbox.en.made-in-china.com](https://bincaipaperbox.en.made-in-china.com/)
