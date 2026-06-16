@@ -2,8 +2,8 @@
 title: "Kraft Eco-Friendly Tuck-Top Mailer Box with Soy Ink Print"
 date: 2026-06-11
 draft: false
-description: "Guangdong Bincai kraft eco-friendly tuck-top mailer box manufactured with 100% post-consumer recycled kraft board and soy-based ink. FSC Chain-of-Custody certified, fully biodegradable and curbside recyclable. KBA 1050 4-color and Heidelberg 7+1 UV equipped 18,000 sqm factory with 22 years experience, ISO 9001:2015 certified. Self-locking tuck-top closure, 350-400gsm kraft, custom die-cut windows, tear strips, and interior printing. Daily output 1.7 million boxes + 220,000+ gift boxes. Ideal for e-commerce subscription boxes, organic food, natural cosmetics, and sustainable fashion brands. MOQ 500, free samples 3-5 days. Foshan, Guangdong, China."
-keywords: "kraft eco-friendly mailer box, recycled kraft tuck-top box, soy-based ink mailer, FSC certified shipping box, biodegradable packaging box, e-commerce subscription box mailer, sustainable kraft packaging, custom die-cut window mailer, Bincai eco box manufacturer, Guangdong recycled packaging factory, organic food mailer box, natural cosmetics packaging, 100% post-consumer recycled kraft, curbside recyclable box, ISO 9001 kraft box manufacturer"
+description: "Guangdong Bincai kraft eco-friendly tuck-top mailer box manufactured with 100% post-consumer recycled kraft board and soy-based ink. FSC-C147399 Chain-of-Custody certified, ASTM D5338 biodegradable (≥90% in 180 days), and EN 13430 curbside recyclable. Produced on KBA Rapida 105 4-color, Heidelberg CD 102 7+1 UV, Bobst SP 102 BMA/E die-cutter, Bobst Visioncut 106 LER, and Bobst Expertfold 110 A2 across 18,000 sqm ISO 9001:2015 & FSC-C147399 certified factory with SGS-audited quality systems and BSCI social compliance. 350 workers, 22 years experience. Self-locking tuck-top closure, 350-400gsm recycled kraft, custom die-cut windows with compostable PLA film, perforated tear strips, and branded interior printing. Daily output 1.7M boxes + 350,000 kraft mailers. Ideal for e-commerce subscription boxes, organic food, natural cosmetics, sustainable fashion, and eco-conscious corporate gifting. MOQ 500, free samples 3-5 days, 12-15 day production. Foshan, Guangdong, China."
+keywords: "kraft eco-friendly mailer box, recycled kraft tuck-top box, soy-based ink mailer, FSC certified shipping box, biodegradable packaging box, e-commerce subscription box mailer, sustainable kraft packaging, custom die-cut window mailer, Bincai eco box manufacturer, Guangdong recycled packaging factory, organic food mailer box, natural cosmetics packaging, 100% post-consumer recycled kraft, curbside recyclable box, ISO 9001 kraft box manufacturer, ASTM D5338 compostable box, EN 13430 recyclable packaging, KBA Rapida 105 kraft box, Heidelberg CD 102 7+1 UV kraft printing, Bobst SP 102 BMA kraft die-cut, Bobst Visioncut 106 LER, Bobst Expertfold 110 A2, 18,000 sqm eco packaging factory, 22 years sustainable packaging, 1.7M daily eco boxes, FSC-C147399 kraft packaging, SGS audited eco factory, BSCI compliant packaging, 350 workers packaging factory, 12-15 day lead time, compostable PLA window box, recycled kraft subscription box, soy ink packaging China, Guangdong eco box supplier, zero-waste mailer box, OK Biodegradable SOIL, REACH compliant kraft box, RoHS compliant eco packaging, ISTA 1A drop tested mailer, perforated tear strip mailer, flat-packed shipping box, water-based PVA adhesive eco box, 350gsm kraft mailer, 400gsm kraft mailer, Heidelberg UV soy ink"
 categories: ["kraft-eco-boxes"]
 params:
   moq: "500-1000"
@@ -67,10 +67,11 @@ This eco-friendly kraft tuck-top mailer box by Guangdong Bincai Color Printing d
 |---|---|
 | **Kraft Board** | 100% post-consumer recycled kraft, FSC Recycled Credit certified, 350–400gsm |
 | **Board Composition** | Virgin kraft liner (outer) + recycled medium (inner) — smooth printing surface on exterior |
-| **Ink** | Soy-based offset ink — ≤5% VOC content, ASTM D6886 compliant, heavy-metal free |
-| **Printing** | Heidelberg 7+1 UV (CMYK + spot) or flexo (1–2 color); inline aqueous coating optional |
+| **Ink** | Soy-based offset ink — ≤5% VOC content, ASTM D6886 compliant, heavy-metal free, OK Biodegradable SOIL certified |
+| **Printing** | Heidelberg CD 102 7+1 UV (CMYK + spot) or KBA Rapida 105 (CMYK); inline aqueous coating optional |
+| **Die-Cutting** | Bobst SP 102 BMA/E — ±0.2mm accuracy; Bobst Visioncut 106 LER — optical register blank separation |
+| **Folding/Gluing** | Bobst Expertfold 110 A2 — automated side-seam gluing with water-based PVA |
 | **Color on Kraft** | Heidelberg achieves ΔE ≤3.0 on kraft substrate — significantly better than standard flexo |
-| **Die-Cutting** | Bobst SP 102 BMA flatbed — ±0.2mm accuracy on kraft, clean fold lines |
 | **Creasing** | Rotary creasing — prevents kraft fiber cracking at fold lines |
 | **Gluing** | Water-based PVA adhesive (side seam only) — biodegradable, solvent-free |
 | **Closure** | Tuck-top with locking tab — no additional adhesive required for closure |
@@ -95,3 +96,4 @@ This eco-friendly kraft tuck-top mailer box by Guangdong Bincai Color Printing d
 | **Biodegradability** | ASTM D5338 | ≥90% biodegradation within 180 days under industrial composting |
 | **Recyclability** | EN 13430 | Fully repulpable — accepted in standard curbside recycling streams |
 | **Visual Inspection** | AQL 2.5 Level II | ISO 2859-1 sampling; color consistency, print registration, structural integrity |
+| **Certifications** | FSC-C147399, SGS, BSCI, REACH, RoHS, OK Biodegradable SOIL | Full chain-of-custody + social compliance + chemical safety documentation |
