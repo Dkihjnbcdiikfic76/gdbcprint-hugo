@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, REACH (Metal Hardware), CPSIA (US)"
 ---
 
-![Custom Rigid Trunk Gift Box](/images/rigid-gift-boxes.jpg)
+![Custom Rigid Trunk Gift Box](/images/cat-rigid-others.jpg)
 
 ## Product Overview
 
@@ -132,3 +132,20 @@ A: MOQ is 500 units for boxes using our existing die-library sizes and standard 
 Guangdong Bincai Color Printing brings 22 years of rigid box manufacturing mastery to every trunk box project. Operating from an 18,000 sqm campus with daily output of **1.7 million boxes**, we combine Heidelberg 7+1 UV printing precision with the artisanal hand-finishing that trunk boxes demand — metal corner riveting, leather handle stitching, and interior velvet flocking are performed by skilled craft workers with an average 8 years of experience. Our in-house die-making workshop produces custom cutting dies within 24 hours, and rapid prototyping delivers physical samples in 48 hours. ISO 9001:2015 quality management and FSC chain-of-custody certification ensure every box meets international standards for quality, sustainability, and safety.
 
 **Factory Facts:** Founded 2003 | 22 years experience | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | Heidelberg 7+1 UV + KBA 1050 | ISO 9001 & FSC certified | Foshan, Guangdong, China
+
+## Why This Trunk Gift Box vs Standard Rigid Box
+
+The trunk-style rigid box occupies a unique position between standard gift boxes and custom wood/metal cases. It delivers the heirloom aesthetic of vintage travel trunks at a fraction of the weight and cost, with Bincai's 22-year precision manufacturing ensuring every rivet, corner, and stitch meets luxury standards.
+
+| Factor | Standard Rigid Box | Wood/Metal Case | Bincai Trunk Box |
+|---|---|---|---|
+| **Unit Cost** | $0.80–3.00 | $8.00–30.00 | $2.50–8.00 |
+| **Weight** | 150–400g | 800–2,500g | 250–600g |
+| **Freight Impact** | Low | High (heavy + bulky) | Medium-low |
+| **Perceived Luxury** | ★★★ | ★★★★★ | ★★★★ |
+| **Customization Speed** | 10–14 days | 21–35 days | 10–14 days |
+| **Keepsake Value** | Low — typically discarded | High — kept for decades | High — consumers keep and repurpose |
+| **Metal Hardware** | None | Solid brass, heavy | Zinc alloy with riveted attachment |
+| **Best For** | Standard gifting | Ultra-premium collector's edition | Premium spirits, watches, jewelry, corporate VIP gifts |
+
+**When to choose trunk over standard rigid**: When the unboxing IS part of the product experience — luxury spirits where the box stays on the bar cart, watch collections displayed in their case, corporate gifts meant to be kept and reused. The $2.50–8.00 unit cost buys an heirloom-quality presentation that consumers will photograph, share on social media, and repurpose — generating brand exposure that extends far beyond the initial gift moment.

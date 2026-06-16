@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, ISO 15378, GMP, SGS"
 ---
 
-![Folding Carton with Tamper-Evident Tear Strip — Pharmaceutical Blister Pack Outer Box](/images/folding-cartons.jpg)
+![Folding Carton with Tamper-Evident Tear Strip — Pharmaceutical Blister Pack Outer Box](/images/cat-fold-cosmetic.jpg)
 
 Folding carton with tamper-evident tear strip designed for pharmaceutical blister pack outer packaging — manufactured by **Guangdong Bincai Color Printing Co., Ltd.** Engineered to meet the stringent requirements of pharmaceutical packaging, this straight tuck end (STE) carton integrates a perforated tear strip opening, Braille embossing for accessibility compliance, and optional child-resistant (CR) locking features. Produced under ISO 15378 GMP conditions with full batch traceability. The 350-450gsm SBS or CCNB board provides crush resistance for blister pack integrity during distribution. Produced on our KBA Rapida 1050 4-color press and Bobst SP 102 BMA die-cutter across our 18,000 sqm factory with 1.7M daily output capacity.
 
@@ -75,3 +75,21 @@ A: MOQ starts at 1,000–3,000 units depending on complexity. For clinical trial
 
 ## Why Choose Bincai for Pharmaceutical Packaging?
 Guangdong Bincai operates a dedicated ISO 15378 GMP production zone for pharmaceutical packaging. Our KBA Rapida 1050 press and Bobst SP 102 BMA die-cutter deliver pharmaceutical-grade precision. With 22 years of folding carton expertise, ISO 9001 and FSC certifications, and 1.7M daily output, we are the trusted partner for pharmaceutical brands requiring compliant, traceable packaging at scale.
+
+## Why This Blister Pack Carton vs Standard Pharma Cartons
+
+Blister pack outer cartons face unique challenges that standard pharmaceutical cartons don't address: the blister card must slide in without binding, the carton must protect the foil-backed cavities from crushing, and the tamper-evident tear strip must work reliably across thousands of units. Bincai's blister-specific engineering solves all three.
+
+| Factor | Standard Pharma Carton | Bincai Blister Carton |
+|---|---|---|
+| **Blister Card Fit** | Generic interior — cards may bind or rattle | Precision-sized cavity with ±0.3mm clearance for smooth insertion |
+| **Crush Resistance** | Standard board (SBS 300–350gsm) | Reinforced 350–450gsm SBS/CCNB with extra back panel support |
+| **Tear Strip Function** | Perforation only — inconsistent tear | Micro-perforation (0.3mm pitch) + pull tab — 3–8N calibrated opening force |
+| **Braille Compliance** | Optional, basic | EU Directive 2004/27/EC compliant, Marburg Medium font, multi-language |
+| **Child Resistance** | Not integrated | Optional ISO 8317 / 16 CFR 1700 CR lock mechanism |
+| **Leaflet Retention** | Loose insert falls out | Glue-dot or friction-fit retention built into carton design |
+| **Batch Coding** | Offline stamp or label | Inline inkjet — date, lot, expiry, 2D DataMatrix in one pass |
+| **GMP Environment** | Standard factory floor | ISO 15378 GMP dedicated zone with HEPA air filtration |
+| **Best For** | Basic OTC tablet cartons | Regulated blister packs: prescription, clinical trial, EU/US market |
+
+**When a standard pharma carton suffices**: For OTC products in simple blister formats with no child-resistance requirement and domestic distribution only. When every cent counts and regulatory complexity is low, Bincai's standard pharmaceutical folding cartons (from $0.08/unit) deliver ISO 9001 quality without the blister-specific engineering premium.

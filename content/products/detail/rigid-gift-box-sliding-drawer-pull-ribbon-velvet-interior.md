@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Rigid Gift Boxes](/images/rigid-gift-boxes.jpg)
+![Bincai Rigid Gift Boxes](/images/cat-rigid-others.jpg)
 
 ## Product Overview
 
@@ -119,3 +119,20 @@ A: Yes — with food-grade inner lining (PET or greaseproof paper) and water-bas
 - **Flat-Ship Mode**: Drawer and outer shell ship nested to reduce volume by 60%; assembly at destination available with instruction cards
 - **Incoterms**: FOB Foshan, CIF, DDP available per customer preference
 - **Container Load**: ~5,000–8,000 units per 20ft container; ~12,000–18,000 per 40ft HQ (size-dependent)
+
+## When a Sliding Drawer Box Wins
+
+Not every jewelry presentation needs a drawer — but when the unboxing ritual is central to the brand experience, nothing matches the reveal moment of pulling a satin ribbon and watching a velvet-lined drawer glide open.
+
+| Your Situation | Why Sliding Drawer | Alternative | 
+|---|---|---|
+| Engagement ring or proposal moment | The slow-reveal drawer builds anticipation — perfect for "the moment" | Magnetic flip-lid box — faster but less dramatic |
+| Multi-piece jewelry set (ring + earrings + necklace) | Each piece gets its own compartment in one drawer tray | Multi-tier hinged box — also good but bulkier |
+| Luxury watch where box stays on display | Drawer stays on dresser as permanent storage | Standard lid+base — needs to be opened to display |
+| High-value item requiring secure closure | N52 magnetic catch + drawer lock = double security | Standard magnetic box — single closure point |
+| Brand wants Instagram-worthy unboxing | Pull-ribbon drawer reveal = highest social media engagement | Windowed box — also shareable but different aesthetic |
+| Customer self-service retail display | Drawer allows viewing without removing tray | Slide-out tray box — similar but less premium feel |
+| Gift where recipient builds suspense | Drawer mechanism forces deliberate reveal pacing | Tear-strip mailer — fast but zero ceremony |
+| Shipping cost sensitivity (DTC e-commerce) | Flat-ship drawer design saves 60% freight | Assembled drawer box — higher shipping volume |
+
+**When a standard lid+base box is better**: If your price point is under $30, your packaging budget is tight, or your product is a single small item (single ring, single pendant) — the drawer mechanism adds $0.50–1.50 per unit. For budget-conscious segments, Bincai's standard magnetic rigid boxes deliver premium feel at lower cost.

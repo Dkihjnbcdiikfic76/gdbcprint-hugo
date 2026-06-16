@@ -104,3 +104,20 @@ A: Soft-touch lamination (also called velvet lamination) has a tactile, velvety 
 **Q: Can the box be recycled after use?**
 
 A: The greyboard and art paper components are fully recyclable in standard paper/cardboard streams. The PET window should be separated before recycling — we can add a "remove window before recycling" instruction printed on the box interior. The magnets are small (typically 10×3mm or 12×3mm) and do not interfere with most MRF sorting systems. For brands seeking fully recyclable solutions, we offer cellulose-based windows (NatureFlex or equivalent) that are home-compostable, though optical clarity is slightly lower than PET.
+
+## Why This Windowed Rigid Gift Box
+
+Unlike standard lid+base rigid boxes that hide the product until opened, Bincai's windowed rigid box gives consumers an immediate visual connection — the product sells itself before the box is touched. The precision-mounted PET window (±0.1mm aperture) frames your product like a gallery display, while the satin ribbon and N52 magnetic closure deliver a tactile luxury experience that plain magnetic boxes can't match.
+
+| Factor | Standard Rigid Box | Bincai Windowed Box |
+|---|---|---|
+| **Product Visibility** | Hidden — consumer must open | Full window display — instant connection |
+| **Window Precision** | ±0.5mm typical (manual mount) | ±0.1mm (automated patching) |
+| **UV Protection** | None (exposed only after opening) | Optional UV-blocking PET (≥95% filtration) |
+| **Closure Type** | Magnetic only | Satin ribbon + magnetic snap-shut |
+| **Perceived Value** | Standard premium | Gallery-display premium (+15–25% consumer WTP) |
+| **Retail Shelf Advantage** | Same as unbranded windowless boxes | Product visibility reduces purchase hesitation |
+| **Ribbon Colors** | N/A | 20+ satin colors matched to brand palette |
+| **Best For** | Standard gift packaging | Chocolates, cosmetics, apparel — products that benefit from being seen |
+
+**When windowed beats standard rigid**: Your product's appearance drives purchase decisions (artisan chocolates, premium cosmetics, designer apparel). The $0.30–$0.50 per-unit premium over a standard rigid box pays for itself in retail conversion — consumers who see the product through the window are significantly more likely to buy than those who must open a closed box.

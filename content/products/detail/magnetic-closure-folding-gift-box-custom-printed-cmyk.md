@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Magnetic Closure Boxes](/images/magnetic-closure-boxes.jpg)
+![Bincai Magnetic Closure Boxes](/images/cat-rigid-others.jpg)
 
 ## Product Description
 
@@ -136,4 +136,23 @@ A: Yes. Our collapsible (foldable) magnetic closure boxes are designed to ship f
 | 4. Die-Cutting & Wrapping | Board cutting, creasing, and paper wrapping tolerance | Dimensional accuracy ±0.3mm, crease depth consistency |
 | 5. Magnet Insertion | Automated N52 magnet placement and pull-force verification | Flush mount ±0.1mm depth, pull force 2.5–5.0N per pair |
 | 6. Hinge & Assembly | Folding endurance and adhesive bond strength | 15,000 open/close cycle endurance, bond strength ≥3.0 N/cm² |
-| 7. Final Audit | Packed-box transit simulation and statistical sampling | ISTA 1A drop test, AQL 2.5 Level II sampling, barcode grade B+ |
+| **7. Final Audit** | Packed-box transit simulation and statistical sampling | ISTA 1A drop test, AQL 2.5 Level II sampling, barcode grade B+ |
+
+## Magnetic Folding vs Standard Folding vs Rigid Magnetic: Which Format Wins?
+
+Magnetic closure boxes occupy a strategic middle ground between standard folding cartons (economical, no premium feel) and full rigid magnetic boxes (premium, higher cost). Here's how they compare on the factors that matter for retail packaging:
+
+| Factor | Standard Folding Carton | Magnetic Folding (This Product) | Rigid Magnetic Box |
+|---|---|---|---|
+| **Unit Cost** | $0.08–0.35 | $0.25–3.00 | $1.20–5.00 |
+| **Perceived Quality** | ★★ | ★★★★ | ★★★★★ |
+| **Reusability** | Single-use — discarded | Reusable 500+ cycles | Keepsake — kept for years |
+| **Flat Shipping** | Always flat | Foldable option — ships 60% smaller | Must ship assembled (or flat-ship variant) |
+| **Magnet Closure** | None | N52 neodymium, satisfying snap | N52 neodymium, premium snap |
+| **Print Quality** | CMYK offset (1–2 passes) | CMYK + 7+1 UV inline (one pass) | CMYK + 7+1 UV + foil + emboss |
+| **Best For** | Cost-sensitive retail, food, pharma | Cosmetics, jewelry, electronics, corporate gifts | Ultra-premium spirits, watches, collector's editions |
+| **MOQ** | 1,000–3,000 | 500–1,000 | 500–1,000 |
+
+**The magnetic folding sweet spot**: When your product retails for $20–150 and you need a box that (a) looks premium on shelf, (b) survives shipping without damage, (c) gets reused by the customer (brand exposure), and (d) doesn't kill your packaging budget — magnetic folding is the optimal format. The $0.17–2.65 premium over standard folding cartons buys you the magnetic closure experience that consumers associate with luxury brands.
+
+**When to go full rigid magnetic**: If your product retails above $150 or you're selling spirits/watches where the box IS part of the product (display case, collector's item), the full 2.5mm rigid magnetic box is worth the investment.
