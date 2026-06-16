@@ -116,3 +116,9 @@ A: Yes — full-wrap interior printing on inner lid and base panels. Foil-stampe
 - **Standard Packaging**: Individual polybag → custom-fit corrugated insert → 5-ply master carton → palletized
 - **Incoterms**: FOB Foshan, CIF, DDP per customer preference
 - **Container Load**: ~3,000–6,000 units per 20ft container; ~7,000–14,000 per 40ft HQ (A4-size estimate; varies by dimensions)
+
+---
+
+## Ready to Start?
+
+**Send us your portfolio dimensions and brand guidelines for a free 3D rendering in 24 hours and a physical prototype in 7 days.** Review the magnetic closure feel, document sleeve fit, and pen loop tension in your exact specifications — all before committing to production. Backed by Bincai's 22 years of corporate portfolio box manufacturing for 200+ global brands. [→ Get your free rendering](/contact/)

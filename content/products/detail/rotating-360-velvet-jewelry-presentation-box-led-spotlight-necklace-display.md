@@ -83,3 +83,9 @@ A: Each unit undergoes 100% electronic QC before shipping. We provide a 12-month
 - **100% electronic QC** on every unit before shipping
 - **1.7 million boxes/day** output capacity
 - **Free pre-production samples** with 7–10 day turnaround
+
+---
+
+## Ready to Start?
+
+**Send us your necklace dimensions and preferred LED color temperature for a working motorized sample with your logo in 7–10 days.** Experience the 360° rotation, warm LED spotlight, and velvet texture firsthand — each sample includes full electronic QC verification before shipping. [→ Get your free sample](/contact/)

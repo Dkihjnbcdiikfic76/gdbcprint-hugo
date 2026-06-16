@@ -120,3 +120,9 @@ Since 2003, Guangdong Bincai Color Printing Co., Ltd. has manufactured corrugate
 | **Subscription box with 5,000+ monthly subscribers** | Zero-tape, zero-tools assembly scales to any volume — seasonal peaks absorbed by Bincai's 500K/day capacity |
 
 **Sweet Spot**: Publishers and fulfillment centers shipping 1,000–50,000 books/month where the combined labor savings (no tape) and customer experience improvement (no box-cutter damage) deliver measurable ROI within 30–90 days of switching from taped mailers.
+
+---
+
+## Ready to Start?
+
+**Send us your book dimensions for a zero-tape tear-strip sample mailer in 3–5 days.** Pop it open, feel the self-locking mechanism snap into place, and pull the tear strip — see exactly how it eliminates tape guns and box cutters from your fulfillment workflow. Built to your exact book dimensions on Bincai's Bobst die-cutters. [→ Get your free sample](/contact/)

@@ -86,3 +86,9 @@ With 22 years of experience, an 18,000 sqm facility (10,000 sqm main plant + 8,0
 - **Speed Without Sacrifice** — standard 10–14 day production lead time; rush orders delivered in as few as 7 days
 
 **Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001:2015 & FSC | Foshan, Guangdong, China
+
+---
+
+## Ready to Start?
+
+**Send us your earring card dimensions for a free gold-foil branded sample with working easel stand in 5–7 days.** Validate the 65° display angle, 12-slot card retention, and N35 magnetic snap on your actual countertop — with your logo hot-stamped in gold foil. [→ Get your free sample](/contact/)

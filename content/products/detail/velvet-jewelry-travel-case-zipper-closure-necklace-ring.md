@@ -85,3 +85,9 @@ Our **18,000 sqm dual Foshan facility** (10,000 sqm main plant + 8,000 sqm smart
 ---
 
 *Guangdong Bincai Color Printing Co., Ltd. — 22 years of packaging excellence. ISO 9001:2015 & FSC certified. 18,000 sqm Foshan facility (10,000+8,000 smart factory). Daily output: 1.7M+ boxes. Serving 60+ countries worldwide.*
+
+---
+
+## Ready to Start?
+
+**Send us your jewelry set layout for a free YKK-zippered travel case sample with your logo in 7–10 days.** Test every zipper cycle, elastic strap, and suede compartment with your actual pieces — each sample includes full hardware function verification before shipping. [→ Get your free sample](/contact/)
