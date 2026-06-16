@@ -78,7 +78,7 @@ Metallic gold folding carton for luxury scented candle packaging with die-cut wi
 | Lamination | Water-based metallic foil lamination available; BOPP-free matt/gloss options |
 | Coatings | Water-based UV and aqueous coatings — no solvent-based varnishes |
 | Waste Management | > 95 % production waste recycled; trim offcuts baled for paper-mill return |
-| Certifications | ISO 9001:2015 · FSC® CoC · Sedex SMETA 4-Pillar · Disney FAMA |
+| Certifications | ISO 9001:2015 · FSC® CoC · Sedex SMETA 4-Pillar ·  |
 | Regulatory Compliance | EU Packaging Directive 94/62/EC · REACH · California Prop 65 · CPSIA |
 
 ## Seven-Stage QC Gates

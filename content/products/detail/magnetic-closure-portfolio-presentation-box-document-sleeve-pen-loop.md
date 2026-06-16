@@ -14,7 +14,7 @@ params:
 
 ![Magnetic Closure Portfolio Presentation Box with Document Sleeve and Pen Loop](/images/magnetic-closure-boxes.jpg)
 
-Executive-grade portfolio-style magnetic closure presentation box — manufactured by **Guangdong Bincai Color Printing Co., Ltd.**, a Diamond Member on Made-in-China.com since 2015, Audited Supplier with 22 years of experience. Inspired by premium document folios, this box features a book-style magnetic flap that opens to reveal a thoughtfully organized interior: a clear PET document sleeve on the inner lid for brochures, certificates, or welcome letters; an elastic pen loop for branded writing instruments; and a custom die-cut foam tray for the primary gift item. The invisible neodymium magnetic closure provides a satisfying, secure snap. Ideal for corporate award ceremonies, luxury brand press kits, VIP client gifts, and executive onboarding packages. Produced on KBA 1050 4-color and Heidelberg 7+1 UV presses across 18,000 sqm factory.
+Executive-grade portfolio-style magnetic closure presentation box — manufactured by **Guangdong Bincai Color Printing Co., Ltd.**, a Diamond Member on Made-in-China.com, Audited Supplier with 22 years of experience. Inspired by premium document folios, this box features a book-style magnetic flap that opens to reveal a thoughtfully organized interior: a clear PET document sleeve on the inner lid for brochures, certificates, or welcome letters; an elastic pen loop for branded writing instruments; and a custom die-cut foam tray for the primary gift item. The invisible neodymium magnetic closure provides a satisfying, secure snap. Ideal for corporate award ceremonies, luxury brand press kits, VIP client gifts, and executive onboarding packages. Produced on KBA 1050 4-color and Heidelberg 7+1 UV presses across 18,000 sqm factory.
 
 ## Applications
 - Corporate award and recognition ceremony presentation
@@ -61,7 +61,7 @@ Executive-grade portfolio-style magnetic closure presentation box — manufactur
 - **1.7M boxes/day** output for large corporate event fulfillment
 - **One-stop service**: structural design → material selection → printing → box-making → magnetic assembly → accessory integration → QC → shipping
 - Free structural design, 3D rendering, and physical prototype for every new order
-- Diamond Member on Made-in-China.com, Audited Supplier with on-site factory verification
+- Diamond Member on Made-in-China.com, Audited Supplier
 
 ## Why Bincai vs Industry Comparison
 

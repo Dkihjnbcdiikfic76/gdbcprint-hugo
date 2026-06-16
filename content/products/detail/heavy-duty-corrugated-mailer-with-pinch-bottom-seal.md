@@ -118,7 +118,7 @@ The pinch-bottom design eliminates tape entirely — simply peel the liner strip
 | **Experience** | 22 years of continuous manufacturing since 2003; 350+ skilled workers across corrugating, printing, die-cutting, and finishing |
 | **Daily Output** | 1.7 million color boxes/day total; corrugated capacity scalable to 500,000+ mailers daily across dual-factory campus |
 | **Specialty** | BHS 2.5m Corrugator (B/C/E/BC flute); Bobst SP 102 BMA rotary die-cutter (±0.15mm); pinch-bottom self-sealing technology; anti-static and cold chain inserts |
-| **Sampling** | Free printed samples with pinch-bottom closure in 5–7 working days; compression test report included; Diamond Member on Made-in-China.com since 2015 |
+| **Sampling** | Free printed samples with pinch-bottom closure in 5–7 working days; compression test report included; Diamond Member on Made-in-China.com |
 | **MOQ** | 1,000 units per design; standard tooling for common sizes; rush 5-day service available for repeat orders |
 
 ## FAQ
@@ -143,4 +143,4 @@ A: Yes — we can add multi-depth scoring (at 10mm increments) so a single box d
 
 ---
 
-*Guangdong Bincai Color Printing Co., Ltd. — 22 years of packaging excellence. ISO 9001:2015 & FSC certified. 18,000 sqm Foshan facility (10,000+8,000 smart factory). KBA 1050 4-color + Heidelberg 7+1 UV presses. BHS 2.5m corrugator. Daily output: 1.7M boxes. Serving 60+ countries worldwide. Diamond Member on Made-in-China.com since 2015.*
+*Guangdong Bincai Color Printing Co., Ltd. — 22 years of packaging excellence. ISO 9001:2015 & FSC certified. 18,000 sqm Foshan facility (10,000+8,000 smart factory). KBA 1050 4-color + Heidelberg 7+1 UV presses. BHS 2.5m corrugator. Daily output: 1.7M boxes. Serving 60+ countries worldwide. Diamond Member on Made-in-China.com.*

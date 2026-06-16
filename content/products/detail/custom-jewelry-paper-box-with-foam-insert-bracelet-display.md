@@ -84,7 +84,7 @@ Every jewelry box passes through this QC gate system:
 |---|---|
 | **Presses** | KBA Rapida 105 4-color (15,000 sheets/hr) + Heidelberg Speedmaster CD 102 7+1 UV for inline coating and specialty finishes |
 | **Factory** | 18,000 sqm dual-facility (10,000 sqm main + 8,000 sqm smart factory renovated 2025) in Foshan, Pearl River Delta, China |
-| **Experience** | 22 years founded 2003 — Diamond Member on Made-in-China.com since 2015, serving 200+ brands across 60+ countries |
+| **Experience** | 22 years founded 2003 — Diamond Member on Made-in-China.com, serving 200+ brands across 60+ countries |
 | **Daily Output** | 1.7M color boxes/day + 220K+ rigid gift boxes/day across integrated production lines |
 | **Specialty** | Bobst SP 102 BMA flatbed die-cutter (±0.15mm precision), hot foil stamping, multi-level embossing, velvet flocking, automated magnet insertion |
 | **Sampling** | Free pre-production samples in 5-7 working days including structural mockup with actual materials |

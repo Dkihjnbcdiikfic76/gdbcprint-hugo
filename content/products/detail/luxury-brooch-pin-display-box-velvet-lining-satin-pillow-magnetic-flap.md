@@ -14,7 +14,7 @@ params:
 
 ![Bincai Jewelry Boxes](/images/cat-rigid-jewelry.jpg)
 
-Elegant brooch and lapel pin display box with plush velvet-lined interior and removable satin pillow insert, manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — a Diamond Member on Made-in-China.com since 2015. Magnetic flap closure, custom hot-foil logo on the lid, and a satin-covered foam pillow that secures the brooch with a precision pin slot. Rigid 2.0mm greyboard construction ensures long-term protection for collectible and vintage pieces.
+Elegant brooch and lapel pin display box with plush velvet-lined interior and removable satin pillow insert, manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — a Diamond Member on Made-in-China.com. Magnetic flap closure, custom hot-foil logo on the lid, and a satin-covered foam pillow that secures the brooch with a precision pin slot. Rigid 2.0mm greyboard construction ensures long-term protection for collectible and vintage pieces.
 
 ## Features
 - Rigid 2.0mm greyboard construction with 157gsm art paper wrap and matte lamination

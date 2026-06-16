@@ -14,7 +14,7 @@ params:
 
 ![Folding Cartons](/images/folding-cartons.jpg)
 
-Elegant folding carton sleeve wrap for luxury chocolate bars and premium confectionery, manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — Diamond Member on Made-in-China.com since 2015, Audited Supplier. 350gsm SBS (solid bleached sulfate) board with soft-touch matte lamination, hot foil-stamped decorative border, and a clear die-cut PET window that showcases the chocolate bar inside. Slide-on sleeve design — the inner tray slides out revealing the confectionery in a premium presentation.
+Elegant folding carton sleeve wrap for luxury chocolate bars and premium confectionery, manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — Diamond Member on Made-in-China.com, Audited Supplier. 350gsm SBS (solid bleached sulfate) board with soft-touch matte lamination, hot foil-stamped decorative border, and a clear die-cut PET window that showcases the chocolate bar inside. Slide-on sleeve design — the inner tray slides out revealing the confectionery in a premium presentation.
 
 ## Features
 - 350gsm SBS board — bright white, smooth surface for exceptional print quality

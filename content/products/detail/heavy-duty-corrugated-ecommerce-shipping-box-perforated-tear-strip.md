@@ -156,6 +156,6 @@ Standard lead time is 15–20 business days after artwork approval and deposit �
 | Daily Output | 1.7 million color boxes + 220,000 rigid boxes |
 | Workforce | 150+ skilled staff, in-house structural & graphic design team |
 | Certifications | ISO 9001:2015, FSC Chain-of-Custody, High-Tech Enterprise, ISTA member |
-| Trade Record | Made-in-China Diamond Member since 2015, Alibaba Verified Supplier |
+| Trade Record | Diamond Member on Made-in-China.com, Alibaba Verified Supplier |
 | MOQ & Samples | MOQ 500 pcs, free pre-production samples in 5–7 days |
 | Clients Served | 500+ brands across 30+ countries — DTC, subscription, retail, pharma |

@@ -14,7 +14,7 @@ params:
 
 ![Custom Double-Opening Rigid Gift Box with Clear Window](/images/rigid-gift-boxes.jpg)
 
-Premium custom double-opening rigid gift box with clear window — manufactured by **Guangdong Bincai Color Printing Co., Ltd.**, a Diamond Member on Made-in-China.com since 2015, Audited Supplier with 22 years of experience. The signature double-opening design splits the lid into two hinged panels that swing open like a book cover, revealing the product through a crystal-clear PET window while the velvet-lined interior cradles the contents. This dramatic unboxing experience is favored by luxury brands for high-value product presentation. Produced on KBA 1050 4-color and Heidelberg 7+1 UV presses across 18,000 sqm factory (10,000+8,000 sqm smart factory).
+Premium custom double-opening rigid gift box with clear window — manufactured by **Guangdong Bincai Color Printing Co., Ltd.**, a Diamond Member on Made-in-China.com, Audited Supplier with 22 years of experience. The signature double-opening design splits the lid into two hinged panels that swing open like a book cover, revealing the product through a crystal-clear PET window while the velvet-lined interior cradles the contents. This dramatic unboxing experience is favored by luxury brands for high-value product presentation. Produced on KBA 1050 4-color and Heidelberg 7+1 UV presses across 18,000 sqm factory (10,000+8,000 sqm smart factory).
 
 ## Applications
 - Luxury fragrance and perfume gift set packaging
@@ -66,7 +66,7 @@ The double-opening box is one of the most technically demanding formats in rigid
 | **Window Clarity** | PET film is die-cut, anti-static treated, and heat-sealed with zero-bubble adhesion. Anti-fog and anti-scratch options for retail display |
 | **Magnet Tuning** | Each batch of neodymium magnets is pull-force tested; we adjust magnet grade (N35/N42/N52) and placement to match lid weight for the perfect "snap" |
 | **Interior Presentation** | Velvet flocking in 30+ standard colors, precision die-cut foam cavities (±0.5mm tolerance), or satin-covered EVA inserts — your product is cradled, not crammed |
-| **Diamond Member on MIC** | Audited Supplier since 2015 — verified factory, verified certifications, verified quality. Trade Assurance orders accepted |
+| **Diamond Member on MIC** | Audited Supplier — verified factory, verified certifications, verified quality. Trade Assurance orders accepted |
 | **All Under One Roof** | Printing (KBA + Heidelberg), die-cutting (Bobst), window patching, rigid box assembly, and QC inspection — no subcontractors, full traceability |
 | **Sample Policy** | Free pre-production samples with your custom artwork printed; express shipping via DHL/FedEx (3–5 days). We want you to hold the box before you order |
 | **Scalable Production** | 220,000+ rigid boxes daily from our 18,000 sqm facility; MOQ only 500 — we serve startups and Fortune 500 brands alike |

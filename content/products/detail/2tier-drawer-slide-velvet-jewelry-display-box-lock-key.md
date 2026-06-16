@@ -14,7 +14,7 @@ params:
 
 ![2-Tier Drawer-Slide Velvet Jewelry Display Box with Lock and Key](/images/cat-rigid-jewelry.jpg)
 
-Elegant two-tier drawer-slide velvet jewelry display box with antique lock and key — manufactured by **Guangdong Bincai Color Printing Co., Ltd.**, a Diamond Member on Made-in-China.com since 2015, Audited Supplier with 22 years of experience. The upper tier features a lift-up lid revealing ring rolls, earring stud strips, and a pendant compartment. The lower drawer slides smoothly on ball-bearing tracks, opening to a compartmented bracelet and bangle tray. An antique brass lock and key set provides both security and old-world jewelry-box charm. Full velvet flocking throughout — including drawer interior and lid underside — protects fine jewelry from scratches. This is a destination retail display piece and a cherished heirloom gift. Produced on Heidelberg 7+1 UV and KBA 1050 4-color presses across 18,000 sqm factory.
+Elegant two-tier drawer-slide velvet jewelry display box with antique lock and key — manufactured by **Guangdong Bincai Color Printing Co., Ltd.**, a Diamond Member on Made-in-China.com, Audited Supplier with 22 years of experience. The upper tier features a lift-up lid revealing ring rolls, earring stud strips, and a pendant compartment. The lower drawer slides smoothly on ball-bearing tracks, opening to a compartmented bracelet and bangle tray. An antique brass lock and key set provides both security and old-world jewelry-box charm. Full velvet flocking throughout — including drawer interior and lid underside — protects fine jewelry from scratches. This is a destination retail display piece and a cherished heirloom gift. Produced on Heidelberg 7+1 UV and KBA 1050 4-color presses across 18,000 sqm factory.
 
 ## Applications
 - Fine jewelry retail display and point-of-sale presentation
@@ -62,4 +62,4 @@ Elegant two-tier drawer-slide velvet jewelry display box with antique lock and k
 - **1.7M boxes/day** output — capacity for large retail chain rollouts
 - **One-stop**: design → prototyping → material selection → rigid box production → hardware integration → velvet flocking → QC → shipping
 - Free CAD structural design, 3D rendering, and physical prototype with every order
-- Diamond Member on Made-in-China.com, Audited Supplier with on-site factory verification
+- Diamond Member on Made-in-China.com, Audited Supplier

@@ -16,7 +16,7 @@ params:
 
 ## Product Overview
 
-The custom printed triangular gift box breaks away from rectangular convention — its distinctive geometric silhouette commands attention on retail shelves, under Christmas trees, and in social media unboxing content. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — a Diamond Member on Made-in-China.com since 2015 and Audited Supplier with 22 years of rigid box expertise — each box is built with 1200-1600gsm greyboard cores wrapped in premium art paper and finished on KBA 1050 4-color and Heidelberg Speedmaster XL 7+1 UV presses.
+The custom printed triangular gift box breaks away from rectangular convention — its distinctive geometric silhouette commands attention on retail shelves, under Christmas trees, and in social media unboxing content. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — a Diamond Member on Made-in-China.com and Audited Supplier with 22 years of rigid box expertise — each box is built with 1200-1600gsm greyboard cores wrapped in premium art paper and finished on KBA 1050 4-color and Heidelberg Speedmaster XL 7+1 UV presses.
 
 Triangular boxes present unique manufacturing challenges that only experienced rigid box factories can execute: precision 60° angled corner joins, seamless wrap-around on three faces, magnet alignment on non-parallel surfaces, and consistent gap tolerances on angled edges. Bincai's proprietary angled-jig assembly system — developed over two decades of special-shape production — delivers ±0.1mm corner accuracy that mass-market factories cannot replicate.
 
@@ -95,4 +95,4 @@ Special-shape rigid boxes are where Bincai's 22 years of craftsmanship truly dif
 - **Scale Without Compromise**: 220,000+ rigid boxes daily output means your 5,000-unit holiday order receives the same precision as a 500-unit boutique run
 - **Export Ready**: FOB Yantian/Nansha/Shekou; CIF and DDP terms; palletized with internal void-fill to protect angular corners during container transit
 
-**Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | 220,000+ rigid boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001, FSC, SGS certified | Diamond Member MIC since 2015 | Foshan, Guangdong, China
+**Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | 220,000+ rigid boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001, FSC, SGS certified | Diamond Member MIC | Foshan, Guangdong, China

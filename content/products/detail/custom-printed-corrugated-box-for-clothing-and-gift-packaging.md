@@ -15,7 +15,7 @@ params:
 
 ## Product Overview
 
-The custom printed corrugated box for clothing and gift packaging delivers robust protection with premium brand presentation for fashion ecommerce, subscription services, and boutique retail. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — a Diamond Member on Made-in-China.com since 2015, Audited Supplier with 22 years of experience on an 18,000 sqm (10,000+8,000 smart factory) production floor in Foshan. Our KBA 1050 4-color offset press and flexo post-print lines produce over 1.7 million boxes daily, with ISO 9001:2015 and FSC Chain-of-Custody certifications ensuring consistent quality and sustainable sourcing.
+The custom printed corrugated box for clothing and gift packaging delivers robust protection with premium brand presentation for fashion ecommerce, subscription services, and boutique retail. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — a Diamond Member on Made-in-China.com, Audited Supplier with 22 years of experience on an 18,000 sqm (10,000+8,000 smart factory) production floor in Foshan. Our KBA 1050 4-color offset press and flexo post-print lines produce over 1.7 million boxes daily, with ISO 9001:2015 and FSC Chain-of-Custody certifications ensuring consistent quality and sustainable sourcing.
 
 Single-wall E-flute and B-flute corrugated constructions provide crush resistance for garment protection during transit, while full-color offset or flexo printing turns the shipping box into a branded unboxing experience. Self-locking bottoms eliminate tape for a clean retail presentation, and optional tear strips enable easy consumer opening.
 

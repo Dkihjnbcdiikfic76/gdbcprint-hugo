@@ -58,7 +58,7 @@ Velvet flocking, PU leatherette, satin-lined jewelry boxes with ring rolls, neck
 - **MOQ 500 Units** — Flexible quantities for startups and enterprise alike
 - **Free Pre-Production Samples** — 5–7 day turnaround, freight collect
 - **Worldwide Shipping** — DHL, FedEx, UPS, sea freight to 50+ countries
-- **Diamond Member on Made-in-China.com** — Audited Supplier since 2015
+- **Diamond Member on Made-in-China.com** — Audited Supplier
 
 ---
 

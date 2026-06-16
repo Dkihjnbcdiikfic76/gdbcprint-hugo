@@ -75,7 +75,7 @@ For 22 years, Guangdong Bincai Color Printing has manufactured premium watch pac
 | **1.7M Boxes Daily Output** | 220,000+ luxury rigid boxes per day — no volume too large, even for global brand holiday season launches |
 | **Dedicated Rigid Box Line** | Automated wrapping, corner taping, magnet insertion, and velvet flocking on a continuous production line — consistent quality across millions of units |
 | **Free Pre-Production Samples** | Fully decorated sample with your logo, foil, and interior color delivered in 5–7 days by DHL/FedEx |
-| **Diamond Member on MIC** | Audited Supplier since 2015 — factory verified, certifications verified, quality verified by a third-party inspection company |
+| **Diamond Member on MIC** | Audited Supplier — factory verified, certifications verified, quality verified by a third-party inspection company |
 
 Our magnetic watch boxes protect and present timepieces from the factory floor to the retail counter — engineered for the unboxing moment that defines your brand.
 

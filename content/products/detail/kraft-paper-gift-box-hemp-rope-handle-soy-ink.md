@@ -84,7 +84,7 @@ The Bincai Kraft Paper Gift Box with Natural Hemp Rope Handle represents our com
 |---|---|
 | **Presses** | KBA Rapida 105 4-color (15,000 sheets/hr) + Heidelberg Speedmaster CD 102 7+1 UV for soy-ink eco printing and water-based varnish application |
 | **Factory** | 18,000 sqm dual-facility (10,000 sqm main + 8,000 sqm smart factory renovated 2025) in Foshan, Pearl River Delta, China |
-| **Experience** | 22 years founded 2003 — Diamond Member on Made-in-China.com since 2015, dedicated eco-production lines for plastic-free packaging |
+| **Experience** | 22 years founded 2003 — Diamond Member on Made-in-China.com, dedicated eco-production lines for plastic-free packaging |
 | **Daily Output** | 1.7M color boxes/day + 220K+ rigid gift boxes/day; dedicated kraft eco-box production line |
 | **Specialty** | Bobst SP 102 BMA die-cutting (±0.15mm), BHS 2.5m Corrugator for kraft board, soy-ink CMYK, hemp rope assembly, water-based adhesive bonding |
 | **Sampling** | Free pre-production samples in 5-7 working days including hemp handle assembly and material swatches |

@@ -84,7 +84,7 @@ The Bincai Square Rigid Gift Box with magnetic lid closure combines clean geomet
 | **Experience** | 22 years of continuous manufacturing since 2003; 350+ skilled workers with dedicated rigid box assembly team |
 | **Daily Output** | 220,000+ rigid/gift boxes daily across 6 semi-automatic production lines + 1.7 million color boxes/day total |
 | **Specialty** | Bobst SP 102 BMA flatbed die-cutting (±0.15mm); fully automatic 45° mitered corner wrapping; N35 neodymium magnet embedding; soft-touch matte lamination |
-| **Sampling** | Free pre-production samples in 5–7 working days; rapid insert tooling in 3 days; Diamond Member on Made-in-China.com since 2015 |
+| **Sampling** | Free pre-production samples in 5–7 working days; rapid insert tooling in 3 days; Diamond Member on Made-in-China.com |
 | **MOQ** | 500 units standard; 200-unit trial orders available; foil/embossing die $80–150 one-time charge |
 
 ## FAQ

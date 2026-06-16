@@ -118,7 +118,7 @@ For a custom quote or free sample of your corrugated mailer box project, contact
 |---|---|
 | **Presses** | KBA Rapida 105 4-color (15,000 sheets/hr) for offset CMYK on corrugated + Heidelberg Speedmaster CD 102 7+1 UV for inline protective overcoat varnish |
 | **Factory** | 18,000 sqm dual-facility (10,000 sqm main + 8,000 sqm smart factory renovated 2025) in Foshan, Pearl River Delta, China; BHS 2.5m Corrugator for in-house board production |
-| **Experience** | 22 years founded 2003 — Diamond Member on Made-in-China.com since 2015, dedicated corrugated mailer production line |
+| **Experience** | 22 years founded 2003 — Diamond Member on Made-in-China.com, dedicated corrugated mailer production line |
 | **Daily Output** | 1.7M color boxes/day + 220K+ rigid boxes/day; corrugated mailer capacity supports enterprise-scale subscription programs |
 | **Specialty** | Bobst SP 102 BMA die-cutting (±0.15mm), BHS 2.5m Corrugator (B/E/F/BC flutes), tear-strip integration, self-locking crash-lock bottom, soy-ink eco printing |
 | **Sampling** | Free pre-production samples with 3D digital proofing (24-hour turnaround), structural design support, and dieline creation included |

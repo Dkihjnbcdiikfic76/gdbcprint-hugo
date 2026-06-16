@@ -86,7 +86,7 @@ All constructions pre-tested to Amazon FBA packaging requirements (ISTA 6-Amazon
 | **Board Consistency** | ±0.15mm caliper tolerance; automated flute profiling with real-time feedback | ±0.40mm or wider variance; manual spot checks only |
 | **ISTA Transit Testing** | Dedicated ISTA 1A testing lab on campus — every new SKU drop-tested before shipment | Third-party lab testing adds 1–2 weeks and extra cost per SKU |
 | **Lead Time** | 12–18 days from artwork approval to port (vertically integrated campus) | 25–35 days typical with separate board mill, converter, and printer |
-| **Certifications** | ISO 9001:2015, FSC Chain-of-Custody, ISTA 1A, Disney FAMA, Walmart FCCA | ISO 9001 only; FSC and ISTA often unavailable or at extra cost |
+| **Certifications** | ISO 9001:2015, FSC Chain-of-Custody, ISTA 1A, ,  | ISO 9001 only; FSC and ISTA often unavailable or at extra cost |
 
 ## FAQ
 

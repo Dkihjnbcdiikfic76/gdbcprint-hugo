@@ -16,7 +16,7 @@ params:
 
 ## Product Overview
 
-Premium luxury paper bag with ribbon handle and custom logo printing — manufactured by **Guangdong Bincai Color Printing Co., Ltd.**, a full-chain packaging enterprise with 22 years of manufacturing heritage (founded 2003) and Diamond Member on Made-in-China.com since 2015. Produced across 18,000 sqm of factory space (10,000 + 8,000 sqm smart factory, 2025 expansion) on KBA 1050 4-color and Heidelberg Speedmaster XL 7+1 UV offset presses. Daily output: 1.7 million color boxes and bags. ISO 9001:2015 and FSC Chain-of-Custody certified with SGS-tested materials.
+Premium luxury paper bag with ribbon handle and custom logo printing — manufactured by **Guangdong Bincai Color Printing Co., Ltd.**, a full-chain packaging enterprise with 22 years of manufacturing heritage (founded 2003) and Diamond Member on Made-in-China.com. Produced across 18,000 sqm of factory space (10,000 + 8,000 sqm smart factory, 2025 expansion) on KBA 1050 4-color and Heidelberg Speedmaster XL 7+1 UV offset presses. Daily output: 1.7 million color boxes and bags. ISO 9001:2015 and FSC Chain-of-Custody certified with SGS-tested materials.
 
 Bincai's luxury paper bags bridge the gap between eco-conscious packaging and premium brand presentation. Whether you choose natural kraft with a minimalist aesthetic or full-color art paper with foil-stamped logos, every bag is engineered for real-world retail use — 15kg+ handle pull strength, reinforced gusset construction, and scuff-resistant lamination ensure your brand looks impeccable from boutique counter to customer's home. With 22 years of paper engineering expertise, we produce bags that carry your brand, not just your products.
 
@@ -116,6 +116,6 @@ A: Yes — we can produce multiple sizes within the same order as long as they s
 
 ---
 
-*Guangdong Bincai Color Printing Co., Ltd. — 22 years of packaging excellence. ISO 9001:2015 & FSC certified. 18,000 sqm Foshan facility (10,000+8,000 smart factory). KBA 1050 4-color + Heidelberg 7+1 UV presses. Daily output: 1.7M boxes. Serving 60+ countries worldwide. Diamond Member on Made-in-China.com since 2015.*
+*Guangdong Bincai Color Printing Co., Ltd. — 22 years of packaging excellence. ISO 9001:2015 & FSC certified. 18,000 sqm Foshan facility (10,000+8,000 smart factory). KBA 1050 4-color + Heidelberg 7+1 UV presses. Daily output: 1.7M boxes. Serving 60+ countries worldwide. Diamond Member on Made-in-China.com.*
 
 [View on Made-in-China.com →](https://bincaipaperbox.en.made-in-china.com/)

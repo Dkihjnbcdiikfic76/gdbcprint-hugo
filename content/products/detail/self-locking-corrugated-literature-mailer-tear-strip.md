@@ -103,6 +103,6 @@ Since 2003, Guangdong Bincai Color Printing Co., Ltd. has manufactured corrugate
 - **Multi-Flute Expertise** — E-flute, B-flute, and EB-flute double-wall options engineered for specific product weights from 1.5 kg to 10 kg
 - **Print Flexibility** — Flexo, offset litho label, or digital print — choose the quality-to-cost ratio that fits your brand and budget
 - **Flat-Ship Economics** — Ships flat (8× pallet density vs. assembled), pops open in seconds — reduces warehouse footprint and inbound freight by 60-70%
-- **22 Years, ISO & FSC Certified** — Reliable quality management with Diamond Member verification on Made-in-China.com since 2015
+- **22 Years, ISO & FSC Certified** — Reliable quality management with Diamond Member verification on Made-in-China.com
 
-**Factory Facts:** Founded 2003 | 22 years | Diamond Member since 2015 | 18,000 sqm (10,000 + 8,000 smart factory) | 500K+ mailers/day + 1.7M color boxes/day | KBA Rapida 105 + Heidelberg Speedmaster CD 102 7+1 UV | Bobst die-cutters | ISO 9001:2015 & FSC | Foshan, Guangdong, China
+**Factory Facts:** Founded 2003 | 22 years | Diamond Member | 18,000 sqm (10,000 + 8,000 smart factory) | 500K+ mailers/day + 1.7M color boxes/day | KBA Rapida 105 + Heidelberg Speedmaster CD 102 7+1 UV | Bobst die-cutters | ISO 9001:2015 & FSC | Foshan, Guangdong, China

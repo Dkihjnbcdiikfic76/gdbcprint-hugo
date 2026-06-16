@@ -14,7 +14,7 @@ params:
 
 ![Bincai Jewelry Boxes](/images/cat-rigid-jewelry.jpg)
 
-Premium velvet cufflink display box with precision die-cut suede tray and magnetic closure, manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — a Diamond Member on Made-in-China.com since 2015, Audited Supplier with 22 years of experience. Rigid 2.0mm greyboard construction with soft-touch velvet flocking interior and custom-logo embossing on the lid. Available in 2-pair, 4-pair, 6-pair, and 8-pair configurations.
+Premium velvet cufflink display box with precision die-cut suede tray and magnetic closure, manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — a Diamond Member on Made-in-China.com, Audited Supplier with 22 years of experience. Rigid 2.0mm greyboard construction with soft-touch velvet flocking interior and custom-logo embossing on the lid. Available in 2-pair, 4-pair, 6-pair, and 8-pair configurations.
 
 ## Features
 - Rigid 2.0mm greyboard construction wrapped in 157gsm art paper with matte lamination

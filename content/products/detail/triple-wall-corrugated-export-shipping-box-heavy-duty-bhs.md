@@ -2,7 +2,7 @@
 title: "Heavy-Duty Triple-Wall Corrugated Export Shipping Box — Custom Size"
 date: 2026-06-15
 draft: false
-description: "Heavy-duty triple-wall corrugated export shipping box by Guangdong Bincai Color Printing Co., Ltd. — Diamond Member since 2015, 22 years manufacturing. Triple-wall B/C/B flute, burst strength 275+ PSI, ECT 71+ lbs/in, edge crush 1,200+ lbs. BHS 2.5m corrugator line, KBA 1050 4-color flexo post-print, Bobst rotary die-cutter. ISO 9001:2015 & FSC certified, 18,000 sqm factory, daily output 1.7M boxes. Custom sizes 200×150×100mm to 1,200×800×800mm. MOQ 500, free samples 5-7 days. Serving Amazon FBA, ocean freight, and air cargo exporters worldwide."
+description: "Heavy-duty triple-wall corrugated export shipping box by Guangdong Bincai Color Printing Co., Ltd. — Diamond Member since 2026, 22 years manufacturing. Triple-wall B/C/B flute, burst strength 275+ PSI, ECT 71+ lbs/in, edge crush 1,200+ lbs. BHS 2.5m corrugator line, KBA 1050 4-color flexo post-print, Bobst rotary die-cutter. ISO 9001:2015 & FSC certified, 18,000 sqm factory, daily output 1.7M boxes. Custom sizes 200×150×100mm to 1,200×800×800mm. MOQ 500, free samples 5-7 days. Serving Amazon FBA, ocean freight, and air cargo exporters worldwide."
 keywords: "triple wall corrugated box, heavy duty export shipping box, FBA shipping carton, triple wall cardboard box, BHS corrugator box, B flute C flute corrugated, 275 PSI shipping box, ECT 71 export carton, heavy duty packaging China, Bincai Guangdong, OEM corrugated box, ISO 9001 FSC corrugated, 22 years box factory, Diamond Member Made-in-China, 1.7M daily output, Foshan corrugated manufacturer, export pallet box, burst strength corrugated, custom size shipping box, BHS 2.5m corrugator"
 categories: ["corrugated-mailers"]
 params:
@@ -16,7 +16,7 @@ params:
 
 ## Product Overview
 
-Heavy-duty triple-wall corrugated export shipping box manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — a Diamond Member on Made-in-China.com since 2015, Audited Supplier with 22 years (founded 2003). Our 18,000 sqm dual factory (10,000+8,000 sqm smart factory, 2025) houses a BHS 2.5m corrugator line producing B/C/B triple-wall and C/B double-wall board, with KBA 1050 4-color flexo post-print and Bobst rotary die-cutter for precision blanks. Daily output: 1.7 million color boxes + corrugated capability for 500,000+ heavy-duty shippers. ISO 9001:2015 and FSC Chain-of-Custody certified.
+Heavy-duty triple-wall corrugated export shipping box manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — a Diamond Member on Made-in-China.com, Audited Supplier with 22 years (founded 2003). Our 18,000 sqm dual factory (10,000+8,000 sqm smart factory, 2025) houses a BHS 2.5m corrugator line producing B/C/B triple-wall and C/B double-wall board, with KBA 1050 4-color flexo post-print and Bobst rotary die-cutter for precision blanks. Daily output: 1.7 million color boxes + corrugated capability for 500,000+ heavy-duty shippers. ISO 9001:2015 and FSC Chain-of-Custody certified.
 
 Triple-wall corrugated board (typically 10-15mm thick) combines three flute layers — B (2.5mm), C (3.5mm), and B (2.5mm) — with four kraft liner sheets for unmatched stacking strength and puncture resistance. Burst strength exceeds 275 PSI (Mullen), edge crush test (ECT) 71+ lbs/in, and box compression exceeds 1,200 lbs for standard sizes. This box is built for Amazon FBA inbound shipping, ocean container LCL/FCL packing, and heavy industrial parts export — weights up to 60 kg per carton.
 
@@ -102,4 +102,4 @@ A: 500 units for standard RSC designs with flexo print. Custom die-cut shapes (s
 
 ---
 
-*Guangdong Bincai Color Printing Co., Ltd. — 22 years of packaging excellence. ISO 9001:2015 & FSC certified. 18,000 sqm Foshan facility. BHS 2.5m corrugator + KBA 1050 4-color flexo + Bobst rotary die-cutter. Daily output: 1.7M boxes. Serving 60+ countries worldwide. Diamond Member on Made-in-China.com since 2015.*
+*Guangdong Bincai Color Printing Co., Ltd. — 22 years of packaging excellence. ISO 9001:2015 & FSC certified. 18,000 sqm Foshan facility. BHS 2.5m corrugator + KBA 1050 4-color flexo + Bobst rotary die-cutter. Daily output: 1.7M boxes. Serving 60+ countries worldwide. Diamond Member on Made-in-China.com.*

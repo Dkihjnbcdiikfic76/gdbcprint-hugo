@@ -14,7 +14,7 @@ params:
 
 ![Folding Carton with Built-in Product Stand for Retail Counter POP Display](/images/folding-cartons.jpg)
 
-Innovative dual-function folding carton that transforms from shipping mailer to countertop display stand — manufactured by **Guangdong Bincai Color Printing Co., Ltd.**, a Diamond Member on Made-in-China.com since 2015, Audited Supplier with 22 years of experience. The patented crease-and-fold structure ships flat as a standard carton for product protection during transit, then unfolds at retail into an angled display stand that elevates the product for maximum visibility. Die-cut locking tabs hold the display position without glue, tape, or tools — pure structural engineering from Bincai's in-house design team. Eliminates the need for separate retail display fixtures, reducing packaging waste and store labor. Produced on KBA Rapida 105 4-color and Heidelberg Speedmaster CD 102 7+1 UV presses across 18,000 sqm factory (10,000+8,000 sqm smart factory, 2025 expansion).
+Innovative dual-function folding carton that transforms from shipping mailer to countertop display stand — manufactured by **Guangdong Bincai Color Printing Co., Ltd.**, a Diamond Member on Made-in-China.com, Audited Supplier with 22 years of experience. The patented crease-and-fold structure ships flat as a standard carton for product protection during transit, then unfolds at retail into an angled display stand that elevates the product for maximum visibility. Die-cut locking tabs hold the display position without glue, tape, or tools — pure structural engineering from Bincai's in-house design team. Eliminates the need for separate retail display fixtures, reducing packaging waste and store labor. Produced on KBA Rapida 105 4-color and Heidelberg Speedmaster CD 102 7+1 UV presses across 18,000 sqm factory (10,000+8,000 sqm smart factory, 2025 expansion).
 
 The engineering behind this POP carton is deceptively simple. During shipping, it's a standard folding carton with all the structural protection of a traditional box — crease-and-fold geometry tested to ISTA 1A drop standards. At retail, the store associate tears away a perforated panel and unfolds the integrated stand. Triangular support flaps lock into die-cut slots, creating a rigid 30° display angle optimized for counter-height visibility (average customer eye level at point-of-sale). The anti-slip coating on the base prevents sliding on glass and acrylic retail counters. After 50+ open-close cycles in durability testing, the locking mechanism maintains its rigidity — engineered for high-traffic retail environments where the display may be collapsed and redeployed for restocking.
 
@@ -104,7 +104,7 @@ Structural POP display cartons sit at the intersection of packaging engineering 
 - **1.7M boxes/day** output capacity for large retail rollouts with consistent quality
 - **One-stop service**: structural engineering → Kongsberg prototyping → pre-press → printing → die-cutting → creasing → gluing → QC → flat-pack shipping
 - Free structural design consultation and 3D transformation mockup with every new order
-- Diamond Member on Made-in-China.com, Audited Supplier with on-site factory verification
+- Diamond Member on Made-in-China.com, Audited Supplier
 
 **Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA Rapida 105 + Heidelberg CD 102 7+1 UV + Bobst SP 102 BMA + Bobst Fuego 110 | ISO 9001:2015 & FSC-C147399 | Foshan, Guangdong, China
 

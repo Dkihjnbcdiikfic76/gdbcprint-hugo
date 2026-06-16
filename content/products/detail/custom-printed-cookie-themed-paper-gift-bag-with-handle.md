@@ -16,7 +16,7 @@ params:
 
 ## Product Overview
 
-Premium custom printed cookie-themed paper gift bag with handle — manufactured by **Guangdong Bincai Color Printing Co., Ltd.**, a Diamond Member on Made-in-China.com since 2015 and Audited Supplier with 22 years of packaging manufacturing expertise. Established in 2003, Bincai operates an 18,000 sqm dual-factory complex (10,000+8,000 sqm smart factory, commissioned 2025) in Foshan, Guangdong, with over 80 skilled workers. Our integrated production lines — KBA 1050 4-color offset and Heidelberg 7+1 UV presses — deliver 1.7 million color boxes and bags daily. ISO 9001:2015 and FSC Chain-of-Custody certified, we serve bakeries, confectioners, gourmet food brands, and retail chains across 200+ global clients.
+Premium custom printed cookie-themed paper gift bag with handle — manufactured by **Guangdong Bincai Color Printing Co., Ltd.**, a Diamond Member on Made-in-China.com and Audited Supplier with 22 years of packaging manufacturing expertise. Established in 2003, Bincai operates an 18,000 sqm dual-factory complex (10,000+8,000 sqm smart factory, commissioned 2025) in Foshan, Guangdong, with over 80 skilled workers. Our integrated production lines — KBA 1050 4-color offset and Heidelberg 7+1 UV presses — deliver 1.7 million color boxes and bags daily. ISO 9001:2015 and FSC Chain-of-Custody certified, we serve bakeries, confectioners, gourmet food brands, and retail chains across 200+ global clients.
 
 These paper gift bags combine festive cookie-themed graphics with premium handle options — twisted kraft rope, satin ribbon, grosgrain, or die-cut reinforced handles — creating a complete retail packaging solution that elevates brand perception at point of sale.
 

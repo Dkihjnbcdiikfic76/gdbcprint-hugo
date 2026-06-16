@@ -99,7 +99,7 @@ The Magnetic Lid Paper Box with Embossed Pattern and Velvet Liner by Guangdong B
 |---|---|
 | **Presses** | KBA Rapida 105 4-color (15,000 sheets/hr) for embossing base prints + Heidelberg Speedmaster CD 102 7+1 UV for spot UV accents and metallic inks |
 | **Factory** | 18,000 sqm dual-facility (10,000 sqm main + 8,000 sqm smart factory renovated 2025 with robotic velvet-lining workstations) in Foshan, Pearl River Delta, China |
-| **Experience** | 22 years founded 2003 — Diamond Member on Made-in-China.com since 2015, recognized in China Print & Packaging News top rigid-box manufacturers |
+| **Experience** | 22 years founded 2003 — Diamond Member on Made-in-China.com, recognized in China Print & Packaging News top rigid-box manufacturers |
 | **Daily Output** | 1.7M color boxes/day + 220K+ rigid gift boxes/day; dedicated magnetic-closure luxury box production line with 350+ skilled workers |
 | **Specialty** | Bobst SP 102 BMA flatbed die-cutter (±0.15mm), multi-level sculpted embossing (up to 1.0mm depth), automated neodymium magnet insertion, velvet flocking |
 | **Sampling** | Free pre-production samples in 5-7 working days with actual velvet, magnets, embossing dies, and foil finishing |

@@ -16,7 +16,7 @@ params:
 
 ## Product Overview
 
-Purpose-engineered corrugated mailer for ready-to-assemble (RTA) furniture kit shipping — manufactured by **Guangdong Bincai Color Printing Co., Ltd.**, a Diamond Member on Made-in-China.com since 2015 with mandatory on-site audit verified. 22 years of Guangdong packaging manufacturing (founded 2003) serving 200+ global furniture, home goods, and e-commerce brands.
+Purpose-engineered corrugated mailer for ready-to-assemble (RTA) furniture kit shipping — manufactured by **Guangdong Bincai Color Printing Co., Ltd.**, a Diamond Member on Made-in-China.com with mandatory on-site audit verified. 22 years of Guangdong packaging manufacturing (founded 2003) serving 200+ global furniture, home goods, and e-commerce brands.
 
 Die-cut internal corrugated partitions create dedicated compartments for wood/MDF panels, hardware packs (screws, dowels, Allen keys, cam locks), assembly instructions, and accessories — everything the consumer needs arrives organized in one damage-free box. Double-wall BC (6mm) or EB (8mm) flute construction delivers edge crush resistance (ECT ≥ 44 lb/in) for pallet stacking in warehouse and container shipping while the fluted structure absorbs transit shock and vibration. Full-overlap flaps or self-locking crash-lock bottom eliminates tape during assembly line packing — reducing fulfillment center labor by up to 40%. Integrated tear strip allows tool-free consumer opening.
 
@@ -131,4 +131,4 @@ A: Yes. Our boxes use water-based starch adhesive (solvent-free, biodegradable),
 - 500+ skilled workers across 3 shifts; 80+ in design, engineering, and QC
 - Daily capacity: 1.7 million boxes across all production lines
 - Export to 60+ countries across North America, Europe, Middle East, and Asia-Pacific
-- Diamond Member on Made-in-China.com, Audited Supplier with on-site factory verification
+- Diamond Member on Made-in-China.com, Audited Supplier

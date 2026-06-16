@@ -106,7 +106,7 @@ The Bincai Magnetic Closure Lipstick Gift Box serves luxury beauty brands across
 | **Experience** | 22 years of continuous manufacturing since 2003; 350+ skilled workers including dedicated beauty packaging specialists |
 | **Daily Output** | 1.7 million color boxes/day + 220,000+ rigid/gift boxes daily across 6 dedicated production lines |
 | **Specialty** | Bobst SP 102 BMA flatbed hot foil stamping; CNC die-cut EVA foam inserts; neodymium magnet embedding; soft-touch coating station |
-| **Sampling** | Free pre-production samples in 5–7 working days; velvet-lined prototypes in 7 days; Diamond Member on Made-in-China.com since 2015 |
+| **Sampling** | Free pre-production samples in 5–7 working days; velvet-lined prototypes in 7 days; Diamond Member on Made-in-China.com |
 | **MOQ** | 500 units standard (single design); 1,000+ for custom tooling/insert; flexible for luxury brands launching new SKUs |
 
 ## FAQ
@@ -129,4 +129,4 @@ A: We offer CNC die-cut EVA foam (30–45 Shore A hardness) with cavity toleranc
 
 **Q: What certifications does Bincai hold for cosmetic packaging?**
 
-A: Our facility holds ISO 9001:2015 quality management, FSC Chain-of-Custody (FSC-C147399) for sustainable sourcing, Sedex SMETA for social compliance, and REACH compliance (EU 1907/2006) for all materials. All adhesives, inks, and coatings are tested for Substances of Very High Concern (SVHC). We are Diamond Member on Made-in-China.com since 2015 with 22 years of verified manufacturing history.
+A: Our facility holds ISO 9001:2015 quality management, FSC Chain-of-Custody (FSC-C147399) for sustainable sourcing, Sedex SMETA for social compliance, and REACH compliance (EU 1907/2006) for all materials. All adhesives, inks, and coatings are tested for Substances of Very High Concern (SVHC). We are Diamond Member on Made-in-China.com with 22 years of verified manufacturing history.

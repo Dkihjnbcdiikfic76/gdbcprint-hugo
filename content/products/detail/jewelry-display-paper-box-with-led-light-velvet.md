@@ -2,7 +2,7 @@
 title: "Jewelry Display Paper Box with LED Light Velvet"
 date: 2026-06-12
 draft: false
-description: "Jewelry display paper box with LED light and velvet interior by Guangdong Bincai Color Printing Co., Ltd. — Diamond Member on Made-in-China.com since 2015, 22 years manufacturing. Greyboard 1000–1400gsm rigid construction, velvet flocking, satin interior, battery-powered LED lighting with touch activation, custom foam insert, hot foil stamping, embossing. ISO 9001:2015 & FSC certified, 18,000 sqm factory (10,000+8,000 smart factory), KBA 1050 4-color + Heidelberg 7+1 UV presses, daily output 1.7M boxes + 220,000+ gift boxes. MOQ 500, free samples 5-7 days."
+description: "Jewelry display paper box with LED light and velvet interior by Guangdong Bincai Color Printing Co., Ltd. — Diamond Member on Made-in-China.com, 22 years manufacturing. Greyboard 1000–1400gsm rigid construction, velvet flocking, satin interior, battery-powered LED lighting with touch activation, custom foam insert, hot foil stamping, embossing. ISO 9001:2015 & FSC certified, 18,000 sqm factory (10,000+8,000 smart factory), KBA 1050 4-color + Heidelberg 7+1 UV presses, daily output 1.7M boxes + 220,000+ gift boxes. MOQ 500, free samples 5-7 days."
 keywords: "jewelry display box, LED light jewelry box, velvet jewelry box, necklace display box, ring display box, bracelet display box, luxury jewelry packaging, jewelry box manufacturer China, Bincai Guangdong, ISO 9001 FSC jewelry box, KBA Heidelberg printed box, hot foil jewelry box, embossed jewelry box, Diamond Member Made-in-China, 22 years packaging factory, 1.7M daily output, LED display packaging, premium jewelry presentation, custom jewelry box, satin lined box"
 categories: ["jewelry-boxes"]
 params:
@@ -14,7 +14,7 @@ params:
 
 ![Jewelry Display Paper Box with LED Light Velvet](/images/cat-rigid-jewelry.jpg)
 
-Premium jewelry display paper box with integrated LED light and velvet interior — manufactured by **Guangdong Bincai Color Printing Co., Ltd.**, a full-chain packaging enterprise with 22 years of manufacturing excellence (founded 2003) and Diamond Member on Made-in-China.com since 2015. The integrated LED lighting transforms a standard jewelry box into an illuminated display case, dramatically enhancing product presentation at retail counters, trade shows, and e-commerce unboxing moments. Produced across 18,000 sqm of factory space (10,000 + 8,000 sqm smart factory, 2025 expansion) on KBA 1050 4-color and Heidelberg Speedmaster XL 7+1 UV offset presses. Daily output: 1.7 million color boxes + 220,000+ rigid gift boxes. ISO 9001:2015, FSC Chain-of-Custody, and REACH compliant.
+Premium jewelry display paper box with integrated LED light and velvet interior — manufactured by **Guangdong Bincai Color Printing Co., Ltd.**, a full-chain packaging enterprise with 22 years of manufacturing excellence (founded 2003) and Diamond Member on Made-in-China.com. The integrated LED lighting transforms a standard jewelry box into an illuminated display case, dramatically enhancing product presentation at retail counters, trade shows, and e-commerce unboxing moments. Produced across 18,000 sqm of factory space (10,000 + 8,000 sqm smart factory, 2025 expansion) on KBA 1050 4-color and Heidelberg Speedmaster XL 7+1 UV offset presses. Daily output: 1.7 million color boxes + 220,000+ rigid gift boxes. ISO 9001:2015, FSC Chain-of-Custody, and REACH compliant.
 
 ## Applications
 
@@ -122,7 +122,7 @@ Guangdong Bincai Color Printing Co., Ltd. has been a trusted name in luxury pack
 - **22 Years of Expertise**: Founded in 2003, we have deep domain knowledge in luxury rigid box manufacturing, LED integration, and jewelry-grade finishing.
 - **World-Class Press Fleet**: KBA 1050 4-color offset press for high-speed commercial printing plus Heidelberg Speedmaster XL 7+1 UV for premium UV-cured finishes with inline coating — two complementary press technologies under one roof.
 - **Unmatched Daily Capacity**: 1.7 million color boxes + 220,000+ rigid gift boxes per day — ensuring on-time delivery even for large seasonal orders.
-- **Diamond Member on Made-in-China.com**: Verified supplier since 2015 with consistent 5-star ratings and on-site factory audit.
+- **Diamond Member on Made-in-China.com**: Verified supplier with consistent 5-star ratings and on-site factory audit.
 - **Full In-House Production Chain**: Printing, foil stamping, embossing, die-cutting, LED module assembly, hand-finishing, and quality inspection — all performed in-house with zero outsourcing.
 - **Certified & Compliant**: ISO 9001:2015 quality management, FSC Chain-of-Custody, REACH-compliant materials, RoHS-compliant electronics — meeting the most stringent international buyer requirements.
 - **Strategic Logistics Hub**: Located in Foshan, Pearl River Delta — shipping via Yantian, Nansha, and Shekou deep-water ports with FOB, CIF, and DDP terms available.

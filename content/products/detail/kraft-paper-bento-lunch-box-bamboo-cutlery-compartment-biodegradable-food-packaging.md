@@ -14,7 +14,7 @@ params:
 
 ![Kraft Eco Boxes](/images/kraft-eco-box.jpg)
 
-Sustainable kraft paper bento lunch box with integrated bamboo cutlery compartment, manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — Diamond Member on Made-in-China.com since 2015, Audited Supplier. Made from FSC-certified kraft board with PLA (polylactic acid) moisture barrier, printed with soy-based inks. Fully compostable in industrial composting facilities within 90 days. Designed for takeaway, meal prep delivery, corporate catering, and eco-conscious food service.
+Sustainable kraft paper bento lunch box with integrated bamboo cutlery compartment, manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — Diamond Member on Made-in-China.com, Audited Supplier. Made from FSC-certified kraft board with PLA (polylactic acid) moisture barrier, printed with soy-based inks. Fully compostable in industrial composting facilities within 90 days. Designed for takeaway, meal prep delivery, corporate catering, and eco-conscious food service.
 
 ## Features
 - FSC-certified 350-450gsm kraft board — natural brown kraft with visible fiber texture

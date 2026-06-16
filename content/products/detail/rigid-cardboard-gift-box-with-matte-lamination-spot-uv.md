@@ -77,7 +77,7 @@ Guangdong Bincai Color Printing's rigid cardboard gift box with matte lamination
 |---|---|
 | **Presses** | Heidelberg Speedmaster CD 102 7+1 UV (inline spot UV in single pass, zero registration drift) + KBA Rapida 105 4-color (15,000 sheets/hr) |
 | **Factory** | 18,000 sqm dual-facility (10,000 sqm main + 8,000 sqm smart factory renovated 2025) in Foshan, Pearl River Delta, China |
-| **Experience** | 22 years founded 2003 — Diamond Member on Made-in-China.com since 2015, matte+spot UV is our signature finish across 200+ luxury brands |
+| **Experience** | 22 years founded 2003 — Diamond Member on Made-in-China.com, matte+spot UV is our signature finish across 200+ luxury brands |
 | **Daily Output** | 1.7M color boxes/day + 220K+ rigid gift boxes/day; 350+ skilled workers across integrated production lines |
 | **Specialty** | Bobst SP 102 BMA flatbed die-cutter (±0.15mm), proprietary 3-5μm soft-touch matte coating, registered spot UV, hot foil stamping, automated magnet insertion |
 | **Sampling** | Free pre-production samples in 5-7 working days with actual matte lamination, spot UV, and interior finishing |

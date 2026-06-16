@@ -72,7 +72,7 @@ FSC certified kraft paper box with clear PET window for food packaging — desig
 | **Daily Output** | 1.7 million color boxes/day + dedicated kraft eco line for food-grade production |
 | **Specialty** | FSC Chain-of-Custody (FSC-C147399) food-safe kraft packaging with low-migration inks per EU 1935/2004; Bobst SP 102 BMA die-cutting ±0.15mm |
 | **Sampling** | Free pre-production food-safe samples in 5–7 working days; structural prototypes in 3 days |
-| **MOQ** | 500 units standard; flexible for startups and pilot runs; Diamond Member on Made-in-China.com since 2015 |
+| **MOQ** | 500 units standard; flexible for startups and pilot runs; Diamond Member on Made-in-China.com |
 
 ## Factory
 - 22 years of manufacturing excellence since 2003

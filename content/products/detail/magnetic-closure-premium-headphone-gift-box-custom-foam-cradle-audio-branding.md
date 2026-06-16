@@ -14,7 +14,7 @@ params:
 
 ![Magnetic Closure Boxes](/images/magnetic-closure-boxes.jpg)
 
-Premium magnetic closure gift box engineered for high-end headphones and audio accessories, manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — Diamond Member on Made-in-China.com since 2015, Audited Supplier with 22 years of experience. Rigid 2.5mm greyboard with soft-touch matte lamination, custom die-cut EVA or PU foam cradle that cradles headphones in a sculpted presentation. Magnetic snap closure opens flat for a premium retail unboxing experience.
+Premium magnetic closure gift box engineered for high-end headphones and audio accessories, manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — Diamond Member on Made-in-China.com, Audited Supplier with 22 years of experience. Rigid 2.5mm greyboard with soft-touch matte lamination, custom die-cut EVA or PU foam cradle that cradles headphones in a sculpted presentation. Magnetic snap closure opens flat for a premium retail unboxing experience.
 
 ## Features
 - Rigid 2.5mm greyboard construction — heavier caliper for substantial premium feel

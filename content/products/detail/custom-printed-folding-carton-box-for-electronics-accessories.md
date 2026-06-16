@@ -95,7 +95,7 @@ Custom printed folding carton boxes designed specifically for electronics access
 | **Experience** | 22 years of continuous manufacturing since 2003; 350+ skilled workers across prepress, printing, finishing, and QC |
 | **Daily Output** | 1.7 million color boxes/day; dedicated electronics packaging line producing 280,000+ folding cartons daily |
 | **Specialty** | Bobst SP 102 BMA die-cutting (±0.15mm precision); BHS 2.5m Corrugator for corrugated inserts; ISO 9001:2015, FSC CoC (FSC-C147399), Sedex SMETA |
-| **Sampling** | Free structural samples in 3–5 working days; printed proofs in 2 days; Diamond Member on Made-in-China.com since 2015 |
+| **Sampling** | Free structural samples in 3–5 working days; printed proofs in 2 days; Diamond Member on Made-in-China.com |
 | **MOQ** | 500 units standard; 300-unit trial orders available; flexible for startups and new product launches |
 
 ## FAQ

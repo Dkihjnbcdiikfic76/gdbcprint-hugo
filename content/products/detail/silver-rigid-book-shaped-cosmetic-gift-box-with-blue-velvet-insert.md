@@ -13,7 +13,7 @@ params:
 ---
 ![Silver Rigid Book-Shaped Cosmetic Gift Box with Blue Velvet Insert](/images/rigid-gift-boxes.jpg)
 
-Premium custom silver rigid book-shaped cosmetic gift box with blue velvet insert manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — a Diamond Member on Made-in-China.com since 2015, Audited Supplier with 22 years of experience.
+Premium custom silver rigid book-shaped cosmetic gift box with blue velvet insert manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — a Diamond Member on Made-in-China.com, Audited Supplier with 22 years of experience.
 
 ## Applications
 - **Luxury Cosmetics**: Premium packaging for high-end skincare sets, serums, creams, and beauty collections — the sleek silver aesthetic communicates sophistication
@@ -109,7 +109,7 @@ When you choose Guangdong Bincai Color Printing Co., Ltd. for your luxury cosmet
 
 - **Engineering-Driven Quality**: Heidelberg Prinect color management with ΔE ≤ 2.0, N35-rated neodymium magnets tested to 500+ cycles, and ISTA 1A drop-test certification — packaging built to protect and impress.
 - **Vertically Integrated Production**: In-house printing (KBA 1050 + Heidelberg 7+1 UV), die-cutting, rigid box assembly, velvet flocking, and hot-foil stamping under one roof — no outsourced steps, no quality gaps.
-- **Global Brand Trust**: Audited Diamond Supplier on Made-in-China.com since 2015, serving 200+ beauty and luxury brands across North America, Europe, the Middle East, and Asia-Pacific.
+- **Global Brand Trust**: Audited Diamond Supplier on Made-in-China.com, serving 200+ beauty and luxury brands across North America, Europe, the Middle East, and Asia-Pacific.
 - **Sustainability Built In**: FSC-certified paperboard, soy-based inks, water-based adhesives, and factory-wide waste recycling — your packaging meets the eco-standards today's consumers demand.
 
 *Factory Facts: Founded 2003 | 22 years | 18,000 sqm | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, China*
