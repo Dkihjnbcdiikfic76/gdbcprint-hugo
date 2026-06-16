@@ -65,3 +65,9 @@ This straight tuck end (STE) folding carton combines an aqueous-coated finish wi
 | Herbal supplement capsules | 400gsm FBB | Soft-Touch | Standard euro slot |
 | Probiotic blister cards | 350gsm SBS | Gloss Aqueous | Extended tab |
 | Multi-pack supplement kit | 450gsm FBB | Gloss Aqueous | No tab (shelf-ready) |
+
+---
+
+## Ready to Start?
+
+**Send us your supplement packaging specs for a free folding carton sample with aqueous coating, euro hang tab, and your brand artwork — ready in 3–5 days.** Printed on KBA Rapida 1050 4-color offset at 15,000 sheets/hour with ±0.1mm die-cut precision on Bobst SP 102 BMA. ISO 9001 and FSC certified — 500,000+ daily folding carton capacity at our 18,000 sqm Foshan facility. [→ Get your sample](/contact/)

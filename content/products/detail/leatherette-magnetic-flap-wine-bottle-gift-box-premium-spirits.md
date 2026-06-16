@@ -86,3 +86,9 @@ A: Yes — the same leatherette magnetic flap construction is available in flat 
 
 **Q: What is the lead time for a fully custom wine box with our distillery's branding?**
 A: Standard lead time is 18–22 business days: 3–5 days for artwork and structural design, 5–7 days for pre-production samples, and 10–12 days for mass production after sample approval. For seasonal peaks (Q3 September–November for holiday wine gifting), we recommend placing orders 8–10 weeks in advance to secure production slots. Rush production (12 business days) is available for a 25% surcharge.
+
+---
+
+## Ready to Start?
+
+**Send us your bottle dimensions and brand artwork for a leatherette magnetic flap wine box sample with foil-stamped logo — ready in 5–7 days.** Our PU leatherette passes 50,000+ Martindale rub cycles and the magnetic closure is cycle-tested to 5,000 open/close cycles — produced on KBA 1050 and Heidelberg 7+1 UV presses with 220,000+ daily gift box capacity. [→ Get your sample](/contact/)

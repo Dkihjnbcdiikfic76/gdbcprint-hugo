@@ -115,3 +115,9 @@ A: We require annual third-party test reports from our PLA film supplier (accred
 Bincai's kraft packaging program is built on 22 years of material expertise — we source FSC-certified recycled kraft directly from Guangdong's board mills, eliminating middlemen and ensuring traceability from forest to finished box. Our compostable PLA film supply chain is audited annually for EN 13432 compliance, and our soy-based ink partnership with a domestic eco-pigment supplier guarantees heavy-metal-free printing. For artisan soap makers scaling from farmers' markets to national retail, Bincai delivers the certifications, material transparency, and production capacity (1.7M daily output) that mass-market sustainability demands.
 
 **Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
+
+---
+
+## Ready to Start?
+
+**Send us your soap bar dimensions for an FSC-certified kraft sample with compostable PLA window, soy ink print, and your logo — ready in 5–7 days.** EN 13432 certified PLA film, 100% recycled FSC kraft board, and heavy-metal-free soy inks — produced on our dedicated eco-grade production line at 50,000+ kraft boxes per day with full sustainability audit documentation included. [→ Get your sample](/contact/)

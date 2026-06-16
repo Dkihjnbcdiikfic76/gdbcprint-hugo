@@ -75,3 +75,9 @@ A: Standard widths are 10mm, 15mm, 20mm, and 25mm. Custom widths available on re
 
 **Q: Can you produce ribbon-closure boxes without a lid (open-top presentation)?**
 A: Yes, we produce ribbon-tie boxes in open-top and two-piece telescopic lid configurations. Open-top ribbon boxes are popular for wedding favors and retail counter displays.
+
+---
+
+## Ready to Start?
+
+**Send us your product dimensions and brand colors for a free rigid gift box sample with custom satin ribbon and your logo — ready in 5–7 days.** Our 22-year Foshan factory runs KBA 1050 4-color and Heidelberg 7+1 UV presses with 220,000+ daily rigid box capacity. Free flat-ship analysis included to minimize freight costs for your market. [→ Get your sample](/contact/)
