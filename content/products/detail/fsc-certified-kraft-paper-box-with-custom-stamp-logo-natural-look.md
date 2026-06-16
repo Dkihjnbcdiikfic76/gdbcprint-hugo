@@ -86,4 +86,25 @@ Guangdong Bincai Color Printing Co., Ltd. — a Foshan-based packaging manufactu
 | ISO 9001 Traceability | Lot-code system, raw-material-to-shipment record | Full traceability audit completed within 4 hours of request |
 | Drop Test | ISTA 1A: 10 drops from 760mm on corners, edges, faces | No box rupture; closure remains secure; contents undamaged |
 | Recycled Content Verification | FSC Recycled 100% label + supplier attestation | Minimum 100% post-consumer recycled fiber for PCR-grade orders |
-| Heavy Metals (Ink/Surface) | ICP-MS per EN 71-3 migration protocol | All 8 regulated elements below EN 71-3 Category III limits |
+| **Heavy Metals (Ink/Surface)** | ICP-MS per EN 71-3 migration protocol | All 8 regulated elements below EN 71-3 Category III limits |
+
+## When Stamp Logo Wins: Choosing Your Branding Technique on Kraft
+
+The custom stamp logo on kraft creates a specific aesthetic that's fundamentally different from offset printing. Use this selector to determine if stamp-style branding fits your product:
+
+| Your Brand Story | Why Stamp Logo on Kraft Is the Right Choice |
+|---|---|
+| **"Small-batch artisan"** | The slight impression depth (0.15–0.35mm) and ink absorbency variation of letterpress stamping on uncoated kraft produces a handmade, one-at-a-time feel that full-color offset cannot replicate |
+| **"We're the anti-plastic brand"** | Stamp-only packaging (blind deboss or single-color soy ink) eliminates lamination, foil, and UV coatings — the box is 100% curbside recyclable with zero delamination at the mill |
+| **Minimalist brand identity** | Single-color stamp logo on natural kraft — no CMYK, no gradients — communicates confidence and restraint. Brands like Aesop and Le Labo built billion-dollar identities on this aesthetic |
+| **Short-run seasonal releases (300–1,000 units)** | Stamp dies cost $50–150 vs. $300–800 for offset plates. Lower setup cost means you can brand limited holiday editions, pop-up shop boxes, and influencer kits without the full offset commitment |
+| **"We want customers to keep the box"** | Stamped kraft boxes have an archival, keepsake quality — consumers repurpose them as drawer organizers, gift boxes, and storage. Offset-printed boxes with heavy graphics rarely earn a second life |
+| **Farmers market / craft fair retail** | The tactile stamp impression invites touch at open-air markets where customers pick up and inspect products. Offset-printed gloss boxes feel sterile by comparison |
+| **Your product IS the color** | When the product provides the visual drama (vibrantly colored soap, richly hued tea, bright candle wax), a restrained stamped kraft box lets the product be the hero |
+
+**When to Choose Full Offset Instead:**
+- **Complex brand graphics** (photography, gradients, multi-color logos) → KBA 1050 CMYK offset
+- **Maximum shelf visibility** in crowded retail aisles → glossy coated white board + CMYK
+- **Barcode/QR code readability** at small sizes → offset's 175 LPI ensures scannability; stamp ink bleed can compromise fine details below 6pt
+
+**Combination Approach (Our Most Popular):** Stamp logo on lid exterior (artisanal first impression) + CMYK offset printed interior message (practical product info). Best of both worlds.

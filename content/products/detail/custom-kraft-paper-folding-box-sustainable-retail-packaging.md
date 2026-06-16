@@ -71,6 +71,26 @@ Sustainability isn't just a label — it's engineered into every box. Here's why
 | **Free Eco Consultation** | Our packaging engineers recommend board caliper, flute construction, and finishing to minimize material use without sacrificing protection |
 | **REACH & RoHS Compliant** | All materials tested for EU and US market compliance — heavy metals, phthalates, and SVHC screened |
 
+## When Kraft Wins: Choosing the Right Eco Packaging Format
+
+Not every sustainable packaging decision calls for kraft. This selector helps you match your brand's specific needs to the right format:
+
+| Your Situation | Why Kraft Folding Box Wins |
+|---|---|
+| **Your brand identity IS "natural/organic"** | Kraft's uncoated texture and warm brown tone are visual shorthand for sustainability — consumers trust kraft packaging 2× more for organic claims than white-coated boxes, per packaging perception studies |
+| **Short to medium retail shelf life (6–18 months)** | Kraft board performs excellently in climate-controlled retail; for long-term archival or humid tropical markets, consider moisture-barrier kraft or rigid construction |
+| **Product weight under 500g** | Tuck-top and auto-lock kraft folding cartons handle up to 500g reliably; above 500g, choose kraft-wrapped rigid or double-wall corrugated |
+| **You want "quiet luxury" eco aesthetics** | Gold/silver foil stamping on uncoated kraft creates an understated premium look — popular with organic skincare, craft spirits, and artisanal food brands that reject glossy packaging |
+| **Shipping cost is a major concern** | Kraft folding cartons ship flat and assemble on-site — 80% freight volume savings vs. pre-assembled rigid boxes |
+| **You need FSC certification for EU/UK retail** | Bincai's FSC Chain-of-Custody (SCS-COC-009814) provides full traceability — required for major EU retailers like Carrefour, Tesco, and Sainsbury's |
+| **MOQ flexibility is essential** | Start at 500 units with standard kraft — scale up as your product line grows. No expensive tooling for tuck-top and auto-lock structures |
+| **You're competing against plastic clamshells** | Kraft folding cartons communicate eco-values instantly while providing comparable crush protection at 200–400gsm — the tactile difference alone converts shelf browsers into buyers |
+
+**When NOT to choose kraft folding cartons:**
+- **High-humidity environments** (bathroom retail, tropical open-air markets) → choose moisture-barrier kraft or rigid
+- **Extreme drop-ship scenarios** (single-item courier without void fill) → choose corrugated mailers
+- **Products requiring airtight seal** (perishable food, volatile cosmetics) → kraft + inner barrier bag
+
 ## Frequently Asked Questions
 
 **Q: Is kraft paper really recyclable after printing with soy inks?**

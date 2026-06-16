@@ -110,6 +110,28 @@ Hexagonal box construction demands precision beyond standard rectangular packagi
 
 **Shipping:** Flat-packed design reduces freight volume by 55% vs. pre-assembled hexagonal boxes. Standard lead time 12–16 days. Free samples in 5–7 days.
 
+## Format Comparison: Hexagonal vs. Rectangular vs. Round Jewelry Boxes
+
+Choosing the right geometric format for jewelry packaging directly impacts shelf presence, freight efficiency, and brand perception. Here's how the three formats compare:
+
+| Format | Perceived Luxury ★ | Shelf Presence ★★★★★ | Freight Efficiency | Construction Complexity | Best For |
+|---|---|---|---|---|---|
+| **Hexagonal** (This) | ★★★★ | ★★★★★ | ★★★★ (flat-pack 55% savings) | High — 120° corners ±0.1° | Multi-piece sets, bridal, giftable luxury |
+| **Rectangular Rigid** | ★★★ | ★★★ | ★★★★★ (standard stack) | Low | Single items, retail countertop, cost-sensitive |
+| **Round / Oval** | ★★★★★ | ★★★★ | ★★ (bulky, no flat-pack) | Very High | Ultra-premium, wedding rings, heirloom |
+
+**When Hexagonal Wins:**
+- **Multi-piece jewelry sets**: The six-sided layout creates natural compartment flow — ring slots on opposite facets, necklace groove across the diameter. Rectangular boxes force linear compartment layouts.
+- **Bridal & gift markets**: Hexagonal geometry signals "special occasion" — consumers perceive hexagonal packaging as 40% more giftable than rectangular per our retail partner feedback.
+- **Countertop differentiation**: In a sea of rectangular jewelry boxes, the hexagonal silhouette draws the eye from 3+ meters — critical for department store and boutique display.
+- **Freight without sacrifice**: Unlike round boxes that ship assembled and waste cube space, hexagonal boxes flat-pack and assemble at destination — 55% freight volume savings vs. pre-assembled.
+
+**When to Choose Rectangular Instead:**
+- **Single-item standard packaging**: A simple ring or earring set where compartment flow isn't needed
+- **Tight per-unit budget**: Rectangular construction is faster (no 120° angle QA) → ~15% lower per-unit cost at volumes under 2,000
+
+**Sweet Spot**: The hexagonal format shines at $2.50–6.00 per unit (the Bincai price range for this product). Below $1.50, rectangular rigid boxes offer better value. Above $8.00, round/oval formats deliver maximum luxury for single-item heirloom presentations.
+
 ## FAQ
 
 **Q:** Can the hexagonal box be produced in different sizes?

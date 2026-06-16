@@ -90,4 +90,20 @@ Heavy-duty custom printed corrugated shipping box engineered for e-commerce, ret
 - **Right-Sizing Service**: Our engineers analyze your product dimensions to design the smallest box that protects adequately — reducing material use, shipping volume, and per-unit freight cost
 - **Carbon-Efficient Freight**: Flat-packed corrugated boxes achieve 4–6× the cube utilization of assembled rigid boxes — fewer containers, lower carbon footprint per unit delivered
 
+## When Each Flute Wins: Selecting the Right Corrugated Construction
+
+The flute profile is the single most important decision in corrugated box design — it determines crush resistance, print quality, weight capacity, and freight cost. Here's when to choose each:
+
+| Your Shipping Scenario | Recommended Flute | Why |
+|---|---|---|
+| **E-commerce single-item, under 2kg** | E-flute (1.5mm) | Thinnest profile — lowest per-unit freight cost. Fine flute surface accepts high-quality flexo and litho-laminate printing. Ideal for cosmetics, apparel, small electronics. Self-locking bottom assembles in under 3 seconds — critical for 3PL fulfillment speed. |
+| **Subscription box, monthly delivery** | B-flute (3mm) | The industry standard for subscription boxes. Good crush resistance for courier handling. Thicker wall accepts tear strips and perforation features. Cost-effective at 1,000+ units. |
+| **Heavy product, over 5kg, stacked pallets** | BC double-wall (6mm) | Two layers of corrugated medium between three liners — the strongest standard construction. Edge crush test (ECT) 55+ lb/in for stacked pallet loads. Use for industrial parts, bulk food shipments, multi-bottle wine/liquor packs. |
+| **Retail shelf-ready (SRP)** | B-flute or E-flute | Tear-away top panel converts shipping box to retail display. E-flute for premium graphics (cosmetics, gift foods), B-flute for heavier products (canned goods, beverages). |
+| **Fragile electronics, medium weight** | C-flute (3.5mm) + die-cut inserts | C-flute's larger flute profile absorbs more impact energy than B-flute. Combine with die-cut corrugated partitions for component separation. |
+| **International freight, containerized** | BC double-wall + moisture-resistant liner | Double-wall for stacking strength during 4–6 week ocean transit. Request water-resistant adhesive for high-humidity routes (Southeast Asia, Gulf states). |
+| **Ultra-light, cost-optimized (<500g)** | E-flute or F-flute | F-flute (0.8mm) is the thinnest available — suitable for very light items where the box is primarily a branding surface. |
+
+**Litho-Laminate vs. Flexo — Quick Decision Guide:** If your box needs photography-quality graphics (cosmetics, gift foods, luxury goods), choose litho-laminate on KBA 1050 (175 LPI, full CMYK + PMS). If your box needs bold, simple branding and the budget is tight (shipping boxes, industrial, plain mailers), flexo direct print saves 30–40% on setup and per-unit cost.
+
 [View on Made-in-China.com →](https://bincaipaperbox.en.made-in-china.com/)

@@ -74,6 +74,29 @@ Luxury custom logo watch display box with integrated LED light and premium suede
 - **FSC Chain-of-Custody** certified sustainable materials
 - Free pre-production samples in 5–7 working days (freight collect)
 
+## Why This Watch Box: Bincai vs. Generic Watch Packaging
+
+A watch display box must protect, present, and impress — three functions that generic packaging rarely handles simultaneously. Here's what distinguishes Bincai's construction:
+
+- **Integrated LED with Reed Switch Activation**: The warm LED (3000K) illuminates the watch automatically when the lid opens — no buttons, no cables, no battery compartment visible. The magnetic reed switch is rated for 10,000+ activation cycles with zero failure. Generic illuminated boxes use manual switches that break within months.
+
+- **Piano Lacquer Mirror Finish (≥90 GU at 60°)**: Our multi-coat UV-cured lacquer system (3 base + 2 top coats, polished between layers) achieves a mirror-gloss surface that generic spray-lacquered boxes cannot match. The finish passes cross-hatch adhesion testing with ≤5% coating removal.
+
+- **Adjustable Suede Watch Pillow (16–24cm wrist range)**: Generic pillows use fixed-size foam that leaves small watches rattling or large watches crushed. Bincai's pillow is compression-tested to return to ≥95% original shape after 72 hours under 500g load — and the snap/Velcro attachment means pillows are replaceable.
+
+- **N52 Magnet Lid Alignment (±0.3mm gap)**: 100% inspected — lid must close flush on all four corners. Generic magnetic boxes often show 1–2mm gaps that telegraph cheap construction.
+
+| Factor | Generic Watch Box | Bincai LED Watch Box |
+|---|---|---|
+| **LED Activation** | Manual button switch | Magnetic reed switch, 10,000+ cycles |
+| **LED Runtime** | 50–80 hours (AA) | 200+ hours (CR2032 replaceable) |
+| **Exterior Finish** | Spray lacquer, 60–75 GU gloss | Piano lacquer, ≥90 GU, 5-coat system |
+| **Pillow Fit Range** | Fixed size | Adjustable 16–24cm wrist, 95% recovery |
+| **Lid Alignment** | 1–2mm gap | ≤0.3mm, 100% inspected |
+| **Suede Bond** | May peel at corners | Cross-hatch 5B rating, heat-press cured |
+| **Magnet Grade** | N35 | N52 neodymium |
+| **Power Upgrade** | Battery only | CR2032 / AAA pack / USB-C rechargeable |
+
 ## Factory
 - 22 years of manufacturing since 2003 in Foshan, Guangdong, China
 - 18,000 sqm factory (10,000+8,000 smart factory) (commissioned 2025)

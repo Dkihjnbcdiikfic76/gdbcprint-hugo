@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Jewelry Boxes](/images/jewelry-boxes.jpg)
+![Bincai Jewelry Boxes](/images/cat-rigid-jewelry.jpg)
 
 ## Product Overview
 
@@ -90,6 +90,28 @@ The double-deck velvet necklace and bracelet gift box with magnetic closure is p
 | **Bobst Visioncut 106 LER** | Laser die-cutter for ±0.15mm groove precision |
 | **ISO 9001 & FSC** | Quality management + sustainable forestry certified |
 | **Free Samples** | 3–5 working days (freight collect) |
+
+## Why This Double-Deck Velvet Jewelry Box
+
+The double-deck design solves a critical jewelry packaging problem: how to present a necklace and bracelet set without tangling, crushing, or hiding one piece behind the other. Here's how Bincai's engineering improves on generic dual-layer boxes:
+
+- **Dedicated Grooves Per Deck**: Upper deck has necklace-specific grooves (deep enough for pendant clearance), lower deck has bracelet/bangle grooves (wider, shallower) — not "one groove fits all." Each deck insert is die-cut to your exact jewelry dimensions with ±0.2mm cavity tolerance (Bobst Visioncut 106 LER).
+
+- **N52 Magnets with Deck Alignment**: Four N52 neodymium magnets (≥6N pull force each) ensure the lid stays closed during transit, while our deck alignment jig guarantees upper and lower trays center within ±0.8mm — generic boxes often show 2–3mm tray drift.
+
+- **Colorfast Zero-Shed Velvet**: Electrostatic flocking at 0.8mm pile, colorfast to ISO 105-B02 grade 6+ — won't shed black fibers onto white gold or discolor silver over time. Cross-hatch tape test with zero removal at QC.
+
+- **Satin Pillow Insertion System**: Satin pillows feature ribbon pull-tabs for easy removal. Seams are toleranced to ±1mm with no loose threads — generic pillows often have visible fraying that cheapens the unboxing moment.
+
+| Factor | Generic Double-Layer Box | Bincai Double-Deck Box |
+|---|---|---|
+| **Magnet Grade** | N35, 2–3N | N52, ≥6N per magnet (4 total) |
+| **Deck Alignment** | ±2–3mm tray drift | ±0.8mm centering |
+| **Cavity Precision** | ±1.0mm generic foam | ±0.2mm CNC die-cut per product |
+| **Velvet Shedding** | Possible after 200 cycles | Zero shed, 500+ cycle rub test |
+| **Satin Pillow Quality** | Loose threads, ±3mm seams | ±1mm seams, ribbon pull-tab |
+| **Hinge Cycle Life** | 3,000–5,000 cycles | 8,000+ cycles |
+| **Foil Registration** | ±0.5mm | ±0.15mm (Bobst) |
 
 ## Contact
 
