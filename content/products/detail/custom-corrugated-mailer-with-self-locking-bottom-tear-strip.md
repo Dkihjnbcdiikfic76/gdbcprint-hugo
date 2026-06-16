@@ -72,3 +72,9 @@ A: Absolutely. Our KBA 1050 offset press can print CMYK graphics on the interior
 
 **Q: What flute type should I choose for my product?**
 A: E-flute (1.2mm) for lightweight items under 2kg and crisp printing. B-flute (2.5mm) for medium-weight items 2–8kg with good crush resistance. Double-wall BE for heavy/fragile items over 8kg or international shipping.
+
+---
+
+## Ready to Start?
+
+**Send us your product dimensions and fulfillment workflow — get a zero-tape self-locking mailer sample with your brand printed inside in 5–7 days, plus a free assembly-time comparison report versus your current packaging.** For e-commerce operations shipping 1,000+ units/day, switching to self-locking bottoms typically cuts packing station time by 40–60% — we'll calculate the labor savings for your volume. [→ Get your free sample & ROI analysis](/contact/)

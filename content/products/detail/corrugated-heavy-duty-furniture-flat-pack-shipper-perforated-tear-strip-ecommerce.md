@@ -123,3 +123,9 @@ A: Yes. We design die-cut internal partitions and foam inserts to accommodate mu
 **Q: What about moisture — will the box survive if left on a porch in rain?**
 
 A: BC-flute double-wall construction with kraft outer liner provides good short-term moisture resistance. For enhanced weather protection, we offer a water-resistant coating (wax-emulsion or acrylic) applied to the outer liner that sheds light rain for 2–4 hours. For extreme conditions, a full polybag outer wrap or a PE-laminated liner provides complete waterproofing. Note that the standard box is NOT waterproof — it's designed for typical parcel carrier handling where exposure is brief.
+
+---
+
+## Ready to Start?
+
+**Send us your furniture SKU dimensions, weight, and stacking requirements — receive a free ISTA 3A-validated flat-pack prototype with tear-strip in 7–10 days, plus a DIM weight optimization analysis.** Our BHS 2.5m corrugator produces BC-flute board in-house at 250 m/min, and our design engineers will recommend the optimal flute grade, partition layout, and corner reinforcement for your specific product line. [→ Get your free prototype & analysis](/contact/)

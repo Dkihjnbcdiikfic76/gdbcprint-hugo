@@ -87,3 +87,9 @@ A: The N35 neodymium magnets are positioned in the front flap and base board, ty
 - **Water-Based Adhesives** — Zero-VOC adhesives used in all hand-wrapped assembly.
 - **Designed for Keepsake Longevity** — Unlike disposable packaging, these display boxes are designed to be kept and reused for years, extending the product life cycle and reducing waste.
 - **Soy-Based Inks** — Low-VOC soy-based inks for all exterior printing.
+
+---
+
+## Ready to Start?
+
+**Send us your pen model, box dimensions, and preferred satin color — receive a working magnet-closure sample with gold foil monogram in 5–7 days, plus a free 3D structural rendering within 24 hours.** Whether you need a single-pen presentation box or a 12-pen collector's display with custom die-cut trays, our in-house sampling team produces exactly what we'll manufacture at scale. [→ Get your free sample & quote](/contact/)

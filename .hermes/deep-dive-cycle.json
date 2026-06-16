@@ -1,8 +1,8 @@
 {
   "day": 5,
-  "task": 0,
-  "rotation": 0,
-  "next": "Day 5 Run 1, Task #1 CTA OPTIMIZATION",
+  "task": 1,
+  "rotation": 1,
+  "next": "Day 5 Run 2, Task #2 CUSTOMER CASES",
   "started": "2026-06-16T00:00:00Z",
   "cycle": "deep-dive",
   "tasks": {

@@ -98,3 +98,9 @@ Every box is produced in our **10,000 sqm ISO 9001 & FSC-certified facility** wi
 - **Daily output: 1.5 million boxes** — ensuring on-time delivery for global brands
 
 We source SBS (solid bleached sulfate), CCNB (clay-coated newsback), kraft, and FBB (folding box board) from 5 qualified mills with full traceability. Every material batch undergoes 45-point incoming inspection in our climate-controlled storage (22°C / 50% RH).
+
+---
+
+## Ready to Start?
+
+**Send us your candle jar dimensions, weight, and fragrance sensitivity requirements — receive a BC-flute double-wall sample with precision foam insert in 5–7 days, plus a free ISTA 3A drop-test report for your specific product.** From single-wick 7oz jars to 3-wick 22oz luxury candles, we'll engineer the foam cavity fit, tear-strip placement, and exterior printing to ensure your candles arrive intact and your brand makes an impression at every unboxing. [→ Get your free sample & test report](/contact/)
