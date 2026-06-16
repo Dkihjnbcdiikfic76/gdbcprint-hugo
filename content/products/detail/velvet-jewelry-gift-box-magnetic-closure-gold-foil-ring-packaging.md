@@ -81,3 +81,11 @@ This luxurious velvet jewelry gift box combines a magnetic flap closure with gol
 | **Insert Fit** | Go/no-go gauge | Die-cut cavities ±0.2mm for product fit |
 | **AQL Sampling** | ISO 2859-1 | Level II, AQL 1.5 (major), AQL 4.0 (minor) |
 | **Ribbon Pull** | Tensile test | ≥ 20 N pull strength without detachment |
+
+---
+
+## Get Your Velvet Jewelry Box Sample — Free with 12+ Interior Colors
+
+**Send us your ring, necklace, or earring dimensions for a free velvet magnetic-closure sample with your choice of 12+ interior colors and gold foil logo in 5-7 days.** Every sample includes your selected velvet shade, foil stamp color, and custom die-cut foam cavity — made on the same KBA 1050/Heidelberg 7+1 UV production line as your full order. Diamond Member on MIC with 987 products live and 100% inquiry response rate within 0.67 hours.
+
+**[Request Your Free Sample →](/contact/)  or  📧 qo82@icloud.com | 📱 +86-18934352881**

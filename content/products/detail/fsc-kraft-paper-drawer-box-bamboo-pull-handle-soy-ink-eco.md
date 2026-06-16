@@ -147,3 +147,11 @@ Guangdong Bincai Color Printing Co., Ltd. is not just a box factory — we are a
 - **MOQ 500** — Accessible to boutique brands, artisan makers, and startups — not just enterprise volumes
 - **Free Pre-Production Samples** — 5–7 day turnaround for physical samples with your artwork and specifications
 - **Direct Factory Pricing** — No middlemen, no trading company markup — from our Foshan factory floor to your doorstep
+
+---
+
+## Get Your FSC-Certified Drawer Box Sample — Free Compliance Documents Included
+
+**Send us your product dimensions for an FSC-certified kraft drawer box sample with bamboo handle and your logo in soy ink within 7 days.** Every sample ships with a complete compliance documentation package — FSC Chain-of-Custody (C147399), soy ink declaration, and bamboo origin traceability — ready for your retailer's sustainability audit. 22 years of eco-packaging manufacturing from our 18,000 sqm Foshan facility.
+
+**[Start Your Sample Order →](/contact/)  or  📧 qo82@icloud.com | 📱 +86-18934352881**

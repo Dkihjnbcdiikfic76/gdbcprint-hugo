@@ -129,3 +129,11 @@ Corporate presentation is about making an impression that lasts. Bincai's book-s
 **Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
 
 **Shipping:** Flat-packed (lid nests inside base, foam tray inserts separate) for 60-70% freight volume savings. Standard 15-25 day sea freight from Foshan ports. Air freight available for rush orders.
+
+---
+
+## Send Us Your Corporate Kit Specs — Free Magnetic Sample in 7 Days
+
+**Send us your presentation kit dimensions and branding files for a free magnetic-closure sample with your logo in 7 days.** Every sample includes your choice of gold, silver, or rose gold foil and a custom die-cut EVA foam tray engineered to your product cavities. Bincai's 18,000 sqm Foshan facility runs KBA 1050 + Heidelberg 7+1 UV under one roof — your sample is made on the same production line as your full order.
+
+**[Request Your Free Sample →](/contact/)  or  📧 qo82@icloud.com | 📱 +86-18934352881**

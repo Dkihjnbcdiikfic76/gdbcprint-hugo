@@ -81,3 +81,11 @@ Cosmetics folding cartons sit at the intersection of high-speed production and u
 **Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
 
 **Shipping:** Cartons ship flat-packed on pallets; 50,000–80,000 cartons per standard pallet depending on size. Standard sea freight 18–25 days to US/EU ports. Air freight available for rush orders. MOQ 1,000 with 10–14 day production lead time.
+
+---
+
+## Send Us Your Cosmetics Packaging Specs — Free Digital Proof in 24 Hours
+
+**Share your cosmetics carton dimensions and artwork — receive a same-day digital proof, then a free matte-laminated + gold foil sample in 5-7 days.** Every sample is produced on the same KBA 1050 press with Heidelberg 7+1 UV inline coating that runs your full order — what you approve is exactly what ships. ISO 9001:2015 and FSC certified, 22 years of cosmetics packaging manufacturing from Foshan.
+
+**[Get Your Free Sample + Proof →](/contact/)  or  📧 qo82@icloud.com | 📱 +86-18934352881**

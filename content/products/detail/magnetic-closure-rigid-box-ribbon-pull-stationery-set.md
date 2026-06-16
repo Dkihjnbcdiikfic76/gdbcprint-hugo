@@ -135,3 +135,11 @@ A magnetic closure box is only as good as its weakest component — a misaligned
 **Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day (220,000+ rigid) | KBA 1050 + Heidelberg 7+1 UV + Bobst foil | ISO 9001 & FSC | Foshan, Guangdong, China
 
 **Shipping:** Flat-packed for maximum freight efficiency — 55% volume reduction vs. pre-assembled. Typical container loads: 12,000–18,000 units per 20ft, 25,000–35,000 per 40ft HQ. Custom interior inserts shipped nested for additional 15% volume savings.
+
+---
+
+## Ship Us Your Stationery Items — Free Insert-Engineering Sample in 7 Days
+
+**Ship us your pen, notebook, or desk accessory — get a free magnetic-closure box sample with custom EVA foam insert that fits your exact products within 7 days.** We CNC die-cut the cavity to your items with ±0.5mm precision, add your choice of satin ribbon color and foil stamp, and ship a working sample for your approval. 22 years of rigid box manufacturing, all under one 18,000 sqm roof in Foshan.
+
+**[Claim Your Free Sample →](/contact/)  or  📧 qo82@icloud.com | 📱 +86-18934352881**
