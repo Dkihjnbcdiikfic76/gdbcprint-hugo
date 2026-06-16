@@ -69,3 +69,28 @@ This magnetic closure presentation box features a dual-layer design combining a 
 | Board of Directors Gifts | Annual appreciation | Leatherette wrap + gold foil monogram |
 | Sales Achievement Award | Top performer recognition | Trophy slot + certificate drawer |
 | Luxury Pen Presentation | Limited-edition fountain pen | Dual pen slots + ink bottle recess |
+
+## Why This Dual-Layer Presentation Box
+
+Most magnetic closure boxes are single-compartment flip-lids. This dual-layer design is purpose-built for multi-item corporate gifting where the unboxing sequence matters — the recipient discovers content in deliberate layers, creating a curated brand experience rather than a jumble of items in one cavity.
+
+### Core Differentiators
+
+| Feature | Bincai Dual-Layer Box | Generic Presentation Box |
+|---|---|---|
+| **Unboxing architecture** | Dual-layer: top tray reveals hero item, bottom drawer reveals supporting materials — sequential discovery builds anticipation | Single compartment — all items visible at once, no reveal sequence |
+| **Magnet grade** | N52 neodymium (strongest commercial grade) — 15N holding force across 4 embedded magnets; soft-close damped feel | N35 or ferrite magnets — 5–8N holding force; lid flops open or snaps shut abruptly |
+| **Foam precision** | CNC die-cut EVA foam ±0.2mm tolerance — product fits snugly with zero rattle, contour-matched to each SKU | Manual-cut or punch-press foam ±1.0mm — loose fit, visible gaps, products shift in transit |
+| **Board construction** | 2.5mm greyboard (2.0/3.0mm optional) — furniture-grade rigidity, zero flex on lid | 1.5–2.0mm greyboard — perceptible flex, corners soften over time |
+| **Die-cutting** | Bobst SP 102 BMA flatbed ±0.2mm — panel edges align perfectly, no overhang | Generic platen die-cutter ±0.5–1.0mm — visible edge misalignment on wrapped panels |
+| **Press capability** | Heidelberg Speedmaster CD 102 7+1 UV + KBA Rapida 1050 4-color — inline spot UV, registered foil | 4-color offset only — separate UV/foil pass adds cost and registration drift |
+| **Manufacturing pedigree** | 22 years (founded 2003), 18,000 sqm, ISO 9001:2015 + FSC CoC, 220,000+ rigid boxes/day | Undisclosed factory age, no verifiable certifications, limited capacity |
+| **Lead time** | 15–22 days standard, 8–12 days expedited; free sample in 3–5 days | 25–35 days typical, samples charged separately |
+| **MOQ** | 300 units — viable for pilot corporate gift programs | 500–1,000 typical for dual-layer configurations |
+
+### When Dual-Layer Wins Over Single-Compartment
+
+- **Multi-item corporate gifts** (watch + certificate, pen + ink + warranty): Items belong to different emotional moments — the hero gift on top, the "bonus discovery" below
+- **Award presentations** (trophy + engraved nameplate + letter from CEO): The drawer reveal of a personal letter transforms a transactional award into a human moment
+- **Executive onboarding kits** (laptop sleeve + notebook + USB drive + brand book): Too many items for one tray without clutter — layers impose visual hierarchy
+- **Client appreciation at scale** (300+ units): N52 magnets + CNC foam + dual-layer at MOQ 300 means even mid-size firms can deliver luxury unboxing without six-figure minimums

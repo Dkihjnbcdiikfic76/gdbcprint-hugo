@@ -124,6 +124,17 @@ Not every fragrance needs a dual-magnetic rigid box. Use this scenario selector 
 
 **Sweet spot:** Niche/luxury fragrances retailing above $80, limited editions, gifting occasions, and DTC brands where the unboxing IS the brand experience. The dual magnetic mechanism adds $0.80–1.50/unit vs simple telescopic — justified when packaging drives perceived value and social sharing.
 
+## Format Comparison — Perfume Packaging Structures
+
+| Attribute | Rigid Magnetic (Dual Flap) | Folding Carton (Tuck-End) | Sleeve-and-Tray |
+|---|---|---|---|
+| **Perceived value** | Highest — magnetic snap + gold foil + satin lining signal luxury | Moderate — adequate for mass-market fragrances | High — clean drawer-pull ritual, but no audible closure cue |
+| **Unit cost (1K qty)** | $2.50–7.00 | $0.40–1.20 | $1.80–4.50 |
+| **Unboxing drama** | Dual flaps part simultaneously for theatrical reveal | Simple tuck-open — no ceremony | Smooth horizontal slide — elegant but understated |
+| **Bottle protection** | CNC-cut PU foam insert ±0.5mm tolerance; ISTA 3A drop-tested 760mm | Minimal — relies on corrugated shipper | Foam tray possible but adds assembly step; no magnetic retention during transit |
+
+**Takeaway:** Choose rigid magnetic when retail price exceeds $80, the unboxing must be shareable, and secure bottle retention matters for e-commerce. Folding carton wins on cost above 50K units; sleeve-tray suits minimalist brands that prefer silent, drawer-style reveal over magnetic snap.
+
 ## Shipping & Logistics
 
 - **Port**: Foshan / Guangzhou / Shenzhen (45, 90, and 120 minutes to terminals respectively)

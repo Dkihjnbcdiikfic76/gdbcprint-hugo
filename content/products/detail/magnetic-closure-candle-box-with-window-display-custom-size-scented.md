@@ -88,6 +88,33 @@ Every magnetic closure candle box passes through seven documented quality contro
 - **SGS Material Testing**: Independent third-party verification of greyboard strength, magnet grade, and ink safety
 - **Food-Grade Available**: FDA 21 CFR 176.170/176.180, EU 1935/2004 compliant materials for candle-wax contact
 
+## Why This Magnetic Closure Candle Box
+
+- **Die-cut window for in-box fragrance sampling** — precision-cut PET window (±0.3mm tolerance) lets customers see and smell the candle before purchase; anti-fog PET option maintains clarity through temperature cycling (tested 40°C/90% RH, 48h)
+- **N52 neodymium closure preserves scent freshness** — 6.5 kg pull force per magnet pair keeps the box sealed between uses; rated 5,000+ open/close cycles without strength degradation, locking fragrance inside
+- **Soy-based ink compatible** — low-VOC biodegradable inks available as standard eco-upgrade; safe for indirect candle-wax contact per FDA 21 CFR 176.170 and EU 1935/2004
+- **Multi-candle gift set architecture** — EVA foam inserts with dual/triple compartments for 3-tier scent collection sets; custom cavity shapes from 60×60×40mm (single votive) to 200×150×100mm (multi-jar)
+- **Seven-stage QC from raw material to pre-shipment** — every gate documented under ISO 9001:2015; ISTA 1A drop tested (10 drops from 760mm) — zero structural or cosmetic damage
+
+| Factor | Generic Candle Box | Bincai Magnetic Candle Box |
+|---|---|---|
+| Closure | Tuck-flap or ribbon tie | N52 magnet — 6.5 kg pull, 5,000-cycle rated |
+| Window Precision | Rough-cut, adhesive bleed | ±0.3mm Bobst die-cut, ultrasonic bonded, zero fogging |
+| Scent Retention | Open gap or loose lid | Magnetic seal locks fragrance; anti-fog PET maintains clarity |
+| Multi-Candle Sets | Generic divider insert | Custom EVA foam — dual/triple compartment per scent tier |
+| Environmental Testing | None | 72h peel test + 48h humidity chamber (40°C/90% RH) |
+| Sustainability | Unknown sourcing | FSC certified, soy-based inks, compostable PLA window option |
+
+### Candle Brand Packaging Scenarios
+
+| Brand Type | Packaging Need | Recommended Configuration |
+|---|---|---|
+| Artisan soy candle maker | Shelf appeal + eco credentials | FSC kraft + compostable PLA window + soy inks + N42 magnets |
+| Luxury home fragrance | Premium unboxing + scent preservation | Soft-touch matte + gold foil + N52 magnets + velvet lining |
+| Subscription candle box | Reusable + 10,000-cycle durability | 2.5mm greyboard + N52 magnets + ribbon pull + brand sleeve |
+| Wedding favor candles | Compact elegance + personalization | 80×80×40mm + blind emboss monogram + white art paper + gold foil |
+| Corporate gift candles | Multi-item sets + debossed branding | Dual-compartment EVA + 250gsm art paper + blind deboss + satin ribbon |
+
 ## Why Choose Bincai
 
 Guangdong Bincai Color Printing Co., Ltd. has been manufacturing premium paper packaging since 2003 — 22 years of continuous operation serving 200+ global brands across 40+ countries. Our 18,000 sqm dual factory (10,000 sqm main + 8,000 sqm smart factory commissioned 2025) in Foshan, Guangdong combines German-engineered press technology (KBA Rapida 105 4-color offset + Heidelberg Speedmaster CD 102 7+1 UV) with Swiss-precision die-cutting (Bobst) and automated rigid box assembly lines. ISO 9001:2015 and FSC Chain-of-Custody certified. Seven-stage QC gates at every production phase. Daily output of 1.7 million color boxes plus 220,000+ rigid gift boxes. Diamond Member on Made-in-China.com. Free pre-production samples, flexible MOQ 500–1000, and dedicated bilingual project management for every order. From Foshan, Guangdong, China to candle brands worldwide — premium unboxing experiences engineered with 22 years of packaging expertise.

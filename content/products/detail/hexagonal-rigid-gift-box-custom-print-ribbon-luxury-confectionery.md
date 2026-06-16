@@ -72,6 +72,23 @@ A custom die-cut EVA foam tray (30-45 Shore A hardness) secures each confectione
 | Drop Test | ISTA 1A | 10-drop sequence from 0.76m — zero structural failure |
 | Food Safety | EU 1935/2004 | Water-based adhesive, no migratory substances detected |
 
+## Why This Hexagonal Rigid Gift Box
+
+- **Hexagonal geometry for shelf differentiation** — 6-sided form factor delivers 50% more visible branding surface than equivalent rectangular boxes; 120° interior angles create a distinctive silhouette that commands retail attention
+- **Satin ribbon ceremonial unboxing** — ribbon pull rated at ≥30N attachment force; lifts the magnetic lid on-track for a prestige reveal experience that rectangular flip-lids cannot replicate
+- **±0.3mm foam cavity tolerance** — die-cut EVA insert (30–45 Shore A) cradles each confectionery piece individually; chocolates, macarons, and truffles arrive in zero-movement, crush-proof condition
+- **Magnetic closure ≥4.0N hold force** — lid stays sealed during transit and on-shelf display; snaps shut with tactile authority customers associate with luxury
+- **Bobst flatbed die-cutting ±0.15mm** — hexagonal panels align perfectly across all 6 faces; print registration ΔE ≤2.0 ensures brand color consistency panel-to-panel
+
+| Factor | Generic Rigid Box | Bincai Hexagonal Rigid Box |
+|---|---|---|
+| Shape | Rectangular (commodity) | Regular hexagon — 50% more display surface |
+| Closure | Tuck-flap or loose lid | Magnetic ≥4.0N + satin ribbon pull (≥30N rated) |
+| Insert Precision | ±1.0mm generic tray | ±0.3mm die-cut EVA cavity per piece |
+| Print Registration | ±0.5mm typical | ±0.15mm KBA 1050 offset across 6 panels |
+| Drop Protection | Basic corrugated buffer | ISTA 1A tested — 10 drops from 0.76m, zero failure |
+| Food Safety | Unverified adhesives | EU 1935/2004 compliant, water-based adhesive |
+
 ## Factory
 
 - 22 years of manufacturing excellence since 2003

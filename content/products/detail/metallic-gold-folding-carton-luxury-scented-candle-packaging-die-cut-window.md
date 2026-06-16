@@ -93,6 +93,22 @@ Metallic gold folding carton for luxury scented candle packaging with die-cut wi
 | 6 — Folding & Gluing | Auto-lock engagement, glue bond, squareness | Function test per carton · Bond strength > 1.5 N/15 mm |
 | 7 — Final Audit & Packing | AQL sampling, drop test, packing count | AQL 2.5 Level II (ISO 2859-1) · ISTA 2A transit test |
 
+## When Metallic Gold Folding Carton Wins
+
+Not every candle box needs metallic foil lamination or a die-cut window. Use this decision matrix to match format to goal:
+
+| Your Scenario | Why Metallic Gold Folding Carton Wins | Alternative to Consider |
+|---|---|---|
+| **Retail shelf — 3-second brand recognition** | Full metallic gold foil lamination reflects 60–85% ambient light vs 15–25% for CMYK-printed "gold" — visible from 3m+ on crowded shelves | Standard CMYK offset if budget is primary driver |
+| **Die-cut window for scent sampling** | PET/PLA window precision ±0.2mm lets consumers see and smell the candle without opening — reduces return rates by enabling sensory preview | Windowless carton if fragrance isn't a purchase trigger |
+| **E-commerce DTC candle brand** | Flat-ship folding carton (auto-lock bottom) stores at 1/10 the volume of rigid boxes — saves 60–70% on FBA/3PL storage fees | Rigid box if ultra-premium unboxing justifies freight cost |
+| **Seasonal candle collections (4+ SKUs)** | MOQ 500/SKU + 10–15 day lead time = affordable multi-SKU seasonal range without overstock risk | Single-SKU brands can justify higher MOQ rigid formats |
+| **Sustainable luxury positioning** | FSC-certified SBS board + compostable PLA window option + soy-based inks — 100% curbside recyclable (remove PLA film) | Non-windowed kraft carton if "zero plastic" is mandatory |
+| **Boutique brand, first production run** | $0.18–0.65/unit with free pre-production samples — test premium positioning without rigid-box capex ($3–9/unit) | Rigid setup box for ultra-high-end brands at scale |
+
+**Key Differentiator — Metallic Foil vs CMYK "Gold":**
+Real metallic gold foil lamination (PET-based, 12μm) achieves mirror-like specular reflection impossible with ink alone. CMYK process gold uses a halftone blend of yellow + magenta + black that appears flat under direct light. Cold-foil transfer offers a middle ground: metallic sheen on select areas only, at ~40% lower cost than full-wrap lamination.
+
 ## FAQ
 
 **Q: Can the metallic gold finish be applied to the entire carton or only specific panels?**
