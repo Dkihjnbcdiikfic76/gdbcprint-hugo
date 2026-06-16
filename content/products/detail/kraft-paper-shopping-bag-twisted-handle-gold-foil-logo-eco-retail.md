@@ -135,3 +135,9 @@ A: Soy-based ink produces slightly softer, more matte colors on uncoated kraft p
 **Q: What's the minimum order for a custom size kraft bag?**
 
 A: MOQ is 500 units per design and size. Custom dimensions require a new die (fabricated in-house, 3–5 days, no charge for production orders). For the most cost-effective approach, we recommend choosing from our standard size range (S/M/L/XL) with custom printing and foil — this avoids die charges and typically ships within 10 days."
+
+---
+
+## Ready to Start?
+
+**Send us your bag dimensions and brand logo — get an FSC-certified kraft sample with gold foil in 5–7 days.** Each free sample includes your exact artwork, foil color (gold/silver/rose gold/copper/holographic), and your choice of natural or white kraft stock. FSC Chain-of-Custody (FSC-C147532), soy-based inks, water-based adhesive — full sustainability documentation provided with every shipment. [→ Get your sample](/contact/)

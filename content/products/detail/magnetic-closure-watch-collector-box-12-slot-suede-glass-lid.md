@@ -87,3 +87,9 @@ A: Standard production with hot foil logo: 12–15 business days from artwork ap
 
 **Q: Does the box come with a carrying case or outer packaging?**
 A: Each collector box ships in a custom-fit white corrugated shipping carton with EPE foam corner protectors. A branded drawstring dust bag and outer magnetic-close presentation sleeve are available as optional upgrades for gift-ready presentation.
+
+---
+
+## Ready to Start?
+
+**Send us your watch collection specs — receive a fitting sample with your custom logo within 7 days.** Tell us your largest case diameter (up to 52mm) and number of watches, and we'll confirm pillow fit and slot configuration before sampling. Choose leatherette color, suede interior shade, and hot foil logo — free digital proof within 24 hours. 22 years, 40+ countries, ISO 9001 & FSC, Foshan, Guangdong. [→ Get your sample](/contact/)

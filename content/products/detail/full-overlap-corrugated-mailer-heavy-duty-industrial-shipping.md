@@ -80,3 +80,9 @@ Heavy-duty full-overlap slotted container (FOL) engineered for industrial parts 
 - **One-stop corrugated solution**: structural design (ArtiosCAD) → paper sourcing (FSC) → corrugation (BHS) → printing (flexo/litho) → die-cutting (rotary/flatbed) → gluing/stitching → QC (ISTA lab) → palletization → export logistics
 - **Export to 60+ countries** — experienced in FCL/LCL container loading, pallet optimization, and export documentation
 - Diamond Member on Made-in-China.com, Audited Supplier
+
+---
+
+## Ready to Start?
+
+**Send us your product weight and dimensions — get a same-day structural design proposal with ISTA 3A transit simulation.** Our structural engineering team uses ArtiosCAD to design your FOL mailer within hours, and our in-house ISTA lab validates drop, vibration, and compression performance at no charge with your first order. BHS 2.5m corrugator, Bobst SP 162 CER die-cutter, 22 years of industrial packaging — 200+ global brands served. [→ Get your design proposal](/contact/)
