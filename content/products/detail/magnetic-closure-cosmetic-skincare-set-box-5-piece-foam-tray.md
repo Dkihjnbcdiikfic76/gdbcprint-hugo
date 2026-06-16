@@ -116,3 +116,9 @@ Guangdong Bincai is committed to environmentally responsible cosmetic packaging 
 | 95% Paper Waste Recycling | On-site baling and recycling of greyboard trim, paper offcuts, and rejected sheets |
 | LED Factory Lighting | Full LED retrofit across 18,000 sqm campus — 40% energy reduction vs fluorescent |
 | REACH Compliant | All materials and finishes verified compliant with EU REACH regulation (EC 1907/2006) |
+
+---
+
+## Ready to Start?
+
+**Send us your skincare product dimensions (bottle diameters, jar heights, cap styles) for a free 5-piece EVA foam tray prototype in 5–7 days.** We CNC-route the foam to your exact product silhouettes with ±0.3mm precision — test the soft-touch matte finish, gold foil branding, and magnetic unboxing experience on your own products before committing to production. [→ Get your quote](/contact/)

@@ -156,3 +156,9 @@ Magnetic closure boxes occupy a strategic middle ground between standard folding
 **The magnetic folding sweet spot**: When your product retails for $20–150 and you need a box that (a) looks premium on shelf, (b) survives shipping without damage, (c) gets reused by the customer (brand exposure), and (d) doesn't kill your packaging budget — magnetic folding is the optimal format. The $0.17–2.65 premium over standard folding cartons buys you the magnetic closure experience that consumers associate with luxury brands.
 
 **When to go full rigid magnetic**: If your product retails above $150 or you're selling spirits/watches where the box IS part of the product (display case, collector's item), the full 2.5mm rigid magnetic box is worth the investment.
+
+---
+
+## Ready to Start?
+
+**Send us your gift box specs for free N52 magnetic closure samples with your CMYK artwork in 5–7 days.** We'll produce prototype boxes on our KBA 1050 offset press and Heidelberg 7+1 UV line — test the magnetic snap closure, foil stamping registration, and soft-touch finish before your production order. Flat-ship collapsible design saves 60% on freight. [→ Get your quote](/contact/)

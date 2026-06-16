@@ -148,3 +148,9 @@ A: MOQ is 500 units per design. Sample turnaround: 5–7 days with free pre-prod
 
 **Q:** Is the hexagonal box available without the jewelry tray for other product types?
 A: Yes — the hexagonal box can be produced as a single-compartment box without the upper tray for confectionery, candles, tea, cosmetics, or any product. We can also add die-cut foam inserts, satin pillows, or custom dividers for non-jewelry applications.
+
+---
+
+## Ready to Start?
+
+**Send us your multi-piece jewelry or product dimensions for a free velvet-lined hexagonal prototype in 5–7 days.** Our CNC die-making center produces precision 120° ±0.1° corner geometry from your specs — test the magnetic snap closure, tray fit, and unboxing experience before committing to a production order. [→ Get your quote](/contact/)
