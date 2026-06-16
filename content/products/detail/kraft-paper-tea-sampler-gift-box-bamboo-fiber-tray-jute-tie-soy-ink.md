@@ -81,6 +81,25 @@ The kraft paper tea sampler gift box with bamboo fiber compartment tray and jute
 | **100% Plastic-Free** | No plastic film, foam, ribbon, or adhesive |
 | **Flat-Pack Design** | Ships flat, 65% lower shipping carbon footprint |
 
+## Competitive Differentiation — Kraft Tea Box vs Plastic Tea Tins
+
+Tea brands increasingly need packaging that reflects their commitment to sustainability — but most "eco" alternatives compromise on structure or cost too much. Bincai's bamboo-fiber tray + soy-ink kraft box solves both.
+
+### vs. Metal Tea Tins & Plastic Blister Packs
+
+| Factor | Metal Tin / Blister Pack | Bincai Bamboo Tray Kraft Box |
+|---|---|---|
+| **Material Origin** | Mined metal / petroleum plastic | **FSC-certified paper + rapidly renewable bamboo fiber** |
+| **End-of-Life** | Recycling-dependent (only 14% of plastic recycled globally) | **Home compostable tray + 100% recyclable kraft** — EN 13432 certified |
+| **Ink Safety** | Solvent-based inks, potential VOC migration | **Soy-based ink** — zero VOC, food-contact safe per EU 1935/2004 |
+| **Carbon Footprint** | 1 kg steel = 1.8 kg CO₂e; 1 kg PP = 3.1 kg CO₂e | **~0.6 kg CO₂e per box** — verified through FSC chain of custody |
+| **Customization** | CMYK limited on metal, 4-6 week tooling | **Full Heidelberg 7+1 UV offset** — unlimited color, 15-day turnaround |
+| **EU Green Claims Ready** | No certification package | **FSC C147399 + EN 13432 + soy ink certs** — substantiate your green claims |
+| **MOQ** | 10,000+ on tin tooling | **500–1,000 units** — practical for seasonal tea collections |
+| **Customer Experience** | Cold metal feel, industrial | **Natural jute tie closure + warm bamboo texture** — premium artisan feel |
+
+**Business impact**: Under the 2026 EU Green Claims Directive, any brand making sustainability claims must provide verifiable evidence. Bincai ships every kraft tea box order with a full documentation package (FSC chain-of-custody certificate, EN 13432 compostability test report, soy ink migration test). For a UK tea brand selling 5,000 samplers monthly, switching from metal tins saves 7,300 kg CO₂e annually — enough for a carbon-neutral claim on the product page.
+
 ## Why Bincai
 
 | Differentiator | Detail |

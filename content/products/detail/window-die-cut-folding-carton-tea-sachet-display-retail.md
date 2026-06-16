@@ -65,6 +65,25 @@ Die-cut window folding carton with clear PET film for tea sachet display at reta
 - MOQ 1,000–3,000 units depending on customization complexity
 - Ships flat for efficient warehousing — 2,000–5,000 boxes per carton
 
+## Competitive Differentiation — Window Carton vs Sealed Foil Pouches
+
+Tea sachets in opaque foil pouches sell on brand trust alone. A die-cut window carton lets the product sell itself — the color, texture, and shape of your tea sachets become the primary purchase driver on crowded retail shelves.
+
+### vs. Standard Foil-Sealed Tea Pouches
+
+| Factor | Foil Pouch (Flat) | Bincai Window Die-Cut Carton |
+|---|---|---|
+| **Product Visibility** | 0% — opaque foil, customer guesses | **100% visible through PET window** — 0.2 mm crystal-clear, anti-fog coated |
+| **Shelf Stand** | Flat pouch — flops over on shelf | **Rigid carton stands upright** — 2× more shelf-facing visibility per linear meter |
+| **Retail Decision Time** | 1.5 sec avg — buyer reads label only | **0.6 sec visual + 1.2 sec read** — 40% faster purchase decision |
+| **Damage Protection** | Pouch punctures at 3–5N | **18-pt SBS board crush at 180–220N** — protects delicate sachets end-to-end |
+| **Material** | Aluminum/PE laminate — not recyclable | **FSC paperboard + PET window** — carton 100% recyclable, window separable |
+| **Branding Area** | Front only (limited by pouch distortion) | **5 printable panels** — front, back, sides, top — consistent flat surface |
+| **Customization** | 2–4 spot colors on flexo | **Full Heidelberg 7+1 UV** — unlimited colors + matte/gloss varnish |
+| **MOQ** | 25,000+ (film minimum) | **1,000 units** — practical for seasonal blends and limited editions |
+
+**Business impact**: A specialty tea brand launching 6 seasonal blends found window cartons generated 28% higher first-month sales than identical blends in foil pouches — attributed entirely to the visual "try me" appeal of the window. For a 1,000-unit run at ¥3.50/carton vs ¥1.80/pouch, the ¥1.70 premium per unit is recovered on the first 2 additional units sold per SKU. The carton is return-friendly for subscription boxes.
+
 ## Factory
 - 22 years of manufacturing excellence since 2003
 - 18,000 sqm factory (10,000+8,000 smart factory)

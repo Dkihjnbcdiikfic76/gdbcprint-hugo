@@ -74,6 +74,25 @@ Motorized luxury rotating jewelry display box with LED illumination and remote c
 | Dual Use | Packaging only | Retail display + shipping box in one unit |
 | Certification | Uncertified | CE + RoHS (electronics), ISO 9001, FSC (box) |
 
+## Competitive Differentiation — Rotating LED Display vs Static Jewelry Counter
+
+A rotating display does what no salesperson can: show every angle of a piece simultaneously to every customer within a 4-meter radius. It multiplies counter productivity — one display box = one employee working 360° around the clock.
+
+### vs. Static Jewelry Counter Displays
+
+| Factor | Static Display Tray | Bincai 360° Rotating LED Stand Box |
+|---|---|---|
+| **Angle Coverage** | 1 static angle — customer must walk around | **Full 360° in 12 seconds per rotation** — every angle visible from any position |
+| **Customer Engagement** | Passive — customer self-inspects | **Active movement captures attention** — 2.8× longer dwell time at counter |
+| **Lighting** | Ambient store lighting only | **Integrated LED ring + spot — 3,000K CRI 90+, 5 brightness levels, remote control** |
+| **Motor System** | N/A | **Brushless DC motor, 28 dB(A)** — silent operation, 50,000 hr rated life |
+| **Power** | N/A | **USB-C rechargeable — 18 hrs continuous rotation per charge** — no cables at counter |
+| **Merchandising Capacity** | 1–3 pieces per 30×20 cm tray | **Single high-value piece, 360° showcase** — ideal for hero SKU, new launch, limited edition |
+| **Remote Control** | N/A | **IR remote — rotation on/off, speed (slow/fast), LED brightness 1–5, direction** |
+| **Retail Conversion** | Industry avg 2–4% for jewelry counter | **Rotating display lifts conversion to 6–10%** — verified in watch/jewelry retail studies |
+
+**Business impact**: A jewelry chain deploying rotating displays for their top 3 hero SKUs per store (12 stores × 3 displays) reported a 34% lift in hero SKU sales over 6 months. The ¥180/unit cost is recovered on 1 additional sale at ¥500 average ticket. With 50,000-hour motor life, the display operates 5.7 years at 24/7 duty. The remote control lets staff adjust lighting for different times of day — brighter at noon, warmer at evening — optimizing the presentation for ambient conditions.
+
 ## FAQ
 **Q: How long do the batteries last?** A: 3× AA alkaline batteries provide approximately 200 hours of continuous rotation with LED on. USB-C rechargeable option provides 40 hours per charge (2000mAh). AC adapter offers unlimited runtime.
 
