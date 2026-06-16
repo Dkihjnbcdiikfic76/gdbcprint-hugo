@@ -3,7 +3,7 @@ title: "Book-Style Magnetic Flap Rigid Box for Premium Gifts"
 date: 2026-06-12
 draft: false
 description: "Book-style rigid box with magnetic flap closure — opens like a hardcover book. KBA 1050 + Heidelberg 7+1 UV, 1600gsm greyboard, gold foil spine. ISO 9001 & FSC certified, 22 years. Perfect for premium books, wine, spirits, collector editions, and luxury corporate gifting."
-keywords: "book style rigid box, magnetic flap box, hardcover book box, wine gift box, spirits box, collector edition box, gold foil spine box, Bincai book box, luxury book packaging, magnetic closure gift box, rigid clam box, premium gift packaging"
+keywords: "book style rigid box, magnetic flap box, hardcover book box, wine gift box, spirits box, collector edition box, gold foil spine box, Bincai book box, luxury book packaging, magnetic closure gift box, rigid clam box, premium gift packaging, book-style presentation box, hardcover gift packaging, book spine magnetic box, KBA Rapida 105 book box, Heidelberg 7+1 UV book box, Bobst SP 102 BMA rigid box, 18,000 sqm factory, 22 years experience, 1.7M daily output, Bincai Color Printing, Guangdong rigid box factory, Foshan gift box, ISO 9001 FSC book box, N52 neodymium magnet, corporate gift book box, collector edition packaging, luxury wine bottle box, premium spirits packaging, rigid hardcover box, custom book box manufacturer"
 categories: ["rigid-gift-boxes"]
 params:
   moq: "500-1000"

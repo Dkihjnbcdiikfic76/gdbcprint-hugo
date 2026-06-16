@@ -3,7 +3,7 @@ title: "Magnetic Closure Luxury Rigid Gift Box Custom Logo Hot Stamping"
 date: 2026-06-10
 draft: false
 description: "Luxury magnetic closure rigid gift box with custom logo hot foil stamping. KBA 1050 + Heidelberg 7+1 UV presses, 18,000 sqm factory (10,000+8,000 smart factory), ISO 9001 & FSC certified. 22 years manufacturing since 2003, daily output 1.7M boxes. MOQ 500–1000 units, free samples."
-keywords: "magnetic closure rigid gift box, luxury rigid paper box, magnetic flap gift box, custom logo hot stamping box, gold foil rigid box, premium gift packaging box, rigid magnetic box manufacturer, Bincai rigid box, ISO 9001 FSC gift box, China luxury packaging factory"
+keywords: "magnetic closure rigid gift box, luxury rigid paper box, magnetic flap gift box, custom logo hot stamping box, gold foil rigid box, premium gift packaging box, rigid magnetic box manufacturer, Bincai rigid box, ISO 9001 FSC gift box, China luxury packaging factory, magnetic closure box wholesale, hot foil stamping gift box, rigid paper box with magnet, KBA Rapida 105 rigid box, Heidelberg 7+1 UV gift box, Bobst SP 102 BMA rigid box, 18,000 sqm factory, 22 years experience, 1.7M daily output, N52 neodymium magnet box, Bincai Color Printing, Guangdong rigid box factory, Foshan luxury packaging, custom magnetic flap box, corporate gift box rigid, premium unboxing packaging, magnetic closure OEM, embossed logo rigid box, greyboard rigid gift box, gift box with hidden magnet"
 categories: ["rigid-gift-boxes"]
 params:
   moq: "500-1000"
