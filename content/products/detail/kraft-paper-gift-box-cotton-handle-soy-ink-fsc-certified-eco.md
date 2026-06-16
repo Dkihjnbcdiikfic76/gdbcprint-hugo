@@ -72,6 +72,11 @@ The Bincai Kraft Paper Gift Box with Cotton Handle and Soy Ink Printing offers a
 
 ---
 
+## Related Resources
+
+- **[Sustainable Paper Box Manufacturing at Scale →](/blog/sustainable-paper-box-packaging-bincai-eco-manufacturing/)** — How Bincai's dual-factory setup, FSC Chain-of-Custody (C147399), 70–100% PCR kraft options, soy-based inks, and water-based adhesives deliver genuinely sustainable packaging without the green premium — from material sourcing through to EU/US export compliance documentation.
+- **[Explore All Kraft & Eco Boxes →](/categories/kraft-eco-boxes/)** — Browse our full range of sustainable packaging: kraft gift boxes, FSC-certified window boxes, PCR post-consumer recycled boxes, compostable food packaging, and plastic-free subscription box solutions.
+
 ## Ready to Start?
 
 **Planning eco-friendly packaging for your next product launch?** Send us your packaging brief for a same-day FSC-certified quote. We'll ship free kraft board sample swatches with cotton handle options within 3-5 days so you can test the unbleached texture and soy-ink print quality. From organic skincare to artisan chocolate and zero-waste subscription boxes — Bincai produces 1.7M sustainable boxes daily with full FSC chain-of-custody documentation for EU/US import compliance. [→ Get your quote](/contact/)
