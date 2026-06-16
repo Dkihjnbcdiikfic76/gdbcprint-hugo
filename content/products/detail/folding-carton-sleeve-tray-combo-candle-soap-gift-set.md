@@ -42,6 +42,17 @@ The sleeve-and-tray format excels when the product needs to be seen and touched 
 - **Tactile engagement**: Soft-touch lamination on the sleeve invites handling — customers pick up and examine the product
 - **Gift-ready**: The format feels premium without requiring additional gift wrapping — slide the sleeve off like unwrapping a present
 
+### Sleeve-Tray vs. Tuck-Top vs. Magnetic: Which Format Fits Your Product?
+
+| Format | Unit Cost | Unboxing Experience | Product Visibility | Best For |
+|---|---|---|---|---|
+| **Sleeve & Tray (This Box)** | $0.25–1.20 | ★★★★ (slide-off reveal) | ★★★★★ (die-cut window) | Candles, soaps, bath products — products where visual/tactile appeal drives purchase |
+| **Tuck-Top Carton** | $0.15–0.60 | ★★ (standard open) | ★★ (no window) or ★★★ (window option) | Cost-sensitive products, subscription boxes, lightweight items |
+| **Magnetic Rigid Box** | $1.80–5.00 | ★★★★★ (premium snap) | ★★★ (no window, but luxury feel) | Ultra-premium gift sets, jewelry, perfumes |
+| **Two-Piece Telescoping** | $0.50–2.00 | ★★★ (lift-off lid) | ★★ (no window standard) | Multi-tier collections, corporate gifts |
+
+**The sleeve-and-tray sweet spot**: Products priced $15–50 that sit on retail shelves where customers pick them up. The format delivers 80% of the premium feel of a magnetic rigid box at 40% of the cost — and the die-cut window drives impulse conversion that a closed rigid box cannot match.
+
 ## Customization Options
 
 | Category | Available Choices | Details |

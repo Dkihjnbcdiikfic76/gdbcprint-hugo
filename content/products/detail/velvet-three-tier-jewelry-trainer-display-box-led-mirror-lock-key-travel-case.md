@@ -62,6 +62,24 @@ The top lid opens to reveal an **LED-lit mirror** — activated by a magnetic re
 | Sample Turnaround | 5–7 business days (free pre-production sample) |
 | Production Lead Time | 14–18 business days after sample approval (longer than standard due to multi-component assembly) |
 
+## Why a Three-Tier Trainer vs. Single-Tier Jewelry Boxes
+
+The three-tier format isn't just "more storage" — it transforms how jewelry is sold, displayed, and secured:
+
+- **Retail Counter ROI**: A single-tier box displays 6–10 pieces. The three-tier trainer displays 50–120 pieces in the same counter footprint. For a jewelry retailer paying $50/sqft/month, that's a 5–10× improvement in display density — more SKUs visible to customers without expanding the counter.
+- **The "Discovery" Unboxing**: Customers open the LED-lit mirror lid (tier 1 — rings and earrings), then pull out drawer 2 (bracelets), then drawer 3 (necklaces and watches). Each tier reveals a new product category. This progressive reveal mirrors the "discovery" shopping experience that generates 30% higher basket value vs. seeing all products at once (retail psychology principle: progressive disclosure increases dwell time and purchase intent).
+- **Trade Show Portability**: The MDF frame + brass lock + integrated carry handle means one case replaces a Pelican case + velvet tray + display stand. Sales reps wheel in one case, unlock it, lift the lid, and they're selling — setup time drops from 15 minutes to 30 seconds.
+- **Security Without a Safe**: The solid brass pin-tumbler lock secures all three drawers simultaneously. For trade shows, hotel room storage, and overnight retail, this means thousands of dollars of inventory is secured in a single lockable case — no need to transfer pieces to a separate safe.
+- **LED Mirror = Try-On Conversion**: The magnetic reed switch activates warm-white (3000K, CRI ≥ 90) LED lighting the instant the lid opens. Customers see themselves in natural-looking light while trying on pieces — this alone increases try-on-to-purchase conversion by an estimated 15–20% in jewelry retail (CRI ≥ 90 lighting shows gemstone color accurately, reducing post-purchase returns due to "looks different at home").
+
+### When to Choose Three-Tier vs. Single-Tier vs. Wall Display
+
+| Format | Best For | Limitation |
+|---|---|---|
+| **Single-Tier Box** | Individual high-value pieces, gift packaging | 6–10 piece capacity; counter space inefficient |
+| **Three-Tier Trainer (This Box)** | Multi-category retail counter, trade shows, traveling sales | Heavier (2.5–4.5kg); longer production lead time (14–18 days) |
+| **Wall Display Case** | Permanent retail installation, high security | Not portable; requires wall mounting; 3–5× the cost |
+
 ## Quality Assurance
 
 | Test | Method / Standard | Acceptance Criteria |

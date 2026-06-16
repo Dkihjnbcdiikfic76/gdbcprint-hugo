@@ -61,6 +61,24 @@ The custom tuck-top folding carton is the workhorse of retail packaging — prod
 | MOQ | 500 units (standard sizes); 1,000+ (custom die tooling) |
 | Lead Time | 7–10 days new tooling; 5–7 days repeat; 3–5 days rush available |
 
+## When a Tuck-Top is Your Best Choice
+
+Not every product needs a magnetic box or a rigid case. The tuck-top folding carton is the right choice when:
+
+| Your Situation | Why Tuck-Top Wins |
+|---|---|
+| **Product < 200g** | Friction closure is sufficient — you save 15–20% vs. magnetic or auto-lock bottom |
+| **Retail shelf with SKU density** | Tuck-tops display face-out with full branding — side-by-side shelf impact at the lowest per-unit packaging cost |
+| **Frequent reorders** | No tooling degradation — steel rule dies rated for 500,000+ impressions; repeat orders maintain identical quality without die replacement |
+| **Multi-SKU product line** | One box structural design, N print variations — the tuck-top format adapts to any surface artwork without structural changes |
+| **Fulfillment center packing** | Flat-packed tuck-tops occupy 80% less warehouse space than pre-assembled boxes; erected in < 3 seconds by hand or machine |
+| **Shipping cost sensitivity** | Flat-ship reduces freight volume by 80%+ vs. rigid boxes — on a 40HQ container, that's 150,000 tuck-tops vs. 30,000 rigid boxes |
+| **Speed to market** | 7–10 day production lead time (vs. 14–18 for rigid) — for seasonal launches and fast-follower products, tuck-top speed wins |
+
+### Tuck-Top vs. Auto-Lock Bottom: The Weight Threshold Decision
+
+The tuck-top friction closure is reliable up to ~200g product weight. Above that, gravity works against you — the bottom can open during handling. For products over 200g, upgrade to the auto-lock bottom variant: the pre-glued bottom flaps lock automatically when the carton is erected. The unit cost increases ~15–20% but eliminates bottom tape, manual folding, and the risk of product drop. Our structural engineers can send you both samples side-by-side so you can test with your actual product weight.
+
 ## Quality Assurance
 
 1. **Incoming Material:** Board grammage ±5% verification; FSC documentation audit; paper whiteness and opacity per ISO 2470/2471.

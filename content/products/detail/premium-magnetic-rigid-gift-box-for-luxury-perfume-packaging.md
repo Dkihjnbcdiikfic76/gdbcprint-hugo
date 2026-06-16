@@ -59,6 +59,25 @@ Premium magnetic rigid gift box for luxury perfume packaging — manufactured by
 - Fully automatic die-cutting, gluing, and rigid box assembly lines
 - Daily capacity: 1.7 million color boxes + 220,000+ gift boxes
 
+## Why This Magnetic Box vs. Standard Perfume Packaging
+
+Perfume packaging has unique demands — bottle weight, fragrance sensitivity, and the need to convey luxury before the scent is experienced. Here's what separates this box from generic alternatives:
+
+- **Hidden N42 Magnet Design**: Standard magnetic boxes embed magnets between the surface paper and greyboard — visible as a slight bulge and a seam. Our hidden magnet construction embeds N42 neodymium magnets within the greyboard core, then wraps the surface paper seamlessly over them. The result: a completely flush flap with zero visible magnet outline. This matters for luxury fragrances where the customer runs their fingers over the box surface — any imperfection is a quality signal failure.
+- **Fragrance-Safe Interior Materials**: Standard velvet linings use solvent-based adhesives that off-gas volatile organic compounds (VOCs) — these interact with fragrance molecules, subtly altering the perfume's scent profile over time. Our water-based PVA adhesives are VOC-free and fragrance-inert. For perfume brands, this means the bottle's scent is the only scent the customer experiences — not packaging chemicals.
+- **Bottle Cavity Engineering**: Perfume bottles are heavy (150–500g) with irregular shapes (oval, square, teardrop, classic French square). Our die-cut foam inserts are 3D-modeled from your bottle's CAD or 3D scan — the cavity matches every contour within ±0.5mm, holding the bottle immobile during transit without requiring additional tissue paper or void fill. Bottle-to-box weight ratio is calculated to ensure the box passes ISTA 1A drop testing with your specific bottle.
+- **Multi-Product Gift Set Scalability**: One box can hold 1 perfume bottle, 1 travel atomizer, and 1 body lotion — or any combination. Our foam cavity engineering supports mixed product sizes in a single tray, with color-contrast flocking that highlights each product in its own nest. For holiday gift sets, the box becomes the display.
+- **Die-Cut Ribbon Slot for Gift-Ready Presentation**: The optional satin ribbon slot in the flap edge allows a pre-tied ribbon bow without manual tying at the retail counter. For department store gift-with-purchase programs (10,000+ units), this eliminates ~200 labor hours of ribbon-tying and ensures consistent presentation.
+
+### Perfume Packaging Format Comparison
+
+| Format | Bottle Security | Perceived Luxury | Unit Cost | Best For |
+|---|---|---|---|---|
+| **Magnetic Rigid (This Box)** | ★★★★★ (custom foam cavity) | ★★★★★ (hidden magnet + velvet) | $2.50–5.00 | Premium/DTC/niche fragrances |
+| **Two-Piece Rigid** | ★★★★ (foam insert) | ★★★★ | $1.50–3.00 | Mid-tier retail fragrances |
+| **Folding Carton with Insert** | ★★★ (cardboard platform) | ★★★ | $0.50–1.50 | Mass-market, drugstore | 
+| **Plastic Clamshell** | ★★ | ★ | $0.20–0.50 | Testers, samples |
+
 ## Production Workflow
 
 1. **Design & Prepress** — In-house structural engineering team creates 3D CAD prototypes; Esko CDI flexo plate imaging for foil stamping dies; GMG ColorProof for color-accurate contract proofs; digital mockup approval before production
