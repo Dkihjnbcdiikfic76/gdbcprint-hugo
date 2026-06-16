@@ -70,3 +70,5 @@ A: Yes, we can embed RFID/NFC tags between the board layers for luxury brand aut
 
 **Q: What is the lead time for a custom jewelry box order?**
 A: Sampling: 7-10 days (digital mockup 2-3 days + physical sample production). Bulk: 15-25 days depending on quantity.
+
+**📦 Send us your box specs (size + quantity) for a same-day quote with freight estimate.**

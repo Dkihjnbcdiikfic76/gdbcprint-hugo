@@ -65,3 +65,7 @@ Velvet flocking, PU leatherette, satin-lined jewelry boxes with ring rolls, neck
 [Request a Free Quote →](/contact/) &nbsp;&nbsp; | &nbsp;&nbsp; [View on Made-in-China.com →](https://bincaipaperbox.en.made-in-china.com/)
 
 *ISO 9001:2015 Certified · FSC Chain-of-Custody · 22 Years Manufacturing Excellence · Foshan, Guangdong, China*
+
+- **Fastest delivery: 7 days** (DHL Express to US/EU)
+- **Active production lines: 6** (KBA 1050 + Heidelberg 7+1 + Bobst + BHS corrugator + 2 folder-gluers)
+
