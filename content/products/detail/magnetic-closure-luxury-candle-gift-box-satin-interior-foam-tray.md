@@ -79,6 +79,22 @@ Premium magnetic closure gift box with satin-lined interior and custom foam tray
 | Color consistency | Spectrophotometer | ΔE ≤2.0 from target |
 | Surface inspection | Visual under D50 lighting | No scuffs, glue marks, or ink smudges |
 
+## Why This Magnetic Candle Box vs Standard Rigid Box
+
+The candle gift market has unique packaging requirements that standard rigid boxes don't address. Here's how Bincai's magnetic candle box stacks up:
+
+| Factor | Standard Rigid Box | Cardboard Sleeve | **Bincai Magnetic Candle Box** |
+|---|---|---|---|
+| **Candle Security** | Loose — candle shifts in transit | Secure but basic | Die-cut foam tray locks candle ±0.5mm |
+| **Scent Preservation** | Moderate — open cavity | Good — tight sleeve | Excellent — foam + satin seal fragrance |
+| **Unboxing Drama** | ★★★ — one lid lift | ★ — slide out | ★★★★★ — magnetic snap, satin reveal, ribbon pull |
+| **Retail Display Ready** | Yes — but candle may tilt | No — must remove sleeve | Yes — box becomes display podium |
+| **Multi-Candle Sets** | Divider walls add cost | Not possible | Single foam tray with 2–8 precision cavities |
+| **Gift-Ready (no re-wrap)** | Needs gift wrap | Needs gift wrap | ✅ Arrives gift-ready — satin interior IS the presentation |
+| **Unit Cost (1K qty)** | $1.50–4.00 | $0.40–1.00 | $2.00–5.00 (with foam tray) |
+
+**When the premium pays for itself:** Candles retailing $25+ where the unboxing video IS the customer's first Instagram post. The satin-interior magnetic box turns a $30 candle into a $30 gift — the recipient feels the quality before they even see the product. For candle subscription boxes and holiday gift sets, the branded foam tray + satin lining creates a premium unboxing that drives subscription renewals and repeat gifting.
+
 ## FAQ
 
 **Q: Will the foam tray leave marks or impressions on the candle surface during long-term storage?**

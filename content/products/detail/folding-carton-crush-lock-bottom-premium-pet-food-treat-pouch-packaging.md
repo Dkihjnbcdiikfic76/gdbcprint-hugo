@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, Food-Grade Aqueous Coating"
 ---
 
-![Folding Carton](/images/folding-cartons.jpg)
+![Folding Carton](/images/cat-fold-cosmetic.jpg)
 
 ## Product Overview
 
@@ -71,6 +71,22 @@ Bincai's crush-lock bottom folding carton is engineered for the premium pet food
 | **Aqueous Coating** | Water-based, solvent-free, heavy metal-free — fully repulpable |
 | **Adhesives** | Water-based PVA — solvent-free, low VOC |
 | **Packaging** | Ship flat in recycled corrugated cartons — 80% space reduction vs. erected boxes |
+
+## Why This Crush-Lock Bottom Carton vs Standard Tuck-Top
+
+The crush-lock auto-bottom is the packaging engineer's choice for products over 200g — and pet food pouches routinely exceed that. Here's why it outperforms alternatives:
+
+| Factor | Tuck-Top Carton | Tray + Lid | **Bincai Crush-Lock Bottom** |
+|---|---|---|---|
+| **Weight Capacity** | ≤200g before bottom gives | 500g+ but higher cost | 500g+ secure, stable |
+| **Filling Line Speed** | Slow — manual tuck required | Moderate — lid alignment | Fast — auto-deploy, <2 sec |
+| **Flat-Pack Volume** | 15% of erected | 30% of erected | 12% of erected — best density |
+| **Retail Shelf Appeal** | Basic — tuck flap visible | Premium — but two SKUs to track | Clean — no visible closures, single piece |
+| **Unit Cost (10K qty)** | $0.11–0.18 | $0.27–0.50 | $0.16–0.26 |
+| **Food-Grade Interior** | Requires separate bag/liner | Extra liner cost | Inline aqueous coating — no liner needed |
+| **Auto-Fill Compatibility** | Poor — tuck-top jams often | Moderate | Excellent — flat bottom + rigid walls |
+
+**The crush-lock sweet spot:** 200g–800g pet food pouches (freeze-dried treats, gourmet kibble samples, supplement jars). Below 200g a tuck-top costs less; above 800g consider corrugated mailer. But for premium pet brands where shelf presence matters — the seamless front panel (no tuck flap distraction) + matte lamination + spot UV logo creates a retail display that signals "this is different from the bagged kibble in aisle 3."
 
 ## Why Choose Bincai
 

@@ -82,6 +82,23 @@ Custom printed corrugated shipping mailer boxes engineered for e-commerce fulfil
 | **Print Registration** | Internal | Flexo: ±1.5mm; Litho: ±0.15mm; density deviation ≤0.08D across run |
 | **ISO 9001:2015** | Full traceability; AQL 2.5 Level II visual inspection |
 
+## When a Custom-Printed Corrugated Mailer Wins
+
+Not every e-commerce shipment needs a branded mailer. Use this decision matrix to determine when the investment pays for itself:
+
+| Your Situation | Why Custom-Printed Mailer | Alternative |
+|---|---|---|
+| **Monthly volume >500 shipments** | Branded unboxing becomes cost-neutral through bulk pricing | Generic plain mailer + stickers |
+| **DTC brand with social media presence** | Customers photograph and share branded packaging — organic marketing | Plain box — missed impression |
+| **Subscription box with monthly theme** | Seasonal print changes for each box drop | Same box every month — subscriber fatigue |
+| **Returns rate >3%** | Branded packaging reduces "buyer's remorse" returns by 15-25% | Generic packaging — no emotional retention |
+| **Selling on marketplaces (Amazon/Etsy)** | Amazon's frustration-free packaging certification | Generic box — manual repackaging |
+| **Product under $25 with tight margin** | Skip — generic mailer saves $0.10–0.25/unit | ✅ Generic mailer is correct here |
+| **Product $50+ luxury/niche** | Branded mailer is table stakes at this price point | Generic box signals "budget" |
+| **Gift-with-purchase program** | Custom print elevates perceived gift value | Plain box — feels like an afterthought |
+
+**The ROI sweet spot:** Brands shipping 500–5,000 units/month with products retailing $25–150 see the strongest ROI. At 1,000 units/month, the $0.15–0.30 premium per box translates to $150–300/month — easily covered by a single additional conversion from branded unboxing content on Instagram/TikTok.
+
 ## Factory
 
 - **Founded**: 2003 — 22 years of corrugated packaging manufacturing in Foshan, Guangdong, China

@@ -127,6 +127,22 @@ A: MOQ is 500 units for boxes using our existing die-library sizes and standard 
 | **Adhesives** | Water-based PVA, solvent-free | VOC ≤ 50 g/L |
 | **Waste Management** | Paper waste 98% recycled | In-house baling, Nine Dragons recycling partner |
 
+## Format Selection: Trunk vs Book-Style vs Drawer-Slide
+
+Trunk boxes occupy the premium tier of rigid packaging. Here's when each format is the right choice:
+
+| Factor | Bincai Trunk Box | Book-Style Rigid | Drawer-Slide Box |
+|---|---|---|---|
+| **Unboxing Drama** | ★★★★★ — hinged lid + metal hardware | ★★★★ — opens like a book | ★★★ — slide reveal |
+| **Product Weight Limit** | 3–5 kg — reinforced base | 1–2 kg — hinge stress | 2–3 kg — drawer rails |
+| **Keepsake Potential** | Highest — consumers keep as decor/storage | High — keeps as display case | Moderate — functional but plain |
+| **Custom Hardware** | Metal corners + leather handle + latch — 3 branding surfaces | None — paper construction | None — paper or plastic rails |
+| **Shipping Weight** | 250–600g | 150–400g | 300–800g |
+| **Best Product Type** | Spirits, watches, collector's sets, VIP gifts | Books, tablets, flat gift sets | Jewelry, cosmetics, stationery |
+| **Unit Cost (1K qty)** | $2.50–8.00 | $0.80–3.00 | $2.00–6.00 |
+
+**Decision rule:** Choose trunk when: (a) the product weighs over 2kg (spirits bottles, multi-tool sets), (b) the box itself is intended to be kept and displayed (collector's editions, heirloom gifts), or (c) metal hardware adds authenticity (vintage/steampunk/industrial aesthetics). Choose book-style for lightweight, flat products where the opening motion mimics a book reveal. Choose drawer-slide for cosmetics and jewelry where the sliding action reveals product in stages.
+
 ## Why Choose Bincai
 
 Guangdong Bincai Color Printing brings 22 years of rigid box manufacturing mastery to every trunk box project. Operating from an 18,000 sqm campus with daily output of **1.7 million boxes**, we combine Heidelberg 7+1 UV printing precision with the artisanal hand-finishing that trunk boxes demand — metal corner riveting, leather handle stitching, and interior velvet flocking are performed by skilled craft workers with an average 8 years of experience. Our in-house die-making workshop produces custom cutting dies within 24 hours, and rapid prototyping delivers physical samples in 48 hours. ISO 9001:2015 quality management and FSC chain-of-custody certification ensure every box meets international standards for quality, sustainability, and safety.
