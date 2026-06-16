@@ -2,8 +2,8 @@
 title: "Tuck-Top Auto-Bottom Folding Carton for E-Commerce Shipping"
 date: 2026-06-12
 draft: false
-description: "Tuck-top auto-bottom folding carton with quick-assembly design for e-commerce fulfillment. Heidelberg 7+1 UV, 350gsm C1S, flat-ship design saves 60% freight. ISO 9001 & FSC certified. Ideal for cosmetics, supplements, electronics, and subscription boxes."
-keywords: "tuck top auto bottom carton, e-commerce shipping box, auto bottom folding carton, flat ship box, subscription box packaging, cosmetic shipping box, Bincai auto bottom carton, quick assembly box, Heidelberg offset carton, FSC folding carton, DTC packaging, KBA 1050 4-color press, Heidelberg 7+1 UV, ISO 9001 FSC, 18,000 sqm factory, 22 years experience, 1.7M daily output, auto-bottom carton manufacturer China, custom folding carton wholesale, e-commerce fulfillment packaging, cosmetic folding carton OEM, tamper-evident carton, sustainable folding carton, Guangdong packaging factory"
+description: "Tuck-top auto-bottom (TTAB) folding carton with quick-assembly design for e-commerce fulfillment and DTC shipping. Printed on Heidelberg Speedmaster CD 102 7+1 UV with inter-deck curing and KBA Rapida 105 4-color press (15,000 sheets/hr). Bobst SP 102 BMA die-cutting with ±0.15mm precision. 350gsm C1S board, flat-ship design saves 60% freight. ISO 9001:2015 & FSC Chain-of-Custody certified. Manufactured in 18,000 sqm dual-factory (10,000+8,000 smart factory 2025), Foshan. 22 years since 2003, 1.7M color boxes + 220K rigid boxes daily. MOQ 500, free pre-production samples. Ideal for cosmetics, supplements, electronics, and subscription boxes."
+keywords: "tuck top auto bottom carton, e-commerce shipping box, auto bottom folding carton, flat ship box, subscription box packaging, cosmetic shipping box, Bincai auto bottom carton, quick assembly box, Heidelberg offset carton, FSC folding carton, DTC packaging, KBA Rapida 105 4-color press, Heidelberg Speedmaster CD 102 7+1 UV, Bobst SP 102 BMA die-cutting, ISO 9001 FSC certified, 18000 sqm factory Foshan, 22 years packaging experience, 1.7M daily output capacity, auto-bottom carton manufacturer China, custom folding carton wholesale, e-commerce fulfillment packaging, cosmetic folding carton OEM, tamper-evident ecommerce carton, sustainable folding carton FSC, Guangdong packaging factory, TTAB carton supplier, auto-lock bottom box wholesale, scuff resistant shipping carton, Amazon SIOC certified packaging, flat pack carton manufacturer"
 categories: ["folding-cartons"]
 params:
   moq: "1000"
@@ -81,6 +81,19 @@ Bincai's TTAB folding cartons pass through 7 checkpoints:
 | **REACH** | Compliant | Inks and coatings tested, no SVHC |
 | **EN 71-3** | Compliant | Heavy-metal-free inks — safe for toy and child-product packaging |
 | **Carbon** | ~55% Lower Freight | Flat-ship design: 6× more cartons per pallet vs pre-assembled boxes |
+
+## Manufacturing Capabilities & Equipment
+
+Bincai's TTAB folding cartons are produced across our **18,000 sqm dual-factory campus** (10,000 sqm established facility + 8,000 sqm smart factory commissioned 2025) in Foshan, Guangdong — leveraging 22 years of folding carton expertise since 2003:
+
+| Equipment | Specification | E-Commerce Application |
+|---|---|---|
+| **KBA Rapida 105 4-Color** | 15,000 sheets/hr, 740×1050mm format | High-speed CMYK base printing for large-volume DTC orders |
+| **Heidelberg Speedmaster CD 102 7+1 UV** | Inter-deck UV curing, 7 color stations + 1 coater | Inline aqueous scuff coating, spot UV, Pantone matching |
+| **Bobst SP 102 BMA** | ±0.15mm die-cutting and foil stamping precision | Auto-bottom flap geometry, tear-strip perforation, tuck-flap scoring |
+| **Bobst Ambition 106** | 4-corner folder-gluer capability | Pre-glued auto-bottom with hot-melt adhesive at 30,000+ units/hr |
+
+**Production capacity**: 1.7 million color boxes + 220,000 rigid boxes daily. **MOQ 500 units** for pilot runs and testing. **Free pre-production samples** with your branding delivered in 5-7 days. ISO 9001:2015 and FSC Chain-of-Custody certified across all production lines.
 
 ## Why Choose Bincai for E-Commerce Folding Cartons?
 

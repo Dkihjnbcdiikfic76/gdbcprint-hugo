@@ -2,8 +2,8 @@
 title: "Recyclable Kraft Cardboard Box with Soy Ink Printing"
 date: 2026-06-10
 draft: false
-description: "100% recyclable kraft cardboard box with biodegradable soy ink printing. ISO 9001 & FSC certified. Zero plastic. Compostable options. 22-year Bincai factory — 18,000 sqm (10,000+8,000 smart factory), Heidelberg 7+1 UV press, daily output 1.7M boxes. MOQ 500."
-keywords: "recyclable kraft box, soy ink printing, eco-friendly cardboard box, biodegradable packaging, FSC certified box, zero plastic packaging, kraft cardboard box manufacturer, sustainable gift box, compostable packaging, Bincai Color Printing, green packaging China, soy-based ink box, plastic-free packaging"
+description: "100% recyclable kraft cardboard box with biodegradable soy ink printing — zero plastic, fully compostable sustainable packaging. Printed on Heidelberg Speedmaster CD 102 7+1 UV with inter-deck curing and KBA Rapida 105 4-color press (15,000 sheets/hr). Finished on Bobst SP 102 BMA (±0.15mm) for blind embossing. FSC Chain-of-Custody certified kraft board, water-based adhesives, EN 13432 compostable. ISO 9001:2015 certified. 18,000 sqm dual-factory (10,000+8,000 smart factory 2025), 1.7M color boxes + 220K rigid boxes daily. 22 years experience since 2003, Guangdong Bincai. MOQ 500, free pre-production samples."
+keywords: "recyclable kraft box, soy ink printing, eco-friendly cardboard box, biodegradable packaging, FSC certified box, zero plastic packaging, kraft cardboard box manufacturer, sustainable gift box, compostable packaging, Bincai Color Printing, green packaging China, soy-based ink box, plastic-free packaging, recyclable kraft box wholesale, eco packaging manufacturer Guangdong, soy ink printed cardboard box custom, FSC chain of custody packaging, sustainable packaging supplier China, kraft cardboard gift box MOQ 500, zero plastic eco box manufacturer, compostable kraft box EN 13432, recyclable corrugated kraft box, organic brand packaging kraft, biodegradable soy ink gift box, custom eco-friendly box Foshan, green packaging 22 years factory, water-based adhesive kraft box, ISO 9001 eco packaging supplier, sustainable DTC shipping box kraft, Heidelberg printed kraft eco box"
 categories: ["kraft-eco-boxes"]
 params:
   moq: "500-1000"
@@ -16,7 +16,13 @@ params:
 
 ## Overview
 
-Guangdong Bincai Color Printing's recyclable kraft cardboard box with soy ink printing represents the purest expression of sustainable packaging. Every component — from the FSC certified kraft paperboard and recycled greyboard core to the soy-based inks and water-based adhesives — is chosen for end-of-life recyclability and biodegradability. Zero plastic. Zero solvent emissions. Full compostability in industrial facilities. Manufactured in our ISO 9001:2015 certified 18,000 sqm factory (10,000+8,000 smart factory) backed by 22 years of expertise.
+Guangdong Bincai Color Printing's recyclable kraft cardboard box with soy ink printing represents the purest expression of sustainable packaging. Every component — from the FSC certified kraft paperboard and recycled greyboard core to the soy-based inks and water-based adhesives — is chosen for end-of-life recyclability and biodegradability. Zero plastic. Zero solvent emissions. Full compostability in industrial facilities.
+
+### Manufacturing Excellence & Equipment
+
+Manufactured in our **ISO 9001:2015 certified 18,000 sqm dual-factory** (10,000 sqm main plant + 8,000 sqm smart factory commissioned 2025), every kraft box is printed using soy-based vegetable inks on the **Heidelberg Speedmaster CD 102 7+1 UV** with inter-deck UV curing for instant-dry, scuff-resistant output — or the **KBA Rapida 105 4-color offset press** running at 15,000 sheets/hour for high-volume CMYK production. Blind embossing and debossing (maintaining full recyclability without foil) is executed on the **Bobst SP 102 BMA** with ±0.15mm registration precision.
+
+Backed by **22 years of expertise since 2003**, our facility produces **1.7 million color boxes + 220,000 rigid gift boxes daily**. The smart factory features automated guided vehicles, inline camera QC, and real-time production dashboards for consistent quality at scale. **MOQ starts at 500 units** with free pre-production samples delivered in 5–7 working days, letting you verify the kraft aesthetic, print quality, and structural integrity before committing to volume.
 
 ## Applications
 
