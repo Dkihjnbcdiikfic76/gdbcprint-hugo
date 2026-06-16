@@ -1,1 +1,16 @@
-{"day": 2, "task": 4, "rotation": 24, "total_rotations": 24, "started": "2026-06-16T00:00:00+08:00", "cycle": "deep-dive-3day", "tasks": ["CTA Optimization", "Customer Case Studies", "Homepage Numbers", "Product Differentiation", "Internal Linking", "Build & Deploy"], "day1_complete": true, "day2_complete": false, "day3_complete": false, "next": "Day 2 Run 5, Task #5 INTERNAL LINKING"}
+{
+  "day": 2,
+  "task": 5,
+  "rotation": 5,
+  "next": "Day 2 Run 6, Task #6 BUILD & DEPLOY",
+  "started": "2026-06-16T00:00:00Z",
+  "cycle": "deep-dive",
+  "tasks": {
+    "1": "CTA OPTIMIZATION",
+    "2": "CUSTOMER CASES",
+    "3": "HOMEPAGE NUMBERS",
+    "4": "PRODUCT DIFFERENTIATION",
+    "5": "INTERNAL LINKS",
+    "6": "BUILD & DEPLOY"
+  }
+}
