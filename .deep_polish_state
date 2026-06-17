@@ -1,4 +1,4 @@
-next_task=2
+next_task=3
 last_run=$(date -Iseconds)
 day=3
-total_runs=55
+total_runs=56

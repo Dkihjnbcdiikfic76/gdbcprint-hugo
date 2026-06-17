@@ -1,3 +1,3 @@
-next_task=2
+next_task=3
 last_run=$(date -Iseconds)
-last_task=1
+last_task=2
