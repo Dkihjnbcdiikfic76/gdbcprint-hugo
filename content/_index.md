@@ -55,11 +55,12 @@ Velvet flocking, PU leatherette, satin-lined jewelry boxes with ring rolls, neck
 - **ISO 9001:2015 Certified** — SGS certified (CN24/00002738), annual surveillance audits, rigorous quality management at every production stage
 - **FSC C147399 Chain-of-Custody** — Sustainable materials from responsibly managed forests, FSC license C147399
 - **High-Tech Enterprise** — Recognized by Guangdong Province (2024) for advanced manufacturing technology
+- **Guangzhou Printing Industry Association** — Active member of the regional printing and packaging industry association
 - **18,000 sqm Factory** — KBA Rapida 1050 + Heidelberg 7+1 UV + BHS Corrugator + Bobst die-cutter
 - **MOQ 500 Units** — Flexible quantities for startups and enterprise alike
 - **Free Pre-Production Samples** — 5–7 day turnaround, freight collect
 - **7-Day Fastest Delivery** — DHL/UPS/FedEx Express to US/EU markets
-- **32 Orders/Month** — 951 orders fulfilled over 3 years (156 in 2023, 250 in 2024, 383 in 2025, 162 YTD Jan-May 2026). ~21-31 orders in active production at any time across the 18,000 sqm facility. 7-day fastest delivery to US/EU markets
+- **32 Orders/Month** — 951 orders fulfilled over 3 years (156 in 2023, 250 in 2024, 383 in 2025, 162 YTD Jan-May 2026). ~21-27 orders in active production at any time across the 18,000 sqm facility. 7-day fastest delivery to US/EU markets
 - **304 Unique Products Shipped** — Across 986 line items in 36 months of operational data
 - **Diamond Member on Made-in-China.com** — Audited Supplier since 2026, 987 products live (100% rated 4.5★+, 97% with video), 100% inquiry response rate, average reply 0.67 hours, 26.42% client conversion rate, 348 monthly active buyer visits
 
@@ -67,4 +68,4 @@ Velvet flocking, PU leatherette, satin-lined jewelry boxes with ring rolls, neck
 
 [Request a Free Quote →](/contact/) &nbsp;&nbsp; | &nbsp;&nbsp; [View on Made-in-China.com →](https://bincaipaperbox.en.made-in-china.com/)
 
-*ISO 9001:2015 SGS Certified (CN24/00002738) · FSC C147399 Chain-of-Custody · High-Tech Enterprise Guangdong (2024) · 23 Years Manufacturing Excellence · 379 Active Clients · 109 Countries · MIC Diamond Member (100% reply rate, 0.67h avg, 97% video) · Foshan, Guangdong, China*
+*ISO 9001:2015 SGS Certified (CN24/00002738) · FSC C147399 Chain-of-Custody · High-Tech Enterprise Guangdong (2024) · Guangzhou Printing Industry Association Member · 23 Years Manufacturing Excellence · 379 Active Clients · 109 Countries · MIC Diamond Member (100% reply rate, 0.67h avg, 97% video) · Foshan, Guangdong, China*
