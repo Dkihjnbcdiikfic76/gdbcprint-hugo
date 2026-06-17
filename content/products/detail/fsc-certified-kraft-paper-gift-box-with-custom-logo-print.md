@@ -72,3 +72,21 @@ Every box carries the FSC logo — a credible sustainability signal verified by 
 - **FSC Traceability**: Full chain-of-custody documentation from certified mill to finished box
 - **VOC Compliance**: All inks and coatings tested for heavy metals, phthalates, and solvent residues
 - **Biodegradability**: ASTM D6400 / EN 13432 compostable materials available on request
+
+## Why This FSC-Certified Kraft Gift Box
+
+- **FSC C147399 Chain-of-Custody** — independently audited traceability from certified forest to finished box, supporting credible sustainability claims
+- **100% Curbside Recyclable** — no plastic lamination, no mixed materials; meets TAPPI T-275 with ≥95% fiber recovery
+- **Soy-Based Ink Compatible** — low-VOC vegetable inks with heavy-metal-free pigments; compostable per ASTM D6400
+- **Flat-Ship Cost Advantage** — folding carton construction ships flat (90% less volume than pre-assembled rigid boxes), cutting freight costs by 60–75%
+- **Verified Green Marketing** — FSC logo on every box gives retailers and consumers an instant, third-party-verified sustainability signal
+
+| Factor | Non-Certified Gift Box | Bincai FSC-Certified Box |
+|--------|----------------------|--------------------------|
+| Forest Traceability | Unknown or unverified origin | FSC C147399 full chain-of-custody |
+| Recyclability | May contain plastic lamination | 100% paper stream — no separation needed |
+| Ink System | Petroleum-based, high-VOC | Soy-based, low-VOC, heavy-metal-free |
+| Carbon Footprint | No offset or tracking | FSC forests sequester carbon; data available |
+| Retail Credibility | No recognized eco-mark | FSC logo — recognized by 50%+ consumers |
+| Compliance | Risk of greenwashing claims | EU Green Claims Directive ready |
+

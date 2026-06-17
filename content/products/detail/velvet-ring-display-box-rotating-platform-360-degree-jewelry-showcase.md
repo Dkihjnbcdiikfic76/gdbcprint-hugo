@@ -86,6 +86,18 @@ Bincai's 360° rotating velvet ring display box brings kinetic presentation to f
 6. **Finished Goods Audit** — full functional test: rotation, LED, magnetic closure, foil integrity; AQL 2.5 Level II sampling
 7. **Pre-Shipment Inspection** — random sample pull (10% of shipment), full D65 lighting visual inspection, 24-hour continuous run test on sample units, packaging integrity and battery compartment check
 
+## Ring Display Format Comparison: Rotating vs. Static vs. LED-Only
+
+| Factor | Bincai 360° Rotating + LED | Static Velvet Slot Box | LED-Only (No Rotation) | Open Tray Display | Glass Dome Display |
+|---|---|---|---|---|---|
+| **Customer Engagement** | ★★★★★ — motion + light draws eye from 3m+ | ★★☆☆☆ — passive, requires customer to open | ★★★☆☆ — light draws eye but no motion | ★★★☆☆ — product visible but no wow factor | ★★★★☆ — elegant but static |
+| **Security** | ★★★★★ — magnetic lid, ring enclosed | ★★★★★ — fully enclosed | ★★★★☆ — enclosed with lid | ★★☆☆☆ — open, ring exposed | ★★★☆☆ — liftable dome |
+| **Counter Footprint** | ★★★★☆ — 80×80mm to 120×120mm | ★★★★★ — compact, stackable | ★★★★☆ — same as rotating | ★★★☆☆ — needs clearance around open tray | ★★☆☆☆ — dome height limits stacking |
+| **Power Requirement** | 3× LR44 (100+ hrs) — no outlet needed | None | 2× CR2032 (40–60 hrs) | None | None |
+| **Per-Unit Cost (500 MOQ)** | $2.50–$6.00 | $0.80–$2.00 | $1.50–$3.50 | $0.50–$1.20 | $8.00–$15.00 |
+
+**Bottom line:** The rotating + LED format delivers 3–5× longer customer dwell time at retail counters compared to static displays (based on Bincai retail partner data across 40+ jewelry stores). Choose rotating when the ring's brilliance and cut quality are key selling points that benefit from motion under controlled lighting.
+
 ## FAQ
 
 **Q: How long do the batteries last in the rotating display box?**

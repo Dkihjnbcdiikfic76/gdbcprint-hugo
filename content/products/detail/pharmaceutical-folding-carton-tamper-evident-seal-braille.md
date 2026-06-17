@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC, GMP"
 ---
 
-![Bincai Folding Cartons](/images/folding-cartons.jpg)
+![Bincai Folding Cartons](/images/cat-fold-cosmetic.jpg)
 
 ## Product Overview
 
@@ -107,6 +107,21 @@ Our pharmaceutical folding carton production leverages world-class press technol
 - **Recyclable design** — SBS cartons accepted in standard paper recycling streams; PET tear strips easily separable for mono-material recovery
 - **Energy efficiency** — GMP zone LED lighting reduces energy use by 60%; heat recovery from press dryers preheats incoming air
 - **Responsible disposal** — pharmaceutical waste segregated per WHO guidelines; solvent-free process means zero hazardous air pollutant (HAP) emissions
+
+## Carton Format Comparison: Folding vs. Blister vs. Clamshell for Pharma
+
+| Factor | Folding Carton | Blister Pack | Clamshell |
+|--------|---------------|--------------|-----------|
+| Tamper Evidence | ★★★★★ | ★★★★☆ | ★★★☆☆ |
+| Child Resistance | ★★★★★ | ★★★★★ | ★★☆☆☆ |
+| Cost per Unit | ★★★★★ | ★★★☆☆ | ★★☆☆☆ |
+| Sustainability | ★★★★★ | ★★☆☆☆ | ★★★☆☆ |
+| Braille Compatibility | ★★★★★ | ★☆☆☆☆ | ★☆☆☆☆ |
+| Serialization Surface | ★★★★★ | ★★★☆☆ | ★★☆☆☆ |
+| Product Protection | ★★★★☆ | ★★★★★ | ★★★★☆ |
+| Shelf Presence | ★★★★★ | ★★★☆☆ | ★★★★☆ |
+
+**Folding cartons** lead on cost efficiency, sustainability, serialization surface area, and regulatory compliance (Braille, tamper-evident seals). **Blister packs** excel at individual dose protection but lack printable surface and recyclability. **Clamshells** suit medical devices but offer limited tamper evidence and higher tooling costs. For pharmaceutical brands requiring EU FMD serialization, Braille embossing, and tamper-evident seals on a single SKU — folding cartons deliver the most complete compliance solution at the lowest per-unit cost.
 
 ## FAQ
 **Are your cartons FDA compliant?** Yes. Our pharmaceutical cartons comply with FDA 21 CFR Part 211 (CGMP for Finished Pharmaceuticals). We maintain full batch records, perform extractables testing per USP <1663>/<1664>, and can support Type III DMF submissions.

@@ -79,3 +79,21 @@ Eco-friendly kraft paper drawer box with natural cotton pull handle — manufact
 | FSC chain of custody | Document audit per shipment | FSC-STD-40-004 compliance |
 | Compostability (PLA window) | EN 13432 certification | Home compostable within 180 days |
 | AQL sampling | ISO 2859-1 Level II | AQL 2.5 (major), AQL 1.0 (minor) |
+
+## Why This Kraft Drawer Box
+
+- **Cotton pull handle vs. plastic** — 3mm braided cotton cord tensile-tested at 5kg+; biodegradable and tactile, replacing nylon or grosgrain ribbon tabs
+- **FSC-certified kraft board** — 350gsm recycled kraft with full chain-of-custody traceability; accepted in standard curbside recycling without separating components
+- **Flat-ship drawer design** — ships knocked-down for 60% freight volume savings; assembles in under 20 seconds with pre-scored crease lines, no adhesive required
+- **Reuse-first engineering** — drawer mechanism designed for 200+ open/close cycles; customers repurpose as desk organizers, jewelry storage, or seed boxes
+- **Soy-based inks only** — zero petroleum-based solvents; prints remain vivid on uncoated kraft with ΔE ≤2.0 color consistency batch-to-batch
+
+| Factor | Generic Gift Box | Bincai Kraft Drawer Box |
+|--------|-----------------|-------------------------|
+| Material | Virgin bleached cardboard | FSC recycled kraft 350gsm |
+| Handle | Plastic tab or none | Braided cotton cord, 5kg+ rated |
+| Closure | Tuck-flap or magnetic | Smooth drawer slide ±0.5mm tolerance |
+| Shipping | Pre-assembled (bulky) | Flat-packed — 60% volume savings |
+| Sustainability | Laminated, non-recyclable | 100% recyclable, compostable window option |
+| Reuse potential | Single-use, discarded | 200+ cycle drawer mechanism |
+| Ink system | Petroleum-based | Soy-based, zero VOC |

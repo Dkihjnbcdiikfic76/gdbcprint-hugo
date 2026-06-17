@@ -131,6 +131,20 @@ A: MOQ is 500 units for standard sizes using our existing rotary die tooling. Fo
 
 ---
 
+## When a Fold-Flat Mailer Wins: Scenario Selection
+
+| Buyer Situation | Why This Fold-Flat Mailer Is the Right Choice |
+|---|---|
+| **Reduce dimensional weight charges** | Flat-fold design ships in 70% less volume than pre-glued boxes — carriers bill DIM weight, so smaller packed dimensions directly lower per-parcel shipping cost |
+| **DTC subscription box program** | Self-locking bottom assembles in 3 seconds without tape or tools — warehouse staff can pack 200+ shirts/hour vs. 120/hour with taped boxes |
+| **Pop-up shop fulfillment** | Stores flat under a counter; instant assembly on-site means zero pre-built box inventory taking up retail floor space |
+| **Returns logistics** | Integrated perforated return strip lets customers reseal and return in the same box — eliminates reverse-logistics reboxing cost |
+| **Retail shelf display** | Litho-laminate CMYK exterior turns a shipping box into point-of-sale packaging — no secondary retail box needed, saving $0.30–0.60/unit |
+| **Seasonal volume spikes (Black Friday / Q4)** | 1.7M daily capacity + flat storage means you can pre-order 3 months of boxes and store them in 30% of normal warehouse space |
+| **Sustainability-first brand positioning** | 100% corrugated, water-based ink, starch adhesive — fully recyclable in curbside paper streams without tear-strip removal |
+
+---
+
 ## Shipping 500+ Shirts Per Month?
 
 **Send us your folded garment dimensions for a custom mailer quote with free structural samples in 5 business days.** We'll prototype your exact size with your choice of E-flute (compact print-friendly) or B-flute (extra crush protection) — complete with your brand colors via litho-laminate CMYK. For brands scaling Q4 holiday volume, lock in production slots now with a 90-day rolling forecast — no deposit required on first orders under 5,000 units.

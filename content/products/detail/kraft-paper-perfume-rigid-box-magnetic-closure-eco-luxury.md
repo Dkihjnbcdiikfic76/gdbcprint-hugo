@@ -94,6 +94,18 @@ The box is printed on our **Heidelberg Speedmaster XL 7+1 UV press** with low-VO
 6. **Assembly** — 100% magnet polarity check; flocking adhesion sample test; insert fit verification; closure force measurement (4–6N per pair); visual kraft surface inspection
 7. **Final Audit** — AQL 2.5 sampling per ISO 2859-1; dimensional check; ISTA drop test on random sample; recyclability verification; FSC labeling compliance; packaging for export
 
+## Format Selection Guide: Perfume Packaging
+
+| Format | Unboxing Experience | Bottle Security | Shelf Impact | Eco Perception | Best For |
+|--------|:---:|:---:|:---:|:---:|----------|
+| **Rigid Magnetic Flip-Top** (this product) | ★★★★★ | ★★★★★ | ★★★★★ | ★★★★☆ | Niche fragrance, luxury gifting, DTC |
+| **Sleeve & Tray** | ★★★★☆ | ★★★★☆ | ★★★★☆ | ★★★★★ | Clean beauty, minimalist brands |
+| **Tuck-End Folding Carton** | ★★☆☆☆ | ★★★☆☆ | ★★★☆☆ | ★★★★★ | Mass-market eco, subscription refills |
+| **Drawer-Style Rigid** | ★★★★★ | ★★★★☆ | ★★★★☆ | ★★★☆☆ | Discovery sets, multi-bottle collections |
+| **Lift-Off Lid Rigid** | ★★★★☆ | ★★★★★ | ★★★★☆ | ★★★☆☆ | Heritage brands, collector editions |
+
+The kraft magnetic flip-top format scores highest across combined metrics — delivering the full-sensory "reveal moment" fragrance consumers expect while maintaining 100% curbside recyclability. For brands prioritizing maximum eco perception over unboxing drama, the sleeve-and-tray format eliminates magnets entirely.
+
 ## FAQ
 
 **Q: Is this box truly recyclable in curbside programs — or does it require special processing?**

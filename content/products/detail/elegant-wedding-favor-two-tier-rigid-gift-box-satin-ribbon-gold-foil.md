@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Rigid Gift Box](/images/rigid-gift-boxes.jpg)
+![Rigid Gift Box](/images/cat-rigid-others.jpg)
 
 ## Product Overview
 
@@ -89,6 +89,24 @@ The Bincai Elegant Wedding Favor Two-Tier Rigid Gift Box transforms wedding gift
 | **Foil** | Metallic foil applied via cold transfer — minimal foil waste, recyclable substrate |
 | **Factory Waste** | 95%+ production paper waste diverted from landfill via closed-loop recycling |
 | **Carbon** | LED factory lighting, optimized press scheduling, consolidated shipments |
+
+## Why This Two-Tier Wedding Favor Box
+
+- **Satin ribbon + gold foil in one package** — pre-applied ribbon eliminates assembly labor; cold-foil stamping produces mirror-finish lettering that won't tarnish or flake
+- **Two-tier capacity** — separate compartments for chocolates on top and a keepsake card or jewelry piece below, creating a curated unboxing experience
+- **10+ satin color options** — match any wedding palette from blush to navy; ribbon applied on our assembly line, not outsourced to a decorator
+- **30-second flat-pack assembly** — rigid greyboard construction holds shape without tools or adhesive, saving 65% shipping volume vs. pre-assembled alternatives
+- **Integrated personalization** — names, dates, and monograms foil-stamped on the same production line with no setup fees at 1,000+ units
+
+| Factor | Generic Favor Box | Bincai Two-Tier Box |
+|--------|-------------------|---------------------|
+| Material | 300gsm folding carton | 1200gsm greyboard + art paper wrap |
+| Ribbon | Self-tie loose ribbon | Pre-applied satin, factory-secured |
+| Foil quality | Hot-stamp single pass | Cold-transfer mirror foil, multi-level emboss |
+| Structure | Single cavity | Two independent tiers, stackable |
+| Personalization | Print label sticker | Die-stamped foil, no MOQ surcharge |
+| Flat-pack shipping | No (ships assembled) | Yes — 65% freight savings |
+| Lead time | 21-28 days | 10-14 working days |
 
 ## FAQ
 

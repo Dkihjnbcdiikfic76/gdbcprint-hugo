@@ -88,4 +88,21 @@ Recyclable brown kraft paper rigid gift box with magnetic closure — designed b
 | Magnet Strength | Pull force ≥ 2.0 N/cm², 100% testing |
 | Lid Alignment | Gap ≤ 1.2mm, flush closure |
 | Drop Test | ISTA 1A — 10-drop sequence |
-| AQL Sampling | ISO 2859-1 Level II, AQL 2.5 |
+|| AQL Sampling | ISO 2859-1 Level II, AQL 2.5 |
+
+## Why This Recyclable Kraft Magnetic Gift Box
+
+- **Full recyclability without magnet removal** — proprietary flush-mount magnet pocket design allows the entire box (magnets included) to pass through standard paper recycling streams; PTS repulpability verified at ≥ 98%
+- **Double-wall kraft rigidity** — 1200–1600 gsm recycled greyboard core delivers luxury-grade structural performance equal to conventional rigid boxes, without virgin fiber or plastic lamination
+- **N48 neodymium magnet strength** — upgraded rare-earth magnets provide a satisfying 3.5 N snap closure that feels premium while remaining fully enclosed within recyclable paper layers
+- **Water-based adhesive throughout** — solvent-free PVA emulsion (FDA 21 CFR 175.105) eliminates delamination risk during recycling and ensures zero VOC off-gassing inside the sealed box
+- **Soy-ink printing, zero deinking required** — vegetable-based inks biodegrade naturally during repulping, meaning recycling mills process Bincai kraft boxes with no additional chemical treatment
+
+| Factor | Conventional Magnetic Box | Bincai Recyclable Kraft Box |
+|---|---|---|
+| End-of-life | Landfill or complex disassembly (magnet + laminate separation) | Curbside paper recycling — no disassembly needed |
+| Board material | Virgin paperboard with plastic film lamination | 100% post-consumer recycled greyboard, uncoated kraft wrap |
+| Ink system | Petroleum-based offset ink, VOC 3–5% | Soy-based ink, VOC ≤ 0.5%, EN 71-3 compliant |
+| Adhesive | Solvent-based hot melt (non-recyclable residue) | Water-based PVA emulsion — fully repulpable |
+| Certifications | Varies; often none | FSC CoC, ISO 9001, ASTM D6400 compostable option |
+| Brand perception | Generic luxury | Authentic eco-luxury — appeals to 73% of consumers who prefer sustainable packaging |
