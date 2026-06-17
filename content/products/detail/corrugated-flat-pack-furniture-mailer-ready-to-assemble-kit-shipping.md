@@ -132,3 +132,9 @@ A: Yes. Our boxes use water-based starch adhesive (solvent-free, biodegradable),
 - Daily capacity: 1.7 million boxes across all production lines
 - Export to 60+ countries across North America, Europe, Middle East, and Asia-Pacific
 - Diamond Member on Made-in-China.com, Audited Supplier
+
+---
+
+**Ready to eliminate furniture shipping damage and cut fulfillment labor by 40%?** Send us your RTA kit dimensions, panel weights, and target retail price point for a same-day structural design proposal. Every new order includes free 3D CAD rendering, ISTA 3A transit testing, and a physical prototype in 5-7 days — test the self-locking crash-lock bottom and tear strip before committing. Bincai: 22 years, ISO 9001:2015 & FSC certified, 18,000 sqm factory, BHS 2.5m corrugator, 200+ furniture brands served across 60 countries. Diamond Member on Made-in-China.com with verified on-site audit.
+
+[→ Get Your Furniture Mailer Quote](https://bincaipaperbox.en.made-in-china.com/contact-info.html)

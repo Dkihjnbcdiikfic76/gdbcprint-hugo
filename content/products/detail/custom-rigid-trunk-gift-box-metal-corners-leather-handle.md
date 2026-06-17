@@ -165,3 +165,9 @@ The trunk-style rigid box occupies a unique position between standard gift boxes
 | **Best For** | Standard gifting | Ultra-premium collector's edition | Premium spirits, watches, jewelry, corporate VIP gifts |
 
 **When to choose trunk over standard rigid**: When the unboxing IS part of the product experience — luxury spirits where the box stays on the bar cart, watch collections displayed in their case, corporate gifts meant to be kept and reused. The $2.50–8.00 unit cost buys an heirloom-quality presentation that consumers will photograph, share on social media, and repurpose — generating brand exposure that extends far beyond the initial gift moment.
+
+---
+
+**Ready to turn your product into a keepsake experience?** Send us your product dimensions and preferred hardware finish (antique brass, polished gold, matte black) for a same-day quote with free physical trunk box sample in 7 days. Touch the riveted metal corners, lift the full-grain leather handle, and test the velvet-flocked interior — then scale from 500 to 50,000 units on our Heidelberg 7+1 UV and KBA 1050 presses. Bincai: 22 years, ISO 9001:2015 & FSC certified, 18,000 sqm factory, 1.7M boxes daily, Diamond Member on Made-in-China.com since 2015 — 987 products, verified on-site audit.
+
+[→ Request Your Trunk Box Sample](https://bincaipaperbox.en.made-in-china.com/contact-info.html)

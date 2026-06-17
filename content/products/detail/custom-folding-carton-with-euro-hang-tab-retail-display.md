@@ -90,3 +90,9 @@ In-line quality control at every production stage ensures consistent excellence:
 - **Hang Tab Integrity** — pull force test verifies minimum 5kg load capacity before tear — exceeding typical retail product weight (0.2–2kg) by 2.5× safety margin
 - **Surface Finish** — visual inspection under D65 lighting for lamination uniformity, foil registration, and spot UV alignment
 - **Final Audit** — AQL 2.5 sampling per ISO 2859-1 before carton packing and shipment
+
+---
+
+**Ready to get your product on retail pegboards across Europe and North America?** Send us your product dimensions, board preference (CCNB/Kraft/SBS), and artwork for a same-day folding carton quote with free die-line template and structural CAD. We'll ship a physical sample with your Euro hang tab, CMYK print, and choice of finish in 5-7 days — test it on a standard peg hook, verify the glue bond, and approve the color before production. Bincai: 22 years, ISO 9001:2015 & FSC certified, 18,000 sqm factory, KBA 1050 4-color + Heidelberg 7+1 UV, 1.7M boxes daily, Diamond Member on Made-in-China.com — 987 products, verified on-site audit. MOQ from 1,000 units.
+
+[→ Get Your Folding Carton Quote](https://bincaipaperbox.en.made-in-china.com/contact-info.html)

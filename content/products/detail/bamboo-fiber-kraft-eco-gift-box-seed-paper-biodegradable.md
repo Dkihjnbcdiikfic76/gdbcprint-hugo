@@ -129,6 +129,8 @@ A: MOQ is 1,000-3,000 units depending on complexity. The bamboo-kraft composite 
 
 ## Want Packaging That Grows Into Flowers?
 
-**Share your product specs for a free seed-paper sample kit — shipped to your door within 7 days.** Every kit includes 3 seed-paper tag variants (wildflower, herb, and your choice) plus a physical bamboo-kraft box sample with your logo in soy ink. For brands pursuing B Corp, CDP, or retailer sustainability compliance, ask about our complimentary Life-Cycle Assessment (LCA) report with cradle-to-grave carbon footprint data for your specific box configuration.
+**Send us your product specs for a free seed-paper sample kit — shipped to your door within 7 days.** Every kit includes 3 seed-paper tag variants (wildflower, herb, and your choice) plus a physical bamboo-kraft box sample with your logo printed in soy-based ink. Touch the unbleached bamboo-fiber texture, plant the seed paper tag, and verify OK Compost HOME certification before committing. For brands pursuing B Corp, CDP, or retailer sustainability compliance, ask about our complimentary Life-Cycle Assessment (LCA) report with cradle-to-grave carbon footprint data for your specific box configuration.
+
+Bincai: 22 years, ISO 9001:2015 & FSC-C147399 certified, OK Compost HOME (TÜV Austria), 18,000 sqm dual-factory, Diamond Member on Made-in-China.com — 987 products, verified on-site audit.
 
 🌱 **[Claim Your Free Seed-Paper Sample Kit →](https://bincaipaperbox.en.made-in-china.com/contact-info.html)**

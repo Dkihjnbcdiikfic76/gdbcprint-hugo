@@ -75,3 +75,9 @@ Most jewelry brands source display boxes from 3–4 small workshops: one for vel
 
 ## Quality & Capacity
 Manufactured in our 18,000 sqm ISO 9001:2015 certified facility with dedicated jewelry box assembly lines. Each box undergoes magnetic closure force testing (3.5–5.0N optimal range), velvet pile density inspection, foil adhesion rub testing, and hinge cycle testing (5,000+ open/close cycles without failure). With 22 years of experience and a daily output capacity of over 220,000 gift boxes, Bincai is the trusted partner for jewelry brands requiring consistent premium quality at scale.
+
+---
+
+**Want to see your bangle collection in a display box that matches its elegance?** Send us your bangle diameter range and brand color for a same-day quote — we'll ship a free velvet sample with your logo hot-stamped, satin pillow installed, and magnetic closure calibrated in 5-7 days. Test the 180° flat-open hinge on your retail counter, try the elastic strap on your full bangle size range, and match the velvet to your packaging palette from 40+ colors. Bincai: 22 years, ISO 9001:2015 & FSC certified, 18,000 sqm factory, Diamond Member on Made-in-China.com — serving 60+ countries with 987 active products and verified on-site audit. MOQ 500.
+
+[→ Request Your Free Bracelet Box Sample](https://bincaipaperbox.en.made-in-china.com/contact-info.html)
