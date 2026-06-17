@@ -82,6 +82,29 @@ Cosmetics folding cartons sit at the intersection of high-speed production and u
 
 **Shipping:** Cartons ship flat-packed on pallets; 50,000–80,000 cartons per standard pallet depending on size. Standard sea freight 18–25 days to US/EU ports. Air freight available for rush orders. MOQ 1,000 with 10–14 day production lead time.
 
+## Why Reverse-Tuck Carton for Cosmetics
+
+The reverse-tuck folding carton outperforms alternative structures across the metrics that matter most for cosmetics retail packaging:
+
+- **Faster line speeds** — Opposite-direction flaps allow single-station automated erection at 15,000+ cartons/hour on modern packaging lines, vs. 10,000–12,000 for tuck-top designs requiring sequential flap folding.
+- **±0.1 mm foil registration** — Bobst hot foil presses register gold/silver/rose gold accents with sub-millimeter precision, keeping logos razor-sharp across 10,000+ impressions per hour.
+- **Fingerprint-proof matte finish** — 1.2 mil matte PET lamination creates a velvety, non-reflective surface that resists oils and scuffing through months of retail shelf handling.
+- **ΔE ≤ 2.0 color consistency** — X-Rite eXact spectrophotometer verification every 500 sheets ensures batch-to-batch color fidelity critical for brand recognition across SKUs.
+- **MOQ 1,000 with 10–14 day lead** — Low minimums enable limited-edition launches and influencer collab packaging without warehouse commitment.
+
+### Reverse-Tuck vs. Tuck-Top Carton
+
+| Factor | Reverse-Tuck (this product) | Tuck-Top Carton |
+|--------|:---:|:---:|
+| Automated erection speed | 15,000+/hr (single station) | 10,000–12,000/hr (sequential) |
+| Closure security in transit | ★★★★★ — interlocking flaps resist vibration | ★★★☆☆ — same-direction flaps can pop open |
+| Shelf presentation | Clean front panel, no visible tuck overlap | Top tuck edge visible on shelf face |
+| Die-cut tolerance | ±0.3 mm | ±0.3 mm |
+| Foil + emboss compatibility | Excellent — flat panels ideal for registered foil | Limited — top flap crease interferes with foil near edge |
+| Cost per unit (350 gsm SBS) | $0.15–$0.85 | $0.14–$0.80 |
+
+The reverse-tuck commands a marginal cost premium ($0.01–$0.05/unit) but delivers measurably better closure security, cleaner shelf appearance, and full foil compatibility — the attributes cosmetics brands pay for in premium positioning.
+
 ---
 
 ## Send Us Your Cosmetics Packaging Specs — Free Digital Proof in 24 Hours

@@ -120,6 +120,28 @@ Bincai folding cartons are designed for recyclability without compromising food 
 
 - **Closed-Loop Trim Recycling** — All paper offcuts from die-cutting and guillotining are baled and returned to paper mills. Printing plates, ink containers, and corrugated packaging waste are segregated and processed through certified recycling partners.
 
+## When a Window Cutout Carton Wins for Chocolate & Confectionery
+
+Not every chocolate product benefits from a window carton. Use this decision matrix to determine when a die-cut PET window adds value versus when a fully printed or opaque carton is the better choice:
+
+| Scenario | Window Cutout Carton? | Reasoning |
+|---|---|---|
+| **Artisan truffles with visible hand-decoration** | ✅ Yes — best fit | Product IS the marketing. PET window (haze <3%, ASTM D1003) showcases temper quality, cocoa dusting, and hand-piped detail without opening the box. |
+| **Macaron gift sets (6–12 count)** | ✅ Yes — best fit | Color variety is the selling point. 0.3mm PET film displays the rainbow of flavors; auto-lock bottom (300gsm+ CCNB) provides stable display at patisserie counters. |
+| **Single-origin bean-to-bar tablets** | ⚠️ Conditional | Window works for bars with decorative molds or visible inclusions. Plain dark bars benefit more from full-wrap storytelling print (175 LPI on KBA 1050). Cost impact: window adds $0.05–0.10/unit vs full-print. |
+| **Subscription chocolate (monthly DTC)** | ⚠️ Conditional | Window creates "peek" excitement but requires inner barrier (PET alone has no O₂ barrier). For 6+ month shelf life, add metallized inner liner + window for visual impact without freshness sacrifice. |
+| **Bulk assorted chocolates (500g+ boxes)** | ✅ Yes — large window | Large rectangular window (40–60% of lid area) lets customer see variety. Die-cut tolerance ±0.15mm ensures clean aperture at scale. Thermoform PET tray recommended to prevent shifting. |
+| **Temperature-sensitive couverture (summer shipping)** | ❌ No — opaque preferred | PET window transmits IR radiation, accelerating bloom risk. Opt for fully opaque 350gsm CCNB with metallized interior liner and cold-chain master case instead. |
+| **Ultra-premium gifting ($40+ per box)** | ✅ Yes + upgrades | Window plus soft-touch matte lamination (25μm BOPP), gold hot foil logo, ribbon pull tab, and custom thermoform tray. Full upgrade adds $0.15–0.40/unit. Fold endurance 100+ cycles ensures keepsake quality. |
+
+**Key specs enabling window carton success:**
+- PET film thickness: 0.3mm (crystal-clear, food-contact per FDA 21 CFR 177.1630 & EU 10/2011)
+- Die-cut window tolerance: ±0.15mm on Bobst SP 102 flatbed
+- Board stock: 350gsm CCNB standard (300–400gsm range available)
+- Matte lamination: 25μm BOPP at 120°C hot-roll — scuff-resistant retail handling
+- Auto-lock bottom: Mechanical lock, no adhesive at food interface
+- Unit cost at MOQ 1,000: $0.25–0.80 depending on size and finish tier
+
 ## FAQ
 
 **Q: Is the PET window food-safe for direct chocolate contact?**

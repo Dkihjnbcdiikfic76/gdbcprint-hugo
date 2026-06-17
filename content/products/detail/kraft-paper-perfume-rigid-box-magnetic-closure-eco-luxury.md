@@ -106,6 +106,23 @@ The box is printed on our **Heidelberg Speedmaster XL 7+1 UV press** with low-VO
 
 The kraft magnetic flip-top format scores highest across combined metrics — delivering the full-sensory "reveal moment" fragrance consumers expect while maintaining 100% curbside recyclability. For brands prioritizing maximum eco perception over unboxing drama, the sleeve-and-tray format eliminates magnets entirely.
 
+## Kraft Rigid vs. Folding Carton vs. Corrugated for Perfume
+
+| Factor | Kraft Rigid Box (this product) | Folding Carton | Corrugated Mailer |
+|--------|:---:|:---:|:---:|
+| **Perceived Luxury** | ★★★★★ | ★★★☆☆ | ★★☆☆☆ |
+| **Cost/Unit** | $1.50–$4.50 | $0.15–$0.85 | $0.30–$1.20 |
+| **Best For** | Niche fragrance, gifting, DTC luxury, retail display | Mass-market OTC, subscription refills, value SKUs | E-commerce shipping, bulk fulfillment, secondary packaging |
+| Board construction | 2.0 mm recycled greyboard + 128 gsm FSC kraft wrap | 300–400 gsm SBS single layer | B/E-flute corrugated (1.5–3.0 mm) |
+| Closure | Magnetic flip-top (N35 recycled neodymium, 4–6 N) | Tuck flap (friction) | Tuck or self-seal adhesive strip |
+| Interior | Recycled PET velvet flocking, die-cut EVA/pulp insert | Printed cardstock, no cushioning | Kraft liner, optional foam insert |
+| Bottle protection (ISTA 1A) | ★★★★★ — passes 760 mm drop on all faces | ★★★☆☆ — adequate for lightweight bottles only | ★★★★☆ — good crush resistance, no luxury feel |
+| Shelf display | Premium standalone display piece | Requires shelf tray or hook | Not designed for retail shelf |
+| Recyclability | 100% curbside (TAPPI T-275 ≥ 95% fiber recovery) | 100% curbside | 100% curbside |
+| MOQ | 500 | 1,000–2,000 | 500–1,000 |
+
+**When to choose which:** Kraft rigid wins when the box IS the brand experience — the magnetic snap, velvet reveal, and structural heft justify 3–10× the cost of a folding carton because the consumer keeps and reuses it. Folding cartons win at scale (>50,000 units) where cost/unit drives margin. Corrugated wins as secondary packaging or when the product ships without retail shelf presence.
+
 ## FAQ
 
 **Q: Is this box truly recyclable in curbside programs — or does it require special processing?**
