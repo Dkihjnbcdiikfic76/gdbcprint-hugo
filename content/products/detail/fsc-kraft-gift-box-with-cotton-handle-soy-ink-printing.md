@@ -100,4 +100,6 @@ In-line QC: board caliper verification, FSC chain-of-custody tracking, soy ink a
 - **US Zero-Waste Retailer** — 8,000 plastic-free kraft boxes with debossed logo (no ink), twisted kraft paper handle (100% paper), water-based matte coating; USDA BioPreferred documentation provided; shipped to 2 US West Coast distribution centers
 - **Australian Artisan Food Brand** — 25,000 kraft boxes with soy-ink custom illustration, jute twine handle for rustic aesthetic, uncoated natural board; home-compostable verification certificate included; delivered to Sydney warehouse in 18 business days
 
+**See our eco packaging at scale:** Read how Bincai consolidated 5 SKUs onto a single FSC-certified sustainable packaging platform for a Spanish organic food brand — a [case study in green packaging consolidation](/blog/case-study-spanish-organic-superfood-brand-paper-tubes/). Explore our full range of [kraft and eco packaging solutions](/categories/kraft-eco-boxes/) for every industry and format.
+
 **Guangdong Bincai Color Printing Co., Ltd.** — 22 years. 18,000 sqm (10,000+8,000 smart factory). ISO 9001 & FSC certified. Sustainable packaging made beautifully.

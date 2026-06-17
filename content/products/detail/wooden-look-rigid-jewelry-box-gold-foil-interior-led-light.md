@@ -101,3 +101,5 @@ A: Yes, we offer 20+ woodgrain patterns (walnut, oak, mahogany, teak, rosewood, 
 **Q: What about the gold foil interior — will it wrinkle or peel?**
 
 A: Our gold foil interior uses hot-stamped gold foil on 120gsm coated paper, laminated with temperature-controlled rollers to prevent wrinkling. Adhesion is tested via 3M 610 tape test (no foil lift-off) and accelerated aging (72h at 57°C / 95% RH, no delamination). Edge-to-edge full-surface coverage with invisible seams. Silver and rose gold foil alternatives available.
+
+**See premium jewelry packaging in the real world:** A Middle East jewelry brand deployed our LED display boxes across 200 retail points to increase in-store conversion — [case study: how illuminated packaging lifts jewelry sales](/blog/case-study-middle-east-jewelry-brand-led-display-boxes/). Browse our complete collection of [jewelry packaging solutions](/categories/jewelry-boxes/) including velvet display, LED, and collector-grade formats.
