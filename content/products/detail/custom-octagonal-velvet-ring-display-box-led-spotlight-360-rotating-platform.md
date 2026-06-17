@@ -100,7 +100,25 @@ Our octagonal velvet ring display box with LED spotlight and 360° rotating plat
 | **RoHS 3 (EU 2015/863)** | Hazardous substances in electronics | Compliant |
 | **UN 38.3** | Lithium battery transport safety | Battery certified |
 | **IEC 62133** | Lithium battery safety standard | Battery certified |
-| **CONEG/TPCH** | Heavy metal limits (paper/velvet components) | Compliant |
+|| **CONEG/TPCH** | Heavy metal limits (paper/velvet components) | Compliant |
+
+## Why This Octagonal LED Ring Display Box
+
+Most ring boxes are passive containers — a velvet slot inside a square hinged shell. This octagonal LED rotating display box is an *active presentation system* that transforms a static ring into a dynamic, cinematic reveal. Here's how it compares to the industry default:
+
+| Factor | Standard Square Ring Box | Bincai Octagonal LED Ring Display Box |
+|---|---|---|
+| **Rotation** | None — ring sits static | 360° motorized platform at 0.5 RPM — every facet catches light without touching the ring |
+| **Facets / Visual Interest** | 4-sided — flat, expected geometry | 8-sided octagonal — creates angular depth and architectural sophistication |
+| **Lighting** | None — relies on ambient store lighting | Integrated LED spotlight with 3 color temperatures (3000K warm, 4000K neutral, 5000K cool-white for diamonds) |
+| **Format** | Packaging only — opened once, stored in a drawer | Display + packaging dual-use — sits on retail counters, exhibition showcases, and nightstands as a permanent display piece |
+| **Battery Life** | N/A | 8+ hours continuous (USB-C rechargeable, 2000mAh Li-Po) |
+| **Unboxing Drama** | Hinge opens → ring visible | Hinge opens → LED activates → platform begins rotating → ring sparkles from every angle |
+| **Social Media Impact** | Static photo | Video-ready — the rotating, illuminated ring creates shareable content without any staging effort |
+
+### The 360° Rotation Advantage
+
+No other ring box on the market combines motorized rotation with integrated lighting in an octagonal form factor. The rotation eliminates the need for customers to handle the ring to see all sides — critical for retail counter displays where hygiene and theft-prevention matter. For proposals, the rotation creates a cinematic moment that elevates the experience beyond "open box, see ring." For exhibition showcases, 8+ hours of battery life means the ring presents itself all day without staff intervention.
 
 ## FAQ
 

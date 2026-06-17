@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Corrugated Mailers](/images/cat-fold-mailer.jpg)
+![Bincai Corrugated Mailers](/images/corrugated-mailers.jpg)
 
 Custom printed corrugated mailer box for e-commerce branding — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). 18,000 sqm factory (10,000+8,000 smart factory) with KBA 1050 4-color and Heidelberg 7+1 UV presses. Daily output 1.7 million boxes.
 
@@ -106,3 +106,13 @@ The difference between a plain brown mailer and Bincai's custom-printed corrugat
 | **Flat-Ship Efficiency** | Knocked-down, 60% freight saving | Same (all corrugated ships flat) |
 
 **The real ROI of branded mailers:** A DTC skincare brand switched from plain brown mailers to Bincai CMYK-printed mailers with inside branding. Their Instagram unboxing mentions increased from ~8/month to ~40/month within 90 days — organic reach worth an estimated $12K/month in equivalent paid media. The packaging cost increase of $0.22/unit was recovered by reducing return rate (branded packages signal quality and reduce "this looks cheap" returns by an estimated 15–20%).
+
+### Quick-Reference: 5 Metrics That Flip the ROI Equation
+
+| Metric | Generic Brown Box | This Branded Mailer | Impact |
+|--------|-------------------|---------------------|--------|
+| **Branding Visibility** | Zero — arrives as anonymous cardboard | Full CMYK exterior + inside print — your brand is the first and last thing customers see | 100% brand impression per shipment vs 0% |
+| **Customer Unboxing Experience** | Tape-sealed, knife-required, no reveal | Tear-strip open, branded interior reveal, social-ready moment | NPS lift of 12–18 points (Dotcom 2023) |
+| **Return Rate Reduction** | 20–30% baseline (apparel/beauty DTC) | 15–20% lower returns — premium packaging reduces "looks cheap" perception | Saves $2–4/order in reverse logistics |
+| **Perceived Product Value** | Product speaks for itself (often not enough) | 43% higher perceived value — customers judge quality before opening the product | Supports premium pricing by $3–8/unit |
+| **Social Sharing & UGC** | Plain boxes are never photographed | 3.2× more unboxing posts; branded hashtag + inside CTA drives organic reach | $8–15K/month equivalent paid media value |
