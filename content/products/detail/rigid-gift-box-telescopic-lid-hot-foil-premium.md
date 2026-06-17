@@ -126,7 +126,7 @@ Contact: qo82@icloud.com | +86-18934352881 | No.6-7 Shunyuan North Rd, Wusha, Da
 | Scenario | Why Telescopic Wins | Recommended Spec |
 |---|---|---|
 | **Product launch event with press/media** | Sliding reveal creates a "video moment" — 3× more likely to be filmed vs instant lift-off | 80mm reveal depth + LED accent lighting option |
-| **Retail shelf competition (Sephora, Harrods)** | Extra height from telescopic architecture creates billboard effect — 40% more visible at eye level | Full-height foil + soft-touch matte lamination |
+| **Retail shelf competition (premium beauty & department stores)** | Extra height from telescopic architecture creates billboard effect — 40% more visible at eye level | Full-height foil + soft-touch matte lamination |
 | **Repeat-purchase luxury (skincare refills)** | Customer keeps the box as storage — telescopic slides smoothly after 500+ cycles | N52 magnets + ribbon pull-tab for daily use |
 | **Corporate gift to C-suite recipients** | Weighted 2.5mm greyboard + silent magnetic slide communicates institutional gravitas | Embossed logo + piano gloss lacquer exterior |
 
