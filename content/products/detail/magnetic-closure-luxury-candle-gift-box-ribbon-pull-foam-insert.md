@@ -137,3 +137,13 @@ The satin ribbon pull is a small detail with outsized impact on the unboxing exp
 Guangdong Bincai Color Printing Co., Ltd. brings 22 years of rigid box manufacturing expertise to every magnetic closure candle box. Unlike general packaging suppliers, Bincai operates an integrated production line under one roof — printing (KBA 1050 + Heidelberg 7+1 UV), die-cutting, foil stamping (Bobst), magnet installation, foam cutting (CNC), and assembly — eliminating the quality gaps and delays of multi-vendor supply chains. Our Foshan facility's 350+ skilled workers produce over 220,000 rigid boxes daily, and our ISO 9001 quality system tracks every batch from raw board to final inspection.
 
 **Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
+
+---
+
+## Get Your Candle Box Sample with Free Ribbon Pull & Foam Insert
+
+**Send us your candle dimensions and brand colors for a free luxury magnetic-closure sample with satin ribbon pull and CNC-cut foam insert in 10 working days.** Free flat-ship analysis and structural optimization included — our 350+ skilled workers on KBA 1050 and Heidelberg 7+1 UV produce 220,000+ rigid boxes daily, each with the same ribbon-pull refinement that makes unboxing cinematic.
+
+[→ Get your free candle box sample](/contact/)  or  📧 qo82@icloud.com | 📱 +86-18934352881
+
+**Bincai: 22 years, ISO 9001:2015 & FSC certified, 18,000 sqm factory, Diamond Member on Made-in-China.com — 987 products, verified on-site audit.**

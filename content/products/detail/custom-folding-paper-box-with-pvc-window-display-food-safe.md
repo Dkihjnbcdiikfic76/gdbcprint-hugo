@@ -147,3 +147,13 @@ A: MOQ is 500 units for standard window cartons. For new product testing, we off
 
 **Q: Are the inks truly food-safe? What certifications do you have?**
 A: Yes. All inks used on food-contact cartons are low-migration soy-based inks certified to EN 71-3 (heavy metal migration) and EU 1935/2004 (food contact materials). We provide a Certificate of Compliance with every food packaging order. FDA 21 CFR indirect food additive compliance is available on request for US-market products.
+
+---
+
+## Send Your Product Specs — Free Food-Safe Window Carton Sample
+
+**Send us your product dimensions, window shape preference, and board choice for a free food-safe folding carton sample with precision die-cut window in 5-7 working days.** Complete compliance documentation package included — our low-migration soy-based inks meet EU 1935/2004, EN 71-3, and FDA 21 CFR, produced on KBA Rapida 105 at 15,000 sheets/hour with ±0.5mm window placement tolerance and Bobst SP 102-E autoplaten die-cutting.
+
+[→ Get your free food-safe carton sample](/contact/)  or  📧 qo82@icloud.com | 📱 +86-18934352881
+
+**Bincai: 22 years, ISO 9001:2015 & FSC certified, 18,000 sqm factory, Diamond Member on Made-in-China.com — 987 products, verified on-site audit.**

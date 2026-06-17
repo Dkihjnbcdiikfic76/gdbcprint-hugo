@@ -109,3 +109,13 @@ A: Yes. We offer flexographic printing (1–3 colors) directly on kraft or white
 
 **Q: What customization options are available for export pallet boxes?**
 A: Full customization includes: size (custom H×W×D), flute grade (AAA/AA/A), hand holes with reinforcement, fork-lift entry, pallet integration (attached base or separate), tear-strip opening, moisture barrier coating, anti-static treatment for electronics, and RFID tag pockets for supply chain tracking.
+
+---
+
+## Send Your Part Specs for a Free ISTA Drop Test Report
+
+**Send us your part dimensions and weight for a same-day structural CAD design, free ISTA 3A transit test report, and pre-production tri-wall sample in 5-7 working days.** Built on our BHS 2.5m corrugator with AAA flute combination supporting 1,500+ kg stacking — the same line that ships to 60+ countries with 22 years of export packaging expertise.
+
+[→ Get your free ISTA test report](/contact/)  or  📧 qo82@icloud.com | 📱 +86-18934352881
+
+**Bincai: 22 years, ISO 9001:2015 & FSC certified, 18,000 sqm factory, Diamond Member on Made-in-China.com — 987 products, verified on-site audit.**

@@ -88,3 +88,13 @@ Folding carton auto-bottom tea sachet box with compostable PLA window and gold f
 **Is this carton food-safe?** Yes. We use food-grade inks, water-based adhesives, and a grease-resistant interior coating suitable for direct dry food contact.
 
 **Can I get a sample before bulk production?** Absolutely. Free pre-production samples with digital proof in 5-7 days. Express shipping at customer's cost.
+
+---
+
+## Get Your Compostable Tea Sachet Box Sample — Free with Compliance Docs
+
+**Send us your sachet count and pouch dimensions for a free folding carton sample with compostable PLA window, auto-lock bottom, and gold foil branding in 5-7 working days.** Free EN 13432 compostability certificate, FSC chain-of-custody documentation, and EU REACH/FDA 21 CFR compliance package included — produced on KBA 1050 with soy-based inks and water-based adhesives, the same line trusted by international tea brands requiring full regulatory traceability.
+
+[→ Get your free compostable carton sample](/contact/)  or  📧 qo82@icloud.com | 📱 +86-18934352881
+
+**Bincai: 22 years, ISO 9001:2015 & FSC certified, 18,000 sqm factory, Diamond Member on Made-in-China.com — 987 products, verified on-site audit.**

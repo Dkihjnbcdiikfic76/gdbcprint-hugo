@@ -78,3 +78,13 @@ A: We offer satin (smooth, slight sheen), velvet (soft, plush, matte), flocked p
 
 **Q: Can these boxes be used for non-Christmas gifting by changing the design?**
 A: Absolutely. While this listing showcases the snowflake-themed holiday design, the same rigid box construction is available year-round with any foil pattern, color scheme, or branding. Replace the snowflake with a floral pattern for spring, a geometric design for corporate gifting, a wedding monogram for bridal favors, or a company logo for year-round client appreciation — the box structure, quality, and production process remain identical.
+
+---
+
+## Reserve Your Q4 Holiday Packaging Slot — Free Gold Foil Sample
+
+**Send us your product dimensions and seasonal design brief for a free luxury rigid box sample with your choice of gold, silver, or copper hot foil pattern in 7 working days.** Q4 production slots fill by August — our dedicated rigid box line with Heidelberg 7+1 UV and Bobst foil stamping produces 220,000+ gift boxes daily for holiday fulfillment worldwide, with in-house die creation in 3-5 days at no setup cost on orders over 3,000 units.
+
+[→ Reserve your Q4 production slot](/contact/)  or  📧 qo82@icloud.com | 📱 +86-18934352881
+
+**Bincai: 22 years, ISO 9001:2015 & FSC certified, 18,000 sqm factory, Diamond Member on Made-in-China.com — 987 products, verified on-site audit.**
