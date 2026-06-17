@@ -141,3 +141,8 @@ With 22 years of folding carton manufacturing in Guangdong, Bincai operates one 
 | **MOQ** | 1,000 units | 2,000–5,000 units |
 | **Sample Lead Time** | 5–10 days (free) | 10–15 days (charged) |
 | **Surface Finish Range** | Soft-touch, gloss, matte, spot UV, aqueous, emboss | 2–3 options |
+
+## Related Resources
+
+- **[Rigid Box vs Folding Carton: Choosing the Right Packaging for Your Product](/blog/rigid-box-vs-folding-carton-bincai-packaging-guide/)** — Side-by-side comparison of rigid boxes vs folding cartons: cost structure, structural protection, unboxing perception, minimum order quantities, and when to choose each format for cosmetics, electronics, and luxury goods.
+- **[Browse All Folding Cartons](/categories/folding-cartons/)** — Explore our complete folding carton catalog: straight-tuck, reverse-tuck, auto-lock bottom, and custom structural designs for cosmetics, food, electronics, and pharmaceutical packaging.

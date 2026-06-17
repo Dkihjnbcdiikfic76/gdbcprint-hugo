@@ -106,3 +106,8 @@ Recyclable brown kraft paper rigid gift box with magnetic closure — designed b
 | Adhesive | Solvent-based hot melt (non-recyclable residue) | Water-based PVA emulsion — fully repulpable |
 | Certifications | Varies; often none | FSC CoC, ISO 9001, ASTM D6400 compostable option |
 | Brand perception | Generic luxury | Authentic eco-luxury — appeals to 73% of consumers who prefer sustainable packaging |
+
+## Related Resources
+
+- **[Sustainable Paper Box Packaging: How Bincai Delivers Eco-Friendly Manufacturing at Industrial Scale](/blog/sustainable-paper-box-packaging-bincai-eco-manufacturing/)** — Inside Bincai's sustainability infrastructure: FSC chain-of-custody, soy-based inks, water-based adhesives, 1.2MW rooftop solar, 95%+ trim recovery, and how every box is designed for end-of-life circularity without sacrificing luxury quality.
+- **[Browse All Kraft & Eco Boxes](/categories/kraft-eco-boxes/)** — Explore our full eco-friendly packaging catalog: recyclable kraft magnetic boxes, FSC-certified folding cartons, compostable options, and zero-plastic packaging for sustainable fashion, organic skincare, artisanal food, and corporate eco-gifting.

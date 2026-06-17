@@ -117,3 +117,8 @@ A: Design and sampling: 5-10 working days. Production: 15-20 working days (stand
 **Q: Can you match my brand's Pantone colors exactly?**
 
 A: Yes. Our Heidelberg 7+1 UV press calibrates to ΔE ≤ 2.0 versus your Pantone reference. We maintain a spectral library of past client colors. G7 Master Color certified for consistent reproduction run-to-run.
+
+## Related Resources
+
+- **[The Anatomy of a Luxury Rigid Box: How Bincai Engineers Premium Packaging from Greyboard to Gold Foil](/blog/luxury-rigid-box-engineering-anatomy-bincai/)** — Deep-dive into rigid box construction: greyboard thickness, corner-wrapping techniques, magnetic closure engineering, and how 22 years of craft delivers luxury unboxing experiences at 220,000+ boxes daily.
+- **[Browse All Rigid Gift Boxes](/categories/rigid-gift-boxes/)** — Explore our full rigid gift box catalog: magnetic closure boxes, drawer-slide styles, book-style hinged lids, watch & jewelry cases, and custom shape solutions across cosmetics, fragrance, electronics, and gifting industries.
