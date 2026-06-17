@@ -1,9 +1,9 @@
 {
-  "day": 7,
-  "task": 6,
-  "rotation": 12,
-  "next": "Day 7 Run 13, Task #1 CTA OPTIMIZATION",
-  "started": "2026-06-16T00:00:00Z",
+  "day": 3,
+  "task": 1,
+  "rotation": 49,
+  "next": "Day 3 Run 50, Task #2 CUSTOMER CASES",
+  "started": "2026-06-17T00:00:00+08:00",
   "cycle": "deep-dive",
   "tasks": {
     "1": "CTA OPTIMIZATION",
