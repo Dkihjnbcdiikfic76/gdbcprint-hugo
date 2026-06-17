@@ -93,6 +93,11 @@ Food service packaging is at a regulatory tipping point. The EU Single-Use Plast
 
 **The Regulatory Arbitrage**: An EU food service chain using 500,000 sandwich boxes annually saves EUR 20,000-30,000 in plastic packaging taxes just by switching from PE-coated paper to fully compostable packaging. The per-unit premium of ¥0.20-0.60 is offset 3-5× by tax savings alone — before accounting for the marketing value of being "the restaurant that composts."
 
+## Related Resources
+
+- **[Food-Grade Paper Box Packaging: Bincai Standards for Safety & Compliance →](/blog/food-grade-paper-box-packaging-bincai-standards/)** — Covers FDA 176.170, EU 1935/2004, and EN 13432 compostability requirements that govern food-contact paper packaging. Learn how Bincai's dedicated food-safe production line ensures compliance across every material, ink, and adhesive.
+- **[Explore All Kraft Eco Boxes →](/categories/kraft-eco-boxes/)** — Browse our full range of sustainable kraft packaging: compostable food boxes, FSC-certified gift boxes, soy-ink printed mailers, and plastic-free retail packaging.
+
 ## Why Choose Bincai
 
 Bincai leads the transition to sustainable food packaging with a dedicated eco-friendly production line in our 18,000 sqm facility. FSC chain-of-custody certification ensures responsible fiber sourcing from forest to finished box, while our EN 13432 compostable certification provides verified end-of-life claims — not just marketing. For food service brands, QSR chains, and corporate cafeterias looking to eliminate single-use plastics without sacrificing functionality, Bincai's kraft PLA window box delivers the complete solution.

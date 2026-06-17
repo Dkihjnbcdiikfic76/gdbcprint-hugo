@@ -74,6 +74,11 @@ The 1-2-3 collapsible mechanism is not just a convenience feature — it's a log
 - **Lower warehousing footprint** — 1,000 flat boxes occupy the same space as ~300 pre-assembled units
 - **Reduced damage in transit** — flat boards resist crushing better than assembled box voids
 
+## Related Resources
+
+- **[Luxury Rigid Box Engineering: The Anatomy of a Premium Gift Box →](/blog/luxury-rigid-box-engineering-anatomy-bincai/)** — A deep technical dive into greyboard core construction, magnetic closure mechanisms, and the 1-2-3 collapsible base technology that powers Bincai's premium rigid boxes. Essential reading for packaging engineers evaluating structural integrity and flat-shipping economics.
+- **[Explore All Rigid Gift Boxes →](/categories/rigid-gift-boxes/)** — Browse our full range of rigid gift boxes: magnetic closure, telescopic lid, book-style, drawer-type, and 1-2-3 collapsible designs for every premium packaging application.
+
 ## Why Bincai?
 
 Bincai's patented 1-2-3 collapsible rigid box technology is backed by **22 years** of precision paper box engineering. Our in-house die-making workshop produces custom dies within 24 hours, and rapid prototyping delivers physical samples in 48 hours for customer approval. With **1.7 million boxes daily output** and ISO 9001:2015 quality systems, we deliver luxury packaging at industrial scale — no compromise on quality, no premium on quantity.
