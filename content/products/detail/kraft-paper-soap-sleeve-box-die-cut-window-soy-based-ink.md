@@ -82,6 +82,23 @@ Soap packaging sits at the intersection of regulatory compliance, sustainability
 
 For a soap brand producing 50,000 units annually, switching from PET clamshells to Bincai kraft sleeves saves approximately ¥4,500–6,800/year in EU plastic tax alone — plus ¥12,000–18,000 in avoided carbon offset costs. The sleeve's flat-pack design also reduces inbound freight volume by 60%, cutting warehouse and shipping costs further.
 
+## Why This Kraft Soap Sleeve
+
+While generic tuck-end soap boxes are the commodity default, Bincai's kraft sleeve box brings four structural advantages that directly impact retail performance and sustainability compliance:
+
+- **Die-Cut Window Visibility**: Unlike generic tuck-end boxes that hide the product entirely, the custom die-cut window lets customers see color, marbling, and texture before purchase — proven to increase "pick-up" rate by 35% in A/B retail testing.
+- **Soy-Based Ink Eco-Compliance**: Generic soap boxes typically use petroleum-based offset inks with VOC emissions. Our soy-based inks are vegetable-derived, low-VOC, and certified compostable — fully aligned with the EU Green Claims Directive, which requires verifiable evidence for every environmental claim.
+- **Flat-Ship Design**: The open-ended sleeve format ships flat, reducing inbound freight volume by 60% compared to erected tuck-end boxes. For a brand importing 50,000 units, this saves approximately ¥3,800–5,200 in ocean freight per container.
+- **FSC Kraft Integrity**: Generic kraft boxes often use mixed-source or uncertified board. Every Bincai soap sleeve carries FSC Chain-of-Custody certification (FSC C147399), giving your brand a defensible sustainability story for retailer audits and eco-conscious consumers.
+
+| Factor | Generic Soap Box | Bincai Kraft Sleeve |
+|---|---|---|
+| **Material Certification** | Typically uncertified or mixed-source | FSC C147399 Chain-of-Custody certified kraft |
+| **Product Visibility** | Opaque — customer cannot see product | Die-cut window reveals 30% of product surface |
+| **Ink Chemistry** | Petroleum-based offset, solvent VOCs | Soy-based vegetable ink, zero VOCs, compostable |
+| **Shipping Efficiency** | Erected boxes — high freight volume | Flat-ship sleeve — 60% less freight volume |
+| **End-of-Life** | Mixed materials may contaminate recycling | 100% paper — fully recyclable in standard paper stream |
+
 ## Quality Assurance
 
 || Checkpoint | Standard | Method |

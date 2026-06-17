@@ -67,6 +67,21 @@ Professional 6-bottle wine shipper box engineered for direct-to-consumer (DTC) w
 - Container loading: ~8,000-12,000 units per 40'HC (flat-packed)
 - DDP door-to-door available
 
+## Why This Wine Shipper — Protection Comparison
+
+- **Double-Wall Corrugated for Crush Resistance:** BC-flute construction (6.0–6.5mm combined caliper) with ECT-44 rating (44 lb/in edge crush) and 275 psi burst strength — engineered to survive multi-hub parcel carrier sorting and stacking.
+- **Molded Pulp Insert for Bottle Isolation:** Each of the 6 bottles sits in its own molded pulp cradle (3mm wall thickness, 100% recycled fiber), eliminating glass-to-glass contact and absorbing transit vibration that causes label scuffing.
+- **6-Bottle Configuration:** Optimized for standard wine case quantities — fits all standard Bordeaux, Burgundy, and Champagne bottle shapes (up to 340×240×320mm internal). Single-bottle through 12-bottle configurations available on the same production line.
+- **ISTA-Certified Drop Protection:** Validated to ISTA 6-FedEx-A protocol for single-parcel wine shipment — reduces damage claims, carrier chargebacks, and customer disappointment from broken bottles.
+
+| Protection Factor | Standard Single-Wall | Bincai Double-Wall Shipper |
+|---|---|---|
+| **Edge Crush (ECT)** | 23–32 lbs/in (B-flute only) | 44 lbs/in (BC double-wall) |
+| **Burst Strength** | 125–200 psi | 275 psi |
+| **Caliper / Rigidity** | 2.5mm (B-flute) | 6.0–6.5mm (BC-flute combined) |
+| **Bottle Isolation** | Corrugated dividers (cardboard-to-glass contact) | Molded pulp cradles (3mm cushion, individual compartments) |
+| **Drop-Test Certification** | Typically untested | ISTA 6-FedEx-A certified for single-parcel shipment |
+
 ## Sustainability
 
 | Aspect | Bincai Practice |

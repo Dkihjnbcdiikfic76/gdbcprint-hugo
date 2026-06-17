@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Rigid Gift Boxes](/images/rigid-gift-boxes.jpg)
+![Bincai Rigid Gift Boxes](/images/cat-rigid-others.jpg)
 
 Two-drawer velvet watch collector box with tempered glass display lid and LED lighting — manufactured by Guangdong Bincai Color Printing Co., Ltd., drawing on 22 years of luxury packaging expertise (founded 2003). The premium two-drawer design features a top display compartment behind 4mm tempered glass (EN 12150-1 safety certified) with warm-white LED strip lighting, and two smooth-gliding lower drawers housing adjustable watch cushions. Secured by N52 neodymium magnets with a satisfying snap-shut feel. Daily output of 1.7M boxes from our 18,000 sqm dual-factory (10,000+8,000 sqm smart factory, 2025 expansion) in Foshan, Pearl River Delta, with KBA Rapida 105 + Heidelberg CD 102 7+1 UV presses and Bobst SP 102 BMA/E die-cutting.
 
@@ -80,6 +80,21 @@ Two-drawer velvet watch collector box with tempered glass display lid and LED li
 | Energy | 480 kWp rooftop solar array, LED-UV curing (70% savings) |
 | Waste | 94% recovery rate, closed-loop recycling |
 | Packaging | Flat-packed for 60%+ shipping volume reduction |
+
+## Why This Watch Collector Box
+
+- **Two-Drawer Design**: Top glass-display compartment plus two smooth-gliding lower drawers with adjustable cushions — organizes 8–12 watches in a single elegant case, whereas standard single-level boxes max out at 4–6 timepieces with no display functionality.
+- **Velvet Interior**: 1.0–1.5mm electrostatic velvet flocking applied by 6-axis robotic applicator — uniform nap, no shedding, and anti-tarnish treated to protect delicate watch finishes. Standard boxes use thin, hand-applied flocking that pills and transfers fibers onto your collection.
+- **Glass Display Lid**: 4mm tempered soda-lime glass (EN 12150-1 safety certified) with optional UV-filter that blocks 99% UV-A/B — protects dials from fading while letting you admire your collection without opening the box. Generic boxes use thin untempered glass or acrylic that scratches easily.
+- **LED Lighting**: Warm-white (3000K) or cool-white (6000K) LED strip with auto-on triggered by lid opening, powered by USB-C rechargeable 5,000mAh battery — transforms storage into gallery lighting. Standard boxes offer no integrated lighting.
+
+| Factor | Standard Watch Box | Bincai Collector Box |
+|---|---|---|
+| Capacity | 4–6 watches, single-level | 8–12 watches, two-drawer + glass display top |
+| Display | No display; must open to view | Tempered glass lid + LED lighting for gallery presentation |
+| Drawer Slides | Paper-on-paper rails, bind over time | Ball-bearing slides, ≤2N pull force, 5,000+ cycle tested |
+| Interior | Thin flocking, pills and transfers fibers | 1.0–1.5mm robotic-applied velvet, anti-tarnish, zero shedding |
+| Glass Quality | Untempered glass or acrylic, scratches | 4mm EN 12150-1 tempered, UV-filter option (99% UV-A/B block) |
 
 ## Why Choose Bincai for Luxury Rigid Boxes
 

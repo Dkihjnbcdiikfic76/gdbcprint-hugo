@@ -64,6 +64,18 @@ With **22 years of packaging expertise since 2003**, our facility produces **1.7
 | **Certifications** | ISO 9001:2015 quality management; FSC Chain-of-Custody |
 | **Daily Output** | 500,000+ corrugated mailers daily; 7-day standard lead time |
 
+## When Tuck-Top E-Commerce Mailers Win — Scenario Guide
+
+| Your E-Commerce Situation | Why This Format | Key Benefit |
+|---|---|---|
+| **DTC apparel brand shipping 500+ orders/day** | Self-locking tuck-top eliminates tape — no taping station, no tape cost, no tape jams | 40% faster pack-out vs RSC boxes |
+| **Subscription box with monthly unboxing moment** | Perforated tear strip delivers clean, frustration-free opening — no box cutters, no torn packaging | Premium unboxing experience; tear force 3–8 N |
+| **Flat-pack inventory with limited warehouse space** | Ships knocked-down flat; 10× space savings vs assembled boxes | Lower inbound freight and storage footprint |
+| **Lightweight products (< 2 kg) needing crush protection** | E-flute construction (ECT ≥ 24 lbs/in, burst ≥ 125 PSI) balances protection with minimal weight | ISTA 1A drop-tested from 760mm; contents undamaged |
+| **Mid-weight products (2–5 kg) like shoes or bundled sets** | B-flute construction (ECT ≥ 32 lbs/in, burst ≥ 200 PSI) provides structural rigidity | Higher stacking strength; 48h under 15 kg top load with < 2mm deflection |
+| **Heavy shipments (5–15 kg) or fragile electronics** | EB double-wall option (3.8mm caliper) available via same production line | Maximum crush resistance with same tuck-top + tear strip convenience |
+| **Brand that wants shipping box to double as marketing** | CMYK offset litho at 175 LPI on white-top liner — photographic-quality brand printing | Ship-to-consumer box becomes brand billboard |
+
 ## Quality Assurance
 
 | Test | Standard | Specification |

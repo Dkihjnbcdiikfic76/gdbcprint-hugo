@@ -12,7 +12,7 @@ params:
   certification: "ISO 9001, FSC"
 ---
 
-![Bincai Rigid Gift Boxes](/images/rigid-gift-boxes.jpg)
+![Bincai Rigid Gift Boxes](/images/cat-rigid-others.jpg)
 
 ## Description
 
@@ -147,6 +147,21 @@ Luxury candle packaging demands more than just a box — it must protect fragile
 - **Window Expertise** — die-cut PET/PLA windows with optical clarity ≥90% let customers see (and anticipate) the candle inside
 
 **Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | 220,000+ gift boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
+
+## Why This Rigid Candle Box — USP + Format Selector
+
+- **Custom Foam Insert for Candle Protection**: Precision CNC die-cut EVA/PU foam cradles your candle jar to ±0.5mm tolerance — zero-force insertion, zero lateral movement during transit. Drop-tested (ISTA 1A) with weighted glass-jar simulators to validate real-world shipping survival.
+- **Magnetic Closure for Premium Unboxing**: Hidden N35 neodymium magnets deliver a tactile snap-close experience that elevates the customer's first touch — the sensory cue luxury candle brands need to justify premium pricing.
+- **Rigid Board Durability**: 800–1600gsm greyboard construction with 2.0–2.5mm wall thickness protects fragile glass candle jars through global logistics — far superior to folding cartons that crush under stacked freight.
+- **FSC Materials Throughout**: FSC Chain-of-Custody certified greyboard and art paper, soy-based inks, water-based low-odor adhesives — ensures your sustainability claims are substantiated and your candle's scent profile isn't compromised by packaging off-gassing.
+
+| Your Candle Type | Recommended Format | Why |
+|---|---|---|
+| Single luxury scented candle (200–500g) | Two-piece rigid box + single-cavity EVA foam insert | Glass-to-glass contact eliminated; magnetic closure signals premium at shelf |
+| Candle gift set (3–6 items) | Rigid box + multi-compartment foam tray | Organizes jars, diffusers, and accessories in one gift-ready presentation |
+| Travel / mini candle collection | Compact rigid slipcase + die-cut foam cradle | Space-efficient protection for 50–150g travel tins; fits retail counter displays |
+| Eco / plant-based candle brand | Rigid box + moulded pulp insert (compostable) | Fully plastic-free; FSC board + PLA bio-window reinforces eco brand positioning |
+| Seasonal / holiday limited edition | Rigid box + foil-stamped lid + die-cut PET window | Window lets customers preview the candle while sealed; gold/rose gold foil adds gift appeal |
 
 ## Sustainability & Compliance
 

@@ -141,6 +141,15 @@ A: The tri-fold design (3 panels) provides more real estate — typically a cove
 | **E-commerce DTC gift card with unboxing moment** | **Tri-Fold Magnetic Wallet Box** | Soft-touch matte lamination photographs well; magnetic closure survives shipping (ISTA 1A, 760mm drop); envelope arrives bent in 12% of shipments |
 | **Influencer PR kit with QR/NFC activation** | **Tri-Fold Magnetic Wallet Box with NFC tag** | Interior panel accommodates QR code printing; NFC tag (NTAG213, 13.56 MHz) embeds invisibly between board layers — rigid box offers same capability but at 2–3× the cost |
 
+### Format Comparison at a Glance
+
+| Format | Perceived Luxury | Cost/Unit | Gift Card Fit |
+|---|---|---|---|
+| **Tri-Fold Magnetic** | ★★★★★ | $0.80–2.50 | ★★★★★ — card slot, brand panel, unboxing moment |
+| **Sleeve / Envelope** | ★★☆☆☆ | $0.08–0.30 | ★★★☆☆ — fits card, no storytelling, arrives bent 12% of the time |
+| **Rigid Lift-Off Box** | ★★★★★ | $2.50–8.00 | ★★★★☆ — ultimate luxury but 2–3× cost for same function; overkill below $100 gift value |
+| **Bi-Fold Magnetic** | ★★★★☆ | $0.60–1.80 | ★★★★☆ — compact alternative; best when card carries all branding |
+
 **Decision rule:** Choose tri-fold magnetic when the packaging must tell a story beyond the card itself, the recipient should perceive the gift as premium, or the format must survive e-commerce shipping intact. Below $25 gift value or above 10K units on tight margins, envelopes or simple bi-folds deliver better ROI.
 
 ## Why Choose Bincai
