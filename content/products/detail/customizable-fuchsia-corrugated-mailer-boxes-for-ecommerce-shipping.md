@@ -138,3 +138,11 @@ Bincai Color Printing brings 22 years of corrugated packaging expertise to every
 - Flute capabilities: B, C, E, F, BC double-wall, EB double-wall
 - Certifications: ISO 9001:2015, FSC, ISTA testing lab
 - MOQ: 500 pcs per design
+
+---
+
+## Get Your Free ISTA 3A Mailer Test Report — Same-Day Analysis
+
+**Send us your product dimensions and target DIM weight — get a free ISTA 3A drop test report + structural prototype in 5-7 working days.** Our BHS 2.5m corrugator and 22 years of shipping-box engineering mean every mailer design is optimized for crush protection at the lowest possible dimensional weight. Free flat-ship analysis included — see how much you save on freight before you order.
+
+**[→ Contact us](/contact/)  |  📧 qo82@icloud.com  |  📱 +86-18934352881**

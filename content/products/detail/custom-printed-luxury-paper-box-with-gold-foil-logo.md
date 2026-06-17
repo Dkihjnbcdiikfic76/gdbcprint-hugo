@@ -93,3 +93,11 @@ This custom printed luxury rigid box elevates your brand with precision gold foi
 - Daily capacity: 1.7 million color boxes + 220,000+ rigid luxury gift boxes
 - ISO 9001:2015, FSC Chain-of-Custody, High-Tech Enterprise certified
 - Free pre-production samples with full finishing in 5–7 working days
+
+---
+
+## Get Your Custom Gold Foil Sample — Free in 5-7 Days
+
+**Send us your logo and dimensions — free digital proof in 24 hours, foil-stamped rigid box sample in 5-7 working days.** Our Bobst SP 102 BMA delivers ±0.15mm multi-level foil registration, and 22 years of luxury rigid box manufacturing means your sample matches production quality exactly. Choose from gold, rose gold, silver, holographic, or copper foil.
+
+**[→ Contact us](/contact/)  |  📧 qo82@icloud.com  |  📱 +86-18934352881**

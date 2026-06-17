@@ -92,3 +92,11 @@ Our ISO 9001:2015 QMS ensures the 500th box is identical to the first. FSC-C1473
 ## Why Choose Bincai
 
 Bincai's presentation kit boxes are used by Fortune 500 companies for investor roadshows and by boutique consultancies for client deliverables. We understand that a presentation kit is an extension of your brand — the weight of the greyboard, the snap of the N52 magnetic closure, the precision of the foam insert, the flawless ±0.15mm foil registration on the Bobst SP 102 BMA — all communicate uncompromising attention to detail before the recipient reads a single word. With 22 years of rigid box manufacturing in Guangdong, in-house structural design, and four flagship machines under one roof (KBA Rapida 105, Heidelberg CD 102 7+1 UV, Bobst Visioncut 106 LER, Bobst Expertfold 110 A2), Bincai delivers presentation packaging that makes your work look as important as it is.
+
+---
+
+## Send Your Document Specs — Free Die-Cut Foam Insert Sample
+
+**Email us your brochure dimensions and pen diameter — get a free die-cut EVA foam insert sample with your logo in 5-7 working days.** Our Bobst Visioncut 106 LER delivers ±0.2mm precision foam cavities, and our 22 years of rigid box manufacturing combined with ISO 9001:2015, FSC-C147399, Sedex SMETA, and BSCI certification means your investor roadshow or client pitch kit arrives with Fortune 500 quality — every time.
+
+**[→ Contact us](/contact/)  |  📧 qo82@icloud.com  |  📱 +86-18934352881**

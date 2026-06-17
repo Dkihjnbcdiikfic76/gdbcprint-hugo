@@ -127,3 +127,11 @@ A: Standard lead time is 10-15 working days from artwork approval, with expedite
 ---
 
 **Explore more:** Browse our full range of [jewelry packaging boxes](/categories/jewelry-boxes/). For a deeper look at our manufacturing heritage, read [22 years of paper box manufacturing at Bincai](/blog/22-years-paper-box-manufacturing-bincai/).
+
+---
+
+## Send Us Your Bracelet Specs — Free Precision Foam Insert Sample
+
+**Ship us your bracelet dimensions — get a free CNC-cut EVA foam insert sample with your logo in 5-7 working days.** Our Bobst SP 102 BMA die-cuts foam cavities to ±0.3mm tolerance, and with 220,000+ rigid boxes produced daily, we've engineered precision inserts for 200+ jewelry brands across 60+ countries since 2003. Choose velvet flocking, satin lining, or sculpted foam — we'll match your exact product geometry.
+
+**[→ Contact us](/contact/)  |  📧 qo82@icloud.com  |  📱 +86-18934352881**

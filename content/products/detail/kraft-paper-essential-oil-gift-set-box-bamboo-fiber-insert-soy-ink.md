@@ -154,3 +154,11 @@ Every eco-box is produced in our **18,000 sqm ISO 9001 & FSC-certified facility*
 **Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 (soy ink) + Heidelberg CD 102 7+1 UV | ISO 9001:2015, FSC CoC, EN 13432, ASTM D6400 | Foshan, Guangdong, China
 
 **Shipping & Logistics:** Eco boxes ship flat with separate tray inserts to maximize container utilization (70%+ volume reduction). Standard sea freight 18–25 days to US/EU ports (FOB Yantian/Shenzhen). Air freight 5–7 days for urgent orders. All packaging materials are plastic-free — cartons use paper tape and kraft void fill. MOQ 500 units; lead time 12–16 days new tooling, 8–10 days repeat.
+
+---
+
+## Get Your Compostable Sample + Full Certification Package — Free
+
+**Send us your bottle specs — receive a fully compostable sample with your logo and complete certification documentation (FSC, EN 13432, ASTM D6400, ASTM D6868) in 7 working days.** With 22 years of sustainable packaging expertise and our integrated bamboo fiber thermoforming line, every eco-box is laboratory-verified to ASTM D5338 for ≥90% biodegradation in 180 days. No greenwashing — just verified compostability that clean beauty and wellness brands can trust.
+
+**[→ Contact us](/contact/)  |  📧 qo82@icloud.com  |  📱 +86-18934352881**
