@@ -104,3 +104,11 @@ A: Our N52 neodymium magnets are fully encapsulated within the greyboard walls �
 
 **Q: Can you do a window version to show the chocolates inside?**
 A: Yes. We can add a die-cut window on the lid with clear PET or PLA film, framed by the hexagonal shape. For maximum visual impact, we recommend an asymmetrical window that reveals 2-3 chocolates while preserving the gold foil logo area. Window adds approximately $0.20-0.40 per unit.
+
+---
+
+## Get Your Hexagonal Chocolate Box Sample — Free in 7 Days
+
+**Send us your chocolate or macaron dimensions for a free hexagonal rigid sample with N52 magnetic closure, satin ribbon in your brand color, and FDA-compliant food-grade PET inner tray — delivered in 7 working days.** Our CNC-guided die-cutting guarantees perfect 120° angles on all six sides with zero visible seams. Backed by 22 years of rigid box expertise and 220,000+ daily gift box output from our 18,000 sqm dual factory.
+
+**[→ Request your custom sample](/contact/)  or  📧 qo82@icloud.com | 📱 +86-18934352881**

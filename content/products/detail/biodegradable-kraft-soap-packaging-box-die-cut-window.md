@@ -135,4 +135,12 @@ A: Three critical differences: (1) **Material** — our window uses PLA (plant-b
 
 A: MOQ is 500 units for standard sizes using our existing tooling. For custom sizes requiring new die fabrication, MOQ is 1,000 units. Free pre-production samples (both blank and printed) are provided within 5–7 working days so you can validate the kraft appearance, window clarity, and print quality. We recommend ordering samples on both natural brown kraft and white kraft to compare aesthetics before full production.
 
+---
+
+## Get Your Compostable Soap Box Sample — Free in 7 Days
+
+**Send us your soap dimensions and brand colors for a free FSC-certified, 100% compostable sample with PLA window, soy-ink printed with your logo, in 5-7 working days.** Includes a free EN 13432 + ASTM D6400 compostability documentation package — essential for EU/US retail sustainability claims and eco-certification submissions. Our dedicated eco-production cell runs KBA 1050 offset with water-based adhesives, producing 1.7M boxes daily from FSC-C147399 certified stock.
+
+**[→ Get your free eco sample](/contact/)  or  📧 qo82@icloud.com | 📱 +86-18934352881**
+
 [View on Made-in-China.com →](https://bincaipaperbox.en.made-in-china.com/)

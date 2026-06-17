@@ -107,3 +107,11 @@ The dome lid is not merely decorative — it delivers measurable structural and 
 - **Bobst SP 102 BMA + Kolbus DA270** — die-cutting and foil stamping excellence
 - **Daily output 1.7 million boxes** — reliable delivery even in Q4 peak season
 - **Free pre-production samples** with DHL/FedEx 3-5 day global shipping
+
+---
+
+## Get Your Custom Dome-Shaped Sample — Free in 7 Days
+
+**Send us your product dimensions for a free custom dome-shaped prototype with gold foil edge banding and magnetic closure in 7 working days.** We maintain 200+ dome formers in-house — from half-sphere to elongated oval — so you get zero-tooling-delay samples. Includes a free digital rendering showing your logo and foil color on the dome within 24 hours, powered by our KBA Rapida 1050 and Kolbus DA270 production line.
+
+**[→ Get your same-day quote](/contact/)  or  📧 qo82@icloud.com | 📱 +86-18934352881**

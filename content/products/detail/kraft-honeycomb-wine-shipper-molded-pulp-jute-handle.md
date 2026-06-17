@@ -88,3 +88,11 @@ Bincai operates KBA Rapida 105 4-color offset and Heidelberg Speedmaster CD 102 
 - **Sustainability Leadership:** FSC, OK Compost HOME, and ISO 9001 triple-certified. Dedicated eco-production cell for sustainable packaging
 - **Daily Output:** 1.7 million boxes across all categories
 - **Design Support:** In-house structural team for custom honeycomb engineering, molded pulp tooling design, and unboxing experience optimization
+
+---
+
+## Ship Us Your Bottle — Free Custom Honeycomb Sample in 7 Days
+
+**Send us a sample bottle for a free custom honeycomb wine shipper prototype with precision molded-pulp insert and jute handle, delivered in 7 working days.** Our in-house structural team engineers the honeycomb cell geometry and pulp cradle to your exact bottle profile — Bordeaux, Burgundy, Alsace flute, or custom shape. Includes free OK Compost HOME (EN 13432) certification documentation to support your DTC sustainability story. 22 years of packaging expertise from our FSC-certified Foshan factory.
+
+**[→ Send your bottle for a free prototype](/contact/)  or  📧 qo82@icloud.com | 📱 +86-18934352881**

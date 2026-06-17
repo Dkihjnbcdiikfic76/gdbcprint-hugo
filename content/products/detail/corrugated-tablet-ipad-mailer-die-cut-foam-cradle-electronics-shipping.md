@@ -154,3 +154,11 @@ A: We custom-machine foam cradles for any tablet dimensions. The process: you pr
 **Q: Are the corrugated mailers recyclable after use?**
 
 A: Yes. The kraft corrugated box is 100% repulpable in standard paper recycling streams. The PE foam insert can be separated and recycled via LDPE #4 collection (where available). We also offer a fully recyclable option using molded pulp (bagasse/sugarcane fiber) inserts instead of PE foam — this makes the entire mailer single-stream recyclable. MOQ 2,000 for pulp insert options.
+
+---
+
+## Ship Your Device Specs — Free ISTA 3A Drop Test Report
+
+**Send us your tablet dimensions and weight for a free ISTA 3A-certified drop test report and CNC-cut foam cradle prototype in 5-7 working days.** Our BHS 2.5m corrugator produces double-wall ECT 44+ mailers at 1.7 million boxes daily — engineered for the exact impact profile your device faces in e-commerce fulfillment. Includes free flat-ship analysis to optimize your freight costs — typical savings 25-40% versus assembled boxes.
+
+**[→ Request your ISTA test report](/contact/)  or  📧 qo82@icloud.com | 📱 +86-18934352881**
