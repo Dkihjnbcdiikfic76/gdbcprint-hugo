@@ -113,6 +113,11 @@ A: Yes. Our 18,000 sqm dual-factory setup allows us to run multiple production l
 
 A: Yes. We offer a 3-compartment configuration: full-length tie channel, 2-position cufflink tray, and a shallow top tray for pocket squares, collar stays, or a handwritten note card. This configuration extends the box depth to approximately 50mm and adds about 10% to the unit cost.
 
+## Related Resources
+
+- **[Magnetic Closure Box Engineering: How Bincai Achieves Invisible Closure →](/blog/magnetic-closure-box-engineering-bincai/)** — Technical breakdown of neodymium magnet selection, N35 grade specifications, and the lamination-phase embedment process that delivers seamless luxury closures with zero visible magnet dimples.
+- **[Explore All Magnetic Closure Boxes →](/categories/magnetic-closure-boxes/)** — Browse our complete magnetic closure range: tie & cufflink sets, jewelry boxes, watch boxes, headphone packaging, and corporate recognition awards.
+
 ## Why Bincai?
 
 Bincai has been the packaging partner for luxury menswear brands since 2003 — our boxes have held ties and cufflinks for flagship stores on Bond Street, Ginza, and Fifth Avenue. The magnetic closure mechanism is not an aftermarket add-on; our in-house magnet-setting stations embed N35 neodymium magnets between the greyboard layers during the lamination stage, creating a seamless exterior with no visible magnet dimples. In-house die-making means your tie channel and cufflink tray fit your exact accessory dimensions — not a generic one-size-fits-all insert. When your brand's reputation rides on the unboxing moment, one integrated manufacturer with 22 years of magnetic closure expertise delivers the consistency your customers expect.
