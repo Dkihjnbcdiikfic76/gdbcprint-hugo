@@ -134,3 +134,9 @@ MOQ is 500 units for standard configurations. Multi-process orders (foil stampin
 Contact: qo82@icloud.com | +86-18934352881 | No.6-7 Shunyuan North Rd, Wusha, Daliang, Shunde, Foshan, Guangdong, China
 
 [View on Made-in-China.com →](https://bincaipaperbox.en.made-in-china.com/)
+
+## Get Your Free Double-Door Box Mockup — 24 Hours
+
+**Send us your product dimensions for a free 3D structural mockup in 24 hours and a working sample in 7 days.** We'll engineer your double-door rigid box with CNC-routed pull-out drawer, concealed piano hinges rated 20,000+ cycles, and electrostatic velvet flocking — then send you a physical prototype produced on our KBA 1050 + Heidelberg 7+1 UV line with your brand's foil stamping. Diamond Member on Made-in-China.com, 22 years of luxury rigid box manufacturing, ISO 9001 & FSC certified, 220,000+ rigid boxes daily from 18,000 sqm in Foshan.
+
+**[Start Your Mockup →](/contact/)  |  📧 qo82@icloud.com  |  📱 +86-18934352881**

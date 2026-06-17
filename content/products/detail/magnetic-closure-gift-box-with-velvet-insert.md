@@ -115,3 +115,9 @@ The magnetic closure box isn't just a box with magnets — it's a different pack
 - **Soy-Based Inks Option**: Vegetable-based offset inks — lower VOCs, renewable, heavy-metal-free
 - **REACH Compliance**: All materials verified free of Substances of Very High Concern for EU market access
 - **Flat-Ship Option**: Knock-down rigid box construction available for select styles — up to 80% transport volume reduction
+
+## Get Your Custom Magnetic Box Sample — Free
+
+**Send us your product dimensions for a free magnetic closure sample with custom velvet insert in 7 days.** We'll produce a working prototype with your choice of soft-touch or leatherette exterior, N42-N52 magnetic closure, and CNC die-cut velvet insert sized precisely to your product — all from our KBA 1050 + Heidelberg 7+1 UV press line in Foshan. 22 years of rigid box manufacturing, ISO 9001 & FSC certified, Diamond Member on Made-in-China.com, 220,000+ gift boxes daily.
+
+**[Request Your Free Sample →](/contact/)  |  📧 qo82@icloud.com  |  📱 +86-18934352881**

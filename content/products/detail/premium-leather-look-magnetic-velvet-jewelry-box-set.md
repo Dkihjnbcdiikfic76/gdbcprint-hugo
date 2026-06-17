@@ -140,3 +140,9 @@ A: Yes. Our CAD structural design team can engineer any shape — heart, hexagon
 
 **Q: Do you offer packaging for jewelry sets that include multiple piece types (necklace + earrings + bracelet)?**
 A: Absolutely — that's our specialty. We can design multi-compartment inserts where each jewelry type gets its own dedicated cavity: necklace with tie-down hooks, earrings with pre-cut slits, bracelets with cushioned groove, and rings with foam bar. We can also add a removable top tray layer for multi-tier presentation. Send us your product dimensions and we'll engineer the perfect insert layout.
+
+## Get Your Custom Jewelry Box Sample Set — Free
+
+**Send us your jewelry dimensions for a free 3-piece sample set with your logo and custom velvet color in 7 days.** We'll produce a working sample of your exact configuration — PU leather-look exterior, electrostatic velvet flocking interior, N35 magnetic closure, and gold foil logo — all on our KBA 1050 + Heidelberg 7+1 UV presses with ±0.1mm foil registration. 22 years of jewelry packaging expertise, ISO 9001 & FSC certified, 18,000 sqm dual factory in Foshan.
+
+**[Start Your Sample Order →](/contact/)  |  📧 qo82@icloud.com  |  📱 +86-18934352881**

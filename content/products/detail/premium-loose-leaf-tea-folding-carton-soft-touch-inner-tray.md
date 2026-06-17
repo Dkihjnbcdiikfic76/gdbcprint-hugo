@@ -93,3 +93,9 @@ Premium loose-leaf tea folding carton with soft-touch matte lamination, auto-loc
 | Free Samples | 3D rendering + physical prototype | Digital mockup only |
 | MOQ | 500 units | 1,000–5,000 |
 | Lead Time | 20–28 days | 35–45 days |
+
+## Get Your Custom Tea Carton Sample — Free
+
+**Send us your tea pouch dimensions for a free soft-touch sample with your logo in 5–7 days.** Every sample is produced on our KBA Rapida 105 press with the exact materials and finishes you specify — soft-touch lamination, hot foil logo, custom inner tray compartments — so you evaluate the real thing before committing. We're a Diamond Member on Made-in-China.com with 22 years of tea packaging experience, ISO 9001:2015 & FSC certified, shipping 1.7M boxes daily from our 18,000 sqm Foshan factory.
+
+**[Request Your Free Sample →](/contact/)  |  📧 qo82@icloud.com  |  📱 +86-18934352881**

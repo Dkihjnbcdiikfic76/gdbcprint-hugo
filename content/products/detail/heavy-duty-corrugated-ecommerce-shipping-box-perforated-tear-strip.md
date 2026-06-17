@@ -159,3 +159,9 @@ Standard lead time is 15–20 business days after artwork approval and deposit �
 | Trade Record | Diamond Member on Made-in-China.com, Alibaba Verified Supplier |
 | MOQ & Samples | MOQ 500 pcs, free pre-production samples in 5–7 days |
 | Clients Served | 500+ brands across 30+ countries — DTC, subscription, retail, pharma |
+
+## Send Your Product Specs — Free ISTA Drop Test Report
+
+**Send us your product weight and dimensions for a free ISTA 3A drop test report and pre-production corrugated sample in 5–7 days.** We'll run your box through our in-house ISTA-certified testing lab — ECT, burst, drop, and compression — and deliver the full report with your sample so you can validate transit protection before production. Our BHS 2.5m Corrugator runs B, E, BC, and BE flute profiles with 85%+ recycled content. 22 years, ISO 9001 & FSC, 1.7M boxes daily from 18,000 sqm in Foshan.
+
+**[Request Your Free Test Report →](/contact/)  |  📧 qo82@icloud.com  |  📱 +86-18934352881**
