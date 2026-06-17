@@ -100,6 +100,11 @@ Tea brands increasingly need packaging that reflects their commitment to sustain
 
 **Business impact**: Under the 2026 EU Green Claims Directive, any brand making sustainability claims must provide verifiable evidence. Bincai ships every kraft tea box order with a full documentation package (FSC chain-of-custody certificate, EN 13432 compostability test report, soy ink migration test). For a UK tea brand selling 5,000 samplers monthly, switching from metal tins saves 7,300 kg CO₂e annually — enough for a carbon-neutral claim on the product page.
 
+## Related Resources
+
+- **[Sustainable Paper Box Packaging: Bincai's Eco Manufacturing Process →](/blog/sustainable-paper-box-packaging-bincai-eco-manufacturing/)** — A behind-the-scenes look at how FSC-certified greyboard, soy-based inks, water-based adhesives, and solar-powered production come together in Bincai's eco packaging line — relevant for any brand transitioning to sustainable packaging.
+- **[Explore All Kraft & Eco Boxes →](/categories/kraft-eco-boxes/)** — Browse our full range of eco-friendly packaging: kraft tea boxes, bamboo tray samplers, jute-tie gift boxes, soy-ink printed cartons, and compostable window boxes.
+
 ## Why Bincai
 
 | Differentiator | Detail |

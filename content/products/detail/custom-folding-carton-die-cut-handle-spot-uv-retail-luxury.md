@@ -60,6 +60,11 @@ Premium custom folding carton with integrated die-cut carry handle and striking 
 - KBA 1050 4-color + Heidelberg 7+1 UV + Bobst die-cutting + automatic folding-gluing
 - Daily capacity: 1.7 million color boxes + 280,000+ folding cartons
 
+## Related Resources
+
+- **[Rigid Box vs. Folding Carton: Which Is Right for Your Product? →](/blog/rigid-box-vs-folding-carton-bincai-packaging-guide/)** — A detailed comparison of rigid boxes, folding cartons, and hybrid formats with cost, branding, and structural trade-offs — essential reading before deciding between rigid and folding packaging for luxury retail.
+- **[Explore All Folding Cartons →](/categories/folding-cartons/)** — Browse our full range of folding cartons: straight tuck, reverse tuck, auto-lock bottom, die-cut handle, sleeve & tray, and aircraft-style cartons.
+
 ## FAQ
 
 **Q: What's the weight capacity of the die-cut handle?**
