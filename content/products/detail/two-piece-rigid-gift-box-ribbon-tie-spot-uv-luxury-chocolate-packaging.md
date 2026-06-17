@@ -80,4 +80,11 @@ Two-piece rigid boxes demand precision in board cutting, lamination, and assembl
 
 **Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
 
-**Shipping:** Pre-assembled rigid boxes ship nested with protective interleaving to prevent surface marring. For high-volume orders, flat-shipping options with customer-side assembly can reduce freight volume by up to 60%. Standard sea freight to US/EU ports in 18–25 days; air freight available for urgent orders in 5–7 days.
+
+## Get Your Custom Chocolate Box Sample — Free
+
+**Send us your chocolate piece dimensions for a free two-piece rigid box sample with ribbon tie closure, spot UV accent, and soft-touch matte lamination in 5–7 working days.** Every sample includes food-contact safety documentation (EU 1935/2004, FDA 21 CFR, EN 71-3 heavy-metal compliance) and material swatches (satin ribbon, foil colors, board weights). Our CNC-guided die-cutting delivers ±0.3mm lid-to-base fit — the precision that makes luxury chocolate brands feel worth their premium price. 220,000+ rigid boxes daily from our 22-year, ISO 9001:2015 Foshan factory.
+
+**Bincai: 22 years, ISO 9001:2015 & FSC certified, 18,000 sqm factory, Diamond Member on Made-in-China.com — 987 products, verified on-site audit.**
+
+[→ Get your free chocolate box sample](/contact/)  |  📧 qo82@icloud.com | 📱 +86-18934352881

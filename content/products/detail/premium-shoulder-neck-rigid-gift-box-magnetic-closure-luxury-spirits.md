@@ -96,3 +96,13 @@ Every box is produced in our **10,000 sqm ISO 9001 & FSC-certified facility** wi
 - **Daily output: 1.5 million boxes** — ensuring on-time delivery for global brands
 
 We source SBS (solid bleached sulfate), CCNB (clay-coated newsback), kraft, and FBB (folding box board) from 5 qualified mills with full traceability. Every material batch undergoes 45-point incoming inspection in our climate-controlled storage (22°C / 50% RH).
+
+---
+
+## Ship Us Your Bottle — Get a Free Custom Sample in 7 Days
+
+**Send your 700ml/750ml spirits bottle to our Foshan factory for a free reverse-engineered EVA foam cradle and fully assembled shoulder-neck rigid box sample in 7 working days.** We'll precision-CNC route a 25mm EVA foam insert (45kg/m³ density) to your exact bottle profile, add N35 NdFeB magnets for snap closure, and finish with your choice of gold foil, matte lamination, and satin ribbon color. Your sample includes material swatches, print proofs, and a structural box ready for photography. Custom tooling costs (die, foil plate, embossing die) are credited against your first production order.
+
+**Bincai: 22 years, ISO 9001:2015 & FSC certified, 18,000 sqm factory, Diamond Member on Made-in-China.com — 987 products, verified on-site audit.**
+
+[→ Ship us your bottle for a free sample](/contact/)  |  📧 qo82@icloud.com | 📱 +86-18934352881

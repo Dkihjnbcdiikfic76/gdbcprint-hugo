@@ -86,4 +86,13 @@ Guangdong Bincai Color Printing produces premium custom kraft paper shopping bag
 | 🆓 Sample | Free pre-production sample, 5–7 working days |
 | 🌍 Shipping | Worldwide DHL/FedEx/UPS/Sea freight |
 
+
+## Get Your Custom Paper Bag Sample — Free
+
+**Send us your logo and bag dimensions for a free digital proof in 24 hours and a pre-production sample in 5–7 working days.** Whether you need twisted-handle kraft bags for your boutique, reinforced flat-bottom bags for grocery, or luxury rope-handle bags for cosmetics — our dedicated bag production line delivers 300,000 bags daily with soy-ink printing and FSC-certified kraft paper from our 22-year, ISO 9001:2015 factory.
+
+**Bincai: 22 years, ISO 9001:2015 & FSC certified, 18,000 sqm factory, Diamond Member on Made-in-China.com — 987 products, verified on-site audit.**
+
+[→ Get your free bag sample](/contact/)  |  📧 qo82@icloud.com | 📱 +86-18934352881
+
 [View on Made-in-China.com →](https://bincaipaperbox.en.made-in-china.com/)

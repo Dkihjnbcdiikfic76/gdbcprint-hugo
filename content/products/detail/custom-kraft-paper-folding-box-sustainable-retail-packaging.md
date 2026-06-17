@@ -134,4 +134,13 @@ A: PLA (corn-starch based) is our standard biodegradable option — crystal clea
 - **vs. White SBS folding cartons**: Uncoated kraft communicates sustainability instantly — consumer studies show 2× higher trust in organic claims on kraft vs. white-coated packaging, eliminating the need for "eco" callout stickers.
 - **vs. Rigid eco boxes**: Kraft folding cartons ship flat (80% freight volume savings vs. pre-assembled rigid), reducing both cost and carbon footprint while maintaining premium shelf appearance through foil stamping and debossing.
 
+
+## Get Your FSC-Certified Kraft Sample — Free with Compliance Documentation
+
+**Send us your product dimensions and board preference for a free FSC-certified sample with your logo in 5–7 working days, plus a complete compliance documentation package.** Every order includes FSC Chain-of-Custody (FSC-C147399), EN 13432 compostability certs, EU 1935/2004 food-contact declaration, and REACH/RoHS chemical safety reports — at no surcharge, even at MOQ 500. Choose between PLA (industrial compostable) and NatureFlex (home compostable) biodegradable windows. Soy-based ink, water-based coating, closed-loop trim recycling — true circular production at 1.7M boxes/day.
+
+**Bincai: 22 years, ISO 9001:2015 & FSC certified, 18,000 sqm factory, Diamond Member on Made-in-China.com — 987 products, verified on-site audit.**
+
+[→ Request your free compliance package](/contact/)  |  📧 qo82@icloud.com | 📱 +86-18934352881
+
 **Category Comparison:** Among kraft-eco-boxes, this product is the only FSC-certified, soy-ink, closed-loop-waste kraft folding carton available at MOQ 500 with dual biodegradable window options (PLA + NatureFlex™) — built on KBA Rapida 105 + Heidelberg Speedmaster CD 102 7+1 UV presses in an 18,000 sqm ISO 9001:2015 factory producing 1.7M boxes/day since 2003.

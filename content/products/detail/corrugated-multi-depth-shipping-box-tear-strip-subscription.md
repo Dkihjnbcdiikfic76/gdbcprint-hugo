@@ -101,6 +101,15 @@ Subscription fulfillment demands packaging that adapts to constantly changing pr
 
 ## FAQ
 
+
+## Send Your Product Specs — Get a Free ISTA Drop Test Report
+
+**Send us your product dimensions and weight range for a free ISTA 3A transit test report and a structural prototype in 5–7 working days.** Our multi-depth scoring at 10mm increments lets one box handle your entire subscription assortment — eliminating 5–8 fixed-depth SKUs. Built on B-flute (ECT ≥40 lb/in) with integrated tear strip: 3N pull force, clean reveal, zero tools. Bincai's in-house ISTA-certified testing lab validates your box against 10-drop, 0.76m free-fall with weighted contents before production begins.
+
+**Bincai: 22 years, ISO 9001:2015 & FSC certified, 18,000 sqm factory, Diamond Member on Made-in-China.com — 987 products, verified on-site audit.**
+
+[→ Get your free ISTA test report](/contact/)  |  📧 qo82@icloud.com | 📱 +86-18934352881
+
 ---
 
 *Guangdong Bincai Color Printing Co., Ltd. — 22 years of packaging excellence. ISO 9001:2015 & FSC certified. 10,000 sqm Foshan factory (18,000 sqm total across dual factories). KBA 1050 4-color offset + Heidelberg Speedmaster 7+1 UV presses for premium CMYK litho-lamination. Daily output: 1.7M+ boxes. Serving 60+ countries worldwide.*
