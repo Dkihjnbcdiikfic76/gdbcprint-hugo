@@ -83,6 +83,18 @@ Cosmetics and apparel brands face a packaging paradox: the shipping box is the f
 
 **The Cosmetic Brand Advantage**: White boxes get photographed. Search Instagram for #unboxing — white and colored boxes dominate the feed. Brown boxes appear in <8% of unboxing posts. For a DTC cosmetics brand shipping 5,000 orders/month, a white box with custom print generates an estimated 150-300 organic social impressions per month — equivalent to ¥3,000-6,000 in paid social media value at zero additional ad spend. The box IS the ad.
 
+### Brand Experience Star Rating
+
+| Dimension | Brown Kraft Single-Wall | Double-Wall Industrial | Bincai White Corrugated |
+|---|---|---|---|
+| **Unboxing Experience** | ★★☆☆☆ | ★★☆☆☆ | ★★★★★ |
+| **Perceived Brand Value** | ★★☆☆☆ | ★★★☆☆ | ★★★★★ |
+| **Retail Shelf Appeal** | ★☆☆☆☆ | ★☆☆☆☆ | ★★★★☆ |
+| **Social Media Shareability** | ★☆☆☆☆ | ★☆☆☆☆ | ★★★★★ |
+| **Repeat Purchase Trigger** | ★★☆☆☆ | ★★☆☆☆ | ★★★★☆ |
+
+*Rating basis: aggregated from DTC brand feedback across 200+ Bincai cosmetic and apparel packaging projects (2022-2026).*
+
 ## Factory
 - 22 years of manufacturing excellence since 2003 in Foshan, Guangdong, China
 - 18,000 sqm factory (10,000+8,000 smart factory, expanded 2025)

@@ -77,6 +77,8 @@ This watch winder box is engineered for collectors and luxury brands who refuse 
 | **Display Window** | Clear acrylic or anti-reflective mineral glass — watch visible while winding; UV-filtered options protect dial from fading | No window or thin plastic panel — watch hidden when closed; no UV protection; plastic yellows within 12 months |
 | **TPD Accuracy** | 4 programmable modes (650/900/1200/1800 TPD) — matches Rolex, Omega, Breitling, and Patek Philippe specifications exactly | Single-speed or no winder — incorrect TPD causes mainspring over-winding or under-winding, reducing movement accuracy |
 | **Construction** | 2.5mm rigid greyboard with CNC-routed motor housing — precision-fit, no vibration transfer to watch | Thin MDF or cardboard — motor vibration resonates through box, transmitting micro-shocks to movement |
+| **Power Flexibility** | Dual power: AC adapter (100-240V universal) + battery option (4× AA portable); auto-sleep standby ≤0.5W | AC-only or battery-only; no universal voltage; no standby mode — motor runs continuously or not at all |
+| **Brand Customization** | Full exterior customization: hot foil stamping, embossing, UV digital print, custom foil colors (5 options); branded gift-ready from factory | Generic exterior with adhesive label slot; no in-house printing capability; branding requires separate vendor |
 
 **Who needs this box:** Authorized watch dealers presenting pieces at $2,000-$50,000+ price points, brands launching limited editions (the winder keeps display units running), collectors storing automatic watches between wears (prevents lubricant settling), and corporate gifters packaging executive-level timepiece gifts.
 

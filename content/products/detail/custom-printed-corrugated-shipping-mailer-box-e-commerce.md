@@ -99,6 +99,17 @@ Not every e-commerce shipment needs a branded mailer. Use this decision matrix t
 
 **The ROI sweet spot:** Brands shipping 500–5,000 units/month with products retailing $25–150 see the strongest ROI. At 1,000 units/month, the $0.15–0.30 premium per box translates to $150–300/month — easily covered by a single additional conversion from branded unboxing content on Instagram/TikTok.
 
+### Recommended Configuration by Scenario
+
+| Your Situation | Why It Wins | Recommended Configuration |
+|---|---|---|
+| **Subscription box (monthly theme rotations)** | Seasonal print changes keep subscribers engaged — reduces churn 10-15% | E-flute + offset litho-laminate CMYK + crash-lock bottom; 4 seasonal designs/year |
+| **DTC brand shipping $50+ products** | Branded mailer is table stakes — perceived quality matches product price point | B-flute + white top kraft + 2-color flexo logo + integrated tear strip + inside print |
+| **High-volume Amazon FBA seller** | FBA-compliant sizing eliminates oversize fees; frustration-free certification boosts listing | B-flute + kraft liner + 1-color flexo + self-seal strip; exact FBA dimension optimization |
+| **Fragile cosmetics/glass bottles** | Double-wall absorbs impact — reduces breakage claims from ~8% to <1% | BC double-wall + die-cut EVA foam insert + crash-lock bottom; ISTA 3A tested with product |
+| **Influencer PR kits and media mailers** | Unboxing video quality drives earned media — premium feel = longer screen time | E-flute + full CMYK litho + spot UV logo + inside brand messaging + ribbon pull-tab |
+| **Eco-conscious brand (B-Corp, organic)** | FSC + soy ink + recyclable aligns brand values with packaging reality | B-flute 100% recycled + soy-based 2-color flexo + water-based adhesive + compostable tape |
+
 ## Factory
 
 - **Founded**: 2003 — 22 years of corrugated packaging manufacturing in Foshan, Guangdong, China
