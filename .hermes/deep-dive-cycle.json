@@ -1,8 +1,8 @@
 {
   "day": 3,
-  "task": 1,
-  "rotation": 49,
-  "next": "Day 3 Run 50, Task #2 CUSTOMER CASES",
+  "task": 2,
+  "rotation": 50,
+  "next": "Day 3 Run 51, Task #3 HOMEPAGE NUMBERS",
   "started": "2026-06-17T00:00:00+08:00",
   "cycle": "deep-dive",
   "tasks": {
