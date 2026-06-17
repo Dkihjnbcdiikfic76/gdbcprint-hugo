@@ -89,5 +89,21 @@ Molded sugarcane bagasse fiber cosmetics gift box with compostable PLA transpare
 | Material Innovation | In-house molded fiber line | Outsourced fiber molding |
 | Free Samples | 3D rendering + physical prototype | Digital mockup only |
 | MOQ | 500 units | 2,000–5,000 |
+
+---
+
+## Send Us Your Product — Get a Free Compostable Sugarcane Sample with PLA Window in 7 Days
+
+Your customers are reading labels. "Plastic-free," "compostable," "plant-based" — these aren't trends anymore, they're table stakes for beauty and skincare brands selling to Gen Z and Millennial buyers. But most "eco" packaging still uses petroleum-based windows, synthetic adhesives, or virgin wood fiber. Bincai's molded sugarcane fiber box with PLA window is 100% petroleum-free, EN 13432 and ASTM D6400 certified compostable — and it looks and feels like premium packaging, not a compromise.
+
+**Send us your product dimensions and brand guidelines.** Within 7 working days, you'll receive:
+
+- A **free production-grade sample** — molded bagasse fiber in your chosen color (natural kraft or bleached white), 30μm compostable PLA window in your preferred shape, soy-based printed logo on KBA Rapida 105, and N35 magnetic closure — 100% petroleum-free, 100% compostable
+- **EN 13432 and ASTM D6400 compliance documentation** ready for your EU and US retail submissions
+- A **same-day production quote** including MOQ 500, 25–35 day lead time, and FOB Foshan freight estimate
+
+Bincai: 22 years manufacturing since 2003, 18,000 sqm factory, ISO 9001:2015 & FSC certified, 480 kWp rooftop solar, 94% waste recovery rate. Producing 1.7M boxes daily from the Pearl River Delta.
+
+📧 qo82@icloud.com &nbsp; | &nbsp; 📱 +86-18934352881 &nbsp; | &nbsp; [→ Request Your Eco Sample](/contact/)
 | Compostability | Third-party certified (EN 13432) | Self-declared |
 | Lead Time | 25–35 days | 45–60 days |

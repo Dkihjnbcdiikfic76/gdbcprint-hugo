@@ -96,8 +96,16 @@ This custom printed luxury rigid box elevates your brand with precision gold foi
 
 ---
 
-## Get Your Custom Gold Foil Sample — Free in 5-7 Days
+## Send Us Your Logo — Get a Free Gold Foil Rigid Box Sample in 5–7 Days
 
-**Send us your logo and dimensions — free digital proof in 24 hours, foil-stamped rigid box sample in 5-7 working days.** Our Bobst SP 102 BMA delivers ±0.15mm multi-level foil registration, and 22 years of luxury rigid box manufacturing means your sample matches production quality exactly. Choose from gold, rose gold, silver, holographic, or copper foil.
+Your brand deserves more than a stock box with a sticker. When a customer lifts a Bincai rigid box — 1200–1600gsm greyboard, soft-touch matte lamination under their fingers, your logo hot-stamped in gold foil at ±0.15mm precision on a Bobst SP 102 BMA — they feel the weight of quality before they even open it. That tactile first impression is what moves a product from "nice" to "premium" in the customer's mind.
 
-**[→ Contact us](/contact/)  |  📧 qo82@icloud.com  |  📱 +86-18934352881**
+**Send us your logo artwork and preferred box dimensions.** Within 5–7 working days, you'll receive:
+
+- A **free production-grade sample** — your logo in your choice of gold, rose gold, silver, copper, or holographic foil on a rigid box built to your specs: board weight (1200–2000gsm), wrap material (art paper/linen/leatherette), closure type (N52 magnetic or satin ribbon), and finish (matte/gloss/soft-touch/spot UV)
+- A **digital proof in 24 hours** showing exact foil placement, embossing depth, and Pantone color match (ΔE ≤ 2.0 on X-Rite spectrophotometer)
+- A **same-day production quote** with MOQ 500–1000, 10–15 day lead time, and FOB Foshan/Shenzhen freight options
+
+Bincai: 22 years luxury rigid box manufacturing. 18,000 sqm integrated factory. KBA 1050 + Heidelberg 7+1 UV + Bobst SP 102 BMA. ISO 9001:2015 & FSC certified. 1.7M boxes daily output.
+
+📧 qo82@icloud.com &nbsp; | &nbsp; 📱 +86-18934352881 &nbsp; | &nbsp; [→ Get Your Free Foil Sample](/contact/)

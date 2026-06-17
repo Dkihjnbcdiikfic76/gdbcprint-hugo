@@ -129,4 +129,16 @@ For luxury jewelry and watch brands, packaging format is a strategic decision wi
 
 ---
 
-<a href="/contact/" class="btn-cta">Designing your next jewelry collection packaging? Send us your product dimensions for a free leather swatch kit and same-day quote — free prototype with your logo in 5 days →</a>
+## Send Us Your Watch or Jewelry Product — Get a Leather-Finish Production Sample in 5 Days
+
+Luxury buyers touch the box before they see the product. The texture, the weight of the lid, the resistance of the hinge — these split-second impressions determine whether your customer perceives "expensive" or "adequate." A PU leatherette or genuine Nappa leather hinged box from Bincai delivers that certainty.
+
+**Send us your product dimensions, preferred leather finish (matte/pebbled/croc), and logo artwork.** Within 5 working days, you'll receive:
+
+- A **free pre-production sample** with your exact leather/leatherette wrap, interior lining color, CNC die-cut insert (custom-routed to your product), and gold/silver/rose gold foil logo on Bobst SP 102 BMA — piano-hinged, magnet-secured, production-grade
+- A **leather finish swatch kit** with 20+ textures and colors shipped the same day you inquire
+- A **complete production proposal** including unit cost at your quantity, lead time (12–18 days standard, 7–10 days rush), and FOB Foshan/Shenzhen freight estimate
+
+22 years of luxury rigid box manufacturing. 18,000 sqm factory. ISO 9001:2015 & FSC certified. 220,000+ rigid gift boxes daily. Serving watch and jewelry brands in 60+ countries.
+
+📧 qo82@icloud.com &nbsp; | &nbsp; 📱 +86-18934352881 &nbsp; | &nbsp; [→ Get Your Free Sample & Swatch Kit](/contact/)

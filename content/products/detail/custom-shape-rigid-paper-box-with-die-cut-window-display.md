@@ -122,3 +122,19 @@ A: Yes. Our Heidelberg 7+1 UV press calibrates to ΔE ≤ 2.0 versus your Panton
 
 - **[The Anatomy of a Luxury Rigid Box: How Bincai Engineers Premium Packaging from Greyboard to Gold Foil](/blog/luxury-rigid-box-engineering-anatomy-bincai/)** — Deep-dive into rigid box construction: greyboard thickness, corner-wrapping techniques, magnetic closure engineering, and how 22 years of craft delivers luxury unboxing experiences at 220,000+ boxes daily.
 - **[Browse All Rigid Gift Boxes](/categories/rigid-gift-boxes/)** — Explore our full rigid gift box catalog: magnetic closure boxes, drawer-slide styles, book-style hinged lids, watch & jewelry cases, and custom shape solutions across cosmetics, fragrance, electronics, and gifting industries.
+
+---
+
+## Send Us Your Product Outline — Get a Free Custom-Shape Die-Cut Sample in 7 Days
+
+Standard rectangular boxes are what your competitors use. A custom die-cut silhouette — hexagon, trapezoid, heart, or fully organic contour — immediately separates your product from the shelf. At Bincai, we've engineered over 200 unique custom shape projects, and our in-house tooling department produces custom steel-rule dies in 48 hours. The box shape itself becomes part of your brand identity.
+
+**Send us your product dimensions, desired silhouette (sketch, photo, or description), and logo artwork.** Within 7 working days, you'll receive:
+
+- A **free CAD-verified production sample** — your custom contour die-cut from Bobst flatbed (±0.2mm precision), wrapped in your chosen material (art paper/linen/leatherette/velvet), with PET window in your specified shape, printed on Heidelberg 7+1 UV with your logo and finish (foil/stamping/spot UV/soft-touch)
+- A **CAD structural drawing** showing exact dimensions, window placement, and closure mechanics
+- A **tooling cost estimate and production quote** with MOQ 500–1000, 15–25 day lead time, and FOB Foshan/Shenzhen shipping
+
+22 years of rigid box engineering. 18,000 sqm factory. 220,000+ rigid boxes daily. 15 QC checkpoints from board inspection to pack-out audit. Bincai owns every process node — CAD design, die-cutting, printing, foil stamping, wrapping, and assembly — under one roof in Foshan, Guangdong.
+
+📧 qo82@icloud.com &nbsp; | &nbsp; 📱 +86-18934352881 &nbsp; | &nbsp; [→ Request Your Custom Shape Sample](/contact/)

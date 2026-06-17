@@ -89,6 +89,16 @@ With 22 years of experience, an 18,000 sqm facility (10,000 sqm main plant + 8,0
 
 ---
 
-## Ready to Start?
+## Send Us Your Earring Cards — Get a Free Production Sample with Your Logo in 5–7 Days
 
-**Send us your earring card dimensions for a free gold-foil branded sample with working easel stand in 5–7 days.** Validate the 65° display angle, 12-slot card retention, and N35 magnetic snap on your actual countertop — with your logo hot-stamped in gold foil. [→ Get your free sample](/contact/)
+Every retail counter is crowded. Your earring packaging either earns its place or gets pushed to the back. A display box that props itself up at 65° with gold-foil branding visible from 3 meters away — that's the difference between a customer stopping to look and walking past.
+
+**Send us your earring card dimensions (standard 5×7cm or custom) and logo artwork.** Within 5–7 working days, you'll receive:
+
+- A **free production-grade sample** — matte black velvet exterior, gold foil logo hot-stamped on Heidelberg 7+1 UV (±0.15mm registration), 12-slot card insert, N35 magnetic snap closure, and working easel stand at your specified angle
+- A **digital proof in 24 hours** showing exact foil placement and easel angle on your box dimensions
+- A **same-day quote** based on your quantity, slot count, and finish requirements
+
+Bincai produces 1.7 million boxes daily from 18,000 sqm in Foshan. ISO 9001:2015 certified, FSC Chain-of-Custody, and serving jewelry brands across 50+ countries. MIC Diamond Member with 100% inquiry response rate.
+
+📧 qo82@icloud.com &nbsp; | &nbsp; 📱 +86-18934352881 &nbsp; | &nbsp; [→ Request Your Free Sample](/contact/)
