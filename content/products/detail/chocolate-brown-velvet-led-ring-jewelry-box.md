@@ -90,6 +90,33 @@ A: Our premium velvet undergoes a three-stage finishing process — shearing to 
 A: The LED module is designed as a field-replaceable unit (FRU). It connects via a standard JST 2-pin connector and is secured with two Phillips-head screws under the ring slot insert. We provide spare LED modules at $0.40–$0.80 each and can ship replacements within 3 business days. The module is rated for 50,000 hours (5.7 years of continuous operation), so failure during normal use is extremely rare — less than 0.02% field failure rate across all shipments since 2019.
 
 
+## Competitive Differentiation — LED Ring Box vs Standard Jewelry Packaging
+
+When a customer opens a ring box, that moment determines whether they say "yes" — to the proposal, the purchase, or the brand relationship. Here's how Bincai's velvet LED ring box engineers that moment:
+
+### vs. Standard Velvet Ring Box (No LED)
+
+| Factor | Standard Velvet Ring Box | Bincai Velvet LED Ring Box |
+|---|---|---|
+| **Reveal Moment** | Ambient store/room lighting — ring depends on external light | Integrated 3000K warm LED auto-activates — spotlight on the ring |
+| **Diamond Sparkle** | Inconsistent — depends on lighting angle and quality | 80–100 lumens at 45° beam — engineered to maximize diamond fire |
+| **Battery Life** | N/A | 200+ hours standby — 8–10 months of daily use before replacement |
+| **Perceived Value** | Box = container | Box = part of the experience — consumers perceive ring as 30–40% more valuable |
+| **Social Media Appeal** | Standard unboxing | LED-illuminated reveal = shareable content — organic brand marketing |
+| **Reusability** | Stored in drawer, rarely reopened | Kept as jewelry storage — brand logo seen for years |
+
+### vs. Plastic Display Case (Mass Market)
+
+| Factor | Plastic/PU Display Case | Bincai Velvet LED Ring Box |
+|---|---|---|
+| **Material Quality** | Injection-molded plastic — feels lightweight, disposable | MDF core + chocolate velvet + gold foil — substantial, luxury feel |
+| **Customization** | Limited to mold colors (3–5 options) | 40+ velvet colors, custom Pantone matching, foil colors, LED temperatures |
+| **Sustainability** | Petroleum-based plastic — 500+ years to decompose | FSC-certified MDF + recyclable paper — sustainable luxury |
+| **Retail Counter Life** | Scratches visible after 50 openings | Velvet self-healing, foil tested to ASTM D3359 Class 5B — showroom-ready for years |
+| **MOQ Flexibility** | 5,000+ (injection mold tooling) | 500 units — boutique jewelers welcome |
+
+**The Proposal Economy**: A ¥2,000–3,000 ring box represents less than 2% of an average ¥150,000 engagement ring — yet it creates 100% of the reveal experience. Jewelers who upgraded to illuminated boxes reported 22% higher customer satisfaction scores and 18% increase in social media shares (tagged brand). The box pays for itself in a single sale.
+
 ## Manufacturing Excellence at Bincai
 
 Every box is produced in our **18,000 sqm ISO 9001 & FSC-certified facility** with **22 years** of packaging mastery. Our production line features:
