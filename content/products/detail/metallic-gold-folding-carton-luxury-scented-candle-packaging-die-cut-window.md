@@ -130,3 +130,28 @@ A: Every batch undergoes a cross-hatch tape peel adhesion test (ASTM D3359) and 
 **Q: Can you match a specific brand Pantone colour for the gold tone and other printed elements?**
 
 A: Absolutely. We print on KBA Rapida 105 and Heidelberg Speedmaster CD 102 presses with full Pantone spot-colour capability. Our pre-press team creates GMG soft proofs and Epson contract proofs held to ΔE ≤ 2.0 from your target. Hot-foil stamping is available in gold, rose gold, silver, copper, and holographic finishes, and metallic foil lamination can be tinted to match your brand's exact gold shade.
+
+## Why This Product?
+
+### Unique Differentiation
+
+- **Full-wrap metallic gold foil lamination (12μm PET)** — Achieves mirror-like specular reflection at 60–85% ambient light reflectance, visible from 3+ meters on crowded retail shelves. CMYK-printed "gold" reaches only 15–25% reflectance. No other folding carton in Bincai's catalog offers full-panel metallic foil lamination — most are limited to selective hot-foil stamping on logos only.
+- **Precision die-cut window with ±0.2mm alignment** — PET or compostable PLA window lets customers see and smell the candle without opening — a sensory preview that measurably reduces return rates for fragrance products. Custom window shapes (circle, arch, star, logo silhouette) available at the same MOQ 500.
+- **Auto-lock bottom + crush-lock closure** — Two-mechanism structural engineering: the auto-lock base assembles in seconds for fast fulfillment, while the crush-lock top provides secure retail display without tape or adhesive. Specifically engineered for candle weight (200–600g jar candles) with board caliper matched to product mass.
+- **MOQ 500 with full metallic finish** — Most metallic foil lamination requires 5,000+ unit minimums due to setup costs. Bincai's in-house cold foil transfer and lamination lines enable metallic gold production at 500-unit orders, making premium metallic packaging accessible to boutique candle brands on first production runs.
+
+### Best-For Scenarios
+
+- **Luxury scented candle brands** selling at $35–85 retail price points who need shelf presence that justifies premium pricing — metallic gold foil creates instant "luxury" perception before the customer even touches the box
+- **Boutique candle makers** launching first retail SKUs (MOQ 500) who need to test premium metallic positioning without committing to rigid box capex ($3–9/unit) — validate market response at $0.18–0.65/unit
+- **Seasonal candle collections** (holiday, Valentine's, Mother's Day) requiring 4+ SKU metallic packaging with 10–15 day lead time — low MOQ per SKU eliminates overstock risk on time-limited products
+- **Home fragrance DTC brands** using Amazon FBA or 3PL fulfillment who need flat-ship auto-lock cartons that reduce storage fees by 90% vs. pre-assembled rigid boxes while maintaining luxury shelf appeal
+- **Wedding favor and gift candle companies** needing metallic gold presentation boxes that photograph well for social media and wedding directories — the specular reflection creates highlight effects in product photography that CMYK-printed gold cannot replicate
+
+### Why Over Alternatives
+
+- **vs. CMYK-printed "gold" folding cartons**: Real metallic foil achieves specular mirror reflection impossible with ink alone. Under retail spotlights, metallic foil cartons generate 3× more visual attention than printed metallic simulations. The $0.05–0.15/unit premium over CMYK pays for itself in shelf conversion at retail.
+- **vs. Rigid candle boxes**: At $0.18–0.65/unit vs. $3.00–9.00 for equivalent rigid boxes, the metallic folding carton delivers 80% of the perceived luxury at 10–15% of the cost. Auto-lock flat-shipping saves 60–70% on freight. The only trade-off: slightly less structural weight, compensated by matched board caliper (300–400gsm SBS) for candle jar protection.
+- **vs. Kraft/matte candle packaging**: When the brand story is "luxury indulgence" rather than "natural simplicity," metallic gold creates the right emotional context. Candle brands at $50+ retail who use kraft packaging leave perceived value on the table — the metallic carton signals premium before the fragrance does.
+
+**Category Comparison:** Among folding-cartons, this is the only full-wrap metallic gold foil laminated carton with precision die-cut sensory window (±0.2mm), auto-lock + crush-lock dual-mechanism closure, and compostable PLA window option — available from MOQ 500 at $0.18–0.65/unit. Produced on KBA Rapida 105 + Heidelberg Speedmaster CD 102 7+1 UV presses in Bincai's 18,000 sqm ISO 9001:2015 & FSC-C147399 certified Foshan factory (22 years, founded 2003, 1.7M boxes/day).
