@@ -100,6 +100,11 @@ Guangdong Bincai Color Printing operates a dedicated BHS 2.5m corrugator line ca
 
 **Shipping:** Corrugated boxes ship flat-packed on pallets for economical freight. Sample lead time: 5–7 days. Production lead time: 10–14 days (quantity dependent).
 
+## Related Resources
+
+- **[Corrugated Mailer Design Guide: Flutes, Liners & ECT →](/blog/corrugated-mailer-design-guide-bincai/)** — Technical guide to B/C/E/BA flute selection, ECT vs BCT ratings, litho-lamination vs flexo print, and structural design best practices for e-commerce shipping.
+- **[Explore All Corrugated Mailers →](/categories/corrugated-mailers/)** — Browse our full range of corrugated shipping solutions: self-seal mailers, triple-wall industrial shippers, full-color brand-printed boxes, and custom e-commerce packaging.
+
 ## FAQ
 
 **Q: What is the minimum order quantity for custom-printed corrugated shipping boxes?**

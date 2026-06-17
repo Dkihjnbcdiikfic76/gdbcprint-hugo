@@ -119,6 +119,11 @@ A: 69% RH is the industry standard for cigar storage and what we recommend. We c
 
 A: We can include Boveda packs as an optional add-on ($1.50-3.00/pack depending on quantity), or you can source them separately and insert during fulfillment. The holder cavity is designed to fit standard Boveda size 8 packs regardless of sourcing.
 
+## Related Resources
+
+- **[Luxury Rigid Box Engineering: The Anatomy of Premium Packaging →](/blog/luxury-rigid-box-engineering-anatomy-bincai/)** — Technical breakdown of rigid box construction: greyboard grades, wrapping materials, magnet grading, specialty linings (velvet, satin, cedar), and Bincai's 7-stage QC for luxury packaging.
+- **[Explore All Rigid Gift Boxes →](/categories/rigid-gift-boxes/)** — Browse our full range of rigid gift boxes: cigar humidor-style boxes, magnetic flip-lid boxes, drawer boxes, book-style presentation boxes, and custom luxury packaging.
+
 ## Why Choose Bincai for Cigar Packaging
 
 Bincai brings 22 years of rigid-box expertise to cigar packaging with a level of vertical integration few competitors can match. The entire production — from greyboard cutting and woodgrain wrapping to brass die foil stamping, Spanish cedar veneer application, and magnet insertion — happens under one roof at our 18,000 sqm Foshan facility. This single-source approach eliminates the quality gaps that occur when different vendors handle box structure, foil finishing, and interior lining separately. Our Heidelberg 7+1 UV press achieves ±0.1mm foil registration on woodgrain textures — critical for the precision demanded by cigar brand logos. The Bobst hot-foil department runs dedicated brass dies that hold detail through 100,000+ impressions, ensuring consistency from first box to last in production runs up to 50,000 units. With KBA 1050 4-color offset for woodgrain printing, ISO 9001:2015 quality management, FSC Chain-of-Custody certification, and 220,000+ gift boxes daily output, Bincai is the manufacturing partner trusted by premium tobacco brands across 40+ countries.
