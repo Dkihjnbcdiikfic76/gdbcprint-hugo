@@ -82,6 +82,8 @@ When you choose Bincai for your artisan chocolate packaging, you're partnering w
 
 - **Design-to-Delivery Speed** — Free pre-production samples in 5-7 working days. Standard production lead time 12-18 days. Rush service available for seasonal launches and trade show deadlines.
 
+**Related resources:** See how a US nutritional supplement brand consolidated 4 packaging suppliers into one Bincai partnership — [full case study with cost breakdown](/blog/case-study-us-nutritional-supplement-brand-multi-sku-packaging/). Browse all [folding carton options](/categories/folding-cartons/) including auto-lock bottom, reverse tuck, and window cutout designs.
+
 ## Production Workflow
 
 Every artisan chocolate carton follows our validated 9-stage production workflow, designed to maintain food safety and print quality:
