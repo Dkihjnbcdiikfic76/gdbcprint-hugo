@@ -118,3 +118,18 @@ A: 10–12 working days from artwork approval for new tooling orders. This inclu
 
 **Q: Can I get samples before committing to a production order?**
 A: Yes — free pre-production samples with your logo and full decoration within 7 business days. We ship via DHL/FedEx international priority. For structural testing, we can also send unprinted "fit samples" in 3–4 days so you can verify bottle fit before committing to print tooling.
+
+---
+
+## Send Us Your Bottle — Get a Free Fit Sample & ISTA 1A Drop Test Report
+
+Every day, wine bottles break in transit because the shipper wasn't engineered for the bottle — it was a generic stock box with a foam insert that "looked close enough." Don't let your DTC shipments become a customer service headache.
+
+**Send us your bottle dimensions and a reference photo.** Within 7 business days, you'll receive:
+- A **free production-grade sample** with your winery's logo — BC-flute double-wall, custom EPE foam insert die-cut to your exact bottle profile, printed on KBA 1050 offset
+- A **complete ISTA 1A drop test report** (10 drops from 760mm on all faces, edges, and corners) so you know — not hope — your bottles arrive intact
+- A **same-day production quote** with confirmed delivery schedule
+
+1.5 million corrugated boxes daily from Foshan. ISO 9001:2015 & FSC certified. 10–12 day lead from artwork approval. 22 years of packaging engineering.
+
+📧 qo82@icloud.com &nbsp; | &nbsp; 📱 +86-18934352881 &nbsp; | &nbsp; [Request Your Fit Sample →](/contact/)

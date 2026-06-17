@@ -116,3 +116,13 @@ Premium drawer-style rigid watch and accessory gift box with dual compartments �
 Contact: qo82@icloud.com | +86-18934352881 | No.6-7 Shunyuan North Rd, Wusha, Daliang, Shunde, Foshan, Guangdong, China
 
 [View on Made-in-China.com →](https://bincaipaperbox.en.made-in-china.com/)
+
+---
+
+## Send Us Your Watch Specs — Get a Working Drawer-Box Sample
+
+Tell us your watch case diameter, the accessories you want stored in the drawer (extra straps, tools, warranty card), and your preferred interior velvet color from 20+ shades. We'll produce a **free dual-compartment production sample** with N42 magnetic slide-lock mechanism — assembled on our dedicated rigid box line with CNC corner wrapping (±0.3mm), custom die-cut EVA foam insert (±0.2mm), and your logo in gold foil — shipped within 7 days.
+
+Bincai serves luxury watch and accessory brands across 60+ countries from an 18,000 sqm dual-factory (ISO 9001:2015, FSC-C147399, Sedex SMETA). Diamond Member on Made-in-China.com with 100% inquiry response rate (average reply 0.67 hours) and 26.42% client conversion rate across 987 live products.
+
+📧 qo82@icloud.com &nbsp; | &nbsp; 📱 +86-18934352881

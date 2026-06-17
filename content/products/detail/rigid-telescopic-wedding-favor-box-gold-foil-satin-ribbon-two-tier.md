@@ -124,3 +124,13 @@ For wedding and event packaging, precision and presentation are non-negotiable. 
 **Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
 
 **Shipping:** Flat-packed telescopic (lid nests inside base) for 60-70% freight volume savings vs. pre-assembled. Standard 15-25 day sea freight from Foshan ports to major global destinations. Air freight available for rush orders.
+
+---
+
+## Get Your Wedding Favor Box Sample — Free, in 5–7 Days
+
+Send us your wedding date, favor dimensions, and monogram artwork — we'll return a **free gold-foil pre-production sample** within 5–7 working days, complete with your chosen satin ribbon color and two-tier tray configuration. Each sample is production-grade: KBA 1050 offset printing, Bobst foil stamping at ±0.15mm registration, and hand-wrapped corners on 2.5mm greyboard.
+
+With 951 orders fulfilled from 379 active clients across 109 countries and 32 orders/month average capacity, we reserve production slots on a first-confirmed basis. Specify your event date for priority scheduling.
+
+📧 qo82@icloud.com &nbsp; | &nbsp; 📱 +86-18934352881 &nbsp; | &nbsp; [Request Sample →](/contact/)

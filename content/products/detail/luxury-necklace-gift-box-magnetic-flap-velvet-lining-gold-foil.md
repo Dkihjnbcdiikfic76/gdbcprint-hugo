@@ -77,6 +77,13 @@ The Bincai Luxury Necklace Gift Box combines a magnetic flap closure with sumptu
 
 ---
 
-## Ready to Start?
+## Send Us Your Necklace Specs — Get a Free Gold-Foil Sample in 5 Days
 
-**Request a free velvet-lined sample with your logo in gold foil — ships in 5–7 days.** Tell us your necklace type (chain, pendant, statement) and preferred velvet color, and we'll produce a production-grade sample with magnetic flap closure and custom foil stamping. Includes a complimentary insert recommendation for your exact product dimensions. [Get your free sample →](/contact/)
+**Tell us your necklace type (chain, pendant, statement) and preferred velvet color from 20+ shades.** Within 5–7 working days, you'll receive a production-grade sample with:
+- Magnetic flap closure (N42 neodymium, ≥3.0 N/cm² pull force)
+- Your logo in gold, silver, or rose gold foil (Bobst flatbed, ±0.15mm registration)
+- Custom necklace retention system (clasp hooks, satin pillow, or die-cut card slot) matched to your exact product dimensions
+
+Bincai produces 220,000+ rigid boxes daily for over 500 jewelry and luxury brands across 60+ countries. Diamond Member on Made-in-China.com with 987 live products (100% rated 4.5★+, 97% with video) and a 26.42% client conversion rate — your sample is produced on the same KBA 1050 and Heidelberg 7+1 UV lines as our largest production orders.
+
+[Get Your Free Velvet Sample →](/contact/) &nbsp; | &nbsp; 📧 qo82@icloud.com &nbsp; | &nbsp; 📱 +86-18934352881
