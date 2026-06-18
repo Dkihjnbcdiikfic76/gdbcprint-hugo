@@ -597,12 +597,12 @@
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url><url>
-    <loc>https://gdbcprint.com/categories/manufacturing-excellence/</loc>
+    <loc>https://gdbcprint.com/categories/manufacturing-technology/</loc>
     <lastmod>2026-06-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url><url>
-    <loc>https://gdbcprint.com/categories/manufacturing-technology/</loc>
+    <loc>https://gdbcprint.com/categories/manufacturing-excellence/</loc>
     <lastmod>2026-06-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -3827,15 +3827,15 @@
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url><url>
-    <loc>https://gdbcprint.com/gdbcprint-audit/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url><url>
     <loc>https://gdbcprint.com/about/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url><url>
     <loc>https://gdbcprint.com/contact/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url><url>
+    <loc>https://gdbcprint.com/gdbcprint-audit/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url><url>
