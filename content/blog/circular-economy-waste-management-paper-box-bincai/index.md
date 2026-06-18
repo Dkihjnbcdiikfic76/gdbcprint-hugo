@@ -21,7 +21,7 @@ keywords:
 
 # Circular Economy in Paper Box Manufacturing: Bincai's Closed-Loop Waste Management & Zero-Landfill Initiative
 
-At Guangdong Bincai Color Printing Co., Ltd., sustainability isn't a marketing slogan — it's engineered into every square meter of our **18,000 sqm factory** and every one of the **1.5 million boxes** we produce daily. With **22 years of manufacturing experience**, **ISO 9001:2015** quality certification, and **FSC Chain of Custody (C147399)** accreditation, we've built a closed-loop waste management system that achieves a **94% material recovery rate** — one of the highest in the Pearl River Delta packaging cluster.
+At Guangdong Bincai Color Printing Co., Ltd., sustainability isn't a marketing slogan — it's engineered into every square meter of our **18,000 sqm factory** and every one of the **1.5 million boxes** we produce daily. With **23 years of manufacturing experience**, **ISO 9001:2015** quality certification, and **FSC Chain of Custody (C147399)** accreditation, we've built a closed-loop waste management system that achieves a **94% material recovery rate** — one of the highest in the Pearl River Delta packaging cluster.
 
 ## Why Circular Economy Matters in Paper Box Manufacturing
 
@@ -148,7 +148,7 @@ Bincai is investing **RMB 2.8 million (~USD 385,000)** in environmental upgrades
 |---------------|--------|
 | Factory Area | 18,000 sqm |
 | Daily Output | 1.5 million boxes |
-| Years in Operation | 22 years |
+| Years in Operation | 23 years |
 | Primary Presses | KBA Rapida 1050 4-color, Heidelberg CD 102 7+1 UV, Heidelberg SM 52 |
 | Die-Cutting | Bobst SP 102 BMA/E (±0.1mm precision) |
 | Corrugator | BHS 2.5m Corrugator |
@@ -161,4 +161,4 @@ Bincai is investing **RMB 2.8 million (~USD 385,000)** in environmental upgrades
 
 **Ready to partner with a packaging manufacturer that takes sustainability seriously?** Contact Bincai today for samples, quotations, and environmental performance data tailored to your product category.
 
-*Guangdong Bincai Color Printing Co., Ltd. — 22 Years of Paper Box Manufacturing Excellence. ISO 9001:2015 & FSC C147399 Certified. 18,000 sqm, 1.5 Million Boxes Daily, 380+ Skilled Professionals.*
+*Guangdong Bincai Color Printing Co., Ltd. — 23 Years of Paper Box Manufacturing Excellence. ISO 9001:2015 & FSC C147399 Certified. 18,000 sqm, 1.5 Million Boxes Daily, 380+ Skilled Professionals.*

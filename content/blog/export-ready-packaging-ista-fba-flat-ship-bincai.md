@@ -3,7 +3,7 @@ title: "Export-Ready Packaging: ISTA Compliance, FBA Sizing, and Flat-Ship Desig
 date: 2026-06-11
 draft: false
 image: "/images/hero-factory.webp"
-description: "Complete guide to designing export-ready paper box packaging — ISTA/ASTM transit testing standards, Amazon FBA dimensional requirements, flat-ship knock-down design for container efficiency, and how Guangdong Bincai's 22-year manufacturing expertise delivers compliance-ready packaging from Foshan, China."
+description: "Complete guide to designing export-ready paper box packaging — ISTA/ASTM transit testing standards, Amazon FBA dimensional requirements, flat-ship knock-down design for container efficiency, and how Guangdong Bincai's 23-year manufacturing expertise delivers compliance-ready packaging from Foshan, China."
 
 ---
 
@@ -13,7 +13,7 @@ description: "Complete guide to designing export-ready paper box packaging — I
 
 International shipping isn't gentle. A beautifully designed box that arrives crushed, scuffed, or structurally compromised doesn't just disappoint your customer — it triggers returns, negative reviews, and lost revenue. Export-ready packaging is a distinct engineering discipline that sits at the intersection of structural design, material science, and logistics optimization.
 
-At **Guangdong Bincai Color Printing** (est. 2003, Foshan, China), we've spent 22 years perfecting packaging that looks premium on the shelf AND survives 40-foot container journeys across the Pacific. Here's our guide to the three pillars of export-ready paper box packaging: **ISTA compliance**, **FBA sizing**, and **flat-ship design**.
+At **Guangdong Bincai Color Printing** (est. 2003, Foshan, China), we've spent 23 years perfecting packaging that looks premium on the shelf AND survives 40-foot container journeys across the Pacific. Here's our guide to the three pillars of export-ready paper box packaging: **ISTA compliance**, **FBA sizing**, and **flat-ship design**.
 
 ---
 
@@ -124,7 +124,7 @@ At **1.7 million color boxes per day** (post-2025 smart factory expansion), we'v
 | **FBA Dimension Optimization** | Tier-aware design saves $2–5/unit in fulfillment fees |
 | **Flat-Ship Engineering** | 8–15× container density vs. assembled shipping |
 | **Dual Press Capacity** | KBA 1050 4-color (15,000 sph) + Heidelberg 7+1 UV — short runs and mass production on one campus |
-| **22-Year Track Record** | 500+ global brands served, ISO 9001:2015 + FSC Chain-of-Custody certified |
+| **23-Year Track Record** | 500+ global brands served, ISO 9001:2015 + FSC Chain-of-Custody certified |
 | **Foshan Logistics Hub** | 1.5 hrs to Shenzhen Yantian port, 2 hrs to Nansha — 3–5 day consolidation window |
 
 ---

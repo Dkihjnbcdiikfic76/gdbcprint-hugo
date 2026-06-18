@@ -2,8 +2,8 @@
 title: "Elegant Wedding Favor Two-Tier Rigid Gift Box with Satin Ribbon and Gold Foil"
 date: 2026-06-15
 draft: false
-description: "Luxury two-tier wedding favor rigid gift box featuring satin ribbon closure, gold foil 'Mr & Mrs' embossing, and a dual-layer interior for coordinated favors. Manufactured at Bincai's 18,000 sqm Foshan facility using KBA 1050 4-color and Heidelberg 7+1 UV presses. ISO 9001:2015 and FSC certified. 22 years paper box expertise, 1.7M boxes daily output. MOQ 500 units, free custom samples. Ideal for wedding planners, luxury event coordinators, and bridal brands."
-keywords: "wedding favor box, two-tier gift box, satin ribbon box, gold foil wedding box, rigid gift box, Mr Mrs box, bridal favor packaging, luxury wedding box, wedding party favors, Bincai rigid box, ISO 9001 wedding packaging, FSC gift box, Heidelberg gold foil, Foshan luxury box, 18,000 sqm, 1.7M daily, 22 years experience, KBA 1050, custom wedding packaging, bridal shower favor box, engagement gift box, double layer gift box, China rigid box manufacturer, OEM wedding packaging"
+description: "Luxury two-tier wedding favor rigid gift box featuring satin ribbon closure, gold foil 'Mr & Mrs' embossing, and a dual-layer interior for coordinated favors. Manufactured at Bincai's 18,000 sqm Foshan facility using KBA 1050 4-color and Heidelberg 7+1 UV presses. ISO 9001:2015 and FSC certified. 23 years paper box expertise, 1.7M boxes daily output. MOQ 500 units, free custom samples. Ideal for wedding planners, luxury event coordinators, and bridal brands."
+keywords: "wedding favor box, two-tier gift box, satin ribbon box, gold foil wedding box, rigid gift box, Mr Mrs box, bridal favor packaging, luxury wedding box, wedding party favors, Bincai rigid box, ISO 9001 wedding packaging, FSC gift box, Heidelberg gold foil, Foshan luxury box, 18,000 sqm, 1.7M daily, 23 years experience, KBA 1050, custom wedding packaging, bridal shower favor box, engagement gift box, double layer gift box, China rigid box manufacturer, OEM wedding packaging"
 categories: ["rigid-gift-boxes"]
 params:
   moq: "500"
@@ -16,7 +16,7 @@ params:
 
 ## Product Overview
 
-The Bincai Elegant Wedding Favor Two-Tier Rigid Gift Box transforms wedding gifting into a curated experience. Two stacked compartments — one for the main favor (chocolates, mini champagne, scented candles) and one for a personal note or keepsake — are revealed in sequence as the satin ribbon is untied. Gold foil 'Mr & Mrs' lettering across the lid makes every table setting feel like a five-star event. Manufactured at our 18,000 sqm integrated facility in Foshan using KBA 1050 4-color offset and Heidelberg 7+1 UV foil presses. 22 years of paper box mastery, ISO 9001:2015 and FSC certified, with 1.7 million boxes shipped daily to 50+ countries.
+The Bincai Elegant Wedding Favor Two-Tier Rigid Gift Box transforms wedding gifting into a curated experience. Two stacked compartments — one for the main favor (chocolates, mini champagne, scented candles) and one for a personal note or keepsake — are revealed in sequence as the satin ribbon is untied. Gold foil 'Mr & Mrs' lettering across the lid makes every table setting feel like a five-star event. Manufactured at our 18,000 sqm integrated facility in Foshan using KBA 1050 4-color offset and Heidelberg 7+1 UV foil presses. 23 years of paper box mastery, ISO 9001:2015 and FSC certified, with 1.7 million boxes shipped daily to 50+ countries.
 
 ## Applications
 
@@ -134,6 +134,6 @@ A: We offer 3-tier and 4-tier configurations. Each additional tier adds approxim
 
 Bincai's wedding packaging division has produced over 500,000 favor boxes for destination weddings across Bali, Santorini, Tuscany, and the Maldives. Our dual-factory setup — 10,000 sqm for printing and finishing, 8,000 sqm for assembly and logistics — means your entire wedding favor program runs on one production schedule with one point of contact. In-house die-making eliminates the 2-3 week lead time that third-party die suppliers add. The ribbon is sourced from certified textile mills and applied on our assembly lines — not outsourced to a packaging decorator. When your wedding season starts in May and the order ships in April, one integrated manufacturer who's done this 500,000 times before delivers the peace of mind your clients expect.
 
-**Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
+**Factory Facts:** Founded 2003 | 23 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
 
 **Shipping:** Flat-packed in master cartons of 24-48 units depending on tier count. Standard export pallet: 2,000-3,000 units. Lead time 10-14 working days. Express air freight available for rush wedding programs (3-5 day delivery, surcharge applies).

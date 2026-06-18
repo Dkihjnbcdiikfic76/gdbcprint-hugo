@@ -2,7 +2,7 @@
 title: "Magnetic Closure Multi-Layer Tea Chest Gift Box with Gold Foil Embossing"
 date: 2026-06-16
 draft: false
-description: "Magnetic closure multi-layer tea chest gift box with gold foil embossing — manufactured by Bincai Printing, 22-year ISO 9001 & FSC certified paper box factory. Premium 3-tier magnetic closure tea chest presentation box with gold foil embossing and satin-lined drawers by Guangdong Bincai Color Printing Co., Ltd. — 22 years of manufacturing excellence since 2003. Produced on KBA Rapida 105 4-color and Heidelberg CD 102 7+1 UV presses across our 18,000 sqm factory (10,000+8,000 sqm smart factory, 2025 expansion). ISO 9001:2015 and FSC certified. Daily output of 1.7 million color boxes plus 220,000+ gift boxes. MOQ 500 units with free pre-production samples. Three stacked drawers with brass-finish hardware create a chest-of-drawers look reminiscent of antique tea cabinets. Heidelberg 7+1 UV offset printing, 10,000 sqm facility, daily output 1.5M boxes."
+description: "Magnetic closure multi-layer tea chest gift box with gold foil embossing — manufactured by Bincai Printing, 23-year ISO 9001 & FSC certified paper box factory. Premium 3-tier magnetic closure tea chest presentation box with gold foil embossing and satin-lined drawers by Guangdong Bincai Color Printing Co., Ltd. — 23 years of manufacturing excellence since 2003. Produced on KBA Rapida 105 4-color and Heidelberg CD 102 7+1 UV presses across our 18,000 sqm factory (10,000+8,000 sqm smart factory, 2025 expansion). ISO 9001:2015 and FSC certified. Daily output of 1.7 million color boxes plus 220,000+ gift boxes. MOQ 500 units with free pre-production samples. Three stacked drawers with brass-finish hardware create a chest-of-drawers look reminiscent of antique tea cabinets. Heidelberg 7+1 UV offset printing, 10,000 sqm facility, daily output 1.5M boxes."
 keywords: "magnetic closure tea chest, multi-layer gift box, tea chest box, gold foil embossing box, 3-tier tea box, drawer gift box, premium tea packaging, tea presentation chest, Bincai tea chest, ISO 9001 tea box, FSC certified gift box, magnetic tea chest, luxury tea gift box, gold embossed tea box, wholesale tea chest, OEM tea packaging, Chinese tea box manufacturer, Guangdong gift box factory, MOQ 500 tea box, multi-drawer box, tea collection chest, satin lined gift box, tea ceremony box, premium tea gift"
 categories: ["magnetic-closure-boxes"]
 params:
@@ -28,7 +28,7 @@ Each of the three satin-lined drawers slides on precision die-cut tracks (±0.2m
 
 The chest body is constructed from FSC-certified greyboard (1200–1600gsm, wrapped in 157gsm art paper) with 1.5mm–3.0mm board thickness for substantial weight and durability. Gold foil hot stamping is applied on our Bobst SP 102 BMA/E autoplaten, achieving ±0.1mm registration for crisp logo detail and decorative borders. All production runs through Bincai's 18,000 sqm integrated facility in Foshan, Guangdong, under ISO 9001:2015 quality management and FSC-C147399 chain-of-custody certification.
 
-22 years of manufacturing excellence. 1.7 million boxes daily output. MOQ 500 units. Free pre-production samples with 5–7 day turnaround. Whether you're launching a limited-edition tea collection, curating a corporate Lunar New Year gift program, or stocking a luxury tea boutique, this tea chest communicates quality at every level of interaction.
+23 years of manufacturing excellence. 1.7 million boxes daily output. MOQ 500 units. Free pre-production samples with 5–7 day turnaround. Whether you're launching a limited-edition tea collection, curating a corporate Lunar New Year gift program, or stocking a luxury tea boutique, this tea chest communicates quality at every level of interaction.
 
 ## Applications
 - Premium loose-leaf tea collection gift sets (3 varieties per tier)
@@ -121,9 +121,9 @@ A: Bincai holds ISO 9001:2015 (quality management), FSC-C147399 (forest stewards
 
 ## Why Choose Bincai for Magnetic Closure Tea Chests
 
-With 22 years of rigid box manufacturing in Guangdong, Bincai operates one of the most complete in-house production lines for luxury magnetic closure packaging in Southern China. Every step — printing, foil stamping, die-cutting, drawer assembly, magnet insertion, and final QC — happens under one 18,000 sqm roof, eliminating the coordination delays and quality inconsistencies of multi-vendor supply chains.
+With 23 years of rigid box manufacturing in Guangdong, Bincai operates one of the most complete in-house production lines for luxury magnetic closure packaging in Southern China. Every step — printing, foil stamping, die-cutting, drawer assembly, magnet insertion, and final QC — happens under one 18,000 sqm roof, eliminating the coordination delays and quality inconsistencies of multi-vendor supply chains.
 
-- **22 years** of rigid box manufacturing since 2003, serving brands in 40+ countries
+- **23 years** of rigid box manufacturing since 2003, serving brands in 40+ countries
 - **18,000 sqm** integrated facility (10,000 sqm + 8,000 sqm smart factory, 2025 expansion) with dedicated rigid box production lines
 - **KBA Rapida 105** 4-color offset press for high-speed CMYK printing (15,000 sheets/hr)
 - **Heidelberg CD 102 7+1 UV** with in-line UV curing and specialty coating capability
@@ -140,7 +140,7 @@ With 22 years of rigid box manufacturing in Guangdong, Bincai operates one of th
 
 | Comparison | Bincai | Industry Standard |
 |-----------|--------|-------------------|
-| **Experience** | 22 years (since 2003) | 5–10 years |
+| **Experience** | 23 years (since 2003) | 5–10 years |
 | **Facility** | 18,000 sqm integrated | 3,000–8,000 sqm |
 | **Magnet Grade** | N52 neodymium (strongest) | N35 (standard) |
 | **Die-Cut Tolerance** | ±0.2mm (Bobst Visioncut 106 LER) | ±0.5–1.0mm |

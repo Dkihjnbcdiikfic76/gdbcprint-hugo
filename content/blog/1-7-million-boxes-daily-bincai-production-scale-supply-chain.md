@@ -63,7 +63,7 @@ Corrugated mailers and heavy-duty shipping boxes run on dedicated high-speed lin
 
 ---
 
-## The 22-Year Advantage
+## The 23-Year Advantage
 
 We didn't reach 1.7M boxes/day overnight. Since our founding in 2003, every process has been refined through millions of orders:
 
@@ -82,6 +82,6 @@ Whether you need 500 prototype boxes for a trade show or 500,000 monthly for ong
 
 ---
 
-*Guangdong Bincai Color Printing — 22 years of paper box manufacturing. ISO 9001 & FSC certified. 1.7M+ boxes daily, delivered to 50+ countries.*
+*Guangdong Bincai Color Printing — 23 years of paper box manufacturing. ISO 9001 & FSC certified. 1.7M+ boxes daily, delivered to 50+ countries.*
 
 <a href="https://bincaipaperbox.en.made-in-china.com/" target="_blank" rel="noopener" class="btn-mic">View Full Catalog on Made-in-China.com →</a>

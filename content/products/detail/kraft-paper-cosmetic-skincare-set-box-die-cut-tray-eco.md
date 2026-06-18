@@ -2,7 +2,7 @@
 title: "Kraft Paper Cosmetic Skincare Set Box with Die-Cut Tray — Eco Luxury Packaging"
 date: 2026-06-14
 draft: false
-description: "Kraft paper cosmetic skincare set box with custom die-cut tray — FSC-certified kraft, soy-based ink printing, PLA window option, 100% recyclable and compostable. Manufactured by Guangdong Bincai Color Printing Co., Ltd. — 22 years experience, 18,000 sqm factory, ISO 9001 & FSC certified, KBA 1050 4-color + Heidelberg 7+1 UV presses, daily output 1.7M boxes. Ideal for clean beauty brands, organic skincare sets, and eco-conscious cosmetic packaging."
+description: "Kraft paper cosmetic skincare set box with custom die-cut tray — FSC-certified kraft, soy-based ink printing, PLA window option, 100% recyclable and compostable. Manufactured by Guangdong Bincai Color Printing Co., Ltd. — 23 years experience, 18,000 sqm factory, ISO 9001 & FSC certified, KBA 1050 4-color + Heidelberg 7+1 UV presses, daily output 1.7M boxes. Ideal for clean beauty brands, organic skincare sets, and eco-conscious cosmetic packaging."
 keywords: "kraft paper cosmetic box, eco skincare packaging, sustainable cosmetic box, FSC certified kraft box, soy ink printed box, PLA window box, compostable packaging, Bincai eco packaging, Guangdong sustainable factory, ISO 9001 FSC, KBA 1050 offset, Heidelberg 7+1 UV, 18,000 sqm, 1.7M daily output, clean beauty packaging, organic skincare gift set, kraft cosmetic set box OEM, recyclable paper box"
 categories: ["kraft-eco-boxes"]
 params:
@@ -88,7 +88,7 @@ The fastest-growing clean beauty trend is plastic-free packaging. A glass serum 
 EU Green Claims Directive (effective 2026) requires brands to substantiate environmental claims. Bincai provides the documentation package: FSC certificate, soy ink compliance, PLA compostability certification, and carbon disclosure data. When your brand claims "100% recyclable packaging," you have the paperwork to prove it.
 
 ## Why Choose Bincai for Eco Packaging
-- **22 years of green packaging leadership** — pioneering sustainable packaging solutions since 2003, with continuous investment in eco-materials, low-carbon processes, and circular design
+- **23 years of green packaging leadership** — pioneering sustainable packaging solutions since 2003, with continuous investment in eco-materials, low-carbon processes, and circular design
 - **Dedicated eco-packaging production cell** — segregated FSC material flow from reception to finished goods, preventing cross-contamination with non-certified materials
 - **Zero-waste manufacturing target** — kraft offcuts recycled through on-site baling system; soy ink containers returned to supplier for closed-loop reuse; process water recirculated
 - **Dual certification** — ISO 9001:2015 quality management + FSC Chain-of-Custody (FSC-CXXXXXX) for verified sustainable sourcing
@@ -98,7 +98,7 @@ EU Green Claims Directive (effective 2026) requires brands to substantiate envir
 - Free pre-production samples in 5-7 days with DHL/FedEx worldwide express shipping
 
 ## Factory
-- 22 years of manufacturing excellence since 2003
+- 23 years of manufacturing excellence since 2003
 - Dual factories: 10,000 sqm main + 8,000 sqm smart factory in Foshan, Pearl River Delta
 - 500+ skilled workers across 3 shifts with specialized eco-packaging training
 - ISO 9001:2015 certified quality management system

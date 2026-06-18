@@ -2,7 +2,7 @@
 title: "Wooden Look Rigid Jewelry Box Gold Foil Interior LED Light"
 date: 2026-06-10
 draft: false
-description: "Premium woodgrain-texture rigid jewelry box with full gold foil interior, integrated LED ring light with magnetic reed switch, and N52 magnet closure. 20+ woodgrain patterns, warm/cool/RGB LED, battery or USB-C. KBA 1050 + Heidelberg 7+1 UV, 18,000 sqm (10,000+8,000 smart factory) ISO 9001 & FSC factory, 22 years. CE/RoHS/REACH components. MOQ 500."
+description: "Premium woodgrain-texture rigid jewelry box with full gold foil interior, integrated LED ring light with magnetic reed switch, and N52 magnet closure. 20+ woodgrain patterns, warm/cool/RGB LED, battery or USB-C. KBA 1050 + Heidelberg 7+1 UV, 18,000 sqm (10,000+8,000 smart factory) ISO 9001 & FSC factory, 23 years. CE/RoHS/REACH components. MOQ 500."
 keywords: "wooden jewelry box, LED jewelry display box, gold foil interior box, luxury jewelry packaging, ring display box with light, woodgrain rigid box, illuminated jewelry box, engagement ring box, wedding ring presentation, battery operated jewelry box, magnetic reed switch jewelry box, Bincai jewelry box, premium jewelry packaging, wood-texture gift box, LED ring box, USB-C rechargeable jewelry box"
 categories: ["jewelry-boxes"]
 params:
@@ -55,7 +55,7 @@ Premium woodgrain-texture rigid jewelry box with gold foil interior and integrat
 - **Free pre-production sample** — 7–10 working days with full LED integration
 
 ## Factory
-- 22 years manufacturing experience (founded 2003)
+- 23 years manufacturing experience (founded 2003)
 - 18,000 sqm factory (10,000+8,000 smart factory)
 - KBA 1050 + Heidelberg 7+1 UV presses
 - Dedicated jewelry box assembly line with LED module integration station

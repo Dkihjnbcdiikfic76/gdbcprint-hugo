@@ -2,7 +2,7 @@
 title: "Dual-Layer Magnetic Jewelry Ring Box"
 date: 2026-06-11
 draft: false
-description: "Dual-layer magnetic jewelry ring box with velvet-flocked interior and satin-lined pull-out drawer by Bincai. Top layer: 40×15mm velvet-wrapped EVA ring cushion with slit for ring sizes 4–12. Bottom drawer: 20mm-deep satin-lined cavity for earrings, chain, or certificate. Dual N35 neodymium magnet pairs (≥4.5N pull force, 5,000+ cycle tested) secure both layers with precision snap-lock. 2.0mm rigid greyboard core wrapped in 157gsm art paper with matte/gloss/soft-touch lamination. Gold/silver/rose gold/copper/holographic hot foil stamping via Bobst SP 102 BMA (110–130°C, 2.5 MPa). Custom sizes 60×60×40mm to 150×120×70mm. Manufactured by Guangdong Bincai Color Printing — 22 years experience, 18,000 sqm dual factory, KBA 1050 4-color + Heidelberg 7+1 UV, 1.7M daily output. ISO 9001:2015 & FSC certified. Free samples, MOQ 500. Foshan, Guangdong, China."
+description: "Dual-layer magnetic jewelry ring box with velvet-flocked interior and satin-lined pull-out drawer by Bincai. Top layer: 40×15mm velvet-wrapped EVA ring cushion with slit for ring sizes 4–12. Bottom drawer: 20mm-deep satin-lined cavity for earrings, chain, or certificate. Dual N35 neodymium magnet pairs (≥4.5N pull force, 5,000+ cycle tested) secure both layers with precision snap-lock. 2.0mm rigid greyboard core wrapped in 157gsm art paper with matte/gloss/soft-touch lamination. Gold/silver/rose gold/copper/holographic hot foil stamping via Bobst SP 102 BMA (110–130°C, 2.5 MPa). Custom sizes 60×60×40mm to 150×120×70mm. Manufactured by Guangdong Bincai Color Printing — 23 years experience, 18,000 sqm dual factory, KBA 1050 4-color + Heidelberg 7+1 UV, 1.7M daily output. ISO 9001:2015 & FSC certified. Free samples, MOQ 500. Foshan, Guangdong, China."
 keywords: "dual layer ring box, magnetic ring box, jewelry display box, velvet ring case, custom ring packaging, luxury jewelry box, Bincai ring box, magnetic closure jewelry, wholesale ring box, engagement ring packaging, rigid ring box, satin lined box, hot stamping box, custom logo packaging, jewelry gift box, ring presentation case, FSC certified packaging, ISO 9001 factory, Guangdong manufacturer, velvet flocked ring box, pull-out drawer ring box, EVA ring cushion box, neodymium magnet box, Bobst foil stamping jewelry, soft-touch box manufacturer, KBA 1050 printed box, Heidelberg UV jewelry packaging, 18,000 sqm factory, Bincai Color Printing, OEM jewelry box China, boutique packaging supplier, wedding ring box, proposal ring box, jewelry brand packaging, custom velvet box, matt lamination ring box, spot UV jewelry box, Foshan packaging manufacturer, luxury display case, gift-ready jewelry packaging"
 categories: ["jewelry-boxes"]
 params:
@@ -69,7 +69,7 @@ The Bincai Dual-Layer Magnetic Jewelry Ring Box offers versatile presentation wi
 
 | Feature | Detail |
 |---|---|
-| 🏭 Experience | 22 years since 2003 |
+| 🏭 Experience | 23 years since 2003 |
 | 📐 Factory | 18,000 sqm dual factory (10,000+8,000 smart factory) — KBA 1050, Heidelberg 7+1 UV, Bobst SP 102 BMA |
 | ✅ Quality | ISO 9001:2015 certified — full batch traceability, AQL 2.5 Level II |
 | 🌿 Eco | FSC Chain-of-Custody certified, water-based adhesives |

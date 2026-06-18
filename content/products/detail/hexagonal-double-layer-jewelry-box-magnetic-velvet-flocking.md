@@ -2,7 +2,7 @@
 title: "Hexagonal Double-Layer Jewelry Box — Magnetic Closure with Velvet Flocking"
 date: 2026-06-14
 draft: false
-description: "Premium hexagonal double-layer jewelry box with magnetic closure, full velvet flocking interior, and removable tray. Manufactured by Guangdong Bincai Color Printing Co., Ltd. (22 years, founded 2003) at its 18,000 sqm Foshan factory — ISO 9001:2015 & FSC certified, KBA 1050 4-color + Heidelberg 7+1 UV presses, 1.7M boxes daily capacity. Ideal for multi-piece jewelry sets, rings and necklaces, bridal party gifts, and luxury jewelry retail packaging."
+description: "Premium hexagonal double-layer jewelry box with magnetic closure, full velvet flocking interior, and removable tray. Manufactured by Guangdong Bincai Color Printing Co., Ltd. (23 years, founded 2003) at its 18,000 sqm Foshan factory — ISO 9001:2015 & FSC certified, KBA 1050 4-color + Heidelberg 7+1 UV presses, 1.7M boxes daily capacity. Ideal for multi-piece jewelry sets, rings and necklaces, bridal party gifts, and luxury jewelry retail packaging."
 keywords: "hexagonal jewelry box, double-layer jewelry box, magnetic closure jewelry box, velvet flocking box, hexagonal gift box, multi-piece jewelry packaging, ring and necklace box, bridal jewelry box, bincai, guangdong, iso 9001, fsc, kba 1050, heidelberg 7+1 uv, 18000 sqm, 1.7m daily output, custom jewelry packaging, OEM, china jewelry box manufacturer"
 categories: ["special-shape-boxes"]
 params:
@@ -57,7 +57,7 @@ The Hexagonal Double-Layer Jewelry Box is a sophisticated six-sided rigid packag
 | Certifications | ISO 9001:2015, FSC Chain-of-Custody, Sedex SMETA |
 | Daily Output | 1.7M boxes (220,000+ rigid, including complex geometries) |
 | MOQ | 500–1,000 units per design |
-| Experience | 22 years — founded 2003, 350+ skilled workers |
+| Experience | 23 years — founded 2003, 350+ skilled workers |
 | Samples | Free pre-production sample, 5–7 days |
 | Lead Time | 12–16 days (hexagonal construction + tray assembly) |
 
@@ -104,9 +104,9 @@ The Hexagonal Double-Layer Jewelry Box is a sophisticated six-sided rigid packag
 
 ## Why Choose Bincai?
 
-Hexagonal box construction demands precision beyond standard rectangular packaging — the 120° corner angles, multi-faceted lid alignment, and tray-to-base fit require specialized die-making and assembly expertise. Bincai's 22 years of rigid box manufacturing includes extensive experience with non-rectangular geometries, supported by CNC die-making equipment and a dedicated complex-geometry assembly line. Unlike rectangular box specialists who treat hexagonal boxes as edge cases, Bincai has production-tested workflows for six-sided, octagonal, triangular, and custom geometric packaging — delivering consistent quality across every facet.
+Hexagonal box construction demands precision beyond standard rectangular packaging — the 120° corner angles, multi-faceted lid alignment, and tray-to-base fit require specialized die-making and assembly expertise. Bincai's 23 years of rigid box manufacturing includes extensive experience with non-rectangular geometries, supported by CNC die-making equipment and a dedicated complex-geometry assembly line. Unlike rectangular box specialists who treat hexagonal boxes as edge cases, Bincai has production-tested workflows for six-sided, octagonal, triangular, and custom geometric packaging — delivering consistent quality across every facet.
 
-**Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
+**Factory Facts:** Founded 2003 | 23 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
 
 **Shipping:** Flat-packed design reduces freight volume by 55% vs. pre-assembled hexagonal boxes. Standard lead time 12–16 days. Free samples in 5–7 days.
 

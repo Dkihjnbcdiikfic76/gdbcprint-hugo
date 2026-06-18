@@ -3,7 +3,7 @@ title: "18,000 sqm Factory Tour — How Bincai Delivers 1.7 Million Boxes Daily"
 date: 2026-06-12
 draft: false
 image: "/images/hero-factory.webp"
-description: "18,000 sqm Factory Tour — How Bincai Delivers 1.7 Million Boxes Daily — Guangdong Bincai Color Printing, ISO 9001 & FSC certified paper box manufacturer, KBA 1050 + Heidelberg 7+1 UV presses, 22 years experience."
+description: "18,000 sqm Factory Tour — How Bincai Delivers 1.7 Million Boxes Daily — Guangdong Bincai Color Printing, ISO 9001 & FSC certified paper box manufacturer, KBA 1050 + Heidelberg 7+1 UV presses, 23 years experience."
 aliases:
   - /blog/bincai-10000-sqm-factory-tour-production-lines/
 
@@ -11,7 +11,7 @@ aliases:
 
 ![Bincai 18,000 sqm Smart Factory — Aerial View of Production Lines](/images/hero-banner-wide.webp)
 
-Behind every premium paper box leaving our dock sits a manufacturing engine refined over 22 years. Our 18,000 sqm facility (10,000 sqm original + 8,000 sqm smart factory 2025) in Foshan's Shunde district operates as a seamless chain — from pre-press design to final QC — producing 1.7 million boxes every day.
+Behind every premium paper box leaving our dock sits a manufacturing engine refined over 23 years. Our 18,000 sqm facility (10,000 sqm original + 8,000 sqm smart factory 2025) in Foshan's Shunde district operates as a seamless chain — from pre-press design to final QC — producing 1.7 million boxes every day.
 
 ## Four Production Zones, One Workflow
 

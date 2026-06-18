@@ -2,7 +2,7 @@
 title: "Corrugated Multi-Depth Shipping Box with Tear Strip for Subscription Fulfillment"
 date: 2026-06-11
 draft: false
-description: "Multi-depth E-flute corrugated shipper with integrated tear strip for e-commerce subscription boxes. Auto-lock bottom, perforated rip-open strip, custom CMYK branding via KBA 1050 4-color offset and Heidelberg 7+1 UV presses. ISO 9001 & FSC certified, 10,000 sqm factory, 22 years experience, 1.7M+ boxes daily output."
+description: "Multi-depth E-flute corrugated shipper with integrated tear strip for e-commerce subscription boxes. Auto-lock bottom, perforated rip-open strip, custom CMYK branding via KBA 1050 4-color offset and Heidelberg 7+1 UV presses. ISO 9001 & FSC certified, 10,000 sqm factory, 23 years experience, 1.7M+ boxes daily output."
 keywords: "multi-depth corrugated box, subscription box packaging, tear strip shipper, e-commerce shipping box, auto-lock bottom box, Bincai subscription box, corrugated mailer wholesale, branded shipping box, FSC corrugated box, ISO 9001 shipping box, Foshan corrugated manufacturer, custom printed mailer, subscription fulfillment packaging, perforated tear strip, variable depth box"
 categories: ["corrugated-mailers"]
 params:
@@ -16,7 +16,7 @@ params:
 
 ## Product Overview
 
-The Bincai Multi-Depth Corrugated Shipping Box solves the subscription fulfillment industry's biggest pain point: managing dozens of SKUs with seasonally varying contents. The **variable-depth scoring** allows a single box design to compress from 200mm down to 40mm — one box handles everything from a single lipstick to a full skincare regimen. The integrated **perforated tear strip** ensures frustration-free opening (no box cutter needed, no damaged products), while the **auto-lock bottom** assembles in under 3 seconds for high-throughput fulfillment centers. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — ISO 9001:2015 and FSC certified with 22 years of expertise — every box passes burst-strength testing (≥200 PSI Mullen for E-flute) and edge crush verification (ECT ≥ 32 lb/in). Our dual factories produce 1.7M+ boxes daily, shipping to e-commerce brands in 60+ countries.
+The Bincai Multi-Depth Corrugated Shipping Box solves the subscription fulfillment industry's biggest pain point: managing dozens of SKUs with seasonally varying contents. The **variable-depth scoring** allows a single box design to compress from 200mm down to 40mm — one box handles everything from a single lipstick to a full skincare regimen. The integrated **perforated tear strip** ensures frustration-free opening (no box cutter needed, no damaged products), while the **auto-lock bottom** assembles in under 3 seconds for high-throughput fulfillment centers. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — ISO 9001:2015 and FSC certified with 23 years of expertise — every box passes burst-strength testing (≥200 PSI Mullen for E-flute) and edge crush verification (ECT ≥ 32 lb/in). Our dual factories produce 1.7M+ boxes daily, shipping to e-commerce brands in 60+ countries.
 
 ## Applications
 
@@ -106,10 +106,10 @@ Subscription fulfillment demands packaging that adapts to constantly changing pr
 
 **Send us your product dimensions and weight range for a free ISTA 3A transit test report and a structural prototype in 5–7 working days.** Our multi-depth scoring at 10mm increments lets one box handle your entire subscription assortment — eliminating 5–8 fixed-depth SKUs. Built on B-flute (ECT ≥40 lb/in) with integrated tear strip: 3N pull force, clean reveal, zero tools. Bincai's in-house ISTA-certified testing lab validates your box against 10-drop, 0.76m free-fall with weighted contents before production begins.
 
-**Bincai: 22 years, ISO 9001:2015 & FSC certified, 18,000 sqm factory, Diamond Member on Made-in-China.com — 987 products, verified on-site audit.**
+**Bincai: 23 years, ISO 9001:2015 & FSC certified, 18,000 sqm factory, Diamond Member on Made-in-China.com — 987 products, verified on-site audit.**
 
 [→ Get your free ISTA test report](/contact/)  |  📧 qo82@icloud.com | 📱 +86-18934352881
 
 ---
 
-*Guangdong Bincai Color Printing Co., Ltd. — 22 years of packaging excellence. ISO 9001:2015 & FSC certified. 10,000 sqm Foshan factory (18,000 sqm total across dual factories). KBA 1050 4-color offset + Heidelberg Speedmaster 7+1 UV presses for premium CMYK litho-lamination. Daily output: 1.7M+ boxes. Serving 60+ countries worldwide.*
+*Guangdong Bincai Color Printing Co., Ltd. — 23 years of packaging excellence. ISO 9001:2015 & FSC certified. 10,000 sqm Foshan factory (18,000 sqm total across dual factories). KBA 1050 4-color offset + Heidelberg Speedmaster 7+1 UV presses for premium CMYK litho-lamination. Daily output: 1.7M+ boxes. Serving 60+ countries worldwide.*

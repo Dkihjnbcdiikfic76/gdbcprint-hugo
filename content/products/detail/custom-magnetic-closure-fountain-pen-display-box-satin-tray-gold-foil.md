@@ -2,7 +2,7 @@
 title: "Custom Magnetic Closure Premium Fountain Pen Display Box with Satin Tray"
 date: 2026-06-16
 draft: false
-description: "Magnetic closure fountain pen display box with individual satin-lined slots, gold foil monogram, and rigid board construction. Designed for luxury writing instruments, corporate gifts, and collector editions. Manufactured by Bincai with Heidelberg 7+1 UV, Bobst SP 102-E, 22 years experience, ISO 9001:2015 & FSC certified. MOQ 500."
+description: "Magnetic closure fountain pen display box with individual satin-lined slots, gold foil monogram, and rigid board construction. Designed for luxury writing instruments, corporate gifts, and collector editions. Manufactured by Bincai with Heidelberg 7+1 UV, Bobst SP 102-E, 23 years experience, ISO 9001:2015 & FSC certified. MOQ 500."
 keywords: "fountain pen display box, magnetic closure pen box, satin lined pen case, luxury pen packaging, collector pen display, corporate pen gift box, Bincai magnetic box manufacturer, custom pen presentation box, gold foil pen box, writing instrument packaging"
 categories: ["magnetic-closure-boxes"]
 params:
@@ -14,7 +14,7 @@ params:
 
 ![Bincai Magnetic Closure Boxes](/images/magnetic-closure-boxes.jpg)
 
-Magnetic closure fountain pen display box with individual satin-lined slots — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience. This presentation box combines the satisfying snap of a magnetic closure with the visual drama of a satin-lined interior that elevates any writing instrument to heirloom status. Designed for fountain pen manufacturers, luxury corporate gift programs, and collector editions, the box provides exceptional protection and presentation from retail shelf to recipient's desk.
+Magnetic closure fountain pen display box with individual satin-lined slots — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 23 years of experience. This presentation box combines the satisfying snap of a magnetic closure with the visual drama of a satin-lined interior that elevates any writing instrument to heirloom status. Designed for fountain pen manufacturers, luxury corporate gift programs, and collector editions, the box provides exceptional protection and presentation from retail shelf to recipient's desk.
 
 ## Applications
 - Fountain pen and luxury writing instrument display
@@ -52,7 +52,7 @@ Magnetic closure fountain pen display box with individual satin-lined slots — 
 - MOQ 500–1000 units, trial orders and OEM/ODM accepted
 
 ## Factory
-- 22 years of manufacturing excellence since 2003
+- 23 years of manufacturing excellence since 2003
 - 18,000 sqm factory (10,000+8,000 smart factory)
 - 80+ skilled employees including dedicated magnetic closure box craftspeople
 - Heidelberg 7+1 UV press + KBA 1050 4-color offset
@@ -73,7 +73,7 @@ A: The N35 neodymium magnets are positioned in the front flap and base board, ty
 
 ## Why Bincai
 
-- **22 Years of Manufacturing Excellence** — Founded in 2003, Bincai has produced precision rigid boxes for luxury brands worldwide. Our magnetic closure boxes are trusted by pen manufacturers, watch brands, and luxury goods companies.
+- **23 Years of Manufacturing Excellence** — Founded in 2003, Bincai has produced precision rigid boxes for luxury brands worldwide. Our magnetic closure boxes are trusted by pen manufacturers, watch brands, and luxury goods companies.
 - **18,000 sqm Dual Factory** — Dedicated magnetic closure box assembly lines with climate-controlled conditions for adhesive curing and material stability.
 - **German Press Technology** — Heidelberg 7+1 UV press delivers the color accuracy and finish consistency that luxury packaging demands.
 - **ISO 9001:2015 & FSC Certified** — Quality management and sustainable sourcing, verified annually.

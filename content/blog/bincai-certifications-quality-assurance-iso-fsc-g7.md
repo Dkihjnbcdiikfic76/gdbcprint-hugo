@@ -12,7 +12,7 @@ aliases:
 
 ![Bincai Certifications — ISO 9001, FSC, G7 Master Color](/images/hero-banner-wide.webp)
 
-When a European luxury brand places a 50,000-unit order for magnetic closure gift boxes, they don't just trust a promise. They trust a paper trail — and Bincai has spent 22 years building one of the most comprehensive certification stacks in Southern China's packaging industry.
+When a European luxury brand places a 50,000-unit order for magnetic closure gift boxes, they don't just trust a promise. They trust a paper trail — and Bincai has spent 23 years building one of the most comprehensive certification stacks in Southern China's packaging industry.
 
 ## Why Certifications Matter in B2B Paper Box Manufacturing
 
@@ -114,4 +114,4 @@ When you partner with a certified manufacturer, you eliminate three hidden costs
 
 **Ready to discuss certified paper box manufacturing for your brand?** Contact Bincai at [info@gdbcprint.com](mailto:info@gdbcprint.com) with your specifications — we'll respond with a quotation and relevant certification documents within 24 hours.
 
-*Guangdong Bincai Color Printing Co., Ltd. — 18,000 sqm facility, KBA 1050 + Heidelberg 7+1 UV presses, ISO 9001:2015, FSC Chain-of-Custody, G7 Master Color certified. 22 years. 1.7 million boxes daily.*
+*Guangdong Bincai Color Printing Co., Ltd. — 18,000 sqm facility, KBA 1050 + Heidelberg 7+1 UV presses, ISO 9001:2015, FSC Chain-of-Custody, G7 Master Color certified. 23 years. 1.7 million boxes daily.*

@@ -3,7 +3,7 @@ title: "Packaging as Marketing: How Bincai Engineers the Unboxing Experience for
 date: 2026-06-15
 draft: false
 image: "/images/hero-banner-wide.webp"
-description: "The unboxing experience IS your brand's first physical touchpoint with customers. Guangdong Bincai Color Printing engineers unboxing moments for DTC brands — from magnetic-reveal rigid boxes to nested-tray jewelry presentations. 22 years, ISO 9001 & FSC certified, KBA 1050 + Heidelberg 7+1 UV, 1.7M boxes daily output."
+description: "The unboxing experience IS your brand's first physical touchpoint with customers. Guangdong Bincai Color Printing engineers unboxing moments for DTC brands — from magnetic-reveal rigid boxes to nested-tray jewelry presentations. 23 years, ISO 9001 & FSC certified, KBA 1050 + Heidelberg 7+1 UV, 1.7M boxes daily output."
 
 ---
 
@@ -117,7 +117,7 @@ Today's DTC consumers expect sustainability. Bincai delivers:
 
 ## Why International DTC Brands Choose Bincai
 
-Guangdong Bincai Color Printing has been manufacturing paper boxes for **22 years** from our **18,000 sqm facility** in Foshan's Pearl River Delta — the global capital of packaging manufacturing. Our credentials:
+Guangdong Bincai Color Printing has been manufacturing paper boxes for **23 years** from our **18,000 sqm facility** in Foshan's Pearl River Delta — the global capital of packaging manufacturing. Our credentials:
 
 - **ISO 9001:2015** certified quality management
 - **FSC® Chain-of-Custody** certified (License Code: FSC-C176169)
@@ -143,7 +143,7 @@ A well-designed unboxing experience isn't just a cost — it's an investment wit
 
 ## Start Your Packaging Journey
 
-Whether you're launching your first product or scaling to 100,000 units per month, Bincai's team brings 22 years of packaging engineering expertise to your brand.
+Whether you're launching your first product or scaling to 100,000 units per month, Bincai's team brings 23 years of packaging engineering expertise to your brand.
 
 From structural design to final delivery, every box is manufactured under one roof — no subcontractors, no handoffs, no excuses.
 

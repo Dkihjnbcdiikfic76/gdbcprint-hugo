@@ -2,7 +2,7 @@
 title: "Kraft Paper Artisan Soap Gift Set Box — Die-Cut Tray with Compostable PLA Window & Soy Ink Print"
 date: 2026-06-15
 draft: false
-description: "Eco-luxury kraft paper artisan soap gift set box from Guangdong Bincai Color Printing Co., Ltd. (22 years, ISO 9001 & FSC certified, 18,000 sqm dual-factory). Die-cut recycled kraft tray secures 3-6 artisan soap bars with a compostable PLA transparent window showcasing natural colors. Soy-based ink printing, water-based PVA adhesive, and 100% plastic-free construction for truly sustainable luxury. KBA 1050 + Heidelberg 7+1 UV presses, daily output 1.7M boxes, Foshan, China."
+description: "Eco-luxury kraft paper artisan soap gift set box from Guangdong Bincai Color Printing Co., Ltd. (23 years, ISO 9001 & FSC certified, 18,000 sqm dual-factory). Die-cut recycled kraft tray secures 3-6 artisan soap bars with a compostable PLA transparent window showcasing natural colors. Soy-based ink printing, water-based PVA adhesive, and 100% plastic-free construction for truly sustainable luxury. KBA 1050 + Heidelberg 7+1 UV presses, daily output 1.7M boxes, Foshan, China."
 keywords: "kraft paper soap gift box, artisan soap packaging, die-cut tray box, compostable PLA window, soy ink printing, eco-friendly soap box, sustainable gift packaging, plastic-free soap box, bincai, guangdong, iso 9001, fsc, kba 1050, heidelberg 7+1 uv, 18000 sqm, 1.7m daily output, organic soap box, handmade soap packaging, OEM kraft box"
 categories: ["kraft-eco-boxes"]
 params:
@@ -14,7 +14,7 @@ params:
 
 ![Bincai Kraft Artisan Soap Gift Box](/images/kraft-eco-box.jpg)
 
-The kraft paper artisan soap gift set box delivers uncompromising sustainability without sacrificing the premium unboxing experience that handmade soap brands depend on. Manufactured by Guangdong Bincai Color Printing Co., Ltd. — an ISO 9001:2015 and FSC-certified packaging specialist with 22 years of export manufacturing in Foshan — this box pairs a rigid-feel recycled kraft board construction with a crystal-clear compostable PLA window, die-cut interior tray, and soy-based ink printing.
+The kraft paper artisan soap gift set box delivers uncompromising sustainability without sacrificing the premium unboxing experience that handmade soap brands depend on. Manufactured by Guangdong Bincai Color Printing Co., Ltd. — an ISO 9001:2015 and FSC-certified packaging specialist with 23 years of export manufacturing in Foshan — this box pairs a rigid-feel recycled kraft board construction with a crystal-clear compostable PLA window, die-cut interior tray, and soy-based ink printing.
 
 Every material choice serves the eco promise: the 350-400gsm recycled kraft board is FSC Chain-of-Custody traceable, the window film is industrially compostable PLA (EN 13432 certified), the inks are soy-based with heavy-metal-free pigments, and the adhesive is water-based PVA — fully biodegradable and VOC-free. The box is 100% plastic-free and recyclable in standard paper streams.
 
@@ -99,7 +99,7 @@ Every material choice serves the eco promise: the 350-400gsm recycled kraft boar
 A: The standard PLA film is EN 13432 certified for industrial composting — it requires 58°C+ temperatures and active microbial environment found in commercial facilities, not backyard compost. For home compostability (TÜV OK Compost HOME certified), we offer a specialty PLA grade at 10,000+ MOQ. Both options are bio-based and certified compostable.
 
 **Q: Can the soy inks handle moisture from fresh soap bars?**
-A: Yes. Our soy-based inks are formulated with aqueous overprint coating that provides moisture resistance. For soap bars with high glycerin content (melt-and-pour bases), we recommend an additional matte aqueous coating to prevent any potential ink transfer. In 22 years of soap packaging production, we've had zero ink transfer complaints with this system.
+A: Yes. Our soy-based inks are formulated with aqueous overprint coating that provides moisture resistance. For soap bars with high glycerin content (melt-and-pour bases), we recommend an additional matte aqueous coating to prevent any potential ink transfer. In 23 years of soap packaging production, we've had zero ink transfer complaints with this system.
 
 **Q: What's the minimum order for custom tray cavity shapes?**
 A: 500 units per cavity design. New die fabrication for custom tray contours costs $80-120 and takes 2-3 days. For irregular soap shapes, provide a physical sample or CAD file — we 3D-scan the bar and CNC-machine the cutting die to match.
@@ -112,9 +112,9 @@ A: We require annual third-party test reports from our PLA film supplier (accred
 
 ## Why Choose Bincai
 
-Bincai's kraft packaging program is built on 22 years of material expertise — we source FSC-certified recycled kraft directly from Guangdong's board mills, eliminating middlemen and ensuring traceability from forest to finished box. Our compostable PLA film supply chain is audited annually for EN 13432 compliance, and our soy-based ink partnership with a domestic eco-pigment supplier guarantees heavy-metal-free printing. For artisan soap makers scaling from farmers' markets to national retail, Bincai delivers the certifications, material transparency, and production capacity (1.7M daily output) that mass-market sustainability demands.
+Bincai's kraft packaging program is built on 23 years of material expertise — we source FSC-certified recycled kraft directly from Guangdong's board mills, eliminating middlemen and ensuring traceability from forest to finished box. Our compostable PLA film supply chain is audited annually for EN 13432 compliance, and our soy-based ink partnership with a domestic eco-pigment supplier guarantees heavy-metal-free printing. For artisan soap makers scaling from farmers' markets to national retail, Bincai delivers the certifications, material transparency, and production capacity (1.7M daily output) that mass-market sustainability demands.
 
-**Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
+**Factory Facts:** Founded 2003 | 23 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
 
 ---
 

@@ -2,7 +2,7 @@
 title: "Premium Earring Display Box with LED Base and Acrylic Lid"
 date: 2026-06-16
 draft: false
-description: "Premium earring display box with built-in LED base and crystal-clear acrylic lid by Bincai. Custom foam insert, USB-C rechargeable, 22-year ISO 9001 & FSC factory."
+description: "Premium earring display box with built-in LED base and crystal-clear acrylic lid by Bincai. Custom foam insert, USB-C rechargeable, 23-year ISO 9001 & FSC factory."
 keywords: "earring display box, LED jewelry box, acrylic lid display box, illuminated jewelry packaging, earring gift box, rechargeable LED box, Bincai"
 categories: ["jewelry-boxes"]
 params:
@@ -79,7 +79,7 @@ The premium earring display box with built-in LED base and crystal-clear acrylic
 
 | Differentiator | Detail |
 |---|---|
-| **22-Year Legacy** | Since 2003 — 500+ global brands served |
+| **23-Year Legacy** | Since 2003 — 500+ global brands served |
 | **18,000 sqm** | 10,000 sqm + 8,000 sqm smart factory (2025) |
 | **Heidelberg CD 102** | 7+1 UV press for premium wraps |
 | **In-House LED Integration** | No outsourcing — tested and QC'd in Foshan |

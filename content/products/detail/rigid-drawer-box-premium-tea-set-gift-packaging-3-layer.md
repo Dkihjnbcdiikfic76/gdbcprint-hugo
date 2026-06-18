@@ -2,7 +2,7 @@
 title: "Rigid Drawer Box Premium Tea Set Gift Packaging 3-Layer"
 date: 2026-06-15
 draft: false
-description: "Luxury 3-layer rigid drawer box for premium tea set gift packaging — custom manufactured by Guangdong Bincai Color Printing Co., Ltd. 22-year ISO 9001 & FSC certified paper box factory. Three pull-out drawers with ribbon pulls, satin-lined compartments for teapot, cups, and tea canisters. KBA 1050 4-color and Heidelberg 7+1 UV offset printing, 18,000 sqm factory, daily output 1.7 million boxes. MOQ 500 with free pre-production samples. Gold foil stamping, embossing, soft-touch lamination, magnetic drawer closure."
+description: "Luxury 3-layer rigid drawer box for premium tea set gift packaging — custom manufactured by Guangdong Bincai Color Printing Co., Ltd. 23-year ISO 9001 & FSC certified paper box factory. Three pull-out drawers with ribbon pulls, satin-lined compartments for teapot, cups, and tea canisters. KBA 1050 4-color and Heidelberg 7+1 UV offset printing, 18,000 sqm factory, daily output 1.7 million boxes. MOQ 500 with free pre-production samples. Gold foil stamping, embossing, soft-touch lamination, magnetic drawer closure."
 keywords: "rigid drawer box, tea set gift box, 3-layer packaging, luxury tea packaging, premium gift box, custom rigid box manufacturer China, ISO 9001 FSC packaging, Bincai Guangdong, drawer gift box, tea gift packaging, satin lined box, gold foil gift box, magnetic drawer box, OEM rigid box, MOQ 500 gift box, multi-layer gift box, Chinese tea packaging, corporate gift box, rigid presentation box, pull-out drawer box, ribbon pull drawer, luxury paper box, Guangdong packaging factory, custom gift packaging"
 categories: ["rigid-gift-boxes"]
 params:
@@ -20,7 +20,7 @@ tags:
 
 ![Bincai Rigid Drawer Box](/images/rigid-gift-boxes.jpg)
 
-Luxury 3-layer rigid drawer box for premium tea set gift packaging by Guangdong Bincai Color Printing Co., Ltd. — a Diamond Member on Made-in-China.com with 22 years of manufacturing excellence (founded 2003). Three pull-out drawers with elegant ribbon pulls and magnetic closure provide a sophisticated unboxing experience. Satin-lined compartments protect teapots, cups, and tea canisters from scratches during transport and display. Produced on KBA 1050 4-color and Heidelberg 7+1 UV presses across our 18,000 sqm facility (10,000+8,000 smart factory, 2025 expansion). Daily output: 1.7 million color boxes + 220,000+ gift boxes. ISO 9001:2015 and FSC® certified.
+Luxury 3-layer rigid drawer box for premium tea set gift packaging by Guangdong Bincai Color Printing Co., Ltd. — a Diamond Member on Made-in-China.com with 23 years of manufacturing excellence (founded 2003). Three pull-out drawers with elegant ribbon pulls and magnetic closure provide a sophisticated unboxing experience. Satin-lined compartments protect teapots, cups, and tea canisters from scratches during transport and display. Produced on KBA 1050 4-color and Heidelberg 7+1 UV presses across our 18,000 sqm facility (10,000+8,000 smart factory, 2025 expansion). Daily output: 1.7 million color boxes + 220,000+ gift boxes. ISO 9001:2015 and FSC® certified.
 
 ## Applications
 - Premium Chinese and international tea set gift packaging
@@ -62,7 +62,7 @@ Luxury 3-layer rigid drawer box for premium tea set gift packaging by Guangdong 
 6. **Final QC Audit** — AQL 2.5 Level II sampling, 100% visual on luxury-tier orders
 
 ## Why Choose Bincai for Rigid Drawer Boxes
-- **22 Years Experience** since 2003 — we've manufactured over 2 billion paper boxes
+- **23 Years Experience** since 2003 — we've manufactured over 2 billion paper boxes
 - **18,000 sqm manufacturing campus** with 10,000 sqm main factory + 8,000 sqm smart factory (2025)
 - **KBA 1050** 4-color + **Heidelberg 7+1 UV** offset presses with inline aqueous/UV coating
 - **Bobst SP 102 BMA** flatbed die-cutter for precision drawer panels

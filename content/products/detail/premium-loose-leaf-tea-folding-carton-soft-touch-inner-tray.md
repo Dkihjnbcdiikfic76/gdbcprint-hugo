@@ -2,8 +2,8 @@
 title: "Premium Loose-Leaf Tea Folding Carton with Soft-Touch Finish and Inner Tray"
 date: 2026-06-16
 draft: false
-description: "Premium loose-leaf tea folding carton with soft-touch matte lamination, auto-lock bottom, removable inner divider tray, and hot foil logo. Manufactured by Guangdong Bincai Color Printing Co., Ltd. — 22 years experience, KBA Rapida 105 + Heidelberg CD 102 7+1 UV presses, Bobst SP 102 BMA/E die-cutting, ISO 9001:2015 & FSC-C147399 certified, 18,000 sqm dual-factory, 1.7M daily output. Ideal for premium tea brands, tea subscription boxes, and gourmet tea retail. MOQ 500 units."
-keywords: "tea folding carton, loose leaf tea box, soft-touch tea box, tea packaging box, inner tray tea box, custom tea carton, premium tea packaging, Bincai, Guangdong packaging factory, 22 years experience, ISO 9001 certified, FSC certified, 18,000 sqm factory, 1.7M daily output, KBA Rapida 105, Heidelberg CD 102 7+1 UV, Bobst SP 102 BMA, OEM tea box China, tea gift box, loose leaf tea carton, soft-touch lamination box, hot foil stamping tea, tea brand packaging, wholesale tea box, Foshan Guangdong manufacturer, Bincai Color Printing, Diamond Member MIC, pearl river delta manufacturer, folding carton tea, auto-lock bottom box, tea retail packaging, gourmet tea box, tea subscription box, inner divider tea box, matte lamination box, recyclable tea carton, sustainable tea packaging"
+description: "Premium loose-leaf tea folding carton with soft-touch matte lamination, auto-lock bottom, removable inner divider tray, and hot foil logo. Manufactured by Guangdong Bincai Color Printing Co., Ltd. — 23 years experience, KBA Rapida 105 + Heidelberg CD 102 7+1 UV presses, Bobst SP 102 BMA/E die-cutting, ISO 9001:2015 & FSC-C147399 certified, 18,000 sqm dual-factory, 1.7M daily output. Ideal for premium tea brands, tea subscription boxes, and gourmet tea retail. MOQ 500 units."
+keywords: "tea folding carton, loose leaf tea box, soft-touch tea box, tea packaging box, inner tray tea box, custom tea carton, premium tea packaging, Bincai, Guangdong packaging factory, 23 years experience, ISO 9001 certified, FSC certified, 18,000 sqm factory, 1.7M daily output, KBA Rapida 105, Heidelberg CD 102 7+1 UV, Bobst SP 102 BMA, OEM tea box China, tea gift box, loose leaf tea carton, soft-touch lamination box, hot foil stamping tea, tea brand packaging, wholesale tea box, Foshan Guangdong manufacturer, Bincai Color Printing, Diamond Member MIC, pearl river delta manufacturer, folding carton tea, auto-lock bottom box, tea retail packaging, gourmet tea box, tea subscription box, inner divider tea box, matte lamination box, recyclable tea carton, sustainable tea packaging"
 categories: ["folding-cartons"]
 params:
   moq: "500-1000"
@@ -14,7 +14,7 @@ params:
 
 ![Bincai Folding Cartons](/images/folding-cartons.jpg)
 
-Premium loose-leaf tea folding carton with soft-touch matte lamination, auto-lock bottom, and removable inner divider tray — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). The auto-lock bottom ensures rapid assembly without adhesive, while the removable inner tray with 2–6 compartments keeps tea varieties separated and organized. The exterior soft-touch velvet-like lamination creates a premium tactile experience, complemented by hot foil branding. Produced on KBA Rapida 105 + Heidelberg CD 102 7+1 UV presses with Bobst SP 102 BMA/E die-cutting (±0.1mm precision) in our 18,000 sqm dual-factory (10,000+8,000 sqm smart factory, 2025 expansion) in Foshan, Pearl River Delta. Daily output of 1.7M boxes.
+Premium loose-leaf tea folding carton with soft-touch matte lamination, auto-lock bottom, and removable inner divider tray — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 23 years of experience (founded 2003). The auto-lock bottom ensures rapid assembly without adhesive, while the removable inner tray with 2–6 compartments keeps tea varieties separated and organized. The exterior soft-touch velvet-like lamination creates a premium tactile experience, complemented by hot foil branding. Produced on KBA Rapida 105 + Heidelberg CD 102 7+1 UV presses with Bobst SP 102 BMA/E die-cutting (±0.1mm precision) in our 18,000 sqm dual-factory (10,000+8,000 sqm smart factory, 2025 expansion) in Foshan, Pearl River Delta. Daily output of 1.7M boxes.
 
 ## Applications
 - Premium loose-leaf tea brand retail packaging
@@ -83,7 +83,7 @@ Premium loose-leaf tea folding carton with soft-touch matte lamination, auto-loc
 
 | Feature | Bincai | Industry Average |
 |---|---|---|
-| Experience | 22 years (since 2003) | 5–8 years |
+| Experience | 23 years (since 2003) | 5–8 years |
 | Factory Size | 18,000 sqm dual-factory | 3,000–5,000 sqm |
 | Daily Output | 1.7M boxes | 100K–300K |
 | Press Fleet | KBA Rapida 105 + Heidelberg CD 102 7+1 UV | Single conventional press |
@@ -96,6 +96,6 @@ Premium loose-leaf tea folding carton with soft-touch matte lamination, auto-loc
 
 ## Get Your Custom Tea Carton Sample — Free
 
-**Send us your tea pouch dimensions for a free soft-touch sample with your logo in 5–7 days.** Every sample is produced on our KBA Rapida 105 press with the exact materials and finishes you specify — soft-touch lamination, hot foil logo, custom inner tray compartments — so you evaluate the real thing before committing. We're a Diamond Member on Made-in-China.com with 22 years of tea packaging experience, ISO 9001:2015 & FSC certified, shipping 1.7M boxes daily from our 18,000 sqm Foshan factory.
+**Send us your tea pouch dimensions for a free soft-touch sample with your logo in 5–7 days.** Every sample is produced on our KBA Rapida 105 press with the exact materials and finishes you specify — soft-touch lamination, hot foil logo, custom inner tray compartments — so you evaluate the real thing before committing. We're a Diamond Member on Made-in-China.com with 23 years of tea packaging experience, ISO 9001:2015 & FSC certified, shipping 1.7M boxes daily from our 18,000 sqm Foshan factory.
 
 **[Request Your Free Sample →](/contact/)  |  📧 qo82@icloud.com  |  📱 +86-18934352881**

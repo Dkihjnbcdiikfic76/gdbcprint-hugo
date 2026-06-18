@@ -2,8 +2,8 @@
 title: "Reverse Tuck End Folding Carton with Matte Lamination for Organic Tea"
 date: 2026-06-14
 draft: false
-description: "Reverse tuck end (RTE) folding carton with matte lamination and spot UV for organic tea brands by Guangdong Bincai Color Printing — 22 years manufacturing since 2003. 350gsm SBS C1S board with matte lamination and spot UV accent. Reverse tuck end closure for secure retention. CMYK offset + Heidelberg 7+1 UV on KBA 1050 press. Food-grade aqueous coating interior. Window patch option with PLA compostable film. 18,000 sqm ISO 9001, FSC & ISO 15378 GMP certified factory. Daily output 1.7M boxes. MOQ 1000. Foshan, Guangdong."
-keywords: "tea folding carton, reverse tuck end box, matte lamination carton, spot UV packaging, organic tea box, SBS folding carton, food grade packaging, Bincai folding carton, ISO 15378 GMP box, china folding carton manufacturer, KBA 1050 tea box, Heidelberg UV carton, 350gsm carton, compostable window carton, FSC certified box, 22 years manufacturer, OEM tea packaging, Guangdong box factory, RTE carton, aqueous coating box, luxury tea carton, PLA window box, 1.7M daily output, spot UV accent box"
+description: "Reverse tuck end (RTE) folding carton with matte lamination and spot UV for organic tea brands by Guangdong Bincai Color Printing — 23 years manufacturing since 2003. 350gsm SBS C1S board with matte lamination and spot UV accent. Reverse tuck end closure for secure retention. CMYK offset + Heidelberg 7+1 UV on KBA 1050 press. Food-grade aqueous coating interior. Window patch option with PLA compostable film. 18,000 sqm ISO 9001, FSC & ISO 15378 GMP certified factory. Daily output 1.7M boxes. MOQ 1000. Foshan, Guangdong."
+keywords: "tea folding carton, reverse tuck end box, matte lamination carton, spot UV packaging, organic tea box, SBS folding carton, food grade packaging, Bincai folding carton, ISO 15378 GMP box, china folding carton manufacturer, KBA 1050 tea box, Heidelberg UV carton, 350gsm carton, compostable window carton, FSC certified box, 23 years manufacturer, OEM tea packaging, Guangdong box factory, RTE carton, aqueous coating box, luxury tea carton, PLA window box, 1.7M daily output, spot UV accent box"
 categories: ["folding-cartons"]
 params:
   moq: "1000-3000"
@@ -57,7 +57,7 @@ Bincai's reverse tuck end (RTE) folding carton is purpose-built for organic and 
 
 | Strength | Detail |
 |---|---|
-| **22 Years Experience** | Manufacturing premium packaging since 2003, serving 60+ countries |
+| **23 Years Experience** | Manufacturing premium packaging since 2003, serving 60+ countries |
 | **ISO 15378 GMP** | Pharmaceutical-grade clean manufacturing — the highest standard for food-contact packaging |
 | **Advanced Presses** | KBA 1050 4-color offset + Heidelberg 7+1 UV for vibrant, precise printing |
 | **Massive Capacity** | 18,000 sqm integrated factory; 1.7M folding cartons + 220,000+ rigid boxes daily |

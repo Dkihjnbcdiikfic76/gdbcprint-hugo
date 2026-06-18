@@ -2,8 +2,8 @@
 title: "Hexagonal Rigid Gift Box Magnetic Closure Custom Die-Cut Window Wedding"
 date: 2026-06-14
 draft: false
-description: "Elegant hexagonal rigid gift box with magnetic flip-lid, custom die-cut window for product visibility, and premium velvet/satin interior. Ideal for wedding favors, luxury confectionery, corporate gifts, and premium cosmetics. 6-sided geometric design with 2.5mm greyboard construction, N52 neodymium magnet closure, and gold/silver foil stamping. Manufactured on KBA Rapida 105 4-color + Heidelberg Speedmaster CD 102 7+1 UV presses at Bincai's 18,000 sqm ISO 9001:2015 & FSC certified factory. 22 years Guangdong manufacturing. 220,000+ boxes daily. MOQ 500."
-keywords: "hexagonal gift box, geometric rigid box, wedding favor box, die-cut window box, magnetic closure hexagon box, luxury confectionery packaging, corporate gift box, six-sided gift box, premium cosmetic box, custom shaped rigid box, Bincai, KBA 1050 offset, Heidelberg 7+1 UV, ISO 9001 FSC, 18,000 sqm factory, 22 years factory, Guangdong gift box, N52 neodymium magnets"
+description: "Elegant hexagonal rigid gift box with magnetic flip-lid, custom die-cut window for product visibility, and premium velvet/satin interior. Ideal for wedding favors, luxury confectionery, corporate gifts, and premium cosmetics. 6-sided geometric design with 2.5mm greyboard construction, N52 neodymium magnet closure, and gold/silver foil stamping. Manufactured on KBA Rapida 105 4-color + Heidelberg Speedmaster CD 102 7+1 UV presses at Bincai's 18,000 sqm ISO 9001:2015 & FSC certified factory. 23 years Guangdong manufacturing. 220,000+ boxes daily. MOQ 500."
+keywords: "hexagonal gift box, geometric rigid box, wedding favor box, die-cut window box, magnetic closure hexagon box, luxury confectionery packaging, corporate gift box, six-sided gift box, premium cosmetic box, custom shaped rigid box, Bincai, KBA 1050 offset, Heidelberg 7+1 UV, ISO 9001 FSC, 18,000 sqm factory, 23 years factory, Guangdong gift box, N52 neodymium magnets"
 categories: ["special-shape-boxes"]
 params:
   moq: "500"
@@ -62,7 +62,7 @@ Hexagonal rigid gift box with magnetic closure and custom die-cut window — a s
 
 ## Factory
 
-- 22 years manufacturing experience (founded 2003)
+- 23 years manufacturing experience (founded 2003)
 - 18,000 sqm factory (10,000 sqm main + 8,000 sqm smart factory)
 - KBA Rapida 105 4-color + Heidelberg Speedmaster CD 102 7+1 UV
 - Specialized die-cutting department with 10+ automatic die-cutters

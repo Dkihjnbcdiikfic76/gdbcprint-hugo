@@ -2,7 +2,7 @@
 title: "Magnetic Closure Lipstick Gift Box"
 date: 2026-06-11
 draft: false
-description: "Slim magnetic closure lipstick gift box with rigid greyboard construction, soft-touch matte finish, and custom foil logo — printed on Heidelberg Speedmaster CD 102 7+1 UV and KBA Rapida 105 4-color (15,000 sheets/hr) presses. Foil-stamped on Bobst SP 102 BMA flatbed. Manufactured in Bincai's 18,000 sqm dual-factory (10,000+8,000 smart factory 2025) in Foshan China. ISO 9001:2015 and FSC Chain-of-Custody (FSC-C147399) certified, Sedex SMETA audited. 22 years since 2003, 350+ workers, 1.7M color boxes + 220K rigid boxes daily. Ideal for luxury beauty brands. MOQ 500, free samples 5-7 days."
+description: "Slim magnetic closure lipstick gift box with rigid greyboard construction, soft-touch matte finish, and custom foil logo — printed on Heidelberg Speedmaster CD 102 7+1 UV and KBA Rapida 105 4-color (15,000 sheets/hr) presses. Foil-stamped on Bobst SP 102 BMA flatbed. Manufactured in Bincai's 18,000 sqm dual-factory (10,000+8,000 smart factory 2025) in Foshan China. ISO 9001:2015 and FSC Chain-of-Custody (FSC-C147399) certified, Sedex SMETA audited. 23 years since 2003, 350+ workers, 1.7M color boxes + 220K rigid boxes daily. Ideal for luxury beauty brands. MOQ 500, free samples 5-7 days."
 keywords: "magnetic lipstick box, cosmetic packaging box, lipstick gift box, custom magnetic box, beauty packaging, rigid cosmetic box, Bincai packaging, wholesale cosmetic box, custom printed lipstick box, brand cosmetic pack, soft touch box, spot UV packaging, foil stamped cosmetic box, luxury beauty packaging, magnetic closure cosmetic box, ISO certified cosmetic packaging, FSC packaging supplier, Guangdong cosmetic box factory, KBA Rapida 105 cosmetic printing, Heidelberg UV lipstick box, Bobst SP 102 foil stamping box, rigid magnetic box manufacturer Foshan, neodymium magnet cosmetic box, 220K rigid boxes daily output, cosmetic box MOQ 500, Sedex SMETA beauty packaging, Pearl River Delta gift box factory, custom EVA foam insert cosmetic, velvet flocked lipstick tray, luxury unboxing experience packaging"
 categories: ["magnetic-closure-boxes"]
 params:
@@ -86,7 +86,7 @@ The Bincai Magnetic Closure Lipstick Gift Box serves luxury beauty brands across
 
 ## Factory
 
-- 22 years of manufacturing excellence since 2003
+- 23 years of manufacturing excellence since 2003
 - Dual factories: 10,000 sqm main + 8,000 sqm smart factory in Foshan, Pearl River Delta
 - 500+ skilled workers across 3 shifts
 - ISO 9001:2015 certified quality management system
@@ -103,7 +103,7 @@ The Bincai Magnetic Closure Lipstick Gift Box serves luxury beauty brands across
 |---|---|
 | **Presses** | KBA Rapida 105 4-color offset (15,000 sheets/hr) + Heidelberg Speedmaster CD 102 7+1 UV with inter-deck curing for precision brand logo reproduction |
 | **Factory** | 18,000 sqm dual-factory campus (10,000 sqm original + 8,000 sqm Gaobu smart factory, renovated 2025) in Foshan, Pearl River Delta, China |
-| **Experience** | 22 years of continuous manufacturing since 2003; 350+ skilled workers including dedicated beauty packaging specialists |
+| **Experience** | 23 years of continuous manufacturing since 2003; 350+ skilled workers including dedicated beauty packaging specialists |
 | **Daily Output** | 1.7 million color boxes/day + 220,000+ rigid/gift boxes daily across 6 dedicated production lines |
 | **Specialty** | Bobst SP 102 BMA flatbed hot foil stamping; CNC die-cut EVA foam inserts; neodymium magnet embedding; soft-touch coating station |
 | **Sampling** | Free pre-production samples in 5–7 working days; velvet-lined prototypes in 7 days; Diamond Member on Made-in-China.com |
@@ -152,4 +152,4 @@ A: We offer CNC die-cut EVA foam (30–45 Shore A hardness) with cavity toleranc
 
 **Q: What certifications does Bincai hold for cosmetic packaging?**
 
-A: Our facility holds ISO 9001:2015 quality management, FSC Chain-of-Custody (FSC-C147399) for sustainable sourcing, Sedex SMETA for social compliance, and REACH compliance (EU 1907/2006) for all materials. All adhesives, inks, and coatings are tested for Substances of Very High Concern (SVHC). We are Diamond Member on Made-in-China.com with 22 years of verified manufacturing history.
+A: Our facility holds ISO 9001:2015 quality management, FSC Chain-of-Custody (FSC-C147399) for sustainable sourcing, Sedex SMETA for social compliance, and REACH compliance (EU 1907/2006) for all materials. All adhesives, inks, and coatings are tested for Substances of Very High Concern (SVHC). We are Diamond Member on Made-in-China.com with 23 years of verified manufacturing history.

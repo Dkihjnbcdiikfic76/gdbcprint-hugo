@@ -4,7 +4,7 @@ date: 2026-06-17
 draft: false
 categories: ["case-studies"]
 description: "某中东高端珠宝零售品牌（海湾地区超过60家门店）需要为每季新品快速交付带LED照明和定制Logo的高端珠宝展示盒。缤彩的KBA+海德堡产线、FSC认证材料和快速打样能力使其从意大利供应商切换，9个月内完成8笔订单共52,000个珠宝盒。"
-keywords: "珠宝包装案例研究, LED jewelry display box, 中东珠宝包装, Bincai paper box, 广东制造, FSC certified, ISO 9001, LED ring box, velvet jewelry box, custom logo, 18,000sqm factory, KBA Heidelberg, 22 years experience, 1.7M daily capacity"
+keywords: "珠宝包装案例研究, LED jewelry display box, 中东珠宝包装, Bincai paper box, 广东制造, FSC certified, ISO 9001, LED ring box, velvet jewelry box, custom logo, 18,000sqm factory, KBA Heidelberg, 23 years experience, 1.7M daily capacity"
 ---
 
 ## 行业背景

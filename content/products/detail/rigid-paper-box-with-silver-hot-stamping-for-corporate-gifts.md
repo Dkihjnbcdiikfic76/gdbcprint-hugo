@@ -2,7 +2,7 @@
 title: "Rigid Paper Box with Silver Hot Stamping for Corporate Gifts"
 date: 2026-06-10
 draft: false
-description: "Luxury custom rigid paper box with silver hot foil stamping for premium corporate gifts and executive gifting. ISO 9001 & FSC certified manufacturer with 22 years experience, 18,000 sqm factory (10,000+8,000 smart factory), KBA Rapida 105 4-color + Heidelberg Speedmaster CD 102 7+1 UV + Bobst SP 102 BMA hot foil stamping, fully automatic rigid box assembly line. Greyboard 1000-2000gsm, art paper wrapping 128-200gsm, interior velvet/satin lining, silver edge gilding. Daily output 220,000 rigid boxes, 1.7M boxes total. MOQ 500, free pre-production sample 5-7 days."
+description: "Luxury custom rigid paper box with silver hot foil stamping for premium corporate gifts and executive gifting. ISO 9001 & FSC certified manufacturer with 23 years experience, 18,000 sqm factory (10,000+8,000 smart factory), KBA Rapida 105 4-color + Heidelberg Speedmaster CD 102 7+1 UV + Bobst SP 102 BMA hot foil stamping, fully automatic rigid box assembly line. Greyboard 1000-2000gsm, art paper wrapping 128-200gsm, interior velvet/satin lining, silver edge gilding. Daily output 220,000 rigid boxes, 1.7M boxes total. MOQ 500, free pre-production sample 5-7 days."
 keywords: "rigid paper box, silver hot stamping box, corporate gift box, custom rigid box, luxury corporate packaging, silver foil stamping, premium gift box manufacturer, Bincai rigid box, corporate packaging factory, hot foil stamping box, silver foiled gift box, executive gift packaging, rigid gift box wholesale, Guangdong rigid box factory, FSC certified rigid box, magnetic closure gift box, custom logo rigid box, luxury paper box China, corporate appreciation gifts, velvet lined gift box"
 categories: ["rigid-gift-boxes"]
 params:
@@ -14,7 +14,7 @@ params:
 
 ![Bincai Rigid Gift Boxes](/images/rigid-gift-boxes.jpg)
 
-Luxury rigid paper box with silver hot foil stamping designed for premium corporate gifting — manufactured by Guangdong Bincai Color Printing Co., Ltd., a 22-year full-chain packaging enterprise (founded 2003) in Foshan, China. 18,000 sqm factory (10,000+8,000 smart factory) with KBA 1050 4-color and Heidelberg 7+1 UV offset presses plus Bobst hot foil stamping. Daily output 1.7 million boxes. ISO 9001 & FSC certified.
+Luxury rigid paper box with silver hot foil stamping designed for premium corporate gifting — manufactured by Guangdong Bincai Color Printing Co., Ltd., a 23-year full-chain packaging enterprise (founded 2003) in Foshan, China. 18,000 sqm factory (10,000+8,000 smart factory) with KBA 1050 4-color and Heidelberg 7+1 UV offset presses plus Bobst hot foil stamping. Daily output 1.7 million boxes. ISO 9001 & FSC certified.
 
 ## Applications
 - Executive corporate gift sets and year-end appreciation gifts
@@ -58,7 +58,7 @@ Luxury rigid paper box with silver hot foil stamping designed for premium corpor
 - **Free pre-production sample** with full decoration — 5–7 working day turnaround
 
 ## Factory
-- 22 years of manufacturing excellence since 2003 in Foshan, Guangdong, China
+- 23 years of manufacturing excellence since 2003 in Foshan, Guangdong, China
 - 18,000 sqm integrated facility (10,000+8,000 smart factory, commissioned 2025)
 - 80+ skilled employees including dedicated rigid box craftspeople
 - KBA 1050 4-color + Heidelberg 7+1 UV + Bobst foil stamping + fully automatic rigid box assembly line

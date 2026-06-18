@@ -2,8 +2,8 @@
 title: "Magnetic Closure Corporate Presentation Kit Box with Custom Foam Insert for Brochures and Pen"
 date: 2026-06-14
 draft: false
-description: "Premium magnetic closure corporate presentation kit box — custom die-cut foam insert for A4 brochures, business cards, and premium pen. 2.5mm greyboard with soft-touch matte lamination, gold/silver foil branding on Bobst SP 102 BMA, hidden N52 neodymium magnets. CNC corner wrapping ±0.3mm. Manufactured on KBA Rapida 105 4-color + Heidelberg Speedmaster CD 102 7+1 UV + Bobst Visioncut 106 LER + Bobst Expertfold 110 A2 at Bincai's 18,000 sqm ISO 9001:2015 & FSC-C147399 & Sedex SMETA & BSCI certified factory. 22 years Guangdong manufacturing since 2003. 220,000+ rigid boxes daily. MOQ 500."
-keywords: "corporate presentation kit box, magnetic closure brochure box, foam insert presentation case, A4 document portfolio box, corporate gift kit, luxury presentation box, Bincai, KBA 1050, Heidelberg 7+1 UV, Bobst Visioncut 106 LER, Bobst Expertfold 110 A2, Bobst SP 102 BMA, ISO 9001 FSC, N52 magnets, die-cut foam insert, 18,000 sqm factory, 22 years factory, 220K daily output, Guangdong rigid box, Sedex SMETA, BSCI, FSC-C147399, CNC corner wrapping, soft-touch lamination, investor pitch kit, client onboarding box, luxury document case"
+description: "Premium magnetic closure corporate presentation kit box — custom die-cut foam insert for A4 brochures, business cards, and premium pen. 2.5mm greyboard with soft-touch matte lamination, gold/silver foil branding on Bobst SP 102 BMA, hidden N52 neodymium magnets. CNC corner wrapping ±0.3mm. Manufactured on KBA Rapida 105 4-color + Heidelberg Speedmaster CD 102 7+1 UV + Bobst Visioncut 106 LER + Bobst Expertfold 110 A2 at Bincai's 18,000 sqm ISO 9001:2015 & FSC-C147399 & Sedex SMETA & BSCI certified factory. 23 years Guangdong manufacturing since 2003. 220,000+ rigid boxes daily. MOQ 500."
+keywords: "corporate presentation kit box, magnetic closure brochure box, foam insert presentation case, A4 document portfolio box, corporate gift kit, luxury presentation box, Bincai, KBA 1050, Heidelberg 7+1 UV, Bobst Visioncut 106 LER, Bobst Expertfold 110 A2, Bobst SP 102 BMA, ISO 9001 FSC, N52 magnets, die-cut foam insert, 18,000 sqm factory, 23 years factory, 220K daily output, Guangdong rigid box, Sedex SMETA, BSCI, FSC-C147399, CNC corner wrapping, soft-touch lamination, investor pitch kit, client onboarding box, luxury document case"
 categories: ["magnetic-closure-boxes"]
 params:
   moq: "500-1000"
@@ -16,7 +16,7 @@ params:
 
 ## Product Description
 
-Magnetic closure corporate presentation kit box with custom foam insert — designed and manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). This premium presentation case transforms a stack of documents into a memorable brand experience. The custom die-cut EVA or PU foam insert precisely holds A4 brochures, business cards, a premium pen, and a USB drive or product sample — every item has its designated place. Hidden N52 neodymium magnets provide a satisfying snap closure that conveys quality the moment the recipient opens the box. The exterior features soft-touch matte lamination with gold or silver foil-stamped logo, delivering the weight and presence of a luxury product.
+Magnetic closure corporate presentation kit box with custom foam insert — designed and manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 23 years of experience (founded 2003). This premium presentation case transforms a stack of documents into a memorable brand experience. The custom die-cut EVA or PU foam insert precisely holds A4 brochures, business cards, a premium pen, and a USB drive or product sample — every item has its designated place. Hidden N52 neodymium magnets provide a satisfying snap closure that conveys quality the moment the recipient opens the box. The exterior features soft-touch matte lamination with gold or silver foil-stamped logo, delivering the weight and presence of a luxury product.
 
 Produced on German-engineered KBA Rapida 105 4-color offset press and Heidelberg Speedmaster CD 102 7+1 UV press at our 18,000 sqm Foshan facility. Bobst SP 102 BMA handles hot foil stamping with ±0.15mm registration for flawless branding. Bobst Visioncut 106 LER ensures precision die-cutting of the greyboard structure. Bobst Expertfold 110 A2 delivers high-speed, consistent assembly. Daily output of 220,000+ rigid boxes under ISO 9001:2015, FSC-C147399, Sedex SMETA, and BSCI certification. 350+ skilled workforce operating three shifts for rapid turnaround.
 
@@ -69,7 +69,7 @@ Every presentation kit box is engineered precisely for your content:
 | **Certifications** | ISO 9001:2015, FSC-C147399, Sedex SMETA, BSCI |
 | **Daily Output** | 220,000+ rigid boxes, 1.7M total across all categories |
 | **Workforce** | 350+ skilled employees, 3-shift production |
-| **Experience** | 22 years (founded 2003) |
+| **Experience** | 23 years (founded 2003) |
 | **MOQ** | 500 pieces; 7-15 day sample turnaround; free pre-production samples |
 
 ## Quality Assurance
@@ -91,12 +91,12 @@ Our ISO 9001:2015 QMS ensures the 500th box is identical to the first. FSC-C1473
 
 ## Why Choose Bincai
 
-Bincai's presentation kit boxes are used by Fortune 500 companies for investor roadshows and by boutique consultancies for client deliverables. We understand that a presentation kit is an extension of your brand — the weight of the greyboard, the snap of the N52 magnetic closure, the precision of the foam insert, the flawless ±0.15mm foil registration on the Bobst SP 102 BMA — all communicate uncompromising attention to detail before the recipient reads a single word. With 22 years of rigid box manufacturing in Guangdong, in-house structural design, and four flagship machines under one roof (KBA Rapida 105, Heidelberg CD 102 7+1 UV, Bobst Visioncut 106 LER, Bobst Expertfold 110 A2), Bincai delivers presentation packaging that makes your work look as important as it is.
+Bincai's presentation kit boxes are used by Fortune 500 companies for investor roadshows and by boutique consultancies for client deliverables. We understand that a presentation kit is an extension of your brand — the weight of the greyboard, the snap of the N52 magnetic closure, the precision of the foam insert, the flawless ±0.15mm foil registration on the Bobst SP 102 BMA — all communicate uncompromising attention to detail before the recipient reads a single word. With 23 years of rigid box manufacturing in Guangdong, in-house structural design, and four flagship machines under one roof (KBA Rapida 105, Heidelberg CD 102 7+1 UV, Bobst Visioncut 106 LER, Bobst Expertfold 110 A2), Bincai delivers presentation packaging that makes your work look as important as it is.
 
 ---
 
 ## Send Your Document Specs — Free Die-Cut Foam Insert Sample
 
-**Email us your brochure dimensions and pen diameter — get a free die-cut EVA foam insert sample with your logo in 5-7 working days.** Our Bobst Visioncut 106 LER delivers ±0.2mm precision foam cavities, and our 22 years of rigid box manufacturing combined with ISO 9001:2015, FSC-C147399, Sedex SMETA, and BSCI certification means your investor roadshow or client pitch kit arrives with Fortune 500 quality — every time.
+**Email us your brochure dimensions and pen diameter — get a free die-cut EVA foam insert sample with your logo in 5-7 working days.** Our Bobst Visioncut 106 LER delivers ±0.2mm precision foam cavities, and our 23 years of rigid box manufacturing combined with ISO 9001:2015, FSC-C147399, Sedex SMETA, and BSCI certification means your investor roadshow or client pitch kit arrives with Fortune 500 quality — every time.
 
 **[→ Contact us](/contact/)  |  📧 qo82@icloud.com  |  📱 +86-18934352881**

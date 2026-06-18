@@ -2,7 +2,7 @@
 title: "Straight Tuck End Folding Carton — Aqueous Coating with Spot UV for Premium Electronics Accessories"
 date: 2026-06-15
 draft: false
-description: "Crisp straight tuck end folding carton from Guangdong Bincai Color Printing Co., Ltd. (22 years, ISO 9001 & FSC certified, 18,000 sqm dual-factory). 350gsm CCNB/coated duplex board with matte aqueous coating and precision Spot UV accents for premium electronics accessory packaging — earbuds, charging cables, power banks, phone cases, screen protectors. KBA 1050 4-color offset printing at 200 LPI, Heidelberg 7+1 UV inline coating, auto-lock bottom option. Daily output 1.7M boxes, Foshan, China."
+description: "Crisp straight tuck end folding carton from Guangdong Bincai Color Printing Co., Ltd. (23 years, ISO 9001 & FSC certified, 18,000 sqm dual-factory). 350gsm CCNB/coated duplex board with matte aqueous coating and precision Spot UV accents for premium electronics accessory packaging — earbuds, charging cables, power banks, phone cases, screen protectors. KBA 1050 4-color offset printing at 200 LPI, Heidelberg 7+1 UV inline coating, auto-lock bottom option. Daily output 1.7M boxes, Foshan, China."
 keywords: "straight tuck end folding carton, electronics accessory box, spot UV packaging, aqueous coating carton, earbud packaging box, charging cable box, power bank packaging, phone case box, bincai, guangdong, iso 9001, fsc, kba 1050, heidelberg 7+1 uv, 18000 sqm, 1.7m daily output, OEM folding carton, premium retail box"
 categories: ["folding-cartons"]
 params:
@@ -14,7 +14,7 @@ params:
 
 ![Bincai Straight Tuck End Folding Carton for Electronics](/images/folding-cartons.jpg)
 
-The straight tuck end (STE) folding carton is the workhorse of electronics accessory packaging — efficient to manufacture, compact to ship flat, and capable of premium presentation when finished with aqueous coating and precision Spot UV. Manufactured by Guangdong Bincai Color Printing Co., Ltd., a 22-year Foshan paper box specialist with ISO 9001:2015 and FSC Chain-of-Custody certifications, this carton prints on 350gsm CCNB (clay-coated newsback) or coated duplex board on the KBA Rapida 105 4-color offset press at 200 LPI, then receives inline matte aqueous coating with selective Spot UV on the Heidelberg Speedmaster CD 102 7+1 UV press.
+The straight tuck end (STE) folding carton is the workhorse of electronics accessory packaging — efficient to manufacture, compact to ship flat, and capable of premium presentation when finished with aqueous coating and precision Spot UV. Manufactured by Guangdong Bincai Color Printing Co., Ltd., a 23-year Foshan paper box specialist with ISO 9001:2015 and FSC Chain-of-Custody certifications, this carton prints on 350gsm CCNB (clay-coated newsback) or coated duplex board on the KBA Rapida 105 4-color offset press at 200 LPI, then receives inline matte aqueous coating with selective Spot UV on the Heidelberg Speedmaster CD 102 7+1 UV press.
 
 Spot UV accents on logo areas, product images, or feature callouts create a tactile contrast against the matte background — the consumer's fingers register the difference between smooth matte and glossy raised UV before they even read the text. With an 18,000 sqm dual-factory and 1.7 million boxes daily output capacity, Bincai handles electronics accessory volumes from startup Kickstarter campaigns to multinational retail chains.
 
@@ -73,4 +73,4 @@ Spot UV accents on logo areas, product images, or feature callouts create a tact
 
 Electronics accessory packaging demands precision — a 0.5mm misalignment in die-cutting means a phone case doesn't fit, and a Spot UV registration error betrays the quality promise of the product inside. Bincai's KBA-to-Heidelberg inline workflow eliminates these risks: the KBA 1050 prints at 200 LPI, then the Heidelberg 7+1 UV applies coating and Spot UV in a single pass without re-registration, maintaining ±0.15mm color accuracy throughout. For DTC electronics brands scaling from online-only to retail shelves, the Euro hang tab option plus FSC certification provides instant shelf-ready compliance across North American and European retail channels.
 
-**Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
+**Factory Facts:** Founded 2003 | 23 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China

@@ -2,8 +2,8 @@
 title: "Magnetic Closure Tea Set Gift Box with Custom Foam Insert"
 date: 2026-06-11
 draft: false
-description: "Luxury magnetic closure rigid tea set gift box with custom CNC die-cut EVA foam insert by Guangdong Bincai Color Printing — 22 years, 18,000 sqm (10,000+8,000 smart factory) ISO 9001 & FSC certified, KBA 1050 4-color offset + Heidelberg Speedmaster 7+1 UV presses, 1.7M daily output. 1600gsm greyboard, gold/silver/rose gold foil stamping, matte/soft-touch lamination, neodymium N35 magnets, satin ribbon. Custom die-cut foam cradles teapots, cups, accessories — eliminates ceramic breakage during shipping. 7-stage QC gates including magnet pull-force verification (8-12N), foam fitment ±0.5mm, ISTA 1A drop testing. MOQ 500. Serving 60+ countries worldwide."
-keywords: "tea set gift box, magnetic closure tea box, custom foam insert packaging, ceramic tea set box, luxury tea packaging, Bincai tea box, rigid tea gift box, wholesale tea packaging, FSC tea box, ISO 9001 tea packaging, Guangdong tea box manufacturer, gold foil tea box, premium tea set packaging, custom die-cut foam box, tea gift wholesale, magnetic rigid box, EVA foam insert gift box, Pu'er tea packaging box, ceremonial matcha box, yixing clay pot gift box, corporate tea gift packaging, luxury rigid box China, 1600gsm greyboard tea box, neodymium magnet closure box, Heidelberg 7+1 UV tea box, KBA 1050 tea packaging, 18,000 sqm factory, 22 years manufacturer, 1.7M daily output, satin ribbon tea box, soft-touch lamination box, ISTA 1A tested gift box, 7-stage QC tea packaging, FSC-C147294, sustainable tea gift box, soy-based ink tea packaging, OEM tea box manufacturer, MOQ 500 tea box, hot foil stamping gift box, foam fitment ±0.5mm"
+description: "Luxury magnetic closure rigid tea set gift box with custom CNC die-cut EVA foam insert by Guangdong Bincai Color Printing — 23 years, 18,000 sqm (10,000+8,000 smart factory) ISO 9001 & FSC certified, KBA 1050 4-color offset + Heidelberg Speedmaster 7+1 UV presses, 1.7M daily output. 1600gsm greyboard, gold/silver/rose gold foil stamping, matte/soft-touch lamination, neodymium N35 magnets, satin ribbon. Custom die-cut foam cradles teapots, cups, accessories — eliminates ceramic breakage during shipping. 7-stage QC gates including magnet pull-force verification (8-12N), foam fitment ±0.5mm, ISTA 1A drop testing. MOQ 500. Serving 60+ countries worldwide."
+keywords: "tea set gift box, magnetic closure tea box, custom foam insert packaging, ceramic tea set box, luxury tea packaging, Bincai tea box, rigid tea gift box, wholesale tea packaging, FSC tea box, ISO 9001 tea packaging, Guangdong tea box manufacturer, gold foil tea box, premium tea set packaging, custom die-cut foam box, tea gift wholesale, magnetic rigid box, EVA foam insert gift box, Pu'er tea packaging box, ceremonial matcha box, yixing clay pot gift box, corporate tea gift packaging, luxury rigid box China, 1600gsm greyboard tea box, neodymium magnet closure box, Heidelberg 7+1 UV tea box, KBA 1050 tea packaging, 18,000 sqm factory, 23 years manufacturer, 1.7M daily output, satin ribbon tea box, soft-touch lamination box, ISTA 1A tested gift box, 7-stage QC tea packaging, FSC-C147294, sustainable tea gift box, soy-based ink tea packaging, OEM tea box manufacturer, MOQ 500 tea box, hot foil stamping gift box, foam fitment ±0.5mm"
 categories: ["magnetic-closure-boxes"]
 params:
   moq: "500-1000"
@@ -16,7 +16,7 @@ params:
 
 ## Product Overview
 
-The Bincai Magnetic Closure Tea Set Gift Box is purpose-built for premium tea brands, ceramic artisans, and corporate gift programs requiring luxurious presentation with secure transport protection. Each box features a **custom die-cut EVA foam insert** precision-machined to cradle teapots, cups, and accessories — eliminating in-transit breakage while creating a premium unboxing experience. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — an ISO 9001:2015 and FSC Chain-of-Custody certified factory with 22 years of packaging expertise — every box passes 12-point QC inspection including magnet pull-force verification (8-12N range), foam insert fitment tolerance check (±0.5mm), and lamination adhesion cross-hatch testing. Our 18,000 sqm facility (10,000+8,000 smart factory, 2025) delivers 220,000+ gift boxes daily on Heidelberg 7+1 UV and KBA 1050 press lines.
+The Bincai Magnetic Closure Tea Set Gift Box is purpose-built for premium tea brands, ceramic artisans, and corporate gift programs requiring luxurious presentation with secure transport protection. Each box features a **custom die-cut EVA foam insert** precision-machined to cradle teapots, cups, and accessories — eliminating in-transit breakage while creating a premium unboxing experience. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — an ISO 9001:2015 and FSC Chain-of-Custody certified factory with 23 years of packaging expertise — every box passes 12-point QC inspection including magnet pull-force verification (8-12N range), foam insert fitment tolerance check (±0.5mm), and lamination adhesion cross-hatch testing. Our 18,000 sqm facility (10,000+8,000 smart factory, 2025) delivers 220,000+ gift boxes daily on Heidelberg 7+1 UV and KBA 1050 press lines.
 
 ## Applications
 
@@ -107,7 +107,7 @@ The Bincai Magnetic Closure Tea Set Gift Box is purpose-built for premium tea br
 
 ## Why Choose Bincai for Tea Gift Packaging
 
-- **22 years of luxury packaging expertise** — established 2003, trusted by premium tea brands across 60+ countries
+- **23 years of luxury packaging expertise** — established 2003, trusted by premium tea brands across 60+ countries
 - **18,000 sqm integrated facility** — 10,000 sqm main plant + 8,000 sqm smart factory (2025 expansion)
 - **Heidelberg Speedmaster 7+1 UV** — 7 colors + coating in a single pass for flawless gradients and metallic effects
 - **KBA Rapida 105 4-color** — 15,000 sheets/hour high-speed offset with soy-based inks
@@ -145,4 +145,4 @@ A: Multiple: (1) FSC-certified greyboard and surface paper — full chain-of-cus
 
 ---
 
-*Guangdong Bincai Color Printing Co., Ltd. — 22 years of packaging excellence. ISO 9001:2015 & FSC certified. 18,000 sqm Foshan facility (10,000+8,000 smart factory). Daily output: 1.7M+ boxes. Serving 60+ countries worldwide.*
+*Guangdong Bincai Color Printing Co., Ltd. — 23 years of packaging excellence. ISO 9001:2015 & FSC certified. 18,000 sqm Foshan facility (10,000+8,000 smart factory). Daily output: 1.7M+ boxes. Serving 60+ countries worldwide.*

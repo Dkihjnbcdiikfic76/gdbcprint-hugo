@@ -2,7 +2,7 @@
 title: "Slim Magnetic Closure Box for Premium Stationery and Notebook Gift Sets"
 date: 2026-06-16
 draft: false
-description: "Slim Magnetic Closure Box for Premium Stationery and Notebook Gift Sets — Bincai Printing, 22-year ISO 9001 & FSC certified manufacturer. Slim-profile rigid box with concealed magnetic closure, ideal for A5 notebooks, planners, pen sets, and corporate stationery kits. KBA 1050 4-color + Heidelberg 7+1 UV, 18,000 sqm factory, 1.7M daily output. MOQ 500. Custom sizes, debossed logo, soft-touch lamination, ribbon lift."
+description: "Slim Magnetic Closure Box for Premium Stationery and Notebook Gift Sets — Bincai Printing, 23-year ISO 9001 & FSC certified manufacturer. Slim-profile rigid box with concealed magnetic closure, ideal for A5 notebooks, planners, pen sets, and corporate stationery kits. KBA 1050 4-color + Heidelberg 7+1 UV, 18,000 sqm factory, 1.7M daily output. MOQ 500. Custom sizes, debossed logo, soft-touch lamination, ribbon lift."
 keywords: "magnetic closure box, stationery gift box, notebook packaging, slim rigid box, pen set box, corporate stationery, premium paper box, custom gift box, ISO 9001 FSC, Bincai Guangdong, planner box, journal packaging, luxury stationery box, wholesale stationery packaging, OEM gift box China, magnetic lid box, debossed box, soft-touch box, MOQ 500, Guangdong packaging factory"
 categories: ["magnetic-closure-boxes"]
 params:
@@ -21,7 +21,7 @@ tags:
 
 ![Bincai Slim Magnetic Closure Box](/images/magnetic-closure-boxes.jpg)
 
-Slim-profile magnetic closure rigid box designed for premium stationery, notebooks, planners, and writing instrument gift sets — manufactured by **Guangdong Bincai Color Printing Co., Ltd.**, a Diamond Member on Made-in-China.com with 22 years of manufacturing excellence (founded 2003). The slim 25-35mm profile is engineered specifically for A5 notebooks, hardcover journals, planner systems, and luxury pen sets — packaging categories where standard-depth magnetic boxes feel oversized and wasteful. Concealed neodymium magnets create a satisfying snap closure, while the satin ribbon lift tab adds an elegant retrieval gesture. A debossed logo on the lid provides subtle, premium brand presence. Produced on KBA 1050 4-color and Heidelberg 7+1 UV presses across 18,000 sqm factory in Foshan. Daily output: 1.7 million boxes plus 220,000+ gift boxes.
+Slim-profile magnetic closure rigid box designed for premium stationery, notebooks, planners, and writing instrument gift sets — manufactured by **Guangdong Bincai Color Printing Co., Ltd.**, a Diamond Member on Made-in-China.com with 23 years of manufacturing excellence (founded 2003). The slim 25-35mm profile is engineered specifically for A5 notebooks, hardcover journals, planner systems, and luxury pen sets — packaging categories where standard-depth magnetic boxes feel oversized and wasteful. Concealed neodymium magnets create a satisfying snap closure, while the satin ribbon lift tab adds an elegant retrieval gesture. A debossed logo on the lid provides subtle, premium brand presence. Produced on KBA 1050 4-color and Heidelberg 7+1 UV presses across 18,000 sqm factory in Foshan. Daily output: 1.7 million boxes plus 220,000+ gift boxes.
 
 ## Applications
 - A5 notebook, journal, and planner gift set packaging
@@ -50,7 +50,7 @@ Slim-profile magnetic closure rigid box designed for premium stationery, noteboo
 - Daily output: 1.7 million color boxes + 220,000+ gift boxes
 - Factory: 18,000 sqm dual facility (10,000+8,000 sqm smart factory, 2025 expansion)
 - Certifications: ISO 9001:2015, FSC Chain-of-Custody, SGS
-- Experience: 22 years since 2003, 200+ global brand clients
+- Experience: 23 years since 2003, 200+ global brand clients
 - MOQ: 500 units with free pre-production samples
 - Lead time: 15-25 days
 
@@ -118,7 +118,7 @@ A: Standard lead time is 15–25 days. Pre-production samples ship in 5–7 busi
 
 ## Why Bincai?
 
-From luxury fountain pen brands to premium stationery retailers, Bincai has been the silent partner behind some of the world's most elegant packaging for 22 years. Our slim magnetic closure box expertise comes from understanding that stationery packaging must balance protection with elegance — the box should feel as premium as what's inside.
+From luxury fountain pen brands to premium stationery retailers, Bincai has been the silent partner behind some of the world's most elegant packaging for 23 years. Our slim magnetic closure box expertise comes from understanding that stationery packaging must balance protection with elegance — the box should feel as premium as what's inside.
 
 **The Bincai Difference:**
 
@@ -127,6 +127,6 @@ From luxury fountain pen brands to premium stationery retailers, Bincai has been
 - **Stationery Packaging Expertise** — We understand the unique demands of stationery packaging: precise fit for A5/B5/A4 formats, elastic band retention for notebooks, ribbon lifts for easy retrieval, and presentation-grade finishing.
 - **Scalable & Reliable** — 220,000+ gift boxes daily. Whether you need 500 boxes for a limited edition planner or 50,000 for a global notebook brand launch, we deliver the same quality on time.
 
-**Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day + 220K+ gift boxes | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China.
+**Factory Facts:** Founded 2003 | 23 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day + 220K+ gift boxes | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China.
 
 **Shipping:** Slim-profile design maximizes container packing density. Flat-packed option reduces freight volume by 60–70%. Lead time 15–25 days FOB Shenzhen/Guangzhou.

@@ -2,8 +2,8 @@
 title: "Kraft Paper Eco Box with Seed-Embedded Tag Sustainable Gift Packaging"
 date: 2026-06-11
 draft: false
-description: "Biodegradable kraft paper eco gift box with plantable seed-embedded hang tag for sustainable gifting. Made with FSC-certified kraft paperboard, soy-based inks, and a detachable seed tag that grows wildflowers after unboxing. KBA 1050 + Heidelberg 7+1 UV, 18,000 sqm factory (10,000+8,000 smart factory), ISO 9001 & FSC certified, ASTM D6400 compostable. 22 years manufacturing, daily output 1.7M boxes. MOQ 1000 units, free samples. Zero plastic, 100% biodegradable."
-keywords: "kraft paper eco box, seed-embedded tag gift box, plantable packaging, sustainable gift box FSC, biodegradable kraft box, eco-friendly packaging manufacturer, Bincai kraft box, ISO 9001 FSC sustainable box, China eco packaging factory, zero waste packaging, compostable gift box, soy ink kraft packaging, plastic-free gift box, seed paper tag packaging, sustainable luxury packaging, eco retail packaging, biodegradable cosmetic box, green packaging manufacturer, FSC certified gift box, carbon neutral packaging, recycled kraft box, plantable hang tag, wedding eco favor box, organic product packaging, ecological gift box OEM, Bincai Guangdong, Foshan eco packaging, ASTM D6400 compostable, 18,000 sqm, 1.7M daily, KBA 1050 eco box, Heidelberg 7+1 soy ink, 22 years eco packaging, green manufacturing China"
+description: "Biodegradable kraft paper eco gift box with plantable seed-embedded hang tag for sustainable gifting. Made with FSC-certified kraft paperboard, soy-based inks, and a detachable seed tag that grows wildflowers after unboxing. KBA 1050 + Heidelberg 7+1 UV, 18,000 sqm factory (10,000+8,000 smart factory), ISO 9001 & FSC certified, ASTM D6400 compostable. 23 years manufacturing, daily output 1.7M boxes. MOQ 1000 units, free samples. Zero plastic, 100% biodegradable."
+keywords: "kraft paper eco box, seed-embedded tag gift box, plantable packaging, sustainable gift box FSC, biodegradable kraft box, eco-friendly packaging manufacturer, Bincai kraft box, ISO 9001 FSC sustainable box, China eco packaging factory, zero waste packaging, compostable gift box, soy ink kraft packaging, plastic-free gift box, seed paper tag packaging, sustainable luxury packaging, eco retail packaging, biodegradable cosmetic box, green packaging manufacturer, FSC certified gift box, carbon neutral packaging, recycled kraft box, plantable hang tag, wedding eco favor box, organic product packaging, ecological gift box OEM, Bincai Guangdong, Foshan eco packaging, ASTM D6400 compostable, 18,000 sqm, 1.7M daily, KBA 1050 eco box, Heidelberg 7+1 soy ink, 23 years eco packaging, green manufacturing China"
 categories: ["kraft-eco-boxes"]
 params:
   moq: "1000"
@@ -106,7 +106,7 @@ A: Yes. We provide full documentation packages: ASTM D6400 test reports, FSC cha
 
 ## Why Bincai for Sustainable Packaging?
 
-- **22 Years Manufacturing Excellence**: Founded 2003 in Foshan, Guangdong — we've evolved from traditional printing to becoming a leader in sustainable packaging solutions, serving eco-conscious brands across 50+ countries
+- **23 Years Manufacturing Excellence**: Founded 2003 in Foshan, Guangdong — we've evolved from traditional printing to becoming a leader in sustainable packaging solutions, serving eco-conscious brands across 50+ countries
 - **True Sustainability, Not Greenwashing**: FSC Chain-of-Custody certified (SCS-COC-009852), ASTM D6400 compostability verified by third-party labs, soy ink systems with ≤3% VOC, seed tags with independently tested ≥85% germination rates — every claim is backed by certification
 - **18,000 sqm Integrated Eco Factory**: 10,000 sqm main facility + 8,000 sqm smart factory (commissioned 2025) with dedicated eco production line — 85% water recycling, renewable energy sourcing, zero hazardous waste discharge
 - **In-House Seed Tag Workshop**: Unlike competitors who outsource seed tags, our dedicated workshop handcrafts every tag from recycled cotton paper with non-GMO seeds — full quality control from seed selection to final press
@@ -122,7 +122,7 @@ A: Yes. We provide full documentation packages: ASTM D6400 test reports, FSC cha
 
 ## Factory
 
-- 22 years of manufacturing since 2003 in Foshan, Guangdong, China
+- 23 years of manufacturing since 2003 in Foshan, Guangdong, China
 - 18,000 sqm factory (10,000+8,000 smart factory) (commissioned 2025)
 - 80+ skilled employees across design, prepress, printing, and finishing
 - KBA 1050 4-color + Heidelberg 7+1 UV + Bobst die-cutting + automatic folding-gluing

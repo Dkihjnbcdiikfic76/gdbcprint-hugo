@@ -2,7 +2,7 @@
 title: "Auto-Lock Bottom Folding Carton Box with Full-Color CMYK for Food Packaging"
 date: 2026-06-10
 draft: false
-description: "Guangdong Bincai auto-lock bottom folding carton box for food packaging with full-color CMYK offset printing. Manufactured on KBA 1050 4-color and Heidelberg 7+1 UV presses in an ISO 9001:2015 and FSC certified 18,000 sqm factory. 22 years experience since 2003, daily output 1.7 million boxes + 220,000+ gift boxes. Food-grade inks and coatings (FDA 21 CFR, EU 1935/2004 compliant), SBS board 250-400gsm, art paper 200-350gsm. Auto-lock bottom mechanism assembles instantly without tape. Window cutout with PET or PLA film, hot foil stamping, matte/gloss aqueous coating. Ideal for bakery, chocolate, confectionery, tea, coffee, and dry food retail packaging. MOQ 1000, free pre-production samples 5-7 days. Foshan, Guangdong, China."
+description: "Guangdong Bincai auto-lock bottom folding carton box for food packaging with full-color CMYK offset printing. Manufactured on KBA 1050 4-color and Heidelberg 7+1 UV presses in an ISO 9001:2015 and FSC certified 18,000 sqm factory. 23 years experience since 2003, daily output 1.7 million boxes + 220,000+ gift boxes. Food-grade inks and coatings (FDA 21 CFR, EU 1935/2004 compliant), SBS board 250-400gsm, art paper 200-350gsm. Auto-lock bottom mechanism assembles instantly without tape. Window cutout with PET or PLA film, hot foil stamping, matte/gloss aqueous coating. Ideal for bakery, chocolate, confectionery, tea, coffee, and dry food retail packaging. MOQ 1000, free pre-production samples 5-7 days. Foshan, Guangdong, China."
 keywords: "auto-lock bottom folding carton, food packaging box, CMYK offset printed carton, auto-lock bottom box manufacturer, bakery packaging box, confectionery gift box, chocolate packaging box, tea packaging carton, coffee pod retail box, food-grade folding carton, FDA compliant carton box, SBS board folding carton, window cutout food box, Bincai folding carton factory, Guangdong paper box manufacturer, ISO 9001 FSC carton box"
 categories: ["folding-cartons"]
 params:
@@ -14,7 +14,7 @@ params:
 
 ![Bincai Folding Cartons](/images/cat-fold-cosmetic.jpg)
 
-Auto-lock bottom folding carton box with full-color CMYK offset printing for food, bakery, and confectionery packaging — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). 18,000 sqm factory (10,000 + 8,000 smart factory, 2025) with KBA 1050 4-color and Heidelberg 7+1 UV presses. Daily output 1.7 million boxes.
+Auto-lock bottom folding carton box with full-color CMYK offset printing for food, bakery, and confectionery packaging — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 23 years of experience (founded 2003). 18,000 sqm factory (10,000 + 8,000 smart factory, 2025) with KBA 1050 4-color and Heidelberg 7+1 UV presses. Daily output 1.7 million boxes.
 
 ## Applications
 
@@ -71,7 +71,7 @@ Every auto-lock bottom carton is engineered for your specific food product:
 ## Why Choose Bincai for Food Folding Cartons
 
 - **1.7 Million Boxes Daily Capacity**: Our high-speed folder-gluer lines with auto-lock bottom attachments produce at industrial scale without sacrificing quality — your seasonal peaks are never a problem
-- **22 Years of Food Packaging Expertise**: Since 2003, we've manufactured folding cartons for bakeries, chocolatiers, tea brands, and food manufacturers across 30+ countries
+- **23 Years of Food Packaging Expertise**: Since 2003, we've manufactured folding cartons for bakeries, chocolatiers, tea brands, and food manufacturers across 30+ countries
 - **Food Safety First**: Dedicated food-grade production zones with controlled ink storage, regular migration testing, and full material traceability — your brand's food safety reputation is protected
 - **German-Engineered Precision**: KBA 1050 + Heidelberg 7+1 UV presses deliver the color accuracy and print quality that premium food brands demand on retail shelves
 - **Flat-Packed Efficiency**: Auto-lock bottom cartons ship flat to minimize freight costs — assembles in 2 seconds at your filling line with zero equipment required
@@ -79,7 +79,7 @@ Every auto-lock bottom carton is engineered for your specific food product:
 - **Fast Sampling & Custom Tooling**: Pre-production samples in 5–7 days, custom die-cutting molds manufactured in-house for faster turnaround
 
 ## Factory
-- 22 years of manufacturing excellence since 2003
+- 23 years of manufacturing excellence since 2003
 - 18,000 sqm factory (10,000+8,000 smart factory)
 - 80+ skilled employees across design, prepress, printing, and finishing
 - KBA 1050 4-color + Heidelberg 7+1 UV presses

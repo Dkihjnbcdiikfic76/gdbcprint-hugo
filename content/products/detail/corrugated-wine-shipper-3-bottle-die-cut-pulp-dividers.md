@@ -2,8 +2,8 @@
 title: "Corrugated Wine Bottle Shipper — 3-Bottle Die-Cut with Molded Pulp Dividers"
 date: 2026-06-16
 draft: false
-description: "Corrugated wine bottle shipper for 3-bottle die-cut with molded pulp dividers by Guangdong Bincai Color Printing — Diamond Member on Made-in-China.com. ISO 9001 FSC certified, 22 years experience, 18,000 sqm factory, 1.7M daily output. B-flute corrugated, molded pulp partition, die-cut handle, ISTA 6-FEDEX-A tested."
-keywords: "corrugated wine shipper, 3-bottle wine box, molded pulp divider, wine shipping box China, die-cut handle corrugated, Bincai, Guangdong corrugated box factory, 22 years experience, ISO 9001 certified, FSC certified, 18,000 sqm factory, 1.7M daily output, OEM wine shipper China, Diamond Member MIC, wine packaging, ISTA tested"
+description: "Corrugated wine bottle shipper for 3-bottle die-cut with molded pulp dividers by Guangdong Bincai Color Printing — Diamond Member on Made-in-China.com. ISO 9001 FSC certified, 23 years experience, 18,000 sqm factory, 1.7M daily output. B-flute corrugated, molded pulp partition, die-cut handle, ISTA 6-FEDEX-A tested."
+keywords: "corrugated wine shipper, 3-bottle wine box, molded pulp divider, wine shipping box China, die-cut handle corrugated, Bincai, Guangdong corrugated box factory, 23 years experience, ISO 9001 certified, FSC certified, 18,000 sqm factory, 1.7M daily output, OEM wine shipper China, Diamond Member MIC, wine packaging, ISTA tested"
 categories: ["corrugated-mailers"]
 params:
   moq: "500-1000"
@@ -72,4 +72,4 @@ A: Yes. Full-color flexo printing on exterior, custom-printed tissue paper, bran
 A: Standard production 7-10 working days after artwork approval. Rush orders in 5 working days. Die-making adds 2-3 days for new designs.
 
 ## Why Choose Bincai for Wine Shipping Packaging?
-Guangdong Bincai's BHS 2.5m corrugator produces premium B-flute and E-flute corrugated board with consistent caliper and flat crush. Our in-house die-cutting on Bobst SP 102 BMA ensures precision bottle cradles. With ISTA-certified testing, ISO 9001 and FSC certifications, 22 years of experience, and 1.7M daily output, we are the trusted wine packaging partner for vineyards and DTC wine clubs worldwide.
+Guangdong Bincai's BHS 2.5m corrugator produces premium B-flute and E-flute corrugated board with consistent caliper and flat crush. Our in-house die-cutting on Bobst SP 102 BMA ensures precision bottle cradles. With ISTA-certified testing, ISO 9001 and FSC certifications, 23 years of experience, and 1.7M daily output, we are the trusted wine packaging partner for vineyards and DTC wine clubs worldwide.

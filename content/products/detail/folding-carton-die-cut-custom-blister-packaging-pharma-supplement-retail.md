@@ -2,7 +2,7 @@
 title: "Folding Carton with Die-Cut Blister Tray — Custom Pharma & Supplement Retail Packaging"
 date: 2026-06-14
 draft: false
-description: "Pharma-grade folding carton with integrated die-cut blister tray for pharmaceutical and nutraceutical packaging. Pill, capsule, tablet, and vial configurations. CMYK offset + aqueous coating on SBS board, child-resistant option, tamper-evident seal. GMP-ready production at Bincai's 18,000 sqm Foshan factory. ISO 9001:2015 & FSC certified, KBA 1050 4-color + Heidelberg 7+1 UV, 1.7M boxes daily, 22 years experience. MOQ 2000–5000."
+description: "Pharma-grade folding carton with integrated die-cut blister tray for pharmaceutical and nutraceutical packaging. Pill, capsule, tablet, and vial configurations. CMYK offset + aqueous coating on SBS board, child-resistant option, tamper-evident seal. GMP-ready production at Bincai's 18,000 sqm Foshan factory. ISO 9001:2015 & FSC certified, KBA 1050 4-color + Heidelberg 7+1 UV, 1.7M boxes daily, 23 years experience. MOQ 2000–5000."
 keywords: "pharma folding carton, supplement packaging box, blister card box, pill packaging, tablet box, die-cut tray, pharmaceutical packaging China, nutraceutical box, child-resistant packaging, tamper-evident box, FSC pharma packaging, ISO 9001 folding carton, Bincai Guangdong, Heidelberg UV, KBA offset, 1.7M daily output, GMP-ready folding carton, FDA 21 CFR compliant, EU FMD serialization, braille pharmaceutical carton, SBS board pharma box, cold-form blister, PVC blister tray, pharmaceutical secondary packaging, clinical trial kit packaging, nutraceutical capsule box, vitamin supplement carton, Guangdong pharmaceutical packaging manufacturer"
 categories: ["folding-cartons"]
 params:
@@ -180,7 +180,7 @@ The cost difference is ¥0.03–0.08 per carton — roughly ¥30–80 per 1,000 
 
 ## Factory
 
-- **22 years** of manufacturing excellence since 2003
+- **23 years** of manufacturing excellence since 2003
 - Dual factories: **10,000 sqm** main + **8,000 sqm** smart factory in Foshan, Pearl River Delta, Guangdong
 - **500+** skilled workers across 3 shifts
 - ISO 9001:2015 certified; **GMP-ready** production zone available
@@ -192,4 +192,4 @@ The cost difference is ¥0.03–0.08 per carton — roughly ¥30–80 per 1,000 
 - Daily capacity: **1.7 million** color boxes + 220,000+ gift boxes
 - Free pre-production samples with **5–7 business day** turnaround
 
-> **Bincai Manufacturing Advantage**: 22 years of folding carton expertise with GMP-ready pharmaceutical packaging capability. ISO 9001:2015 and FSC certified, ISO 15378 available. Integrated 18,000 sqm factory with KBA 1050 offset and Heidelberg 7+1 UV presses. Full serialization capability for EU FMD and US DSCSA compliance. Child-resistant closure options certified to 16 CFR § 1700.20. MOQ 2000–5000 units. Free pharma-grade samples with regulatory documentation in 7–10 business days. Contact us for a pharmaceutical packaging consultation and quote.
+> **Bincai Manufacturing Advantage**: 23 years of folding carton expertise with GMP-ready pharmaceutical packaging capability. ISO 9001:2015 and FSC certified, ISO 15378 available. Integrated 18,000 sqm factory with KBA 1050 offset and Heidelberg 7+1 UV presses. Full serialization capability for EU FMD and US DSCSA compliance. Child-resistant closure options certified to 16 CFR § 1700.20. MOQ 2000–5000 units. Free pharma-grade samples with regulatory documentation in 7–10 business days. Contact us for a pharmaceutical packaging consultation and quote.

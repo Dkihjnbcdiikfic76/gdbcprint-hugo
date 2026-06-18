@@ -14,7 +14,7 @@ params:
 
 ![Bincai Christmas Gift Box](/images/cat-rigid-others.jpg)
 
-The Christmas Gift Box with snowflake embossing and magnetic closure is a premium rigid holiday packaging solution designed for luxury seasonal gifting. Manufactured by Guangdong Bincai Color Printing Co., Ltd. — a 22-year Foshan-based factory with 18,000 sqm of production space — this box combines seasonal aesthetics with durable construction. The lid features deep snowflake embossing with hot foil stamping, while the interior is fully lined with soft velvet flocking to cradle delicate items. Bincai's KBA 1050 4-color offset and Heidelberg Speedmaster CD 102 7+1 UV presses ensure crisp, vibrant holiday graphics with ΔE ≤ 2.0 color consistency. Each box is assembled with N52 neodymium magnets for a satisfying closure and can be customized with brand logos, custom snowflake patterns, or alternative interior linings.
+The Christmas Gift Box with snowflake embossing and magnetic closure is a premium rigid holiday packaging solution designed for luxury seasonal gifting. Manufactured by Guangdong Bincai Color Printing Co., Ltd. — a 23-year Foshan-based factory with 18,000 sqm of production space — this box combines seasonal aesthetics with durable construction. The lid features deep snowflake embossing with hot foil stamping, while the interior is fully lined with soft velvet flocking to cradle delicate items. Bincai's KBA 1050 4-color offset and Heidelberg Speedmaster CD 102 7+1 UV presses ensure crisp, vibrant holiday graphics with ΔE ≤ 2.0 color consistency. Each box is assembled with N52 neodymium magnets for a satisfying closure and can be customized with brand logos, custom snowflake patterns, or alternative interior linings.
 
 ## Applications
 
@@ -56,7 +56,7 @@ The Christmas Gift Box with snowflake embossing and magnetic closure is a premiu
 | Certifications | ISO 9001:2015, FSC Chain-of-Custody, Sedex SMETA |
 | Daily Output | 1.7M boxes total (220,000+ rigid boxes) |
 | MOQ | 500–1,000 units per design |
-| Experience | 22 years — founded 2003, 350+ skilled workers |
+| Experience | 23 years — founded 2003, 350+ skilled workers |
 | Samples | Free pre-production sample, 5–7 day turnaround |
 | Lead Time | 10–14 days for standard production runs |
 
@@ -101,9 +101,9 @@ The Christmas Gift Box with snowflake embossing and magnetic closure is a premiu
 
 ## Why Choose Bincai?
 
-Bincai's 22 years of rigid box manufacturing expertise ensures every Christmas gift box meets the exacting standards of seasonal luxury packaging. Unlike generalist printers, Bincai operates dedicated rigid box assembly lines with specialized equipment for magnet insertion, velvet flocking, and foil embossing — all under one 18,000 sqm roof. This vertical integration means faster turnaround, consistent quality across production runs, and competitive pricing for mid-to-large volume orders.
+Bincai's 23 years of rigid box manufacturing expertise ensures every Christmas gift box meets the exacting standards of seasonal luxury packaging. Unlike generalist printers, Bincai operates dedicated rigid box assembly lines with specialized equipment for magnet insertion, velvet flocking, and foil embossing — all under one 18,000 sqm roof. This vertical integration means faster turnaround, consistent quality across production runs, and competitive pricing for mid-to-large volume orders.
 
-**Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
+**Factory Facts:** Founded 2003 | 23 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
 
 **Shipping:** Flat-packed design reduces freight volume by 60% vs. pre-assembled boxes. Standard lead time 10–14 days. Free pre-production samples in 5–7 days.
 

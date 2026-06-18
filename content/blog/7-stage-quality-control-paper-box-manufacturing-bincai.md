@@ -148,7 +148,7 @@ For FSC Chain-of-Custody certified orders, additional traceability checks at Gat
 
 ## What This Means for International Buyers
 
-When you order from Guangdong Bincai Color Printing, you're not just buying 1.7 million boxes of daily capacity. You're buying a quality assurance infrastructure that has been refined over 22 years of manufacturing:
+When you order from Guangdong Bincai Color Printing, you're not just buying 1.7 million boxes of daily capacity. You're buying a quality assurance infrastructure that has been refined over 23 years of manufacturing:
 
 - **7 inspection gates** catch defects before they reach your container
 - **ISO 9001:2015 certification** provides auditable quality documentation

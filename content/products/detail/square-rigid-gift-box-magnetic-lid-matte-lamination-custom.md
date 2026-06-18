@@ -2,7 +2,7 @@
 title: "Square Rigid Gift Box with Magnetic Lid Matte Lamination Custom Logo"
 date: 2026-06-11
 draft: false
-description: "Premium square rigid gift box with magnetic lid closure, soft-touch matte lamination, and custom logo embossing — printed on Heidelberg Speedmaster CD 102 7+1 UV and KBA Rapida 105 4-color (15,000 sheets/hr) presses with Bobst SP 102 BMA die-cutting (±0.15mm). 1600gsm greyboard construction. Manufactured in Bincai's 18,000 sqm dual-factory (10,000+8,000 smart factory 2025) in Foshan China. ISO 9001:2015 and FSC Chain-of-Custody (FSC-C147399) certified, Sedex SMETA audited. 22 years since 2003, 350+ workers, 220K+ rigid boxes daily. Ideal for corporate gifts, luxury apparel, and electronics. MOQ 500, free samples."
+description: "Premium square rigid gift box with magnetic lid closure, soft-touch matte lamination, and custom logo embossing — printed on Heidelberg Speedmaster CD 102 7+1 UV and KBA Rapida 105 4-color (15,000 sheets/hr) presses with Bobst SP 102 BMA die-cutting (±0.15mm). 1600gsm greyboard construction. Manufactured in Bincai's 18,000 sqm dual-factory (10,000+8,000 smart factory 2025) in Foshan China. ISO 9001:2015 and FSC Chain-of-Custody (FSC-C147399) certified, Sedex SMETA audited. 23 years since 2003, 350+ workers, 220K+ rigid boxes daily. Ideal for corporate gifts, luxury apparel, and electronics. MOQ 500, free samples."
 keywords: "square rigid gift box, magnetic lid box, matte lamination gift box, soft-touch box, corporate gift packaging, luxury apparel box, electronics gift box, custom logo rigid box, Bincai rigid box, wholesale gift box, embossed logo box, ISO 9001 gift packaging, FSC rigid box, Foshan gift box manufacturer, premium square box, KBA Rapida 105 printed rigid box, Heidelberg Speedmaster CD 102 gift box, Bobst SP 102 die-cut rigid box, rigid box manufacturer Foshan China, 220K rigid boxes daily output, neodymium magnet gift box, 1600gsm greyboard magnetic box, corporate gift box MOQ 500, velvet flocked interior gift box, FSC Chain-of-Custody rigid packaging, Sedex SMETA certified gift box, Pearl River Delta rigid box supplier, luxury subscription box magnetic, custom foil stamped gift box, matte soft-touch rigid box wholesale"
 categories: ["rigid-gift-boxes"]
 params:
@@ -16,7 +16,7 @@ params:
 
 ## Product Overview
 
-The Bincai Square Rigid Gift Box with magnetic lid closure combines clean geometry with tactile luxury. The soft-touch matte lamination finish invites touch while resisting fingerprints — critical for high-end retail environments where packaging gets handled repeatedly. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — an ISO 9001:2015 and FSC Chain-of-Custody certified factory with 22 years of luxury rigid box expertise — each box features precision mitered corners (±0.3mm gap), concealed neodymium magnet closure, and Heidelberg 7+1 UV offset printing for flawless brand reproduction. Our 18,000 sqm Foshan facility (original 18,000 sqm (10,000+8,000 smart factory), 2025) outputs 220,000+ rigid gift boxes daily.
+The Bincai Square Rigid Gift Box with magnetic lid closure combines clean geometry with tactile luxury. The soft-touch matte lamination finish invites touch while resisting fingerprints — critical for high-end retail environments where packaging gets handled repeatedly. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — an ISO 9001:2015 and FSC Chain-of-Custody certified factory with 23 years of luxury rigid box expertise — each box features precision mitered corners (±0.3mm gap), concealed neodymium magnet closure, and Heidelberg 7+1 UV offset printing for flawless brand reproduction. Our 18,000 sqm Foshan facility (original 18,000 sqm (10,000+8,000 smart factory), 2025) outputs 220,000+ rigid gift boxes daily.
 
 ## Applications
 
@@ -81,7 +81,7 @@ The Bincai Square Rigid Gift Box with magnetic lid closure combines clean geomet
 |---|---|
 | **Presses** | KBA Rapida 105 4-color offset (15,000 sheets/hr) + Heidelberg Speedmaster CD 102 7+1 UV with inter-deck curing for foil/spot UV registration (±0.1mm) |
 | **Factory** | 18,000 sqm dual-factory campus (10,000 sqm original + 8,000 sqm Gaobu smart factory, renovated 2025) in Foshan, Pearl River Delta, China |
-| **Experience** | 22 years of continuous manufacturing since 2003; 350+ skilled workers with dedicated rigid box assembly team |
+| **Experience** | 23 years of continuous manufacturing since 2003; 350+ skilled workers with dedicated rigid box assembly team |
 | **Daily Output** | 220,000+ rigid/gift boxes daily across 6 semi-automatic production lines + 1.7 million color boxes/day total |
 | **Specialty** | Bobst SP 102 BMA flatbed die-cutting (±0.15mm); fully automatic 45° mitered corner wrapping; N35 neodymium magnet embedding; soft-touch matte lamination |
 | **Sampling** | Free pre-production samples in 5–7 working days; rapid insert tooling in 3 days; Diamond Member on Made-in-China.com |

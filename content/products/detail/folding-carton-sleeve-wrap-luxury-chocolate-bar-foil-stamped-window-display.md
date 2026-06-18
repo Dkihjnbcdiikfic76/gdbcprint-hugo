@@ -2,7 +2,7 @@
 title: "Folding Carton Sleeve Wrap for Luxury Chocolate Bar — Foil-Stamped Window Display"
 date: 2026-06-14
 draft: false
-description: "Custom folding carton sleeve wrap with die-cut window and hot foil stamping for luxury chocolate bars by Guangdong Bincai Color Printing. 350gsm SBS board with soft-touch matte lamination, gold foil border, and clear PET window. ISO 9001 & FSC certified, food-safe inks. 22 years experience, 18,000 sqm factory, KBA 1050 + Heidelberg 7+1 UV, 1.7M daily output. MOQ 1000."
+description: "Custom folding carton sleeve wrap with die-cut window and hot foil stamping for luxury chocolate bars by Guangdong Bincai Color Printing. 350gsm SBS board with soft-touch matte lamination, gold foil border, and clear PET window. ISO 9001 & FSC certified, food-safe inks. 23 years experience, 18,000 sqm factory, KBA 1050 + Heidelberg 7+1 UV, 1.7M daily output. MOQ 1000."
 keywords: "chocolate bar packaging, folding carton sleeve, luxury chocolate box, foil-stamped carton, window display carton, confectionery packaging, Bincai Color Printing, custom chocolate packaging, soft-touch lamination, gold foil stamping, ISO 9001, FSC certified, Guangdong packaging factory, OEM folding carton China"
 categories: ["folding-cartons"]
 params:
@@ -25,7 +25,7 @@ Elegant folding carton sleeve wrap for luxury chocolate bars and premium confect
 - CMYK offset printing on KBA 1050 4-color press + Heidelberg 7+1 UV spot coatings
 - Food-safe inks — low-migration, compliant with EU 1935/2004 and FDA 21 CFR for indirect food contact
 - Flat-packed for efficient shipping and storage — assembles quickly at the confectionery packing line
-- ISO 9001:2015 certified, FSC certified SBS board, 22 years experience, 1.7M daily output
+- ISO 9001:2015 certified, FSC certified SBS board, 23 years experience, 1.7M daily output
 
 ## Applications
 

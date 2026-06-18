@@ -2,8 +2,8 @@
 title: "Tuck-End Folding Carton with Hot Foil Stamping — Scented Candle Packaging"
 date: 2026-06-12
 draft: false
-description: "Tuck-end folding carton with hot foil stamping for scented candle packaging. 350gsm C1S solid bleached sulphate board with gold/silver foil on KBA 1050 4-color press. Matte lamination finish. Manufactured at Bincai's 18,000 sqm ISO 9001:2015 & FSC certified factory. 22 years Guangdong manufacturing since 2003. 1.7M color boxes daily. MOQ 1000."
-keywords: "tuck-end folding carton, candle packaging box, hot foil stamping carton, scented candle box, custom folding carton, C1S paperboard, matte lamination box, gold foil candle box, Bincai, KBA 1050 offset, ISO 9001 FSC, folding carton manufacturer China, 22 years factory, 18,000 sqm, Guangdong packaging"
+description: "Tuck-end folding carton with hot foil stamping for scented candle packaging. 350gsm C1S solid bleached sulphate board with gold/silver foil on KBA 1050 4-color press. Matte lamination finish. Manufactured at Bincai's 18,000 sqm ISO 9001:2015 & FSC certified factory. 23 years Guangdong manufacturing since 2003. 1.7M color boxes daily. MOQ 1000."
+keywords: "tuck-end folding carton, candle packaging box, hot foil stamping carton, scented candle box, custom folding carton, C1S paperboard, matte lamination box, gold foil candle box, Bincai, KBA 1050 offset, ISO 9001 FSC, folding carton manufacturer China, 23 years factory, 18,000 sqm, Guangdong packaging"
 categories: ["folding-cartons"]
 params:
   moq: "1000"
@@ -14,7 +14,7 @@ params:
 
 ![Bincai Folding Cartons](/images/folding-cartons.jpg)
 
-Tuck-end folding carton with hot foil stamping for scented candle packaging — engineered by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of manufacturing excellence (founded 2003). Designed specifically for premium scented candles, home fragrance products, and artisanal candle brands. The tuck-end closure provides secure packaging while remaining easy to open and reclose. Constructed from 350gsm C1S (coated one side) solid bleached sulphate board with matte lamination for a soft, elegant tactile finish. Hot foil stamping in gold, silver, or rose gold creates a striking brand impression. Produced on KBA Rapida 105 4-color offset press with Heidelberg Speedmaster CD 102 7+1 UV press for specialty coatings. Our 18,000 sqm Foshan facility (10,000 sqm main + 8,000 sqm smart factory commissioned 2025) delivers 1.7 million color boxes daily under ISO 9001:2015 and FSC Chain-of-Custody certification.
+Tuck-end folding carton with hot foil stamping for scented candle packaging — engineered by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 23 years of manufacturing excellence (founded 2003). Designed specifically for premium scented candles, home fragrance products, and artisanal candle brands. The tuck-end closure provides secure packaging while remaining easy to open and reclose. Constructed from 350gsm C1S (coated one side) solid bleached sulphate board with matte lamination for a soft, elegant tactile finish. Hot foil stamping in gold, silver, or rose gold creates a striking brand impression. Produced on KBA Rapida 105 4-color offset press with Heidelberg Speedmaster CD 102 7+1 UV press for specialty coatings. Our 18,000 sqm Foshan facility (10,000 sqm main + 8,000 sqm smart factory commissioned 2025) delivers 1.7 million color boxes daily under ISO 9001:2015 and FSC Chain-of-Custody certification.
 
 ## Applications
 - Premium scented candle and home fragrance packaging
@@ -51,7 +51,7 @@ Tuck-end folding carton with hot foil stamping for scented candle packaging — 
 - MOQ 1000 units, trial orders and OEM/ODM accepted
 
 ## Factory
-- 22 years of manufacturing excellence since 2003
+- 23 years of manufacturing excellence since 2003
 - 18,000 sqm factory (10,000+8,000 smart factory)
 - 80+ skilled employees across design, prepress, printing, and finishing
 - KBA 1050 4-color + Heidelberg 7+1 UV presses
@@ -88,7 +88,7 @@ Candle brands face a packaging trilemma: cost, luxury, and sustainability. Here'
 **The Economics of Foil**: A ¥0.15 foil stamping premium on a ¥120 candle represents 0.13% of retail price. In retail shelf tests, foil-stamped cartons generate 3× the visual attention of matte-only cartons at 2m distance. For a candle brand selling 50,000 units/year, the ¥7,500 foil premium returns an estimated ¥180,000–300,000 in additional sales from improved shelf conversion — a 24–40× return on the foil investment.
 
 ## Candle Packaging Design Expertise
-Candle packaging requires balancing fragrance preservation with visual appeal. Bincai's 22-year expertise includes:
+Candle packaging requires balancing fragrance preservation with visual appeal. Bincai's 23-year expertise includes:
 - **Fragrance Barrier Coating** — Optional water-based barrier coating on interior board to prevent essential oil and fragrance migration through paperboard, maintaining scent integrity for 12+ months
 - **Heat-Safe Construction** — For candles shipped to hot climates (GCC, Southeast Asia, Australia), structural design with ventilation gaps and heat-resistant adhesives rated to 65°C
 - **Tamper-Evident Seals** — Clear tamper-evident sticker or perforated tear-strip integration for retail security without damaging the unboxing experience
@@ -138,4 +138,4 @@ Not every candle brand needs a rigid magnetic box — and not every candle can g
 - **Artisan Candle Maker (US)** — 5,000 window cartons with circular die-cut, soft-touch velvet lamination, embossed logo (no foil); MOQ trial order scaled to 30,000 quarterly
 - **Hotel Amenity Brand (Middle East)** — 100,000 tuck-end cartons with holographic foil stamping, 400gsm board for high-humidity environments, Arabic/English bilingual printing; delivered across 3 shipments to Dubai, Riyadh, and Doha
 
-**Guangdong Bincai Color Printing Co., Ltd.** — 22 years. 18,000 sqm (10,000+8,000 smart factory). ISO 9001:2015 & FSC certified. KBA 1050 + Heidelberg 7+1 UV presses. 1.7 million color boxes daily. OEM/ODM paper packaging made in Foshan, China.
+**Guangdong Bincai Color Printing Co., Ltd.** — 23 years. 18,000 sqm (10,000+8,000 smart factory). ISO 9001:2015 & FSC certified. KBA 1050 + Heidelberg 7+1 UV presses. 1.7 million color boxes daily. OEM/ODM paper packaging made in Foshan, China.

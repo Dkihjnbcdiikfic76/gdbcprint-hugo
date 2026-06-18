@@ -2,7 +2,7 @@
 title: "Two-Piece Rigid Paper Box for Cosmetics Velvet Foam Insert"
 date: 2026-06-10
 draft: false
-description: "Custom two-piece rigid paper box for cosmetics with die-cut velvet foam insert. 1.5–3.0mm greyboard wrapped in 157gsm art paper with matte lamination — Heidelberg 7+1 UV offset, gold/silver hot foil logo, spot UV accents available. Manufactured by Bincai in Foshan Guangdong — 22 years serving 500+ global brands, ISO 9001 & FSC certified. 18,000 sqm integrated factory (10,000 + 8,000 smart factory 2025), daily output 1.7M color boxes + 220K+ rigid boxes. 15 QC checkpoints including gap ±1mm, ΔE ≤ 2.0, bond ≥2.5 N/cm². Free samples. MOQ 500."
+description: "Custom two-piece rigid paper box for cosmetics with die-cut velvet foam insert. 1.5–3.0mm greyboard wrapped in 157gsm art paper with matte lamination — Heidelberg 7+1 UV offset, gold/silver hot foil logo, spot UV accents available. Manufactured by Bincai in Foshan Guangdong — 23 years serving 500+ global brands, ISO 9001 & FSC certified. 18,000 sqm integrated factory (10,000 + 8,000 smart factory 2025), daily output 1.7M color boxes + 220K+ rigid boxes. 15 QC checkpoints including gap ±1mm, ΔE ≤ 2.0, bond ≥2.5 N/cm². Free samples. MOQ 500."
 keywords: "two-piece rigid box, cosmetics packaging box, velvet foam insert box, luxury skincare packaging, rigid cosmetic gift box, die-cut foam insert box, premium cosmetic packaging China, two-piece set-up box, rigid paper box manufacturer, Bincai rigid box, Guangdong cosmetic packaging, Heidelberg printed rigid box, FSC certified cosmetic box, ISO 9001 packaging, custom logo rigid box"
 categories: ["rigid-gift-boxes"]
 params:
@@ -14,7 +14,7 @@ params:
 
 ![Bincai Rigid Gift Boxes](/images/rigid-gift-boxes.jpg)
 
-Premium two-piece rigid paper box with velvet lining and custom die-cut foam insert for luxury cosmetics packaging — manufactured by Guangdong Bincai Color Printing Co., Ltd. With 22 years of manufacturing experience, ISO 9001 & FSC certifications, and an 18,000 sqm integrated factory (10,000 + 8,000 smart factory 2025) operating KBA 1050 and Heidelberg 7+1 UV presses, we produce rigid set-up boxes that combine structural integrity with luxury finishes for the world's leading cosmetics brands.
+Premium two-piece rigid paper box with velvet lining and custom die-cut foam insert for luxury cosmetics packaging — manufactured by Guangdong Bincai Color Printing Co., Ltd. With 23 years of manufacturing experience, ISO 9001 & FSC certifications, and an 18,000 sqm integrated factory (10,000 + 8,000 smart factory 2025) operating KBA 1050 and Heidelberg 7+1 UV presses, we produce rigid set-up boxes that combine structural integrity with luxury finishes for the world's leading cosmetics brands.
 
 ## Applications
 Two-piece rigid boxes with foam inserts provide the ultimate protection and presentation for high-value cosmetic products:
@@ -58,7 +58,7 @@ Two-piece rigid boxes with foam inserts provide the ultimate protection and pres
 - **Free pre-production sample** with full decoration — 5–7 working day turnaround
 
 ## Factory
-- 22 years of manufacturing excellence (founded 2003)
+- 23 years of manufacturing excellence (founded 2003)
 - 18,000 sqm integrated facility (10,000+8,000 smart factory) (commissioned 2025)
 - 80+ skilled craftspeople across rigid box assembly, foam fabrication, and finishing
 - KBA 1050 4-color + Heidelberg 7+1 UV presses + fully automatic rigid box production line

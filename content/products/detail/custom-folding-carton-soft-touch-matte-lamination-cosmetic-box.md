@@ -2,8 +2,8 @@
 title: "Custom Folding Carton Soft Touch Matte Lamination Cosmetic Box"
 date: 2026-06-10
 draft: false
-description: "Custom folding carton with velvet soft-touch matte lamination, spot UV accents, and gold foil logo stamping for premium cosmetics, skincare, and fragrance packaging. Auto-lock bottom for quick assembly. Manufactured by Guangdong Bincai Color Printing — 22 years since 2003, ISO 9001:2015 & FSC CoC certified. 18,000 sqm dual-factory (10,000+8,000 smart factory 2025). KBA Rapida 105 4-color + Heidelberg Speedmaster CD 102 7+1 UV + Bobst SP 102 BMA foil ±0.15mm. Food-safe soy inks, anti-scratch BOPP lamination. 1.7M boxes daily output. MOQ 500."
-keywords: "custom folding carton cosmetic box, soft touch matte lamination box, premium cosmetic packaging, folding carton with spot UV, gold foil cosmetic box, skincare packaging box, folding carton manufacturer, Bincai Color Printing, cosmetic box manufacturer China, matte lamination folding carton, luxury cosmetic packaging, ISO 9001 folding carton, FSC certified cosmetic box, soft touch cosmetic carton, auto-lock bottom carton, folding carton wholesale, cosmetic folding carton supplier, Guangdong packaging factory, OEM cosmetic carton China, SBS folding carton, spot UV folding carton, gold foil stamped carton, anti-scratch lamination carton, beauty product packaging box, custom printed folding carton, food-grade folding carton, 22 years manufacturing, Heidelberg UV carton, Bobst die-cut carton, 18,000 sqm factory, 1.7M daily output, Foshan Guangdong packaging, Diamond Supplier MIC, soft-touch cosmetic packaging, luxury folding carton manufacturer, custom cosmetic box factory, skincare carton manufacturer, ISO 9001 FSC carton, retail-ready cosmetic packaging"
+description: "Custom folding carton with velvet soft-touch matte lamination, spot UV accents, and gold foil logo stamping for premium cosmetics, skincare, and fragrance packaging. Auto-lock bottom for quick assembly. Manufactured by Guangdong Bincai Color Printing — 23 years since 2003, ISO 9001:2015 & FSC CoC certified. 18,000 sqm dual-factory (10,000+8,000 smart factory 2025). KBA Rapida 105 4-color + Heidelberg Speedmaster CD 102 7+1 UV + Bobst SP 102 BMA foil ±0.15mm. Food-safe soy inks, anti-scratch BOPP lamination. 1.7M boxes daily output. MOQ 500."
+keywords: "custom folding carton cosmetic box, soft touch matte lamination box, premium cosmetic packaging, folding carton with spot UV, gold foil cosmetic box, skincare packaging box, folding carton manufacturer, Bincai Color Printing, cosmetic box manufacturer China, matte lamination folding carton, luxury cosmetic packaging, ISO 9001 folding carton, FSC certified cosmetic box, soft touch cosmetic carton, auto-lock bottom carton, folding carton wholesale, cosmetic folding carton supplier, Guangdong packaging factory, OEM cosmetic carton China, SBS folding carton, spot UV folding carton, gold foil stamped carton, anti-scratch lamination carton, beauty product packaging box, custom printed folding carton, food-grade folding carton, 23 years manufacturing, Heidelberg UV carton, Bobst die-cut carton, 18,000 sqm factory, 1.7M daily output, Foshan Guangdong packaging, Diamond Supplier MIC, soft-touch cosmetic packaging, luxury folding carton manufacturer, custom cosmetic box factory, skincare carton manufacturer, ISO 9001 FSC carton, retail-ready cosmetic packaging"
 categories: ["folding-cartons"]
 params:
   moq: "500-1000"
@@ -16,7 +16,7 @@ params:
 
 ## Overview
 
-Guangdong Bincai Color Printing's custom folding carton with soft-touch matte lamination delivers premium tactile experience for cosmetics and skincare brands. The velvety soft-touch surface invites handling, while precise spot UV accents and gold foil branding create visual depth. Auto-lock bottom for quick assembly, food-safe soy inks optional. Manufactured in our ISO 9001:2015 certified 18,000 sqm factory (10,000+8,000 smart factory) — 22 years, Heidelberg 7+1 UV + KBA 1050 presses, 1.7M daily output.
+Guangdong Bincai Color Printing's custom folding carton with soft-touch matte lamination delivers premium tactile experience for cosmetics and skincare brands. The velvety soft-touch surface invites handling, while precise spot UV accents and gold foil branding create visual depth. Auto-lock bottom for quick assembly, food-safe soy inks optional. Manufactured in our ISO 9001:2015 certified 18,000 sqm factory (10,000+8,000 smart factory) — 23 years, Heidelberg 7+1 UV + KBA 1050 presses, 1.7M daily output.
 
 ## Applications
 
@@ -73,7 +73,7 @@ Guangdong Bincai Color Printing's custom folding carton with soft-touch matte la
 
 | Feature | Detail |
 |---------|--------|
-| 🏭 Experience | 22 years since 2003 — Diamond MIC Member, Audited Supplier |
+| 🏭 Experience | 23 years since 2003 — Diamond MIC Member, Audited Supplier |
 | 📐 Factory | 18,000m² (10,000+8,000 smart factory) with KBA 1050 & Heidelberg 7+1 UV |
 | 🖨️ Presses | Heidelberg Speedmaster 7+1 UV + KBA 1050 4-color ±0.075mm registration |
 | ✅ Quality | ISO 9001:2015 certified manufacturing, full batch traceability |

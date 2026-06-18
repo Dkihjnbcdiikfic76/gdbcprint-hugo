@@ -2,8 +2,8 @@
 title: "Magnetic Closure Luxury Tie & Cufflink Gift Set Box with Satin-Lined Compartments and Gold Foil"
 date: 2026-06-15
 draft: false
-description: "Premium magnetic closure gift set box for luxury ties and cufflinks with dual satin-lined compartments, gold foil branding, and soft-touch matte exterior. Manufactured at Bincai's 18,000 sqm Foshan facility using KBA 1050 4-color and Heidelberg 7+1 UV presses. ISO 9001:2015 and FSC certified. 22 years paper box expertise, 1.7M boxes daily output. MOQ 500 units, free custom samples. Ideal for luxury menswear brands, corporate recognition programs, and high-end department store gifting."
-keywords: "tie gift box, cufflink gift set box, magnetic closure box, satin lined box, luxury menswear packaging, corporate gift box, gold foil gift box, Bincai magnetic box, ISO 9001 luxury packaging, FSC gift box, Heidelberg gold foil, Foshan luxury box, 18,000 sqm, 1.7M daily, 22 years experience, KBA 1050, custom tie packaging, executive gift box, premium accessory box, China magnetic box manufacturer, OEM luxury packaging, soft touch matte box, dual compartment box, neodymium magnet closure"
+description: "Premium magnetic closure gift set box for luxury ties and cufflinks with dual satin-lined compartments, gold foil branding, and soft-touch matte exterior. Manufactured at Bincai's 18,000 sqm Foshan facility using KBA 1050 4-color and Heidelberg 7+1 UV presses. ISO 9001:2015 and FSC certified. 23 years paper box expertise, 1.7M boxes daily output. MOQ 500 units, free custom samples. Ideal for luxury menswear brands, corporate recognition programs, and high-end department store gifting."
+keywords: "tie gift box, cufflink gift set box, magnetic closure box, satin lined box, luxury menswear packaging, corporate gift box, gold foil gift box, Bincai magnetic box, ISO 9001 luxury packaging, FSC gift box, Heidelberg gold foil, Foshan luxury box, 18,000 sqm, 1.7M daily, 23 years experience, KBA 1050, custom tie packaging, executive gift box, premium accessory box, China magnetic box manufacturer, OEM luxury packaging, soft touch matte box, dual compartment box, neodymium magnet closure"
 categories: ["magnetic-closure-boxes"]
 params:
   moq: "500"
@@ -16,7 +16,7 @@ params:
 
 ## Product Overview
 
-The Bincai Magnetic Closure Luxury Tie & Cufflink Gift Set Box offers a complete presentation solution for the discerning menswear market. A full-length satin-lined tie channel sits alongside a die-cut cufflink tray — both revealed simultaneously as the magnetic flip lid opens with a satisfying premium resistance. Gold foil branding on the exterior and interior lid reinforces brand identity at every touchpoint. Manufactured at our 18,000 sqm integrated facility in Foshan using KBA 1050 4-color offset and Heidelberg 7+1 UV foil presses. 22 years of paper box mastery, ISO 9001:2015 and FSC certified, with 1.7 million boxes shipped daily to luxury brands across 50+ countries.
+The Bincai Magnetic Closure Luxury Tie & Cufflink Gift Set Box offers a complete presentation solution for the discerning menswear market. A full-length satin-lined tie channel sits alongside a die-cut cufflink tray — both revealed simultaneously as the magnetic flip lid opens with a satisfying premium resistance. Gold foil branding on the exterior and interior lid reinforces brand identity at every touchpoint. Manufactured at our 18,000 sqm integrated facility in Foshan using KBA 1050 4-color offset and Heidelberg 7+1 UV foil presses. 23 years of paper box mastery, ISO 9001:2015 and FSC certified, with 1.7 million boxes shipped daily to luxury brands across 50+ countries.
 
 ## Applications
 
@@ -120,8 +120,8 @@ A: Yes. We offer a 3-compartment configuration: full-length tie channel, 2-posit
 
 ## Why Bincai?
 
-Bincai has been the packaging partner for luxury menswear brands since 2003 — our boxes have held ties and cufflinks for flagship stores on Bond Street, Ginza, and Fifth Avenue. The magnetic closure mechanism is not an aftermarket add-on; our in-house magnet-setting stations embed N35 neodymium magnets between the greyboard layers during the lamination stage, creating a seamless exterior with no visible magnet dimples. In-house die-making means your tie channel and cufflink tray fit your exact accessory dimensions — not a generic one-size-fits-all insert. When your brand's reputation rides on the unboxing moment, one integrated manufacturer with 22 years of magnetic closure expertise delivers the consistency your customers expect.
+Bincai has been the packaging partner for luxury menswear brands since 2003 — our boxes have held ties and cufflinks for flagship stores on Bond Street, Ginza, and Fifth Avenue. The magnetic closure mechanism is not an aftermarket add-on; our in-house magnet-setting stations embed N35 neodymium magnets between the greyboard layers during the lamination stage, creating a seamless exterior with no visible magnet dimples. In-house die-making means your tie channel and cufflink tray fit your exact accessory dimensions — not a generic one-size-fits-all insert. When your brand's reputation rides on the unboxing moment, one integrated manufacturer with 23 years of magnetic closure expertise delivers the consistency your customers expect.
 
-**Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
+**Factory Facts:** Founded 2003 | 23 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
 
 **Shipping:** Flat-packed with pre-installed magnets. Tie channels fold flat, cufflink trays nest for maximum freight density. Master cartons of 20 units per case. Standard export pallet: 400-600 units. 10-14 day production lead time.

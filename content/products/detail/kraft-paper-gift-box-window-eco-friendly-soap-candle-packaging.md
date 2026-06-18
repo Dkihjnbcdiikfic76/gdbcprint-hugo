@@ -2,8 +2,8 @@
 title: "Kraft Paper Gift Box with Window — Eco-Friendly Recyclable Soap & Candle Packaging"
 date: 2026-06-15
 draft: false
-description: "Kraft paper gift box with die-cut window for soap, candle, and artisan product packaging — 100% recycled kraft board 400gsm, clear PLA compostable window, tuck-top closure with thumb notch. FSC-certified, plastic-free construction, printed with soy-based inks. Manufactured by Guangdong Bincai Color Printing — 22 years experience since 2003, ISO 9001:2015 & FSC certified, 18,000 sqm factory, 1.7M daily output, MOQ 500."
-keywords: "kraft paper gift box, eco-friendly soap box, candle packaging box, kraft window box, recycled paper gift box, compostable window box, plastic-free packaging, artisan soap packaging, sustainable gift box, FSC certified kraft box, Bincai Color Printing, Guangdong kraft box manufacturer, ISO 9001 FSC eco packaging, wholesale kraft box, OEM eco gift box, soy ink printed box, 18,000 sqm factory, 22 years manufacturer, recyclable gift packaging, zero waste packaging"
+description: "Kraft paper gift box with die-cut window for soap, candle, and artisan product packaging — 100% recycled kraft board 400gsm, clear PLA compostable window, tuck-top closure with thumb notch. FSC-certified, plastic-free construction, printed with soy-based inks. Manufactured by Guangdong Bincai Color Printing — 23 years experience since 2003, ISO 9001:2015 & FSC certified, 18,000 sqm factory, 1.7M daily output, MOQ 500."
+keywords: "kraft paper gift box, eco-friendly soap box, candle packaging box, kraft window box, recycled paper gift box, compostable window box, plastic-free packaging, artisan soap packaging, sustainable gift box, FSC certified kraft box, Bincai Color Printing, Guangdong kraft box manufacturer, ISO 9001 FSC eco packaging, wholesale kraft box, OEM eco gift box, soy ink printed box, 18,000 sqm factory, 23 years manufacturer, recyclable gift packaging, zero waste packaging"
 categories: ["kraft-eco-boxes"]
 params:
   moq: "500-1000"
@@ -16,7 +16,7 @@ params:
 
 ## Product Overview
 
-Minimalist kraft paper gift box designed for eco-conscious brands selling handmade soaps, artisan candles, bath bombs, and natural cosmetics. The 100% recycled kraft board (400gsm, unbleached) gives a warm, organic aesthetic that communicates sustainability at first glance. A precision die-cut window covered with PLA compostable film allows product visibility while maintaining a 100% plastic-free, biodegradable construction. The tuck-top closure with thumb notch opens effortlessly for retail browsing. Printed with soy-based inks in 1-2 colors — perfect for brand logos, ingredient callouts, or minimalist patterns. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** (founded 2003) — 22 years of sustainable packaging innovation.
+Minimalist kraft paper gift box designed for eco-conscious brands selling handmade soaps, artisan candles, bath bombs, and natural cosmetics. The 100% recycled kraft board (400gsm, unbleached) gives a warm, organic aesthetic that communicates sustainability at first glance. A precision die-cut window covered with PLA compostable film allows product visibility while maintaining a 100% plastic-free, biodegradable construction. The tuck-top closure with thumb notch opens effortlessly for retail browsing. Printed with soy-based inks in 1-2 colors — perfect for brand logos, ingredient callouts, or minimalist patterns. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** (founded 2003) — 23 years of sustainable packaging innovation.
 
 ## Applications
 
@@ -58,7 +58,7 @@ Minimalist kraft paper gift box designed for eco-conscious brands selling handma
 
 ## Why Choose Bincai
 
-- **22 Years Eco Packaging Leadership:** Bincai has pioneered sustainable paper packaging since 2003, serving brands that demand both environmental responsibility and manufacturing excellence
+- **23 Years Eco Packaging Leadership:** Bincai has pioneered sustainable paper packaging since 2003, serving brands that demand both environmental responsibility and manufacturing excellence
 - **FSC Recycled Certified:** Our kraft board carries FSC Recycled certification — full chain of custody from post-consumer waste to finished box
 - **Plastic-Free by Design:** PLA compostable window, paper-based board, soy inks, and starch glue — the entire box is commercially compostable (EN 13432)
 - **ISO 9001:2015 Quality:** Consistent quality across every production run, audited annually by SGS

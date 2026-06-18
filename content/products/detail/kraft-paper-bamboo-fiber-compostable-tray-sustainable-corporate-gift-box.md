@@ -3,7 +3,7 @@ title: "Kraft Paper Bamboo Fiber Gift Box with Compostable Tray — Sustainable 
 date: 2026-06-15
 draft: false
 description: "Kraft paper gift box with bamboo fiber compostable inner tray for sustainable corporate gifting by Guangdong Bincai Color Printing Co., Ltd. (founded 2003). Manufactured in our 18,000 sqm dual-factory in Foshan, China, using KBA Rapida 105 4-color offset and Heidelberg Speedmaster CD 102 7+1 UV presses. ISO 9001:2015 and FSC Chain-of-Custody certified. Daily output 1.7 million boxes. Features FSC-certified kraft paperboard exterior with soy-based ink printing and a fully compostable bamboo fiber molded inner tray (home compostable in 6–12 months). Magnetic closure with recycled-content magnets. Designed for corporate sustainability gifts, eco-brand merchandise, conference welcome kits, and ESG-conscious client gifting. 100% plastic-free, fully biodegradable. MOQ 500. Free pre-production samples in 5–7 working days."
-keywords: "kraft paper bamboo gift box, sustainable corporate gift box, compostable tray box, eco corporate packaging, bamboo fiber tray, plastic-free gift box, FSC kraft box, soy ink printed box, biodegradable gift packaging, zero waste corporate gift, Bincai Color Printing, Guangdong box manufacturer, 22 years manufacturing, ISO 9001 certified box, FSC certified packaging, KBA 1050 offset box, Heidelberg 7+1 UV, 18,000 sqm factory, 1.7M daily output, OEM kraft box China, Foshan Guangdong packaging, sustainable corporate gift, ESG packaging, Diamond Supplier MIC"
+keywords: "kraft paper bamboo gift box, sustainable corporate gift box, compostable tray box, eco corporate packaging, bamboo fiber tray, plastic-free gift box, FSC kraft box, soy ink printed box, biodegradable gift packaging, zero waste corporate gift, Bincai Color Printing, Guangdong box manufacturer, 23 years manufacturing, ISO 9001 certified box, FSC certified packaging, KBA 1050 offset box, Heidelberg 7+1 UV, 18,000 sqm factory, 1.7M daily output, OEM kraft box China, Foshan Guangdong packaging, sustainable corporate gift, ESG packaging, Diamond Supplier MIC"
 categories: ["kraft-eco-boxes"]
 params:
   moq: "500-1000"
@@ -98,7 +98,7 @@ Manufactured in our 18,000 sqm dual-factory in Foshan, Guangdong, the box exteri
 
 ## Why Choose Bincai for Sustainable Corporate Packaging
 
-- **22 years of manufacturing expertise** — established 2003, trusted by sustainability-focused brands across 60+ countries
+- **23 years of manufacturing expertise** — established 2003, trusted by sustainability-focused brands across 60+ countries
 - **18,000 sqm integrated facility** — 10,000 sqm main plant + 8,000 sqm smart factory (2025 expansion) with dedicated eco-packaging production cells
 - **Genuinely sustainable, not greenwashed** — every component certified: FSC board, EN 13432 tray, OK Compost HOME, soy-based inks — verifiable certification numbers, not just marketing claims
 - **Bamboo fiber innovation** — molded bamboo fiber trays that are truly home-compostable, not "industrially compostable only" like PLA
@@ -107,7 +107,7 @@ Manufactured in our 18,000 sqm dual-factory in Foshan, Guangdong, the box exteri
 - **1.7 million boxes daily capacity** — scalable for large corporate programs (5,000–100,000+ unit orders)
 - **MOQ 500** — accessible minimums for pilot programs with free pre-production samples in 7–10 working days
 
-**Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
+**Factory Facts:** Founded 2003 | 23 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
 
 ## FAQ
 

@@ -2,7 +2,7 @@
 title: "Custom Hexagonal Rigid Gift Box with Magnetic Closure Gold Foil Embossing"
 date: 2026-06-16
 draft: false
-description: "Hexagonal rigid gift box with magnetic closure, gold foil embossing, and flocked velvet interior. Perfect for premium tea, honey, and luxury confectionery gifts. Manufactured by Bincai with Heidelberg 7+1 UV press, Bobst SP 102-E die-cutting, 10,000+8,000sqm dual factory, 22 years experience, ISO 9001:2015 & FSC certified. MOQ 500."
+description: "Hexagonal rigid gift box with magnetic closure, gold foil embossing, and flocked velvet interior. Perfect for premium tea, honey, and luxury confectionery gifts. Manufactured by Bincai with Heidelberg 7+1 UV press, Bobst SP 102-E die-cutting, 10,000+8,000sqm dual factory, 23 years experience, ISO 9001:2015 & FSC certified. MOQ 500."
 keywords: "hexagonal gift box, rigid magnetic box, gold foil embossing, hexagonal tea box, premium gift packaging, custom hexagon box, luxury rigid box manufacturer, Bincai gift packaging, magnetic closure gift box, FSC certified rigid box, embossed gift box, geometric packaging"
 categories: ["rigid-gift-boxes"]
 params:
@@ -14,7 +14,7 @@ params:
 
 ![Bincai Rigid Gift Boxes](/images/rigid-gift-boxes.jpg)
 
-Hexagonal rigid gift box with magnetic closure and gold foil embossing — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience. The six-sided geometric design commands attention on retail shelves and conveys premium quality before the box is even opened. Each hexagon face provides a generous branding canvas for gold foil logo embossing, debossed patterns, or full-color CMYK printing. The magnetic closure delivers a satisfying snap-and-seal experience, while the flocked velvet interior cradles your product in luxury.
+Hexagonal rigid gift box with magnetic closure and gold foil embossing — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 23 years of experience. The six-sided geometric design commands attention on retail shelves and conveys premium quality before the box is even opened. Each hexagon face provides a generous branding canvas for gold foil logo embossing, debossed patterns, or full-color CMYK printing. The magnetic closure delivers a satisfying snap-and-seal experience, while the flocked velvet interior cradles your product in luxury.
 
 ## Applications
 - Premium loose-leaf tea and tea bag gift sets
@@ -51,7 +51,7 @@ Hexagonal rigid gift box with magnetic closure and gold foil embossing — manuf
 - MOQ 500–1000 units, trial orders and OEM/ODM accepted
 
 ## Factory
-- 22 years of manufacturing excellence since 2003
+- 23 years of manufacturing excellence since 2003
 - 18,000 sqm factory (10,000+8,000 smart factory)
 - 80+ skilled employees including dedicated rigid box assembly craftspeople
 - Heidelberg 7+1 UV press + KBA 1050 4-color offset
@@ -72,7 +72,7 @@ A: Absolutely. Our molded interior options include: single-cavity (one large pro
 
 ## Why Bincai
 
-- **22 Years of Manufacturing Excellence** — Founded in 2003, Bincai's rigid box craftsmanship has been refined over two decades. Our master craftspeople average 12+ years of experience in hand-wrapped rigid box construction.
+- **23 Years of Manufacturing Excellence** — Founded in 2003, Bincai's rigid box craftsmanship has been refined over two decades. Our master craftspeople average 12+ years of experience in hand-wrapped rigid box construction.
 - **18,000 sqm Dual Factory** — Dedicated rigid box assembly workshop with 50+ stations, integrated design-to-delivery workflow.
 - **German Press Technology** — Heidelberg 7+1 UV press delivers the precision and color fidelity that luxury packaging demands.
 - **ISO 9001:2015 & FSC Certified** — Quality management and sustainable sourcing verified by annual audits.

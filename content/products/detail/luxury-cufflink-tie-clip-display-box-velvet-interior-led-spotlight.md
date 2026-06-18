@@ -2,8 +2,8 @@
 title: "Luxury Cufflink & Tie Clip Display Box with Velvet Interior and LED Spotlight"
 date: 2026-06-15
 draft: false
-description: "Premium dual-compartment cufflink and tie clip display box with plush velvet interior, integrated LED spotlight, and magnetic flip closure. Manufactured at Bincai's 18,000 sqm Foshan facility using KBA 1050 4-color offset and Heidelberg 7+1 UV presses. ISO 9001:2015 and FSC certified. 22 years paper box expertise, 1.7M boxes daily output. MOQ 500 units with free custom samples. Ideal for luxury menswear brands, corporate gift programs, and high-end jewelry retailers."
-keywords: "cufflink display box, tie clip gift box, led spotlight jewelry box, velvet interior box, magnetic flip closure, mens accessory packaging, luxury cufflink case, corporate gift box, Bincai jewelry packaging, ISO 9001 cufflink box, FSC display box, Heidelberg gold foil, Foshan luxury box, 18,000 sqm, 1.7M daily, 22 years experience, KBA 1050 jewelry box, custom menswear packaging, tie clip organizer box, velvet display case, premium accessory box, leather look gift box, suede lined box, China jewelry box manufacturer, OEM cufflink packaging"
+description: "Premium dual-compartment cufflink and tie clip display box with plush velvet interior, integrated LED spotlight, and magnetic flip closure. Manufactured at Bincai's 18,000 sqm Foshan facility using KBA 1050 4-color offset and Heidelberg 7+1 UV presses. ISO 9001:2015 and FSC certified. 23 years paper box expertise, 1.7M boxes daily output. MOQ 500 units with free custom samples. Ideal for luxury menswear brands, corporate gift programs, and high-end jewelry retailers."
+keywords: "cufflink display box, tie clip gift box, led spotlight jewelry box, velvet interior box, magnetic flip closure, mens accessory packaging, luxury cufflink case, corporate gift box, Bincai jewelry packaging, ISO 9001 cufflink box, FSC display box, Heidelberg gold foil, Foshan luxury box, 18,000 sqm, 1.7M daily, 23 years experience, KBA 1050 jewelry box, custom menswear packaging, tie clip organizer box, velvet display case, premium accessory box, leather look gift box, suede lined box, China jewelry box manufacturer, OEM cufflink packaging"
 categories: ["jewelry-boxes"]
 params:
   moq: "500"
@@ -16,7 +16,7 @@ params:
 
 ## Product Overview
 
-The Bincai Luxury Cufflink & Tie Clip Display Box elevates men's accessory presentation with dual velvet compartments, an integrated LED spotlight that activates on opening, and a magnetic flip closure with gold foil branding. Designed for luxury menswear brands, corporate gifting programs, and high-end jewelry retailers who demand display-ready packaging that sells the product before the customer touches it. Manufactured at our 18,000 sqm integrated facility in Foshan — 22 years of paper box mastery, KBA 1050 + Heidelberg 7+1 UV presses, ISO 9001:2015 and FSC certified, delivering 1.7 million boxes daily to 50+ countries.
+The Bincai Luxury Cufflink & Tie Clip Display Box elevates men's accessory presentation with dual velvet compartments, an integrated LED spotlight that activates on opening, and a magnetic flip closure with gold foil branding. Designed for luxury menswear brands, corporate gifting programs, and high-end jewelry retailers who demand display-ready packaging that sells the product before the customer touches it. Manufactured at our 18,000 sqm integrated facility in Foshan — 23 years of paper box mastery, KBA 1050 + Heidelberg 7+1 UV presses, ISO 9001:2015 and FSC certified, delivering 1.7 million boxes daily to 50+ countries.
 
 ## Applications
 
@@ -117,6 +117,6 @@ A: ISO 9001:2015 quality management, FSC Chain-of-Custody for sustainable paper 
 
 Bincai has manufactured over 200,000 jewelry display boxes annually for luxury brands across 50+ countries. Our integrated approach — in-house die-making, electrostatic flocking, offset printing, and LED module integration all under one 18,000 sqm roof — means your cufflink display boxes move from concept to container without handoffs to third-party suppliers. LED modules are sourced directly from certified electronics partners and integrated on our assembly lines, not outsourced. The result: 10-14 day production lead times with zero quality gaps. When you need a display box that functions flawlessly and projects the luxury your brand commands, one integrated manufacturer delivers better than a supply chain of specialists.
 
-**Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
+**Factory Facts:** Founded 2003 | 23 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
 
 **Shipping:** Flat-packed with pre-installed LED modules and batteries — assembles in seconds at destination. Saves 60% on freight volume vs. pre-assembled boxes. Standard export carton: 48 units per master case, palletized and stretch-wrapped for container loading.

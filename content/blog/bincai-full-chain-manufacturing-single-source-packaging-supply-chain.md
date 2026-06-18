@@ -3,7 +3,7 @@ title: "From Concept to Container: How Bincai's Full-Chain Manufacturing Elimina
 date: 2026-06-14
 draft: false
 image: "/images/hero-factory.webp"
-description: "From Concept to Container — How Bincai's Full-Chain Manufacturing Eliminates Packaging Supply Chain Fragmentation. Guangdong Bincai Color Printing integrates prepress design, die-making, offset/UV printing, finishing, assembly, QC, and export logistics under one 18,000 sqm roof. No vendor handoffs, no blame-shifting, no delays. ISO 9001 & FSC certified, 22 years, 1.7M boxes daily."
+description: "From Concept to Container — How Bincai's Full-Chain Manufacturing Eliminates Packaging Supply Chain Fragmentation. Guangdong Bincai Color Printing integrates prepress design, die-making, offset/UV printing, finishing, assembly, QC, and export logistics under one 18,000 sqm roof. No vendor handoffs, no blame-shifting, no delays. ISO 9001 & FSC certified, 23 years, 1.7M boxes daily."
 
 ---
 
@@ -119,7 +119,7 @@ A luxury candle gift set might include: a rigid magnetic-closure outer box (Heid
 
 ---
 
-## The 22-Year Proof Point
+## The 23-Year Proof Point
 
 Bincai has operated as a full-chain manufacturer since 2003. This model isn't a recent pivot — it's how we've always worked. The result:
 
@@ -137,6 +137,6 @@ Full-chain manufacturing isn't just a marketing claim. It's the operating model 
 
 ---
 
-*Guangdong Bincai Color Printing — 22 years of full-chain paper box manufacturing. ISO 9001 & FSC certified. 1.7M+ boxes daily, delivered to 50+ countries from our 18,000 sqm dual-factory campus in Foshan, China.*
+*Guangdong Bincai Color Printing — 23 years of full-chain paper box manufacturing. ISO 9001 & FSC certified. 1.7M+ boxes daily, delivered to 50+ countries from our 18,000 sqm dual-factory campus in Foshan, China.*
 
 <a href="https://bincaipaperbox.en.made-in-china.com/" target="_blank" rel="noopener" class="btn-mic">View Full Catalog on Made-in-China.com →</a>

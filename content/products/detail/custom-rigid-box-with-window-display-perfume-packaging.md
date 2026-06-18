@@ -3,7 +3,7 @@ title: "Custom Rigid Box with Window Display Perfume Packaging"
 date: 2026-06-10
 draft: false
 description: "Custom rigid box with die-cut window display for luxury perfume packaging. Magnetic closure, velvet/foam insert, gold foil stamping. 22yr Guangdong Bincai Color Printing — 18,000 sqm ISO 9001 & FSC factory (10,000+8,000 smart factory), Heidelberg 7+1 UV, KBA 1050, Bobst die-cutting, 1.7M daily output, MOQ 500. Free samples in 5-7 days."
-keywords: "rigid perfume box, window display perfume packaging, luxury rigid gift box, magnetic closure perfume box, custom perfume packaging box, die-cut window rigid box, gold foil perfume box, velvet insert gift box, Bincai Color Printing, luxury packaging manufacturer China, rigid box with window, perfume gift box wholesale, ISO 9001 perfume packaging, FSC gift box, Heidelberg UV box, Bobst die-cut, 1.7M daily, 22 years Guangdong"
+keywords: "rigid perfume box, window display perfume packaging, luxury rigid gift box, magnetic closure perfume box, custom perfume packaging box, die-cut window rigid box, gold foil perfume box, velvet insert gift box, Bincai Color Printing, luxury packaging manufacturer China, rigid box with window, perfume gift box wholesale, ISO 9001 perfume packaging, FSC gift box, Heidelberg UV box, Bobst die-cut, 1.7M daily, 23 years Guangdong"
 categories: ["rigid-gift-boxes"]
 params:
   moq: "500-1000"
@@ -86,7 +86,7 @@ Guangdong Bincai Color Printing Co., Ltd. — founded 2003 in Foshan's Shunde ma
 
 ## Why Choose Bincai
 
-- **22 Years of Rigid-Box Mastery**: Since 2003, we've manufactured tens of millions of rigid gift boxes for brands across 60+ countries — we understand the nuanced interplay between board thickness, magnet placement, and wrap tension that makes a luxury box feel "right."
+- **23 Years of Rigid-Box Mastery**: Since 2003, we've manufactured tens of millions of rigid gift boxes for brands across 60+ countries — we understand the nuanced interplay between board thickness, magnet placement, and wrap tension that makes a luxury box feel "right."
 - **Vertical Integration**: From CNC die-making (custom window dies in-house) through Heidelberg UV printing and Bobst die-cutting to manual rigid-box wrapping by experienced craftspeople — every process under one roof eliminates subcontractor delays and quality gaps.
 - **Window Expertise**: Die-cut windows are our specialty — we maintain dedicated window-film lamination stations with hot-melt and ultrasonic bonding technology, giving you the choice of PET or biodegradable PLA with equal quality.
 - **Smart Factory**: Our 2025-completed 8,000 sqm smart factory expansion features IoT-connected production monitoring, automated magnet insertion, and real-time QC data logging — you get consistent quality whether you order 500 or 500,000 units.

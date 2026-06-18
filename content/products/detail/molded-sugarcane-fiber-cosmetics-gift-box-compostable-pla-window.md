@@ -2,8 +2,8 @@
 title: "Molded Sugarcane Fiber Cosmetics Gift Box with Compostable PLA Window"
 date: 2026-06-16
 draft: false
-description: "Molded sugarcane bagasse fiber cosmetics gift box with compostable PLA transparent window. Manufactured by Guangdong Bincai Color Printing Co., Ltd. — 22 years experience, ISO 9001:2015 & FSC-C147399 certified, 18,000 sqm dual-factory with KBA Rapida 105 + Heidelberg CD 102 7+1 UV. EN 13432 and ASTM D6400 certified compostable, 100% petroleum-free materials. Ideal for eco-conscious skincare, cosmetics, and beauty brands. MOQ 500 units with free pre-production samples."
-keywords: "sugarcane fiber box, bagasse cosmetics box, compostable packaging box, PLA window box, molded fiber gift box, eco cosmetics packaging, sustainable beauty box, zero-waste packaging, Bincai, Guangdong packaging factory, 22 years experience, ISO 9001 certified, FSC certified, 18,000 sqm factory, 1.7M daily output, EN 13432 compostable, ASTM D6400 certified, PLA window box, biodegradable cosmetics box, green packaging China, kraft eco box, molded pulp cosmetics, petroleum-free packaging, sugarcane bagasse box, OEM eco box China, wholesale sustainable packaging, Foshan Guangdong manufacturer, KBA Rapida 105, Heidelberg CD 102 7+1 UV, compostable window box, plant-based packaging, circular economy packaging, Bincai Color Printing, sugarcane gift box, skincare packaging box, luxury eco box, renewable material packaging, Diamond Member MIC, pearl river delta manufacturer, compostable PLA film box, bioplastic window box"
+description: "Molded sugarcane bagasse fiber cosmetics gift box with compostable PLA transparent window. Manufactured by Guangdong Bincai Color Printing Co., Ltd. — 23 years experience, ISO 9001:2015 & FSC-C147399 certified, 18,000 sqm dual-factory with KBA Rapida 105 + Heidelberg CD 102 7+1 UV. EN 13432 and ASTM D6400 certified compostable, 100% petroleum-free materials. Ideal for eco-conscious skincare, cosmetics, and beauty brands. MOQ 500 units with free pre-production samples."
+keywords: "sugarcane fiber box, bagasse cosmetics box, compostable packaging box, PLA window box, molded fiber gift box, eco cosmetics packaging, sustainable beauty box, zero-waste packaging, Bincai, Guangdong packaging factory, 23 years experience, ISO 9001 certified, FSC certified, 18,000 sqm factory, 1.7M daily output, EN 13432 compostable, ASTM D6400 certified, PLA window box, biodegradable cosmetics box, green packaging China, kraft eco box, molded pulp cosmetics, petroleum-free packaging, sugarcane bagasse box, OEM eco box China, wholesale sustainable packaging, Foshan Guangdong manufacturer, KBA Rapida 105, Heidelberg CD 102 7+1 UV, compostable window box, plant-based packaging, circular economy packaging, Bincai Color Printing, sugarcane gift box, skincare packaging box, luxury eco box, renewable material packaging, Diamond Member MIC, pearl river delta manufacturer, compostable PLA film box, bioplastic window box"
 categories: ["kraft-eco-boxes"]
 params:
   moq: "500"
@@ -14,7 +14,7 @@ params:
 
 ![Bincai Kraft Eco Boxes](/images/kraft-eco-box.jpg)
 
-Molded sugarcane bagasse fiber cosmetics gift box with compostable PLA transparent window — manufactured by Guangdong Bincai Color Printing Co., Ltd., a pioneer in sustainable packaging with 22 years of manufacturing excellence (founded 2003). This 100% petroleum-free box is crafted from renewable sugarcane bagasse fiber with an industrially compostable PLA (polylactic acid) window film. Certified to EN 13432 and ASTM D6400 standards for industrial composting, the entire box breaks down into nutrient-rich biomass within 12 weeks. Manufactured in our 18,000 sqm dual-factory (10,000+8,000 sqm smart factory, 2025 expansion) in Foshan, Pearl River Delta, with daily output of 1.7M boxes.
+Molded sugarcane bagasse fiber cosmetics gift box with compostable PLA transparent window — manufactured by Guangdong Bincai Color Printing Co., Ltd., a pioneer in sustainable packaging with 23 years of manufacturing excellence (founded 2003). This 100% petroleum-free box is crafted from renewable sugarcane bagasse fiber with an industrially compostable PLA (polylactic acid) window film. Certified to EN 13432 and ASTM D6400 standards for industrial composting, the entire box breaks down into nutrient-rich biomass within 12 weeks. Manufactured in our 18,000 sqm dual-factory (10,000+8,000 sqm smart factory, 2025 expansion) in Foshan, Pearl River Delta, with daily output of 1.7M boxes.
 
 ## Applications
 - Organic and natural skincare product packaging
@@ -82,7 +82,7 @@ Molded sugarcane bagasse fiber cosmetics gift box with compostable PLA transpare
 
 | Feature | Bincai | Industry Average |
 |---|---|---|
-| Experience | 22 years (since 2003) | 3–5 years |
+| Experience | 23 years (since 2003) | 3–5 years |
 | Certifications | ISO 9001, FSC, EN 13432, ASTM D6400 | ISO 9001 only |
 | Factory Size | 18,000 sqm dual-factory | 3,000–5,000 sqm |
 | Daily Output | 1.7M boxes | 100K–300K |
@@ -102,7 +102,7 @@ Your customers are reading labels. "Plastic-free," "compostable," "plant-based" 
 - **EN 13432 and ASTM D6400 compliance documentation** ready for your EU and US retail submissions
 - A **same-day production quote** including MOQ 500, 25–35 day lead time, and FOB Foshan freight estimate
 
-Bincai: 22 years manufacturing since 2003, 18,000 sqm factory, ISO 9001:2015 & FSC certified, 480 kWp rooftop solar, 94% waste recovery rate. Producing 1.7M boxes daily from the Pearl River Delta.
+Bincai: 23 years manufacturing since 2003, 18,000 sqm factory, ISO 9001:2015 & FSC certified, 480 kWp rooftop solar, 94% waste recovery rate. Producing 1.7M boxes daily from the Pearl River Delta.
 
 📧 qo82@icloud.com &nbsp; | &nbsp; 📱 +86-18934352881 &nbsp; | &nbsp; [→ Request Your Eco Sample](/contact/)
 | Compostability | Third-party certified (EN 13432) | Self-declared |

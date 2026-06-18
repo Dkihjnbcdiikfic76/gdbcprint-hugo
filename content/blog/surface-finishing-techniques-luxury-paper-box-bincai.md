@@ -3,7 +3,7 @@ title: "8 Surface Finishing Techniques That Transform Paper Boxes into Luxury Pa
 date: 2026-06-11
 draft: false
 image: "/images/hero-factory.webp"
-description: "From matte lamination to hot foil stamping — how Bincai's 18,000 sqm factory (10,000+8,000 smart factory) combines KBA 1050 offset, Heidelberg 7+1 UV, and post-press finishing to produce 1.7M premium paper boxes daily. ISO 9001 & FSC certified, 22 years experience."
+description: "From matte lamination to hot foil stamping — how Bincai's 18,000 sqm factory (10,000+8,000 smart factory) combines KBA 1050 offset, Heidelberg 7+1 UV, and post-press finishing to produce 1.7M premium paper boxes daily. ISO 9001 & FSC certified, 23 years experience."
 
 ---
 
@@ -97,7 +97,7 @@ Many packaging suppliers outsource finishing to third-party post-press shops —
 | Water-Based Varnish | KBA 1050 inline coater | ✓ |
 | Specialty Textures | UV curing station | ✓ |
 
-**22 years of post-press expertise. 1.7 million boxes daily. ISO 9001 quality management. FSC chain-of-custody certified.**
+**23 years of post-press expertise. 1.7 million boxes daily. ISO 9001 quality management. FSC chain-of-custody certified.**
 
 ---
 

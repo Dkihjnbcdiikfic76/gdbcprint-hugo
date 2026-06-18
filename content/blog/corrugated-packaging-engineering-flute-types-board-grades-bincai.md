@@ -229,7 +229,7 @@ Every corrugated order passes through seven inspection gates:
 | **Litho Printing** | Heidelberg CD 102 7+1 UV + KBA Rapida 105 4-color |
 | **Daily Output** | 1.7 million boxes across all categories |
 | **Factory** | 18,000 sqm, Guangdong, China |
-| **Experience** | 22 years in paper packaging |
+| **Experience** | 23 years in paper packaging |
 | **Certifications** | ISO 9001:2015, FSC C128885, ISO 15378 (pharma), G7 Master |
 | **Testing Lab** | In-house ECT/BCT/Mullen/ISTA — full ASTM/TAPPI/ISO capability |
 | **MOQ** | 500 units for standard, 1,000 for custom die-cut |
@@ -241,7 +241,7 @@ Every corrugated order passes through seven inspection gates:
 
 Corrugated packaging is not a commodity — it's a precision-engineered system that protects your product through global supply chains, represents your brand at the customer's doorstep, and increasingly must meet sustainability mandates across multiple jurisdictions.
 
-At Bincai, we bring 22 years of corrugated engineering expertise, a world-class BHS corrugator, and a culture of quality that tests every batch to ASTM/TAPPI/ISTA standards before it leaves our 18,000 sqm factory.
+At Bincai, we bring 23 years of corrugated engineering expertise, a world-class BHS corrugator, and a culture of quality that tests every batch to ASTM/TAPPI/ISTA standards before it leaves our 18,000 sqm factory.
 
 **Contact our engineering team to discuss your corrugated packaging requirements — from simple RSCs to complex die-cut retail displays.**
 

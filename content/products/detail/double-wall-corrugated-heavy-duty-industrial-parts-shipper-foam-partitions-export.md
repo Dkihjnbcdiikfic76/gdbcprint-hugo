@@ -2,7 +2,7 @@
 title: "Double-Wall Corrugated Heavy-Duty Industrial Parts Shipper — Custom Foam Partitions, Pallet-Ready"
 date: 2026-06-15
 draft: false
-description: "Heavy-duty double-wall corrugated industrial parts shipper manufactured by Guangdong Bincai Color Printing (founded 2003, 22 years). 18,000 sqm Foshan factory with KBA 1050 4-color + Heidelberg 7+1 UV presses, ISO 9001:2015 & FSC certified, 1.7M daily box output. BC-flute double-wall construction with custom EPE foam partitions. Designed for automotive parts, machinery components, and heavy industrial goods — pallet-ready export packaging."
+description: "Heavy-duty double-wall corrugated industrial parts shipper manufactured by Guangdong Bincai Color Printing (founded 2003, 23 years). 18,000 sqm Foshan factory with KBA 1050 4-color + Heidelberg 7+1 UV presses, ISO 9001:2015 & FSC certified, 1.7M daily box output. BC-flute double-wall construction with custom EPE foam partitions. Designed for automotive parts, machinery components, and heavy industrial goods — pallet-ready export packaging."
 keywords: "corrugated shipper, double-wall, heavy-duty, industrial parts, foam partitions, pallet-ready, export packaging, bincai, guangdong, iso 9001, fsc, kba 1050, heidelberg 7+1 uv, 18000 sqm, 1.7m daily output, automotive packaging, machinery packaging, custom corrugated box, OEM"
 categories: ["corrugated-mailers"]
 params:
@@ -56,7 +56,7 @@ The Double-Wall Corrugated Heavy-Duty Industrial Parts Shipper is built for manu
 | MOQ | 500 units per design |
 | Lead Time | 10-14 days production + shipping |
 | Certifications | ISO 9001:2015, FSC Chain-of-Custody, ISTA 3E testing available |
-| Experience | 22 years (founded 2003) |
+| Experience | 23 years (founded 2003) |
 
 ## Quality Assurance
 
@@ -142,8 +142,8 @@ The TCO (Total Cost of Ownership) math: a 20kg industrial part shipped from Fosh
 
 ## Why Bincai?
 
-Industrial packaging demands structural engineering, not just box-making. Bincai's 22-year expertise in corrugated manufacturing means your parts shippers are designed for real-world supply chain abuse — from the BC-flute double-wall construction (1,800+ kPa burst) to the custom die-cut EPE foam partitions that eliminate part-on-part contact. Our integrated factory combines corrugator, flexo/litho printing, die-cutting, foam fabrication, and assembly under one roof — eliminating the coordination overhead of multi-vendor packaging supply chains. With ISTA-certified testing capabilities and ISO 9001:2015 quality systems, we deliver packaging that protects your most valuable components from Foshan to your customer's receiving dock.
+Industrial packaging demands structural engineering, not just box-making. Bincai's 23-year expertise in corrugated manufacturing means your parts shippers are designed for real-world supply chain abuse — from the BC-flute double-wall construction (1,800+ kPa burst) to the custom die-cut EPE foam partitions that eliminate part-on-part contact. Our integrated factory combines corrugator, flexo/litho printing, die-cutting, foam fabrication, and assembly under one roof — eliminating the coordination overhead of multi-vendor packaging supply chains. With ISTA-certified testing capabilities and ISO 9001:2015 quality systems, we deliver packaging that protects your most valuable components from Foshan to your customer's receiving dock.
 
-**Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
+**Factory Facts:** Founded 2003 | 23 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
 
 **Shipping:** Flat-packed corrugated shippers for 80%+ freight volume savings. Palletized loads optimized for 20ft/40ft containers. Standard 15-25 day sea freight from Foshan ports. Consolidation and FCL options available.

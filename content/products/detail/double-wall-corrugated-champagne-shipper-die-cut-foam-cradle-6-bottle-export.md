@@ -2,7 +2,7 @@
 title: "Double-Wall Corrugated Champagne Shipper with Die-Cut Foam Cradle 6-Bottle Export"
 date: 2026-06-14
 draft: false
-description: "Heavy-duty double-wall corrugated champagne bottle shipper with custom die-cut EPE foam cradle for 6 standard 750ml bottles. ISTA 3A certified for international courier shipping. Manufactured at Bincai's 18,000 sqm Foshan factory with B-flute and BC-flute corrugated lines. ISO 9001:2015 certified. 22 years packaging experience. MOQ 500 units."
+description: "Heavy-duty double-wall corrugated champagne bottle shipper with custom die-cut EPE foam cradle for 6 standard 750ml bottles. ISTA 3A certified for international courier shipping. Manufactured at Bincai's 18,000 sqm Foshan factory with B-flute and BC-flute corrugated lines. ISO 9001:2015 certified. 23 years packaging experience. MOQ 500 units."
 keywords: "champagne shipper, wine shipping box, corrugated bottle mailer, 6-bottle wine box, double wall corrugated, foam cradle insert, EPE foam insert, ISTA 3A wine box, export wine packaging, champagne gift shipping, Bincai corrugated, ISO 9001 wine shipper, heavy duty corrugated box, wine export box, bottle protection box, custom foam insert wine, e-commerce wine box, corrugated champagne packaging, wine courier box, China wine shipper manufacturer"
 categories: ["corrugated-mailers"]
 params:
@@ -70,7 +70,7 @@ The Bincai Double-Wall Corrugated Champagne Shipper solves the most demanding ch
 
 ## Why Choose Bincai for Corrugated Shipping Boxes
 
-- **22 years of corrugated mastery** — established 2003, trusted by wine exporters, e-commerce brands, and subscription services across 40+ countries
+- **23 years of corrugated mastery** — established 2003, trusted by wine exporters, e-commerce brands, and subscription services across 40+ countries
 - **Vertical integration** — in-house BHS 2.5m corrugator for B/C/E/BC flutes + KBA 1050 flexo/offset printing on liner — zero subcontractor delays
 - **ISTA-certified testing lab** — ISTA 3A drop, vibration, and compression testing done in-house with certified reports for your customs documentation
 - **1.7 million boxes daily capacity** — dedicated corrugated line processes 1.5M+ shippers/day with capacity for seasonal volume spikes (Lunar New Year, 11.11, holiday season)

@@ -3,7 +3,7 @@ title: "From Prototype to 1.7 Million Boxes: Inside Bincai's End-to-End Producti
 date: 2026-06-11
 draft: false
 image: "/images/team-office.webp"
-description: "How Guangdong Bincai Color Printing's automated 18,000 sqm factory (10,000+8,000 smart factory) transforms paperboard into 1.7 million premium boxes daily — pre-press, offset printing, Bobst die-cutting, Heidelberg gluing, and 15 QC checkpoints across 22 years of continuous improvement."
+description: "How Guangdong Bincai Color Printing's automated 18,000 sqm factory (10,000+8,000 smart factory) transforms paperboard into 1.7 million premium boxes daily — pre-press, offset printing, Bobst die-cutting, Heidelberg gluing, and 15 QC checkpoints across 23 years of continuous improvement."
 
 ---
 
@@ -125,7 +125,7 @@ Bincai's location in Foshan, Guangdong — the heart of the Pearl River Delta ma
 | Die-Cutting Precision | ±0.1 mm |
 | Magnetic Pull Force | 500–1500 gf (N42 grade) |
 
-From prototype to delivery, Bincai's integrated workflow ensures your packaging project moves seamlessly through every stage — with quality verified at each checkpoint. It's how we've earned the trust of brands across 30+ countries over 22 years.
+From prototype to delivery, Bincai's integrated workflow ensures your packaging project moves seamlessly through every stage — with quality verified at each checkpoint. It's how we've earned the trust of brands across 30+ countries over 23 years.
 
 [Request a quote](/contact/) or [browse our product catalog](/products/).
 

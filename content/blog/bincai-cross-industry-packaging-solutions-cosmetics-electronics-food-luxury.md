@@ -3,13 +3,13 @@ title: "One Factory, Six Industries: How Bincai's Versatile Production Lines Ser
 date: 2026-06-14
 draft: false
 image: "/images/hero-banner-wide.webp"
-description: "Guangdong Bincai Color Printing's 10,000 sqm factory serves 6+ industries with a single integrated production platform — from food-grade folding cartons to luxury rigid magnetic boxes. Explore how our KBA 1050, Heidelberg 7+1 UV, and 22 years of cross-category expertise deliver packaging solutions across cosmetics, consumer electronics, food & beverage, jewelry, spirits, and luxury goods — all under ISO 9001 & FSC certification."
+description: "Guangdong Bincai Color Printing's 10,000 sqm factory serves 6+ industries with a single integrated production platform — from food-grade folding cartons to luxury rigid magnetic boxes. Explore how our KBA 1050, Heidelberg 7+1 UV, and 23 years of cross-category expertise deliver packaging solutions across cosmetics, consumer electronics, food & beverage, jewelry, spirits, and luxury goods — all under ISO 9001 & FSC certification."
 
 ---
 
 ![Bincai Cross-Industry Paper Box Packaging Solutions](/images/hero-banner-wide.webp)
 
-Most packaging factories specialize in one category — rigid boxes, corrugated shippers, or folding cartons. Guangdong Bincai Color Printing is different. With **22 years of manufacturing experience**, dual offset press capabilities, and a 10,000 sqm facility operating under one roof, we serve clients across six distinct industries — each with unique regulatory, material, and finishing requirements.
+Most packaging factories specialize in one category — rigid boxes, corrugated shippers, or folding cartons. Guangdong Bincai Color Printing is different. With **23 years of manufacturing experience**, dual offset press capabilities, and a 10,000 sqm facility operating under one roof, we serve clients across six distinct industries — each with unique regulatory, material, and finishing requirements.
 
 Here's how a single integrated production platform delivers packaging excellence across cosmetics, electronics, food & beverage, jewelry, spirits, and luxury goods industries.
 
@@ -187,4 +187,4 @@ Whether you're launching a new skincare line, refreshing electronics packaging, 
 
 **Contact our team today** to discuss your industry-specific requirements, request material samples, and receive a quote within 24 hours.
 
-*Guangdong Bincai Color Printing Co., Ltd. — 22 years. 10,000 sqm. ISO 9001 & FSC certified. 1.5 million boxes daily. One factory, every industry.*
+*Guangdong Bincai Color Printing Co., Ltd. — 23 years. 10,000 sqm. ISO 9001 & FSC certified. 1.5 million boxes daily. One factory, every industry.*

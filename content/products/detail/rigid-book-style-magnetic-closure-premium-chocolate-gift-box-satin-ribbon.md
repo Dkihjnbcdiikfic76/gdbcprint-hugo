@@ -2,8 +2,8 @@
 title: "Rigid Book-Style Magnetic Closure Gift Box — Premium Chocolate & Confectionery with Satin Ribbon"
 date: 2026-06-15
 draft: false
-description: "Rigid book-style magnetic closure gift box for premium chocolates and confectionery by Guangdong Bincai Color Printing — Diamond Member on Made-in-China.com. ISO 9001 FSC certified, 22 years experience, KBA 1050 4-color + Heidelberg 7+1 UV presses, 18,000 sqm factory, 1.7M daily output. Book-style hinged lid, magnetic snap closure, satin ribbon pull, custom die-cut foam tray for truffle/praline cavities, gold foil logo."
-keywords: "rigid chocolate gift box, book-style magnetic box, premium confectionery packaging, truffle gift box, chocolate display box, Bincai, Guangdong rigid box factory, 22 years experience, ISO 9001 certified, FSC certified, KBA 1050 offset, Heidelberg 7+1 UV, 18,000 sqm factory, 1.7M daily output, OEM paper box China, Diamond Member MIC"
+description: "Rigid book-style magnetic closure gift box for premium chocolates and confectionery by Guangdong Bincai Color Printing — Diamond Member on Made-in-China.com. ISO 9001 FSC certified, 23 years experience, KBA 1050 4-color + Heidelberg 7+1 UV presses, 18,000 sqm factory, 1.7M daily output. Book-style hinged lid, magnetic snap closure, satin ribbon pull, custom die-cut foam tray for truffle/praline cavities, gold foil logo."
+keywords: "rigid chocolate gift box, book-style magnetic box, premium confectionery packaging, truffle gift box, chocolate display box, Bincai, Guangdong rigid box factory, 23 years experience, ISO 9001 certified, FSC certified, KBA 1050 offset, Heidelberg 7+1 UV, 18,000 sqm factory, 1.7M daily output, OEM paper box China, Diamond Member MIC"
 categories: ["rigid-gift-boxes"]
 params:
   moq: "500-1000"
@@ -66,7 +66,7 @@ The book-style rigid box format is the luxury confectionery industry's gold stan
 ## Why Choose Bincai
 | Our Advantage | What It Means for You |
 |:---|---:|
-| **22 Years Experience** | Rigid box specialists since 2003, serving luxury confectionery brands worldwide with consistent quality and on-time delivery |
+| **23 Years Experience** | Rigid box specialists since 2003, serving luxury confectionery brands worldwide with consistent quality and on-time delivery |
 | **KBA 1050 + Heidelberg 7+1 UV** | German-engineered presses for flawless color reproduction — art paper wraps, metallic inks, and Pantone matching to your brand palette |
 | **ISO 9001 & FSC Certified** | Quality assured and responsibly sourced — meet EU/US retail requirements for grocery, department store, and duty-free channels |
 | **18,000 sqm Factory** | Full in-house rigid box production: board cutting → surface wrapping → magnet embedding → tray assembly → QC — single source, no subcontracting delays |

@@ -50,7 +50,7 @@ The final inspection occurs at our automated folder-gluers — **Bobst Expertfol
 
 ## AI-Powered Defect Classification
 
-Beyond simple pass/fail detection, our system employs convolutional neural networks (CNNs) trained on our proprietary defect library — built from over 10 million inspected sheets across 22 years of production. The AI classifier distinguishes between:
+Beyond simple pass/fail detection, our system employs convolutional neural networks (CNNs) trained on our proprietary defect library — built from over 10 million inspected sheets across 23 years of production. The AI classifier distinguishes between:
 
 | Defect Category | Examples | Action |
 |---|---|---|

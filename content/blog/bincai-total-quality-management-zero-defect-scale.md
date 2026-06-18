@@ -3,13 +3,13 @@ title: "Zero Defects at Scale: How Bincai's Total Quality Management System Deli
 date: 2026-06-13
 draft: false
 image: "/images/hero-factory.webp"
-description: "Guangdong Bincai's end-to-end Total Quality Management (TQM) system — how ISO 9001, FSC chain-of-custody, Six Sigma methodologies, supplier qualification, and a 22-year quality culture achieve zero-critical-defect delivery at 1.7 million boxes per day from our 18,000 sqm Foshan factory."
+description: "Guangdong Bincai's end-to-end Total Quality Management (TQM) system — how ISO 9001, FSC chain-of-custody, Six Sigma methodologies, supplier qualification, and a 23-year quality culture achieve zero-critical-defect delivery at 1.7 million boxes per day from our 18,000 sqm Foshan factory."
 
 ---
 
 ![Bincai Custom Paper Box Manufacturing — Factory & Production](/images/hero-banner-wide.webp)
 
-Manufacturing 1.7 million paper boxes every day — from luxury rigid gift boxes for European fragrance brands to heavy-duty corrugated mailers for e-commerce fulfillment — demands more than good equipment. It demands a Total Quality Management (TQM) system where quality is embedded in every department, every process, and every decision. At Guangdong Bincai Color Printing Co., Ltd., that system has been refined over 22 years.
+Manufacturing 1.7 million paper boxes every day — from luxury rigid gift boxes for European fragrance brands to heavy-duty corrugated mailers for e-commerce fulfillment — demands more than good equipment. It demands a Total Quality Management (TQM) system where quality is embedded in every department, every process, and every decision. At Guangdong Bincai Color Printing Co., Ltd., that system has been refined over 23 years.
 
 ## The Five Pillars of Bincai's TQM System
 
@@ -92,7 +92,7 @@ Bincai holds both ISO 9001:2015 (Quality Management Systems) and FSC (Forest Ste
 
 For brands selling into EU and North American markets, these certifications eliminate the need for supplier audits — saving weeks of lead time on new product launches.
 
-## The Human Element: 22 Years of Quality Culture
+## The Human Element: 23 Years of Quality Culture
 
 Equipment and procedures are necessary — but insufficient. Bincai's quality edge comes from people:
 
@@ -117,7 +117,7 @@ Our master craftsmen — some with 15+ years at Bincai — can detect a 0.3mm di
 
 ## What This Means for Your Brand
 
-When you partner with Bincai, you're not just buying boxes — you're buying 22 years of quality systems engineering. Every box that leaves our 18,000 sqm factory in Foshan's Pearl River Delta has passed through 12+ quality checkpoints, from raw material inspection to final AQL sampling.
+When you partner with Bincai, you're not just buying boxes — you're buying 23 years of quality systems engineering. Every box that leaves our 18,000 sqm factory in Foshan's Pearl River Delta has passed through 12+ quality checkpoints, from raw material inspection to final AQL sampling.
 
 Whether you need 5,000 custom magnetic closure gift boxes for a limited-edition launch or 500,000 corrugated e-commerce mailers for your subscription service, the quality standard is identical: zero defects accepted.
 

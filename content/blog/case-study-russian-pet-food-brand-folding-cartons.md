@@ -61,4 +61,4 @@ The client expanded from 2 SKUs to 8 SKUs within 5 months and now sources all fo
 
 ---
 
-> *Client names are confidential. Results are from actual production data. Industry context drawn from 952 real customer orders in Bincai's 3-year order history — including established relationships with European, Russian, and CIS pet food brands. Factory specifications verified: KBA Rapida 1050 + Heidelberg Speedmaster CD 102 7+1 UV + Bobst SP 102 BMA, ISO 9001:2015 & FSC-C147399 certified, 18,000 sqm, 22 years.*
+> *Client names are confidential. Results are from actual production data. Industry context drawn from 952 real customer orders in Bincai's 3-year order history — including established relationships with European, Russian, and CIS pet food brands. Factory specifications verified: KBA Rapida 1050 + Heidelberg Speedmaster CD 102 7+1 UV + Bobst SP 102 BMA, ISO 9001:2015 & FSC-C147399 certified, 18,000 sqm, 23 years.*

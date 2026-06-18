@@ -2,8 +2,8 @@
 title: "Custom Magnetic Closure Fountain Pen Display Box with Faux Leather Wrap"
 date: 2026-06-14
 draft: false
-description: "Custom magnetic closure fountain pen display box with premium faux leather wrap and suede interior lining. Book-style lid with hidden neodymium magnetic closure, precision die-cut pen tray for single, dual, or 6-pen collector configurations. Manufactured by Guangdong Bincai Color Printing Co., Ltd. — 22 years since 2003, 18,000 sqm dual-factory (Foshan, China), KBA Rapida 105 4-color + Heidelberg Speedmaster CD 102 7+1 UV + Bobst SP 102 BMA/E hot foil stamping presses, ISO 9001:2015 & FSC Chain-of-Custody certified, 1.7M boxes daily output. Free pre-production samples in 5-7 days. MOQ 300-500 units. Ideal for luxury writing instrument brands, corporate executive gifts, limited edition collector packaging, and pen boutique retail displays."
-keywords: "pen display box, fountain pen box, magnetic closure pen box, faux leather pen case, luxury writing instrument packaging, pen collector box, corporate pen gift box, Bobst SP 102 BMA foil, hot foil debossed pen box, rollerball pen packaging, premium pen presentation case, N35 neodymium magnetic box, book-style pen box, suede pen box, OEM pen box manufacturer, wholesale pen packaging China, KBA Rapida 105 offset, Heidelberg 7+1 UV, ISO 9001:2015 FSC CoC, 18,000 sqm factory, 22 years Guangdong manufacturer, Foshan paper box supplier, luxury gift box, leather-look packaging, magnetic gift box, collector edition box, executive corporate gift packaging, writing instrument display case, sample service, premium paper box export, fountain pen boutique packaging, Bincai color printing, custom pen display, pen packaging factory, 1.7M daily boxes"
+description: "Custom magnetic closure fountain pen display box with premium faux leather wrap and suede interior lining. Book-style lid with hidden neodymium magnetic closure, precision die-cut pen tray for single, dual, or 6-pen collector configurations. Manufactured by Guangdong Bincai Color Printing Co., Ltd. — 23 years since 2003, 18,000 sqm dual-factory (Foshan, China), KBA Rapida 105 4-color + Heidelberg Speedmaster CD 102 7+1 UV + Bobst SP 102 BMA/E hot foil stamping presses, ISO 9001:2015 & FSC Chain-of-Custody certified, 1.7M boxes daily output. Free pre-production samples in 5-7 days. MOQ 300-500 units. Ideal for luxury writing instrument brands, corporate executive gifts, limited edition collector packaging, and pen boutique retail displays."
+keywords: "pen display box, fountain pen box, magnetic closure pen box, faux leather pen case, luxury writing instrument packaging, pen collector box, corporate pen gift box, Bobst SP 102 BMA foil, hot foil debossed pen box, rollerball pen packaging, premium pen presentation case, N35 neodymium magnetic box, book-style pen box, suede pen box, OEM pen box manufacturer, wholesale pen packaging China, KBA Rapida 105 offset, Heidelberg 7+1 UV, ISO 9001:2015 FSC CoC, 18,000 sqm factory, 23 years Guangdong manufacturer, Foshan paper box supplier, luxury gift box, leather-look packaging, magnetic gift box, collector edition box, executive corporate gift packaging, writing instrument display case, sample service, premium paper box export, fountain pen boutique packaging, Bincai color printing, custom pen display, pen packaging factory, 1.7M daily boxes"
 categories: ["magnetic-closure-boxes"]
 params:
   moq: "300-500"
@@ -16,7 +16,7 @@ params:
 
 ## Product Overview
 
-Our custom magnetic closure fountain pen display box wraps premium greyboard in elegant faux leather, creating a sophisticated presentation befitting luxury writing instruments. The book-style lid opens on a hidden magnetic closure to reveal a plush suede-lined interior with a precision die-cut pen tray — cradling each fountain pen, rollerball, or ballpoint in its own sculpted recess. The faux leather exterior is available in classic black, rich cognac brown, deep navy, or custom colors with optional debossing and hot foil stamping for brand logos. Manufactured in our 10,000 sqm ISO 9001-certified facility with Heidelberg 7+1 UV printing for any interior branding, each box reflects Bincai's 22 years of premium packaging expertise.
+Our custom magnetic closure fountain pen display box wraps premium greyboard in elegant faux leather, creating a sophisticated presentation befitting luxury writing instruments. The book-style lid opens on a hidden magnetic closure to reveal a plush suede-lined interior with a precision die-cut pen tray — cradling each fountain pen, rollerball, or ballpoint in its own sculpted recess. The faux leather exterior is available in classic black, rich cognac brown, deep navy, or custom colors with optional debossing and hot foil stamping for brand logos. Manufactured in our 10,000 sqm ISO 9001-certified facility with Heidelberg 7+1 UV printing for any interior branding, each box reflects Bincai's 23 years of premium packaging expertise.
 
 ## Design Features
 
@@ -60,10 +60,10 @@ Our custom magnetic closure fountain pen display box wraps premium greyboard in 
 | Printing | Heidelberg 7+1 UV Offset for Interior Branding |
 | Daily Output | Up to 1.7 Million Boxes |
 | Certifications | ISO 9001:2015, FSC® Certified |
-| Factory | 10,000 sqm Production Floor, 22 Years Experience |
+| Factory | 10,000 sqm Production Floor, 23 Years Experience |
 ---
 
-Looking for the perfect presentation for your luxury writing instruments? **Contact Guangdong Bincai Color Printing** — where 22 years of craftsmanship meets modern packaging innovation.
+Looking for the perfect presentation for your luxury writing instruments? **Contact Guangdong Bincai Color Printing** — where 23 years of craftsmanship meets modern packaging innovation.
 
 ## Quality Assurance
 
@@ -110,7 +110,7 @@ Fountain pen collectors spend ¥500-5,000 on a single pen but often present it i
 
 ## Why Choose Bincai
 
-Guangdong Bincai Color Printing Co., Ltd. brings 22 years of premium packaging expertise to every writing instrument display box. Unlike generalist box manufacturers, Bincai masters the demanding combination of faux leather wrapping, precision debossing, and invisible magnetic closure engineering — skills refined across thousands of luxury brand projects. Our dual-factory setup (18,000 sqm total) with Heidelberg 7+1 UV press handles both small MOQ flexibility (300 units) and mass-production consistency (1.7M boxes daily). In-house die-making, foil stamping, and faux leather bonding eliminate outsourcing delays. ISO 9001:2015 and FSC Chain-of-Custody certification provide audited quality and documented sustainable sourcing. Free pre-production samples arrive in 5-7 days so you can validate fit, finish, and brand presentation before committing to full production.
+Guangdong Bincai Color Printing Co., Ltd. brings 23 years of premium packaging expertise to every writing instrument display box. Unlike generalist box manufacturers, Bincai masters the demanding combination of faux leather wrapping, precision debossing, and invisible magnetic closure engineering — skills refined across thousands of luxury brand projects. Our dual-factory setup (18,000 sqm total) with Heidelberg 7+1 UV press handles both small MOQ flexibility (300 units) and mass-production consistency (1.7M boxes daily). In-house die-making, foil stamping, and faux leather bonding eliminate outsourcing delays. ISO 9001:2015 and FSC Chain-of-Custody certification provide audited quality and documented sustainable sourcing. Free pre-production samples arrive in 5-7 days so you can validate fit, finish, and brand presentation before committing to full production.
 
 **The Bincai Difference:**
 - **Faux Leather Mastery** — precision corner folding, flush seams, premium PU leather in 20+ colors with optional debossing and hot foil — indistinguishable from genuine leather at a fraction of the cost
@@ -118,7 +118,7 @@ Guangdong Bincai Color Printing Co., Ltd. brings 22 years of premium packaging e
 - **Export-Ready Quality** — FSC documentation for EU/US customs, 60+ country export experience, FOB Foshan/Shenzhen
 - **Vertical Integration** — in-house greyboard lamination, die-cutting, faux leather bonding, debossing, foil stamping, and suede lining — no subcontracting
 
-**Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001:2015 & FSC | Foshan, Guangdong, China
+**Factory Facts:** Founded 2003 | 23 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001:2015 & FSC | Foshan, Guangdong, China
 
 ## FAQ
 

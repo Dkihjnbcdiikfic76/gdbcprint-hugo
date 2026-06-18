@@ -2,7 +2,7 @@
 title: "Recycled Kraft Gift Box with Cotton Ribbon Closure & Foil Stamp"
 date: 2026-06-16
 draft: false
-description: "Recycled kraft gift box with natural cotton ribbon closure and foil-stamped logo by Bincai. FSC certified, soy-ink printed, 100% biodegradable. 22-year ISO 9001 factory."
+description: "Recycled kraft gift box with natural cotton ribbon closure and foil-stamped logo by Bincai. FSC certified, soy-ink printed, 100% biodegradable. 23-year ISO 9001 factory."
 keywords: "recycled kraft gift box, cotton ribbon box, foil stamped kraft box, eco-friendly gift packaging, biodegradable paper box, FSC certified box, sustainable gift box, Bincai"
 categories: ["kraft-eco-boxes"]
 params:
@@ -71,7 +71,7 @@ The recycled kraft gift box with cotton ribbon closure and foil-stamped branding
 
 | Differentiator | Detail |
 |---|---|
-| **22-Year Legacy** | Since 2003 — 500+ global brands served |
+| **23-Year Legacy** | Since 2003 — 500+ global brands served |
 | **18,000 sqm** | 10,000 sqm + 8,000 sqm smart factory |
 | **Heidelberg CD 102** | German press for precise foil-stamp registration |
 | **ISO 9001 & FSC** | Quality + sustainability certified |

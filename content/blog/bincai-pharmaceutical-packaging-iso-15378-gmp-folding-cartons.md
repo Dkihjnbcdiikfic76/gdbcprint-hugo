@@ -3,7 +3,7 @@ title: "Pharmaceutical Paper Box Packaging — ISO 15378 GMP-Compliant Manufactu
 date: 2026-06-16
 draft: false
 image: "/images/hero-factory.webp"
-description: "Guangdong Bincai manufactures ISO 15378 GMP-certified pharmaceutical folding cartons, tamper-evident packaging, child-resistant closures, and braille-embossed boxes from our 18,000 sqm Foshan facility. 22 years of paper box expertise with KBA 1050 + Heidelberg 7+1 UV, ISO 9001:2015, FSC CoC, and full batch-level traceability for OTC drugs, prescription medicines, dietary supplements, and medical devices."
+description: "Guangdong Bincai manufactures ISO 15378 GMP-certified pharmaceutical folding cartons, tamper-evident packaging, child-resistant closures, and braille-embossed boxes from our 18,000 sqm Foshan facility. 23 years of paper box expertise with KBA 1050 + Heidelberg 7+1 UV, ISO 9001:2015, FSC CoC, and full batch-level traceability for OTC drugs, prescription medicines, dietary supplements, and medical devices."
 keywords: "pharmaceutical packaging, ISO 15378, GMP folding cartons, child-resistant packaging, tamper-evident box, braille embossing, OTC drug carton, prescription medicine packaging, medical device box, pharmaceutical folding carton manufacturer China, Guangdong Bincai, ISO 9001, FSC, KBA 1050, Heidelberg 7+1 UV, 18000 sqm, 1.7M daily, Foshan, paper box, OEM, custom, batch traceability, serialization, FDA 21 CFR, EU FMD, GMP compliant packaging, supplement box"
 ---
 
@@ -15,7 +15,7 @@ Pharmaceutical packaging is not ordinary packaging. A folding carton for ibuprof
 
 Guangdong Bincai Color Printing Co., Ltd. has invested in the systems, certifications, and production infrastructure to serve pharmaceutical brands with the same rigor they expect from their active pharmaceutical ingredient (API) suppliers. Our **ISO 15378:2017** certification — the GMP standard specific to primary and secondary packaging materials for medicinal products — is audited annually and governs everything from raw material traceability to clean-area production protocols.
 
-With **22 years of paper box manufacturing** since 2003, an **18,000 sqm facility** (10,000 sqm original plant + 8,000 sqm smart factory expansion, 2025), **KBA Rapida 105 4-color** and **Heidelberg Speedmaster CD 102 7+1 UV** presses, and integrated post-press die-cutting on **Bobst SP 102 BMA** autoplatens, Bincai delivers pharmaceutical cartons at scale — **1.7 million color boxes daily** — with the documentation discipline that regulatory auditors demand.
+With **23 years of paper box manufacturing** since 2003, an **18,000 sqm facility** (10,000 sqm original plant + 8,000 sqm smart factory expansion, 2025), **KBA Rapida 105 4-color** and **Heidelberg Speedmaster CD 102 7+1 UV** presses, and integrated post-press die-cutting on **Bobst SP 102 BMA** autoplatens, Bincai delivers pharmaceutical cartons at scale — **1.7 million color boxes daily** — with the documentation discipline that regulatory auditors demand.
 
 ---
 
@@ -187,7 +187,7 @@ The global shift toward pharmaceutical serialization — driven by the EU Falsif
 | **Post-Press** | Bobst SP 102 BMA autoplaten (±0.1 mm registration), Bobst Mistral 110 + Ambition 106 folder-gluers |
 | **Factory Size** | 18,000 sqm (10,000 + 8,000 smart factory, 2025) |
 | **Daily Output** | 1.7 million color boxes + 220,000+ gift boxes |
-| **Experience** | 22 years (founded 2003) |
+| **Experience** | 23 years (founded 2003) |
 | **Certifications** | ISO 9001:2015, ISO 15378:2017 (pharma GMP), FSC Chain-of-Custody, G7 Master Color |
 | **Clean Production** | Dedicated pharma scheduling with line clearance protocols |
 | **Employees** | 80+ skilled staff, including dedicated pharma QC team |
@@ -221,4 +221,4 @@ A: Yes. Our Heidelberg press supports in-line variable data printing for seriali
 
 ---
 
-**Ready to bring your pharmaceutical packaging to GMP-compliant production?** Contact Guangdong Bincai Color Printing Co., Ltd. for a free consultation, sample request, or quotation. 22 years of paper box manufacturing excellence — from ISO 15378-certified folding cartons to child-resistant packaging, manufactured in our 18,000 sqm Foshan facility with KBA 1050 and Heidelberg 7+1 UV presses.
+**Ready to bring your pharmaceutical packaging to GMP-compliant production?** Contact Guangdong Bincai Color Printing Co., Ltd. for a free consultation, sample request, or quotation. 23 years of paper box manufacturing excellence — from ISO 15378-certified folding cartons to child-resistant packaging, manufactured in our 18,000 sqm Foshan facility with KBA 1050 and Heidelberg 7+1 UV presses.

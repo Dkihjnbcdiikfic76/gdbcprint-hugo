@@ -2,7 +2,7 @@
 title: "Velvet Bangle Display Box — Magnetic Closure with LED Spotlight & Satin Groove Insert"
 date: 2026-06-15
 draft: false
-description: "Premium velvet bangle display box manufactured by Guangdong Bincai Color Printing Co., Ltd. (22 years, ISO 9001 & FSC certified, 18,000 sqm dual-factory). Magnetic flip-lid closure with integrated LED spotlight illuminates bangles on a satin-lined groove insert. Black or custom-color flocked velvet interior, gold-foil logo embossing on the lid, and a compact 120×120×45mm footprint for retail counter display. KBA 1050 + Heidelberg 7+1 UV presses, Foshan, China."
+description: "Premium velvet bangle display box manufactured by Guangdong Bincai Color Printing Co., Ltd. (23 years, ISO 9001 & FSC certified, 18,000 sqm dual-factory). Magnetic flip-lid closure with integrated LED spotlight illuminates bangles on a satin-lined groove insert. Black or custom-color flocked velvet interior, gold-foil logo embossing on the lid, and a compact 120×120×45mm footprint for retail counter display. KBA 1050 + Heidelberg 7+1 UV presses, Foshan, China."
 keywords: "velvet bangle display box, bangle jewelry packaging, LED spotlight display box, magnetic closure jewelry box, satin-lined bangle case, retail jewelry display, custom bangle packaging, bincai, guangdong, iso 9001, fsc, kba 1050, heidelberg 7+1 uv, 18000 sqm, 1.7m daily output, jewelry retail packaging, OEM velvet box"
 categories: ["jewelry-boxes"]
 params:
@@ -14,7 +14,7 @@ params:
 
 ![Bincai Velvet Bangle Display Box](/images/cat-rigid-jewelry.jpg)
 
-The velvet bangle display box transforms bangle presentation from simple storage into a retail-ready showcase. Engineered by Guangdong Bincai Color Printing Co., Ltd. — a Foshan-based paper box manufacturer with 22 years of luxury packaging expertise — this compact display box combines a magnetic flip-lid with a concealed LED spotlight that activates on opening, casting a warm glow across the bangle resting in a precision-cut satin groove insert.
+The velvet bangle display box transforms bangle presentation from simple storage into a retail-ready showcase. Engineered by Guangdong Bincai Color Printing Co., Ltd. — a Foshan-based paper box manufacturer with 23 years of luxury packaging expertise — this compact display box combines a magnetic flip-lid with a concealed LED spotlight that activates on opening, casting a warm glow across the bangle resting in a precision-cut satin groove insert.
 
 The 1,200gsm greyboard core provides the structural rigidity expected of fine jewelry packaging, while the flocked velvet exterior wrap (available in black, navy, burgundy, or custom Pantone-matched colors) delivers the tactile luxury that drives jewelry counter conversion. N52-grade neodymium magnets ensure a satisfying, secure closure that won't weaken over 20,000+ open/close cycles. Bincai's 18,000 sqm dual-factory runs KBA 1050 and Heidelberg 7+1 UV presses, with ISO 9001:2015 quality systems governing every production batch.
 
@@ -72,4 +72,4 @@ The 1,200gsm greyboard core provides the structural rigidity expected of fine je
 
 Bincai's jewelry packaging division has refined the velvet display box over two decades of production for Southeast Asian and Middle Eastern jewelry brands, where retail counter presentation directly drives conversion. The integrated LED spotlight — designed and assembled in-house — eliminates the supply chain complexity of sourcing separate lighting modules, while our N52 magnet procurement from a certified Guangdong supplier ensures consistent closure quality across 100,000+ unit production runs. Free pre-production samples with your bangle specifications ship in 5-7 days.
 
-**Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
+**Factory Facts:** Founded 2003 | 23 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China

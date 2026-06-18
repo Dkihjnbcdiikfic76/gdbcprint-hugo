@@ -2,8 +2,8 @@
 title: "Folding Carton Die-Cut Display Tray — Retail Counter Packaging"
 date: 2026-06-11
 draft: false
-description: "Custom die-cut folding carton display tray with auto-lock bottom assembly for retail counter, shelf merchandising, and product showcasing. PET/PVC window option for product visibility. Manufactured on KBA Rapida 105 4-color offset with Bobst SP 102 flatbed die-cutting (±0.3mm precision) at Bincai's 18,000 sqm ISO 9001:2015 & FSC facility in Foshan Guangdong. 22 years since 2003, Heidelberg 7+1 UV press, 1.7M boxes daily output. 300-450gsm CCNB/SBS/white-lined board. MOQ 1,000 with free samples."
-keywords: "die-cut display tray, retail counter packaging, folding carton tray, auto-lock bottom box, window display box, product display tray China, FSC folding carton, retail merchandising box, PET window carton, custom display packaging, KBA 1050 offset, Bobst die-cutting, CCNB display tray, shelf-ready packaging, 18,000 sqm factory, Heidelberg 7+1 UV, cosmetic display tray, China folding carton, Bincai Color Printing, 22 years factory"
+description: "Custom die-cut folding carton display tray with auto-lock bottom assembly for retail counter, shelf merchandising, and product showcasing. PET/PVC window option for product visibility. Manufactured on KBA Rapida 105 4-color offset with Bobst SP 102 flatbed die-cutting (±0.3mm precision) at Bincai's 18,000 sqm ISO 9001:2015 & FSC facility in Foshan Guangdong. 23 years since 2003, Heidelberg 7+1 UV press, 1.7M boxes daily output. 300-450gsm CCNB/SBS/white-lined board. MOQ 1,000 with free samples."
+keywords: "die-cut display tray, retail counter packaging, folding carton tray, auto-lock bottom box, window display box, product display tray China, FSC folding carton, retail merchandising box, PET window carton, custom display packaging, KBA 1050 offset, Bobst die-cutting, CCNB display tray, shelf-ready packaging, 18,000 sqm factory, Heidelberg 7+1 UV, cosmetic display tray, China folding carton, Bincai Color Printing, 23 years factory"
 categories: ["folding-cartons"]
 params:
   moq: "1000"
@@ -67,9 +67,9 @@ Bincai's die-cut folding carton display tray combines structural integrity with 
 
 ## Why Choose Bincai?
 
-Guangdong Bincai Color Printing Co., Ltd. operates one of the largest folding carton production lines in southern China from our 18,000 sqm Foshan campus. With KBA Rapida 105 4-color offset (15,000 sheets/hour) and Heidelberg Speedmaster CD 102 7+1 UV inline coating, we achieve both speed and precision for display tray orders ranging from 1,000 to 500,000+ units. Our Bobst SP 102 flatbed die-cutter delivers ±0.3mm cut accuracy — critical for window displays where the PET film must align perfectly with the die-cut opening. Unlike factories that outsource die-making, die-cutting, and windowing to separate workshops, Bincai handles the entire process in-house: pre-press file prep, CTP plate-making, offset printing, inline coating, flatbed die-cutting, window film application, and auto-lock assembly — all under one roof with a single QC chain. ISO 9001:2015, FSC Chain-of-Custody certified. 22 years serving 500+ global brands with 1.7 million boxes daily output.
+Guangdong Bincai Color Printing Co., Ltd. operates one of the largest folding carton production lines in southern China from our 18,000 sqm Foshan campus. With KBA Rapida 105 4-color offset (15,000 sheets/hour) and Heidelberg Speedmaster CD 102 7+1 UV inline coating, we achieve both speed and precision for display tray orders ranging from 1,000 to 500,000+ units. Our Bobst SP 102 flatbed die-cutter delivers ±0.3mm cut accuracy — critical for window displays where the PET film must align perfectly with the die-cut opening. Unlike factories that outsource die-making, die-cutting, and windowing to separate workshops, Bincai handles the entire process in-house: pre-press file prep, CTP plate-making, offset printing, inline coating, flatbed die-cutting, window film application, and auto-lock assembly — all under one roof with a single QC chain. ISO 9001:2015, FSC Chain-of-Custody certified. 23 years serving 500+ global brands with 1.7 million boxes daily output.
 
-**Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
+**Factory Facts:** Founded 2003 | 23 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
 
 ## FAQ
 

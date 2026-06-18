@@ -2,7 +2,7 @@
 title: "Velvet Earring Display Box Magnetic Flip Lid Custom Logo"
 date: 2026-06-10
 draft: false
-description: "Custom velvet earring display box with invisible N52 magnetic flip lid, precision die-cut velvet foam insert, and 12+ velvet color options. Gold/silver foil stamping, satin interior. KBA 1050 + Heidelberg 7+1 UV, 18,000 sqm (10,000+8,000 smart factory) ISO 9001 & FSC factory, 22 years, 80,000+ daily capacity. MOQ 500."
+description: "Custom velvet earring display box with invisible N52 magnetic flip lid, precision die-cut velvet foam insert, and 12+ velvet color options. Gold/silver foil stamping, satin interior. KBA 1050 + Heidelberg 7+1 UV, 18,000 sqm (10,000+8,000 smart factory) ISO 9001 & FSC factory, 23 years, 80,000+ daily capacity. MOQ 500."
 keywords: "velvet earring box, jewelry display box, magnetic flip lid box, custom jewelry packaging, earring gift box, velvet jewelry box China, N52 magnet jewelry box, gold foil earring box, stud earring box, hoop earring packaging, Bincai jewelry box, velvet covered jewelry box, jewelry packaging manufacturer, custom logo earring box, satin lined jewelry box"
 categories: ["jewelry-boxes"]
 params:
@@ -56,7 +56,7 @@ Custom velvet earring display box with magnetic flip lid — the go-to packaging
 - **Free pre-production sample** — 5–7 working day turnaround with full decoration
 
 ## Factory
-- 22 years manufacturing experience (founded 2003)
+- 23 years manufacturing experience (founded 2003)
 - 18,000 sqm facility (10,000+8,000 smart facility
 - Specialized jewelry box assembly line with velvet lamination, foam fabrication, and magnet insertion
 - Export to 40+ countries worldwide
@@ -141,7 +141,7 @@ Jewelry packaging demands precision at a scale that most factories cannot delive
 - **Jewelry-Safe Certified** — Every velvet batch passes VOC/residual solvent testing to ensure no tarnish reaction with precious metals. CPSIA certification available for children's jewelry packaging.
 - **Scalable Output** — 80,000+ jewelry boxes daily capacity handles boutique 500-unit runs and department store 50,000+ unit rollouts with identical quality standards.
 
-**Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day + 80K+ jewelry boxes | KBA Rapida 1050 + Heidelberg Speedmaster XL 7+1 UV | Bobst SP 102 BMA | ISO 9001:2015 & FSC Chain-of-Custody | CPSIA | Foshan, Guangdong, China.
+**Factory Facts:** Founded 2003 | 23 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day + 80K+ jewelry boxes | KBA Rapida 1050 + Heidelberg Speedmaster XL 7+1 UV | Bobst SP 102 BMA | ISO 9001:2015 & FSC Chain-of-Custody | CPSIA | Foshan, Guangdong, China.
 
 **Shipping:** Jewelry boxes are shipped flat-packed or pre-assembled per customer preference. Typical 40HQ container holds 80,000–200,000 jewelry boxes flat-packed. Lead time 10–15 days FOB Shenzhen/Guangzhou.
 

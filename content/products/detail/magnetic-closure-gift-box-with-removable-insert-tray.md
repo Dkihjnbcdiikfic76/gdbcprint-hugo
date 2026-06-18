@@ -2,8 +2,8 @@
 title: "Magnetic Closure Gift Box with Removable Insert Tray — Bincai Luxury Multi-Product Packaging"
 date: 2026-06-10
 draft: false
-description: "Magnetic closure gift box with removable insert tray for multi-product gift sets, sampler collections, and curated brand experiences. Manufactured by Guangdong Bincai Color Printing Co., Ltd. — 22 years experience (founded 2003), 18,000 sqm dual factory (10,000+8,000 sqm smart factory), ISO 9001:2015 & FSC certified, KBA 1050 4-color + Heidelberg 7+1 UV presses, 1.7M daily output, 220,000+ rigid boxes daily. 2.5mm rigid greyboard core, 157gsm art paper wrap, N52 neodymium magnetic closure, velvet/satin flocked removable tray with precision die-cut cavities. Hot foil stamping, embossing, spot UV. MOQ 500, free samples 5-7 days."
-keywords: "magnetic closure gift box, removable insert tray box, luxury gift packaging, multi-product gift box, rigid paper box with tray, velvet flocked tray box, magnetic closure rigid box, sampler collection box, curated gift packaging, Bincai magnetic box, Heidelberg UV press box, ISO 9001 FSC rigid box, Guangdong packaging manufacturer, KBA 1050 offset gift box, Bobst foil stamping box, 18,000 sqm factory, 22 years gift box manufacturer, custom tray insert box, removable tray packaging, multi-cavity gift box, luxury unboxing packaging, subscription box packaging, premium gift set box, N52 neodymium magnet box, OEM rigid gift box China, Foshan packaging factory, 1.7M daily output"
+description: "Magnetic closure gift box with removable insert tray for multi-product gift sets, sampler collections, and curated brand experiences. Manufactured by Guangdong Bincai Color Printing Co., Ltd. — 23 years experience (founded 2003), 18,000 sqm dual factory (10,000+8,000 sqm smart factory), ISO 9001:2015 & FSC certified, KBA 1050 4-color + Heidelberg 7+1 UV presses, 1.7M daily output, 220,000+ rigid boxes daily. 2.5mm rigid greyboard core, 157gsm art paper wrap, N52 neodymium magnetic closure, velvet/satin flocked removable tray with precision die-cut cavities. Hot foil stamping, embossing, spot UV. MOQ 500, free samples 5-7 days."
+keywords: "magnetic closure gift box, removable insert tray box, luxury gift packaging, multi-product gift box, rigid paper box with tray, velvet flocked tray box, magnetic closure rigid box, sampler collection box, curated gift packaging, Bincai magnetic box, Heidelberg UV press box, ISO 9001 FSC rigid box, Guangdong packaging manufacturer, KBA 1050 offset gift box, Bobst foil stamping box, 18,000 sqm factory, 23 years gift box manufacturer, custom tray insert box, removable tray packaging, multi-cavity gift box, luxury unboxing packaging, subscription box packaging, premium gift set box, N52 neodymium magnet box, OEM rigid gift box China, Foshan packaging factory, 1.7M daily output"
 categories: ["magnetic-closure-boxes"]
 params:
   moq: "500-1000"
@@ -16,7 +16,7 @@ params:
 
 ## Product Overview
 
-A premium magnetic closure gift box featuring a removable insert tray — the ultimate packaging solution for multi-product gift sets, sampler collections, and curated brand experiences. The removable tray allows customers to lift out the entire product array in one elegant motion, often revealing a second layer beneath for dramatic unboxing. Manufactured at **Guangdong Bincai Color Printing Co., Ltd.** (founded 2003) in our 18,000 sqm dual-factory complex (10,000+8,000 sqm smart factory), each box combines Heidelberg 7+1 UV press printing with precision hand assembly and rigorous quality control. With 22 years of rigid box expertise and 1.7 million boxes produced daily, Bincai serves luxury brands across 30+ countries.
+A premium magnetic closure gift box featuring a removable insert tray — the ultimate packaging solution for multi-product gift sets, sampler collections, and curated brand experiences. The removable tray allows customers to lift out the entire product array in one elegant motion, often revealing a second layer beneath for dramatic unboxing. Manufactured at **Guangdong Bincai Color Printing Co., Ltd.** (founded 2003) in our 18,000 sqm dual-factory complex (10,000+8,000 sqm smart factory), each box combines Heidelberg 7+1 UV press printing with precision hand assembly and rigorous quality control. With 23 years of rigid box expertise and 1.7 million boxes produced daily, Bincai serves luxury brands across 30+ countries.
 
 ## Applications
 
@@ -73,7 +73,7 @@ A premium magnetic closure gift box featuring a removable insert tray — the ul
 
 ## Factory
 
-- **Founded**: 2003 — 22 years of rigid box manufacturing in Foshan, Guangdong, China
+- **Founded**: 2003 — 23 years of rigid box manufacturing in Foshan, Guangdong, China
 - **Factory Size**: 18,000 sqm dual-factory complex (10,000+8,000 sqm smart factory, expanded 2025)
 - **Workforce**: 80+ skilled employees across design, die-making, printing, rigid box assembly, and QC
 - **Certifications**: ISO 9001:2015 quality management, FSC Chain-of-Custody (sustainable forestry)

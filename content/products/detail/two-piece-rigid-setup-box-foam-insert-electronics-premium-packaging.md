@@ -2,8 +2,8 @@
 title: "Two-Piece Rigid Setup Box with Foam Insert for Electronics Premium Packaging"
 date: 2026-06-11
 draft: false
-description: "Heavy-duty two-piece telescopic rigid setup box with precision die-cut EVA/PE foam insert for electronics, medical devices, and industrial components. KBA 1050 4-color + Heidelberg 7+1 UV offset printing, gold/silver foil stamping, embossing, matte/gloss lamination. 18,000 sqm (10,000+8,000 smart factory) ISO 9001 & FSC certified factory. 22 years experience, 220,000+ daily rigid box capacity. MOQ 500."
-keywords: "two-piece rigid box, telescopic rigid box, foam insert box, electronics packaging, rigid setup box, custom foam packaging, EVA foam insert, die-cut foam box, premium electronics box, Bincai rigid box, ISO 9001 FSC, protective packaging, medical device box, industrial packaging, greyboard rigid box, KBA offset, Heidelberg UV, 22 years manufacturing, 18,000 sqm factory (10,000+8,000 smart factory), 1.7M daily output, OEM rigid box China, Guangdong packaging factory"
+description: "Heavy-duty two-piece telescopic rigid setup box with precision die-cut EVA/PE foam insert for electronics, medical devices, and industrial components. KBA 1050 4-color + Heidelberg 7+1 UV offset printing, gold/silver foil stamping, embossing, matte/gloss lamination. 18,000 sqm (10,000+8,000 smart factory) ISO 9001 & FSC certified factory. 23 years experience, 220,000+ daily rigid box capacity. MOQ 500."
+keywords: "two-piece rigid box, telescopic rigid box, foam insert box, electronics packaging, rigid setup box, custom foam packaging, EVA foam insert, die-cut foam box, premium electronics box, Bincai rigid box, ISO 9001 FSC, protective packaging, medical device box, industrial packaging, greyboard rigid box, KBA offset, Heidelberg UV, 23 years manufacturing, 18,000 sqm factory (10,000+8,000 smart factory), 1.7M daily output, OEM rigid box China, Guangdong packaging factory"
 categories: ["rigid-gift-boxes"]
 params:
   moq: "500-1000"
@@ -14,7 +14,7 @@ params:
 
 ![Bincai Rigid Gift Boxes](/images/rigid-gift-boxes.jpg)
 
-Two-piece rigid setup box with precision die-cut foam insert for electronics premium packaging — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). 18,000 sqm factory (10,000+8,000 smart factory) with KBA and Heidelberg presses. Daily output 1.7 million boxes.
+Two-piece rigid setup box with precision die-cut foam insert for electronics premium packaging — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 23 years of experience (founded 2003). 18,000 sqm factory (10,000+8,000 smart factory) with KBA and Heidelberg presses. Daily output 1.7 million boxes.
 
 ## Applications
 Two-piece telescopic rigid boxes provide unmatched structural integrity for heavy or delicate items. The base and lid separate cleanly, revealing a perfectly fitted foam interior. Ideal for:
@@ -55,7 +55,7 @@ Two-piece telescopic rigid boxes provide unmatched structural integrity for heav
 - **Free pre-production sample** with foam insert (freight collect)
 
 ## Factory
-- 22 years of manufacturing excellence
+- 23 years of manufacturing excellence
 - 18,000 sqm production facility (10,000+8,000 smart factory) in Foshan, Guangdong, China
 - KBA 1050 4-color + Heidelberg 7+1 UV presses
 - CNC foam cutting and die-cutting equipment

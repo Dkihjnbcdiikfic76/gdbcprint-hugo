@@ -2,7 +2,7 @@
 title: "Triple-Wall Corrugated Export Pallet Box for Industrial Machinery Heavy Equipment Shipping"
 date: 2026-06-15
 draft: false
-description: "Triple-wall heavy-duty corrugated export pallet box for industrial machinery, heavy equipment, and large-component international shipping. Manufactured by Bincai: BHS 2.5m corrugator, AAA/ACA flute triple-wall construction, burst strength 275+ PSI, edge crush 80+ ECT, water-resistant adhesive, custom wood pallet integration, 10,000+8,000sqm dual factory, 22 years experience, ISO 9001:2015 & FSC certified, 1.7M daily output. MOQ 50. Free pre-production samples 5-7 days."
+description: "Triple-wall heavy-duty corrugated export pallet box for industrial machinery, heavy equipment, and large-component international shipping. Manufactured by Bincai: BHS 2.5m corrugator, AAA/ACA flute triple-wall construction, burst strength 275+ PSI, edge crush 80+ ECT, water-resistant adhesive, custom wood pallet integration, 10,000+8,000sqm dual factory, 23 years experience, ISO 9001:2015 & FSC certified, 1.7M daily output. MOQ 50. Free pre-production samples 5-7 days."
 keywords: "triple wall corrugated box, export pallet box, industrial machinery shipping box, heavy equipment packaging, corrugated export container, triple wall pallet box, industrial packaging manufacturer China, BHS corrugator, heavy duty corrugated box, machinery export crate alternative, triple wall shipping container, Bincai, Guangdong corrugated packaging factory"
 categories: ["corrugated-mailers"]
 params:
@@ -14,7 +14,7 @@ params:
 
 ![Bincai Corrugated Mailers](/images/corrugated-mailers.jpg)
 
-Triple-wall corrugated export pallet box for industrial machinery and heavy equipment shipping — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). Engineered as a cost-effective, recyclable alternative to wooden crates for international export, this triple-wall container provides 275+ PSI burst strength and 80+ ECT (Edge Crush Test) rating — sufficient for loads up to 1,500 kg. The BHS 2.5m corrugator produces AAA or ACA flute triple-wall board across 18,000 sqm factory. Daily output 1.7 million boxes.
+Triple-wall corrugated export pallet box for industrial machinery and heavy equipment shipping — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 23 years of experience (founded 2003). Engineered as a cost-effective, recyclable alternative to wooden crates for international export, this triple-wall container provides 275+ PSI burst strength and 80+ ECT (Edge Crush Test) rating — sufficient for loads up to 1,500 kg. The BHS 2.5m corrugator produces AAA or ACA flute triple-wall board across 18,000 sqm factory. Daily output 1.7 million boxes.
 
 ## Applications
 - Industrial machinery and heavy equipment export shipping
@@ -54,7 +54,7 @@ Triple-wall corrugated export pallet box for industrial machinery and heavy equi
 - MOQ 50–100 units; OEM/ODM custom sizing accepted
 
 ## Factory
-- 22 years of manufacturing excellence since 2003
+- 23 years of manufacturing excellence since 2003
 - 18,000 sqm factory (10,000+8,000 smart factory)
 - 80+ skilled employees across corrugated production, die-cutting, and assembly
 - BHS 2.5m corrugator for single-wall through triple-wall production
@@ -103,7 +103,7 @@ Global manufacturers are switching from wooden crates to engineered corrugated f
 
 When you choose Bincai for industrial export packaging, you're partnering with a manufacturer that has the heavy-duty corrugated capability, testing certification, and global export experience to protect your equipment:
 
-- **22 Years of Industrial Packaging Experience** — We've produced corrugated shipping containers for machinery, automotive, and industrial equipment manufacturers exporting worldwide. Our team understands international freight requirements, customs packaging regulations, and the unique demands of ocean freight.
+- **23 Years of Industrial Packaging Experience** — We've produced corrugated shipping containers for machinery, automotive, and industrial equipment manufacturers exporting worldwide. Our team understands international freight requirements, customs packaging regulations, and the unique demands of ocean freight.
 
 - **BHS 2.5m Corrugator** — The BHS corrugator is the gold standard in corrugated production, manufacturing single-wall through triple-wall board with precise flute formation, consistent adhesive application, and industry-leading flatness — critical for large-format boxes that must stack straight in containers.
 

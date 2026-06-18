@@ -2,7 +2,7 @@
 title: "Compostable Kraft Paper Chocolate Gift Box with PLA Window Soy Ink Printing"
 date: 2026-06-16
 draft: false
-description: "100% compostable kraft paper chocolate gift box with PLA bioplastic window, soy-based ink printing, and FSC-certified paperboard. Manufactured by Bincai: KBA 1050 4-color press, Heidelberg 7+1 UV, 250-400gsm kraft board, water-based adhesive, 10,000+8,000sqm dual factory, 22 years experience, ISO 9001:2015 & FSC certified. EN 13432 and ASTM D6400 compliant. MOQ 500."
+description: "100% compostable kraft paper chocolate gift box with PLA bioplastic window, soy-based ink printing, and FSC-certified paperboard. Manufactured by Bincai: KBA 1050 4-color press, Heidelberg 7+1 UV, 250-400gsm kraft board, water-based adhesive, 10,000+8,000sqm dual factory, 23 years experience, ISO 9001:2015 & FSC certified. EN 13432 and ASTM D6400 compliant. MOQ 500."
 keywords: "compostable chocolate box, kraft paper gift box, PLA window box, soy ink packaging, eco-friendly chocolate packaging, biodegradable gift box, EN 13432 compostable packaging, FSC kraft box, Bincai sustainable packaging, zero waste chocolate box, industrial compostable, plant-based window box"
 categories: ["kraft-eco-boxes"]
 params:
@@ -14,7 +14,7 @@ params:
 
 ![Bincai Kraft Eco Boxes](/images/kraft-eco-box.jpg)
 
-Compostable kraft paper chocolate gift box with PLA bioplastic window — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience. Every component — from the FSC-certified kraft board and PLA window to the soy-based inks and water-based adhesive — is certified industrially compostable under EN 13432 and ASTM D6400 standards. This box provides artisan chocolatiers and eco-conscious confectionery brands with packaging that decomposes into biomass, water, and CO₂ within 90 days in commercial composting facilities, leaving zero microplastics behind.
+Compostable kraft paper chocolate gift box with PLA bioplastic window — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 23 years of experience. Every component — from the FSC-certified kraft board and PLA window to the soy-based inks and water-based adhesive — is certified industrially compostable under EN 13432 and ASTM D6400 standards. This box provides artisan chocolatiers and eco-conscious confectionery brands with packaging that decomposes into biomass, water, and CO₂ within 90 days in commercial composting facilities, leaving zero microplastics behind.
 
 ## Applications
 - Artisan chocolate and truffle gift packaging
@@ -51,7 +51,7 @@ Compostable kraft paper chocolate gift box with PLA bioplastic window — manufa
 - MOQ 500–1000 units, trial orders and OEM/ODM accepted
 
 ## Factory
-- 22 years of manufacturing excellence since 2003
+- 23 years of manufacturing excellence since 2003
 - 18,000 sqm factory (10,000+8,000 smart factory)
 - 80+ skilled employees across design, prepress, printing, and finishing
 - KBA 1050 4-color + Heidelberg 7+1 UV presses
@@ -74,7 +74,7 @@ A: Yes. The kraft board is manufactured without recycled content in the food-con
 
 When you choose Bincai for sustainable packaging, you partner with a manufacturer that combines scale with genuine environmental commitment:
 
-- **22 Years of Manufacturing Excellence** — Founded in 2003, Bincai has evolved from a traditional printer to a sustainability-focused packaging manufacturer serving eco-conscious brands globally.
+- **23 Years of Manufacturing Excellence** — Founded in 2003, Bincai has evolved from a traditional printer to a sustainability-focused packaging manufacturer serving eco-conscious brands globally.
 
 - **Third-Party Certified Compostability** — Our compostable packaging is certified by DIN CERTCO (EN 13432) and BPI (ASTM D6400), not just self-declared. These certifications are audited annually with unannounced factory inspections.
 

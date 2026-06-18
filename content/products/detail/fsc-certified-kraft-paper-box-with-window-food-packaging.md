@@ -2,7 +2,7 @@
 title: "FSC Certified Kraft Paper Box with Window Food Packaging"
 date: 2026-06-10
 draft: false
-description: "FSC certified kraft paper box with clear PET window for food packaging — printed on KBA Rapida 105 4-color (15,000 sheets/hr) and Heidelberg Speedmaster CD 102 7+1 UV presses with food-safe soy-based inks. Die-cut on Bobst SP 102 BMA (±0.15mm tolerance). Manufactured in Bincai's 18,000 sqm dual-factory (10,000+8,000 smart factory 2025) in Foshan China. ISO 9001:2015 and FSC Chain-of-Custody (FSC-C147399) certified. 22 years since 2003, 350+ workers, 1.7M boxes/day output. Ideal for bakeries, organic food, and confectionery. MOQ 500, free samples 5-7 days."
+description: "FSC certified kraft paper box with clear PET window for food packaging — printed on KBA Rapida 105 4-color (15,000 sheets/hr) and Heidelberg Speedmaster CD 102 7+1 UV presses with food-safe soy-based inks. Die-cut on Bobst SP 102 BMA (±0.15mm tolerance). Manufactured in Bincai's 18,000 sqm dual-factory (10,000+8,000 smart factory 2025) in Foshan China. ISO 9001:2015 and FSC Chain-of-Custody (FSC-C147399) certified. 23 years since 2003, 350+ workers, 1.7M boxes/day output. Ideal for bakeries, organic food, and confectionery. MOQ 500, free samples 5-7 days."
 keywords: "FSC certified kraft box, kraft paper window box, food packaging box, eco-friendly food carton, biodegradable window box, sustainable food packaging, kraft window carton, FSC food box China, Bincai kraft packaging, ISO certified food box, custom kraft box with PET window, bakery packaging box wholesale, organic food carton supplier, kraft paper box manufacturer Foshan, PLA compostable window food box, soy-based ink food packaging, food-safe kraft box ISO 9001, FSC Chain-of-Custody packaging, KBA Rapida 105 printed food box, Heidelberg UV printed kraft carton, Bobst die-cut kraft box, eco-friendly bakery box MOQ 500, confectionery gift box kraft, tea packaging kraft window box, dried fruit snack packaging box, grease-resistant kraft food box, low-migration ink food packaging, recyclable kraft paper carton China, Guangdong food packaging manufacturer, Pearl River Delta packaging supplier"
 categories: ["kraft-eco-boxes"]
 params:
@@ -14,7 +14,7 @@ params:
 
 ![Bincai Kraft Eco Boxes](/images/kraft-eco-box.jpg)
 
-FSC certified kraft paper box with clear PET window for food packaging — designed for bakeries, confectionery brands, and organic food companies seeking sustainable packaging with product visibility. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** (founded 2003) in a 18,000 sqm (10,000+8,000 smart factory) ISO 9001 and FSC certified factory. Printed on KBA 1050 4-color and Heidelberg 7+1 UV presses with food-safe, low-migration inks. 22 years of expertise delivering 1.7 million boxes daily to clients in 40+ countries.
+FSC certified kraft paper box with clear PET window for food packaging — designed for bakeries, confectionery brands, and organic food companies seeking sustainable packaging with product visibility. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** (founded 2003) in a 18,000 sqm (10,000+8,000 smart factory) ISO 9001 and FSC certified factory. Printed on KBA 1050 4-color and Heidelberg 7+1 UV presses with food-safe, low-migration inks. 23 years of expertise delivering 1.7 million boxes daily to clients in 40+ countries.
 
 ## Applications
 - Bakery and pastry takeaway boxes (croissants, donuts, cookies, muffins)
@@ -68,14 +68,14 @@ FSC certified kraft paper box with clear PET window for food packaging — desig
 |---|---|
 | **Presses** | KBA Rapida 105 4-color offset (15,000 sheets/hr) + Heidelberg Speedmaster CD 102 7+1 UV with inter-deck curing |
 | **Factory** | 18,000 sqm dual-factory campus (10,000 sqm original + 8,000 sqm Gaobu smart factory, renovated 2025) in Foshan, Pearl River Delta, China |
-| **Experience** | 22 years of continuous manufacturing since 2003; 350+ skilled workers across prepress, printing, finishing, and QC |
+| **Experience** | 23 years of continuous manufacturing since 2003; 350+ skilled workers across prepress, printing, finishing, and QC |
 | **Daily Output** | 1.7 million color boxes/day + dedicated kraft eco line for food-grade production |
 | **Specialty** | FSC Chain-of-Custody (FSC-C147399) food-safe kraft packaging with low-migration inks per EU 1935/2004; Bobst SP 102 BMA die-cutting ±0.15mm |
 | **Sampling** | Free pre-production food-safe samples in 5–7 working days; structural prototypes in 3 days |
 | **MOQ** | 500 units standard; flexible for startups and pilot runs; Diamond Member on Made-in-China.com |
 
 ## Factory
-- 22 years of manufacturing excellence since 2003
+- 23 years of manufacturing excellence since 2003
 - 18,000 sqm integrated facility (10,000+8,000 smart factory, 2025) in Foshan, Guangdong
 - 80+ employees, full in-house prepress-to-finishing, dedicated food-grade production area
 - KBA 1050 4-color + Heidelberg 7+1 UV presses with food-safe ink management

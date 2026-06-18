@@ -2,7 +2,7 @@
 title: "Kraft Brown Gift Box with Jute Twine Handle — Handmade Soap & Candle Eco Packaging"
 date: 2026-06-14
 draft: false
-description: "Kraft brown gift box with natural jute twine handle and soy-ink printing — 100% recyclable eco packaging by Guangdong Bincai Color Printing Co., Ltd. (22 years, ISO 9001 & FSC certified). 18,000 sqm Foshan factory, KBA 1050 + Heidelberg 7+1 UV presses, daily output 1.7M boxes. FSC-certified kraft paperboard, water-based adhesive, biodegradable jute handle. Ideal for handmade soaps, artisanal candles, organic skincare, zero-waste brands, and eco-conscious gifting."
+description: "Kraft brown gift box with natural jute twine handle and soy-ink printing — 100% recyclable eco packaging by Guangdong Bincai Color Printing Co., Ltd. (23 years, ISO 9001 & FSC certified). 18,000 sqm Foshan factory, KBA 1050 + Heidelberg 7+1 UV presses, daily output 1.7M boxes. FSC-certified kraft paperboard, water-based adhesive, biodegradable jute handle. Ideal for handmade soaps, artisanal candles, organic skincare, zero-waste brands, and eco-conscious gifting."
 keywords: "kraft brown gift box, jute twine handle, eco packaging, handmade soap box, candle gift box, sustainable packaging, 100% recyclable box, FSC certified kraft, soy ink printing, Guangdong Bincai, ISO 9001, zero-waste packaging, organic skincare box, kraft-eco-boxes, OEM eco boxes, biodegradable packaging"
 categories: ["kraft-eco-boxes"]
 params:
@@ -14,7 +14,7 @@ params:
 
 ![Bincai Kraft Eco Gift Box with Jute Handle](/images/kraft-eco-box.jpg)
 
-The kraft brown gift box with jute twine handle represents Bincai's commitment to sustainable packaging without compromising on structural integrity or brand presentation. Constructed from 350gsm FSC-certified kraft paperboard with water-based PVA adhesive and printed with soy-based inks, this box is 100% recyclable in standard paper streams and fully biodegradable. The natural jute twine handle — sourced from renewable jute fiber — provides both functional carrying convenience and a tactile, rustic aesthetic that resonates with eco-conscious consumers. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** (founded 2003, 22 years) at our ISO 9001:2015 and FSC Chain-of-Custody certified 18,000 sqm Foshan facility.
+The kraft brown gift box with jute twine handle represents Bincai's commitment to sustainable packaging without compromising on structural integrity or brand presentation. Constructed from 350gsm FSC-certified kraft paperboard with water-based PVA adhesive and printed with soy-based inks, this box is 100% recyclable in standard paper streams and fully biodegradable. The natural jute twine handle — sourced from renewable jute fiber — provides both functional carrying convenience and a tactile, rustic aesthetic that resonates with eco-conscious consumers. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** (founded 2003, 23 years) at our ISO 9001:2015 and FSC Chain-of-Custody certified 18,000 sqm Foshan facility.
 
 Designed for the thriving handmade, artisanal, and zero-waste product categories, this box serves brands that prioritize environmental responsibility as a core value. The unbleached kraft surface provides an authentic, natural canvas for minimalist branding — single-color soy-ink printing creates an understated, organic look that communicates sustainability at every touchpoint.
 
@@ -56,7 +56,7 @@ Designed for the thriving handmade, artisanal, and zero-waste product categories
 | Factory | 18,000 sqm dual-factory (10,000 + 8,000 sqm smart factory) |
 | Daily Output | 1.7M boxes |
 | Certifications | ISO 9001:2015, FSC Chain-of-Custody, Sedex SMETA |
-| Experience | 22 years (founded 2003) |
+| Experience | 23 years (founded 2003) |
 | MOQ | 500 units |
 | Lead Time | 10–14 days after sample approval |
 
@@ -76,7 +76,7 @@ Kraft eco packaging demands more than just brown paper — it requires genuine c
 
 **The Bincai Difference:** FSC-certified kraft board supply chain — not just a claim, but a verifiable chain-of-custody certificate. **Soy-ink printing expertise** — we've optimized ink densities and drying parameters specifically for uncoated kraft surfaces, ensuring crisp brand graphics on the most demanding natural substrate. **Circular design support** — our team can advise on material choices that maintain recyclability while achieving your brand's aesthetic goals. **Competitive pricing** — integrated production and high-speed Heidelberg/KBA presses deliver eco packaging at costs comparable to conventional alternatives.
 
-**Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
+**Factory Facts:** Founded 2003 | 23 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
 
 **Shipping:** Cartons ship flat-packed; 40,000–60,000 per standard pallet depending on size. Standard sea freight 18–25 days to US/EU ports. Air freight available for rush orders. MOQ 500 units with 10–14 day lead time after sample approval.
 

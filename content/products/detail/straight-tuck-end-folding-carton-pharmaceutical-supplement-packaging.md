@@ -2,7 +2,7 @@
 title: "Straight Tuck End Folding Carton Pharmaceutical Supplement Packaging"
 date: 2026-06-16
 draft: false
-description: "Straight tuck end (STE) folding carton for pharmaceutical and dietary supplement packaging — custom manufactured by Bincai Printing, 22-year ISO 9001 & FSC certified paper box factory. Straight tuck end folding carton with child-resistant option and pharmaceutical-grade printing for OTC drugs, vitamins, and dietary supplements by Guangdong Bincai Color Printing Co., Ltd. — 22 years of manufacturing excellence since 2003. Produced on KBA 1050 4-color and Heidelberg 7+1 UV presses across our 18,000 sqm factory (10,000+8,000 sqm smart factory, 2025 expansion). ISO 9001:2015 and FSC certified. Daily output of 1.7 million color boxes plus 220,000+ gift boxes. MOQ 500 units. SBS or CCNB paperboard in 12–24pt, aqueous or UV coating, Braille embossing, tamper-evident seals, and variable data printing for lot codes and expiry dates. Heidelberg 7+1 UV offset printing, 10,000 sqm facility, daily output 1.5M boxes."
+description: "Straight tuck end (STE) folding carton for pharmaceutical and dietary supplement packaging — custom manufactured by Bincai Printing, 23-year ISO 9001 & FSC certified paper box factory. Straight tuck end folding carton with child-resistant option and pharmaceutical-grade printing for OTC drugs, vitamins, and dietary supplements by Guangdong Bincai Color Printing Co., Ltd. — 23 years of manufacturing excellence since 2003. Produced on KBA 1050 4-color and Heidelberg 7+1 UV presses across our 18,000 sqm factory (10,000+8,000 sqm smart factory, 2025 expansion). ISO 9001:2015 and FSC certified. Daily output of 1.7 million color boxes plus 220,000+ gift boxes. MOQ 500 units. SBS or CCNB paperboard in 12–24pt, aqueous or UV coating, Braille embossing, tamper-evident seals, and variable data printing for lot codes and expiry dates. Heidelberg 7+1 UV offset printing, 10,000 sqm facility, daily output 1.5M boxes."
 keywords: "straight tuck end carton, pharmaceutical folding carton, supplement packaging, STE carton, OTC drug packaging, vitamin box, dietary supplement packaging, child resistant carton, pharmaceutical box, tamper evident carton, Braille embossing carton, SBS folding carton, Bincai Guangdong, ISO 9001 FSC packaging, China pharmaceutical packaging manufacturer, straight tuck box, supplement box, OTC packaging, healthcare packaging, pharmaceutical folding box, variable data printing carton, serialized carton, FDA compliant packaging, Guangdong pharma packaging, GMP folding carton, lot code carton"
 categories: ["folding-cartons"]
 params:
@@ -20,7 +20,7 @@ tags:
 
 ![Bincai Folding Carton](/images/cat-fold-cosmetic.jpg)
 
-Straight tuck end (STE) folding carton engineered for pharmaceutical, OTC drug, and dietary supplement packaging by Guangdong Bincai Color Printing Co., Ltd. — a Diamond Member on Made-in-China.com with 22 years of manufacturing excellence (founded 2003). This STE carton features precision tuck-end closure with optional tamper-evident seals and child-resistant locking mechanisms. Produced on KBA 1050 4-color and Heidelberg 7+1 UV presses across our 18,000 sqm facility (10,000+8,000 smart factory, 2025 expansion). Daily output: 1.7 million color boxes + 220,000+ gift boxes.
+Straight tuck end (STE) folding carton engineered for pharmaceutical, OTC drug, and dietary supplement packaging by Guangdong Bincai Color Printing Co., Ltd. — a Diamond Member on Made-in-China.com with 23 years of manufacturing excellence (founded 2003). This STE carton features precision tuck-end closure with optional tamper-evident seals and child-resistant locking mechanisms. Produced on KBA 1050 4-color and Heidelberg 7+1 UV presses across our 18,000 sqm facility (10,000+8,000 smart factory, 2025 expansion). Daily output: 1.7 million color boxes + 220,000+ gift boxes.
 
 ## Applications
 - OTC drug secondary packaging with tamper-evident and child-resistant features
@@ -48,7 +48,7 @@ Straight tuck end (STE) folding carton engineered for pharmaceutical, OTC drug, 
 - **Certifications:** ISO 9001:2015 quality management, FSC-C147399 chain of custody, cGMP compliant manufacturing environment
 
 ## Quality & Capacity
-Manufactured in our 18,000 sqm ISO 9001:2015 certified facility with dedicated pharmaceutical packaging production zones. Quality controls include inline spectrophotometric color verification to ISO 12647-2, barcode grading to ISO/IEC 15415, glue-line integrity testing, and statistical process control (SPC) with real-time Cpk monitoring. With 22 years of experience and a daily output capacity of over 1.7 million boxes, Bincai delivers pharmaceutical-grade folding cartons with the consistency and traceability required by regulated markets.
+Manufactured in our 18,000 sqm ISO 9001:2015 certified facility with dedicated pharmaceutical packaging production zones. Quality controls include inline spectrophotometric color verification to ISO 12647-2, barcode grading to ISO/IEC 15415, glue-line integrity testing, and statistical process control (SPC) with real-time Cpk monitoring. With 23 years of experience and a daily output capacity of over 1.7 million boxes, Bincai delivers pharmaceutical-grade folding cartons with the consistency and traceability required by regulated markets.
 
 ---
 

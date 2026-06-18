@@ -2,7 +2,7 @@
 title: "Custom Magnetic Closure Sunglasses Gift Box — Velvet Liner with Flocked Insert"
 date: 2026-06-15
 draft: false
-description: "Premium magnetic closure sunglasses gift box manufactured by Guangdong Bincai Color Printing Co., Ltd. Features N52 neodymium magnets, flocked insert tray, and velvet liner for luxury eyewear packaging. 22 years experience, 18,000 sqm Foshan factory, KBA 1050 4-color + Heidelberg 7+1 UV presses, ISO 9001:2015 & FSC certified, 1.7M boxes daily output. OEM/ODM for eyewear brands worldwide."
+description: "Premium magnetic closure sunglasses gift box manufactured by Guangdong Bincai Color Printing Co., Ltd. Features N52 neodymium magnets, flocked insert tray, and velvet liner for luxury eyewear packaging. 23 years experience, 18,000 sqm Foshan factory, KBA 1050 4-color + Heidelberg 7+1 UV presses, ISO 9001:2015 & FSC certified, 1.7M boxes daily output. OEM/ODM for eyewear brands worldwide."
 keywords: "magnetic closure sunglasses box, custom eyewear packaging, luxury sunglasses gift box, velvet liner box, flocked insert tray, magnetic rigid box, bincai, guangdong, iso 9001, fsc, kba 1050, heidelberg 7+1 uv, 18000 sqm, 1.7m daily output, OEM, wholesale sunglasses packaging, custom rigid box"
 categories: ["magnetic-closure-boxes"]
 params:
@@ -55,7 +55,7 @@ Guangdong Bincai Color Printing Co., Ltd. produces this custom magnetic closure 
 | Sample Turnaround | 5-7 days, free pre-production samples |
 | Factory | 18,000 sqm (10,000 + 8,000 sqm smart factory), Foshan, Pearl River Delta |
 | Certifications | ISO 9001:2015, FSC Chain-of-Custody, Sedex SMETA |
-| Experience | 22 years (founded 2003), 350+ skilled workers |
+| Experience | 23 years (founded 2003), 350+ skilled workers |
 
 ## Quality Assurance
 
@@ -72,9 +72,9 @@ Guangdong Bincai Color Printing Co., Ltd. produces this custom magnetic closure 
 
 ## Why Bincai?
 
-Bincai's magnetic closure expertise comes from 22 years of producing premium rigid boxes for global eyewear brands. Our integrated in-house magnet installation line ensures consistent closure force and hidden-magnet aesthetics — no visible magnet pockets on the exterior. The flocked insert tray is cut and flocked in-house, eliminating the 3-5 day outsourced lead time that delays competitors. For eyewear brands, this means one supplier for the complete box, insert, and packaging system — reducing per-unit cost by 15-20% versus multi-vendor sourcing.
+Bincai's magnetic closure expertise comes from 23 years of producing premium rigid boxes for global eyewear brands. Our integrated in-house magnet installation line ensures consistent closure force and hidden-magnet aesthetics — no visible magnet pockets on the exterior. The flocked insert tray is cut and flocked in-house, eliminating the 3-5 day outsourced lead time that delays competitors. For eyewear brands, this means one supplier for the complete box, insert, and packaging system — reducing per-unit cost by 15-20% versus multi-vendor sourcing.
 
-**Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
+**Factory Facts:** Founded 2003 | 23 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
 
 **Shipping:** Flat-packed unassembled — 60% freight volume savings vs. pre-assembled. Standard 10-14 day production lead time. Sea freight to US West Coast: 12-16 days; Europe: 25-30 days.
 

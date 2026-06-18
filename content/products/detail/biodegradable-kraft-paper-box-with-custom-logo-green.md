@@ -2,8 +2,8 @@
 title: "Biodegradable Kraft Paper Box with Custom Logo Green"
 date: 2026-06-10
 draft: false
-description: "Biodegradable kraft paper box with custom logo printing — FSC Chain-of-Custody certified, soy-based ink (ASTM D6866 verified), 100% recyclable, plastic-free packaging. 250-450gsm unbleached kraft paperboard with greyboard (1.5-2.5mm). KBA 1050 4-color offset + Heidelberg 7+1 UV presses. ISO 9001:2015 certified. 1.7M daily output from 18,000 sqm factory (10,000+8,000 smart factory). 22 years manufacturing experience. Guangdong Bincai Color Printing — Diamond Member on Made-in-China.com. MOQ 500. Free samples available. Perfect for cosmetics, organic food, apparel, and lifestyle brands seeking zero-plastic sustainable packaging."
-keywords: "biodegradable kraft paper box, eco-friendly packaging, FSC Chain-of-Custody certified box, sustainable paper box, custom logo kraft box, soy ink printed packaging, soy-based ink ASTM D6866, recyclable gift box, kraft box manufacturer China, cosmetic kraft packaging, Guangdong Bincai Color Printing, green packaging factory, biodegradable box wholesale, compostable kraft box, plastic-free packaging, unbleached kraft paperboard, water-based PVA adhesive, KBA 1050 offset printing, Heidelberg 7+1 UV press, ISO 9001:2015 certified factory, 18,000 sqm manufacturing, 1.7M daily output boxes, 22 years packaging experience, Diamond Member Made-in-China.com, organic food packaging box, apparel gift box kraft, zero-plastic cosmetic packaging, 100% PCR recycled board, FSC certified packaging China, aqueous matte coating recyclable, kraft greyboard rigid box, environmental packaging solutions"
+description: "Biodegradable kraft paper box with custom logo printing — FSC Chain-of-Custody certified, soy-based ink (ASTM D6866 verified), 100% recyclable, plastic-free packaging. 250-450gsm unbleached kraft paperboard with greyboard (1.5-2.5mm). KBA 1050 4-color offset + Heidelberg 7+1 UV presses. ISO 9001:2015 certified. 1.7M daily output from 18,000 sqm factory (10,000+8,000 smart factory). 23 years manufacturing experience. Guangdong Bincai Color Printing — Diamond Member on Made-in-China.com. MOQ 500. Free samples available. Perfect for cosmetics, organic food, apparel, and lifestyle brands seeking zero-plastic sustainable packaging."
+keywords: "biodegradable kraft paper box, eco-friendly packaging, FSC Chain-of-Custody certified box, sustainable paper box, custom logo kraft box, soy ink printed packaging, soy-based ink ASTM D6866, recyclable gift box, kraft box manufacturer China, cosmetic kraft packaging, Guangdong Bincai Color Printing, green packaging factory, biodegradable box wholesale, compostable kraft box, plastic-free packaging, unbleached kraft paperboard, water-based PVA adhesive, KBA 1050 offset printing, Heidelberg 7+1 UV press, ISO 9001:2015 certified factory, 18,000 sqm manufacturing, 1.7M daily output boxes, 23 years packaging experience, Diamond Member Made-in-China.com, organic food packaging box, apparel gift box kraft, zero-plastic cosmetic packaging, 100% PCR recycled board, FSC certified packaging China, aqueous matte coating recyclable, kraft greyboard rigid box, environmental packaging solutions"
 categories: ["kraft-eco-boxes"]
 params:
   moq: "500-1000"
@@ -16,7 +16,7 @@ params:
 
 ## Product Overview
 
-Biodegradable kraft paper box with custom logo printing — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). Designed for brands committed to plastic-free, sustainable packaging without compromising on print quality or structural integrity. Built on KBA 1050 and Heidelberg 7+1 UV presses with soy-based inks across an 18,000 sqm integrated campus in Foshan, Guangdong. Daily output 1.7 million boxes + 220,000+ gift boxes (post-2025 expansion). ISO 9001:2015 and FSC Chain-of-Custody certified. Ideal for cosmetics, organic food, apparel, and lifestyle brands seeking zero-plastic, fully recyclable packaging solutions.
+Biodegradable kraft paper box with custom logo printing — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 23 years of experience (founded 2003). Designed for brands committed to plastic-free, sustainable packaging without compromising on print quality or structural integrity. Built on KBA 1050 and Heidelberg 7+1 UV presses with soy-based inks across an 18,000 sqm integrated campus in Foshan, Guangdong. Daily output 1.7 million boxes + 220,000+ gift boxes (post-2025 expansion). ISO 9001:2015 and FSC Chain-of-Custody certified. Ideal for cosmetics, organic food, apparel, and lifestyle brands seeking zero-plastic, fully recyclable packaging solutions.
 
 ## Manufacturing Specifications
 
@@ -89,7 +89,7 @@ Biodegradable kraft paper box with custom logo printing — manufactured by Guan
 
 ## Why Choose Bincai for Kraft Eco Boxes
 
-- **22 years of sustainable packaging expertise** — established 2003, serving organic cosmetics, specialty food, and eco-conscious lifestyle brands across 60+ countries
+- **23 years of sustainable packaging expertise** — established 2003, serving organic cosmetics, specialty food, and eco-conscious lifestyle brands across 60+ countries
 - **FSC Chain-of-Custody certified** — FSC-C147294, full fiber traceability from forest to finished box with audited chain-of-custody documentation
 - **Plastic-free supply chain** — soy-based inks (ASTM D6866 verified ≥60% bio-content), water-based PVA adhesives (zero VOC), aqueous coating (no solvent), PLA windows (ASTM D6400 compostable) on request
 - **Biodegradability verified** — EN 13432 and ASTM D6400 compliant; ≥90% degradation within 180 days in industrial composting conditions

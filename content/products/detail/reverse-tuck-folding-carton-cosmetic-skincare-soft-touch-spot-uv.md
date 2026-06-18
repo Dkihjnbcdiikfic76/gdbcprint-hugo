@@ -2,8 +2,8 @@
 title: "Reverse Tuck Folding Carton — Soft-Touch Matte + Spot UV for Cosmetic & Skincare Packaging"
 date: 2026-06-15
 draft: false
-description: "Custom reverse tuck end (RTE) folding carton with soft-touch matte lamination and spot UV for premium cosmetic and skincare packaging by Guangdong Bincai Color Printing — Diamond Member on Made-in-China.com. ISO 9001 & FSC certified, 22 years experience, KBA 1050 4-color + Heidelberg 7+1 UV presses, 18,000 sqm factory, 1.7M daily output. SBS/CCNB 300-450gsm board, smooth auto-lock bottom, custom die-cut window, gold foil logo available."
-keywords: "reverse tuck folding carton, skincare packaging box, cosmetic folding box, soft touch matte box, spot UV packaging, Bincai, Guangdong folding carton factory, 22 years experience, ISO 9001 certified, FSC certified, KBA 1050 offset, Heidelberg 7+1 UV, 18,000 sqm factory, 1.7M daily output, OEM folding carton China, Diamond Member MIC, cream jar box, serum packaging"
+description: "Custom reverse tuck end (RTE) folding carton with soft-touch matte lamination and spot UV for premium cosmetic and skincare packaging by Guangdong Bincai Color Printing — Diamond Member on Made-in-China.com. ISO 9001 & FSC certified, 23 years experience, KBA 1050 4-color + Heidelberg 7+1 UV presses, 18,000 sqm factory, 1.7M daily output. SBS/CCNB 300-450gsm board, smooth auto-lock bottom, custom die-cut window, gold foil logo available."
+keywords: "reverse tuck folding carton, skincare packaging box, cosmetic folding box, soft touch matte box, spot UV packaging, Bincai, Guangdong folding carton factory, 23 years experience, ISO 9001 certified, FSC certified, KBA 1050 offset, Heidelberg 7+1 UV, 18,000 sqm factory, 1.7M daily output, OEM folding carton China, Diamond Member MIC, cream jar box, serum packaging"
 categories: ["folding-cartons"]
 params:
   moq: "1000-3000"
@@ -48,7 +48,7 @@ Custom reverse tuck end (RTE) folding carton designed for premium cosmetic and s
 ## Why Choose Bincai for Folding Cartons
 | Our Advantage | What It Means for You |
 |:---|---:|
-| **22 Years Experience** | Deep expertise in cosmetic-grade folding carton production since 2002 |
+| **23 Years Experience** | Deep expertise in cosmetic-grade folding carton production since 2002 |
 | **KBA 1050 + Heidelberg 7+1 UV** | German-engineered presses deliver consistent color across millions of units |
 | **ISO 9001 & FSC Certified** | Quality management + responsible forestry — meet EU/US retail compliance |
 | **18,000 sqm Factory** | Full in-house workflow: prepress → printing → die-cutting → gluing → QC → shipping |
@@ -129,7 +129,7 @@ A: The reverse-tuck is excellent for retail shelf display, but for subscription 
 
 | Our Advantage | What It Means for Your Beauty Brand |
 |---|---|
-| **22 Years Beauty Packaging** | We've produced cartons for creams, serums, masks, perfumes, and makeup — we understand the cosmetic industry's obsession with perfection |
+| **23 Years Beauty Packaging** | We've produced cartons for creams, serums, masks, perfumes, and makeup — we understand the cosmetic industry's obsession with perfection |
 | **German + KBA Press Lineup** | Heidelberg Speedmaster CD 102 7+1 UV for premium finishes + KBA Rapida 105 for high-volume runs — the right press for every order size |
 | **Soft-Touch Mastery** | Our soft-touch matte lamination is fingerprint-resistant, scuff-proof, and velvet-smooth — tested for 24-month retail shelf life |
 | **18,000 sqm Integrated Facility** | Prepress → printing → lamination → foil stamping → die-cutting → gluing → QC → packing — everything under one roof, zero subcontracting |

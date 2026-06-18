@@ -2,7 +2,7 @@
 title: "Magnetic Closure Luxury Candle Gift Box with Satin Interior & Custom Foam Tray"
 date: 2026-06-11
 draft: false
-description: "Premium magnetic closure gift box with satin-lined interior and custom foam tray for luxury candle gift sets. 157gsm art paper over 1200gsm greyboard core, N48 neodymium magnets, gold foil hot stamping on KBA 1050 4-color press. Manufactured by Guangdong Bincai Color Printing — 22 years experience, ISO 9001:2015 & FSC certified, 18,000 sqm factory, Heidelberg 7+1 UV press, 1.7M boxes daily output, MOQ 500."
+description: "Premium magnetic closure gift box with satin-lined interior and custom foam tray for luxury candle gift sets. 157gsm art paper over 1200gsm greyboard core, N48 neodymium magnets, gold foil hot stamping on KBA 1050 4-color press. Manufactured by Guangdong Bincai Color Printing — 23 years experience, ISO 9001:2015 & FSC certified, 18,000 sqm factory, Heidelberg 7+1 UV press, 1.7M boxes daily output, MOQ 500."
 keywords: "magnetic closure gift box, luxury candle packaging, satin interior box, custom foam tray box, premium candle gift set, gold foil magnetic box, N48 neodymium magnet box, candle gift packaging, luxury gift box manufacturer, Bincai Color Printing, Guangdong magnetic box factory, ISO 9001 gift box, Heidelberg UV gift box, wholesale candle gift packaging"
 categories: ["magnetic-closure-boxes"]
 params:
@@ -14,7 +14,7 @@ params:
 
 ![Bincai Magnetic Closure Boxes](/images/magnetic-closure-boxes.jpg)
 
-Premium magnetic closure gift box with satin-lined interior and custom foam tray — purpose-built for luxury candle gift sets. Manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). 18,000 sqm integrated factory with KBA 1050 4-color and Heidelberg 7+1 UV presses. Daily output 1.7 million boxes.
+Premium magnetic closure gift box with satin-lined interior and custom foam tray — purpose-built for luxury candle gift sets. Manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 23 years of experience (founded 2003). 18,000 sqm integrated factory with KBA 1050 4-color and Heidelberg 7+1 UV presses. Daily output 1.7 million boxes.
 
 ## Applications
 

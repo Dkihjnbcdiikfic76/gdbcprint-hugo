@@ -2,7 +2,7 @@
 title: "Recyclable Kraft Folding Carton Eco-Friendly Food Packaging"
 date: 2026-06-10
 draft: false
-description: "Fully recyclable kraft folding carton for eco-friendly food packaging. FSC certified, soy-ink printed, compostable. Manufactured at Bincai's 18,000 sqm Foshan smart factory on KBA 1050 + Heidelberg 7+1 UV. ISO 9001:2015 & FSC Chain-of-Custody certified. 22 years experience, 1.7M daily output. MOQ 500 with free samples."
+description: "Fully recyclable kraft folding carton for eco-friendly food packaging. FSC certified, soy-ink printed, compostable. Manufactured at Bincai's 18,000 sqm Foshan smart factory on KBA 1050 + Heidelberg 7+1 UV. ISO 9001:2015 & FSC Chain-of-Custody certified. 23 years experience, 1.7M daily output. MOQ 500 with free samples."
 keywords: "recyclable kraft folding carton, eco-friendly food packaging box, FSC certified food box, soy ink food carton, biodegradable food packaging, sustainable paper box manufacturer, kraft food carton, Bincai Color Printing, ISO 9001 food packaging, compostable paper box, green food packaging China, recyclable cardboard food box, EN 13432 compostable carton, plastic-free food packaging, aqueous coating food box, water-based adhesive carton, USDA BioPreferred soy ink, SGS food contact certified, Guangdong eco packaging factory, sustainable folding carton manufacturer"
 categories: ["folding-cartons"]
 params:
@@ -16,7 +16,7 @@ params:
 
 ## Overview
 
-Guangdong Bincai Color Printing's recyclable kraft folding carton for eco-friendly food packaging delivers sustainable protection with brand-forward printing. FSC certified kraft paperboard, soy-based inks, and water-based adhesives ensure full recyclability and industrial compostability. Manufactured in our ISO 9001:2015 certified 18,000 sqm facility (10,000+8,000 smart factory) with KBA 1050 4-color and Heidelberg 7+1 UV presses — 22 years of experience, daily output 1.7 million boxes.
+Guangdong Bincai Color Printing's recyclable kraft folding carton for eco-friendly food packaging delivers sustainable protection with brand-forward printing. FSC certified kraft paperboard, soy-based inks, and water-based adhesives ensure full recyclability and industrial compostability. Manufactured in our ISO 9001:2015 certified 18,000 sqm facility (10,000+8,000 smart factory) with KBA 1050 4-color and Heidelberg 7+1 UV presses — 23 years of experience, daily output 1.7 million boxes.
 
 ### The Plastic-Free Packaging Mandate
 
@@ -135,4 +135,4 @@ A: Yes. Our aqueous coating provides a moisture and grease barrier suitable for 
 **Q: What is the difference between PLA windows and traditional plastic windows?**
 A: PLA (polylactic acid) is a plant-based bioplastic derived from corn starch or sugarcane. Unlike petroleum-based PVC or PET windows that contaminate paper recycling, PLA windows are certified compostable to EN 13432 and do not interfere with paper recycling if left on the carton.
 
-> **Bincai Manufacturing Advantage**: 22 years of folding carton expertise from our integrated 18,000 sqm factory in Foshan, Guangdong. 1.7 million boxes daily capacity. ISO 9001:2015 and FSC Chain-of-Custody certified. Soy-based inks, water-based adhesives, aqueous coatings — genuinely plastic-free. MOQ 500 units. Free custom samples with your artwork in 5–7 business days. Export to 60+ countries. Contact us for a sustainability consultation and quote.
+> **Bincai Manufacturing Advantage**: 23 years of folding carton expertise from our integrated 18,000 sqm factory in Foshan, Guangdong. 1.7 million boxes daily capacity. ISO 9001:2015 and FSC Chain-of-Custody certified. Soy-based inks, water-based adhesives, aqueous coatings — genuinely plastic-free. MOQ 500 units. Free custom samples with your artwork in 5–7 business days. Export to 60+ countries. Contact us for a sustainability consultation and quote.

@@ -2,8 +2,8 @@
 title: "Kraft Paper Wine Bottle Gift Bag with Die-Cut Handle Gold Foil Eco-Luxury"
 date: 2026-06-15
 draft: false
-description: "Kraft Paper Wine Bottle Gift Bag with Die-Cut Handle, Gold Foil Stamping & Soy-Based Ink Printing by Guangdong Bincai Color Printing — 22 years eco-packaging manufacturing since 2003. Constructed from 250gsm FSC-certified kraft paper with reinforced die-cut handle and square-bottom gusset that accommodates standard 750ml wine bottles. Gold foil hot stamping on kraft background for organic-luxury aesthetic. All printing uses soy-based inks (USDA BioPreferred) for full biodegradability. ISO 9001:2015 and FSC Chain-of-Custody certified. 18,000 sqm factory, 1.7M daily output. MOQ 500, free samples 3-5 days. Ideal for wineries, wine retailers, craft beverage brands, corporate wine gifts, wedding favors, and holiday wine packaging."
-keywords: "kraft wine bag, wine bottle gift bag, die-cut handle bag, gold foil kraft bag, eco wine packaging, soy ink wine bag, FSC certified wine bag, kraft paper wine bag, wine gift packaging, winery packaging, craft beverage bag, wine bottle carrier, custom wine bag, sustainable wine packaging, biodegradable wine bag, ISO 9001 FSC kraft bag, KBA 1050 kraft printing, 22 years eco packaging manufacturer, Guangdong Bincai, Guangzhou wine bag factory, OEM wine gift bag, MOQ 500 wine bag, wholesale wine packaging, eco-luxury wine bag, kraft gold foil bag, Bincai Color Printing"
+description: "Kraft Paper Wine Bottle Gift Bag with Die-Cut Handle, Gold Foil Stamping & Soy-Based Ink Printing by Guangdong Bincai Color Printing — 23 years eco-packaging manufacturing since 2003. Constructed from 250gsm FSC-certified kraft paper with reinforced die-cut handle and square-bottom gusset that accommodates standard 750ml wine bottles. Gold foil hot stamping on kraft background for organic-luxury aesthetic. All printing uses soy-based inks (USDA BioPreferred) for full biodegradability. ISO 9001:2015 and FSC Chain-of-Custody certified. 18,000 sqm factory, 1.7M daily output. MOQ 500, free samples 3-5 days. Ideal for wineries, wine retailers, craft beverage brands, corporate wine gifts, wedding favors, and holiday wine packaging."
+keywords: "kraft wine bag, wine bottle gift bag, die-cut handle bag, gold foil kraft bag, eco wine packaging, soy ink wine bag, FSC certified wine bag, kraft paper wine bag, wine gift packaging, winery packaging, craft beverage bag, wine bottle carrier, custom wine bag, sustainable wine packaging, biodegradable wine bag, ISO 9001 FSC kraft bag, KBA 1050 kraft printing, 23 years eco packaging manufacturer, Guangdong Bincai, Guangzhou wine bag factory, OEM wine gift bag, MOQ 500 wine bag, wholesale wine packaging, eco-luxury wine bag, kraft gold foil bag, Bincai Color Printing"
 categories: ["kraft-eco-boxes"]
 params:
   moq: "500-1000"
@@ -16,7 +16,7 @@ params:
 
 ## Product Overview
 
-Our kraft paper wine bottle gift bag marries eco-conscious materials with luxury presentation through the striking combination of natural kraft texture and gold foil stamping. Constructed from 250gsm FSC-certified kraft paper, the bag features a reinforced die-cut handle, square-bottom gusset, and is precision-sized for standard 750ml wine bottles. Gold foil hot stamping on the uncoated kraft surface creates an organic-luxury aesthetic — the warmth of kraft contrasting with metallic brilliance — that resonates with today's sustainability-minded wine consumers. All printing uses soy-based inks (USDA BioPreferred certified) for complete biodegradability. Manufactured on our KBA 1050 4-color offset press at Bincai's 18,000 sqm integrated factory. Every bag passes 7-stage QC from kraft grammage verification to final packaging audit. With 22 years of paper packaging expertise, we deliver wine bags that tell your brand's story before the bottle is even revealed.
+Our kraft paper wine bottle gift bag marries eco-conscious materials with luxury presentation through the striking combination of natural kraft texture and gold foil stamping. Constructed from 250gsm FSC-certified kraft paper, the bag features a reinforced die-cut handle, square-bottom gusset, and is precision-sized for standard 750ml wine bottles. Gold foil hot stamping on the uncoated kraft surface creates an organic-luxury aesthetic — the warmth of kraft contrasting with metallic brilliance — that resonates with today's sustainability-minded wine consumers. All printing uses soy-based inks (USDA BioPreferred certified) for complete biodegradability. Manufactured on our KBA 1050 4-color offset press at Bincai's 18,000 sqm integrated factory. Every bag passes 7-stage QC from kraft grammage verification to final packaging audit. With 23 years of paper packaging expertise, we deliver wine bags that tell your brand's story before the bottle is even revealed.
 
 ## Design Features
 
@@ -41,7 +41,7 @@ Our kraft paper wine bottle gift bag marries eco-conscious materials with luxury
 | **Printing Press** | KBA 1050 4-Color Offset |
 | **Daily Output** | 1.7M boxes/bags daily |
 | **Factory Size** | 18,000 sqm (10,000 + 8,000 smart factory 2025) |
-| **Experience** | 22 Years Paper Packaging Manufacturing (Founded 2003) |
+| **Experience** | 23 Years Paper Packaging Manufacturing (Founded 2003) |
 | **Certifications** | ISO 9001:2015, FSC® Chain-of-Custody |
 | **Lead Time** | 7–15 days standard, 5–7 days expedited |
 | **Sample Time** | 3–5 days free pre-production sample |
@@ -80,7 +80,7 @@ Our kraft paper wine bottle gift bag marries eco-conscious materials with luxury
 
 ## Why Choose Bincai
 
-- **22 Years Eco-Packaging Expertise**: Manufacturing sustainable paper packaging since 2003 — billions of units produced
+- **23 Years Eco-Packaging Expertise**: Manufacturing sustainable paper packaging since 2003 — billions of units produced
 - **18,000 sqm Integrated Factory**: In-house kraft sourcing, printing, foil stamping, die-cutting, and assembly
 - **1.7M Daily Output**: Capacity to handle winery programs from 500 to 500,000+ bags
 - **FSC® Certified**: Full Chain-of-Custody certification — your wine bags support responsible forestry

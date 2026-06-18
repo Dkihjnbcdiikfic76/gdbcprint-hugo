@@ -8,7 +8,7 @@ description: "How Bincai's 18,000 sqm factory handles seasonal packaging surges 
 
 ![Bincai Custom Paper Box Manufacturing — Factory & Production](/images/hero-banner-wide.webp)
 
-Seasonal packaging is the heartbeat of consumer retail. From Chinese New Year (CNY) red-and-gold gift boxes to Christmas-themed folding cartons, international brands face a recurring challenge: scaling premium packaging production ahead of fixed seasonal deadlines. At Bincai, seasonal surges are not disruptions — they are engineered into our 22-year operational playbook.
+Seasonal packaging is the heartbeat of consumer retail. From Chinese New Year (CNY) red-and-gold gift boxes to Christmas-themed folding cartons, international brands face a recurring challenge: scaling premium packaging production ahead of fixed seasonal deadlines. At Bincai, seasonal surges are not disruptions — they are engineered into our 23-year operational playbook.
 
 ## Why Seasonal Packaging Matters
 
@@ -156,7 +156,7 @@ Blending Eastern and Western seasonal motifs: Christmas boxes with subtle Chines
 
 | Differentiator | Why It Matters for Seasonal |
 |---|---|
-| **22 years experience** | 500+ seasonal campaigns delivered — we've seen every holiday deadline challenge |
+| **23 years experience** | 500+ seasonal campaigns delivered — we've seen every holiday deadline challenge |
 | **18,000 sqm factory** | Climate-controlled storage prevents humidity damage during Guangdong's summer pre-production |
 | **KBA 1050 + Heidelberg 7+1 UV** | Parallel production during peak season — no single-press bottleneck |
 | **1.7M daily output + 220K+ gift boxes** | Absorbs seasonal volume surges without subcontracting |
@@ -176,6 +176,6 @@ Plan your seasonal packaging 4–6 months ahead. Contact us for free structural 
 
 ---
 
-*Guangdong Bincai Color Printing Co., Ltd. — 22 years of paper box manufacturing since 2003. ISO 9001, FSC, and High-Tech Enterprise certified. 1.7M boxes daily from 18,000 sqm Foshan factory.*
+*Guangdong Bincai Color Printing Co., Ltd. — 23 years of paper box manufacturing since 2003. ISO 9001, FSC, and High-Tech Enterprise certified. 1.7M boxes daily from 18,000 sqm Foshan factory.*
 
 <a href="https://bincaipaperbox.en.made-in-china.com/" target="_blank" rel="noopener" class="btn-mic">View Full Catalog on Made-in-China.com →</a>

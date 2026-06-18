@@ -2,7 +2,7 @@
 title: "Hexagonal Tea Presentation Box with Ribbon Closure — Custom Rigid Gift Packaging"
 date: 2026-06-14
 draft: false
-description: "Custom hexagonal rigid tea presentation box manufactured by Guangdong Bincai Color Printing Co., Ltd. — 22 years of paper packaging expertise, 18,000 sqm Foshan factory, KBA 1050 4-color + Heidelberg 7+1 UV presses, ISO 9001 & FSC certified, 1.7M daily output. Perfect for premium loose-leaf tea brands, tea ceremony gift sets, and luxury tea samplers seeking distinctive hexagonal geometry and satin ribbon closure."
+description: "Custom hexagonal rigid tea presentation box manufactured by Guangdong Bincai Color Printing Co., Ltd. — 23 years of paper packaging expertise, 18,000 sqm Foshan factory, KBA 1050 4-color + Heidelberg 7+1 UV presses, ISO 9001 & FSC certified, 1.7M daily output. Perfect for premium loose-leaf tea brands, tea ceremony gift sets, and luxury tea samplers seeking distinctive hexagonal geometry and satin ribbon closure."
 keywords: "hexagonal tea box, rigid tea gift box, custom hexagon packaging, luxury tea presentation box, satin ribbon closure box, rigid paper box manufacturer, bincai, guangdong, iso 9001, fsc, kba 1050, heidelberg 7+1 uv, 18000 sqm, 1.7m daily output, tea ceremony gift packaging, OEM"
 categories: ["special-shape-boxes"]
 params:
@@ -61,7 +61,7 @@ The hexagonal geometry solves a key market positioning challenge: it communicate
 | Factory Size | 18,000 sqm (10,000 + 8,000 sqm smart factory) |
 | Certifications | ISO 9001:2015, FSC Chain-of-Custody, Sedex SMETA |
 | Location | Foshan, Pearl River Delta, Guangdong, China |
-| Experience | 22 years (founded 2003); 350+ skilled workers |
+| Experience | 23 years (founded 2003); 350+ skilled workers |
 
 ## Quality Assurance
 
@@ -87,6 +87,6 @@ Hexagonal packaging demands precision that few manufacturers can deliver at scal
 - **Vertical Integration**: In-house foil stamping, embossing, die-cutting, and assembly under one roof eliminates multi-vendor coordination risk
 - **FSC Traceability**: Every shipment includes auditable chain-of-custody documentation — critical for eco-positioned tea brands marketing to EU and North American consumers
 
-**Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
+**Factory Facts:** Founded 2003 | 23 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
 
 **Shipping:** Delivered flat-packed to reduce freight volume by up to 65%. Each box assembles in seconds at the destination. Sea freight FOB Shenzhen/Yantian — 18–25 days to US West Coast, 25–35 days to EU ports. Air freight available for time-sensitive launches (3–5 days). MOQ starts at 500 units.

@@ -2,7 +2,7 @@
 title: "Custom Printed Corrugated Shipping Mailer Box with Tear Strip for E-Commerce"
 date: 2026-06-16
 draft: false
-description: "Custom Printed Corrugated Shipping Mailer Box with Tear Strip for E-Commerce — manufactured by Bincai Printing, 22-year ISO 9001 & FSC certified. E-flute/B-flute corrugated, full-color flexo or offset printing, easy-open tear strip, self-locking bottom. 18,000 sqm factory, BHS 2.5m corrugator line. MOQ 500. Subscription box, DTC shipping, and e-commerce fulfillment packaging."
+description: "Custom Printed Corrugated Shipping Mailer Box with Tear Strip for E-Commerce — manufactured by Bincai Printing, 23-year ISO 9001 & FSC certified. E-flute/B-flute corrugated, full-color flexo or offset printing, easy-open tear strip, self-locking bottom. 18,000 sqm factory, BHS 2.5m corrugator line. MOQ 500. Subscription box, DTC shipping, and e-commerce fulfillment packaging."
 keywords: "corrugated mailer box, shipping box, e-commerce packaging, tear strip box, custom printed mailer, subscription box, self-locking box, corrugated shipping, ISO 9001 FSC, Bincai Guangdong, BHS corrugator, e-flute mailer, direct to consumer packaging, DTC packaging, wholesale mailer box, OEM corrugated box China, custom shipping box, MOQ 500, eco-friendly mailer, retail ready packaging"
 categories: ["corrugated-mailers"]
 params:
@@ -21,7 +21,7 @@ tags:
 
 ![Bincai Corrugated Shipping Mailer Box](/images/corrugated-mailers.jpg)
 
-Custom printed corrugated shipping mailer box with integrated tear strip — engineered for e-commerce, subscription services, and direct-to-consumer (DTC) fulfillment. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** with 22 years of packaging expertise. The self-locking bottom eliminates the need for tape during assembly, while the easy-open tear strip provides a frustration-free unboxing experience that modern consumers expect. Full-color flexographic or offset printing on kraft or white-top liner transforms your shipping box into a branded marketing asset. Produced on our in-house BHS 2.5m corrugator line — one of the few packaging factories in Southern China with integrated corrugated board production. ISTA-tested for transit durability. 18,000 sqm factory in Foshan, Guangdong.
+Custom printed corrugated shipping mailer box with integrated tear strip — engineered for e-commerce, subscription services, and direct-to-consumer (DTC) fulfillment. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** with 23 years of packaging expertise. The self-locking bottom eliminates the need for tape during assembly, while the easy-open tear strip provides a frustration-free unboxing experience that modern consumers expect. Full-color flexographic or offset printing on kraft or white-top liner transforms your shipping box into a branded marketing asset. Produced on our in-house BHS 2.5m corrugator line — one of the few packaging factories in Southern China with integrated corrugated board production. ISTA-tested for transit durability. 18,000 sqm factory in Foshan, Guangdong.
 
 ## Applications
 - E-commerce product shipping and fulfillment packaging
@@ -51,7 +51,7 @@ Custom printed corrugated shipping mailer box with integrated tear strip — eng
 - Daily output: 1.7 million color boxes + 220,000+ rigid boxes
 - Factory: 18,000 sqm dual-facility (10,000+8,000 sqm smart factory)
 - Certifications: ISO 9001:2015, FSC Chain-of-Custody, ISTA transit testing
-- Experience: 22 years, serving 200+ global brands
+- Experience: 23 years, serving 200+ global brands
 - MOQ: 500 units with free pre-production samples
 - Lead time: 15-25 days
 
@@ -133,6 +133,6 @@ Most packaging factories in China buy corrugated board from third-party supplier
 - **Subscription Box Specialists** — We understand the subscription box business model: low MOQ for market testing, scalable production for growth, consistent quality across monthly shipments, and packaging that photographs well for Instagram unboxing videos.
 - **Scalable Output** — 1.7 million boxes daily capacity across 18,000 sqm factory; dedicated corrugated mailer production line for high-volume e-commerce fulfillment brands.
 
-**Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | BHS 2.5m Corrugator | KBA Rapida 1050 + Heidelberg Speedmaster XL 7+1 UV | Bobst SP 102 BMA | 1.7M boxes/day | ISO 9001:2015 & FSC Chain-of-Custody | ISTA Certified | Foshan, Guangdong, China.
+**Factory Facts:** Founded 2003 | 23 years | 18,000 sqm (10,000 + 8,000 smart factory) | BHS 2.5m Corrugator | KBA Rapida 1050 + Heidelberg Speedmaster XL 7+1 UV | Bobst SP 102 BMA | 1.7M boxes/day | ISO 9001:2015 & FSC Chain-of-Custody | ISTA Certified | Foshan, Guangdong, China.
 
 **Shipping:** Flat-packed mailers ship 5,000–15,000 per carton depending on size. Typical 40HQ container holds 50,000–150,000 flat mailer boxes. Lead time 15–25 days FOB Shenzhen/Guangzhou.

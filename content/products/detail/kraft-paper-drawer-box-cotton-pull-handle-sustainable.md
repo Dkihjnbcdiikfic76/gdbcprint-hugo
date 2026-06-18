@@ -2,7 +2,7 @@
 title: "Kraft Paper Drawer Box with Cotton Pull Handle for Sustainable Gift Packaging"
 date: 2026-06-10
 draft: false
-description: "Eco-friendly FSC-certified kraft paper drawer box with natural cotton pull handle for sustainable gift packaging. Soy-ink printed on KBA 1050 4-color press, fully recyclable and biodegradable. Manufactured by Guangdong Bincai Color Printing — 22 years experience, ISO 9001:2015 & FSC certified, 18,000 sqm factory (10,000+8,000 smart factory), Heidelberg 7+1 UV press, 1.7M boxes daily output, MOQ 500-1000."
+description: "Eco-friendly FSC-certified kraft paper drawer box with natural cotton pull handle for sustainable gift packaging. Soy-ink printed on KBA 1050 4-color press, fully recyclable and biodegradable. Manufactured by Guangdong Bincai Color Printing — 23 years experience, ISO 9001:2015 & FSC certified, 18,000 sqm factory (10,000+8,000 smart factory), Heidelberg 7+1 UV press, 1.7M boxes daily output, MOQ 500-1000."
 keywords: "kraft paper drawer box, eco-friendly gift packaging, sustainable paper box, cotton pull handle box, recyclable drawer box, FSC certified packaging, natural kraft box, biodegradable gift box, soy-ink printed packaging, sustainable drawer box manufacturer, kraft eco packaging China, Bincai Color Printing, Guangdong paper box factory, ISO 9001 eco packaging, wholesale sustainable gift box"
 categories: ["kraft-eco-boxes"]
 params:
@@ -14,7 +14,7 @@ params:
 
 ![Bincai Kraft Eco Boxes](/images/kraft-eco-box.jpg)
 
-Eco-friendly kraft paper drawer box with natural cotton pull handle — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). 18,000 sqm factory (10,000+8,000 smart factory) with KBA 1050 4-color and Heidelberg 7+1 UV presses. Daily output 1.7 million boxes.
+Eco-friendly kraft paper drawer box with natural cotton pull handle — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 23 years of experience (founded 2003). 18,000 sqm factory (10,000+8,000 smart factory) with KBA 1050 4-color and Heidelberg 7+1 UV presses. Daily output 1.7 million boxes.
 
 ## Applications
 

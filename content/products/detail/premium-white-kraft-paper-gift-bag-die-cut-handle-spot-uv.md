@@ -2,8 +2,8 @@
 title: "Premium White Kraft Paper Gift Bag with Die-Cut Handle and Spot UV Finish"
 date: 2026-06-14
 draft: false
-description: "Premium white kraft paper gift bag with die-cut handle and Spot UV finish by Guangdong Bincai Color Printing Co., Ltd. 200gsm white kraft with reinforced 80mm gusset, full CMYK offset printing on KBA Rapida 105 4-color press, and selective Spot UV gloss varnish. Die-cut integrated handle — no metal eyelets — fully recyclable. ISO 9001:2015 & FSC Chain-of-Custody certified. 18,000 sqm dual-factory (Foshan, China), 22 years since 2003, 1.7M boxes/bags daily output. Free pre-production samples in 5-7 days. MOQ 1,000-3,000 units. Ideal for retail boutiques, luxury shopping, corporate gifting, weddings, and cosmetics packaging."
-keywords: "white kraft paper bag, gift bag, die-cut handle bag, spot UV bag, retail paper bag, luxury shopping bag, custom paper bag, eco-friendly bag, Bincai, Made-in-China, custom gift bag, paper shopping bag, wholesale paper bag, kraft gift bag, branded paper bag, CMYK printed bag, sustainable packaging, recyclable bag, FSC certified bag, Guangdong manufacturer, Foshan supplier, KBA 1050 offset, Heidelberg 7+1 UV, ISO 9001 FSC, 18000 sqm factory, 22 years manufacturer, premium bag manufacturer, spot UV varnish, matte lamination bag, corporate gift bag, wedding favor bag, boutique packaging, retail packaging, OEM paper bag, flat fold bag, China paper bag export"
+description: "Premium white kraft paper gift bag with die-cut handle and Spot UV finish by Guangdong Bincai Color Printing Co., Ltd. 200gsm white kraft with reinforced 80mm gusset, full CMYK offset printing on KBA Rapida 105 4-color press, and selective Spot UV gloss varnish. Die-cut integrated handle — no metal eyelets — fully recyclable. ISO 9001:2015 & FSC Chain-of-Custody certified. 18,000 sqm dual-factory (Foshan, China), 23 years since 2003, 1.7M boxes/bags daily output. Free pre-production samples in 5-7 days. MOQ 1,000-3,000 units. Ideal for retail boutiques, luxury shopping, corporate gifting, weddings, and cosmetics packaging."
+keywords: "white kraft paper bag, gift bag, die-cut handle bag, spot UV bag, retail paper bag, luxury shopping bag, custom paper bag, eco-friendly bag, Bincai, Made-in-China, custom gift bag, paper shopping bag, wholesale paper bag, kraft gift bag, branded paper bag, CMYK printed bag, sustainable packaging, recyclable bag, FSC certified bag, Guangdong manufacturer, Foshan supplier, KBA 1050 offset, Heidelberg 7+1 UV, ISO 9001 FSC, 18000 sqm factory, 23 years manufacturer, premium bag manufacturer, spot UV varnish, matte lamination bag, corporate gift bag, wedding favor bag, boutique packaging, retail packaging, OEM paper bag, flat fold bag, China paper bag export"
 categories: ["paper-bags"]
 params:
   moq: "1000-3000"
@@ -84,7 +84,7 @@ Our premium white kraft paper gift bag combines eco-friendly materials with luxu
 
 ## Why Choose Bincai
 
-Guangdong Bincai Color Printing Co., Ltd. has manufactured premium paper bags for 22 years, combining eco-friendly materials with luxury finishing techniques that elevate brand perception. Our in-house die-making workshop produces custom handle and bag-shape dies without outsourcing delays, while the KBA 1050 4-color press ensures consistent color across runs of 1,000 to 100,000+ units. Flat-fold shipping reduces freight volume by 60-70%, cutting logistics costs for international buyers. FSC Chain-of-Custody certification supports brands with documented sustainability commitments, and ISO 9001:2015 guarantees audited quality at every production stage.
+Guangdong Bincai Color Printing Co., Ltd. has manufactured premium paper bags for 23 years, combining eco-friendly materials with luxury finishing techniques that elevate brand perception. Our in-house die-making workshop produces custom handle and bag-shape dies without outsourcing delays, while the KBA 1050 4-color press ensures consistent color across runs of 1,000 to 100,000+ units. Flat-fold shipping reduces freight volume by 60-70%, cutting logistics costs for international buyers. FSC Chain-of-Custody certification supports brands with documented sustainability commitments, and ISO 9001:2015 guarantees audited quality at every production stage.
 
 **The Bincai Difference:**
 - **Luxury Finishing on Kraft** — Spot UV gloss, matte lamination, hot foil, and embossing on eco-friendly kraft paper — premium aesthetics without plastic
@@ -92,7 +92,7 @@ Guangdong Bincai Color Printing Co., Ltd. has manufactured premium paper bags fo
 - **Factory-Direct Pricing** — no middlemen; 18,000 sqm facility, 1.7M daily output, competitive at all order volumes
 - **Sustainable & Compliant** — FSC certified, water-based adhesives, soy-based inks, full compliance documentation for EU/US import
 
-**Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001:2015 & FSC | Foshan, Guangdong, China
+**Factory Facts:** Founded 2003 | 23 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001:2015 & FSC | Foshan, Guangdong, China
 
 ## FAQ
 

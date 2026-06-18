@@ -59,7 +59,7 @@ The wood-grain embossing on the exterior wrap creates a tactile, premium feel wi
 | Factory | 18,000 sqm (10,000 + 8,000 smart factory), Foshan, Guangdong, China |
 | Certifications | ISO 9001:2015, FSC Chain-of-Custody, Sedex SMETA |
 | Daily Output | 1.7M boxes (220,000+ rigid boxes/day) |
-| Experience | 22 years (founded 2003), 350+ skilled workers |
+| Experience | 23 years (founded 2003), 350+ skilled workers |
 | MOQ | 500 units per design |
 | Sample Lead Time | 5–7 days (free pre-production samples) |
 | Production Lead Time | 12–15 days after sample approval |
@@ -108,9 +108,9 @@ The wood-grain embossing on the exterior wrap creates a tactile, premium feel wi
 
 Bincai's integrated rigid box line combines printing, embossing, die-cutting, foam fabrication, and magnetic closure assembly under one roof — eliminating the need for separate embossing, foam, and assembly vendors. Our 18,000 sqm Foshan facility with BHS 2.5m Corrugator and Bobst SP 102 BMA die-cutter provides end-to-end box production from raw board to finished product.
 
-With 22 years of rigid box manufacturing experience and a daily capacity of 220,000+ rigid boxes, Bincai delivers distillery-grade packaging at competitive export pricing. Our ISO 9001:2015 quality system and FSC Chain-of-Custody certification meet the documentation requirements of global spirit brands' ESG and compliance teams.
+With 23 years of rigid box manufacturing experience and a daily capacity of 220,000+ rigid boxes, Bincai delivers distillery-grade packaging at competitive export pricing. Our ISO 9001:2015 quality system and FSC Chain-of-Custody certification meet the documentation requirements of global spirit brands' ESG and compliance teams.
 
-**Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA Rapida 105 + Heidelberg Speedmaster CD 102 7+1 UV + BHS 2.5m Corrugator + Bobst SP 102 BMA | ISO 9001 & FSC | Foshan, Guangdong, China
+**Factory Facts:** Founded 2003 | 23 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA Rapida 105 + Heidelberg Speedmaster CD 102 7+1 UV + BHS 2.5m Corrugator + Bobst SP 102 BMA | ISO 9001 & FSC | Foshan, Guangdong, China
 
 **Shipping:** Flat-packed (lid + base + foam insert nested) — 50% freight volume savings vs. assembled. 24 units per master carton. FOB Shenzhen/Guangzhou/Hong Kong. Production 12–15 days + 18–25 days sea freight.
 

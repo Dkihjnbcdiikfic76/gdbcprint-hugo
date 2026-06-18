@@ -2,7 +2,7 @@
 title: "Premium Magnetic Rigid Box Single Door Custom Ribbon Tie"
 date: 2026-06-10
 draft: false
-description: "Custom single-door magnetic rigid box with satin ribbon tie closure. N42-grade concealed magnets provide reliable snap-closure — 2.0mm greyboard lid and base with 157gsm art paper wrap. Foil stamping, embossing, spot UV, and soft-touch lamination available. Manufactured by Bincai in Foshan Guangdong — 22 years experience, ISO 9001 & FSC certified. 18,000 sqm factory (10,000 + 8,000 smart factory 2025), daily output 1.7M boxes + 220K+ gift boxes. 15 QC checkpoints from greyboard inspection to finished pack-out. Free samples in 3-5 days. MOQ 500."
+description: "Custom single-door magnetic rigid box with satin ribbon tie closure. N42-grade concealed magnets provide reliable snap-closure — 2.0mm greyboard lid and base with 157gsm art paper wrap. Foil stamping, embossing, spot UV, and soft-touch lamination available. Manufactured by Bincai in Foshan Guangdong — 23 years experience, ISO 9001 & FSC certified. 18,000 sqm factory (10,000 + 8,000 smart factory 2025), daily output 1.7M boxes + 220K+ gift boxes. 15 QC checkpoints from greyboard inspection to finished pack-out. Free samples in 3-5 days. MOQ 500."
 keywords: "magnetic rigid box, single door gift box, ribbon tie closure box, luxury magnetic closure box, single-door rigid box, premium gift box wholesale, custom magnetic box manufacturer, Bincai magnetic box, Heidelberg printed magnetic box, FSC certified gift box, ISO 9001 rigid box, Guangdong gift box factory, foil stamped magnetic box, embossed logo gift box, satin ribbon box"
 categories: ["magnetic-closure-boxes"]
 params:
@@ -14,7 +14,7 @@ params:
 
 ![Bincai Magnetic Closure Boxes](/images/magnetic-closure-boxes.jpg)
 
-Elegant single-door magnetic rigid box with satin ribbon tie closure — a best-selling premium packaging format for luxury gifts, corporate incentives, and high-end retail. Manufactured by Guangdong Bincai Color Printing Co., Ltd., with 22 years of manufacturing experience, ISO 9001 & FSC certifications, and an 18,000 sqm factory (10,000+8,000 smart factory) running KBA 1050 and Heidelberg 7+1 UV presses.
+Elegant single-door magnetic rigid box with satin ribbon tie closure — a best-selling premium packaging format for luxury gifts, corporate incentives, and high-end retail. Manufactured by Guangdong Bincai Color Printing Co., Ltd., with 23 years of manufacturing experience, ISO 9001 & FSC certifications, and an 18,000 sqm factory (10,000+8,000 smart factory) running KBA 1050 and Heidelberg 7+1 UV presses.
 
 ## Applications
 Single-door magnetic boxes with ribbon tie add ceremony to the unboxing experience:
@@ -55,7 +55,7 @@ Single-door magnetic boxes with ribbon tie add ceremony to the unboxing experien
 - **Free pre-production sample** with full decoration — 5–7 working days turnaround
 
 ## Factory
-- 22 years of manufacturing excellence (founded 2003)
+- 23 years of manufacturing excellence (founded 2003)
 - 18,000 sqm integrated facility (10,000+8,000 smart factory, 2025)
 - 80+ skilled craftspeople across rigid box assembly, finishing, and QA
 - KBA 1050 4-color + Heidelberg 7+1 UV presses + full rigid box automation

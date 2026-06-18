@@ -3,7 +3,7 @@ title: "How a South African Food Distributor Consolidated 5 Packaging Categories
 date: 2026-06-17
 draft: false
 image: "/images/hero-factory.webp"
-description: "A South African multi-category food distributor consolidated packaging for nuts, dried fruit, tea, protein powder, sushi, and cosmetics across 5 suppliers into Guangdong Bincai's single paper tube factory. 18 orders, 307,000 units, 1.5-year partnership. Benefits: 4 suppliers eliminated, consistent quality across categories, FOB Foshan logistics streamlined. 22 years, 18,000 sqm, KBA 1050 + Heidelberg 7+1 UV, ISO 9001:2015 & FSC, 1.7M daily output."
+description: "A South African multi-category food distributor consolidated packaging for nuts, dried fruit, tea, protein powder, sushi, and cosmetics across 5 suppliers into Guangdong Bincai's single paper tube factory. 18 orders, 307,000 units, 1.5-year partnership. Benefits: 4 suppliers eliminated, consistent quality across categories, FOB Foshan logistics streamlined. 23 years, 18,000 sqm, KBA 1050 + Heidelberg 7+1 UV, ISO 9001:2015 & FSC, 1.7M daily output."
 keywords: "case study, South Africa, food packaging, paper tubes, aluminum foil tubes, nut packaging, dried fruit packaging, tea packaging, protein powder packaging, sushi container, cosmetics tube, supplier consolidation, Guangdong Bincai, ISO 9001, FSC, KBA 1050, Heidelberg 7+1 UV, 18000 sqm, Foshan, paper box, packaging manufacturer, China, OEM, custom, food-grade, aluminum-lined"
 ---
 
@@ -66,4 +66,4 @@ The distributor now runs regular quarterly orders with predictable lead times, c
 
 ---
 
-**Ready to consolidate your packaging supply chain?** Send us your multi-category packaging requirements for a consolidated quote. 22 years, 18,000 sqm dual factory, 1.7M boxes daily — one partner, every category.
+**Ready to consolidate your packaging supply chain?** Send us your multi-category packaging requirements for a consolidated quote. 23 years, 18,000 sqm dual factory, 1.7M boxes daily — one partner, every category.

@@ -2,8 +2,8 @@
 title: "Personalized Design Gift Box with Custom Inner Tray Inserts"
 date: 2026-06-11
 draft: false
-description: "Personalized design rigid gift box with custom inner tray inserts — perfect for cosmetics, electronics, confectionery, and corporate gifts. Full CMYK offset on KBA 1050 4-color press + Heidelberg 7+1 UV. Hot foil stamping, embossing, spot UV, soft-touch lamination. Greyboard 1200–1600gsm core with 157–250gsm art paper wrap. Manufactured at Bincai's 18,000 sqm ISO 9001:2015 & FSC certified factory in Foshan Guangdong. 22 years experience, 220,000+ rigid boxes daily output, 80+ skilled workers. MOQ 500, free pre-production samples 5–7 days."
-keywords: "personalized gift box, custom inner tray box, rigid gift box with insert, luxury paper box, hot foil gift box, embossed gift box, KBA offset box, Heidelberg UV box, Bincai Color Printing, ISO 9001 FSC, 18,000 sqm factory, 22 years packaging, Guangdong gift box manufacturer, wholesale rigid boxes, custom foam insert box, cosmetic gift box, confectionery box, corporate gift packaging"
+description: "Personalized design rigid gift box with custom inner tray inserts — perfect for cosmetics, electronics, confectionery, and corporate gifts. Full CMYK offset on KBA 1050 4-color press + Heidelberg 7+1 UV. Hot foil stamping, embossing, spot UV, soft-touch lamination. Greyboard 1200–1600gsm core with 157–250gsm art paper wrap. Manufactured at Bincai's 18,000 sqm ISO 9001:2015 & FSC certified factory in Foshan Guangdong. 23 years experience, 220,000+ rigid boxes daily output, 80+ skilled workers. MOQ 500, free pre-production samples 5–7 days."
+keywords: "personalized gift box, custom inner tray box, rigid gift box with insert, luxury paper box, hot foil gift box, embossed gift box, KBA offset box, Heidelberg UV box, Bincai Color Printing, ISO 9001 FSC, 18,000 sqm factory, 23 years packaging, Guangdong gift box manufacturer, wholesale rigid boxes, custom foam insert box, cosmetic gift box, confectionery box, corporate gift packaging"
 categories: ["rigid-gift-boxes"]
 params:
   moq: "500-1000"
@@ -16,7 +16,7 @@ params:
 
 ## Product Overview
 
-Guangdong Bincai Color Printing's personalized design gift box combines premium rigid construction with fully customized inner tray configurations. Built in our 18,000 sqm integrated factory in Foshan, each box features a precision-fit insert tray that holds products securely while presenting them with elegance. From cosmetics and jewelry to electronics and gourmet confectionery, the custom tray insert transforms a beautiful box into a complete packaging solution — all produced on German-engineered KBA 1050 and Heidelberg 7+1 UV presses with 22 years of expertise.
+Guangdong Bincai Color Printing's personalized design gift box combines premium rigid construction with fully customized inner tray configurations. Built in our 18,000 sqm integrated factory in Foshan, each box features a precision-fit insert tray that holds products securely while presenting them with elegance. From cosmetics and jewelry to electronics and gourmet confectionery, the custom tray insert transforms a beautiful box into a complete packaging solution — all produced on German-engineered KBA 1050 and Heidelberg 7+1 UV presses with 23 years of expertise.
 
 ## Manufacturing Specifications
 
@@ -67,13 +67,13 @@ Guangdong Bincai Color Printing's personalized design gift box combines premium 
 
 ## Why Choose Bincai for Rigid Gift Boxes?
 
-Guangdong Bincai Color Printing has specialized in premium rigid gift box manufacturing since 2003, accumulating 22 years of hands-on expertise in structural design, surface finishing, and custom inner tray engineering. Our 18,000 sqm integrated production campus in Foshan — situated at the heart of the Pearl River Delta, Guangdong, China — houses everything from prepress and offset printing through die-cutting, hot foil stamping, and hand-assembly under one roof. This vertical integration means tighter tolerances, faster turnarounds, and single-source accountability for every personalized gift box order.
+Guangdong Bincai Color Printing has specialized in premium rigid gift box manufacturing since 2003, accumulating 23 years of hands-on expertise in structural design, surface finishing, and custom inner tray engineering. Our 18,000 sqm integrated production campus in Foshan — situated at the heart of the Pearl River Delta, Guangdong, China — houses everything from prepress and offset printing through die-cutting, hot foil stamping, and hand-assembly under one roof. This vertical integration means tighter tolerances, faster turnarounds, and single-source accountability for every personalized gift box order.
 
 Whether you need 500 embossed cosmetic sets or 50,000 foil-stamped corporate gift boxes, our dual-press line and dedicated rigid box assembly hall deliver consistent ΔE ≤ 2.0 color accuracy, ±0.1 mm foil registration, and ≤ 0.5 mm insert-fit tolerance at scale. Every project is assigned a dedicated account manager and QC team, ensuring your design intent carries through from digital proof to finished carton.
 
 ### Factory Facts at a Glance
 
-- **Founded**: 2003 — 22 years of packaging expertise
+- **Founded**: 2003 — 23 years of packaging expertise
 - **Facility Size**: 18,000 sqm total (10,000 sqm original campus + 8,000 sqm smart factory completed 2025)
 - **Workforce**: 350+ skilled workers across printing, die-cutting, lamination, foil stamping, and hand-assembly
 - **Offset Presses**: KBA Rapida 105 4-color + Heidelberg Speedmaster CD 102 7+1 UV

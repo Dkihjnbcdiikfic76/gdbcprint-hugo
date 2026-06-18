@@ -2,8 +2,8 @@
 title: "Recycled Kraft Paper Gift Bag with Rope Handles Water-Based Ink Custom Print"
 date: 2026-06-16
 draft: false
-description: "Recycled Kraft Paper Gift Bag with Rope Handles by Guangdong Bincai Color Printing — Diamond Member on Made-in-China.com. ISO 9001 FSC certified. Manufactured by Guangdong Bincai Color Printing Co., Ltd. — 22 years experience (founded 2003), 18,000 sqm dual factory, ISO 9001:2015 & FSC certified, KBA 1050 4-color + Heidelberg 7+1 UV presses, daily output 1.7M boxes, serving 200+ global brands from Foshan, China."
-keywords: "recycled kraft paper bag, rope handle gift bag, water-based ink bag, eco-friendly paper bag, FSC recycled bag, custom printed paper bag, luxury retail paper bag, brand shopping bag, brown kraft gift bag, sustainable packaging bag, bulk paper bags wholesale, China paper bag manufacturer, ISO 9001 FSC paper bag, KBA offset printed bag, Heidelberg UV bag, 18,000 sqm factory, 22 years experience, Bincai Color Printing"
+description: "Recycled Kraft Paper Gift Bag with Rope Handles by Guangdong Bincai Color Printing — Diamond Member on Made-in-China.com. ISO 9001 FSC certified. Manufactured by Guangdong Bincai Color Printing Co., Ltd. — 23 years experience (founded 2003), 18,000 sqm dual factory, ISO 9001:2015 & FSC certified, KBA 1050 4-color + Heidelberg 7+1 UV presses, daily output 1.7M boxes, serving 200+ global brands from Foshan, China."
+keywords: "recycled kraft paper bag, rope handle gift bag, water-based ink bag, eco-friendly paper bag, FSC recycled bag, custom printed paper bag, luxury retail paper bag, brand shopping bag, brown kraft gift bag, sustainable packaging bag, bulk paper bags wholesale, China paper bag manufacturer, ISO 9001 FSC paper bag, KBA offset printed bag, Heidelberg UV bag, 18,000 sqm factory, 23 years experience, Bincai Color Printing"
 categories: ["paper-bags"]
 params:
   moq: "1000-3000"
@@ -14,7 +14,7 @@ params:
 
 ![Recycled Kraft Paper Gift Bag with Rope Handles](/images/cat-paper-bag.jpg)
 
-Eco-committed recycled kraft paper gift bag with natural rope handles — manufactured by **Guangdong Bincai Color Printing Co., Ltd.**, a full-chain packaging enterprise with 22 years of manufacturing expertise (founded 2003). Made from 100% post-consumer recycled (PCR) kraft paper (120–200gsm), this bag combines sustainability with premium retail aesthetics. The natural brown kraft base is printed with water-based inks — solvent-free, low-VOC, and fully biodegradable — using KBA 1050 4-color offset for crisp, vibrant branding. Twisted cotton or jute rope handles are knotted through reinforced brass or cardboard eyelets for durability up to 5kg load capacity. Optional matte lamination adds water resistance and a soft-touch premium feel. Produced across Bincai's 18,000 sqm dual factory (10,000+8,000 sqm smart factory) in Foshan, Guangdong. ISO 9001:2015 and FSC certified. Daily output 1.7 million boxes (bag line: 300,000+ bags/day). MOQ 1,000.
+Eco-committed recycled kraft paper gift bag with natural rope handles — manufactured by **Guangdong Bincai Color Printing Co., Ltd.**, a full-chain packaging enterprise with 23 years of manufacturing expertise (founded 2003). Made from 100% post-consumer recycled (PCR) kraft paper (120–200gsm), this bag combines sustainability with premium retail aesthetics. The natural brown kraft base is printed with water-based inks — solvent-free, low-VOC, and fully biodegradable — using KBA 1050 4-color offset for crisp, vibrant branding. Twisted cotton or jute rope handles are knotted through reinforced brass or cardboard eyelets for durability up to 5kg load capacity. Optional matte lamination adds water resistance and a soft-touch premium feel. Produced across Bincai's 18,000 sqm dual factory (10,000+8,000 sqm smart factory) in Foshan, Guangdong. ISO 9001:2015 and FSC certified. Daily output 1.7 million boxes (bag line: 300,000+ bags/day). MOQ 1,000.
 
 ## Applications
 - Retail boutique shopping bags for fashion, cosmetics, and jewelry
@@ -68,7 +68,7 @@ Eco-committed recycled kraft paper gift bag with natural rope handles — manufa
 **Q: Can you do rush orders?** A: Standard lead time is 15-20 working days. Rush orders (7-10 days) available at 1.3× standard pricing for quantities under 10,000 bags.
 
 ## Why Bincai
-- **22 years of packaging expertise** (founded 2003) — trusted by 200+ global brands
+- **23 years of packaging expertise** (founded 2003) — trusted by 200+ global brands
 - **18,000 sqm dual factory** (10,000 sqm original + 8,000 sqm smart factory) in Foshan, Guangdong
 - **300,000+ paper bags per day** on dedicated high-speed bag line
 - **100% PCR recycled + FSC certified** — full sustainability documentation

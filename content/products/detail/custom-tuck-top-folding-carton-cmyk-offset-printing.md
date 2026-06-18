@@ -2,8 +2,8 @@
 title: "Custom Tuck Top Folding Carton CMYK Offset Printing"
 date: 2026-06-16
 draft: false
-description: "Custom tuck-top folding carton with CMYK offset printing, Pantone spot colors, hot foil stamping, and spot UV — manufactured by Guangdong Bincai Color Printing Co., Ltd. (founded 2003, 22 years). Produced on KBA Rapida 1050 4-color and Heidelberg Speedmaster CD 102 7+1 UV presses across our 18,000 sqm dual-factory (10,000+8,000 sqm smart factory, 2025 expansion) in Foshan, China. ISO 9001:2015 and FSC Chain-of-Custody certified. Bobst SP 102 E autoplaten die-cutting at ±0.2mm. Bobst Mistral 110 folding-gluing line at 100,000 cartons/hour. Daily output 1.7 million boxes. MOQ 500 units with free pre-production samples in 5–7 working days. Ideal for cosmetics, food, electronics, apparel, and pharmaceutical retail packaging."
-keywords: "tuck top folding carton, custom folding carton, CMYK offset printing box, Pantone spot color box, hot foil stamping box, spot UV packaging, retail display carton, folding carton factory China, ISO 9001 FSC packaging, Bincai Color Printing, Guangdong packaging manufacturer, custom tuck-top box, retail folding carton wholesale, KBA Rapida 1050 offset box, Heidelberg 7+1 UV carton, Bobst die cutting carton, 18,000 sqm folding carton factory, 22 years box manufacturing, 1.7M daily cartons, Foshan packaging factory, MOQ 500 folding carton, OEM folding carton China, aqueous coating box, soft-touch carton, cosmetic folding carton, electronics packaging carton, food folding carton, FSC chain of custody box, soy-based ink box, Bincai Guangdong"
+description: "Custom tuck-top folding carton with CMYK offset printing, Pantone spot colors, hot foil stamping, and spot UV — manufactured by Guangdong Bincai Color Printing Co., Ltd. (founded 2003, 23 years). Produced on KBA Rapida 1050 4-color and Heidelberg Speedmaster CD 102 7+1 UV presses across our 18,000 sqm dual-factory (10,000+8,000 sqm smart factory, 2025 expansion) in Foshan, China. ISO 9001:2015 and FSC Chain-of-Custody certified. Bobst SP 102 E autoplaten die-cutting at ±0.2mm. Bobst Mistral 110 folding-gluing line at 100,000 cartons/hour. Daily output 1.7 million boxes. MOQ 500 units with free pre-production samples in 5–7 working days. Ideal for cosmetics, food, electronics, apparel, and pharmaceutical retail packaging."
+keywords: "tuck top folding carton, custom folding carton, CMYK offset printing box, Pantone spot color box, hot foil stamping box, spot UV packaging, retail display carton, folding carton factory China, ISO 9001 FSC packaging, Bincai Color Printing, Guangdong packaging manufacturer, custom tuck-top box, retail folding carton wholesale, KBA Rapida 1050 offset box, Heidelberg 7+1 UV carton, Bobst die cutting carton, 18,000 sqm folding carton factory, 23 years box manufacturing, 1.7M daily cartons, Foshan packaging factory, MOQ 500 folding carton, OEM folding carton China, aqueous coating box, soft-touch carton, cosmetic folding carton, electronics packaging carton, food folding carton, FSC chain of custody box, soy-based ink box, Bincai Guangdong"
 categories: ["folding-cartons"]
 params:
   moq: "500-1000"
@@ -14,7 +14,7 @@ params:
 
 ![Bincai Folding Cartons](/images/folding-cartons.jpg)
 
-The custom tuck-top folding carton is the workhorse of retail packaging — produced by **Guangdong Bincai Color Printing Co., Ltd.** (founded 2003, 22 years) on KBA Rapida 1050 4-color and Heidelberg Speedmaster CD 102 7+1 UV presses at our 18,000 sqm Foshan facility. The classic tuck-top closure provides secure product containment with effortless consumer opening, while the full CMYK offset printing and premium finishing options transform a simple carton into a brand billboard. Bobst SP 102 E autoplaten die-cutting (±0.2mm) and Bobst Mistral 110 folding-gluing (100,000 cartons/hour) ensure precision and speed. ISO 9001:2015 and FSC Chain-of-Custody certified, with daily output of 1.7 million boxes. MOQ 500 units.
+The custom tuck-top folding carton is the workhorse of retail packaging — produced by **Guangdong Bincai Color Printing Co., Ltd.** (founded 2003, 23 years) on KBA Rapida 1050 4-color and Heidelberg Speedmaster CD 102 7+1 UV presses at our 18,000 sqm Foshan facility. The classic tuck-top closure provides secure product containment with effortless consumer opening, while the full CMYK offset printing and premium finishing options transform a simple carton into a brand billboard. Bobst SP 102 E autoplaten die-cutting (±0.2mm) and Bobst Mistral 110 folding-gluing (100,000 cartons/hour) ensure precision and speed. ISO 9001:2015 and FSC Chain-of-Custody certified, with daily output of 1.7 million boxes. MOQ 500 units.
 
 ## Applications
 
@@ -94,7 +94,7 @@ The tuck-top friction closure is reliable up to ~200g product weight. Above that
 
 | Factor | Industry Average | Bincai |
 |---|---|---|
-| Years in Business | 5–10 years | 22 years (since 2003) |
+| Years in Business | 5–10 years | 23 years (since 2003) |
 | Factory Size | 2,000–5,000 sqm | 18,000 sqm dual-factory |
 | Presses | 1–2 mid-range | KBA 1050 + Heidelberg CD 102 7+1 UV |
 | Die-Cutting | ±0.5mm typical | ±0.2mm (Bobst SP 102 E) |
@@ -142,7 +142,7 @@ A: Yes. Our MOQ of 500 units allows for seasonal packaging runs (Christmas, Vale
 
 ## Manufacturing Excellence at Bincai
 
-Every folding carton is produced in our **18,000 sqm ISO 9001 & FSC-certified facility** with **22 years** of packaging mastery:
+Every folding carton is produced in our **18,000 sqm ISO 9001 & FSC-certified facility** with **23 years** of packaging mastery:
 
 - **KBA Rapida 105 4-color offset** — 15,000 sheets/hour, ±0.1mm registration, inline spectrophotometry
 - **Heidelberg Speedmaster CD 102 7+1 UV** — 7 colors + inline UV coating in a single pass, 15,000 sheets/hour
@@ -152,6 +152,6 @@ Every folding carton is produced in our **18,000 sqm ISO 9001 & FSC-certified fa
 - **X-Rite IntelliTrax** — automated scanning spectrophotometry, full-sheet color bar analysis in 15 seconds
 - **Daily output: 1.7M boxes** — ensuring on-time delivery for brands across 60+ countries
 
-**Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg CD 102 7+1 UV | Bobst SP 102 E + SP 102 BMA + Mistral 110 | ISO 9001:2015 & FSC Chain-of-Custody | Foshan, Guangdong, China
+**Factory Facts:** Founded 2003 | 23 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg CD 102 7+1 UV | Bobst SP 102 E + SP 102 BMA + Mistral 110 | ISO 9001:2015 & FSC Chain-of-Custody | Foshan, Guangdong, China
 
 **Shipping & Logistics:** Folding cartons ship flat — maximizing container utilization at 80%+ volume reduction vs. pre-assembled. Standard sea freight 18–25 days to US/EU ports (FOB Yantian/Shenzhen). Air freight available for urgent orders (5–7 days). Palletized packaging with corner boards and stretch wrap. Minimum order 500 units; lead time 7–10 working days new tooling, 5–7 days repeats.

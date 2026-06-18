@@ -2,7 +2,7 @@
 title: "Magnetic Closure Hexagonal Tea Chest Gift Box with 6 Compartment Foam Insert"
 date: 2026-06-14
 draft: false
-description: "Magnetic closure hexagonal tea chest gift box with 6-compartment custom foam insert — premium tea sampler presentation, rigid greyboard with satin lining, gold foil embossing. Manufactured by Guangdong Bincai Color Printing Co., Ltd. — 22 years experience (founded 2003), 18,000 sqm factory, ISO 9001 & FSC certified, KBA 1050 4-color + Heidelberg 7+1 UV presses, daily output 1.7M boxes. Ideal for premium tea brands, corporate gift sets, luxury confectionery, and high-end retail samplers."
+description: "Magnetic closure hexagonal tea chest gift box with 6-compartment custom foam insert — premium tea sampler presentation, rigid greyboard with satin lining, gold foil embossing. Manufactured by Guangdong Bincai Color Printing Co., Ltd. — 23 years experience (founded 2003), 18,000 sqm factory, ISO 9001 & FSC certified, KBA 1050 4-color + Heidelberg 7+1 UV presses, daily output 1.7M boxes. Ideal for premium tea brands, corporate gift sets, luxury confectionery, and high-end retail samplers."
 keywords: "hexagonal tea chest gift box, magnetic closure tea box, 6 compartment tea box, premium tea packaging, custom foam insert box, tea sampler gift box, luxury tea presentation box, rigid magnetic box China, Bincai gift box manufacturer, Guangdong packaging factory, ISO 9001 FSC certified, KBA 1050 offset, Heidelberg 7+1 UV, 18,000 sqm, 1.7M daily output, corporate tea gift, hexagonal gift box OEM, tea chest with foam insert"
 categories: ["magnetic-closure-boxes"]
 params:
@@ -65,7 +65,7 @@ Hexagonal magnetic closure tea chest gift box with 6-compartment custom foam ins
 - MOQ 500–1000 units; trial orders and OEM/ODM accepted
 
 ## Factory
-- 22 years of manufacturing excellence since 2003
+- 23 years of manufacturing excellence since 2003
 - Dual factories: 10,000 sqm main + 8,000 sqm smart factory in Foshan, Pearl River Delta
 - 500+ skilled workers across 3 shifts
 - ISO 9001:2015 certified quality management system

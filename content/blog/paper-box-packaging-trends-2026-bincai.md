@@ -9,7 +9,7 @@ description: "The 6 paper box packaging trends reshaping B2B procurement in 2026
 
 ![Bincai Custom Paper Box Manufacturing — Factory & Production](/images/hero-banner-wide.webp)
 
-After 22 years manufacturing paper boxes for brands across 40+ countries, we've learned one thing: the packaging that won shelf space in 2020 won't win it in 2026. Global brands aren't just asking for "a box" anymore — they're demanding packaging that tells a sustainability story, integrates with digital experiences, ships flat to cut freight costs, and arrives looking as premium as a department store display.
+After 23 years manufacturing paper boxes for brands across 40+ countries, we've learned one thing: the packaging that won shelf space in 2020 won't win it in 2026. Global brands aren't just asking for "a box" anymore — they're demanding packaging that tells a sustainability story, integrates with digital experiences, ships flat to cut freight costs, and arrives looking as premium as a department store display.
 
 Here are the six paper box trends defining B2B packaging procurement in 2026 — and how Bincai's 18,000 sqm factory (10,000+8,000 smart factory) is built to deliver every one of them.
 
@@ -112,7 +112,7 @@ Trends are only as good as the manufacturer's ability to execute them. Here's wh
 
 | Capability | What It Enables |
 |---|---|
-| **22 years of manufacturing** | Institutional knowledge — we've seen trends come and go, and we know which ones stick |
+| **23 years of manufacturing** | Institutional knowledge — we've seen trends come and go, and we know which ones stick |
 | **ISO 9001 & FSC certified** | Compliance with EU and North American retail standards from day one |
 | **18,000 sqm factory (10,000+8,000 smart factory)** | Scale to handle trend-driven demand spikes without sacrificing quality |
 | **KBA 1050 + Heidelberg 7+1 UV** | Print precision for QR codes, VDP, and the subtle finishes luxury trends demand |
@@ -128,6 +128,6 @@ The brands winning in 2026 aren't choosing between sustainability and luxury, or
 
 ---
 
-*Guangdong Bincai Color Printing Co., Ltd. — 22 years of paper box manufacturing. ISO 9001:2015 certified. FSC Chain-of-Custody certified. 18,000 sqm factory (10,000+8,000 smart factory). Serving brands in 40+ countries.*
+*Guangdong Bincai Color Printing Co., Ltd. — 23 years of paper box manufacturing. ISO 9001:2015 certified. FSC Chain-of-Custody certified. 18,000 sqm factory (10,000+8,000 smart factory). Serving brands in 40+ countries.*
 
 <a href="https://bincaipaperbox.en.made-in-china.com/" target="_blank" rel="noopener" class="btn-mic">View Full Catalog on Made-in-China.com →</a>

@@ -3,7 +3,7 @@ title: "Kraft Paper Shopping Bag with Twisted Paper Handles and Spot UV Logo —
 date: 2026-06-15
 draft: false
 description: "Kraft paper shopping bag with twisted paper handles, reinforced gusset base, and custom spot UV or foil-stamped logo by Guangdong Bincai Color Printing Co., Ltd. (founded 2003). Manufactured in our 18,000 sqm dual-factory in Foshan, China, using KBA Rapida 105 4-color offset and Heidelberg Speedmaster CD 102 7+1 UV presses. ISO 9001:2015 and FSC Chain-of-Custody certified. Daily output 1.7 million boxes. Available in multiple sizes and kraft grades with custom branding, reinforced bottom board, and biodegradable construction. Ideal for boutique retail, fashion brands, artisan food stores, trade show giveaways, and eco-conscious brand packaging. MOQ 500. Free pre-production samples in 5-7 working days."
-keywords: "kraft paper shopping bag, twisted paper handle bag, premium retail paper bag, custom logo shopping bag, spot UV paper bag, eco-friendly retail bag, kraft shopping bag wholesale, Bincai Color Printing, Guangdong box manufacturer, 22 years manufacturing, ISO 9001 certified, FSC certified packaging, KBA 1050 offset, Heidelberg 7+1 UV, 18,000 sqm factory, 1.7M daily output, OEM paper bag China, Foshan Guangdong packaging, wholesale paper shopping bag, boutique retail packaging, fashion brand paper bag, trade show paper bag, eco retail bag, recycled kraft bag, biodegradable shopping bag, custom branded paper bag, reinforced bottom bag, paper bag with twisted handles, retail store bag, made in China paper bag, Diamond Supplier MIC"
+keywords: "kraft paper shopping bag, twisted paper handle bag, premium retail paper bag, custom logo shopping bag, spot UV paper bag, eco-friendly retail bag, kraft shopping bag wholesale, Bincai Color Printing, Guangdong box manufacturer, 23 years manufacturing, ISO 9001 certified, FSC certified packaging, KBA 1050 offset, Heidelberg 7+1 UV, 18,000 sqm factory, 1.7M daily output, OEM paper bag China, Foshan Guangdong packaging, wholesale paper shopping bag, boutique retail packaging, fashion brand paper bag, trade show paper bag, eco retail bag, recycled kraft bag, biodegradable shopping bag, custom branded paper bag, reinforced bottom bag, paper bag with twisted handles, retail store bag, made in China paper bag, Diamond Supplier MIC"
 categories: ["paper-bags"]
 params:
   moq: "500-1000"
@@ -100,7 +100,7 @@ Manufactured in our 18,000 sqm dual-factory in Foshan, Guangdong, each bag is pr
 
 ## Why Choose Bincai for Paper Shopping Bags
 
-- **22 years of premium packaging expertise** — established 2003, trusted by retail brands across 60+ countries for branded shopping bags
+- **23 years of premium packaging expertise** — established 2003, trusted by retail brands across 60+ countries for branded shopping bags
 - **18,000 sqm integrated facility** — 10,000 sqm main plant + 8,000 sqm smart factory (2025 expansion) with a dedicated paper bag production line
 - **KBA 1050 4-color offset + Heidelberg 7+1 UV** — full-color brand graphics with spot UV logo for premium retail impact
 - **100% plastic-free construction** — kraft body + twisted paper handles + cardboard base, fully recyclable and repulpable
@@ -109,7 +109,7 @@ Manufactured in our 18,000 sqm dual-factory in Foshan, Guangdong, each bag is pr
 - **MOQ 500** — startup-friendly minimums with free pre-production samples in 5–7 working days
 - **Flat-packed shipping** — bags ship flat, reducing freight volume by 80%+ vs. pre-assembled boxes
 
-**Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
+**Factory Facts:** Founded 2003 | 23 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
 
 ## FAQ
 

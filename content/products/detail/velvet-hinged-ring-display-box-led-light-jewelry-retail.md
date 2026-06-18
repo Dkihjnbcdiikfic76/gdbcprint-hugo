@@ -2,7 +2,7 @@
 title: "Velvet Hinged Ring Display Box with LED Light Jewelry Retail"
 date: 2026-06-15
 draft: false
-description: "Velvet Hinged Ring Display Box with LED Light Jewelry Retail — custom manufactured by Bincai Printing, 22-year ISO 9001 & FSC certified paper box factory. Velvet-wrapped hinged ring display box with automatic LED illumination by Guangdong Bincai Color Printing Co., Ltd. — 22 years of manufacturing excellence since 2003. Produced on KBA 1050 4-color and Heidelberg 7+1 UV presses across our 18,000 sqm factory (10,000+8,000 sqm smart factory, 2025 expansion). ISO 9001:2015 and FSC certified. Daily output of 1.7 million color boxes plus 220,000+ gift boxes. MOQ 500 units with free pre-production samples. Custom velvet colors, LED color temperatures, die-cut foam inserts, gold foil logo branding, and satin ribbon hinges for jewelry retail stores and wholesale jewelry packaging. Heidelberg 7+1 UV offset printing, 10,000 sqm facility, daily output 1.5M boxes."
+description: "Velvet Hinged Ring Display Box with LED Light Jewelry Retail — custom manufactured by Bincai Printing, 23-year ISO 9001 & FSC certified paper box factory. Velvet-wrapped hinged ring display box with automatic LED illumination by Guangdong Bincai Color Printing Co., Ltd. — 23 years of manufacturing excellence since 2003. Produced on KBA 1050 4-color and Heidelberg 7+1 UV presses across our 18,000 sqm factory (10,000+8,000 sqm smart factory, 2025 expansion). ISO 9001:2015 and FSC certified. Daily output of 1.7 million color boxes plus 220,000+ gift boxes. MOQ 500 units with free pre-production samples. Custom velvet colors, LED color temperatures, die-cut foam inserts, gold foil logo branding, and satin ribbon hinges for jewelry retail stores and wholesale jewelry packaging. Heidelberg 7+1 UV offset printing, 10,000 sqm facility, daily output 1.5M boxes."
 keywords: "ring display box, jewelry box, LED ring box, velvet jewelry box, hinged ring box, custom jewelry packaging China, ISO 9001 FSC jewelry box, Bincai Guangdong, ring presentation box, LED display box, jewelry retail box, wholesale ring box, OEM jewelry packaging, MOQ 500 jewelry box, velvet display box, engagement ring box, wedding ring packaging, luxury jewelry box, Guangdong packaging factory, custom jewelry box, LED illuminated box, ring gift box, jewelry store packaging, hinged display box"
 categories: ["jewelry-boxes"]
 params:
@@ -20,7 +20,7 @@ tags:
 
 ![Bincai Jewelry Box](/images/cat-rigid-jewelry.jpg)
 
-Velvet hinged ring display box with automatic LED illumination for jewelry retail stores by Guangdong Bincai Color Printing Co., Ltd. — a Diamond Member on Made-in-China.com with 22 years of manufacturing excellence (founded 2003). The integrated LED module activates when the lid opens, casting a focused warm light onto the ring for maximum visual impact at point of sale. The plush velvet interior cradles the ring securely while preventing scratches and tarnish. Produced on KBA 1050 4-color and Heidelberg 7+1 UV presses across our 18,000 sqm facility (10,000+8,000 smart factory) (2025 expansion). Daily output: 1.7 million color boxes + 220,000+ gift boxes.
+Velvet hinged ring display box with automatic LED illumination for jewelry retail stores by Guangdong Bincai Color Printing Co., Ltd. — a Diamond Member on Made-in-China.com with 23 years of manufacturing excellence (founded 2003). The integrated LED module activates when the lid opens, casting a focused warm light onto the ring for maximum visual impact at point of sale. The plush velvet interior cradles the ring securely while preventing scratches and tarnish. Produced on KBA 1050 4-color and Heidelberg 7+1 UV presses across our 18,000 sqm facility (10,000+8,000 smart factory) (2025 expansion). Daily output: 1.7 million color boxes + 220,000+ gift boxes.
 
 ## Applications
 - Engagement ring and wedding band retail presentation
@@ -62,7 +62,7 @@ Velvet hinged ring display box with automatic LED illumination for jewelry retai
 - Ships flat with LED module pre-installed for simple final assembly
 
 ## Factory
-- 22 years of manufacturing excellence since 2003
+- 23 years of manufacturing excellence since 2003
 - 18,000 sqm factory (10,000+8,000 smart factory)
 - 80+ skilled employees across design, prepress, printing, and finishing
 - KBA 1050 4-color + Heidelberg 7+1 UV presses
@@ -86,7 +86,7 @@ A: MOQ is 500 units for fully custom designs (custom size, custom velvet color, 
 
 ## Manufacturing Excellence at Bincai
 
-Every box is produced in our **10,000 sqm ISO 9001 & FSC-certified facility** with **22 years** of packaging mastery. Our production line features:
+Every box is produced in our **10,000 sqm ISO 9001 & FSC-certified facility** with **23 years** of packaging mastery. Our production line features:
 
 - **Heidelberg Speedmaster XL 7+1 UV** — 7-color offset with inline UV coating, 18,000 sheets/hour
 - **KBA Rapida 105 4-color** — high-speed offset for medium-to-long runs

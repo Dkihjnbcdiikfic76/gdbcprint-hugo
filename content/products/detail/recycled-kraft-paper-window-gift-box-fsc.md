@@ -2,7 +2,7 @@
 title: "Recycled Kraft Paper Window Gift Box with FSC Certification"
 date: 2026-06-11
 draft: false
-description: "Recycled kraft paper window gift box with FSC Chain-of-Custody certification. 350gsm recycled kraft, PET or compostable PLA window, soy-based ink printing. Ideal for organic food, candles, natural cosmetics, artisan chocolates, tea. Manufactured by Guangdong Bincai Color Printing — 22 years, 18,000 sqm, 1.7M daily output, ISO 9001 & FSC certified. MOQ 500."
+description: "Recycled kraft paper window gift box with FSC Chain-of-Custody certification. 350gsm recycled kraft, PET or compostable PLA window, soy-based ink printing. Ideal for organic food, candles, natural cosmetics, artisan chocolates, tea. Manufactured by Guangdong Bincai Color Printing — 23 years, 18,000 sqm, 1.7M daily output, ISO 9001 & FSC certified. MOQ 500."
 keywords: "kraft window box, recycled gift box, FSC certified packaging, window gift box, eco packaging, organic food box, candle packaging, natural cosmetic box, tea gift box, artisan chocolate box, soy ink printing, PLA window, sustainable packaging, Bincai kraft box, Guangdong eco packaging manufacturer"
 categories: ["kraft-eco-boxes"]
 params:

@@ -2,7 +2,7 @@
 title: "Custom Printed Corrugated Subscription Box — Full-Color Wrap with Tear Strip & Self-Locking Base"
 date: 2026-06-14
 draft: false
-description: "Custom printed corrugated subscription box with full-color litho-laminated wrap, integrated tear strip for easy opening, and self-locking crash-lock bottom. Single-wall B-flute construction with water-based CMYK printing. Manufactured by Guangdong Bincai Color Printing Co., Ltd. — 22 years experience, 18,000 sqm factory, ISO 9001 & FSC certified, KBA 1050 4-color + Heidelberg 7+1 UV presses, daily output 1.7M boxes. Designed for DTC subscription brands, meal kits, beauty boxes, and monthly curation services."
+description: "Custom printed corrugated subscription box with full-color litho-laminated wrap, integrated tear strip for easy opening, and self-locking crash-lock bottom. Single-wall B-flute construction with water-based CMYK printing. Manufactured by Guangdong Bincai Color Printing Co., Ltd. — 23 years experience, 18,000 sqm factory, ISO 9001 & FSC certified, KBA 1050 4-color + Heidelberg 7+1 UV presses, daily output 1.7M boxes. Designed for DTC subscription brands, meal kits, beauty boxes, and monthly curation services."
 keywords: "subscription box, custom printed corrugated box, full-color mailer, tear strip box, self-locking bottom box, DTC packaging, beauty subscription box, meal kit box, ecommerce subscription packaging, China corrugated box manufacturer, Bincai mailer, Guangdong subscription box, ISO 9001 FSC, litho-laminated box, 1.7M daily output, branded subscription packaging"
 categories: ["corrugated-mailers"]
 params:
@@ -129,7 +129,7 @@ A: Structural design: 2-3 days. Digital proof: 1-2 days. Pre-production sample: 
 A: Yes. We use inline spectrophotometers on our Heidelberg presses — maintaining Delta E ≤2.0 color consistency. We can match any Pantone solid coated or uncoated color, and provide color drawdowns for approval before production.
 
 ## Factory
-- 22 years of manufacturing excellence since 2003
+- 23 years of manufacturing excellence since 2003
 - Dual factories: 10,000 sqm main + 8,000 sqm smart factory in Foshan, Pearl River Delta
 - 500+ skilled workers across 3 shifts
 - ISO 9001:2015 certified quality management system

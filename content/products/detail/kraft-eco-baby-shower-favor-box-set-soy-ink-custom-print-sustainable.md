@@ -2,7 +2,7 @@
 title: "Kraft Eco-Friendly Baby Shower Favor Box Set Soy Ink Custom Print Sustainable"
 date: 2026-06-15
 draft: false
-description: "Kraft eco-friendly baby shower favor box set with soy-based ink custom printing, jute twine closure, and biodegradable construction. Manufactured by Bincai: 100% recycled kraft paperboard 250-400gsm, soy-based offset ink, water-based adhesives, jute twine handle, 10,000+8,000sqm dual factory, 22 years experience, ISO 9001:2015 & FSC certified, 1.7M daily output, 80+ workers. MOQ 500. Free pre-production samples 5-7 days."
+description: "Kraft eco-friendly baby shower favor box set with soy-based ink custom printing, jute twine closure, and biodegradable construction. Manufactured by Bincai: 100% recycled kraft paperboard 250-400gsm, soy-based offset ink, water-based adhesives, jute twine handle, 10,000+8,000sqm dual factory, 23 years experience, ISO 9001:2015 & FSC certified, 1.7M daily output, 80+ workers. MOQ 500. Free pre-production samples 5-7 days."
 keywords: "baby shower favor box, kraft eco box, sustainable party favor packaging, soy ink printed box, biodegradable gift box, eco-friendly party box, recycled kraft box, jute twine box, custom baby shower packaging, Bincai, Guangdong packaging factory, ISO 9001 FSC box, compostable favor box, zero waste party packaging"
 categories: ["kraft-eco-boxes"]
 params:
@@ -14,7 +14,7 @@ params:
 
 ![Bincai Kraft Eco Boxes](/images/kraft-eco-box.jpg)
 
-Kraft eco-friendly baby shower favor box set with soy-based ink custom printing — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). Made from 100% recycled kraft paperboard and printed with soy-based inks, these favor boxes are fully biodegradable and compostable — the perfect choice for eco-conscious celebrations. The natural kraft finish with jute twine closure creates a rustic, handcrafted aesthetic that resonates with today's sustainability-minded consumers. KBA 1050 4-color and Heidelberg 7+1 UV presses deliver precision printing across 18,000 sqm factory (10,000+8,000 smart factory). Daily output 1.7 million boxes.
+Kraft eco-friendly baby shower favor box set with soy-based ink custom printing — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 23 years of experience (founded 2003). Made from 100% recycled kraft paperboard and printed with soy-based inks, these favor boxes are fully biodegradable and compostable — the perfect choice for eco-conscious celebrations. The natural kraft finish with jute twine closure creates a rustic, handcrafted aesthetic that resonates with today's sustainability-minded consumers. KBA 1050 4-color and Heidelberg 7+1 UV presses deliver precision printing across 18,000 sqm factory (10,000+8,000 smart factory). Daily output 1.7 million boxes.
 
 ## Applications
 - Baby shower favor and gift packaging
@@ -55,7 +55,7 @@ Kraft eco-friendly baby shower favor box set with soy-based ink custom printing 
 - MOQ 500–1000 units, trial orders and OEM/ODM accepted
 
 ## Factory
-- 22 years of manufacturing excellence since 2003
+- 23 years of manufacturing excellence since 2003
 - 18,000 sqm factory (10,000+8,000 smart factory)
 - 80+ skilled employees across design, prepress, printing, and finishing
 - KBA 1050 4-color + Heidelberg 7+1 UV presses
@@ -78,7 +78,7 @@ A: Our standard MOQ is 500 units per design. However, for baby showers and small
 
 When you partner with Bincai, you're choosing a packaging manufacturer with the scale, certification, and technical capability to deliver consistent quality at competitive pricing:
 
-- **22 Years of Manufacturing Excellence** — Founded in 2003, Bincai has spent over two decades refining eco-friendly packaging production. Our experience spans kraft, recycled, and sustainable packaging across retail, events, and corporate gifting, giving us deep cross-industry knowledge that benefits every project.
+- **23 Years of Manufacturing Excellence** — Founded in 2003, Bincai has spent over two decades refining eco-friendly packaging production. Our experience spans kraft, recycled, and sustainable packaging across retail, events, and corporate gifting, giving us deep cross-industry knowledge that benefits every project.
 
 - **18,000 sqm Dual Factory** — Our campus includes a 10,000 sqm primary production facility plus an 8,000 sqm smart factory. This dual-site layout provides production redundancy, parallel order processing, and the capacity to handle rush orders without disrupting ongoing production.
 

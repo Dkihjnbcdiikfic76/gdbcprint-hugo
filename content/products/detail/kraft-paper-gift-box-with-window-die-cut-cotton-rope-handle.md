@@ -2,8 +2,8 @@
 title: "Kraft Paper Gift Box with Die-Cut Window and Cotton Rope Handle"
 date: 2026-06-10
 draft: false
-description: "Eco-friendly kraft paper gift box with precision die-cut display window and natural cotton rope handle — 100% recyclable, FSC CoC certified board, soy-based ink printing, starch-based adhesive. Manufactured by Guangdong Bincai Color Printing — 22 years since 2003, ISO 9001:2015 certified. 18,000 sqm (10,000+8,000 smart factory 2025) with KBA Rapida 105 4-color + Heidelberg Speedmaster CD 102 7+1 UV. Zero plastic construction, compostable in 90 days. 1.7M boxes daily. MOQ 500."
-keywords: "kraft paper gift box, die-cut window box, cotton rope handle box, eco-friendly gift box, sustainable packaging box, recyclable paper box, FSC certified box, soy ink packaging, kraft window box, eco gift box manufacturer China, ISO 9001 FSC packaging, Bincai Color Printing, natural kraft gift packaging, KBA Rapida 105 kraft box, Heidelberg 7+1 UV kraft box, zero plastic box, compostable gift box, starch adhesive box, 22 years Guangdong factory, 18,000 sqm eco factory, 1.7M daily boxes, Foshan sustainable packaging, organic product packaging, artisan gift box, handmade soap box, farm-to-table packaging, zero waste packaging, FSC CoC kraft box, eco wedding favor box, wholesale kraft gift box China, recycled paperboard box, cotton rope handle box, sustainable retail packaging, OEM eco box manufacturer"
+description: "Eco-friendly kraft paper gift box with precision die-cut display window and natural cotton rope handle — 100% recyclable, FSC CoC certified board, soy-based ink printing, starch-based adhesive. Manufactured by Guangdong Bincai Color Printing — 23 years since 2003, ISO 9001:2015 certified. 18,000 sqm (10,000+8,000 smart factory 2025) with KBA Rapida 105 4-color + Heidelberg Speedmaster CD 102 7+1 UV. Zero plastic construction, compostable in 90 days. 1.7M boxes daily. MOQ 500."
+keywords: "kraft paper gift box, die-cut window box, cotton rope handle box, eco-friendly gift box, sustainable packaging box, recyclable paper box, FSC certified box, soy ink packaging, kraft window box, eco gift box manufacturer China, ISO 9001 FSC packaging, Bincai Color Printing, natural kraft gift packaging, KBA Rapida 105 kraft box, Heidelberg 7+1 UV kraft box, zero plastic box, compostable gift box, starch adhesive box, 23 years Guangdong factory, 18,000 sqm eco factory, 1.7M daily boxes, Foshan sustainable packaging, organic product packaging, artisan gift box, handmade soap box, farm-to-table packaging, zero waste packaging, FSC CoC kraft box, eco wedding favor box, wholesale kraft gift box China, recycled paperboard box, cotton rope handle box, sustainable retail packaging, OEM eco box manufacturer"
 categories: ["kraft-eco-boxes"]
 params:
   moq: "500-1000"
@@ -14,7 +14,7 @@ params:
 
 ![Bincai Kraft Eco Boxes](/images/kraft-eco-box.jpg)
 
-Eco-friendly kraft paper gift box with die-cut display window and cotton rope handle — produced by Guangdong Bincai Color Printing Co., Ltd., a 22-year sustainable packaging manufacturer (founded 2003). Engineered for brands that prioritize environmental responsibility without compromising on presentation, this box combines natural brown kraft paperboard with a precision die-cut window for product visibility and a natural cotton rope carry handle. Printed with soy-based inks on KBA 1050 4-color and Heidelberg 7+1 UV presses. 100% recyclable and FSC certified. Daily output 1.7 million boxes across 18,000 sqm factory (10,000+8,000 smart factory).
+Eco-friendly kraft paper gift box with die-cut display window and cotton rope handle — produced by Guangdong Bincai Color Printing Co., Ltd., a 23-year sustainable packaging manufacturer (founded 2003). Engineered for brands that prioritize environmental responsibility without compromising on presentation, this box combines natural brown kraft paperboard with a precision die-cut window for product visibility and a natural cotton rope carry handle. Printed with soy-based inks on KBA 1050 4-color and Heidelberg 7+1 UV presses. 100% recyclable and FSC certified. Daily output 1.7 million boxes across 18,000 sqm factory (10,000+8,000 smart factory).
 
 ## Applications
 - Organic and natural skincare product gift sets
@@ -75,7 +75,7 @@ This box is part of Bincai's Green Packaging Line — FSC-certified kraft paperb
 7. **Final QC** — 100% visual inspection, batch moisture testing, AQL 2.5 sampling per ISO 2859
 
 ## Why Choose Bincai for Sustainable Packaging
-- **22 Years of Trust** — Serving eco-conscious brands worldwide since 2003 from Foshan, Guangdong
+- **23 Years of Trust** — Serving eco-conscious brands worldwide since 2003 from Foshan, Guangdong
 - **End-to-End Green Manufacturing** — FSC chain-of-custody tracked from board mill to finished box; soy-based inks replace petroleum-based; water-based varnishes replace solvent coatings
 - **Scale Without Compromise** — 1.7 million boxes daily capacity across 18,000 sqm (10,000+8,000 smart factory) with ISO 9001:2015 quality systems
 - **Carbon Footprint Transparency** — Tracked from raw material sourcing through production, with CO₂ per-box metrics available upon request
@@ -87,4 +87,4 @@ This box is part of Bincai's Green Packaging Line — FSC-certified kraft paperb
 - **Artisan Soap Collective** — 5,000 boxes with die-cut circular window (no PET film), jute rope handle, water-based matte varnish; shipped to 3 EU distribution centers with full FSC documentation
 - **Farmers Market Food Brand** — 20,000 kraft boxes with custom-shaped window, cotton rope handle, embossed brand logo (no ink); USDA BioPreferred-compatible materials throughout
 
-**Guangdong Bincai Color Printing Co., Ltd.** — 22 years. 18,000 sqm (10,000+8,000 smart factory). ISO 9001 & FSC certified. Sustainable packaging made beautifully.
+**Guangdong Bincai Color Printing Co., Ltd.** — 23 years. 18,000 sqm (10,000+8,000 smart factory). ISO 9001 & FSC certified. Sustainable packaging made beautifully.

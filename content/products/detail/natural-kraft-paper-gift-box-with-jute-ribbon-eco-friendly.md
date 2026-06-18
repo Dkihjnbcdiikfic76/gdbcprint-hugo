@@ -2,8 +2,8 @@
 title: "Natural Kraft Paper Gift Box with Jute Ribbon Eco Friendly"
 date: 2026-06-10
 draft: false
-description: "Natural kraft paper gift box with jute ribbon — 100% recyclable, plastic-free, FSC certified by Guangdong Bincai Color Printing. Rustic kraft texture with raw jute twine tie closure — every detail communicates eco-conscious quality. Available as two-piece rigid, magnetic flip-lid, drawer box, tuck-top, or pillow box. FSC Mix Credit chain-of-custody certified. Soy-based vegetable ink printing on FSC kraft paperboard (157–350gsm), 100% recycled greyboard core (1.0–3.0mm). 22 years manufacturing experience since 2003, ISO 9001:2015 certified. KBA 1050 4-color offset + Heidelberg 7+1 UV presses, blind embossing/debossing, hot foil stamping. 18,000 sqm dual factory (10,000+8,000 smart factory), 80+ workers, daily output 1.7M+ boxes. Serving 60+ countries worldwide. MOQ 500. Free samples 5-7 days. Foshan, Guangdong, China."
-keywords: "natural kraft paper gift box, jute ribbon gift box, eco-friendly gift packaging, FSC certified kraft box, sustainable gift box manufacturer, recyclable gift box, brown kraft box, Bincai Color Printing, jute handle paper box, plastic-free gift packaging, rustic kraft box, soy ink gift box, eco gift box China, kraft rigid box, organic packaging, zero waste gift box, biodegradable gift packaging, hemp twine box, kraft paperboard box, OEM kraft box Guangdong, 22 years packaging factory, ISO 9001 kraft box, FSC chain of custody box, vegan packaging box, carbon neutral gift box, artisan gift packaging, green wedding favor box, compostable kraft box"
+description: "Natural kraft paper gift box with jute ribbon — 100% recyclable, plastic-free, FSC certified by Guangdong Bincai Color Printing. Rustic kraft texture with raw jute twine tie closure — every detail communicates eco-conscious quality. Available as two-piece rigid, magnetic flip-lid, drawer box, tuck-top, or pillow box. FSC Mix Credit chain-of-custody certified. Soy-based vegetable ink printing on FSC kraft paperboard (157–350gsm), 100% recycled greyboard core (1.0–3.0mm). 23 years manufacturing experience since 2003, ISO 9001:2015 certified. KBA 1050 4-color offset + Heidelberg 7+1 UV presses, blind embossing/debossing, hot foil stamping. 18,000 sqm dual factory (10,000+8,000 smart factory), 80+ workers, daily output 1.7M+ boxes. Serving 60+ countries worldwide. MOQ 500. Free samples 5-7 days. Foshan, Guangdong, China."
+keywords: "natural kraft paper gift box, jute ribbon gift box, eco-friendly gift packaging, FSC certified kraft box, sustainable gift box manufacturer, recyclable gift box, brown kraft box, Bincai Color Printing, jute handle paper box, plastic-free gift packaging, rustic kraft box, soy ink gift box, eco gift box China, kraft rigid box, organic packaging, zero waste gift box, biodegradable gift packaging, hemp twine box, kraft paperboard box, OEM kraft box Guangdong, 23 years packaging factory, ISO 9001 kraft box, FSC chain of custody box, vegan packaging box, carbon neutral gift box, artisan gift packaging, green wedding favor box, compostable kraft box"
 categories: ["kraft-eco-boxes"]
 params:
   moq: "500-1000"
@@ -16,7 +16,7 @@ params:
 
 ## Overview
 
-Guangdong Bincai Color Printing's natural kraft paper gift box with jute ribbon combines rustic elegance with uncompromising sustainability. Raw kraft texture, natural jute tie, soy-based ink printing — every detail communicates eco-conscious quality. FSC certified, fully recyclable, zero plastic. Manufactured in our ISO 9001:2015 certified 18,000 sqm factory (10,000+8,000 smart factory) with 22 years of expertise and daily output of 1.7 million boxes. See our [real-world case study with a Nordic food brand](/blog/case-study-nordic-food-brand/) for how sustainable kraft packaging performs in demanding B2B applications. Explore all [kraft eco boxes](/kraft-eco-boxes/) in our collection.
+Guangdong Bincai Color Printing's natural kraft paper gift box with jute ribbon combines rustic elegance with uncompromising sustainability. Raw kraft texture, natural jute tie, soy-based ink printing — every detail communicates eco-conscious quality. FSC certified, fully recyclable, zero plastic. Manufactured in our ISO 9001:2015 certified 18,000 sqm factory (10,000+8,000 smart factory) with 23 years of expertise and daily output of 1.7 million boxes. See our [real-world case study with a Nordic food brand](/blog/case-study-nordic-food-brand/) for how sustainable kraft packaging performs in demanding B2B applications. Explore all [kraft eco boxes](/kraft-eco-boxes/) in our collection.
 
 ## Applications
 
@@ -92,7 +92,7 @@ A: Standard lead time is 15–18 working days from artwork approval to shipment 
 
 | Strength | Detail |
 |---|---|
-| **22 Years Experience** | Manufacturing premium and sustainable packaging since 2003, serving 60+ countries and 200+ global brands |
+| **23 Years Experience** | Manufacturing premium and sustainable packaging since 2003, serving 60+ countries and 200+ global brands |
 | **FSC & ISO 9001 Certified** | Full chain-of-custody from responsibly managed forests to finished box; documented QC at every stage |
 | **Plastic-Free Expertise** | Dedicated eco-packaging production line — zero cross-contamination with plastic laminates or synthetic coatings |
 | **Soy Ink Printing** | USDA BioPreferred soy-based vegetable inks — lower VOC emissions, renewable, heavy-metal-free, EN 71-3 compliant |

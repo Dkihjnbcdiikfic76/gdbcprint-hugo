@@ -2,7 +2,7 @@
 title: "FSC-Certified Kraft Paper Gift Box — Seed-Embedded Hang Tag, Soy-Based Ink, Jute Handle"
 date: 2026-06-15
 draft: false
-description: "Sustainable FSC-certified kraft paper gift box manufactured by Guangdong Bincai Color Printing (founded 2003, 22 years). 18,000 sqm Foshan factory with KBA 1050 4-color + Heidelberg 7+1 UV presses, ISO 9001:2015 & FSC certified, 1.7M daily box output. Features plantable seed-embedded hang tag, soy-based ink printing, jute twine handle, and 100% recycled kraft board. Designed for eco-conscious brands in cosmetics, gourmet food, and sustainable gifting."
+description: "Sustainable FSC-certified kraft paper gift box manufactured by Guangdong Bincai Color Printing (founded 2003, 23 years). 18,000 sqm Foshan factory with KBA 1050 4-color + Heidelberg 7+1 UV presses, ISO 9001:2015 & FSC certified, 1.7M daily box output. Features plantable seed-embedded hang tag, soy-based ink printing, jute twine handle, and 100% recycled kraft board. Designed for eco-conscious brands in cosmetics, gourmet food, and sustainable gifting."
 keywords: "kraft paper box, eco gift box, sustainable packaging, seed paper tag, soy ink, jute handle, fsc certified, bincai, guangdong, iso 9001, fsc, kba 1050, heidelberg 7+1 uv, 18000 sqm, 1.7m daily output, eco-friendly packaging, biodegradable box, custom kraft box, OEM"
 categories: ["kraft-eco-boxes"]
 params:
@@ -58,7 +58,7 @@ The FSC-Certified Kraft Paper Gift Box with Seed-Embedded Hang Tag represents th
 | MOQ | 500 units per design |
 | Lead Time | 10-14 days production + shipping |
 | Certifications | ISO 9001:2015, FSC Chain-of-Custody, Sedex SMETA |
-| Experience | 22 years (founded 2003) |
+| Experience | 23 years (founded 2003) |
 
 ## Quality Assurance
 
@@ -141,8 +141,8 @@ A: The seed paper is made from post-consumer recycled paper embedded with live s
 
 ## Why Bincai?
 
-Sustainability without compromise — that's the Bincai kraft box philosophy. Our 22 years of paper packaging expertise means we've mastered the art of printing on recycled kraft board, achieving color consistency (ΔE ≤2.0) that rivals virgin white board — but with an authentic natural aesthetic that eco-conscious consumers love. The seed-embedded hang tag is more than a novelty; it's a brand statement that transforms packaging from waste into a living experience. With FSC Chain-of-Custody certification, 100% post-consumer recycled board, and soy-based inks produced in our 18,000 sqm Foshan facility, Bincai delivers sustainable packaging at industrial scale — 1.7M boxes daily without compromising on environmental values.
+Sustainability without compromise — that's the Bincai kraft box philosophy. Our 23 years of paper packaging expertise means we've mastered the art of printing on recycled kraft board, achieving color consistency (ΔE ≤2.0) that rivals virgin white board — but with an authentic natural aesthetic that eco-conscious consumers love. The seed-embedded hang tag is more than a novelty; it's a brand statement that transforms packaging from waste into a living experience. With FSC Chain-of-Custody certification, 100% post-consumer recycled board, and soy-based inks produced in our 18,000 sqm Foshan facility, Bincai delivers sustainable packaging at industrial scale — 1.7M boxes daily without compromising on environmental values.
 
-**Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
+**Factory Facts:** Founded 2003 | 23 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
 
 **Shipping:** Flat-packed for 70%+ freight volume savings. Standard 15-25 day sea freight from Foshan ports. Carbon-offset shipping options available for FCL orders.

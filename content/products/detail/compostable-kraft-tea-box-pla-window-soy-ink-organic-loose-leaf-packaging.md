@@ -2,8 +2,8 @@
 title: "Compostable Kraft Window Tea Box with PLA Film — Organic Loose Leaf Packaging"
 date: 2026-06-14
 draft: false
-description: "Compostable Kraft Window Tea Box with PLA (polylactic acid) film window by Guangdong Bincai Color Printing — 22 years sustainable packaging since 2003. 100% biodegradable kraft paperboard construction with PLA transparent window derived from corn starch, soy-based inks, water-based adhesive, and recyclable cardboard insert. Ideal for organic loose leaf tea, herbal blends, and eco-conscious food brands. Manufactured on KBA 1050 4-color press with FSC Chain-of-Custody certification across 18,000 sqm ISO 9001:2015 facility. Daily output 1.7M boxes. MOQ 1,000, free pre-production samples. Foshan, Guangdong, China."
-keywords: "compostable tea box, kraft tea box, PLA window box, organic tea packaging, biodegradable tea box, eco-friendly tea packaging, sustainable tea box, FSC certified tea box, soy-based ink packaging, PLA window packaging, kraft window box, china eco tea box manufacturer, ISO 9001 FSC packaging, Bincai kraft box, 18,000 sqm factory, 22 years manufacturer, Guangdong eco packaging, compostable food packaging, organic loose leaf packaging, biodegradable window box, sustainable food box, plant-based packaging, zero waste tea box, wholesale eco tea box, OEM sustainable packaging"
+description: "Compostable Kraft Window Tea Box with PLA (polylactic acid) film window by Guangdong Bincai Color Printing — 23 years sustainable packaging since 2003. 100% biodegradable kraft paperboard construction with PLA transparent window derived from corn starch, soy-based inks, water-based adhesive, and recyclable cardboard insert. Ideal for organic loose leaf tea, herbal blends, and eco-conscious food brands. Manufactured on KBA 1050 4-color press with FSC Chain-of-Custody certification across 18,000 sqm ISO 9001:2015 facility. Daily output 1.7M boxes. MOQ 1,000, free pre-production samples. Foshan, Guangdong, China."
+keywords: "compostable tea box, kraft tea box, PLA window box, organic tea packaging, biodegradable tea box, eco-friendly tea packaging, sustainable tea box, FSC certified tea box, soy-based ink packaging, PLA window packaging, kraft window box, china eco tea box manufacturer, ISO 9001 FSC packaging, Bincai kraft box, 18,000 sqm factory, 23 years manufacturer, Guangdong eco packaging, compostable food packaging, organic loose leaf packaging, biodegradable window box, sustainable food box, plant-based packaging, zero waste tea box, wholesale eco tea box, OEM sustainable packaging"
 categories: ["kraft-eco-boxes"]
 params:
   moq: "1000-3000"
@@ -16,7 +16,7 @@ params:
 
 ## Product Overview
 
-Bincai's compostable kraft window tea box is engineered for the zero-waste supply chain. Every component — from the 350gsm FSC-certified kraft paperboard to the PLA window film derived from corn starch — biodegrades in commercial composting facilities. Printed with soy-based inks and assembled with water-based adhesives, this box meets EN 13432 compostability standards while delivering the shelf presence organic tea brands demand. Manufactured on KBA 1050 4-color offset presses in our 18,000 sqm Foshan facility. 22 years of sustainable packaging expertise.
+Bincai's compostable kraft window tea box is engineered for the zero-waste supply chain. Every component — from the 350gsm FSC-certified kraft paperboard to the PLA window film derived from corn starch — biodegrades in commercial composting facilities. Printed with soy-based inks and assembled with water-based adhesives, this box meets EN 13432 compostability standards while delivering the shelf presence organic tea brands demand. Manufactured on KBA 1050 4-color offset presses in our 18,000 sqm Foshan facility. 23 years of sustainable packaging expertise.
 
 ## Manufacturing Specifications
 
@@ -75,9 +75,9 @@ Bincai's compostable kraft window tea box is engineered for the zero-waste suppl
 
 ## Why Choose Bincai
 
-Guangdong Bincai Color Printing Co., Ltd. brings 22 years of packaging expertise to the sustainable frontier. Our 18,000 sqm dual-factory in Foshan (10,000 sqm + 8,000 sqm Gaobu smart facility) operates KBA 1050 4-color offset presses that print soy-based inks on kraft substrates with the same precision as conventional CMYK jobs — no compromise on brand colors or registration. We hold FSC Chain-of-Custody certification across our entire supply chain, and our EN 13432 compostability validation covers the full box assembly, not just individual components. From our in-house die-making workshop (24h die-line turnaround) to our automated window-patching lines that achieve ±0.5mm PLA film placement, every process is engineered for sustainable consistency. With 1.7M daily box output and pre-production samples in 5–7 days, Bincai scales from artisan tea startups to multinational organic brands without missing a delivery window.
+Guangdong Bincai Color Printing Co., Ltd. brings 23 years of packaging expertise to the sustainable frontier. Our 18,000 sqm dual-factory in Foshan (10,000 sqm + 8,000 sqm Gaobu smart facility) operates KBA 1050 4-color offset presses that print soy-based inks on kraft substrates with the same precision as conventional CMYK jobs — no compromise on brand colors or registration. We hold FSC Chain-of-Custody certification across our entire supply chain, and our EN 13432 compostability validation covers the full box assembly, not just individual components. From our in-house die-making workshop (24h die-line turnaround) to our automated window-patching lines that achieve ±0.5mm PLA film placement, every process is engineered for sustainable consistency. With 1.7M daily box output and pre-production samples in 5–7 days, Bincai scales from artisan tea startups to multinational organic brands without missing a delivery window.
 
-**Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000+8,000 smart factory) | 1.7M boxes/day | KBA 1050 4-color | Heidelberg 7+1 UV | ISO 9001 & FSC | EN 13432 Compostable | Foshan, Guangdong, China
+**Factory Facts:** Founded 2003 | 23 years | 18,000 sqm (10,000+8,000 smart factory) | 1.7M boxes/day | KBA 1050 4-color | Heidelberg 7+1 UV | ISO 9001 & FSC | EN 13432 Compostable | Foshan, Guangdong, China
 
 ## FAQ
 

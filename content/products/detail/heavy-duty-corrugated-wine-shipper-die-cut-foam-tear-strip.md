@@ -2,8 +2,8 @@
 title: "Heavy-Duty Corrugated Wine Shipper with Die-Cut Foam Insert and Tear Strip"
 date: 2026-06-16
 draft: false
-description: "Heavy-duty corrugated wine shipper with die-cut EPE foam insert, dual tear-strip opening, and ISTA 3A certification. Manufactured by Guangdong Bincai Color Printing — 22 years experience, BHS 2.5m Corrugator, KBA Rapida 105 + Heidelberg CD 102 7+1 UV, ISO 9001:2015 & FSC-C147399 certified. Custom sizes for single bottle, 2-pack, 3-pack, 6-pack, and 12-pack wine shipments. MOQ 500 units. Ideal for wineries, wine clubs, and DTC wine e-commerce."
-keywords: "corrugated wine shipper, wine shipping box, die-cut foam wine insert, wine bottle shipper, tear strip wine box, ISTA 3A wine packaging, direct-to-consumer wine box, Bincai corrugated packaging, BHS 2.5m corrugator, heavy-duty wine mailer, wine club shipping box, e-commerce wine packaging, single bottle shipper, 6-pack wine shipper, 12-pack wine case, custom wine box China, Guangdong packaging factory, 22 years experience, ISO 9001 certified, FSC certified, 18,000 sqm factory, 1.7M daily output, litho-laminate wine box, flexo printed wine shipper, EPE foam insert, die-cut wine packaging, Kraft wine mailer, white-top corrugated wine box, tear strip opening box, sustainable wine packaging, recyclable corrugated, Bincai Color Printing, OEM wine box manufacturer, wholesale wine shipping box, Foshan corrugated factory, ISTA certified wine shipper, wine gift box with insert, bottle protection packaging"
+description: "Heavy-duty corrugated wine shipper with die-cut EPE foam insert, dual tear-strip opening, and ISTA 3A certification. Manufactured by Guangdong Bincai Color Printing — 23 years experience, BHS 2.5m Corrugator, KBA Rapida 105 + Heidelberg CD 102 7+1 UV, ISO 9001:2015 & FSC-C147399 certified. Custom sizes for single bottle, 2-pack, 3-pack, 6-pack, and 12-pack wine shipments. MOQ 500 units. Ideal for wineries, wine clubs, and DTC wine e-commerce."
+keywords: "corrugated wine shipper, wine shipping box, die-cut foam wine insert, wine bottle shipper, tear strip wine box, ISTA 3A wine packaging, direct-to-consumer wine box, Bincai corrugated packaging, BHS 2.5m corrugator, heavy-duty wine mailer, wine club shipping box, e-commerce wine packaging, single bottle shipper, 6-pack wine shipper, 12-pack wine case, custom wine box China, Guangdong packaging factory, 23 years experience, ISO 9001 certified, FSC certified, 18,000 sqm factory, 1.7M daily output, litho-laminate wine box, flexo printed wine shipper, EPE foam insert, die-cut wine packaging, Kraft wine mailer, white-top corrugated wine box, tear strip opening box, sustainable wine packaging, recyclable corrugated, Bincai Color Printing, OEM wine box manufacturer, wholesale wine shipping box, Foshan corrugated factory, ISTA certified wine shipper, wine gift box with insert, bottle protection packaging"
 categories: ["corrugated-mailers"]
 params:
   moq: "500"
@@ -14,7 +14,7 @@ params:
 
 ![Bincai Corrugated Mailers](/images/corrugated-mailer.jpg)
 
-Heavy-duty corrugated wine shipper with die-cut EPE foam insert and dual tear-strip opening — manufactured by Guangdong Bincai Color Printing Co., Ltd., leveraging 22 years of packaging expertise (since 2003). Produced on our BHS 2.5m Corrugator for consistent board quality and precision die-cut on Bobst SP 102 BMA/E. The integrated dual tear-strip allows frictionless unboxing without tools, while the die-cut EPE foam insert cradles each bottle with 360° protection. ISTA 3A certified for direct-to-consumer wine shipping. Daily output of 1.7M boxes from our 18,000 sqm dual-factory (10,000+8,000 sqm smart factory, 2025 expansion) in Foshan, Pearl River Delta.
+Heavy-duty corrugated wine shipper with die-cut EPE foam insert and dual tear-strip opening — manufactured by Guangdong Bincai Color Printing Co., Ltd., leveraging 23 years of packaging expertise (since 2003). Produced on our BHS 2.5m Corrugator for consistent board quality and precision die-cut on Bobst SP 102 BMA/E. The integrated dual tear-strip allows frictionless unboxing without tools, while the die-cut EPE foam insert cradles each bottle with 360° protection. ISTA 3A certified for direct-to-consumer wine shipping. Daily output of 1.7M boxes from our 18,000 sqm dual-factory (10,000+8,000 sqm smart factory, 2025 expansion) in Foshan, Pearl River Delta.
 
 ## Applications
 - Winery direct-to-consumer shipping
@@ -114,7 +114,7 @@ Wine shippers live or die by their internal protection. Here's how three common 
 
 | Feature | Bincai | Industry Average |
 |---|---|---|
-| Experience | 22 years (since 2003) | 5–8 years |
+| Experience | 23 years (since 2003) | 5–8 years |
 | Corrugator | BHS 2.5m high-speed | 1.6–1.8m conventional |
 | Die-Cutter | Bobst SP 102 BMA/E ±0.2mm | ±1.0mm conventional |
 | Daily Output | 1.7M boxes | 50K–200K |

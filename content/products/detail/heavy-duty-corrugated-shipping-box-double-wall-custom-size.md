@@ -2,7 +2,7 @@
 title: "Heavy Duty Corrugated Shipping Box Double Wall Custom Size"
 date: 2026-06-10
 draft: false
-description: "Heavy-duty double wall corrugated shipping box, fully custom sizes and print. BC/BE flute construction with ISTA 1A drop-test certification. Manufactured by Bincai in Foshan Guangdong — 22 years experience, 18,000 sqm integrated factory (10,000 + 8,000 smart factory 2025), KBA 1050 4-color + Heidelberg 7+1 UV offset. ISO 9001 & FSC certified, daily output 1.7M boxes. FBA-ready sizing, self-sealing tear strip, flexo or offset print. MOQ 500 units, free pre-production samples in 3-5 days."
+description: "Heavy-duty double wall corrugated shipping box, fully custom sizes and print. BC/BE flute construction with ISTA 1A drop-test certification. Manufactured by Bincai in Foshan Guangdong — 23 years experience, 18,000 sqm integrated factory (10,000 + 8,000 smart factory 2025), KBA 1050 4-color + Heidelberg 7+1 UV offset. ISO 9001 & FSC certified, daily output 1.7M boxes. FBA-ready sizing, self-sealing tear strip, flexo or offset print. MOQ 500 units, free pre-production samples in 3-5 days."
 keywords: "heavy duty corrugated box, double wall shipping box, custom corrugated mailer, BC flute box, EB flute shipping box, FBA shipping box, ISTA tested corrugated, ecommerce shipping box, custom size mailer, industrial packaging box, corrugated shipping carton, heavy duty mailer box, Bincai corrugated box, Guangdong corrugated manufacturer, FSC certified mailer"
 categories: ["corrugated-mailers"]
 params:
@@ -16,7 +16,7 @@ params:
 
 ## Product Overview
 
-Built for the most demanding shipping environments, this heavy-duty double wall corrugated box combines BC-flute strength with full customization to protect your products from warehouse to doorstep. Manufactured by Guangdong Bincai Color Printing — a 22-year packaging enterprise with 18,000 sqm of integrated production space — these boxes are engineered for e-commerce fulfillment, industrial parts distribution, and export freight. Double wall construction (BC or BE flute) delivers superior crush resistance and stacking strength compared to single wall alternatives. With ISTA 1A transit testing available and FBA-compliant sizing, Bincai produces these boxes alongside its 1.7M daily color box output from a dedicated corrugated line within its ISO 9001:2015 and FSC-certified facility.
+Built for the most demanding shipping environments, this heavy-duty double wall corrugated box combines BC-flute strength with full customization to protect your products from warehouse to doorstep. Manufactured by Guangdong Bincai Color Printing — a 23-year packaging enterprise with 18,000 sqm of integrated production space — these boxes are engineered for e-commerce fulfillment, industrial parts distribution, and export freight. Double wall construction (BC or BE flute) delivers superior crush resistance and stacking strength compared to single wall alternatives. With ISTA 1A transit testing available and FBA-compliant sizing, Bincai produces these boxes alongside its 1.7M daily color box output from a dedicated corrugated line within its ISO 9001:2015 and FSC-certified facility.
 
 ## Construction & Flute Types
 
@@ -68,13 +68,13 @@ Built for the most demanding shipping environments, this heavy-duty double wall 
 
 ## Why Choose Bincai for Corrugated?
 
-Guangdong Bincai Color Printing has been manufacturing corrugated packaging since 2003 — over 22 years of continuous production experience serving global brands across e-commerce, electronics, automotive, and consumer goods. Our 18,000 sqm integrated facility in Foshan, at the heart of the Pearl River Delta in Guangdong, China, combines a dedicated corrugated line with advanced offset and UV printing under one roof. This vertical integration means your double wall shipping boxes move from raw flute board to finished, printed, die-cut cartons without leaving our factory — eliminating handoff delays, reducing transit damage to work-in-progress, and giving our QC team end-to-end visibility on every order.
+Guangdong Bincai Color Printing has been manufacturing corrugated packaging since 2003 — over 23 years of continuous production experience serving global brands across e-commerce, electronics, automotive, and consumer goods. Our 18,000 sqm integrated facility in Foshan, at the heart of the Pearl River Delta in Guangdong, China, combines a dedicated corrugated line with advanced offset and UV printing under one roof. This vertical integration means your double wall shipping boxes move from raw flute board to finished, printed, die-cut cartons without leaving our factory — eliminating handoff delays, reducing transit damage to work-in-progress, and giving our QC team end-to-end visibility on every order.
 
 What sets Bincai apart is the marriage of corrugated structural engineering with premium print quality. While most corrugated-only mills offer basic flexo overprint, our KBA Rapida 105 4-color and Heidelberg Speedmaster CD 102 7+1 UV presses produce litho-laminated labels and direct offset print that rival folding carton aesthetics — all bonded to heavy-duty BC or BE double wall board from our BHS 2.5m corrugator. The result is a shipping box that protects like industrial packaging and presents like a retail-ready brand experience.
 
 **Factory Facts at a Glance:**
 
-- **Founded:** 2003 — 22 years of packaging manufacturing
+- **Founded:** 2003 — 23 years of packaging manufacturing
 - **Facility:** 18,000 sqm total (10,000 sqm main plant + 8,000 sqm smart factory commissioned 2025)
 - **Workforce:** 350+ skilled workers across corrugated, offset, finishing, and QC departments
 - **Press Fleet:** KBA Rapida 105 4-color, Heidelberg Speedmaster CD 102 7+1 UV

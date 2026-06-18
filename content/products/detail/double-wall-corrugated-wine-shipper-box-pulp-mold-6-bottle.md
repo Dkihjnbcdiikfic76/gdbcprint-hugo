@@ -2,8 +2,8 @@
 title: "Double-Wall Corrugated Wine Shipper Box with Pulp Mold Insert — 6-Bottle"
 date: 2026-06-15
 draft: false
-description: "Double-wall corrugated wine shipper box with molded pulp insert for 6 bottles — ECT-44 BC-flute construction, die-cut handholds, molded pulp base tray with individual bottle cradles, and self-locking bottom. ISTA 6-FedEx-A tested, burst strength 275 psi. Manufactured by Guangdong Bincai Color Printing — 22 years experience since 2003, ISO 9001:2015 & FSC certified, 18,000 sqm factory, Bobst die-cutting line, 1.7M daily output, MOQ 500."
-keywords: "corrugated wine shipper, 6-bottle wine box, molded pulp wine insert, double-wall wine shipper, wine shipping box, corrugated wine packaging, ISTA tested wine box, wine fulfillment packaging, DTC wine shipper, winery shipping box, Bincai Color Printing, Guangdong corrugated box, ISO 9001 FSC wine packaging, wholesale wine shipper, OEM wine box, Bobst die-cut corrugated, 18,000 sqm factory, BC-flute wine box, self-locking wine shipper, 22 years manufacturer"
+description: "Double-wall corrugated wine shipper box with molded pulp insert for 6 bottles — ECT-44 BC-flute construction, die-cut handholds, molded pulp base tray with individual bottle cradles, and self-locking bottom. ISTA 6-FedEx-A tested, burst strength 275 psi. Manufactured by Guangdong Bincai Color Printing — 23 years experience since 2003, ISO 9001:2015 & FSC certified, 18,000 sqm factory, Bobst die-cutting line, 1.7M daily output, MOQ 500."
+keywords: "corrugated wine shipper, 6-bottle wine box, molded pulp wine insert, double-wall wine shipper, wine shipping box, corrugated wine packaging, ISTA tested wine box, wine fulfillment packaging, DTC wine shipper, winery shipping box, Bincai Color Printing, Guangdong corrugated box, ISO 9001 FSC wine packaging, wholesale wine shipper, OEM wine box, Bobst die-cut corrugated, 18,000 sqm factory, BC-flute wine box, self-locking wine shipper, 23 years manufacturer"
 categories: ["corrugated-mailers"]
 params:
   moq: "500-1000"
@@ -16,7 +16,7 @@ params:
 
 ## Product Overview
 
-Professional 6-bottle wine shipper box engineered for direct-to-consumer (DTC) wine fulfillment, winery club shipments, and e-commerce wine retail. The double-wall BC-flute corrugated construction (ECT-44, burst strength 275 psi) provides crush resistance through the parcel carrier network, while the custom molded pulp insert cradles each bottle individually — preventing glass-to-glass contact and absorbing transit vibration. Die-cut integrated handholds make carrier handling effortless, and the self-locking bottom eliminates tape for faster packing line throughput. ISTA 6-FedEx-A tested and certified for single-parcel wine shipment. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** (founded 2003) — 22 years of structural packaging expertise.
+Professional 6-bottle wine shipper box engineered for direct-to-consumer (DTC) wine fulfillment, winery club shipments, and e-commerce wine retail. The double-wall BC-flute corrugated construction (ECT-44, burst strength 275 psi) provides crush resistance through the parcel carrier network, while the custom molded pulp insert cradles each bottle individually — preventing glass-to-glass contact and absorbing transit vibration. Die-cut integrated handholds make carrier handling effortless, and the self-locking bottom eliminates tape for faster packing line throughput. ISTA 6-FedEx-A tested and certified for single-parcel wine shipment. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** (founded 2003) — 23 years of structural packaging expertise.
 
 ## Applications
 
@@ -52,7 +52,7 @@ Professional 6-bottle wine shipper box engineered for direct-to-consumer (DTC) w
 
 ## Why Choose Bincai
 
-- **22 Years Corrugated Expertise:** Bincai has manufactured protective corrugated packaging since 2003 for clients in wine, electronics, cosmetics, and pharmaceuticals
+- **23 Years Corrugated Expertise:** Bincai has manufactured protective corrugated packaging since 2003 for clients in wine, electronics, cosmetics, and pharmaceuticals
 - **18,000 sqm Integrated Factory:** Corrugated converting, flexo printing, die-cutting, and assembly all under one roof
 - **ISO 9001:2015 & FSC Certified:** Consistent quality processes; sustainable paper sourcing
 - **ISTA 6-FedEx-A Tested:** Validated for single-parcel carrier distribution — reduces damage claims and chargebacks

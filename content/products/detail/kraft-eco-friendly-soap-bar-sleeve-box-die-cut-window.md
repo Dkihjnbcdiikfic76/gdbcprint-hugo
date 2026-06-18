@@ -2,7 +2,7 @@
 title: "Kraft Eco-Friendly Soap Bar Sleeve Box with Die-Cut Window"
 date: 2026-06-16
 draft: false
-description: "Kraft Eco-Friendly Soap Bar Sleeve Box with Die-Cut Window — custom manufactured by Bincai Printing, 22-year ISO 9001 & FSC certified paper box factory. Sustainable kraft paperboard sleeve box with die-cut window for artisan soap bars, bath products, and natural cosmetics. 100% recyclable and biodegradable. Produced on KBA 1050 4-color and Heidelberg 7+1 UV presses across our 18,000 sqm factory. ISO 9001:2015 and FSC certified. Daily output 1.7 million color boxes. MOQ 500 units with free pre-production samples."
+description: "Kraft Eco-Friendly Soap Bar Sleeve Box with Die-Cut Window — custom manufactured by Bincai Printing, 23-year ISO 9001 & FSC certified paper box factory. Sustainable kraft paperboard sleeve box with die-cut window for artisan soap bars, bath products, and natural cosmetics. 100% recyclable and biodegradable. Produced on KBA 1050 4-color and Heidelberg 7+1 UV presses across our 18,000 sqm factory. ISO 9001:2015 and FSC certified. Daily output 1.7 million color boxes. MOQ 500 units with free pre-production samples."
 keywords: "kraft soap box, eco-friendly soap packaging, kraft sleeve box, die-cut window soap box, sustainable packaging China, ISO 9001 FSC kraft box, Bincai Guangdong, artisan soap packaging, biodegradable soap box, recyclable soap sleeve, bath product packaging, natural cosmetics box, wholesale kraft box, OEM soap packaging, MOQ 500 eco box, kraft paperboard box, soap display packaging, Guangdong eco packaging, custom soap sleeve, sustainable gift box, window kraft box, organic product packaging"
 categories: ["kraft-eco-boxes"]
 params:
@@ -20,7 +20,7 @@ tags:
 
 ![Bincai Kraft Eco Soap Box](/images/kraft-eco-box.jpg)
 
-Kraft Eco-Friendly Soap Bar Sleeve Box with die-cut window by Guangdong Bincai Color Printing Co., Ltd. — a Diamond Member on Made-in-China.com with 22 years of manufacturing excellence (founded 2003). This sustainable packaging solution features FSC-certified kraft paperboard, a die-cut window for product visibility, and soy-based inks — fully recyclable and biodegradable. The tuck-end sleeve design is easy to assemble and ideal for artisan soap bars, bath bombs, natural deodorants, and organic skincare products. Produced on KBA 1050 4-color and Heidelberg 7+1 UV presses across our 18,000 sqm facility. Daily output: 1.7 million color boxes.
+Kraft Eco-Friendly Soap Bar Sleeve Box with die-cut window by Guangdong Bincai Color Printing Co., Ltd. — a Diamond Member on Made-in-China.com with 23 years of manufacturing excellence (founded 2003). This sustainable packaging solution features FSC-certified kraft paperboard, a die-cut window for product visibility, and soy-based inks — fully recyclable and biodegradable. The tuck-end sleeve design is easy to assemble and ideal for artisan soap bars, bath bombs, natural deodorants, and organic skincare products. Produced on KBA 1050 4-color and Heidelberg 7+1 UV presses across our 18,000 sqm facility. Daily output: 1.7 million color boxes.
 
 ## Applications
 
@@ -69,7 +69,7 @@ Kraft Eco-Friendly Soap Bar Sleeve Box with die-cut window by Guangdong Bincai C
 
 ## Why Bincai
 
-- **22 Years**: Manufacturing eco-friendly packaging since 2003
+- **23 Years**: Manufacturing eco-friendly packaging since 2003
 - **FSC Certified**: Full chain-of-custody for sustainable sourcing
 - **ISO 9001:2015**: Quality management for consistent eco-product delivery
 - **18,000 sqm**: Modern factory with dedicated kraft board processing line
@@ -85,4 +85,4 @@ Kraft Eco-Friendly Soap Bar Sleeve Box with die-cut window by Guangdong Bincai C
 - **Export Markets**: USA, UK, EU, Australia, Canada, Japan
 ---
 
-**Guangdong Bincai Color Printing Co., Ltd.** — KBA Rapida 105 + Heidelberg CD 102 7+1 UV + BHS 2.5m Corrugator + Bobst SP 102 BMA. ISO 9001:2015 · FSC CoC. 18,000 sqm. 1.7M daily. 22 years.
+**Guangdong Bincai Color Printing Co., Ltd.** — KBA Rapida 105 + Heidelberg CD 102 7+1 UV + BHS 2.5m Corrugator + Bobst SP 102 BMA. ISO 9001:2015 · FSC CoC. 18,000 sqm. 1.7M daily. 23 years.

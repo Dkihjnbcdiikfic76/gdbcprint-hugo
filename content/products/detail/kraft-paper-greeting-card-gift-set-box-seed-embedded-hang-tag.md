@@ -2,7 +2,7 @@
 title: "Kraft Paper Greeting Card Gift Set Box with Seed-Embedded Hang Tag"
 date: 2026-06-15
 draft: false
-description: "Kraft Paper Greeting Card Gift Set Box with Seed-Embedded Hang Tag — custom manufactured by Bincai Printing, 22-year ISO 9001 & FSC certified paper box manufacturer. Eco-friendly kraft paper folding box with soy-based ink printing, designed for greeting card gift sets, stationery collections, and artisan paper goods. Includes plantable seed-embedded hang tag that grows wildflowers when planted. Die-cut window for product visibility. Natural jute twine closure. Manufactured at Bincai's 18,000 sqm ISO 9001:2015 & FSC certified facility with Heidelberg 7+1 UV press. 22 years Guangdong manufacturing. MOQ 500. Free pre-production samples 5-7 days."
+description: "Kraft Paper Greeting Card Gift Set Box with Seed-Embedded Hang Tag — custom manufactured by Bincai Printing, 23-year ISO 9001 & FSC certified paper box manufacturer. Eco-friendly kraft paper folding box with soy-based ink printing, designed for greeting card gift sets, stationery collections, and artisan paper goods. Includes plantable seed-embedded hang tag that grows wildflowers when planted. Die-cut window for product visibility. Natural jute twine closure. Manufactured at Bincai's 18,000 sqm ISO 9001:2015 & FSC certified facility with Heidelberg 7+1 UV press. 23 years Guangdong manufacturing. MOQ 500. Free pre-production samples 5-7 days."
 keywords: "kraft greeting card box, eco-friendly gift box, seed paper box, plantable tag box, sustainable stationery packaging, kraft paper box, soy ink box, Bincai eco box, Guangdong eco packaging, FSC kraft box, biodegradable box, greeting card set packaging, seed embedded box, KBA 1050 kraft box, ISO 9001 sustainable packaging"
 categories: ["kraft-eco-boxes"]
 params:
@@ -93,7 +93,7 @@ This kraft paper greeting card gift set box is designed for artisan stationery b
 
 ## Why Choose Bincai for Eco Packaging
 
-- **22 years of sustainable packaging expertise** — manufacturing eco-friendly paper boxes since 2003, evolving from basic kraft to fully certified compostable solutions
+- **23 years of sustainable packaging expertise** — manufacturing eco-friendly paper boxes since 2003, evolving from basic kraft to fully certified compostable solutions
 - **Genuine FSC certification** — not just a logo; full Chain-of-Custody certified (FSC-C147399), audited annually by SGS
 - **German engineering precision**: KBA Rapida 105 4-color + Heidelberg Speedmaster CD 102 7+1 UV — world-class print quality on recycled kraft substrates that lower-end presses struggle with
 - **Dedicated eco production line**: Separate soy-ink station, water-based coating only, zero solvent cross-contamination with conventional lines

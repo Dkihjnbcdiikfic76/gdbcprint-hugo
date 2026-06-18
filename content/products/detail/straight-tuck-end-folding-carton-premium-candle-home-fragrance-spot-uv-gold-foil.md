@@ -2,8 +2,8 @@
 title: "Straight Tuck End Folding Carton — Premium Candle & Home Fragrance with Spot UV + Gold Foil"
 date: 2026-06-15
 draft: false
-description: "Straight tuck end folding carton for premium candle and home fragrance packaging with spot UV and gold foil stamping by Guangdong Bincai Color Printing — Diamond Member on Made-in-China.com. ISO 9001 FSC certified, 22 years experience, 18,000 sqm factory, 1.7M daily output. SBS/CCNB board, CMYK offset, spot UV, hot foil stamping, straight tuck end."
-keywords: "straight tuck end carton, candle packaging box, home fragrance box, spot UV carton, gold foil carton, Bincai, Guangdong folding carton factory, 22 years experience, ISO 9001 certified, FSC certified, 18,000 sqm factory, 1.7M daily output, OEM folding carton China, Diamond Member MIC, premium candle packaging, luxury home fragrance box"
+description: "Straight tuck end folding carton for premium candle and home fragrance packaging with spot UV and gold foil stamping by Guangdong Bincai Color Printing — Diamond Member on Made-in-China.com. ISO 9001 FSC certified, 23 years experience, 18,000 sqm factory, 1.7M daily output. SBS/CCNB board, CMYK offset, spot UV, hot foil stamping, straight tuck end."
+keywords: "straight tuck end carton, candle packaging box, home fragrance box, spot UV carton, gold foil carton, Bincai, Guangdong folding carton factory, 23 years experience, ISO 9001 certified, FSC certified, 18,000 sqm factory, 1.7M daily output, OEM folding carton China, Diamond Member MIC, premium candle packaging, luxury home fragrance box"
 categories: ["folding-cartons"]
 params:
   moq: "1000-3000"
@@ -49,7 +49,7 @@ Straight tuck end folding carton for premium candle and home fragrance packaging
 ## Why Choose Bincai for Folding Cartons
 | Our Advantage | What It Means for You |
 |:---|---:|
-| **22 Years Experience** | Manufacturing folding cartons since 2003 — we understand the balance between cost-efficient production and premium visual impact, from board selection to finishing technique pairing |
+| **23 Years Experience** | Manufacturing folding cartons since 2003 — we understand the balance between cost-efficient production and premium visual impact, from board selection to finishing technique pairing |
 | **Heidelberg 7+1 UV Press** | One of the most advanced offset presses in the industry — 7 colors + UV coating in one pass, spot colors and CMYK together, instant UV curing for sharp dots and consistent color |
 | **Bobst Hot Foil + Die-Cutting** | Swiss precision foil stamping and die-cutting — registration within ±0.3mm, clean creases, crisp foil edges without bleeding |
 | **ISO 9001 & FSC Certified** | Quality management audited annually + FSC chain-of-custody — support brand sustainability claims with certified materials and audited production |

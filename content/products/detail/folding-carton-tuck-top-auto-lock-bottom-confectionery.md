@@ -2,8 +2,8 @@
 title: "Folding Carton with Tuck-Top and Auto-Lock Bottom for Confectionery Packaging"
 date: 2026-06-11
 draft: false
-description: "Food-safe folding carton with tuck-top closure and auto-lock bottom for chocolates, macarons, and premium confectionery. 350gsm C1S SBS board with soft-touch lamination, custom die-cut window, KBA 1050 4-color + Heidelberg 7+1 UV offset, gold foil hot stamping by Bobst SP 102 BMA. ISO 9001 & FSC certified, 22 years experience, 18,000 sqm factory, 1.7M daily output."
-keywords: "confectionery folding carton, chocolate packaging box, tuck-top carton, auto-lock bottom box, food-safe paper box, soft-touch carton, die-cut window box, gold foil confectionery box, Bincai candy box, wholesale chocolate packaging, FSC food box, ISO 9001 confectionery packaging, Foshan folding carton, premium candy box, macaron packaging, KBA 1050 folding carton, Heidelberg 7+1 UV carton, Bobst Expertfold gluer, auto-lock bottom confectionery, tuck-top candy carton, food-grade paperboard, low-migration ink box, PET window carton, PLA compostable window, soft-touch lamination carton, custom die-cut insert, artisan chocolate box, bakery packaging box, tea packaging carton, corporate gift confectionery box, C1S SBS carton, CCNB folding carton, FBB confectionery box, EU 1935/2004 compliant, FDA 21 CFR 176 food-grade, Guangdong packaging manufacturer, 22 years Bincai, 18,000 sqm factory, 1.7M daily output, Diamond Supplier MIC, wholesale folding carton China, OEM confectionery packaging"
+description: "Food-safe folding carton with tuck-top closure and auto-lock bottom for chocolates, macarons, and premium confectionery. 350gsm C1S SBS board with soft-touch lamination, custom die-cut window, KBA 1050 4-color + Heidelberg 7+1 UV offset, gold foil hot stamping by Bobst SP 102 BMA. ISO 9001 & FSC certified, 23 years experience, 18,000 sqm factory, 1.7M daily output."
+keywords: "confectionery folding carton, chocolate packaging box, tuck-top carton, auto-lock bottom box, food-safe paper box, soft-touch carton, die-cut window box, gold foil confectionery box, Bincai candy box, wholesale chocolate packaging, FSC food box, ISO 9001 confectionery packaging, Foshan folding carton, premium candy box, macaron packaging, KBA 1050 folding carton, Heidelberg 7+1 UV carton, Bobst Expertfold gluer, auto-lock bottom confectionery, tuck-top candy carton, food-grade paperboard, low-migration ink box, PET window carton, PLA compostable window, soft-touch lamination carton, custom die-cut insert, artisan chocolate box, bakery packaging box, tea packaging carton, corporate gift confectionery box, C1S SBS carton, CCNB folding carton, FBB confectionery box, EU 1935/2004 compliant, FDA 21 CFR 176 food-grade, Guangdong packaging manufacturer, 23 years Bincai, 18,000 sqm factory, 1.7M daily output, Diamond Supplier MIC, wholesale folding carton China, OEM confectionery packaging"
 categories: ["folding-cartons"]
 params:
   moq: "1000"
@@ -16,7 +16,7 @@ params:
 
 ## Product Overview
 
-The Bincai Tuck-Top Auto-Lock Bottom Folding Carton is purpose-engineered for artisanal chocolatiers, macaron bakeries, and premium confectionery brands requiring food-safe packaging that protects delicate products while presenting them beautifully at retail. The **auto-lock bottom** pop-opens in a single motion — no tape, no folding gymnastics — enabling bakeries to assemble 30+ boxes per minute during peak production. The optional **die-cut PET window** (or compostable PLA alternative) showcases the product while keeping it hygienically sealed, and the **soft-touch lamination** creates the velvety tactile experience that signals "premium" before the customer even sees the price tag. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — ISO 9001:2015 and FSC Chain-of-Custody certified with 22 years of expertise — every carton uses food-safe, low-migration inks and water-based adhesives compliant with EU Framework Regulation (EC) No 1935/2004 for food contact materials.
+The Bincai Tuck-Top Auto-Lock Bottom Folding Carton is purpose-engineered for artisanal chocolatiers, macaron bakeries, and premium confectionery brands requiring food-safe packaging that protects delicate products while presenting them beautifully at retail. The **auto-lock bottom** pop-opens in a single motion — no tape, no folding gymnastics — enabling bakeries to assemble 30+ boxes per minute during peak production. The optional **die-cut PET window** (or compostable PLA alternative) showcases the product while keeping it hygienically sealed, and the **soft-touch lamination** creates the velvety tactile experience that signals "premium" before the customer even sees the price tag. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — ISO 9001:2015 and FSC Chain-of-Custody certified with 23 years of expertise — every carton uses food-safe, low-migration inks and water-based adhesives compliant with EU Framework Regulation (EC) No 1935/2004 for food contact materials.
 
 ## Applications
 
@@ -105,7 +105,7 @@ The Bincai Tuck-Top Auto-Lock Bottom Folding Carton is purpose-engineered for ar
 
 ## Why Choose Bincai for Folding Cartons
 
-- **22 years of folding carton expertise** — established 2003, trusted by chocolatiers, bakeries, and premium confectionery brands across 60+ countries
+- **23 years of folding carton expertise** — established 2003, trusted by chocolatiers, bakeries, and premium confectionery brands across 60+ countries
 - **18,000 sqm integrated facility** — 10,000 sqm main plant + 8,000 sqm smart factory (2025), dedicated folding carton floor with climate-controlled storage
 - **KBA Rapida 105 4-color offset × 3 presses** — 15,000 sheets/hr each, CMYK + spot, max 175 LPI for photo-quality confectionery packaging
 - **Heidelberg Speedmaster XL 7+1 UV × 2** — 7 colors + UV coating in single pass, metallic inks + soft-touch lamination in-line
@@ -116,4 +116,4 @@ The Bincai Tuck-Top Auto-Lock Bottom Folding Carton is purpose-engineered for ar
 - **MOQ 1000** — startup-friendly with digital proof in 2 days, physical sample in 5–7 days
 - **PLA compostable window option** — EN 13432 + ASTM D6400 certified for fully compostable confectionery packaging
 
-*Guangdong Bincai Color Printing Co., Ltd. — 22 years of packaging excellence. ISO 9001:2015 & FSC certified. 18,000 sqm Foshan facility (10,000+8,000 smart factory). Daily output: 1.7M+ boxes. Serving 60+ countries worldwide.*
+*Guangdong Bincai Color Printing Co., Ltd. — 23 years of packaging excellence. ISO 9001:2015 & FSC certified. 18,000 sqm Foshan facility (10,000+8,000 smart factory). Daily output: 1.7M+ boxes. Serving 60+ countries worldwide.*

@@ -2,7 +2,7 @@
 title: "Kraft Paper Gift Box with Natural Hemp Rope Handle and Soy-Based Ink"
 date: 2026-06-11
 draft: false
-description: "100% recyclable kraft paper gift box with natural hemp rope handle and soy-based ink printing, manufactured on KBA Rapida 105 4-color (15,000 sheets/hr) and Heidelberg Speedmaster CD 102 7+1 UV presses with Bobst SP 102 BMA die-cutting (±0.15mm). Uncoated matte finish, plastic-free construction, water-based adhesives. Produced in Bincai's 18,000 sqm dual-factory (10,000+8,000 smart factory 2025) in Foshan China — ISO 9001:2015 and FSC Chain-of-Custody certified, 22 years since 2003, 1.7M boxes/day. Ideal for sustainable fashion, organic food, and artisan brands. MOQ 500, free samples 5-7 days."
+description: "100% recyclable kraft paper gift box with natural hemp rope handle and soy-based ink printing, manufactured on KBA Rapida 105 4-color (15,000 sheets/hr) and Heidelberg Speedmaster CD 102 7+1 UV presses with Bobst SP 102 BMA die-cutting (±0.15mm). Uncoated matte finish, plastic-free construction, water-based adhesives. Produced in Bincai's 18,000 sqm dual-factory (10,000+8,000 smart factory 2025) in Foshan China — ISO 9001:2015 and FSC Chain-of-Custody certified, 23 years since 2003, 1.7M boxes/day. Ideal for sustainable fashion, organic food, and artisan brands. MOQ 500, free samples 5-7 days."
 keywords: "kraft paper gift box, hemp rope handle box, sustainable gift packaging, soy-based ink box, FSC certified box, plastic-free packaging, eco-friendly gift box, Bincai kraft box, natural rope handle box, organic brand packaging, wholesale kraft box, Foshan eco packaging, biodegradable gift box, artisan packaging, zero-waste box, KBA Rapida 105 kraft printing, Heidelberg CD 102 eco box, Bobst die-cut kraft box, ISO 9001 sustainable packaging, FSC Chain-of-Custody kraft, compostable gift box EN 13432, kraft box manufacturer China, Guangdong eco packaging factory, recyclable shipping box, uncoated kraft board packaging, soy ink printed gift box, hemp handle luxury box, water-based adhesive box, Sedex SMETA certified packaging, Pearl River Delta box supplier"
 categories: ["kraft-eco-boxes"]
 params:
@@ -16,7 +16,7 @@ params:
 
 ## Product Overview
 
-The Bincai Kraft Paper Gift Box with Natural Hemp Rope Handle represents our commitment to **plastic-free, fully biodegradable luxury packaging**. Every component — from the 350gsm FSC-certified uncoated kraft board to the 5mm natural hemp rope handle to the soy-based CMYK inks — is chosen for end-of-life compostability and recyclability in standard paper streams. The hemp rope handle is threaded through reinforced die-cut slots (no metal eyelets, no plastic rivets), creating a rustic-meets-premium aesthetic that resonates with today's eco-conscious consumers. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — ISO 9001:2015 and FSC Chain-of-Custody certified with 22 years of expertise — this box is a bestseller for sustainable fashion brands, organic skincare companies, and artisan food producers across 60+ export markets. Our dual factories produce 1.7M+ boxes daily, with dedicated eco-production lines using water-based adhesives and renewable energy.
+The Bincai Kraft Paper Gift Box with Natural Hemp Rope Handle represents our commitment to **plastic-free, fully biodegradable luxury packaging**. Every component — from the 350gsm FSC-certified uncoated kraft board to the 5mm natural hemp rope handle to the soy-based CMYK inks — is chosen for end-of-life compostability and recyclability in standard paper streams. The hemp rope handle is threaded through reinforced die-cut slots (no metal eyelets, no plastic rivets), creating a rustic-meets-premium aesthetic that resonates with today's eco-conscious consumers. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — ISO 9001:2015 and FSC Chain-of-Custody certified with 23 years of expertise — this box is a bestseller for sustainable fashion brands, organic skincare companies, and artisan food producers across 60+ export markets. Our dual factories produce 1.7M+ boxes daily, with dedicated eco-production lines using water-based adhesives and renewable energy.
 
 ## Applications
 
@@ -76,7 +76,7 @@ The Bincai Kraft Paper Gift Box with Natural Hemp Rope Handle represents our com
 
 ---
 
-*Guangdong Bincai Color Printing Co., Ltd. — 22 years of packaging excellence. ISO 9001:2015 & FSC certified. 18,000 sqm Foshan facility (10,000+8,000 smart factory). Daily output: 1.7M+ boxes. Serving 60+ countries worldwide.*
+*Guangdong Bincai Color Printing Co., Ltd. — 23 years of packaging excellence. ISO 9001:2015 & FSC certified. 18,000 sqm Foshan facility (10,000+8,000 smart factory). Daily output: 1.7M+ boxes. Serving 60+ countries worldwide.*
 
 ## Manufacturing Excellence
 
@@ -84,7 +84,7 @@ The Bincai Kraft Paper Gift Box with Natural Hemp Rope Handle represents our com
 |---|---|
 | **Presses** | KBA Rapida 105 4-color (15,000 sheets/hr) + Heidelberg Speedmaster CD 102 7+1 UV for soy-ink eco printing and water-based varnish application |
 | **Factory** | 18,000 sqm dual-facility (10,000 sqm main + 8,000 sqm smart factory renovated 2025) in Foshan, Pearl River Delta, China |
-| **Experience** | 22 years founded 2003 — Diamond Member on Made-in-China.com, dedicated eco-production lines for plastic-free packaging |
+| **Experience** | 23 years founded 2003 — Diamond Member on Made-in-China.com, dedicated eco-production lines for plastic-free packaging |
 | **Daily Output** | 1.7M color boxes/day + 220K+ rigid gift boxes/day; dedicated kraft eco-box production line |
 | **Specialty** | Bobst SP 102 BMA die-cutting (±0.15mm), BHS 2.5m Corrugator for kraft board, soy-ink CMYK, hemp rope assembly, water-based adhesive bonding |
 | **Sampling** | Free pre-production samples in 5-7 working days including hemp handle assembly and material swatches |

@@ -2,7 +2,7 @@
 title: "Pearl Earring & Necklace Set Gift Box with Velvet Tray & Magnetic Flap"
 date: 2026-06-15
 draft: false
-description: "Pearl Earring & Necklace Set Gift Box with Velvet Tray & Magnetic Flap — custom manufactured by Bincai Printing, 22-year ISO 9001 & FSC certified paper box factory. Dual-compartment velvet tray holds a pearl necklace in the main groove and matching pearl earrings in dedicated stud slots. Magnetic flap closure with N35 neodymium magnets. Rigid 2.5mm greyboard construction wrapped in premium art paper with full-color CMYK offset printing on KBA 1050 4-color press. Hot foil stamping, embossing, spot UV, soft-touch lamination. Manufactured at Bincai's 18,000 sqm ISO 9001:2015 & FSC certified facility with Heidelberg 7+1 UV press. 22 years Guangdong manufacturing, 220,000+ rigid boxes daily. MOQ 500. Free pre-production samples 5-7 days."
+description: "Pearl Earring & Necklace Set Gift Box with Velvet Tray & Magnetic Flap — custom manufactured by Bincai Printing, 23-year ISO 9001 & FSC certified paper box factory. Dual-compartment velvet tray holds a pearl necklace in the main groove and matching pearl earrings in dedicated stud slots. Magnetic flap closure with N35 neodymium magnets. Rigid 2.5mm greyboard construction wrapped in premium art paper with full-color CMYK offset printing on KBA 1050 4-color press. Hot foil stamping, embossing, spot UV, soft-touch lamination. Manufactured at Bincai's 18,000 sqm ISO 9001:2015 & FSC certified facility with Heidelberg 7+1 UV press. 23 years Guangdong manufacturing, 220,000+ rigid boxes daily. MOQ 500. Free pre-production samples 5-7 days."
 keywords: "pearl jewelry box, necklace earring set box, pearl set packaging, velvet tray box, magnetic flap jewelry box, pearl necklace box, Bincai jewelry packaging, Guangdong jewelry box manufacturer, velvet insert box, pearl gift box, KBA 1050 jewelry box, ISO 9001 FSC jewelry packaging, 18,000 sqm factory, custom pearl set box"
 categories: ["jewelry-boxes"]
 params:
@@ -129,14 +129,14 @@ A: Each box uses 4 × N35 neodymium magnets with a combined pull force exceeding
 
 ## Why Bincai?
 
-Guangdong Bincai Color Printing has specialized in premium jewelry packaging for over 22 years, producing velvet-tray magnetic-closure boxes for pearl brands, fine jewelry retailers, and luxury accessories houses worldwide. Our 18,000 sqm facility in Foshan — at the heart of China's Pearl River Delta manufacturing hub — combines 350+ skilled workers with German-engineered printing and finishing equipment to deliver consistent quality at scale, from 500-piece trial orders to 100,000+ unit production runs.
+Guangdong Bincai Color Printing has specialized in premium jewelry packaging for over 23 years, producing velvet-tray magnetic-closure boxes for pearl brands, fine jewelry retailers, and luxury accessories houses worldwide. Our 18,000 sqm facility in Foshan — at the heart of China's Pearl River Delta manufacturing hub — combines 350+ skilled workers with German-engineered printing and finishing equipment to deliver consistent quality at scale, from 500-piece trial orders to 100,000+ unit production runs.
 
 - **Velvet Tray Mastery**: In-house vacuum forming and precision flock application with 18 standard velvet colors and Pantone-matched custom options — tray recesses are die-cut to ±0.3mm for a perfect jewelry fit
 - **Magnetic Closure Expertise**: N35 neodymium magnet integration with polarity-verified assembly and digital force-gauge testing on every batch — 4-magnet configuration ensures reliable 10 N+ closure strength
 - **Foil Stamping Precision**: Bobst SP 102 BMA autoplaten delivers ±0.1mm foil registration for crisp logo reproduction in gold, silver, rose gold, copper, and holographic finishes
 - **Jewelry-Safe Compliance**: All materials tested to CPSIA, EN 71-3, and ASTM F963 standards — lead <90 ppm, phthalate-free, heavy-metal-free inks — with certificates furnished per shipment
 
-**Factory Facts**: 22 years established (since 2003) · 18,000 sqm (10,000 sqm main + 8,000 sqm smart factory) · KBA Rapida 105 4-color + Heidelberg Speedmaster CD 102 7+1 UV · Bobst SP 102 BMA · Emmeci MC2004 · ISO 9001:2015 · FSC Chain-of-Custody · Sedex SMETA · 1.7M boxes/day capacity (220K+ rigid) · 350+ workers · Free samples in 5-7 days
+**Factory Facts**: 23 years established (since 2003) · 18,000 sqm (10,000 sqm main + 8,000 sqm smart factory) · KBA Rapida 105 4-color + Heidelberg Speedmaster CD 102 7+1 UV · Bobst SP 102 BMA · Emmeci MC2004 · ISO 9001:2015 · FSC Chain-of-Custody · Sedex SMETA · 1.7M boxes/day capacity (220K+ rigid) · 350+ workers · Free samples in 5-7 days
 
 **Shipping**: FOB Foshan / CIF to major ports worldwide. Sea freight to US West Coast 14-18 days; to Europe 22-28 days. Air freight available for urgent orders (5-7 days to most destinations).
 

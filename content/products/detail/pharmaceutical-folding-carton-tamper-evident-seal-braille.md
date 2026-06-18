@@ -2,7 +2,7 @@
 title: "Pharmaceutical Folding Carton with Tamper-Evident Seal Braille Embossing"
 date: 2026-06-11
 draft: false
-description: "Regulatory-compliant pharmaceutical folding carton featuring tamper-evident tear strip, Braille embossing per EU Directive 2001/83/EC, and child-resistant mechanisms certified to ISO 8317. Printed on KBA Rapida 105 4-color (15,000 sheets/hr) and Heidelberg Speedmaster CD 102 7+1 UV with inter-deck UV curing for low-migration inks. Bobst SP 102 BMA ensures ±0.15mm foil stamping precision. ISO 9001:2015, FSC Chain-of-Custody, GMP-compliant production in 18,000 sqm dual-factory (10,000+8,000 smart factory 2025). 22 years since 2003, 1.7M color boxes + 220K rigid boxes daily. MOQ 500, free pre-production samples."
+description: "Regulatory-compliant pharmaceutical folding carton featuring tamper-evident tear strip, Braille embossing per EU Directive 2001/83/EC, and child-resistant mechanisms certified to ISO 8317. Printed on KBA Rapida 105 4-color (15,000 sheets/hr) and Heidelberg Speedmaster CD 102 7+1 UV with inter-deck UV curing for low-migration inks. Bobst SP 102 BMA ensures ±0.15mm foil stamping precision. ISO 9001:2015, FSC Chain-of-Custody, GMP-compliant production in 18,000 sqm dual-factory (10,000+8,000 smart factory 2025). 23 years since 2003, 1.7M color boxes + 220K rigid boxes daily. MOQ 500, free pre-production samples."
 keywords: "pharmaceutical folding carton, tamper evident box, Braille packaging, child resistant carton, medicine box packaging, pharmaceutical packaging manufacturer, GMP folding carton, ISO 9001 pharma box, FSC pharmaceutical packaging, Bincai pharma carton, regulatory compliant packaging, Foshan pharmaceutical box, serialization carton, track and trace packaging, prescription drug box, pharmaceutical carton China manufacturer, tamper evident medicine packaging, child resistant pharmaceutical box, Braille embossing carton supplier, GMP certified packaging factory, low migration ink pharma box, EU FMD serialization packaging, ISO 15378 pharmaceutical carton, FDA 21 CFR compliant box, clinical trial packaging manufacturer, OTC medicine folding carton, blister pack carton supplier, pharma packaging MOQ 500, drug packaging with security features, pharmaceutical box Guangdong factory"
 categories: ["folding-cartons"]
 params:
@@ -91,7 +91,7 @@ Our pharmaceutical folding carton production leverages world-class press technol
 
 ## Why Choose Bincai for Pharmaceutical Packaging
 - **GMP-compliant production zone** — dedicated 500 sqm clean production area with HEPA filtration, controlled humidity (45–55% RH), positive air pressure, and restricted access
-- **22 years of regulated packaging expertise** — serving pharmaceutical, medical device, and clinical trial packaging clients worldwide since 2003
+- **23 years of regulated packaging expertise** — serving pharmaceutical, medical device, and clinical trial packaging clients worldwide since 2003
 - **Regulatory mastery** — packaging compliant with FDA 21 CFR Part 211, EU Falsified Medicines Directive (2011/62/EU), ISO 15378, and ICH Q7 GMP guidelines
 - **Low-migration printing** — Heidelberg 7+1 UV press with low-migration UV inks and photoinitiators, tested per EuPIA Suitability List and Swiss Ordinance Annex 6/10
 - **Full traceability architecture** — batch-level documentation from incoming raw materials through finished cartons with camera-verified serialization at 100 units/minute

@@ -2,7 +2,7 @@
 title: "Velvet Jewelry Gift Box with Hidden Message Compartment and Magnetic Closure"
 date: 2026-06-14
 draft: false
-description: "Secret-compartment velvet jewelry box manufactured by Guangdong Bincai Color Printing (22 years, ISO 9001 & FSC certified, 18,000 sqm). Concealed message drawer beneath the main jewelry tray — slide to reveal an engraved love note, proposal message, or brand story. Magnetic flip-lid closure, soft-touch velvet exterior, satin-lined interior with ring slot and necklace hooks. Custom engraving, foil stamping, and LED options. MOQ 500. Daily output 1.7M boxes across Heidelberg 7+1 UV and KBA 1050 4-color production lines."
+description: "Secret-compartment velvet jewelry box manufactured by Guangdong Bincai Color Printing (23 years, ISO 9001 & FSC certified, 18,000 sqm). Concealed message drawer beneath the main jewelry tray — slide to reveal an engraved love note, proposal message, or brand story. Magnetic flip-lid closure, soft-touch velvet exterior, satin-lined interior with ring slot and necklace hooks. Custom engraving, foil stamping, and LED options. MOQ 500. Daily output 1.7M boxes across Heidelberg 7+1 UV and KBA 1050 4-color production lines."
 keywords: "hidden message jewelry box, secret compartment gift box, proposal ring box, velvet jewelry box with message, magnetic closure jewelry box, custom engraved jewelry box, love note box, romantic gift packaging, Bincai jewelry box, ISO 9001 gift box, FSC certified jewelry packaging, 18,000 sqm factory, Guangdong rigid box manufacturer, OEM jewelry box China, Heidelberg 7+1 UV, KBA 1050, velvet ring box hidden drawer"
 categories: ["jewelry-boxes"]
 params:
@@ -18,7 +18,7 @@ params:
 
 Some gifts speak without words. The **Velvet Jewelry Gift Box with Hidden Message Compartment** is engineered for those moments — a beautifully crafted jewelry box that holds more than a ring, necklace, or bracelet. It holds a secret. A concealed drawer beneath the main jewelry tray slides open to reveal an engraved message: a proposal, an anniversary note, a brand story, or a personalized thank-you.
 
-Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — 22 years of premium packaging expertise, ISO 9001:2015 & FSC® certified, 18,000 sqm facility, 1.7M boxes/day capacity — this box turns the act of giving jewelry into a multi-sensory experience that begins with curiosity and ends with emotion.
+Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — 23 years of premium packaging expertise, ISO 9001:2015 & FSC® certified, 18,000 sqm facility, 1.7M boxes/day capacity — this box turns the act of giving jewelry into a multi-sensory experience that begins with curiosity and ends with emotion.
 
 ## Key Specifications
 
@@ -96,7 +96,7 @@ The moment of discovering a hidden message turns a ring into a proposal story an
 
 ## Why Bincai
 
-- **22 years** of luxury rigid box manufacturing — over 500 million boxes produced
+- **23 years** of luxury rigid box manufacturing — over 500 million boxes produced
 - **18,000 sqm** ISO 9001:2015 + FSC® certified facility in Guangdong, China
 - **Heidelberg 7+1 UV** offset press — inline coating for scuff-resistant velvet wrap prints
 - **KBA 1050 4-color** press — precise registration for insert cards and interior prints

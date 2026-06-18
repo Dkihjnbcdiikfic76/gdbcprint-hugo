@@ -2,7 +2,7 @@
 title: "1-2-3 Bottom Rigid Gift Box with Magnetic Closure — Premium Gift Packaging"
 date: 2026-06-11
 draft: false
-description: "1-2-3 bottom rigid gift box with magnetic closure and custom CMYK printing. Collapsible for flat shipping, easy pop-up assembly. 2.0mm greyboard core, 157gsm art paper wrap. KBA 1050 4-color offset, optional gold foil stamping. 22-year Bincai factory, 18,000 sqm facility, ISO 9001 and FSC certified, 1.7M daily output."
+description: "1-2-3 bottom rigid gift box with magnetic closure and custom CMYK printing. Collapsible for flat shipping, easy pop-up assembly. 2.0mm greyboard core, 157gsm art paper wrap. KBA 1050 4-color offset, optional gold foil stamping. 23-year Bincai factory, 18,000 sqm facility, ISO 9001 and FSC certified, 1.7M daily output."
 keywords: "1-2-3 bottom rigid box, magnetic closure gift box, pop-up rigid box, collapsible gift box, luxury gift packaging, custom rigid box, China rigid box manufacturer, KBA 1050 printed box, FSC certified gift box, greyboard rigid box, gold foil stamping, flat shipping gift box, Bincai custom box, 1-2-3 collapsible mechanism, N42 neodymium magnets, corporate gift packaging, luxury apparel box, gift-with-purchase packaging, premium confectionery box, 18,000 sqm rigid box factory, ISO 9001 rigid box, Heidelberg 7+1 UV, embossed gift box"
 categories: ["rigid-gift-boxes"]
 params:
@@ -81,8 +81,8 @@ The 1-2-3 collapsible mechanism is not just a convenience feature — it's a log
 
 ## Why Bincai?
 
-Bincai's patented 1-2-3 collapsible rigid box technology is backed by **22 years** of precision paper box engineering. Our in-house die-making workshop produces custom dies within 24 hours, and rapid prototyping delivers physical samples in 48 hours for customer approval. With **1.7 million boxes daily output** and ISO 9001:2015 quality systems, we deliver luxury packaging at industrial scale — no compromise on quality, no premium on quantity.
+Bincai's patented 1-2-3 collapsible rigid box technology is backed by **23 years** of precision paper box engineering. Our in-house die-making workshop produces custom dies within 24 hours, and rapid prototyping delivers physical samples in 48 hours for customer approval. With **1.7 million boxes daily output** and ISO 9001:2015 quality systems, we deliver luxury packaging at industrial scale — no compromise on quality, no premium on quantity.
 
-**Factory Facts:** Founded 2003 | 22 years experience | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC certified | Foshan, Guangdong, China
+**Factory Facts:** Founded 2003 | 23 years experience | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC certified | Foshan, Guangdong, China
 
 **Lead Time:** 10–14 days standard; 7 days rush. Samples: 48 hours (existing tooling), 3–5 days (new custom dies).

@@ -2,7 +2,7 @@
 title: "Crash-Lock Bottom Folding Carton Grease-Resistant Coating Bakery Pastry"
 date: 2026-06-15
 draft: false
-description: "Crash-lock bottom folding carton with grease-resistant coating for bakery, pastry, croissant, and donut packaging. Instant pop-open assembly — no tape or glue. Manufactured by Bincai: KBA 1050 4-color offset + Heidelberg 7+1 UV press, 300-450gsm SBS/FBB with grease-resistant aqueous coating, hot foil stamping, embossing, matte/gloss lamination, die-cut window, 10,000+8,000sqm dual factory, 22 years experience, ISO 9001:2015 & FSC certified, food-grade inks, 1.7M daily output, 80+ workers. MOQ 500. Free pre-production samples 5-7 days."
+description: "Crash-lock bottom folding carton with grease-resistant coating for bakery, pastry, croissant, and donut packaging. Instant pop-open assembly — no tape or glue. Manufactured by Bincai: KBA 1050 4-color offset + Heidelberg 7+1 UV press, 300-450gsm SBS/FBB with grease-resistant aqueous coating, hot foil stamping, embossing, matte/gloss lamination, die-cut window, 10,000+8,000sqm dual factory, 23 years experience, ISO 9001:2015 & FSC certified, food-grade inks, 1.7M daily output, 80+ workers. MOQ 500. Free pre-production samples 5-7 days."
 keywords: "crash lock bottom carton, bakery packaging box, pastry box, grease resistant carton, donut box packaging, croissant packaging box, folding carton manufacturer China, ISO 9001 FSC packaging, food safe paper box, auto lock bottom carton, baked goods packaging box, KBA Heidelberg folding carton, Bincai, Guangdong folding carton factory"
 categories: ["folding-cartons"]
 params:
@@ -14,7 +14,7 @@ params:
 
 ![Bincai Folding Cartons](/images/folding-cartons.jpg)
 
-Crash-lock bottom folding carton with grease-resistant coating for bakery, pastry, and baked goods packaging — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). The crash-lock (snap-lock) bottom design folds flat for storage and pops open instantly when squared up, making it ideal for bakeries with high-volume counter service. The integrated grease-resistant coating prevents oil and butter from soaking through the board — keeping your brand printing crisp and your customers' hands clean. KBA 1050 4-color and Heidelberg 7+1 UV presses deliver precision printing across 18,000 sqm factory (10,000+8,000 smart factory). Daily output 1.7 million boxes.
+Crash-lock bottom folding carton with grease-resistant coating for bakery, pastry, and baked goods packaging — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 23 years of experience (founded 2003). The crash-lock (snap-lock) bottom design folds flat for storage and pops open instantly when squared up, making it ideal for bakeries with high-volume counter service. The integrated grease-resistant coating prevents oil and butter from soaking through the board — keeping your brand printing crisp and your customers' hands clean. KBA 1050 4-color and Heidelberg 7+1 UV presses deliver precision printing across 18,000 sqm factory (10,000+8,000 smart factory). Daily output 1.7 million boxes.
 
 ## Applications
 - Bakery and patisserie takeaway packaging
@@ -54,7 +54,7 @@ Crash-lock bottom folding carton with grease-resistant coating for bakery, pastr
 - MOQ 500–1000 units, trial orders and OEM/ODM accepted
 
 ## Factory
-- 22 years of manufacturing excellence since 2003
+- 23 years of manufacturing excellence since 2003
 - 18,000 sqm factory (10,000+8,000 smart factory)
 - 80+ skilled employees across design, prepress, printing, and finishing
 - KBA 1050 4-color + Heidelberg 7+1 UV presses
@@ -77,7 +77,7 @@ A: Yes, our food-grade configuration uses water-based adhesives, low-migration o
 
 When you partner with Bincai, you're choosing a packaging manufacturer with the scale, certification, and technical capability to deliver consistent quality at competitive pricing:
 
-- **22 Years of Manufacturing Excellence** — Founded in 2003, Bincai has spent over two decades refining folding carton production. Our experience spans food, bakery, confectionery, and retail packaging, giving us deep cross-industry knowledge that benefits every project.
+- **23 Years of Manufacturing Excellence** — Founded in 2003, Bincai has spent over two decades refining folding carton production. Our experience spans food, bakery, confectionery, and retail packaging, giving us deep cross-industry knowledge that benefits every project.
 
 - **18,000 sqm Dual Factory** — Our campus includes a 10,000 sqm primary production facility plus an 8,000 sqm smart factory. This dual-site layout provides production redundancy, parallel order processing, and the capacity to handle rush orders without disrupting ongoing production.
 

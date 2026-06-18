@@ -2,8 +2,8 @@
 title: "Portfolio Magnetic Closure Presentation Kit for Corporate Brand Documents"
 date: 2026-06-14
 draft: false
-description: "Portfolio Magnetic Closure Presentation Kit for Corporate Brand Documents by Guangdong Bincai Color Printing — Diamond Member on Made-in-China.com. ISO 9001 FSC certified. Manufactured by Guangdong Bincai Color Printing Co., Ltd. — 22 years experience (founded 2003), 18,000 sqm dual factory (10,000+8,000 sqm smart factory), ISO 9001:2015 & FSC certified, KBA 1050 4-color + Heidelberg 7+1 UV presses, daily output 1.7M boxes, serving 200+ global brands from Foshan, China. Portfolio-style magnetic presentation kit: folio format with magnetic flap closure, custom foam insert for brochures, pen, USB, and business cards — premium corporate identity packaging."
-keywords: "portfolio presentation kit, magnetic closure folio, corporate gift box, brand document box, premium presentation kit, Bincai, Guangdong packaging factory, 22 years experience, ISO 9001 certified, FSC certified, KBA 1050 offset, Heidelberg 7+1 UV, 18,000 sqm factory, 1.7M daily output, OEM magnetic box China"
+description: "Portfolio Magnetic Closure Presentation Kit for Corporate Brand Documents by Guangdong Bincai Color Printing — Diamond Member on Made-in-China.com. ISO 9001 FSC certified. Manufactured by Guangdong Bincai Color Printing Co., Ltd. — 23 years experience (founded 2003), 18,000 sqm dual factory (10,000+8,000 sqm smart factory), ISO 9001:2015 & FSC certified, KBA 1050 4-color + Heidelberg 7+1 UV presses, daily output 1.7M boxes, serving 200+ global brands from Foshan, China. Portfolio-style magnetic presentation kit: folio format with magnetic flap closure, custom foam insert for brochures, pen, USB, and business cards — premium corporate identity packaging."
+keywords: "portfolio presentation kit, magnetic closure folio, corporate gift box, brand document box, premium presentation kit, Bincai, Guangdong packaging factory, 23 years experience, ISO 9001 certified, FSC certified, KBA 1050 offset, Heidelberg 7+1 UV, 18,000 sqm factory, 1.7M daily output, OEM magnetic box China"
 categories: ["magnetic-closure-boxes"]
 params:
   moq: "500-1000"
@@ -14,7 +14,7 @@ params:
 
 ![Portfolio Magnetic Closure Presentation Kit for Corporate Brand Documents](/images/magnetic-closure-boxes.jpg)
 
-Premium portfolio-style magnetic closure presentation kit — manufactured by **Guangdong Bincai Color Printing Co., Ltd.**, a Diamond Member on Made-in-China.com, Audited Supplier with 22 years of experience. Designed in a horizontal or vertical folio format with a wraparound magnetic flap that opens to reveal a precision die-cut foam interior. Each cavity is custom-molded to cradle brochures, pens, USB drives, business cards, and product samples — creating a cohesive, premium unboxing experience for corporate brand presentations, investor kits, and luxury sales collateral. The magnetic closure delivers a satisfying, authoritative snap that signals quality before the kit is even opened. Produced on Heidelberg 7+1 UV and KBA 1050 4-color presses across 18,000 sqm factory.
+Premium portfolio-style magnetic closure presentation kit — manufactured by **Guangdong Bincai Color Printing Co., Ltd.**, a Diamond Member on Made-in-China.com, Audited Supplier with 23 years of experience. Designed in a horizontal or vertical folio format with a wraparound magnetic flap that opens to reveal a precision die-cut foam interior. Each cavity is custom-molded to cradle brochures, pens, USB drives, business cards, and product samples — creating a cohesive, premium unboxing experience for corporate brand presentations, investor kits, and luxury sales collateral. The magnetic closure delivers a satisfying, authoritative snap that signals quality before the kit is even opened. Produced on Heidelberg 7+1 UV and KBA 1050 4-color presses across 18,000 sqm factory.
 
 ## Applications
 
@@ -69,7 +69,7 @@ The portfolio magnetic closure presentation kit serves industries where percepti
 - **Munich Automotive Brand (Germany)** — A German luxury automotive manufacturer's Chinese market division commissioned 10,000 portfolio kits for dealership test-drive experience packages. The kit, in black soft-touch matte lamination with silver foil brand mark, contained a vehicle brochure, configuration guide, USB with configurator software, and a leather RFID key card holder. The magnetic closure was engineered to withstand 10,000+ open/close cycles — tested on a robotic cycling rig for 72 continuous hours. 30,000-unit annual contract across all APAC dealerships now in its third year.
 
 ## Why Bincai
-- **22 years** of premium rigid box manufacturing since 2003
+- **23 years** of premium rigid box manufacturing since 2003
 - **18,000 sqm** dual-factory with dedicated rigid box production line
 - **200+ global brands** served including luxury, automotive, and financial sectors
 - **1.7M boxes/day** capacity ensures timely delivery for large corporate orders

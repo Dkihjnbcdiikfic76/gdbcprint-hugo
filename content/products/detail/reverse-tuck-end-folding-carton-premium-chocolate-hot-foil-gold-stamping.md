@@ -2,8 +2,8 @@
 title: "Reverse Tuck End Folding Carton for Premium Chocolate — Hot Foil Gold Stamping"
 date: 2026-06-14
 draft: false
-description: "Reverse Tuck End (RTE) Folding Carton for Premium Chocolate with hot foil gold stamping by Guangdong Bincai Color Printing — 22 years folding carton manufacturing since 2003. Double-sided CMYK printing on 350gsm C2S art board, matte lamination, hot gold foil stamping on both panels, precision die-cut with auto-lock bottom option. Manufactured on KBA 1050 4-color and Heidelberg 7+1 UV presses across 18,000 sqm ISO 9001:2015 & FSC certified factory. Daily output 1.7 million color boxes. Perfect for premium chocolate bars, confectionery, baked goods, and gourmet food retail. MOQ 1,000, free pre-production samples. Foshan, Guangdong, China."
-keywords: "reverse tuck end carton, RTE folding carton, premium chocolate box, hot foil chocolate box, folding carton gold foil, chocolate packaging box, confectionery packaging, custom printed chocolate box, china folding carton manufacturer, ISO 9001 FSC folding carton, KBA 1050 chocolate box, Heidelberg UV carton, Bincai folding carton, 18,000 sqm factory, 22 years manufacturer, Guangdong folding cartons, gourmet food packaging, RTE chocolate carton, auto-lock bottom carton, matte lamination chocolate box, double-sided printing carton, luxury chocolate packaging, wholesale chocolate box, OEM folding carton, C2S art board carton"
+description: "Reverse Tuck End (RTE) Folding Carton for Premium Chocolate with hot foil gold stamping by Guangdong Bincai Color Printing — 23 years folding carton manufacturing since 2003. Double-sided CMYK printing on 350gsm C2S art board, matte lamination, hot gold foil stamping on both panels, precision die-cut with auto-lock bottom option. Manufactured on KBA 1050 4-color and Heidelberg 7+1 UV presses across 18,000 sqm ISO 9001:2015 & FSC certified factory. Daily output 1.7 million color boxes. Perfect for premium chocolate bars, confectionery, baked goods, and gourmet food retail. MOQ 1,000, free pre-production samples. Foshan, Guangdong, China."
+keywords: "reverse tuck end carton, RTE folding carton, premium chocolate box, hot foil chocolate box, folding carton gold foil, chocolate packaging box, confectionery packaging, custom printed chocolate box, china folding carton manufacturer, ISO 9001 FSC folding carton, KBA 1050 chocolate box, Heidelberg UV carton, Bincai folding carton, 18,000 sqm factory, 23 years manufacturer, Guangdong folding cartons, gourmet food packaging, RTE chocolate carton, auto-lock bottom carton, matte lamination chocolate box, double-sided printing carton, luxury chocolate packaging, wholesale chocolate box, OEM folding carton, C2S art board carton"
 categories: ["folding-cartons"]
 params:
   moq: "1000-3000"
@@ -16,7 +16,7 @@ params:
 
 ## Product Overview
 
-Bincai's reverse tuck end (RTE) folding carton delivers premium chocolate presentation at volume-friendly economics. The RTE structure — with top and bottom flaps tucking from opposite ends — provides secure closure while enabling flat-packed shipping for efficient logistics. Double-sided CMYK printing on 350gsm C2S (coated two sides) art board, enhanced with matte lamination and hot gold foil stamping. Manufactured on KBA 1050 4-color offset presses in our 18,000 sqm Foshan facility. 22 years of folding carton expertise.
+Bincai's reverse tuck end (RTE) folding carton delivers premium chocolate presentation at volume-friendly economics. The RTE structure — with top and bottom flaps tucking from opposite ends — provides secure closure while enabling flat-packed shipping for efficient logistics. Double-sided CMYK printing on 350gsm C2S (coated two sides) art board, enhanced with matte lamination and hot gold foil stamping. Manufactured on KBA 1050 4-color offset presses in our 18,000 sqm Foshan facility. 23 years of folding carton expertise.
 
 ## Manufacturing Specifications
 
@@ -75,7 +75,7 @@ Premium chocolate demands packaging that protects delicate products while commun
 - **Flat-Shipping Economics** — RTE cartons ship flat, saving 60-70% freight volume vs. pre-assembled boxes; assembles in under 2 seconds at your filling line
 - **End-to-End Integration** — printing, foil stamping, die-cutting, gluing, and flat-packing happen under one roof — faster turnaround, no multi-vendor coordination
 
-**Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
+**Factory Facts:** Founded 2003 | 23 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
 
 ## Sustainability & Compliance
 

@@ -2,8 +2,8 @@
 title: "Hexagonal Velvet Earring Box with Transparent Window and Satin Lining"
 date: 2026-06-14
 draft: false
-description: "Hexagonal velvet earring box with PET transparent window by Guangdong Bincai Color Printing — 22 years luxury packaging manufacturer since 2003. Unique hexagonal shape with die-cut window revealing earrings without opening. 2mm rigid greyboard wrapped in 180gsm velvet flocking. Die-cut foam insert with earring slots. Satin-lined interior. Magnetic front-flap closure. Custom foil stamping and embossing. KBA 1050 + Heidelberg 7+1 UV, 18,000 sqm ISO 9001 & FSC factory. Daily output 220,000+ boxes. MOQ 500."
-keywords: "hexagonal earring box, transparent window earring box, velvet earring packaging, hexagon jewelry box, satin lining box, earring display box, china velvet box, custom foil earring box, Bincai jewelry box, window display box, die-cut foam insert, magnetic closure box, luxury earring packaging, OEM earring box, 22 years manufacturer, ISO 9001 FSC, Guangdong box factory, KBA 1050 jewelry box, Heidelberg UV box, retail earring display, 180gsm velvet, hexagonal gift box, PET window box"
+description: "Hexagonal velvet earring box with PET transparent window by Guangdong Bincai Color Printing — 23 years luxury packaging manufacturer since 2003. Unique hexagonal shape with die-cut window revealing earrings without opening. 2mm rigid greyboard wrapped in 180gsm velvet flocking. Die-cut foam insert with earring slots. Satin-lined interior. Magnetic front-flap closure. Custom foil stamping and embossing. KBA 1050 + Heidelberg 7+1 UV, 18,000 sqm ISO 9001 & FSC factory. Daily output 220,000+ boxes. MOQ 500."
+keywords: "hexagonal earring box, transparent window earring box, velvet earring packaging, hexagon jewelry box, satin lining box, earring display box, china velvet box, custom foil earring box, Bincai jewelry box, window display box, die-cut foam insert, magnetic closure box, luxury earring packaging, OEM earring box, 23 years manufacturer, ISO 9001 FSC, Guangdong box factory, KBA 1050 jewelry box, Heidelberg UV box, retail earring display, 180gsm velvet, hexagonal gift box, PET window box"
 categories: ["jewelry-boxes"]
 params:
   moq: "500-1000"
@@ -72,7 +72,7 @@ Bincai's hexagonal velvet earring box reimagines jewelry packaging with its dist
 
 | Strength | Detail |
 |---|---|
-| **22 Years Experience** | Manufacturing premium packaging since 2003, serving 60+ countries |
+| **23 Years Experience** | Manufacturing premium packaging since 2003, serving 60+ countries |
 | **ISO & FSC Certified** | ISO 9001:2015 quality management + FSC Chain-of-Custody for sustainable sourcing |
 | **Advanced Presses** | KBA 1050 4-color offset + Heidelberg 7+1 UV for vibrant, precise printing |
 | **Massive Capacity** | 18,000 sqm integrated factory; 1.7M folding cartons + 220,000+ rigid boxes daily |

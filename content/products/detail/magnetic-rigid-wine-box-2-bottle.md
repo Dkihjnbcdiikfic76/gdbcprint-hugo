@@ -2,8 +2,8 @@
 title: "Magnetic Rigid Wine Box — 2-Bottle Luxury Gift Packaging by Bincai"
 date: 2026-06-11
 draft: false
-description: "Luxury 2-bottle magnetic rigid wine box with velvet lining, gold foil branding, and precision die-cut bottle cavities. Manufactured by Guangdong Bincai Color Printing Co., Ltd. — 22 years experience (founded 2003), 18,000 sqm dual factory (10,000+8,000 sqm smart factory), ISO 9001:2015 & FSC certified. KBA 1050 4-color offset + Heidelberg 7+1 UV presses, Bobst SP 102 BMA foil stampers with ±0.15mm registration. 2.0mm rigid greyboard construction, N35–N52 neodymium magnetic closure, velvet/satin flocked interior. 1.7M daily output, 220,000+ rigid boxes daily. MOQ 500, free samples 5–7 days. 1-bottle, 2-bottle, and 3-bottle configurations available."
-keywords: "magnetic wine box, 2-bottle wine gift box, luxury rigid wine packaging, custom wine box manufacturer, velvet lined wine box, gold foil wine box, China wine box supplier, FSC wine packaging, Bincai wine box, KBA 1050 wine box, Heidelberg UV wine box, Bobst foil wine box, rigid magnetic closure box, wine gift packaging, double bottle wine box, premium wine presentation box, Guangdong wine box factory, 18 000 sqm factory, 22 years packaging manufacturer, ISO 9001 wine packaging, N52 magnet wine box, satin lined wine box, corporate wine gift box, wooden look wine box, champagne gift box, spirits presentation box, OEM wine box China, Foshan packaging factory, 1.7M daily output, 220 000 rigid boxes daily"
+description: "Luxury 2-bottle magnetic rigid wine box with velvet lining, gold foil branding, and precision die-cut bottle cavities. Manufactured by Guangdong Bincai Color Printing Co., Ltd. — 23 years experience (founded 2003), 18,000 sqm dual factory (10,000+8,000 sqm smart factory), ISO 9001:2015 & FSC certified. KBA 1050 4-color offset + Heidelberg 7+1 UV presses, Bobst SP 102 BMA foil stampers with ±0.15mm registration. 2.0mm rigid greyboard construction, N35–N52 neodymium magnetic closure, velvet/satin flocked interior. 1.7M daily output, 220,000+ rigid boxes daily. MOQ 500, free samples 5–7 days. 1-bottle, 2-bottle, and 3-bottle configurations available."
+keywords: "magnetic wine box, 2-bottle wine gift box, luxury rigid wine packaging, custom wine box manufacturer, velvet lined wine box, gold foil wine box, China wine box supplier, FSC wine packaging, Bincai wine box, KBA 1050 wine box, Heidelberg UV wine box, Bobst foil wine box, rigid magnetic closure box, wine gift packaging, double bottle wine box, premium wine presentation box, Guangdong wine box factory, 18 000 sqm factory, 23 years packaging manufacturer, ISO 9001 wine packaging, N52 magnet wine box, satin lined wine box, corporate wine gift box, wooden look wine box, champagne gift box, spirits presentation box, OEM wine box China, Foshan packaging factory, 1.7M daily output, 220 000 rigid boxes daily"
 categories: ["magnetic-closure-boxes"]
 params:
   moq: "500-1000"
@@ -16,7 +16,7 @@ params:
 
 ## Product Overview
 
-Guangdong Bincai Color Printing's magnetic rigid wine box is engineered for premium wine gifting — combining German press technology with 22 years of luxury packaging expertise. The 2-bottle configuration features a secure magnetic flap closure, plush velvet interior flocking, and precision die-cut bottle cavities that cradle standard Bordeaux, Burgundy, and Champagne bottles. Available in 1-bottle, 2-bottle, and 3-bottle configurations. Built in our 18,000 sqm dual-factory complex (10,000+8,000 sqm smart factory) in Foshan, each box is produced on KBA 1050 4-color offset and Heidelberg 7+1 UV presses, with Bobst SP 102 BMA hot foil stamping for premium gold/silver logo branding. ISO 9001:2015 and FSC certified. Daily output: 220,000+ rigid boxes.
+Guangdong Bincai Color Printing's magnetic rigid wine box is engineered for premium wine gifting — combining German press technology with 23 years of luxury packaging expertise. The 2-bottle configuration features a secure magnetic flap closure, plush velvet interior flocking, and precision die-cut bottle cavities that cradle standard Bordeaux, Burgundy, and Champagne bottles. Available in 1-bottle, 2-bottle, and 3-bottle configurations. Built in our 18,000 sqm dual-factory complex (10,000+8,000 sqm smart factory) in Foshan, each box is produced on KBA 1050 4-color offset and Heidelberg 7+1 UV presses, with Bobst SP 102 BMA hot foil stamping for premium gold/silver logo branding. ISO 9001:2015 and FSC certified. Daily output: 220,000+ rigid boxes.
 
 ## Applications
 
@@ -102,7 +102,7 @@ Most wine packaging supply chains involve three vendors: the wooden box maker (c
 
 ## Factory
 
-- **Founded**: 2003 — 22 years of luxury rigid box manufacturing in Foshan, Guangdong, China
+- **Founded**: 2003 — 23 years of luxury rigid box manufacturing in Foshan, Guangdong, China
 - **Factory Size**: 18,000 sqm dual-factory complex (10,000+8,000 sqm smart factory, commissioned 2025)
 - **Workforce**: 80+ skilled employees across design, printing, foil stamping, flocking, and rigid box assembly
 - **Certifications**: ISO 9001:2015 quality management, FSC Chain-of-Custody (sustainable forestry)

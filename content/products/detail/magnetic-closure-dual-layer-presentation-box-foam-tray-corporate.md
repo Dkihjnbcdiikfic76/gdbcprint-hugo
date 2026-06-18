@@ -2,7 +2,7 @@
 title: "Magnetic Closure Dual-Layer Presentation Box with Foam Tray — Corporate Gift & Award Packaging"
 date: 2026-06-16
 draft: false
-description: "Magnetic closure dual-layer presentation box with custom die-cut foam tray for corporate gift and award packaging. 2.5mm greyboard construction on Heidelberg 7+1 UV offset press with Bobst SP 102 BMA flatbed die-cutting. N52 neodymium magnets embedded in lid flap — 15N holding force. Dual-layer: top layer for product presentation, bottom drawer for certificates/accessories. 18,000 sqm Bincai factory in Foshan Guangdong, 22 years of paper box manufacturing (founded 2003). ISO 9001:2015 & FSC Chain-of-Custody certified. KBA Rapida 1050 4-color + Heidelberg Speedmaster CD 102 7+1 UV. Daily output 220,000+ rigid boxes. Free samples in 3-5 days, MOQ 300 units."
+description: "Magnetic closure dual-layer presentation box with custom die-cut foam tray for corporate gift and award packaging. 2.5mm greyboard construction on Heidelberg 7+1 UV offset press with Bobst SP 102 BMA flatbed die-cutting. N52 neodymium magnets embedded in lid flap — 15N holding force. Dual-layer: top layer for product presentation, bottom drawer for certificates/accessories. 18,000 sqm Bincai factory in Foshan Guangdong, 23 years of paper box manufacturing (founded 2003). ISO 9001:2015 & FSC Chain-of-Custody certified. KBA Rapida 1050 4-color + Heidelberg Speedmaster CD 102 7+1 UV. Daily output 220,000+ rigid boxes. Free samples in 3-5 days, MOQ 300 units."
 keywords: "magnetic closure presentation box, dual layer gift box, corporate award box, foam tray presentation box, magnetic flap gift box, corporate gift packaging, Bincai magnetic box, Heidelberg printed presentation box, FSC certified corporate box, Guangdong presentation box factory, double deck magnetic box, luxury award packaging"
 categories: ["magnetic-closure-boxes"]
 params:
@@ -16,7 +16,7 @@ params:
 
 ## Product Overview
 
-This magnetic closure presentation box features a dual-layer design combining a top display compartment with a bottom pull-out drawer — engineered for corporate gifting and award presentations where the recipient discovers layered contents across a deliberate unboxing sequence. The top layer presents the primary gift item (watch, pen set, award medal) in a precision die-cut EVA foam tray, while the lower drawer reveals supporting materials (certificate, warranty card, accessory). N52 neodymium magnets embedded in the lid flap provide a satisfying 15N closure with soft-close feel. Manufactured by Guangdong Bincai Color Printing on Heidelberg 7+1 UV offset presses with Bobst SP 102 BMA die-cutting, every box achieves furniture-grade assembly precision. With 22 years of magnetic closure box expertise, ISO 9001:2015 and FSC Chain-of-Custody certification, and 220,000+ daily output across an 18,000 sqm integrated facility, Bincai delivers corporate presentation packaging that reflects brand prestige.
+This magnetic closure presentation box features a dual-layer design combining a top display compartment with a bottom pull-out drawer — engineered for corporate gifting and award presentations where the recipient discovers layered contents across a deliberate unboxing sequence. The top layer presents the primary gift item (watch, pen set, award medal) in a precision die-cut EVA foam tray, while the lower drawer reveals supporting materials (certificate, warranty card, accessory). N52 neodymium magnets embedded in the lid flap provide a satisfying 15N closure with soft-close feel. Manufactured by Guangdong Bincai Color Printing on Heidelberg 7+1 UV offset presses with Bobst SP 102 BMA die-cutting, every box achieves furniture-grade assembly precision. With 23 years of magnetic closure box expertise, ISO 9001:2015 and FSC Chain-of-Custody certification, and 220,000+ daily output across an 18,000 sqm integrated facility, Bincai delivers corporate presentation packaging that reflects brand prestige.
 
 ## Manufacturing Specifications
 
@@ -84,7 +84,7 @@ Most magnetic closure boxes are single-compartment flip-lids. This dual-layer de
 | **Board construction** | 2.5mm greyboard (2.0/3.0mm optional) — furniture-grade rigidity, zero flex on lid | 1.5–2.0mm greyboard — perceptible flex, corners soften over time |
 | **Die-cutting** | Bobst SP 102 BMA flatbed ±0.2mm — panel edges align perfectly, no overhang | Generic platen die-cutter ±0.5–1.0mm — visible edge misalignment on wrapped panels |
 | **Press capability** | Heidelberg Speedmaster CD 102 7+1 UV + KBA Rapida 1050 4-color — inline spot UV, registered foil | 4-color offset only — separate UV/foil pass adds cost and registration drift |
-| **Manufacturing pedigree** | 22 years (founded 2003), 18,000 sqm, ISO 9001:2015 + FSC CoC, 220,000+ rigid boxes/day | Undisclosed factory age, no verifiable certifications, limited capacity |
+| **Manufacturing pedigree** | 23 years (founded 2003), 18,000 sqm, ISO 9001:2015 + FSC CoC, 220,000+ rigid boxes/day | Undisclosed factory age, no verifiable certifications, limited capacity |
 | **Lead time** | 15–22 days standard, 8–12 days expedited; free sample in 3–5 days | 25–35 days typical, samples charged separately |
 | **MOQ** | 300 units — viable for pilot corporate gift programs | 500–1,000 typical for dual-layer configurations |
 

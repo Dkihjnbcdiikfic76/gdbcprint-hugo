@@ -2,7 +2,7 @@
 title: "Velvet Earbud Wireless Headphone Display Box Magnetic Closure Custom Logo"
 date: 2026-06-15
 draft: false
-description: "Velvet-lined earbud and wireless headphone display box with magnetic flap closure, custom logo embossing, and gold foil stamping. Manufactured by Bincai: KBA 1050 4-color offset + Heidelberg 7+1 UV press, 1,200gsm greyboard wrapped in premium velvet paper, hot foil stamping, embossing, matte lamination, 10,000+8,000sqm dual factory, 22 years experience, ISO 9001:2015 & FSC certified, 1.7M daily output, 80+ workers. MOQ 500. Free pre-production samples 5-7 days."
+description: "Velvet-lined earbud and wireless headphone display box with magnetic flap closure, custom logo embossing, and gold foil stamping. Manufactured by Bincai: KBA 1050 4-color offset + Heidelberg 7+1 UV press, 1,200gsm greyboard wrapped in premium velvet paper, hot foil stamping, embossing, matte lamination, 10,000+8,000sqm dual factory, 23 years experience, ISO 9001:2015 & FSC certified, 1.7M daily output, 80+ workers. MOQ 500. Free pre-production samples 5-7 days."
 keywords: "earbud display box, wireless headphone packaging, velvet jewelry box, magnetic closure box, custom logo gift box, electronics packaging, premium display box, gold foil stamping box, Bincai, Guangdong packaging factory, ISO 9001 FSC box, luxury tech accessory box, velvet lined box, magnetic flap box"
 categories: ["jewelry-boxes"]
 params:
@@ -14,7 +14,7 @@ params:
 
 ![Bincai Jewelry Boxes](/images/cat-rigid-jewelry.jpg)
 
-Velvet earbud wireless headphone display box with magnetic flap closure — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). The rigid construction with velvet-wrapped interior provides premium presentation for wireless earbuds, headphones, and tech accessories. Custom logo embossing and gold foil stamping deliver a luxury unboxing experience that elevates your brand. KBA 1050 4-color and Heidelberg 7+1 UV presses deliver precision printing across 18,000 sqm factory (10,000+8,000 smart factory). Daily output 1.7 million boxes.
+Velvet earbud wireless headphone display box with magnetic flap closure — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 23 years of experience (founded 2003). The rigid construction with velvet-wrapped interior provides premium presentation for wireless earbuds, headphones, and tech accessories. Custom logo embossing and gold foil stamping deliver a luxury unboxing experience that elevates your brand. KBA 1050 4-color and Heidelberg 7+1 UV presses deliver precision printing across 18,000 sqm factory (10,000+8,000 smart factory). Daily output 1.7 million boxes.
 
 ## Applications
 - Wireless earbud and TWS earphone retail packaging
@@ -51,7 +51,7 @@ Velvet earbud wireless headphone display box with magnetic flap closure — manu
 - MOQ 500–1000 units, trial orders and OEM/ODM accepted
 
 ## Factory
-- 22 years of manufacturing excellence since 2003
+- 23 years of manufacturing excellence since 2003
 - 18,000 sqm factory (10,000+8,000 smart factory)
 - 80+ skilled employees across design, prepress, printing, and finishing
 - KBA 1050 4-color + Heidelberg 7+1 UV presses
@@ -74,7 +74,7 @@ A: We stock over 30 velvet paper colors including classic black, midnight navy, 
 
 When you partner with Bincai, you're choosing a packaging manufacturer with the scale, certification, and technical capability to deliver consistent quality at competitive pricing:
 
-- **22 Years of Manufacturing Excellence** — Founded in 2003, Bincai has spent over two decades refining premium rigid box production. Our experience spans jewelry, electronics, cosmetics, and luxury retail packaging, giving us deep cross-industry knowledge that benefits every project.
+- **23 Years of Manufacturing Excellence** — Founded in 2003, Bincai has spent over two decades refining premium rigid box production. Our experience spans jewelry, electronics, cosmetics, and luxury retail packaging, giving us deep cross-industry knowledge that benefits every project.
 
 - **18,000 sqm Dual Factory** — Our campus includes a 10,000 sqm primary production facility plus an 8,000 sqm smart factory. This dual-site layout provides production redundancy, parallel order processing, and the capacity to handle rush orders without disrupting ongoing production.
 

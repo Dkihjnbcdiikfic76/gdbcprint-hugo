@@ -3,7 +3,7 @@ title: "Magnetic Closure Double-Door Gift Box with Satin Ribbon Tie — Luxury F
 date: 2026-06-15
 draft: false
 description: "Magnetic closure double-door gift box with satin ribbon tie for premium fragrance, perfume, and skincare gift sets by Guangdong Bincai Color Printing Co., Ltd. (founded 2003). Manufactured in our 18,000 sqm dual-factory in Foshan, China, using KBA Rapida 105 4-color offset and Heidelberg Speedmaster CD 102 7+1 UV presses. ISO 9001:2015 and FSC Chain-of-Custody certified. Daily output 1.7 million boxes. Features a dramatic double-door opening reveal with hidden magnetic closure and satin ribbon tie. Custom foam or velvet insert tray for 3-5 fragrance bottles. Premium grey board wrapped in soft-touch matte lamination with gold foil accents. Ideal for perfume brand gift sets, department store beauty counters, and luxury fragrance launches. MOQ 500. Free pre-production samples in 5-7 working days."
-keywords: "magnetic closure double door box, perfume gift box, fragrance set box, luxury perfume packaging, satin ribbon gift box, beauty gift set box, double door magnetic box, Bincai Color Printing, Guangdong box manufacturer, 22 years manufacturing, ISO 9001 certified box, FSC certified packaging, KBA 1050 offset box, Heidelberg 7+1 UV, 18,000 sqm factory, 1.7M daily output, OEM magnetic box China, Foshan Guangdong packaging, luxury cosmetics packaging, perfume launch box, Diamond Supplier MIC"
+keywords: "magnetic closure double door box, perfume gift box, fragrance set box, luxury perfume packaging, satin ribbon gift box, beauty gift set box, double door magnetic box, Bincai Color Printing, Guangdong box manufacturer, 23 years manufacturing, ISO 9001 certified box, FSC certified packaging, KBA 1050 offset box, Heidelberg 7+1 UV, 18,000 sqm factory, 1.7M daily output, OEM magnetic box China, Foshan Guangdong packaging, luxury cosmetics packaging, perfume launch box, Diamond Supplier MIC"
 categories: ["magnetic-closure-boxes"]
 params:
   moq: "500-1000"
@@ -96,7 +96,7 @@ Manufactured in our 18,000 sqm dual-factory in Foshan, Guangdong, the box body u
 
 ## Why Choose Bincai for Luxury Fragrance Packaging
 
-- **22 years of luxury packaging expertise** — established 2003, trusted by premium beauty and fragrance brands across 60+ countries
+- **23 years of luxury packaging expertise** — established 2003, trusted by premium beauty and fragrance brands across 60+ countries
 - **18,000 sqm integrated facility** — 10,000 sqm main plant + 8,000 sqm smart factory (2025 expansion) with dedicated luxury rigid box lines
 - **KBA 1050 4-color offset + Heidelberg 7+1 UV** — photo-quality exterior graphics with soft-touch premium finishes
 - **In-house Bobst hot foil stamping** — gold, silver, rose gold, and holographic foil without outsourcing
@@ -106,7 +106,7 @@ Manufactured in our 18,000 sqm dual-factory in Foshan, Guangdong, the box body u
 - **1.7 million boxes daily capacity** — scalable production for fragrance launch events and holiday gift seasons
 - **MOQ 500** — brand-friendly minimums with free pre-production samples in 7–10 working days
 
-**Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
+**Factory Facts:** Founded 2003 | 23 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
 
 ## FAQ
 

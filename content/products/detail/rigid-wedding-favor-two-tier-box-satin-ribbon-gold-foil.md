@@ -2,7 +2,7 @@
 title: "Rigid Two-Tier Wedding Favor Gift Box — Satin Ribbon Closure & Gold Foil Monogram"
 date: 2026-06-14
 draft: false
-description: "Two-tier rigid wedding favor gift box with satin ribbon closure, gold foil monogram, and removable tray for jewelry, chocolates, or small gifts. Manufactured by Guangdong Bincai Color Printing Co., Ltd. — 22 years experience, 18,000 sqm factory, ISO 9001 & FSC certified, KBA 1050 4-color + Heidelberg 7+1 UV presses, daily output 1.7M boxes. Perfect for wedding planners, bridal boutiques, and luxury event coordinators."
+description: "Two-tier rigid wedding favor gift box with satin ribbon closure, gold foil monogram, and removable tray for jewelry, chocolates, or small gifts. Manufactured by Guangdong Bincai Color Printing Co., Ltd. — 23 years experience, 18,000 sqm factory, ISO 9001 & FSC certified, KBA 1050 4-color + Heidelberg 7+1 UV presses, daily output 1.7M boxes. Perfect for wedding planners, bridal boutiques, and luxury event coordinators."
 keywords: "wedding favor box, two-tier gift box, rigid wedding box, satin ribbon box, gold foil monogram box, bridal favor packaging, luxury wedding box, custom monogram box, China rigid box manufacturer, Bincai packaging, Guangdong wedding box, ISO 9001 FSC, Heidelberg UV press, 1.7M daily output, wedding planner packaging"
 categories: ["rigid-gift-boxes"]
 params:
@@ -107,7 +107,7 @@ A: Yes. Our interior tray linings are food-safe with soy-based inks and water-ba
 A: Yes — we offer drop-shipping and split shipments. Provide a CSV of addresses and quantities, and we'll palletize by destination with custom labeling. We ship to 60+ countries with full export documentation (commercial invoice, packing list, certificate of origin, FSC COC certificate).
 
 **Q: What makes Bincai different from other wedding box manufacturers?**
-A: Three things: (1) We own the entire production line — printing (KBA 1050 + Heidelberg 7+1 UV), foil stamping (Bobst), rigid box assembly, and QC — under one 18,000 sqm roof, meaning no subcontractor delays. (2) 22 years of expertise means we understand wedding-tight deadlines. (3) ISO 9001:2015 and FSC certification gives wedding planners documented sustainability credentials for eco-conscious couples.
+A: Three things: (1) We own the entire production line — printing (KBA 1050 + Heidelberg 7+1 UV), foil stamping (Bobst), rigid box assembly, and QC — under one 18,000 sqm roof, meaning no subcontractor delays. (2) 23 years of expertise means we understand wedding-tight deadlines. (3) ISO 9001:2015 and FSC certification gives wedding planners documented sustainability credentials for eco-conscious couples.
 
 ## Sustainability & Compliance
 
@@ -124,7 +124,7 @@ A: Three things: (1) We own the entire production line — printing (KBA 1050 + 
 
 ## Why Choose Bincai
 
-When you commission wedding favor packaging, you're not just buying a box — you're buying a manufacturer who understands that one missed deadline means 200 disappointed guests. Bincai's two-tier rigid wedding box program is built on 22 years of delivering precise, beautiful packaging on time, every time.
+When you commission wedding favor packaging, you're not just buying a box — you're buying a manufacturer who understands that one missed deadline means 200 disappointed guests. Bincai's two-tier rigid wedding box program is built on 23 years of delivering precise, beautiful packaging on time, every time.
 
 **The Bincai Difference:**
 - **Vertical integration** — KBA 1050 printing, Bobst foil stamping, and automatic rigid box assembly all under one roof. No subcontractor handoffs, no delays
@@ -132,6 +132,6 @@ When you commission wedding favor packaging, you're not just buying a box — yo
 - **Dual Factory Redundancy** — 10,000 sqm main factory + 8,000 sqm smart factory means we can surge production for last-minute wedding orders without affecting other commitments
 - **Documentation for Eco-Conscious Couples** — FSC COC certificate, soy ink compliance docs, and recycled-content statements provided with every order for inclusion in wedding sustainability programs
 
-**Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | 220,000+ rigid boxes daily | KBA 1050 + Heidelberg 7+1 UV + Bobst foil | ISO 9001 & FSC | Foshan, Guangdong, China
+**Factory Facts:** Founded 2003 | 23 years | 18,000 sqm (10,000 + 8,000 smart factory) | 220,000+ rigid boxes daily | KBA 1050 + Heidelberg 7+1 UV + Bobst foil | ISO 9001 & FSC | Foshan, Guangdong, China
 
 **Shipping:** Flat-packed for maximum freight efficiency — 60% volume reduction vs. pre-assembled. Typical container loads: 8,000–12,000 units per 20ft, 18,000–25,000 per 40ft HQ. DHL/FedEx air freight available for rush orders (3–5 day global delivery).

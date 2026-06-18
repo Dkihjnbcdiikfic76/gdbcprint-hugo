@@ -2,7 +2,7 @@
 title: "Magnetic Flip-Top Rigid Box for Luxury Perfume Gift Set"
 date: 2026-06-11
 draft: false
-description: "Magnetic flip-top rigid box for luxury perfume gift sets with velvet flocking interior and satin pull ribbon. Manufactured by Bincai: KBA 1050 4-color offset + Heidelberg 7+1 UV press, neodymium N35 magnets (8-12mm, 3.5-5.5N pull-force), hot stamping, embossing, spot UV, 18,000 sqm (10,000+8,000 smart factory), 22 years experience, ISO 9001:2015 & FSC certified, 1.7M daily output. 500+ hinge cycle tested, 1200-2500gsm greyboard, ΔE≤2.0 color. MOQ 500. Free 3D rendering."
+description: "Magnetic flip-top rigid box for luxury perfume gift sets with velvet flocking interior and satin pull ribbon. Manufactured by Bincai: KBA 1050 4-color offset + Heidelberg 7+1 UV press, neodymium N35 magnets (8-12mm, 3.5-5.5N pull-force), hot stamping, embossing, spot UV, 18,000 sqm (10,000+8,000 smart factory), 23 years experience, ISO 9001:2015 & FSC certified, 1.7M daily output. 500+ hinge cycle tested, 1200-2500gsm greyboard, ΔE≤2.0 color. MOQ 500. Free 3D rendering."
 keywords: "magnetic flip top box, perfume gift box, luxury perfume packaging, rigid box with magnet, flip top gift box, neodymium magnet box, custom rigid box China, perfume set packaging, velvet lining box, satin ribbon gift box, fragrance gift box, hot stamping perfume box, Bincai, Guangdong luxury packaging, embossed rigid box"
 categories: ["magnetic-closure-boxes"]
 params:
@@ -14,7 +14,7 @@ params:
 
 ![Bincai Magnetic Closure Boxes](/images/magnetic-closure-boxes.jpg)
 
-Magnetic flip-top rigid box for luxury perfume gift set packaging — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). 18,000 sqm factory (10,000+8,000 smart factory) with KBA 1050 4-color and Heidelberg 7+1 UV presses. Daily output 1.7 million boxes.
+Magnetic flip-top rigid box for luxury perfume gift set packaging — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 23 years of experience (founded 2003). 18,000 sqm factory (10,000+8,000 smart factory) with KBA 1050 4-color and Heidelberg 7+1 UV presses. Daily output 1.7 million boxes.
 
 ## Applications
 - Luxury perfume and eau de parfum gift sets
@@ -80,9 +80,9 @@ Our perfume box manufacturing leverages the full Bincai technology stack:
 
 ## Why Choose Bincai for Perfume Packaging
 
-Perfume is the most emotionally charged product category in retail — the packaging must convey exclusivity, sophistication, and desire before the customer ever removes the cap. Bincai has manufactured luxury fragrance packaging for 22 years, serving brands across 40+ countries from our 18,000 sqm integrated facility in Foshan. Our flip-top rigid box design is engineered for the perfume retail environment: the magnetic closure provides that satisfying, silent "snap" that communicates quality, while the velvet interior cradles each bottle in display-ready luxury. With Heidelberg 7+1 UV press capabilities, we can produce elaborate foil and spot UV effects that would be impossible on conventional offset — creating packaging that sells the fragrance before the scent is ever experienced.
+Perfume is the most emotionally charged product category in retail — the packaging must convey exclusivity, sophistication, and desire before the customer ever removes the cap. Bincai has manufactured luxury fragrance packaging for 23 years, serving brands across 40+ countries from our 18,000 sqm integrated facility in Foshan. Our flip-top rigid box design is engineered for the perfume retail environment: the magnetic closure provides that satisfying, silent "snap" that communicates quality, while the velvet interior cradles each bottle in display-ready luxury. With Heidelberg 7+1 UV press capabilities, we can produce elaborate foil and spot UV effects that would be impossible on conventional offset — creating packaging that sells the fragrance before the scent is ever experienced.
 
-- **22 years** of continuous luxury packaging manufacturing (established 2003)
+- **23 years** of continuous luxury packaging manufacturing (established 2003)
 - **18,000 sqm** integrated facility (10,000 + 8,000 sqm smart factory) in Foshan, Guangdong
 - **Dual Heidelberg + KBA press capability** for maximum decorative flexibility
 - **80+ skilled craftspeople** across design, prepress, printing, finishing, and assembly

@@ -2,8 +2,8 @@
 title: "Recycled Kraft Wine Bottle Gift Box with Carry Handle — Eco-Luxury Packaging"
 date: 2026-06-15
 draft: false
-description: "Recycled kraft wine bottle gift box with carry handle by Guangdong Bincai Color Printing Co., Ltd. — Diamond Member on Made-in-China.com, 22 years. 100% post-consumer recycled kraft board 350-450gsm, water-based flexo printing, soy-based inks, natural cotton rope handle, unbleached interior, plastic-free construction. FSC Recycled certified, ISO 9001:2015, 18,000 sqm, 1.7M boxes daily. Fits standard 750ml wine bottles + champagne/spirits. MOQ 500, samples 5-7 days. Carbon-neutral shipping option available."
-keywords: "recycled kraft wine box, eco wine gift box, sustainable wine packaging, kraft bottle carrier, wine box with handle, recycled paper wine box, plastic free wine packaging, FSC recycled wine box, eco luxury packaging, Bincai Guangdong, 22 years eco packaging, Diamond Member Made-in-China, soy ink printed box, carbon neutral packaging, 100% recycled kraft box, wine gift packaging China, sustainable bottle box, kraft carry handle box, eco friendly gift packaging, 1.7M daily output"
+description: "Recycled kraft wine bottle gift box with carry handle by Guangdong Bincai Color Printing Co., Ltd. — Diamond Member on Made-in-China.com, 23 years. 100% post-consumer recycled kraft board 350-450gsm, water-based flexo printing, soy-based inks, natural cotton rope handle, unbleached interior, plastic-free construction. FSC Recycled certified, ISO 9001:2015, 18,000 sqm, 1.7M boxes daily. Fits standard 750ml wine bottles + champagne/spirits. MOQ 500, samples 5-7 days. Carbon-neutral shipping option available."
+keywords: "recycled kraft wine box, eco wine gift box, sustainable wine packaging, kraft bottle carrier, wine box with handle, recycled paper wine box, plastic free wine packaging, FSC recycled wine box, eco luxury packaging, Bincai Guangdong, 23 years eco packaging, Diamond Member Made-in-China, soy ink printed box, carbon neutral packaging, 100% recycled kraft box, wine gift packaging China, sustainable bottle box, kraft carry handle box, eco friendly gift packaging, 1.7M daily output"
 categories: ["kraft-eco-boxes"]
 params:
   moq: "500-1000"
@@ -16,7 +16,7 @@ params:
 
 ## Product Overview
 
-Recycled kraft wine bottle gift box with natural cotton rope carry handle, manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — Diamond Member on Made-in-China.com, Audited Supplier with 22 years (founded 2003). Constructed from 100% post-consumer recycled (PCR) kraft board in a completely plastic-free design — no lamination, no synthetic coatings, no plastic windows. ISO 9001:2015 and FSC Recycled (FSC-STD-40-007) certified. Our 18,000 sqm Foshan facility produces 1.7 million boxes daily with a dedicated eco-packaging line.
+Recycled kraft wine bottle gift box with natural cotton rope carry handle, manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — Diamond Member on Made-in-China.com, Audited Supplier with 23 years (founded 2003). Constructed from 100% post-consumer recycled (PCR) kraft board in a completely plastic-free design — no lamination, no synthetic coatings, no plastic windows. ISO 9001:2015 and FSC Recycled (FSC-STD-40-007) certified. Our 18,000 sqm Foshan facility produces 1.7 million boxes daily with a dedicated eco-packaging line.
 
 This wine bottle box represents Bincai's commitment to sustainable luxury — premium unboxing without environmental compromise. The uncoated recycled kraft surface accepts water-based flexo printing with soy-based inks for branding that aligns with eco-conscious brand values. A natural cotton rope threaded through reinforced die-cut holes serves as both carry handle and rustic decorative element. Fits standard 750ml Bordeaux/Burgundy bottles, with custom inserts for champagne, spirits, olive oil, and specialty beverage bottles. Fully curbside recyclable and industrially compostable (EN 13432).
 
@@ -110,4 +110,4 @@ A: Yes — we partner with Sea Green carbon offset program. For an additional ~0
 
 ---
 
-*Guangdong Bincai Color Printing Co., Ltd. — 22 years of packaging excellence. ISO 9001:2015 & FSC Recycled certified. 18,000 sqm Foshan facility. 100% PCR kraft eco-line. Daily output: 1.7M boxes. Serving 60+ countries worldwide. Diamond Member on Made-in-China.com.*
+*Guangdong Bincai Color Printing Co., Ltd. — 23 years of packaging excellence. ISO 9001:2015 & FSC Recycled certified. 18,000 sqm Foshan facility. 100% PCR kraft eco-line. Daily output: 1.7M boxes. Serving 60+ countries worldwide. Diamond Member on Made-in-China.com.*

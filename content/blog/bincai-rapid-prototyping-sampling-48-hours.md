@@ -72,4 +72,4 @@ Combined with our **ISO 9001:2015** quality management system and **FSC® certif
 
 Send your artwork to our sampling team with your box style, dimensions, substrate preference, and finishing requirements. We'll have physical samples on their way to your desk within 48 hours — at no charge for first-round prototypes.
 
-*Bincai Color Printing — 22 years of paper box manufacturing excellence across 18,000 sqm. Daily output: 1.7 million boxes. Serving brands in 40+ countries from Foshan, China.*
+*Bincai Color Printing — 23 years of paper box manufacturing excellence across 18,000 sqm. Daily output: 1.7 million boxes. Serving brands in 40+ countries from Foshan, China.*

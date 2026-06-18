@@ -2,7 +2,7 @@
 title: "Rigid Perfume Luxury Gift Box — Ribbon Closure & Hot Foil Stamping"
 date: 2026-06-15
 draft: false
-description: "Luxury rigid perfume gift box with satin ribbon closure and hot foil stamping. 157gsm art paper wrap over 2.0mm greyboard, soft-touch matte finish, Bobst BMA foil stamping ±0.2mm registration. Heidelberg 7+1 UV offset + KBA 1050 4-color press. 18,000 sqm factory, 22 years experience, ISO 9001 & FSC certified, 1.7M daily output. MOQ 500. Guangdong Bincai Color Printing Co., Ltd."
+description: "Luxury rigid perfume gift box with satin ribbon closure and hot foil stamping. 157gsm art paper wrap over 2.0mm greyboard, soft-touch matte finish, Bobst BMA foil stamping ±0.2mm registration. Heidelberg 7+1 UV offset + KBA 1050 4-color press. 18,000 sqm factory, 23 years experience, ISO 9001 & FSC certified, 1.7M daily output. MOQ 500. Guangdong Bincai Color Printing Co., Ltd."
 keywords: "perfume gift box, luxury fragrance packaging, rigid perfume box, hot foil stamping box, satin ribbon closure box, custom fragrance box China, soft-touch perfume packaging, Bobst foil stamping box, FSC perfume gift box, Heidelberg UV rigid box, ISO 9001 perfume packaging, Bincai luxury box, Guangdong rigid box manufacturer, custom perfume insert box, fragrance presentation box"
 categories: ["rigid-gift-boxes"]
 params:

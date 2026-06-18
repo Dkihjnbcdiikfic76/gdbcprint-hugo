@@ -4,7 +4,7 @@ date: 2026-06-17
 draft: false
 categories: ["case-studies"]
 description: "A Nordic natural cosmetics brand switched from a Swedish packaging supplier to Bincai's FSC-certified soft-touch folding cartons with spot UV. Results: 25% cost reduction, 21-day faster time-to-market, and packaging that aligned with their clean-beauty brand values."
-keywords: "cosmetics packaging case study, natural skincare box, soft-touch folding carton, Bincai paper box, Guangdong manufacturer, FSC certified cosmetics packaging, Nordic beauty brand, sustainable cosmetics box, ISO 9001, spot UV folding carton, clean beauty packaging, OEM cosmetics box China, Bincai Color Printing, 22 years, 18000 sqm, Heidelberg 7+1 UV, KBA 1050, paper box manufacturer Foshan"
+keywords: "cosmetics packaging case study, natural skincare box, soft-touch folding carton, Bincai paper box, Guangdong manufacturer, FSC certified cosmetics packaging, Nordic beauty brand, sustainable cosmetics box, ISO 9001, spot UV folding carton, clean beauty packaging, OEM cosmetics box China, Bincai Color Printing, 23 years, 18000 sqm, Heidelberg 7+1 UV, KBA 1050, paper box manufacturer Foshan"
 ---
 
 ## Industry
@@ -62,4 +62,4 @@ Guangdong Bincai Color Printing proposed a **reverse-tuck folding carton with so
 
 The brand successfully passed their B-Corp certification audit in Q4 2026, citing Bincai's FSC-C147399 chain-of-custody documentation as evidence for the packaging sustainability criterion. The soft-touch finish and spot UV logo became a signature unboxing element, with 88% of subscription box customers mentioning the packaging positively in post-purchase surveys.
 
-> *Client names are confidential. Results are from actual production data. Industry context drawn from 128 cosmetics/skincare packaging specifications in Bincai's MIC product catalog and active production orders from June 2026 (including Guangzhou Puweisheng Biotechnology, Miaoyanshe Cosmetics, Shanghai Jianmo Biotechnology, and other cosmetics brands). Factory specifications verified: KBA Rapida 1050 + Heidelberg Speedmaster CD 102 7+1 UV + Bobst SP 102 BMA, ISO 9001:2015 & FSC-C147399 certified, 18,000 sqm (10,000 + 8,000 smart factory), 22 years, 1.7M boxes daily output. FSSC 22000 food safety certification available for food-contact cosmetics packaging.*
+> *Client names are confidential. Results are from actual production data. Industry context drawn from 128 cosmetics/skincare packaging specifications in Bincai's MIC product catalog and active production orders from June 2026 (including Guangzhou Puweisheng Biotechnology, Miaoyanshe Cosmetics, Shanghai Jianmo Biotechnology, and other cosmetics brands). Factory specifications verified: KBA Rapida 1050 + Heidelberg Speedmaster CD 102 7+1 UV + Bobst SP 102 BMA, ISO 9001:2015 & FSC-C147399 certified, 18,000 sqm (10,000 + 8,000 smart factory), 23 years, 1.7M boxes daily output. FSSC 22000 food safety certification available for food-contact cosmetics packaging.*

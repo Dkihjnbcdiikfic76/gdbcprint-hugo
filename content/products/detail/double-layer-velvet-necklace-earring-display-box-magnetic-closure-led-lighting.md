@@ -2,7 +2,7 @@
 title: "Double Layer Velvet Necklace & Earring Display Box with LED Lighting"
 date: 2026-06-16
 draft: false
-description: "Premium double-layer velvet jewelry display box with magnetic flap closure, built-in LED spotlight, and two-tier interior for necklace and earring sets. Manufactured by Bincai with KBA 1050 4-color offset + Heidelberg 7+1 UV press, flocked velvet tray, anti-tarnish lining, 10,000+8,000sqm dual factory, 22 years experience, ISO 9001:2015 & FSC certified. MOQ 500. Custom logo embossing and gold foil available."
+description: "Premium double-layer velvet jewelry display box with magnetic flap closure, built-in LED spotlight, and two-tier interior for necklace and earring sets. Manufactured by Bincai with KBA 1050 4-color offset + Heidelberg 7+1 UV press, flocked velvet tray, anti-tarnish lining, 10,000+8,000sqm dual factory, 23 years experience, ISO 9001:2015 & FSC certified. MOQ 500. Custom logo embossing and gold foil available."
 keywords: "double layer velvet jewelry box, necklace earring display box, LED jewelry box, magnetic closure jewelry box, flocked velvet display, jewelry gift box wholesale, luxury jewelry packaging, Bincai jewelry box manufacturer, custom velvet jewelry box, FSC certified jewelry packaging"
 categories: ["jewelry-boxes"]
 params:
@@ -14,7 +14,7 @@ params:
 
 ![Bincai Jewelry Boxes](/images/jewelry-boxes.jpg)
 
-Double-layer velvet jewelry display box with LED spotlight and magnetic flap closure — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience. The two-tier design separates necklaces and earrings in dedicated compartments with flocked velvet trays that prevent scratching and tangling. An LED spotlight automatically activates when the lid opens, illuminating your pieces with warm white light for maximum visual impact at retail counters and gift presentations.
+Double-layer velvet jewelry display box with LED spotlight and magnetic flap closure — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 23 years of experience. The two-tier design separates necklaces and earrings in dedicated compartments with flocked velvet trays that prevent scratching and tangling. An LED spotlight automatically activates when the lid opens, illuminating your pieces with warm white light for maximum visual impact at retail counters and gift presentations.
 
 ## Applications
 - Necklace and earring gift sets
@@ -51,7 +51,7 @@ Double-layer velvet jewelry display box with LED spotlight and magnetic flap clo
 - MOQ 500–1000 units, trial orders and OEM/ODM accepted
 
 ## Factory
-- 22 years of manufacturing excellence since 2003
+- 23 years of manufacturing excellence since 2003
 - 18,000 sqm factory (10,000+8,000 smart factory)
 - 80+ skilled employees across design, prepress, printing, and finishing
 - KBA 1050 4-color + Heidelberg 7+1 UV presses
@@ -74,7 +74,7 @@ A: Absolutely. Standard configuration is warm white (3000K) which provides the m
 
 When you partner with Bincai for jewelry packaging, you're choosing a manufacturer that understands the precision and luxury demanded by the jewelry industry:
 
-- **22 Years of Manufacturing Excellence** — Founded in 2003, Bincai has produced millions of jewelry boxes for brands across Asia, Europe, and North America. Our deep experience means we anticipate issues before they arise.
+- **23 Years of Manufacturing Excellence** — Founded in 2003, Bincai has produced millions of jewelry boxes for brands across Asia, Europe, and North America. Our deep experience means we anticipate issues before they arise.
 
 - **18,000 sqm Dual Factory** — 10,000 sqm main facility plus an 8,000 sqm smart factory provide the space for dedicated jewelry box assembly lines with climate-controlled environments (22±2°C, 55±5% RH) that prevent adhesive and material degradation.
 

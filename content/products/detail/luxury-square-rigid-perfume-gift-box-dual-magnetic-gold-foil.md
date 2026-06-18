@@ -2,8 +2,8 @@
 title: "Luxury Square Rigid Perfume Gift Box — Dual Magnetic Closure with Gold Foil"
 date: 2026-06-15
 draft: false
-description: "Luxury Square Rigid Perfume Gift Box — Dual Magnetic Closure with Gold Foil by Guangdong Bincai Color Printing — Diamond Member on Made-in-China.com. ISO 9001 FSC certified, 22 years experience, KBA 1050 4-color + Heidelberg 7+1 UV presses, 18,000 sqm factory, 1.7M daily output. Two-piece telescopic rigid box, dual magnetic side flaps, gold foil hot stamping, custom satin-lined foam insert for fragrance bottle, matte lamination with spot UV."
-keywords: "luxury perfume gift box, square rigid box, dual magnetic closure, gold foil perfume box, fragrance packaging, premium cosmetic box, Bincai, Guangdong packaging factory, 22 years experience, ISO 9001 certified, FSC certified, KBA 1050 offset, Heidelberg 7+1 UV, 18,000 sqm factory, 1.7M daily output, OEM paper box China, Diamond Member MIC"
+description: "Luxury Square Rigid Perfume Gift Box — Dual Magnetic Closure with Gold Foil by Guangdong Bincai Color Printing — Diamond Member on Made-in-China.com. ISO 9001 FSC certified, 23 years experience, KBA 1050 4-color + Heidelberg 7+1 UV presses, 18,000 sqm factory, 1.7M daily output. Two-piece telescopic rigid box, dual magnetic side flaps, gold foil hot stamping, custom satin-lined foam insert for fragrance bottle, matte lamination with spot UV."
+keywords: "luxury perfume gift box, square rigid box, dual magnetic closure, gold foil perfume box, fragrance packaging, premium cosmetic box, Bincai, Guangdong packaging factory, 23 years experience, ISO 9001 certified, FSC certified, KBA 1050 offset, Heidelberg 7+1 UV, 18,000 sqm factory, 1.7M daily output, OEM paper box China, Diamond Member MIC"
 categories: ["rigid-gift-boxes"]
 params:
   moq: "500-1000"
@@ -55,7 +55,7 @@ Luxury square rigid perfume gift box with dual magnetic side flaps and gold foil
 - **Abrasion Resistance**: Rub test — 500 cycles with 1.75 kg load, no visible wear on lamination or foil
 - **Lid Fit Tolerance**: ±0.3mm gap uniformity around all four sides
 - **X-Rite Spectrophotometer**: ΔE ≤ 2.0 color consistency across production lots
-- 22 years manufacturing experience (founded 2003)
+- 23 years manufacturing experience (founded 2003)
 - 200+ global brand clients served
 - Export to 50+ countries across North America, Europe, Middle East, and Asia-Pacific
 
@@ -72,7 +72,7 @@ Luxury square rigid perfume gift box with dual magnetic side flaps and gold foil
 | **Prototype Speed** | 48–72 hours with in-house sample room | 5–7 days outsourced |
 | **Certifications** | ISO 9001:2015, FSC-C147399, SGS | ISO 9001 only (or none) |
 | **Factory Size** | 18,000 sqm (10,000 + 8,000 smart factory) | 2,000–5,000 sqm |
-| **Experience** | 22 years (since 2003), 200+ brands | 3–8 years average |
+| **Experience** | 23 years (since 2003), 200+ brands | 3–8 years average |
 
 ## Sustainability & Environmental Impact
 

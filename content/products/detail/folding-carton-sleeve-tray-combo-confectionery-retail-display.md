@@ -2,7 +2,7 @@
 title: "Folding Carton Sleeve and Tray Combo — Premium Confectionery Retail Display Packaging"
 date: 2026-06-14
 draft: false
-description: "Folding carton sleeve and tray combo for premium confectionery retail display — outer sleeve with die-cut window + inner slide tray, printed CMYK offset. Manufactured by Guangdong Bincai Color Printing Co., Ltd. — 22 years experience, 18,000 sqm factory, ISO 9001 & FSC certified, KBA 1050 4-color + Heidelberg 7+1 UV presses, daily output 1.7M boxes. Ideal for artisan chocolates, macarons, luxury biscuits, nougats, and premium confectionery brands seeking European-style presentation."
+description: "Folding carton sleeve and tray combo for premium confectionery retail display — outer sleeve with die-cut window + inner slide tray, printed CMYK offset. Manufactured by Guangdong Bincai Color Printing Co., Ltd. — 23 years experience, 18,000 sqm factory, ISO 9001 & FSC certified, KBA 1050 4-color + Heidelberg 7+1 UV presses, daily output 1.7M boxes. Ideal for artisan chocolates, macarons, luxury biscuits, nougats, and premium confectionery brands seeking European-style presentation."
 keywords: "sleeve and tray box, confectionery packaging, chocolate gift box, macaron box, artisan chocolate packaging, folding carton tray, die-cut window box, premium food packaging, Bincai folding carton, Guangdong packaging factory, ISO 9001 FSC, KBA 1050 offset, Heidelberg 7+1 UV, 18,000 sqm, 1.7M daily output, chocolate display box, luxury biscuit box, nougat tray box, confectionery sleeve packaging OEM"
 categories: ["folding-cartons"]
 params:
@@ -67,7 +67,7 @@ Folding carton sleeve and tray combo designed for premium confectionery retail d
 - MOQ 1000–2000 units; trial orders and OEM/ODM accepted
 
 ## Factory
-- 22 years of manufacturing excellence since 2003
+- 23 years of manufacturing excellence since 2003
 - Dual factories: 10,000 sqm main + 8,000 sqm smart factory in Foshan, Pearl River Delta
 - 500+ skilled workers across 3 shifts
 - ISO 9001:2015 certified quality management system

@@ -3,7 +3,7 @@ title: "In-House Tooling & Die-Making: How Bincai Cuts Custom Paper Box Costs by
 date: 2026-06-14
 draft: false
 image: "/images/hero-factory.webp"
-description: "Bincai's in-house CNC die-making and tooling workshop eliminates third-party mold costs, reduces custom paper box tooling from 10-15 days to 2-3 days, and saves buyers 30-40% on new project startup costs. KBA 1050 + Heidelberg 7+1 UV, ISO 9001 & FSC certified, 22 years manufacturing experience."
+description: "Bincai's in-house CNC die-making and tooling workshop eliminates third-party mold costs, reduces custom paper box tooling from 10-15 days to 2-3 days, and saves buyers 30-40% on new project startup costs. KBA 1050 + Heidelberg 7+1 UV, ISO 9001 & FSC certified, 23 years manufacturing experience."
 
 ---
 
@@ -110,4 +110,4 @@ Every process kept in-house removes a handoff, a courier, a queue, and a potenti
 
 ---
 
-*Guangdong Bincai Color Printing Co., Ltd. — ISO 9001 & FSC certified manufacturer of custom rigid boxes, folding cartons, corrugated mailers, magnetic closure boxes, and eco-friendly kraft packaging. 18,000 sqm factory in Foshan, Shunde. KBA Rapida 1050 4-color press + Heidelberg Speedmaster 7+1 UV press. 22 years of experience. 1.7 million boxes daily output. Exports to 60+ countries.*
+*Guangdong Bincai Color Printing Co., Ltd. — ISO 9001 & FSC certified manufacturer of custom rigid boxes, folding cartons, corrugated mailers, magnetic closure boxes, and eco-friendly kraft packaging. 18,000 sqm factory in Foshan, Shunde. KBA Rapida 1050 4-color press + Heidelberg Speedmaster 7+1 UV press. 23 years of experience. 1.7 million boxes daily output. Exports to 60+ countries.*

@@ -2,8 +2,8 @@
 title: "Recyclable Brown Kraft Paper Box with Window Display Food Packaging"
 date: 2026-06-10
 draft: false
-description: "FSC-certified recyclable brown kraft paper box with die-cut window display for food, bakery, confectionery, and organic product packaging. Manufactured by Bincai on KBA Rapida 105 4-color offset and Heidelberg Speedmaster CD 102 7+1 UV presses with soy-based vegetable inks (USDA BioPreferred, EN 71-3 food-safe) and water-based adhesives — 100% plastic-free, fully recyclable, industrial-compostable construction. FSC kraft board 250-400gsm with PLA compostable window film option. 18,000 sqm ISO 9001:2015 & FSC Chain-of-Custody certified dual-factory campus (10,000+8,000 sqm smart factory) in Foshan, Guangdong. Daily output 1.7 million boxes. 22 years experience since 2003. MOQ 500 with free pre-production samples 5-7 days."
-keywords: "recyclable kraft paper box, window display food packaging, FSC certified food box, eco-friendly food packaging box, brown kraft window box manufacturer, sustainable food carton China, Bincai kraft packaging, ISO 9001 food box, soy-ink food packaging, biodegradable food box, Guangdong eco packaging factory, PLA window food box, compostable food carton, water-based adhesive packaging, KBA Rapida 105 food box, Heidelberg 7+1 UV kraft box, FSC Chain-of-Custody food packaging, 18,000 sqm factory, 22 years experience, 1.7M daily output, plastic-free food box, bakery window box, organic food packaging, artisan food box, confectionery display box, Bincai Color Printing, wholesale kraft food box, custom food window box, Foshan food packaging, eco retail packaging box, sustainable kraft carton"
+description: "FSC-certified recyclable brown kraft paper box with die-cut window display for food, bakery, confectionery, and organic product packaging. Manufactured by Bincai on KBA Rapida 105 4-color offset and Heidelberg Speedmaster CD 102 7+1 UV presses with soy-based vegetable inks (USDA BioPreferred, EN 71-3 food-safe) and water-based adhesives — 100% plastic-free, fully recyclable, industrial-compostable construction. FSC kraft board 250-400gsm with PLA compostable window film option. 18,000 sqm ISO 9001:2015 & FSC Chain-of-Custody certified dual-factory campus (10,000+8,000 sqm smart factory) in Foshan, Guangdong. Daily output 1.7 million boxes. 23 years experience since 2003. MOQ 500 with free pre-production samples 5-7 days."
+keywords: "recyclable kraft paper box, window display food packaging, FSC certified food box, eco-friendly food packaging box, brown kraft window box manufacturer, sustainable food carton China, Bincai kraft packaging, ISO 9001 food box, soy-ink food packaging, biodegradable food box, Guangdong eco packaging factory, PLA window food box, compostable food carton, water-based adhesive packaging, KBA Rapida 105 food box, Heidelberg 7+1 UV kraft box, FSC Chain-of-Custody food packaging, 18,000 sqm factory, 23 years experience, 1.7M daily output, plastic-free food box, bakery window box, organic food packaging, artisan food box, confectionery display box, Bincai Color Printing, wholesale kraft food box, custom food window box, Foshan food packaging, eco retail packaging box, sustainable kraft carton"
 categories: ["kraft-eco-boxes"]
 params:
   moq: "500-1000"
@@ -14,7 +14,7 @@ params:
 
 ![Bincai Kraft Eco Boxes](/images/kraft-eco-box.jpg)
 
-FSC-certified recyclable brown kraft paper box with window display for food packaging — the intersection of sustainability, visibility, and food safety. Manufactured by Guangdong Bincai Color Printing Co., Ltd., a 22-year packaging enterprise (founded 2003) operating KBA 1050 4-color and Heidelberg 7+1 UV presses in a 18,000 sqm (10,000+8,000 smart factory) ISO 9001:2015 & FSC Chain-of-Custody certified factory. We combine eco-conscious materials — FSC kraft board, soy-based inks, water-based adhesives, and compostable PLA window film — with industrial-scale production capacity of 1.7 million boxes daily to serve food brands in 40+ countries.
+FSC-certified recyclable brown kraft paper box with window display for food packaging — the intersection of sustainability, visibility, and food safety. Manufactured by Guangdong Bincai Color Printing Co., Ltd., a 23-year packaging enterprise (founded 2003) operating KBA 1050 4-color and Heidelberg 7+1 UV presses in a 18,000 sqm (10,000+8,000 smart factory) ISO 9001:2015 & FSC Chain-of-Custody certified factory. We combine eco-conscious materials — FSC kraft board, soy-based inks, water-based adhesives, and compostable PLA window film — with industrial-scale production capacity of 1.7 million boxes daily to serve food brands in 40+ countries.
 
 ## Applications
 
@@ -61,7 +61,7 @@ Window kraft boxes give consumers the transparency they demand while meeting the
 - **PLA Window Film**: Plant-based (corn starch) compostable film option — certified to EN 13432 for industrial composting; consumer removes window before recycling the paper box
 - **Fully Recyclable**: Paper portion is 100% recyclable in standard curbside paper streams; FSC Recycled board options use 100% post-consumer fiber
 - **Carbon Footprint**: Kraft board production has lower embodied energy than bleached white board; shorter fiber processing chain reduces water and chemical usage
-- **Supply Chain**: 22-year commitment to ethical sourcing; supplier code of conduct covering labor standards, environmental management, and responsible forestry
+- **Supply Chain**: 23-year commitment to ethical sourcing; supplier code of conduct covering labor standards, environmental management, and responsible forestry
 
 ## Quality Assurance
 
@@ -78,7 +78,7 @@ Window kraft boxes give consumers the transparency they demand while meeting the
 | Specification | Detail |
 |---|---|
 | Factory Size | 18,000 sqm (10,000+8,000 smart factory) |
-| Years in Business | 22 years (founded 2003) |
+| Years in Business | 23 years (founded 2003) |
 | Daily Output | 1.7 million boxes |
 | Primary Presses | KBA 1050 4-color, Heidelberg 7+1 UV |
 | Certifications | ISO 9001:2015, FSC Chain of Custody |

@@ -2,8 +2,8 @@
 title: "Magnetic Closure Portfolio Presentation Box with Document Sleeve and Pen Loop"
 date: 2026-06-14
 draft: false
-description: "Magnetic Closure Portfolio Presentation Box with Document Sleeve and Pen Loop by Guangdong Bincai Color Printing — Diamond Member on Made-in-China.com. ISO 9001 FSC certified. Manufactured by Guangdong Bincai Color Printing Co., Ltd. — 22 years experience (founded 2003), 18,000 sqm dual factory (10,000+8,000 sqm smart factory), ISO 9001:2015 & FSC certified, KBA 1050 4-color + Heidelberg 7+1 UV presses, daily output 1.7M boxes, serving 200+ global brands from Foshan, China. Executive portfolio-style presentation box: magnetic flap closure, integrated document sleeve on inner lid, elastic pen loop, and custom foam tray for corporate gifts, award ceremonies, and luxury brand kits."
-keywords: "portfolio presentation box, magnetic closure corporate box, document sleeve gift box, pen loop box, executive gift packaging, Bincai, Guangdong packaging factory, 22 years experience, ISO 9001 certified, FSC certified, KBA 1050 offset, Heidelberg 7+1 UV, 18,000 sqm factory, 1.7M daily output, OEM magnetic closure box China"
+description: "Magnetic Closure Portfolio Presentation Box with Document Sleeve and Pen Loop by Guangdong Bincai Color Printing — Diamond Member on Made-in-China.com. ISO 9001 FSC certified. Manufactured by Guangdong Bincai Color Printing Co., Ltd. — 23 years experience (founded 2003), 18,000 sqm dual factory (10,000+8,000 sqm smart factory), ISO 9001:2015 & FSC certified, KBA 1050 4-color + Heidelberg 7+1 UV presses, daily output 1.7M boxes, serving 200+ global brands from Foshan, China. Executive portfolio-style presentation box: magnetic flap closure, integrated document sleeve on inner lid, elastic pen loop, and custom foam tray for corporate gifts, award ceremonies, and luxury brand kits."
+keywords: "portfolio presentation box, magnetic closure corporate box, document sleeve gift box, pen loop box, executive gift packaging, Bincai, Guangdong packaging factory, 23 years experience, ISO 9001 certified, FSC certified, KBA 1050 offset, Heidelberg 7+1 UV, 18,000 sqm factory, 1.7M daily output, OEM magnetic closure box China"
 categories: ["magnetic-closure-boxes"]
 params:
   moq: "500-1000"
@@ -14,7 +14,7 @@ params:
 
 ![Magnetic Closure Portfolio Presentation Box with Document Sleeve and Pen Loop](/images/magnetic-closure-boxes.jpg)
 
-Executive-grade portfolio-style magnetic closure presentation box — manufactured by **Guangdong Bincai Color Printing Co., Ltd.**, a Diamond Member on Made-in-China.com, Audited Supplier with 22 years of experience. Inspired by premium document folios, this box features a book-style magnetic flap that opens to reveal a thoughtfully organized interior: a clear PET document sleeve on the inner lid for brochures, certificates, or welcome letters; an elastic pen loop for branded writing instruments; and a custom die-cut foam tray for the primary gift item. The invisible neodymium magnetic closure provides a satisfying, secure snap. Ideal for corporate award ceremonies, luxury brand press kits, VIP client gifts, and executive onboarding packages. Produced on KBA 1050 4-color and Heidelberg 7+1 UV presses across 18,000 sqm factory.
+Executive-grade portfolio-style magnetic closure presentation box — manufactured by **Guangdong Bincai Color Printing Co., Ltd.**, a Diamond Member on Made-in-China.com, Audited Supplier with 23 years of experience. Inspired by premium document folios, this box features a book-style magnetic flap that opens to reveal a thoughtfully organized interior: a clear PET document sleeve on the inner lid for brochures, certificates, or welcome letters; an elastic pen loop for branded writing instruments; and a custom die-cut foam tray for the primary gift item. The invisible neodymium magnetic closure provides a satisfying, secure snap. Ideal for corporate award ceremonies, luxury brand press kits, VIP client gifts, and executive onboarding packages. Produced on KBA 1050 4-color and Heidelberg 7+1 UV presses across 18,000 sqm factory.
 
 ## Applications
 - Corporate award and recognition ceremony presentation
@@ -55,7 +55,7 @@ Executive-grade portfolio-style magnetic closure presentation box — manufactur
 - 3-point inline inspection: print accuracy, magnetic alignment, insert fit
 
 ## Why Bincai
-- **22 years** of premium rigid box manufacturing since 2003
+- **23 years** of premium rigid box manufacturing since 2003
 - **18,000 sqm** dual-factory with dedicated rigid box and magnetic assembly station
 - **200+ global brands** served including luxury, automotive, and corporate sectors
 - **1.7M boxes/day** output for large corporate event fulfillment
@@ -76,7 +76,7 @@ Executive-grade portfolio-style magnetic closure presentation box — manufactur
 | **Certifications** | ISO 9001 + FSC + G7 Master | ISO 9001 only (if any) |
 | **3D Rendering** | Free photorealistic 3D render within 24hrs | 2D sketch only |
 | **Daily Output** | 1.7M boxes total; dedicated portfolio line | 2,000–5,000 boxes |
-| **Experience** | 22 years serving corporate/automotive/luxury | 3–8 years |
+| **Experience** | 23 years serving corporate/automotive/luxury | 3–8 years |
 
 ## Sustainability
 
@@ -121,4 +121,4 @@ A: Yes — full-wrap interior printing on inner lid and base panels. Foil-stampe
 
 ## Ready to Start?
 
-**Send us your portfolio dimensions and brand guidelines for a free 3D rendering in 24 hours and a physical prototype in 7 days.** Review the magnetic closure feel, document sleeve fit, and pen loop tension in your exact specifications — all before committing to production. Backed by Bincai's 22 years of corporate portfolio box manufacturing for 200+ global brands. [→ Get your free rendering](/contact/)
+**Send us your portfolio dimensions and brand guidelines for a free 3D rendering in 24 hours and a physical prototype in 7 days.** Review the magnetic closure feel, document sleeve fit, and pen loop tension in your exact specifications — all before committing to production. Backed by Bincai's 23 years of corporate portfolio box manufacturing for 200+ global brands. [→ Get your free rendering](/contact/)

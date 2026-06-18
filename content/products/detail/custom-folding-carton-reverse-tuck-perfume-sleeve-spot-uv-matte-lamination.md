@@ -2,7 +2,7 @@
 title: "Custom Folding Carton Reverse-Tuck Perfume Sleeve with Spot UV Matte Lamination"
 date: 2026-06-14
 draft: false
-description: "Elegant reverse-tuck folding carton perfume sleeve with spot UV over matte lamination, custom die-cut window, and gold foil hot stamping. Perfect for luxury fragrance brands. Manufactured at Bincai's 18,000 sqm Foshan factory using KBA 1050 4-color offset and Heidelberg 7+1 UV presses. ISO 9001:2015 & FSC certified. 22 years packaging experience. MOQ 1,000 units with free custom samples."
+description: "Elegant reverse-tuck folding carton perfume sleeve with spot UV over matte lamination, custom die-cut window, and gold foil hot stamping. Perfect for luxury fragrance brands. Manufactured at Bincai's 18,000 sqm Foshan factory using KBA 1050 4-color offset and Heidelberg 7+1 UV presses. ISO 9001:2015 & FSC certified. 23 years packaging experience. MOQ 1,000 units with free custom samples."
 keywords: "perfume sleeve box, reverse tuck carton, fragrance packaging, folding carton cosmetics, spot UV matte lamination, gold foil perfume box, custom perfume packaging, luxury fragrance carton, die-cut window box, Bincai folding carton, ISO 9001 perfume packaging, FSC fragrance box, Heidelberg foil carton, Foshan perfume box, custom cosmetic carton, perfume display box, reverse tuck end carton, fragrance gift box, cosmetic folding carton, luxury perfume packaging China"
 categories: ["folding-cartons"]
 params:
@@ -113,4 +113,4 @@ A: Yes. We offer variable data printing — sequential serial numbers, QR codes,
 **Q: What's your lead time for new perfume carton development?**
 A: Artwork prep: 2 days. Digital proof: 1-2 days. Pre-production physical sample: 5-7 days. Production: 7-12 days (includes foil die fabrication if needed). Rush service delivers in 5-7 days for repeats.
 
-> **Bincai Manufacturing Advantage**: 22 years of folding carton excellence. Our Foshan factory's KBA 1050 and Heidelberg 7+1 UV inline coating lines produce 1.5M+ folding cartons daily. ISO 9001:2015 and FSC certified. MOQ 1,000 units. Free custom samples in 7 business days. Contact us for a quote.
+> **Bincai Manufacturing Advantage**: 23 years of folding carton excellence. Our Foshan factory's KBA 1050 and Heidelberg 7+1 UV inline coating lines produce 1.5M+ folding cartons daily. ISO 9001:2015 and FSC certified. MOQ 1,000 units. Free custom samples in 7 business days. Contact us for a quote.

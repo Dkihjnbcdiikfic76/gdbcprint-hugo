@@ -2,7 +2,7 @@
 title: "Auto Bottom Folding Carton for Food Soap Candle Packaging"
 date: 2026-06-10
 draft: false
-description: "Auto-bottom folding carton for food, soap, candle, confectionery and retail packaging. Instant pop-open assembly — no tape or glue needed. Manufactured by Bincai: KBA 1050 4-color offset + Heidelberg 7+1 UV press, 250-450gsm FBB/SBS/kraft board, hot foil stamping, embossing, matte/gloss lamination, die-cut PET window, 10,000+8,000sqm dual factory, 22 years experience, ISO 9001:2015 & FSC certified, food-grade inks, 1.7M daily output, 80+ workers. MOQ 500. Free pre-production samples 5-7 days."
+description: "Auto-bottom folding carton for food, soap, candle, confectionery and retail packaging. Instant pop-open assembly — no tape or glue needed. Manufactured by Bincai: KBA 1050 4-color offset + Heidelberg 7+1 UV press, 250-450gsm FBB/SBS/kraft board, hot foil stamping, embossing, matte/gloss lamination, die-cut PET window, 10,000+8,000sqm dual factory, 23 years experience, ISO 9001:2015 & FSC certified, food-grade inks, 1.7M daily output, 80+ workers. MOQ 500. Free pre-production samples 5-7 days."
 keywords: "auto bottom folding carton, food packaging box, soap candle box, custom folding carton, offset printed paper box, retail display box, folding carton manufacturer China, ISO 9001 FSC packaging, die cut window box, food grade paper box, auto lock bottom carton, confectionery packaging box, KBA Heidelberg folding carton, Bincai, Guangdong folding carton factory"
 categories: ["folding-cartons"]
 params:
@@ -14,7 +14,7 @@ params:
 
 ![Bincai Folding Cartons](/images/folding-cartons.jpg)
 
-Auto-bottom folding carton for food, soap, and candle packaging — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). The auto-lock bottom design folds flat for storage and pops open instantly for filling, making it ideal for high-speed production lines. KBA 1050 4-color and Heidelberg 7+1 UV presses deliver precision printing across 18,000 sqm factory (10,000+8,000 smart factory). Daily output 1.7 million boxes.
+Auto-bottom folding carton for food, soap, and candle packaging — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 23 years of experience (founded 2003). The auto-lock bottom design folds flat for storage and pops open instantly for filling, making it ideal for high-speed production lines. KBA 1050 4-color and Heidelberg 7+1 UV presses deliver precision printing across 18,000 sqm factory (10,000+8,000 smart factory). Daily output 1.7 million boxes.
 
 ## Applications
 - Gourmet food and confectionery packaging
@@ -69,7 +69,7 @@ For food, soap, and candle brands shipping directly to consumers, the box bottom
 **Business impact**: A DTC candle brand shipping 10,000 units/month loses ~2% to bottom blowout returns with taped cartons — that is 200 returns/month at ¥35 average return processing cost = ¥84,000/year. Auto-bottom reduces blowout to <0.1%. Plus, the push-to-lock design cuts packing station labor by 40% — one operator packs 40 boxes/hour instead of 24. Over 12 months, that single change saves ¥70,000 in labor for a 3-person packing team.
 
 ## Factory
-- 22 years of manufacturing excellence since 2003
+- 23 years of manufacturing excellence since 2003
 - 18,000 sqm factory (10,000+8,000 smart factory)
 - 80+ skilled employees across design, prepress, printing, and finishing
 - KBA 1050 4-color + Heidelberg 7+1 UV presses
@@ -95,7 +95,7 @@ A: All auto-bottom folding cartons ship flat (knocked down) for maximum transpor
 
 When you partner with Bincai, you're choosing a packaging manufacturer with the scale, certification, and technical capability to deliver consistent quality at competitive pricing:
 
-- **22 Years of Manufacturing Excellence** — Founded in 2003, Bincai has spent over two decades refining folding carton production. Our experience spans food, cosmetics, electronics, and luxury retail packaging, giving us deep cross-industry knowledge that benefits every project.
+- **23 Years of Manufacturing Excellence** — Founded in 2003, Bincai has spent over two decades refining folding carton production. Our experience spans food, cosmetics, electronics, and luxury retail packaging, giving us deep cross-industry knowledge that benefits every project.
 
 - **18,000 sqm Dual Factory** — Our campus includes a 10,000 sqm primary production facility plus an 8,000 sqm smart factory. This dual-site layout provides production redundancy, parallel order processing, and the capacity to handle rush orders without disrupting ongoing production.
 

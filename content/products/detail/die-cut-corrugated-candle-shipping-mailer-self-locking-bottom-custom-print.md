@@ -2,8 +2,8 @@
 title: "Die-Cut Corrugated Candle Shipping Mailer with Self-Locking Bottom and Custom Print"
 date: 2026-06-15
 draft: false
-description: "Custom die-cut corrugated shipping mailer engineered for fragile candle jars with self-locking bottom, integrated foam cradle, and full-color flexo printing. Manufactured at Bincai's 18,000 sqm Foshan facility using BHS 2.5m corrugator and KBA 1050 4-color offset presses. ISO 9001:2015 and FSC certified. 22 years paper box expertise, 1.7M boxes daily output. MOQ 500 units, free custom samples. Ideal for candle brands, home fragrance DTC, and subscription box services."
-keywords: "candle shipping box, corrugated candle mailer, die-cut shipping box, self-locking bottom box, custom printed mailer, fragile item shipping, candle jar packaging, Bincai corrugated mailer, ISO 9001 shipping box, FSC corrugated box, BHS corrugator, Foshan shipping box, 18,000 sqm, 1.7M daily, 22 years experience, KBA 1050, custom candle packaging, home fragrance shipping, DTC candle box, subscription box packaging, China corrugated manufacturer, OEM shipping mailer, foam insert box, flexo printed box"
+description: "Custom die-cut corrugated shipping mailer engineered for fragile candle jars with self-locking bottom, integrated foam cradle, and full-color flexo printing. Manufactured at Bincai's 18,000 sqm Foshan facility using BHS 2.5m corrugator and KBA 1050 4-color offset presses. ISO 9001:2015 and FSC certified. 23 years paper box expertise, 1.7M boxes daily output. MOQ 500 units, free custom samples. Ideal for candle brands, home fragrance DTC, and subscription box services."
+keywords: "candle shipping box, corrugated candle mailer, die-cut shipping box, self-locking bottom box, custom printed mailer, fragile item shipping, candle jar packaging, Bincai corrugated mailer, ISO 9001 shipping box, FSC corrugated box, BHS corrugator, Foshan shipping box, 18,000 sqm, 1.7M daily, 23 years experience, KBA 1050, custom candle packaging, home fragrance shipping, DTC candle box, subscription box packaging, China corrugated manufacturer, OEM shipping mailer, foam insert box, flexo printed box"
 categories: ["corrugated-mailers"]
 params:
   moq: "500"
@@ -16,7 +16,7 @@ params:
 
 ## Product Overview
 
-The Bincai Die-Cut Corrugated Candle Shipping Mailer solves the #1 pain point for candle brands: jars arriving cracked. An integrated EPE foam cradle, precision die-cut to fit your specific jar dimensions, suspends the candle away from all six walls of the box — the same protective principle used in electronics packaging, adapted for heavy glass. The self-locking bottom assembles in under 5 seconds without tape or adhesive. Full-color flexo printing on the exterior turns a shipping box into a brand billboard. Manufactured at our 18,000 sqm integrated facility in Foshan — BHS 2.5m corrugator, KBA 1050 4-color offset, 22 years of paper box mastery, ISO 9001:2015 and FSC certified, 1.7 million boxes daily to 50+ countries.
+The Bincai Die-Cut Corrugated Candle Shipping Mailer solves the #1 pain point for candle brands: jars arriving cracked. An integrated EPE foam cradle, precision die-cut to fit your specific jar dimensions, suspends the candle away from all six walls of the box — the same protective principle used in electronics packaging, adapted for heavy glass. The self-locking bottom assembles in under 5 seconds without tape or adhesive. Full-color flexo printing on the exterior turns a shipping box into a brand billboard. Manufactured at our 18,000 sqm integrated facility in Foshan — BHS 2.5m corrugator, KBA 1050 4-color offset, 23 years of paper box mastery, ISO 9001:2015 and FSC certified, 1.7 million boxes daily to 50+ countries.
 
 ## Applications
 
@@ -133,6 +133,6 @@ A generic corrugated box ships your candle — a die-cut mailer with engineered 
 
 Bincai operates its own BHS 2.5m corrugator — not a sheet plant that buys combined board from a third party. This vertical integration means your candle mailer's flute profile, board grade, and liner weight are specified at the roll-stock level, not selected from a limited inventory of standard sheets. The die-cut foam cradle is produced on our in-house EPE fabrication line — not sourced from a separate packaging supplier — so the cradle and box are designed together, not cobbled together from different vendors. When a candle brand ships 50,000 jars for holiday season and zero arrive cracked, that's not luck — it's integrated engineering from corrugator to cradle.
 
-**Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | BHS 2.5m Corrugator + KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
+**Factory Facts:** Founded 2003 | 23 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | BHS 2.5m Corrugator + KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
 
 **Shipping:** Flat-packed, self-locking bottom folds in seconds at destination. Foam cradles nest for density. Master cartons of 50-100 units depending on mailer size. Standard export pallet: 2,000-4,000 units. 10-14 day production lead time.

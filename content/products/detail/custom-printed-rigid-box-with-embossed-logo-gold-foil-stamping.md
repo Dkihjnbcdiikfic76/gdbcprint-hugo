@@ -2,7 +2,7 @@
 title: "Custom Printed Rigid Box with Embossed Logo Gold Foil Stamping"
 date: 2026-06-10
 draft: false
-description: "Custom rigid gift box with deep embossed logo and hot gold foil stamping. Manufactured on Heidelberg 7+1 UV offset with Bobst flatbed die-cutting — 1.5–3.0mm greyboard, precision ±0.15mm registration. ISO 9001 & FSC certified, 22-year Bincai factory in Foshan Guangdong. 18,000 sqm production base (10,000 + 8,000 new smart factory 2025), daily output 1.7M color boxes + 220K+ rigid boxes. Matte/gloss lamination, spot UV, soft-touch coating available. Free samples in 3-5 days, MOQ 500 units."
+description: "Custom rigid gift box with deep embossed logo and hot gold foil stamping. Manufactured on Heidelberg 7+1 UV offset with Bobst flatbed die-cutting — 1.5–3.0mm greyboard, precision ±0.15mm registration. ISO 9001 & FSC certified, 23-year Bincai factory in Foshan Guangdong. 18,000 sqm production base (10,000 + 8,000 new smart factory 2025), daily output 1.7M color boxes + 220K+ rigid boxes. Matte/gloss lamination, spot UV, soft-touch coating available. Free samples in 3-5 days, MOQ 500 units."
 keywords: "custom rigid box, embossed logo box, gold foil stamped box, luxury rigid gift box, debossed gift box, rigid set-up box wholesale, hot stamping rigid box, premium gift packaging, embossing and foil box, magnetic closure box, custom rigid packaging manufacturer, Bincai rigid box, Heidelberg printed gift box, FSC certified rigid box, Guangdong gift box factory"
 categories: ["rigid-gift-boxes"]
 params:
@@ -16,7 +16,7 @@ params:
 
 ## Product Overview
 
-This custom printed rigid box combines the tactile prestige of embossed logo detailing with the brilliance of gold foil stamping — a premium packaging format trusted by luxury brands worldwide. Rigid set-up boxes (also called "hard boxes" or "turn-edge boxes") are constructed by wrapping printed paper over dense greyboard, creating a substantial, non-collapsible structure that conveys quality from the first touch. Manufactured by Guangdong Bincai Color Printing, every box passes through 15 precision QC checkpoints across our 18,000 sqm integrated facility. With Heidelberg 7+1 UV presses for exceptional color fidelity, KBA 1050 offset for volume production, and over 22 years of rigid box expertise (founded 2003), Bincai delivers over 220,000+ gift boxes daily — all under ISO 9001:2015 quality management and FSC Chain-of-Custody certification.
+This custom printed rigid box combines the tactile prestige of embossed logo detailing with the brilliance of gold foil stamping — a premium packaging format trusted by luxury brands worldwide. Rigid set-up boxes (also called "hard boxes" or "turn-edge boxes") are constructed by wrapping printed paper over dense greyboard, creating a substantial, non-collapsible structure that conveys quality from the first touch. Manufactured by Guangdong Bincai Color Printing, every box passes through 15 precision QC checkpoints across our 18,000 sqm integrated facility. With Heidelberg 7+1 UV presses for exceptional color fidelity, KBA 1050 offset for volume production, and over 23 years of rigid box expertise (founded 2003), Bincai delivers over 220,000+ gift boxes daily — all under ISO 9001:2015 quality management and FSC Chain-of-Custody certification.
 
 ## Manufacturing Specifications
 

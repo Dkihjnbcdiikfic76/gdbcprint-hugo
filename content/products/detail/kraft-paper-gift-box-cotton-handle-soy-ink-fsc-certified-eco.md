@@ -16,7 +16,7 @@ params:
 
 ## Product Overview
 
-The Bincai Kraft Paper Gift Box with Cotton Handle and Soy Ink Printing offers a fully sustainable packaging solution for eco-conscious brands. Constructed from FSC-certified kraft paperboard printed with soy-based inks, each box features a natural cotton rope carry handle and is fully recyclable and biodegradable. Manufactured at our 18,000 sqm Foshan facility with 22 years of paper box expertise, Bincai produces 1.7 million boxes daily across KBA 1050 and Heidelberg 7+1 UV press lines while maintaining ISO 9001 and FSC chain-of-custody certifications. This plastic-free gift box eliminates petroleum-based materials entirely — from the unbleached kraft structure to the undyed cotton handle and water-based adhesives.
+The Bincai Kraft Paper Gift Box with Cotton Handle and Soy Ink Printing offers a fully sustainable packaging solution for eco-conscious brands. Constructed from FSC-certified kraft paperboard printed with soy-based inks, each box features a natural cotton rope carry handle and is fully recyclable and biodegradable. Manufactured at our 18,000 sqm Foshan facility with 23 years of paper box expertise, Bincai produces 1.7 million boxes daily across KBA 1050 and Heidelberg 7+1 UV press lines while maintaining ISO 9001 and FSC chain-of-custody certifications. This plastic-free gift box eliminates petroleum-based materials entirely — from the unbleached kraft structure to the undyed cotton handle and water-based adhesives.
 
 ## Applications
 

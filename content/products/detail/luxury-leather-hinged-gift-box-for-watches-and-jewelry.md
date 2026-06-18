@@ -2,8 +2,8 @@
 title: "Luxury Leather Hinged Gift Box for Watches and Jewelry"
 date: 2026-06-11
 draft: false
-description: "Premium leather-finish hinged rigid gift box for luxury watches, jewelry, rings, bracelets, and necklaces. PU leatherette or genuine leather wrap over rigid greyboard core with velvet/satin interior, LED lighting, and neodymium magnetic closure. Made by Guangdong Bincai Color Printing — ISO 9001:2015 & FSC certified, 18,000 sqm factory, 22 years experience, 1.7M daily output. KBA 1050 4-color + Heidelberg 7+1 UV offset, Bobst flatbed hot stamping, CNC die-cut EVA foam inserts. MOQ 500."
-keywords: "leather gift box, hinged gift box, watch gift box, jewelry gift box, leather jewelry box, luxury watch box, PU leatherette box, rigid gift box, magnetic closure box, velvet lining box, LED jewelry box, custom watch packaging, necklace gift box, ring display box, bracelet gift box, Bincai leather box, premium gift packaging, ISO 9001 gift box, FSC certified box, 18,000 sqm factory, Heidelberg UV box, KBA offset gift box, Bobst hot stamping box, CNC die-cut insert, Guangdong gift box manufacturer, 22 years packaging, luxury unboxing box, corporate gift box, leatherette watch case, jewelry display packaging"
+description: "Premium leather-finish hinged rigid gift box for luxury watches, jewelry, rings, bracelets, and necklaces. PU leatherette or genuine leather wrap over rigid greyboard core with velvet/satin interior, LED lighting, and neodymium magnetic closure. Made by Guangdong Bincai Color Printing — ISO 9001:2015 & FSC certified, 18,000 sqm factory, 23 years experience, 1.7M daily output. KBA 1050 4-color + Heidelberg 7+1 UV offset, Bobst flatbed hot stamping, CNC die-cut EVA foam inserts. MOQ 500."
+keywords: "leather gift box, hinged gift box, watch gift box, jewelry gift box, leather jewelry box, luxury watch box, PU leatherette box, rigid gift box, magnetic closure box, velvet lining box, LED jewelry box, custom watch packaging, necklace gift box, ring display box, bracelet gift box, Bincai leather box, premium gift packaging, ISO 9001 gift box, FSC certified box, 18,000 sqm factory, Heidelberg UV box, KBA offset gift box, Bobst hot stamping box, CNC die-cut insert, Guangdong gift box manufacturer, 23 years packaging, luxury unboxing box, corporate gift box, leatherette watch case, jewelry display packaging"
 categories: ["jewelry-boxes"]
 params:
   moq: "500-1000"
@@ -139,6 +139,6 @@ Luxury buyers touch the box before they see the product. The texture, the weight
 - A **leather finish swatch kit** with 20+ textures and colors shipped the same day you inquire
 - A **complete production proposal** including unit cost at your quantity, lead time (12–18 days standard, 7–10 days rush), and FOB Foshan/Shenzhen freight estimate
 
-22 years of luxury rigid box manufacturing. 18,000 sqm factory. ISO 9001:2015 & FSC certified. 220,000+ rigid gift boxes daily. Serving watch and jewelry brands in 60+ countries.
+23 years of luxury rigid box manufacturing. 18,000 sqm factory. ISO 9001:2015 & FSC certified. 220,000+ rigid gift boxes daily. Serving watch and jewelry brands in 60+ countries.
 
 📧 qo82@icloud.com &nbsp; | &nbsp; 📱 +86-18934352881 &nbsp; | &nbsp; [→ Get Your Free Sample & Swatch Kit](/contact/)

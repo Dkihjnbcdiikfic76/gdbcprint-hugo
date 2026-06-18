@@ -2,7 +2,7 @@
 title: "Luxury Orange Two-Piece Rigid Gift Box with Gold Foil"
 date: 2026-06-11
 draft: false
-description: "Luxury Orange Two-Piece Rigid Gift Box with Gold Foil — KBA 1050 4-color + Heidelberg 7+1 UV press, Bobst hot foil stamping, ISO 9001:2015 & FSC certified. 22 years Guangdong manufacturing, 18,000 sqm factory (10,000+8,000 smart factory), 220,000+ gift boxes daily. 2.0mm rigid greyboard, 157gsm art paper wrap, Pantone-matched orange, matte lamination. MOQ 500."
+description: "Luxury Orange Two-Piece Rigid Gift Box with Gold Foil — KBA 1050 4-color + Heidelberg 7+1 UV press, Bobst hot foil stamping, ISO 9001:2015 & FSC certified. 23 years Guangdong manufacturing, 18,000 sqm factory (10,000+8,000 smart factory), 220,000+ gift boxes daily. 2.0mm rigid greyboard, 157gsm art paper wrap, Pantone-matched orange, matte lamination. MOQ 500."
 keywords: "rigid gift box, two-piece gift box, luxury orange gift box, gold foil gift box, custom rigid box, rigid box China, luxury gift box manufacturer, hot foil stamping box, matte lamination gift box, premium rigid packaging, Guangdong rigid box factory, Bincai rigid box, ISO 9001 gift box, FSC gift box, B2B gift packaging, corporate gift box, wholesale rigid box, 18,000 sqm factory, KBA 1050 rigid box, Heidelberg UV gift box, embossed logo box, Bobst foil stamping, 220K daily output, custom Pantone box, OEM rigid gift box, two-piece lid box, greyboard rigid box"
 categories: ["rigid-gift-boxes"]
 params:
@@ -63,7 +63,7 @@ The orange-and-gold two-piece rigid box excels across industries where premium p
 
 ## Why Choose Bincai for Rigid Gift Boxes
 
-- **22 Years of Rigid Box Mastery**: Since 2003, we've specialized in hand-assembled rigid box manufacturing — this is our core competency, not a side line
+- **23 Years of Rigid Box Mastery**: Since 2003, we've specialized in hand-assembled rigid box manufacturing — this is our core competency, not a side line
 - **Dual Factory Capacity**: 18,000 sqm across two facilities (10,000 sqm main + 8,000 sqm smart factory commissioned 2025), dedicated rigid box assembly lines with 80+ skilled craftspeople
 - **Vertical Integration**: In-house printing (KBA 1050 + Heidelberg 7+1 UV), in-house Bobst foil stamping and embossing, in-house die-cutting, in-house lamination — no subcontracting delays
 - **Pantone Precision**: Full Pantone library maintained on-site; color matching validated via X-Rite spectrophotometer with ΔE ≤ 2.0 across the entire production run

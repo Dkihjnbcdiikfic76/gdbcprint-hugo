@@ -2,8 +2,8 @@
 title: "Magnetic Closure Cosmetic Skincare Set Box 5-Piece Foam Tray"
 date: 2026-06-14
 draft: false
-description: "Luxury magnetic closure rigid box for 5-piece cosmetic skincare gift sets featuring custom die-cut EVA foam tray, soft-touch matte BOPP lamination, gold foil hot stamping, and N35 neodymium magnet closure. Manufactured by Guangdong Bincai Color Printing — Diamond Member on Made-in-China.com — with 22 years of rigid box packaging expertise (founded 2003). Dual 18,000 sqm factory campus in Foshan Pearl River Delta equipped with KBA Rapida 105 4-color press (15,000 sheets/hr), Heidelberg Speedmaster CD 102 7+1 UV, and Bobst Novacut 106-E die-cutter. ISO 9001:2015 and FSC Chain-of-Custody certified, Sedex SMETA audited. Daily output 1.7M boxes with 350+ workers. MOQ 500 units, free samples in 5-7 days."
-keywords: "cosmetic set box, skincare packaging box, magnetic closure rigid box, EVA foam insert, 5-piece gift set box, soft-touch lamination, luxury cosmetic packaging, Guangdong manufacturer, Heidelberg 7+1 UV, magnetic closure cosmetic box, skincare gift set packaging, 5-piece foam tray box, EVA foam insert box, soft-touch matte rigid box, N35 magnet closure box, magnetic flip lid skincare box, beauty set packaging, luxury skincare gift box, cosmetic display box, custom foam tray box, rigid magnetic gift box, cosmetic gift set manufacturer, gold foil cosmetic box, skincare retail packaging, anti-tarnish box, Bincai magnetic box, Guangdong cosmetic packaging, KBA Heidelberg cosmetic box, ISO 9001 FSC skincare packaging, 18000 sqm factory, 22 years manufacturing, OEM skincare box China, 1.7M daily output, Diamond Member Made-in-China, retail-ready cosmetic packaging, premium beauty box, wholesale cosmetic packaging box"
+description: "Luxury magnetic closure rigid box for 5-piece cosmetic skincare gift sets featuring custom die-cut EVA foam tray, soft-touch matte BOPP lamination, gold foil hot stamping, and N35 neodymium magnet closure. Manufactured by Guangdong Bincai Color Printing — Diamond Member on Made-in-China.com — with 23 years of rigid box packaging expertise (founded 2003). Dual 18,000 sqm factory campus in Foshan Pearl River Delta equipped with KBA Rapida 105 4-color press (15,000 sheets/hr), Heidelberg Speedmaster CD 102 7+1 UV, and Bobst Novacut 106-E die-cutter. ISO 9001:2015 and FSC Chain-of-Custody certified, Sedex SMETA audited. Daily output 1.7M boxes with 350+ workers. MOQ 500 units, free samples in 5-7 days."
+keywords: "cosmetic set box, skincare packaging box, magnetic closure rigid box, EVA foam insert, 5-piece gift set box, soft-touch lamination, luxury cosmetic packaging, Guangdong manufacturer, Heidelberg 7+1 UV, magnetic closure cosmetic box, skincare gift set packaging, 5-piece foam tray box, EVA foam insert box, soft-touch matte rigid box, N35 magnet closure box, magnetic flip lid skincare box, beauty set packaging, luxury skincare gift box, cosmetic display box, custom foam tray box, rigid magnetic gift box, cosmetic gift set manufacturer, gold foil cosmetic box, skincare retail packaging, anti-tarnish box, Bincai magnetic box, Guangdong cosmetic packaging, KBA Heidelberg cosmetic box, ISO 9001 FSC skincare packaging, 18000 sqm factory, 23 years manufacturing, OEM skincare box China, 1.7M daily output, Diamond Member Made-in-China, retail-ready cosmetic packaging, premium beauty box, wholesale cosmetic packaging box"
 categories: ["magnetic-closure-boxes"]
 params:
   moq: "500-2000"
@@ -84,11 +84,11 @@ A: Each N35 neodymium magnet (4 per box) is mechanically embedded into the greyb
 
 ## Factory Facts
 
-**Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
+**Factory Facts:** Founded 2003 | 23 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
 
 ## Why Choose Bincai
 
-Guangdong Bincai Color Printing brings 22 years of rigid box manufacturing expertise to every project. Operating from an 18,000 sqm campus (10,000 sqm main factory + 8,000 sqm smart factory in Gaobu) with daily output of 1.7 million boxes, we combine KBA 1050 offset printing, Heidelberg 7+1 UV foil stamping, and in-house CNC foam routing to deliver cosmetic packaging that protects your product and amplifies your brand. ISO 9001 and FSC certified.
+Guangdong Bincai Color Printing brings 23 years of rigid box manufacturing expertise to every project. Operating from an 18,000 sqm campus (10,000 sqm main factory + 8,000 sqm smart factory in Gaobu) with daily output of 1.7 million boxes, we combine KBA 1050 offset printing, Heidelberg 7+1 UV foil stamping, and in-house CNC foam routing to deliver cosmetic packaging that protects your product and amplifies your brand. ISO 9001 and FSC certified.
 
 ## Seven-Stage QC Gates
 

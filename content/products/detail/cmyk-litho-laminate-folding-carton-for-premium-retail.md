@@ -2,8 +2,8 @@
 title: "CMYK Litho-Laminate Folding Carton for Premium Retail Display Packaging"
 date: 2026-06-16
 draft: false
-description: "High-end litho-laminate folding carton combining offset-printed 157gsm art paper laminated to E-flute micro-corrugated board for premium retail display packaging. Manufactured by Guangdong Bincai Color Printing Co., Ltd. with 22 years of packaging expertise. 157gsm C2S art paper litho-printed on Heidelberg Speedmaster CD 102 7+1 UV (CMYK + spot + UV coating) and laminated to 1.5mm E-flute micro-corrugated board — delivering photo-quality print with structural rigidity. Auto-lock bottom with tuck-top closure. Hot foil stamping, spot UV, embossing, and soft-touch matte lamination available. KBA Rapida 105 + Heidelberg CD 102 7+1 UV + Bobst SP 102 BMA. 18,000 sqm dual-factory, ISO 9001:2015 & FSC certified. 1.7M boxes daily. MOQ 1,000."
-keywords: "litho laminate carton, premium folding carton, retail display box, CMYK offset printing folding carton, E flute laminated box, Heidelberg 7+1 UV carton, photo quality packaging, luxury folding carton, cosmetic packaging box, skincare box, premium retail box, litho laminate packaging, soft touch matte carton, spot UV folding carton, Bincai, Guangdong folding carton factory, ISO 9001 FSC, KBA 1050, 22 years experience, 18,000 sqm, 1.7M daily output, OEM folding carton China, Diamond Supplier MIC"
+description: "High-end litho-laminate folding carton combining offset-printed 157gsm art paper laminated to E-flute micro-corrugated board for premium retail display packaging. Manufactured by Guangdong Bincai Color Printing Co., Ltd. with 23 years of packaging expertise. 157gsm C2S art paper litho-printed on Heidelberg Speedmaster CD 102 7+1 UV (CMYK + spot + UV coating) and laminated to 1.5mm E-flute micro-corrugated board — delivering photo-quality print with structural rigidity. Auto-lock bottom with tuck-top closure. Hot foil stamping, spot UV, embossing, and soft-touch matte lamination available. KBA Rapida 105 + Heidelberg CD 102 7+1 UV + Bobst SP 102 BMA. 18,000 sqm dual-factory, ISO 9001:2015 & FSC certified. 1.7M boxes daily. MOQ 1,000."
+keywords: "litho laminate carton, premium folding carton, retail display box, CMYK offset printing folding carton, E flute laminated box, Heidelberg 7+1 UV carton, photo quality packaging, luxury folding carton, cosmetic packaging box, skincare box, premium retail box, litho laminate packaging, soft touch matte carton, spot UV folding carton, Bincai, Guangdong folding carton factory, ISO 9001 FSC, KBA 1050, 23 years experience, 18,000 sqm, 1.7M daily output, OEM folding carton China, Diamond Supplier MIC"
 categories: ["folding-cartons"]
 params:
   moq: "1000-3000"
@@ -14,7 +14,7 @@ params:
 
 ![CMYK Litho-Laminate Folding Carton for Premium Retail Display Packaging](/images/folding-cartons.jpg)
 
-CMYK litho-laminate folding carton for premium retail display packaging — delivering photo-quality print on a rigid-feel substrate, from Guangdong Bincai Color Printing Co., Ltd. (22 years, founded 2003). This carton combines two packaging technologies into one premium solution: offset lithographic printing on 157gsm C2S (coated-two-sides) art paper, laminated to 1.5mm E-flute micro-corrugated board. The result is a folding carton with the visual impact of a luxury rigid box — 200-line screen CMYK printing with Pantone spot colors and UV coating on Heidelberg Speedmaster CD 102 7+1 UV press — with the structural protection and flat-shipping efficiency of corrugated. The auto-lock bottom pops open instantly with tuck-top closure for quick assembly. Surface enhancement options include hot foil stamping (gold/silver/copper/rose gold), spot UV gloss coating, sculpted embossing, and soft-touch matte lamination. Our 18,000 sqm facility delivers 1.7M boxes daily under ISO 9001:2015 and FSC Chain-of-Custody certification.
+CMYK litho-laminate folding carton for premium retail display packaging — delivering photo-quality print on a rigid-feel substrate, from Guangdong Bincai Color Printing Co., Ltd. (23 years, founded 2003). This carton combines two packaging technologies into one premium solution: offset lithographic printing on 157gsm C2S (coated-two-sides) art paper, laminated to 1.5mm E-flute micro-corrugated board. The result is a folding carton with the visual impact of a luxury rigid box — 200-line screen CMYK printing with Pantone spot colors and UV coating on Heidelberg Speedmaster CD 102 7+1 UV press — with the structural protection and flat-shipping efficiency of corrugated. The auto-lock bottom pops open instantly with tuck-top closure for quick assembly. Surface enhancement options include hot foil stamping (gold/silver/copper/rose gold), spot UV gloss coating, sculpted embossing, and soft-touch matte lamination. Our 18,000 sqm facility delivers 1.7M boxes daily under ISO 9001:2015 and FSC Chain-of-Custody certification.
 
 ## Applications
 
@@ -82,7 +82,7 @@ Bincai's litho-laminate cartons are available with FSC-certified paper throughou
 | Screen Ruling | 200–250 line | 150–175 line |
 | Inline UV Curing | Inter-deck UV, single pass | Offline UV, 2 passes |
 | Factory Size | 18,000 sqm | 3,000–5,000 sqm |
-| Experience | 22 years | 5–10 years |
+| Experience | 23 years | 5–10 years |
 | Daily Output | 1.7M boxes | 100K–200K boxes |
 | Certifications | ISO 9001 + FSC CoC | ISO 9001 only |
 | Minimum Order | 1,000 units | 3,000–5,000 units |

@@ -2,8 +2,8 @@
 title: "Corrugated Subscription Box — Tear Strip + Full-Color Flexo for E-Commerce Monthly Kits"
 date: 2026-06-15
 draft: false
-description: "Corrugated subscription box with tear strip and full-color flexo print for e-commerce monthly kits by Guangdong Bincai Color Printing — Diamond Member on Made-in-China.com. ISO 9001 FSC certified, 22 years experience, 18,000 sqm factory, 1.7M daily output. B-flute corrugated, tear-strip opening, self-seal strip for returns, full-color flexo print on Kraft or white top liner."
-keywords: "corrugated subscription box, e-commerce mailer box, tear strip shipping box, monthly kit packaging, custom printed corrugated box, Bincai, Guangdong corrugated box factory, 22 years experience, ISO 9001 certified, FSC certified, 18,000 sqm factory, 1.7M daily output, OEM corrugated box China, Diamond Member MIC, subscription box packaging, DTC box"
+description: "Corrugated subscription box with tear strip and full-color flexo print for e-commerce monthly kits by Guangdong Bincai Color Printing — Diamond Member on Made-in-China.com. ISO 9001 FSC certified, 23 years experience, 18,000 sqm factory, 1.7M daily output. B-flute corrugated, tear-strip opening, self-seal strip for returns, full-color flexo print on Kraft or white top liner."
+keywords: "corrugated subscription box, e-commerce mailer box, tear strip shipping box, monthly kit packaging, custom printed corrugated box, Bincai, Guangdong corrugated box factory, 23 years experience, ISO 9001 certified, FSC certified, 18,000 sqm factory, 1.7M daily output, OEM corrugated box China, Diamond Member MIC, subscription box packaging, DTC box"
 categories: ["corrugated-mailers"]
 params:
   moq: "500-1000"
@@ -47,7 +47,7 @@ Corrugated subscription box with integrated tear strip and full-color flexo prin
 ## Why Choose Bincai for Corrugated Boxes
 | Our Advantage | What It Means for You |
 |:---|---:|
-| **22 Years Experience** | Printing and converting corrugated packaging since 2003 — we understand the structural demands of e-commerce fulfillment, from warehouse stacking to doorstep delivery |
+| **23 Years Experience** | Printing and converting corrugated packaging since 2003 — we understand the structural demands of e-commerce fulfillment, from warehouse stacking to doorstep delivery |
 | **BHS 2.5m Corrugator** | German-engineered corrugator producing B/E/C-flute board with consistent caliper and ECT — your boxes perform identically from first to millionth unit |
 | **ISO 9001 & FSC Certified** | Quality management audited annually + sustainably sourced linerboard — meet Amazon ISTA 6, FedEx/UPS packaging requirements, and EU Packaging Directive |
 | **18,000 sqm Integrated Factory** | Full in-house production: corrugation → flexo/offset printing → rotary die-cutting → folder-gluer with tear strip → QC — single source, faster lead times |

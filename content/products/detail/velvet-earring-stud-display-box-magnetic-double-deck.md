@@ -2,8 +2,8 @@
 title: "Double-Deck Velvet Earring Stud Display Box — Magnetic Lid with 24-Pair Tray — Bincai Premium Jewelry Retail Packaging"
 date: 2026-06-11
 draft: false
-description: "Double-deck velvet earring stud display box for 24 pairs with magnetic lid, removable tray, and mirror insert by Bincai — 22-year factory in Foshan, Guangdong. Hinged top deck reveals lower storage. Manufactured on KBA 1050 4-color offset and Heidelberg 7+1 UV presses across 18,000 sqm (10,000+8,000 smart factory), daily output 220,000+ gift boxes. 2mm greyboard, velvet flocking interior, elastic stud retention straps, polished glass mirror. ISO 9001:2015 & FSC Chain-of-Custody certified. MOQ 500. Ideal for jewelry retailers, e-commerce fulfillment, wholesale showrooms, and travel retail."
-keywords: "earring display box, double deck jewelry box, 24 pair earring tray, magnetic lid velvet box, stud earring storage, jewelry retailer packaging, removable stud tray, China earring box manufacturer, FSC jewelry display, wholesale earring packaging, velvet jewelry box, jewelry presentation box, double layer earring box, magnetic closure jewelry box, custom jewelry packaging, earring gift box, stud earring display, mirror lid jewelry box, retail counter display box, jewelry store packaging, Guangdong jewelry box factory, Foshan packaging manufacturer, Bincai Color Printing, KBA 1050 offset, Heidelberg 7+1 UV, ISO 9001:2015 certified, FSC Chain-of-Custody, 22 year factory, 18 000 sqm, 220000 gift box daily, greyboard jewelry box, velvet flocking box, elastic stud strap, custom jewelry tray, OEM jewelry packaging, wholesale jewelry display, luxury jewelry box, rigid jewelry box, sustainable jewelry packaging, recyclable jewelry box"
+description: "Double-deck velvet earring stud display box for 24 pairs with magnetic lid, removable tray, and mirror insert by Bincai — 23-year factory in Foshan, Guangdong. Hinged top deck reveals lower storage. Manufactured on KBA 1050 4-color offset and Heidelberg 7+1 UV presses across 18,000 sqm (10,000+8,000 smart factory), daily output 220,000+ gift boxes. 2mm greyboard, velvet flocking interior, elastic stud retention straps, polished glass mirror. ISO 9001:2015 & FSC Chain-of-Custody certified. MOQ 500. Ideal for jewelry retailers, e-commerce fulfillment, wholesale showrooms, and travel retail."
+keywords: "earring display box, double deck jewelry box, 24 pair earring tray, magnetic lid velvet box, stud earring storage, jewelry retailer packaging, removable stud tray, China earring box manufacturer, FSC jewelry display, wholesale earring packaging, velvet jewelry box, jewelry presentation box, double layer earring box, magnetic closure jewelry box, custom jewelry packaging, earring gift box, stud earring display, mirror lid jewelry box, retail counter display box, jewelry store packaging, Guangdong jewelry box factory, Foshan packaging manufacturer, Bincai Color Printing, KBA 1050 offset, Heidelberg 7+1 UV, ISO 9001:2015 certified, FSC Chain-of-Custody, 23 year factory, 18 000 sqm, 220000 gift box daily, greyboard jewelry box, velvet flocking box, elastic stud strap, custom jewelry tray, OEM jewelry packaging, wholesale jewelry display, luxury jewelry box, rigid jewelry box, sustainable jewelry packaging, recyclable jewelry box"
 categories: ["jewelry-boxes"]
 params:
   moq: "500"
@@ -16,7 +16,7 @@ params:
 
 ## Product Overview
 
-Bincai's double-deck velvet earring display box is engineered for jewelry retailers who need high-density stud and earring presentation. The hinged top deck holds 12 pairs of stud earrings on elastic straps over a velvet bed, while the lower compartment stores an additional 12 pairs or larger drop earrings. A polished mirror insert on the inside lid lets customers try earrings at the counter. 22 years of precision box manufacturing.
+Bincai's double-deck velvet earring display box is engineered for jewelry retailers who need high-density stud and earring presentation. The hinged top deck holds 12 pairs of stud earrings on elastic straps over a velvet bed, while the lower compartment stores an additional 12 pairs or larger drop earrings. A polished mirror insert on the inside lid lets customers try earrings at the counter. 23 years of precision box manufacturing.
 
 ## Manufacturing Specifications
 
@@ -78,9 +78,9 @@ Every earring display box passes through Bincai's **7-stage QC gate system** bef
 
 ## Why Bincai?
 
-With **22 years** of jewelry packaging specialization and **1.7 million boxes daily output** across 18,000 sqm, Bincai delivers retail-grade jewelry display solutions that elevate your brand at wholesale economics. Our in-house flocking line applies velvet to exacting standards — no outsourcing means faster turnaround and consistent quality. The double-deck mechanism is precision die-cut on our KBA 1050 4-color offset press, with Heidelberg 7+1 UV available for premium exterior branding.
+With **23 years** of jewelry packaging specialization and **1.7 million boxes daily output** across 18,000 sqm, Bincai delivers retail-grade jewelry display solutions that elevate your brand at wholesale economics. Our in-house flocking line applies velvet to exacting standards — no outsourcing means faster turnaround and consistent quality. The double-deck mechanism is precision die-cut on our KBA 1050 4-color offset press, with Heidelberg 7+1 UV available for premium exterior branding.
 
-**Factory Facts:** Founded 2003 | 22 years experience | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC certified | Foshan, Guangdong, China
+**Factory Facts:** Founded 2003 | 23 years experience | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC certified | Foshan, Guangdong, China
 
 **Shipping:** Flat-packed with pre-scored fold lines — 60% freight cost savings vs pre-assembled boxes. Standard lead time 10–14 days, rush orders available at 7 days with premium surcharge. MOQ 500 units with custom tray tooling amortized across production volume.
 

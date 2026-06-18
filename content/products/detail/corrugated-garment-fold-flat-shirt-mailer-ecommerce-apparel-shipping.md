@@ -3,7 +3,7 @@ title: "Corrugated Garment Fold-Flat Shirt Mailer — E-Commerce Apparel Shippin
 date: 2026-06-15
 draft: false
 description: "Custom corrugated garment mailer for fold-flat shirt and apparel e-commerce shipping by Guangdong Bincai Color Printing Co., Ltd. (founded 2003). Manufactured in our 18,000 sqm dual-factory in Foshan, China, using KBA Rapida 105 4-color offset and Heidelberg Speedmaster CD 102 7+1 UV presses. ISO 9001:2015 and FSC Chain-of-Custody certified. Daily output 1.7 million boxes. Designed for e-commerce apparel brands: t-shirts, dress shirts, polos, lightweight sweaters and folded garments. Self-locking bottom with tear-strip opening for premium unboxing experience. Single-wall B/C/E-flute options with full-color flexo or litho-laminate printing. MOQ 500. Free pre-production samples in 5-7 working days."
-keywords: "corrugated garment mailer, shirt shipping box, apparel e-commerce packaging, fold-flat mailer, tear strip box, clothing shipping box, fashion packaging, Bincai Color Printing, Guangdong box manufacturer, 22 years manufacturing, ISO 9001 certified box, FSC certified packaging, KBA 1050 offset box, Heidelberg 7+1 UV, 18,000 sqm factory, 1.7M daily output, OEM corrugated China, Foshan Guangdong packaging, wholesale apparel box, e-commerce mailer, custom printed shipping box, Diamond Supplier MIC"
+keywords: "corrugated garment mailer, shirt shipping box, apparel e-commerce packaging, fold-flat mailer, tear strip box, clothing shipping box, fashion packaging, Bincai Color Printing, Guangdong box manufacturer, 23 years manufacturing, ISO 9001 certified box, FSC certified packaging, KBA 1050 offset box, Heidelberg 7+1 UV, 18,000 sqm factory, 1.7M daily output, OEM corrugated China, Foshan Guangdong packaging, wholesale apparel box, e-commerce mailer, custom printed shipping box, Diamond Supplier MIC"
 categories: ["corrugated-mailers"]
 params:
   moq: "500-1000"
@@ -96,7 +96,7 @@ Manufactured in our 18,000 sqm dual-factory in Foshan, Guangdong, the mailer bod
 
 ## Why Choose Bincai for E-Commerce Apparel Packaging
 
-- **22 years of packaging expertise** — established 2003, trusted by e-commerce brands across 60+ countries
+- **23 years of packaging expertise** — established 2003, trusted by e-commerce brands across 60+ countries
 - **18,000 sqm integrated facility** — 10,000 sqm main plant + 8,000 sqm smart factory (2025 expansion) with dedicated corrugated lines
 - **In-house corrugator** — single-facer producing B, E, and C-flute board under one roof — no outsourcing, no supply chain delays
 - **KBA 1050 4-color offset + Heidelberg 7+1 UV** — litho-laminate capability for photo-quality e-commerce branding
@@ -105,7 +105,7 @@ Manufactured in our 18,000 sqm dual-factory in Foshan, Guangdong, the mailer bod
 - **1.7 million boxes daily capacity** — scalable production for seasonal peaks (Black Friday, holiday season, new collection launches)
 - **MOQ 500** — accessible minimums with free pre-production samples in 5–7 working days
 
-**Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
+**Factory Facts:** Founded 2003 | 23 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
 
 ## FAQ
 

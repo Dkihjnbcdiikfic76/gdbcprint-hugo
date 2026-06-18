@@ -2,8 +2,8 @@
 title: "Earring Gift Box with Satin Lining Gold Foil Hot Stamping"
 date: 2026-06-16
 draft: false
-description: "Custom earring gift box with satin lining, gold foil hot stamping, and magnetic closure — precision-manufactured by Guangdong Bincai Color Printing on KBA Rapida 105 4-color + Heidelberg Speedmaster CD 102 7+1 UV presses with Bobst SP 102 BMA foil ±0.1mm registration. Rigid greyboard 800-1600gsm with 45° mitered corners, electrostatic velvet flocking, N35 neodymium magnets. ISO 9001:2015 & FSC CoC certified, 22 years since 2003. 18,000 sqm (10,000+8,000 smart factory 2025) producing 1.7M boxes daily. MOQ 500."
-keywords: "jewelry gift box manufacturer, satin lining jewelry box, gold foil hot stamping box, earring packaging box, custom jewelry box wholesale, velvet jewelry box supplier, luxury jewelry packaging, ring gift box factory, necklace gift box, cardboard jewelry box, KBA 1050 offset box, Heidelberg 7+1 UV box, Bobst foil stamping box, ISO 9001 FSC jewelry box, Bincai Color Printing, Guangdong jewelry box factory, 18,000 sqm factory, 22 years packaging, 1.7M daily boxes, rigid jewelry box, magnetic closure jewelry box, embossed jewelry box, Foshan packaging manufacturer, FSC chain of custody, MOQ 500 jewelry box, OEM jewelry packaging, hot stamping gift box, suede jewelry box, satin ring box, Bincai Guangdong"
+description: "Custom earring gift box with satin lining, gold foil hot stamping, and magnetic closure — precision-manufactured by Guangdong Bincai Color Printing on KBA Rapida 105 4-color + Heidelberg Speedmaster CD 102 7+1 UV presses with Bobst SP 102 BMA foil ±0.1mm registration. Rigid greyboard 800-1600gsm with 45° mitered corners, electrostatic velvet flocking, N35 neodymium magnets. ISO 9001:2015 & FSC CoC certified, 23 years since 2003. 18,000 sqm (10,000+8,000 smart factory 2025) producing 1.7M boxes daily. MOQ 500."
+keywords: "jewelry gift box manufacturer, satin lining jewelry box, gold foil hot stamping box, earring packaging box, custom jewelry box wholesale, velvet jewelry box supplier, luxury jewelry packaging, ring gift box factory, necklace gift box, cardboard jewelry box, KBA 1050 offset box, Heidelberg 7+1 UV box, Bobst foil stamping box, ISO 9001 FSC jewelry box, Bincai Color Printing, Guangdong jewelry box factory, 18,000 sqm factory, 23 years packaging, 1.7M daily boxes, rigid jewelry box, magnetic closure jewelry box, embossed jewelry box, Foshan packaging manufacturer, FSC chain of custody, MOQ 500 jewelry box, OEM jewelry packaging, hot stamping gift box, suede jewelry box, satin ring box, Bincai Guangdong"
 categories: ["jewelry-boxes"]
 params:
   moq: "500-1000"
@@ -16,7 +16,7 @@ params:
 
 ## Description
 
-Our earring gift box with satin lining and gold foil hot stamping elevates jewelry presentation for retail, e-commerce, and gifting occasions. Each box is produced in our 18,000 sqm Foshan manufacturing facility (10,000+8,000 smart factory), where 22 years of packaging expertise meet state-of-the-art offset and finishing technology. The rigid construction provides crush resistance, while the soft satin interior cradles delicate earrings and prevents surface scratches.
+Our earring gift box with satin lining and gold foil hot stamping elevates jewelry presentation for retail, e-commerce, and gifting occasions. Each box is produced in our 18,000 sqm Foshan manufacturing facility (10,000+8,000 smart factory), where 23 years of packaging expertise meet state-of-the-art offset and finishing technology. The rigid construction provides crush resistance, while the soft satin interior cradles delicate earrings and prevents surface scratches.
 
 Printing runs on KBA 1050 4-color offset presses for precise color reproduction of brand artwork, with specialty coatings applied on our Heidelberg 7+1 UV line — delivering soft-touch, high-gloss spot UV, or matte finishes in a single pass. As an ISO 9001:2015 and FSC certified factory producing 1.7 million boxes daily, we handle both boutique small-batch orders and large-scale jewelry brand runs with equal attention to detail.
 
@@ -42,7 +42,7 @@ Guangdong Bincai Color Printing Co., Ltd. operates a dedicated jewelry packaging
 | Specification | Detail |
 |---|---|
 | Factory Size | 18,000 sqm (10,000+8,000 smart factory) |
-| Years in Business | 22 years |
+| Years in Business | 23 years |
 | Daily Output | 1.7 million boxes |
 | Primary Presses | KBA 1050 4-color, Heidelberg 7+1 UV |
 | Certifications | ISO 9001:2015, FSC Chain of Custody |
@@ -134,7 +134,7 @@ A: Bincai is ISO 9001:2015 certified for quality management and FSC Chain-of-Cus
 
 ## Why Choose Bincai for Jewelry Packaging
 
-Guangdong Bincai Color Printing Co., Ltd. has been manufacturing premium jewelry packaging since 2003. Our 18,000 sqm integrated Foshan facility combines offset printing, foil stamping, satin/velvet lining, and assembly under one roof — eliminating the quality gaps and delays that plague multi-vendor supply chains. With 22 years of jewelry packaging expertise, we understand that every detail matters: the precise 45° mitered corners on rigid boxes, the smooth nap of satin lining that won't snag on prong settings, the exact foil placement that makes your brand logo gleam under jewelry counter lighting.
+Guangdong Bincai Color Printing Co., Ltd. has been manufacturing premium jewelry packaging since 2003. Our 18,000 sqm integrated Foshan facility combines offset printing, foil stamping, satin/velvet lining, and assembly under one roof — eliminating the quality gaps and delays that plague multi-vendor supply chains. With 23 years of jewelry packaging expertise, we understand that every detail matters: the precise 45° mitered corners on rigid boxes, the smooth nap of satin lining that won't snag on prong settings, the exact foil placement that makes your brand logo gleam under jewelry counter lighting.
 
 **The Bincai Difference:**
 - **Integrated Jewelry Box Line** — printing, foil stamping, lining insertion, and assembly happen in one continuous workflow — faster turnaround, tighter quality control
@@ -142,7 +142,7 @@ Guangdong Bincai Color Printing Co., Ltd. has been manufacturing premium jewelry
 - **Boutique-Friendly MOQ** — 500-unit minimum makes premium packaging accessible to emerging jewelry designers; free 3D digital proofs within 24 hours
 - **Global Export Expertise** — shipping to 60+ countries; FSC documentation provided for EU/US customs compliance
 
-**Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
+**Factory Facts:** Founded 2003 | 23 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
 
 ## Sustainability & Compliance
 

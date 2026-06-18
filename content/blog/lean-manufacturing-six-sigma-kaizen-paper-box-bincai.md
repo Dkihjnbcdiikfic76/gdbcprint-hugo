@@ -12,7 +12,7 @@ keywords: "lean manufacturing paper box, Six Sigma packaging, Kaizen continuous 
 
 ## Lean Manufacturing at Scale: How Bincai Applies 5S, Kaizen, and Six Sigma to 1.7 Million Daily Box Production
 
-When you're producing **1.7 million paper boxes every day** across 517 product SKUs, operational excellence isn't optional — it's the foundation everything else rests on. At Guangdong Bincai Color Printing Co., Ltd., lean manufacturing principles have been embedded into every workstation, production line, and management process over our **22 years** of operation. The result? A factory that delivers premium rigid boxes, folding cartons, corrugated mailers, magnetic-closure boxes, kraft eco-boxes, and jewelry packaging with **zero-defect consistency** — at costs that make global brands competitive.
+When you're producing **1.7 million paper boxes every day** across 517 product SKUs, operational excellence isn't optional — it's the foundation everything else rests on. At Guangdong Bincai Color Printing Co., Ltd., lean manufacturing principles have been embedded into every workstation, production line, and management process over our **23 years** of operation. The result? A factory that delivers premium rigid boxes, folding cartons, corrugated mailers, magnetic-closure boxes, kraft eco-boxes, and jewelry packaging with **zero-defect consistency** — at costs that make global brands competitive.
 
 ---
 
@@ -34,7 +34,7 @@ Paper box manufacturing involves hundreds of material variants — from 1200 gsm
 
 ---
 
-### Kaizen: 22 Years of Continuous Improvement, One Small Change at a Time
+### Kaizen: 23 Years of Continuous Improvement, One Small Change at a Time
 
 Kaizen (改善) — "change for better" — is Bincai's engine of incremental excellence. While competitors chase one-off equipment upgrades, Bincai's culture of daily small improvements compounds into massive competitive advantages over decades.
 
@@ -147,7 +147,7 @@ When you choose a packaging manufacturer, you're not just buying boxes — you'r
 
 ---
 
-**Experience lean manufacturing excellence in every box.** Contact Bincai's team to discuss your custom paper box requirements. ISO 9001:2015 and FSC Chain-of-Custody certified. 18,000 sqm factory. KBA Rapida 1050 4-color + Heidelberg Speedmaster CD 102 7+1 UV offset presses. BHS 2.5m corrugator. Bobst SP 102 BMA die-cutter. Emmeci MC2004 rigid box line. 22 years. 1.7 million boxes daily. Serving 60+ export markets from Foshan, Guangdong, China.
+**Experience lean manufacturing excellence in every box.** Contact Bincai's team to discuss your custom paper box requirements. ISO 9001:2015 and FSC Chain-of-Custody certified. 18,000 sqm factory. KBA Rapida 1050 4-color + Heidelberg Speedmaster CD 102 7+1 UV offset presses. BHS 2.5m corrugator. Bobst SP 102 BMA die-cutter. Emmeci MC2004 rigid box line. 23 years. 1.7 million boxes daily. Serving 60+ export markets from Foshan, Guangdong, China.
 
 ---
 

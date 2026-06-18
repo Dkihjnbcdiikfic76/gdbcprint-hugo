@@ -2,8 +2,8 @@
 title: "Custom Printed Luxury Paper Box with Gold Foil Logo"
 date: 2026-06-12
 draft: false
-description: "Custom printed luxury rigid paper box with gold foil logo stamping, embossing, and matte lamination. Two-piece setup box construction with 1200–1600gsm greyboard wrapped in 157–250gsm premium art paper. Hot foil stamping on Bobst SP 102 BMA with ±0.15mm registration. Precision embossing/debossing for dimensional branding. N52 neodymium magnetic closure or satin ribbon pull. Soft-touch velvet matte lamination. Manufactured by Guangdong Bincai Color Printing — 22 years since 2003, 18,000 sqm factory (10,000+8,000 smart factory) in Foshan, KBA 1050 4-color + Heidelberg 7+1 UV presses, 1.7M daily output. ISO 9001:2015 & FSC certified. MOQ 500–1000, free pre-production samples."
-keywords: "custom luxury paper box, gold foil logo box, rigid gift box with foil, hot foil stamping box, embossed rigid box, matte lamination gift box, two-piece setup box, magnetic closure rigid box, luxury packaging China, Bincai rigid gift box, KBA 1050 rigid box, Heidelberg UV foil box, Bobst foil stamping box, ISO 9001 rigid box, FSC certified gift box, premium paper box manufacturer, gold foil embossing box, custom logo rigid box, luxury watch packaging box, jewelry gift box, perfume packaging box, corporate gift box, wedding favor box, soft-touch lamination box, 1200gsm greyboard box, art paper wrapped box, neodymium magnet closure box, satin ribbon pull box, Guangdong packaging factory, 18,000 sqm factory, 22 years manufacturing, 1.7M daily output, OEM luxury box China, wholesale rigid gift box, Diamond Supplier MIC, rose gold foil box, holographic foil box, spot UV rigid box, book-style gift box"
+description: "Custom printed luxury rigid paper box with gold foil logo stamping, embossing, and matte lamination. Two-piece setup box construction with 1200–1600gsm greyboard wrapped in 157–250gsm premium art paper. Hot foil stamping on Bobst SP 102 BMA with ±0.15mm registration. Precision embossing/debossing for dimensional branding. N52 neodymium magnetic closure or satin ribbon pull. Soft-touch velvet matte lamination. Manufactured by Guangdong Bincai Color Printing — 23 years since 2003, 18,000 sqm factory (10,000+8,000 smart factory) in Foshan, KBA 1050 4-color + Heidelberg 7+1 UV presses, 1.7M daily output. ISO 9001:2015 & FSC certified. MOQ 500–1000, free pre-production samples."
+keywords: "custom luxury paper box, gold foil logo box, rigid gift box with foil, hot foil stamping box, embossed rigid box, matte lamination gift box, two-piece setup box, magnetic closure rigid box, luxury packaging China, Bincai rigid gift box, KBA 1050 rigid box, Heidelberg UV foil box, Bobst foil stamping box, ISO 9001 rigid box, FSC certified gift box, premium paper box manufacturer, gold foil embossing box, custom logo rigid box, luxury watch packaging box, jewelry gift box, perfume packaging box, corporate gift box, wedding favor box, soft-touch lamination box, 1200gsm greyboard box, art paper wrapped box, neodymium magnet closure box, satin ribbon pull box, Guangdong packaging factory, 18,000 sqm factory, 23 years manufacturing, 1.7M daily output, OEM luxury box China, wholesale rigid gift box, Diamond Supplier MIC, rose gold foil box, holographic foil box, spot UV rigid box, book-style gift box"
 categories: ["rigid-gift-boxes"]
 params:
   moq: "500-1000"
@@ -61,7 +61,7 @@ This custom printed luxury rigid box elevates your brand with precision gold foi
 | **Embossing** | Heidelberg cylinder embossing — single, multi-level, sculpted, and foil-registered |
 | **Rigid Box Line** | Automatic rigid box line — corner taping, wrapping lamination, magnet insertion at 3,000+ boxes/hour |
 | **Magnet Insertion** | N52 neodymium magnets 6–8mm, concealed between board layers, aligned ±0.3mm |
-| **Experience** | 22 years luxury packaging manufacturing since 2003 |
+| **Experience** | 23 years luxury packaging manufacturing since 2003 |
 | **Factory** | 18,000 sqm (10,000+8,000 smart factory) in Foshan, Guangdong |
 | **Quality** | ISO 9001:2015 certified quality management system |
 | **Sustainability** | FSC Chain-of-Custody certified materials |
@@ -106,6 +106,6 @@ Your brand deserves more than a stock box with a sticker. When a customer lifts 
 - A **digital proof in 24 hours** showing exact foil placement, embossing depth, and Pantone color match (ΔE ≤ 2.0 on X-Rite spectrophotometer)
 - A **same-day production quote** with MOQ 500–1000, 10–15 day lead time, and FOB Foshan/Shenzhen freight options
 
-Bincai: 22 years luxury rigid box manufacturing. 18,000 sqm integrated factory. KBA 1050 + Heidelberg 7+1 UV + Bobst SP 102 BMA. ISO 9001:2015 & FSC certified. 1.7M boxes daily output.
+Bincai: 23 years luxury rigid box manufacturing. 18,000 sqm integrated factory. KBA 1050 + Heidelberg 7+1 UV + Bobst SP 102 BMA. ISO 9001:2015 & FSC certified. 1.7M boxes daily output.
 
 📧 qo82@icloud.com &nbsp; | &nbsp; 📱 +86-18934352881 &nbsp; | &nbsp; [→ Get Your Free Foil Sample](/contact/)

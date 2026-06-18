@@ -3,7 +3,7 @@ title: "Folding Carton Tuck-Top Snap-Lock Bottom — Luxury Dried Fruit & Nut Gi
 date: 2026-06-15
 draft: false
 description: "Premium folding carton with tuck-top closure and snap-lock bottom, hot foil stamped, by Guangdong Bincai Color Printing Co., Ltd. (founded 2003). Manufactured in our 18,000 sqm dual-factory in Foshan, China, using KBA Rapida 105 4-color offset and Heidelberg Speedmaster CD 102 7+1 UV presses. ISO 9001:2015 and FSC Chain-of-Custody certified. Daily output 1.7 million boxes. Designed for premium dried fruits, gourmet nuts, luxury confectionery, and upscale snack gift packaging. Snap-lock bottom for flat shipping and instant assembly. Hot foil gold/silver stamping with optional debossing. MOQ 500. Free pre-production samples in 5-7 working days."
-keywords: "folding carton dried fruit box, gourmet nut gift box, luxury snack packaging, snap-lock bottom carton, hot foil stamped food box, tuck-top carton, premium confectionery packaging, Bincai Color Printing, Guangdong box manufacturer, 22 years manufacturing, ISO 9001 certified box, FSC certified packaging, KBA 1050 offset box, Heidelberg 7+1 UV, 18,000 sqm factory, 1.7M daily output, OEM folding carton China, Foshan Guangdong packaging, wholesale dried fruit box, gold foil gift box, food grade paper box, custom snack packaging, Diamond Supplier MIC"
+keywords: "folding carton dried fruit box, gourmet nut gift box, luxury snack packaging, snap-lock bottom carton, hot foil stamped food box, tuck-top carton, premium confectionery packaging, Bincai Color Printing, Guangdong box manufacturer, 23 years manufacturing, ISO 9001 certified box, FSC certified packaging, KBA 1050 offset box, Heidelberg 7+1 UV, 18,000 sqm factory, 1.7M daily output, OEM folding carton China, Foshan Guangdong packaging, wholesale dried fruit box, gold foil gift box, food grade paper box, custom snack packaging, Diamond Supplier MIC"
 categories: ["folding-cartons"]
 params:
   moq: "500-1000"
@@ -97,7 +97,7 @@ Manufactured in our 18,000 sqm dual-factory in Foshan, Guangdong, the carton bod
 
 ## Why Choose Bincai for Premium Food Gift Packaging
 
-- **22 years of packaging expertise** — established 2003, trusted by gourmet food brands across 60+ countries
+- **23 years of packaging expertise** — established 2003, trusted by gourmet food brands across 60+ countries
 - **18,000 sqm integrated facility** — 10,000 sqm main plant + 8,000 sqm smart factory (2025 expansion)
 - **KBA 1050 4-color offset + Heidelberg 7+1 UV** — vibrant food photography reproduction that sells on shelf
 - **In-house Bobst hot foil stamping** — premium metallic finishes without outsourcing delays or quality risks
@@ -107,7 +107,7 @@ Manufactured in our 18,000 sqm dual-factory in Foshan, Guangdong, the carton bod
 - **1.7 million boxes daily capacity** — scalable production for seasonal peaks (holiday gift season)
 - **MOQ 500** — accessible minimums with free pre-production samples in 5–7 working days
 
-**Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
+**Factory Facts:** Founded 2003 | 23 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
 
 ## FAQ
 

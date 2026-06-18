@@ -2,7 +2,7 @@
 title: "Book-Style Magnetic Closure Corporate Presentation Kit — Satin Ribbon, Custom Foam Insert, Gold Foil"
 date: 2026-06-15
 draft: false
-description: "Premium book-style magnetic closure corporate presentation kit manufactured by Guangdong Bincai Color Printing (founded 2003, 22 years). 18,000 sqm Foshan factory with KBA 1050 4-color + Heidelberg 7+1 UV presses, ISO 9001:2015 & FSC certified, 1.7M daily box output. Features N52 neodymium magnets, satin ribbon pull, and custom die-cut foam tray. Ideal for corporate welcome kits, executive gifts, and brand presentation packs."
+description: "Premium book-style magnetic closure corporate presentation kit manufactured by Guangdong Bincai Color Printing (founded 2003, 23 years). 18,000 sqm Foshan factory with KBA 1050 4-color + Heidelberg 7+1 UV presses, ISO 9001:2015 & FSC certified, 1.7M daily box output. Features N52 neodymium magnets, satin ribbon pull, and custom die-cut foam tray. Ideal for corporate welcome kits, executive gifts, and brand presentation packs."
 keywords: "magnetic closure box, book-style box, corporate gift box, presentation kit, satin ribbon, gold foil, foam insert, bincai, guangdong, iso 9001, fsc, kba 1050, heidelberg 7+1 uv, 18000 sqm, 1.7m daily output, corporate packaging, luxury gift box, custom magnetic box, OEM"
 categories: ["magnetic-closure-boxes"]
 params:
@@ -60,7 +60,7 @@ The Book-Style Magnetic Closure Corporate Presentation Kit delivers the gravitas
 | MOQ | 500 units per design |
 | Lead Time | 10-14 days production + shipping |
 | Certifications | ISO 9001:2015, FSC Chain-of-Custody, Sedex SMETA |
-| Experience | 22 years (founded 2003) |
+| Experience | 23 years (founded 2003) |
 
 ## Quality Assurance
 
@@ -124,9 +124,9 @@ A: Standard lead time is 10-14 days after artwork and foam tooling approval. Rus
 
 ## Why Bincai?
 
-Corporate presentation is about making an impression that lasts. Bincai's book-style magnetic boxes combine the craftsmanship of fine bookbinding with industrial precision — N52 magnets embedded to ±0.5mm depth, gold foil stamped with ±0.15mm registration, and hand-wrapped corners that signal attention to detail. Our 22 years of rigid box manufacturing means your corporate presentation kits arrive with consistent quality batch after batch — essential when you're shipping to board members, VIP clients, and global brand partners. With integrated printing, foil stamping, magnet embedding, and foam fabrication under one 18,000 sqm roof, Bincai delivers executive-grade packaging without the multi-vendor coordination overhead.
+Corporate presentation is about making an impression that lasts. Bincai's book-style magnetic boxes combine the craftsmanship of fine bookbinding with industrial precision — N52 magnets embedded to ±0.5mm depth, gold foil stamped with ±0.15mm registration, and hand-wrapped corners that signal attention to detail. Our 23 years of rigid box manufacturing means your corporate presentation kits arrive with consistent quality batch after batch — essential when you're shipping to board members, VIP clients, and global brand partners. With integrated printing, foil stamping, magnet embedding, and foam fabrication under one 18,000 sqm roof, Bincai delivers executive-grade packaging without the multi-vendor coordination overhead.
 
-**Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
+**Factory Facts:** Founded 2003 | 23 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
 
 **Shipping:** Flat-packed (lid nests inside base, foam tray inserts separate) for 60-70% freight volume savings. Standard 15-25 day sea freight from Foshan ports. Air freight available for rush orders.
 

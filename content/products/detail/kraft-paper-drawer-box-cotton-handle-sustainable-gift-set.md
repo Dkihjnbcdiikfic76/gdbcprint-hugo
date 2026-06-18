@@ -2,8 +2,8 @@
 title: "Kraft Paper Drawer Box with Cotton Handle for Sustainable Gift Sets"
 date: 2026-06-14
 draft: false
-description: "Kraft paper drawer box with natural cotton rope handle for sustainable gift sets by Guangdong Bincai Color Printing — 22 years eco packaging manufacturing since 2003. 1.5mm rigid kraft greyboard with 200gsm unbleached kraft paper wrap. Sliding drawer design with cotton rope pull-handle. Water-based varnish for moisture resistance. Soy-based ink CMYK printing. 100% recyclable and compostable materials. FSC Chain-of-Custody certified. 18,000 sqm ISO 9001 factory. Daily output 220,000+ boxes. MOQ 500. Foshan, Guangdong."
-keywords: "kraft drawer box, sustainable gift packaging, cotton handle box, eco-friendly gift box, kraft paper box, recyclable gift box, Bincai eco box, china kraft box manufacturer, FSC certified packaging, soy ink printed box, unbleached kraft box, sliding drawer box, 22 years manufacturer, ISO 9001 kraft box, sustainable packaging, compostable gift box, OEM kraft box, Guangdong eco packaging, water-based varnish box, cotton rope box, natural kraft packaging, 18000 sqm factory, zero plastic packaging, eco gift set box"
+description: "Kraft paper drawer box with natural cotton rope handle for sustainable gift sets by Guangdong Bincai Color Printing — 23 years eco packaging manufacturing since 2003. 1.5mm rigid kraft greyboard with 200gsm unbleached kraft paper wrap. Sliding drawer design with cotton rope pull-handle. Water-based varnish for moisture resistance. Soy-based ink CMYK printing. 100% recyclable and compostable materials. FSC Chain-of-Custody certified. 18,000 sqm ISO 9001 factory. Daily output 220,000+ boxes. MOQ 500. Foshan, Guangdong."
+keywords: "kraft drawer box, sustainable gift packaging, cotton handle box, eco-friendly gift box, kraft paper box, recyclable gift box, Bincai eco box, china kraft box manufacturer, FSC certified packaging, soy ink printed box, unbleached kraft box, sliding drawer box, 23 years manufacturer, ISO 9001 kraft box, sustainable packaging, compostable gift box, OEM kraft box, Guangdong eco packaging, water-based varnish box, cotton rope box, natural kraft packaging, 18000 sqm factory, zero plastic packaging, eco gift set box"
 categories: ["kraft-eco-boxes"]
 params:
   moq: "500-1000"
@@ -16,7 +16,7 @@ params:
 
 ## Product Overview
 
-Bincai's kraft paper drawer box with natural cotton rope handle embodies the sustainable packaging philosophy — every component from board to handle to ink is chosen for minimal environmental impact without compromising functionality or aesthetics. The 1.5mm rigid kraft greyboard wrapped in 200gsm unbleached kraft paper delivers a warm, organic tactile experience that resonates with eco-conscious consumers. The sliding drawer design — operated by a natural cotton rope pull — combines utility with rustic charm. Printed with soy-based inks and protected by water-based varnish, the entire box is 100% recyclable in standard paper streams and industrially compostable. FSC Chain-of-Custody certified throughout, manufactured in our 18,000 sqm factory with 22 years of expertise serving sustainable brands in 60+ countries.
+Bincai's kraft paper drawer box with natural cotton rope handle embodies the sustainable packaging philosophy — every component from board to handle to ink is chosen for minimal environmental impact without compromising functionality or aesthetics. The 1.5mm rigid kraft greyboard wrapped in 200gsm unbleached kraft paper delivers a warm, organic tactile experience that resonates with eco-conscious consumers. The sliding drawer design — operated by a natural cotton rope pull — combines utility with rustic charm. Printed with soy-based inks and protected by water-based varnish, the entire box is 100% recyclable in standard paper streams and industrially compostable. FSC Chain-of-Custody certified throughout, manufactured in our 18,000 sqm factory with 23 years of expertise serving sustainable brands in 60+ countries.
 
 ## Manufacturing Specifications
 
@@ -71,7 +71,7 @@ Bincai's kraft paper drawer box with natural cotton rope handle embodies the sus
 
 | Strength | Detail |
 |---|---|
-| **22 Years Experience** | Manufacturing premium packaging since 2003, serving 60+ countries |
+| **23 Years Experience** | Manufacturing premium packaging since 2003, serving 60+ countries |
 | **FSC Certified** | Full Chain-of-Custody — every kraft board traced to responsibly managed forests |
 | **Plastic-Free by Design** | Zero plastic components — lamination-free, window-free, synthetic-free |
 | **Massive Capacity** | 18,000 sqm integrated factory; 1.7M folding cartons + 220,000+ rigid boxes daily |

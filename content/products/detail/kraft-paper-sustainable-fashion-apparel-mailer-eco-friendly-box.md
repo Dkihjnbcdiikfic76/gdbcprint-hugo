@@ -2,7 +2,7 @@
 title: "Kraft Paper Sustainable Fashion Apparel Mailer — Eco-Friendly Clothing Box"
 date: 2026-06-15
 draft: false
-description: "Sustainable kraft paper fashion apparel mailer box with tear strip and self-seal closure. 100% recycled kraft board, soy-based inks, water-based adhesive. BHS 2.5m corrugator kraft-liner. Heidelberg 7+1 UV offset for premium branding. 18,000 sqm factory, 22 years experience, ISO 9001 & FSC certified, 1.7M daily output. MOQ 500. Guangdong Bincai Color Printing Co., Ltd."
+description: "Sustainable kraft paper fashion apparel mailer box with tear strip and self-seal closure. 100% recycled kraft board, soy-based inks, water-based adhesive. BHS 2.5m corrugator kraft-liner. Heidelberg 7+1 UV offset for premium branding. 18,000 sqm factory, 23 years experience, ISO 9001 & FSC certified, 1.7M daily output. MOQ 500. Guangdong Bincai Color Printing Co., Ltd."
 keywords: "kraft apparel mailer, sustainable clothing box, eco-friendly fashion packaging, recycled kraft shipping box, tear strip mailer, self-seal apparel box, FSC kraft box, soy-based ink packaging, Bincai eco packaging, Guangdong kraft box manufacturer, sustainable e-commerce packaging, custom clothing mailer, brown kraft fashion box, zero-plastic packaging, compostable apparel box"
 categories: ["kraft-eco-boxes"]
 params:

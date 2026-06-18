@@ -2,8 +2,8 @@
 title: "Folding Carton Sleeve Tray with Window for Confectionery Display Packaging"
 date: 2026-06-11
 draft: false
-description: "Custom printed folding carton with sliding sleeve + inner tray and die-cut PET window for confectionery, chocolate, and gift food display. KBA 1050 4-color + Heidelberg 7+1 UV presses, gold/silver foil stamping, embossing, soft-touch lamination. Sleeve-tray construction offers premium unboxing experience. 18,000 sqm (10,000+8,000 smart factory) ISO 9001 & FSC certified factory. 22 years experience, 1.7M+ color boxes + 220K+ gift boxes daily. MOQ 1000."
-keywords: "sleeve tray carton, sliding sleeve box, confectionery packaging, chocolate box, window carton box, gift food packaging, sleeve and tray, custom printed sleeve box, display carton, Bincai folding carton, ISO 9001 FSC, KBA offset carton, chocolate packaging China, soft-touch carton, gold foil carton, sliding drawer box, premium confectionery box, 18,000 sqm factory (10,000+8,000 smart factory), 22 years manufacturing, 1.7M daily output, OEM carton China, Guangdong packaging factory"
+description: "Custom printed folding carton with sliding sleeve + inner tray and die-cut PET window for confectionery, chocolate, and gift food display. KBA 1050 4-color + Heidelberg 7+1 UV presses, gold/silver foil stamping, embossing, soft-touch lamination. Sleeve-tray construction offers premium unboxing experience. 18,000 sqm (10,000+8,000 smart factory) ISO 9001 & FSC certified factory. 23 years experience, 1.7M+ color boxes + 220K+ gift boxes daily. MOQ 1000."
+keywords: "sleeve tray carton, sliding sleeve box, confectionery packaging, chocolate box, window carton box, gift food packaging, sleeve and tray, custom printed sleeve box, display carton, Bincai folding carton, ISO 9001 FSC, KBA offset carton, chocolate packaging China, soft-touch carton, gold foil carton, sliding drawer box, premium confectionery box, 18,000 sqm factory (10,000+8,000 smart factory), 23 years manufacturing, 1.7M daily output, OEM carton China, Guangdong packaging factory"
 categories: ["folding-cartons"]
 params:
   moq: "1000-3000"
@@ -14,7 +14,7 @@ params:
 
 ![Folding Carton Sleeve Tray](/images/folding-cartons.jpg)
 
-Folding carton sleeve tray with window for confectionery display packaging — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). 18,000 sqm factory (10,000+8,000 smart factory) with KBA and Heidelberg presses. Daily output 1.7 million boxes.
+Folding carton sleeve tray with window for confectionery display packaging — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 23 years of experience (founded 2003). 18,000 sqm factory (10,000+8,000 smart factory) with KBA and Heidelberg presses. Daily output 1.7 million boxes.
 
 ## Applications
 The sleeve-tray combination delivers an elevated unboxing experience — slide the outer sleeve off to reveal a beautifully presented inner tray. The window provides product visibility without compromising protection. Ideal for:
@@ -55,7 +55,7 @@ The sleeve-tray combination delivers an elevated unboxing experience — slide t
 - **Free pre-production sample** (freight collect)
 
 ## Factory
-- 22 years of manufacturing excellence
+- 23 years of manufacturing excellence
 - 18,000 sqm production facility (10,000+8,000 smart factory) in Foshan, Guangdong, China
 - KBA 1050 4-color + Heidelberg 7+1 UV presses
 - Automatic window-patching and sleeve-forming lines

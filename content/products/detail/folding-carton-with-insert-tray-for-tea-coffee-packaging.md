@@ -2,8 +2,8 @@
 title: "Folding Carton with Insert Tray for Tea Coffee Packaging"
 date: 2026-06-10
 draft: false
-description: "Custom folding carton with precision die-cut insert tray for tea bags, coffee sachets, capsules, and loose-leaf packaging. Manufactured at Bincai's 18,000 sqm (10,000+8,000 smart factory) ISO 9001:2015 & FSC CoC certified facility. KBA Rapida 105 4-color + Heidelberg Speedmaster CD 102 7+1 UV + Bobst SP 102 BMA foil stamping + Bobst Visioncut 106 LER die-cutting + Bobst Expertfold 110 A2 folder-gluer. Food-safe soy-based inks, water-based coatings, PET/PLA window patching. 22 years Guangdong manufacturing since 2003 — 280,000+ folding cartons daily, 1.7M total boxes. 350+ skilled workforce. MOQ 500-1000."
-keywords: "folding carton, tea packaging box, coffee packaging box, custom folding carton, insert tray box, tea box with tray, coffee gift box packaging, folding carton manufacturer, cardboard tea box, custom coffee packaging box, tea bag packaging box, folding paper box, Bincai folding carton, food-safe folding carton, FSC certified tea box, KBA Rapida 105 carton, Heidelberg 7+1 UV carton, Bobst SP 102 BMA foil carton, Bobst Visioncut 106 LER, Bobst Expertfold 110 A2, ISO 9001:2015 folding carton, FSC CoC tea packaging, 22 years Guangdong factory, 18,000 sqm factory, 1.7M daily boxes, Foshan packaging manufacturer, sustainable tea box, food-grade folding carton, soy ink tea box, die-cut insert tray box, tea sachet packaging, coffee capsule box, loose leaf tea packaging, custom food packaging box, Bobst die-cut carton, SBS folding carton, wholesale folding carton China, OEM tea box manufacturer"
+description: "Custom folding carton with precision die-cut insert tray for tea bags, coffee sachets, capsules, and loose-leaf packaging. Manufactured at Bincai's 18,000 sqm (10,000+8,000 smart factory) ISO 9001:2015 & FSC CoC certified facility. KBA Rapida 105 4-color + Heidelberg Speedmaster CD 102 7+1 UV + Bobst SP 102 BMA foil stamping + Bobst Visioncut 106 LER die-cutting + Bobst Expertfold 110 A2 folder-gluer. Food-safe soy-based inks, water-based coatings, PET/PLA window patching. 23 years Guangdong manufacturing since 2003 — 280,000+ folding cartons daily, 1.7M total boxes. 350+ skilled workforce. MOQ 500-1000."
+keywords: "folding carton, tea packaging box, coffee packaging box, custom folding carton, insert tray box, tea box with tray, coffee gift box packaging, folding carton manufacturer, cardboard tea box, custom coffee packaging box, tea bag packaging box, folding paper box, Bincai folding carton, food-safe folding carton, FSC certified tea box, KBA Rapida 105 carton, Heidelberg 7+1 UV carton, Bobst SP 102 BMA foil carton, Bobst Visioncut 106 LER, Bobst Expertfold 110 A2, ISO 9001:2015 folding carton, FSC CoC tea packaging, 23 years Guangdong factory, 18,000 sqm factory, 1.7M daily boxes, Foshan packaging manufacturer, sustainable tea box, food-grade folding carton, soy ink tea box, die-cut insert tray box, tea sachet packaging, coffee capsule box, loose leaf tea packaging, custom food packaging box, Bobst die-cut carton, SBS folding carton, wholesale folding carton China, OEM tea box manufacturer"
 categories: ["folding-cartons"]
 params:
   moq: "500-1000"
@@ -18,7 +18,7 @@ params:
 
 Our custom folding carton with insert tray is purpose-built for tea and coffee packaging — keeping sachets, loose-leaf pouches, tea bags, coffee capsules, and drip bags neatly organized and protected. The precision die-cut insert tray holds individual items securely in place, preventing movement during shipping while creating an elegant retail presentation. Every carton is printed on our KBA Rapida 105 4-color offset press for rich, food-safe CMYK graphics and finished on the Heidelberg Speedmaster CD 102 7+1 UV line for optional spot UV, foil accents, and protective coatings. Die-cutting on the Bobst Visioncut 106 LER delivers ±0.15mm precision for insert trays that fit perfectly every time, while the Bobst Expertfold 110 A2 folder-gluer ensures fast, reliable assembly at production scale.
 
-Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** with 22 years of folding carton expertise (founded 2003) across 18,000 sqm (10,000+8,000 smart factory) of production floor in Foshan, Guangdong — daily output of 1.7 million boxes under ISO 9001:2015 and FSC Chain-of-Custody certification. Our dedicated folding carton line produces 280,000+ cartons daily with a 350-member skilled workforce operating three-shift production for fast turnaround.
+Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** with 23 years of folding carton expertise (founded 2003) across 18,000 sqm (10,000+8,000 smart factory) of production floor in Foshan, Guangdong — daily output of 1.7 million boxes under ISO 9001:2015 and FSC Chain-of-Custody certification. Our dedicated folding carton line produces 280,000+ cartons daily with a 350-member skilled workforce operating three-shift production for fast turnaround.
 
 ## Features
 
@@ -77,7 +77,7 @@ Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** with 22 years of f
 
 ## Factory & Certifications
 
-- **22 Years** of manufacturing excellence since 2003, Guangdong, China
+- **23 Years** of manufacturing excellence since 2003, Guangdong, China
 - **18,000 sqm** dual-factory campus (10,000 + 8,000 smart factory, 2025 expansion)
 - **350+** skilled workforce across design, prepress, print, finishing, and QC
 - **ISO 9001:2015** quality management certified

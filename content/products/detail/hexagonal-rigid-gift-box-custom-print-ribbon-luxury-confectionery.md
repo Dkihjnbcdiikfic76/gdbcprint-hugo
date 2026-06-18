@@ -2,8 +2,8 @@
 title: "Hexagonal Rigid Gift Box with Custom Print & Satin Ribbon — Luxury Confectionery Packaging"
 date: 2026-06-11
 draft: false
-description: "Hexagonal rigid gift box with custom CMYK printing, satin ribbon closure, and die-cut foam insert tray. 6-sided design for luxury chocolates, macarons, and confectionery. Magnetic lid closure. Manufactured by Guangdong Bincai Color Printing Co., Ltd. — 22 years experience (founded 2003), ISO 9001:2015 & FSC Chain-of-Custody certified, 18,000 sqm Foshan dual-factory (10,000+8,000 sqm smart factory), KBA 1050 4-color offset + Heidelberg 7+1 UV presses, Bobst flatbed hot foil stamping, daily output 220,000+ rigid gift boxes. Serving 60+ countries worldwide."
-keywords: "hexagonal gift box, rigid confectionery box, chocolate gift packaging, macaron box hexagon, luxury candy box, satin ribbon gift box, custom printed hexagon box, China rigid box manufacturer, FSC gift packaging, magnetic lid confectionery box, KBA 1050 offset, Heidelberg 7+1 UV, ISO 9001 FSC certified, 22 years experience, 18,000 sqm factory, 220K daily output, Bobst hot foil stamping, Foshan rigid box, wholesale confectionery packaging, hexagonal box OEM"
+description: "Hexagonal rigid gift box with custom CMYK printing, satin ribbon closure, and die-cut foam insert tray. 6-sided design for luxury chocolates, macarons, and confectionery. Magnetic lid closure. Manufactured by Guangdong Bincai Color Printing Co., Ltd. — 23 years experience (founded 2003), ISO 9001:2015 & FSC Chain-of-Custody certified, 18,000 sqm Foshan dual-factory (10,000+8,000 sqm smart factory), KBA 1050 4-color offset + Heidelberg 7+1 UV presses, Bobst flatbed hot foil stamping, daily output 220,000+ rigid gift boxes. Serving 60+ countries worldwide."
+keywords: "hexagonal gift box, rigid confectionery box, chocolate gift packaging, macaron box hexagon, luxury candy box, satin ribbon gift box, custom printed hexagon box, China rigid box manufacturer, FSC gift packaging, magnetic lid confectionery box, KBA 1050 offset, Heidelberg 7+1 UV, ISO 9001 FSC certified, 23 years experience, 18,000 sqm factory, 220K daily output, Bobst hot foil stamping, Foshan rigid box, wholesale confectionery packaging, hexagonal box OEM"
 categories: ["rigid-gift-boxes"]
 params:
   moq: "500-1000"
@@ -20,7 +20,7 @@ Bincai's hexagonal rigid gift box brings architectural elegance to luxury confec
 
 Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** (founded 2003) in our 18,000 sqm Foshan dual-factory complex (10,000 sqm main + 8,000 sqm smart factory). Each box is precision-built on KBA 1050 4-color offset and Heidelberg 7+1 UV presses with gold/silver foil applied on a Bobst flatbed hot stamping machine. The 2.0mm greyboard rigid core wrapped in 157gsm art paper provides the structural integrity expected of luxury packaging — the box feels substantial in hand, the magnetic closure snaps with authority, and the hexagonal geometry maintains perfect symmetry even after repeated opening.
 
-A custom die-cut EVA foam tray (30-45 Shore A hardness) secures each confectionery piece in its own cavity — chocolates, macarons, truffles, or candies arrive in flawless condition. The tray is bonded to the base with water-based adhesive for food-contact safety. 22 years of luxury rigid box manufacturing, ISO 9001:2015 and FSC Chain-of-Custody certified, with daily output exceeding 220,000 rigid gift boxes.
+A custom die-cut EVA foam tray (30-45 Shore A hardness) secures each confectionery piece in its own cavity — chocolates, macarons, truffles, or candies arrive in flawless condition. The tray is bonded to the base with water-based adhesive for food-contact safety. 23 years of luxury rigid box manufacturing, ISO 9001:2015 and FSC Chain-of-Custody certified, with daily output exceeding 220,000 rigid gift boxes.
 
 ## Manufacturing Specifications
 
@@ -91,7 +91,7 @@ A custom die-cut EVA foam tray (30-45 Shore A hardness) secures each confectione
 
 ## Factory
 
-- 22 years of manufacturing excellence since 2003
+- 23 years of manufacturing excellence since 2003
 - Dual factories: 10,000 sqm main + 8,000 sqm smart factory in Foshan, Pearl River Delta
 - 500+ skilled workers across 3 shifts
 - ISO 9001:2015 certified quality management system

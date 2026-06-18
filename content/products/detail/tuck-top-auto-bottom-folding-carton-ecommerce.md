@@ -2,8 +2,8 @@
 title: "Tuck-Top Auto-Bottom Folding Carton for E-Commerce Shipping"
 date: 2026-06-12
 draft: false
-description: "Tuck-top auto-bottom (TTAB) folding carton with quick-assembly design for e-commerce fulfillment and DTC shipping. Printed on Heidelberg Speedmaster CD 102 7+1 UV with inter-deck curing and KBA Rapida 105 4-color press (15,000 sheets/hr). Bobst SP 102 BMA die-cutting with ±0.15mm precision. 350gsm C1S board, flat-ship design saves 60% freight. ISO 9001:2015 & FSC Chain-of-Custody certified. Manufactured in 18,000 sqm dual-factory (10,000+8,000 smart factory 2025), Foshan. 22 years since 2003, 1.7M color boxes + 220K rigid boxes daily. MOQ 500, free pre-production samples. Ideal for cosmetics, supplements, electronics, and subscription boxes."
-keywords: "tuck top auto bottom carton, e-commerce shipping box, auto bottom folding carton, flat ship box, subscription box packaging, cosmetic shipping box, Bincai auto bottom carton, quick assembly box, Heidelberg offset carton, FSC folding carton, DTC packaging, KBA Rapida 105 4-color press, Heidelberg Speedmaster CD 102 7+1 UV, Bobst SP 102 BMA die-cutting, ISO 9001 FSC certified, 18000 sqm factory Foshan, 22 years packaging experience, 1.7M daily output capacity, auto-bottom carton manufacturer China, custom folding carton wholesale, e-commerce fulfillment packaging, cosmetic folding carton OEM, tamper-evident ecommerce carton, sustainable folding carton FSC, Guangdong packaging factory, TTAB carton supplier, auto-lock bottom box wholesale, scuff resistant shipping carton, Amazon SIOC certified packaging, flat pack carton manufacturer"
+description: "Tuck-top auto-bottom (TTAB) folding carton with quick-assembly design for e-commerce fulfillment and DTC shipping. Printed on Heidelberg Speedmaster CD 102 7+1 UV with inter-deck curing and KBA Rapida 105 4-color press (15,000 sheets/hr). Bobst SP 102 BMA die-cutting with ±0.15mm precision. 350gsm C1S board, flat-ship design saves 60% freight. ISO 9001:2015 & FSC Chain-of-Custody certified. Manufactured in 18,000 sqm dual-factory (10,000+8,000 smart factory 2025), Foshan. 23 years since 2003, 1.7M color boxes + 220K rigid boxes daily. MOQ 500, free pre-production samples. Ideal for cosmetics, supplements, electronics, and subscription boxes."
+keywords: "tuck top auto bottom carton, e-commerce shipping box, auto bottom folding carton, flat ship box, subscription box packaging, cosmetic shipping box, Bincai auto bottom carton, quick assembly box, Heidelberg offset carton, FSC folding carton, DTC packaging, KBA Rapida 105 4-color press, Heidelberg Speedmaster CD 102 7+1 UV, Bobst SP 102 BMA die-cutting, ISO 9001 FSC certified, 18000 sqm factory Foshan, 23 years packaging experience, 1.7M daily output capacity, auto-bottom carton manufacturer China, custom folding carton wholesale, e-commerce fulfillment packaging, cosmetic folding carton OEM, tamper-evident ecommerce carton, sustainable folding carton FSC, Guangdong packaging factory, TTAB carton supplier, auto-lock bottom box wholesale, scuff resistant shipping carton, Amazon SIOC certified packaging, flat pack carton manufacturer"
 categories: ["folding-cartons"]
 params:
   moq: "1000"
@@ -16,7 +16,7 @@ params:
 
 ## Product Overview
 
-The tuck-top auto-bottom (TTAB) folding carton is the workhorse of e-commerce packaging — designed for speed, efficiency, and brand impact. The auto-bottom locks into place with a single push, no tape required, while the tuck-top closure provides secure transit protection. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — ISO 9001:2015 and FSC certified, with 22 years of folding carton expertise — each carton ships flat for 60% freight savings and assembles in under 2 seconds at the fulfillment station. Our Heidelberg 7+1 UV press prints vibrant CMYK with inline aqueous coating for scuff resistance during shipping.
+The tuck-top auto-bottom (TTAB) folding carton is the workhorse of e-commerce packaging — designed for speed, efficiency, and brand impact. The auto-bottom locks into place with a single push, no tape required, while the tuck-top closure provides secure transit protection. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — ISO 9001:2015 and FSC certified, with 23 years of folding carton expertise — each carton ships flat for 60% freight savings and assembles in under 2 seconds at the fulfillment station. Our Heidelberg 7+1 UV press prints vibrant CMYK with inline aqueous coating for scuff resistance during shipping.
 
 ## Design Features
 
@@ -84,7 +84,7 @@ Bincai's TTAB folding cartons pass through 7 checkpoints:
 
 ## Manufacturing Capabilities & Equipment
 
-Bincai's TTAB folding cartons are produced across our **18,000 sqm dual-factory campus** (10,000 sqm established facility + 8,000 sqm smart factory commissioned 2025) in Foshan, Guangdong — leveraging 22 years of folding carton expertise since 2003:
+Bincai's TTAB folding cartons are produced across our **18,000 sqm dual-factory campus** (10,000 sqm established facility + 8,000 sqm smart factory commissioned 2025) in Foshan, Guangdong — leveraging 23 years of folding carton expertise since 2003:
 
 | Equipment | Specification | E-Commerce Application |
 |---|---|---|

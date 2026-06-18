@@ -2,8 +2,8 @@
 title: "Kraft Paper Essential Oil Gift Set Box with Bamboo Fiber Insert and Soy-Based Ink Printing"
 date: 2026-06-16
 draft: false
-description: "Kraft paper essential oil gift set box with molded bamboo fiber insert and soy-based ink printing — fully compostable eco-luxury packaging manufactured by Guangdong Bincai Color Printing Co., Ltd. (founded 2003, 22 years). Produced on KBA Rapida 1050 4-color offset press adapted for soy-based inks and Heidelberg Speedmaster CD 102 7+1 UV press across our 18,000 sqm dual-factory (10,000+8,000 sqm smart factory, 2025 expansion) in Foshan, China. ISO 9001:2015 and FSC Chain-of-Custody certified. PLA compostable window film certified to EN 13432 and ASTM D6400. Bamboo fiber insert is 100% biodegradable and home compostable. Daily output 1.7 million boxes. MOQ 500 units with free pre-production samples. The combination of natural kraft board, bamboo fiber tray, soy-based ink, jute twine closure, and PLA window creates a fully sustainable, petroleum-free packaging solution for clean beauty, aromatherapy, and wellness brands."
-keywords: "kraft paper essential oil box, bamboo fiber insert box, soy ink gift box, eco essential oil packaging, sustainable gift box, kraft paper box, essential oil gift set, aromatherapy packaging, Bincai kraft box, ISO 9001 eco packaging, FSC certified gift box, soy-based ink box, bamboo fiber tray, wholesale eco box, OEM sustainable packaging, Chinese kraft box manufacturer, Guangdong eco box factory, MOQ 500 essential oil box, compostable packaging, clean beauty box, wellness packaging, natural kraft box, eco-luxury box, KBA Rapida 1050 soy ink, Heidelberg 7+1 UV, Bobst SP 102, 18,000 sqm factory, 1.7M daily output, PLA compostable window, 22 years experience, Bincai Color Printing, Foshan manufacturer, EN 13432 certified, ASTM D6400 certified, home compostable packaging"
+description: "Kraft paper essential oil gift set box with molded bamboo fiber insert and soy-based ink printing — fully compostable eco-luxury packaging manufactured by Guangdong Bincai Color Printing Co., Ltd. (founded 2003, 23 years). Produced on KBA Rapida 1050 4-color offset press adapted for soy-based inks and Heidelberg Speedmaster CD 102 7+1 UV press across our 18,000 sqm dual-factory (10,000+8,000 sqm smart factory, 2025 expansion) in Foshan, China. ISO 9001:2015 and FSC Chain-of-Custody certified. PLA compostable window film certified to EN 13432 and ASTM D6400. Bamboo fiber insert is 100% biodegradable and home compostable. Daily output 1.7 million boxes. MOQ 500 units with free pre-production samples. The combination of natural kraft board, bamboo fiber tray, soy-based ink, jute twine closure, and PLA window creates a fully sustainable, petroleum-free packaging solution for clean beauty, aromatherapy, and wellness brands."
+keywords: "kraft paper essential oil box, bamboo fiber insert box, soy ink gift box, eco essential oil packaging, sustainable gift box, kraft paper box, essential oil gift set, aromatherapy packaging, Bincai kraft box, ISO 9001 eco packaging, FSC certified gift box, soy-based ink box, bamboo fiber tray, wholesale eco box, OEM sustainable packaging, Chinese kraft box manufacturer, Guangdong eco box factory, MOQ 500 essential oil box, compostable packaging, clean beauty box, wellness packaging, natural kraft box, eco-luxury box, KBA Rapida 1050 soy ink, Heidelberg 7+1 UV, Bobst SP 102, 18,000 sqm factory, 1.7M daily output, PLA compostable window, 23 years experience, Bincai Color Printing, Foshan manufacturer, EN 13432 certified, ASTM D6400 certified, home compostable packaging"
 categories: ["kraft-eco-boxes"]
 params:
   moq: "500-1000"
@@ -20,7 +20,7 @@ tags:
 
 ![Bincai Kraft Eco Box](/images/kraft-eco-box.jpg)
 
-The kraft paper essential oil gift set box with bamboo fiber insert is Bincai's answer to the clean beauty industry's demand for packaging as pure as the product inside. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** (founded 2003, 22 years) at our 18,000 sqm Foshan facility, this fully compostable gift box combines five sustainable materials — FSC-certified kraft board, molded bamboo fiber tray, soy-based ink, jute twine closure, and PLA (corn starch) window film — into one petroleum-free packaging solution. The natural kraft exterior printed with vibrant soy-based inks delivers shelf appeal without environmental compromise, while the thermoformed bamboo fiber insert cradles each essential oil bottle in precision-molded cavities. Produced on KBA Rapida 1050 4-color (soy-ink optimized) and Heidelberg Speedmaster CD 102 7+1 UV presses. ISO 9001:2015 and FSC Chain-of-Custody certified. Daily output 1.7 million boxes. MOQ 500.
+The kraft paper essential oil gift set box with bamboo fiber insert is Bincai's answer to the clean beauty industry's demand for packaging as pure as the product inside. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** (founded 2003, 23 years) at our 18,000 sqm Foshan facility, this fully compostable gift box combines five sustainable materials — FSC-certified kraft board, molded bamboo fiber tray, soy-based ink, jute twine closure, and PLA (corn starch) window film — into one petroleum-free packaging solution. The natural kraft exterior printed with vibrant soy-based inks delivers shelf appeal without environmental compromise, while the thermoformed bamboo fiber insert cradles each essential oil bottle in precision-molded cavities. Produced on KBA Rapida 1050 4-color (soy-ink optimized) and Heidelberg Speedmaster CD 102 7+1 UV presses. ISO 9001:2015 and FSC Chain-of-Custody certified. Daily output 1.7 million boxes. MOQ 500.
 
 ## Applications
 
@@ -83,7 +83,7 @@ The kraft paper essential oil gift set box with bamboo fiber insert is Bincai's 
 
 | Factor | Industry Average | Bincai |
 |---|---|---|
-| Years in Business | 5–10 years | 22 years (since 2003) |
+| Years in Business | 5–10 years | 23 years (since 2003) |
 | Factory Size | 2,000–5,000 sqm | 18,000 sqm dual-factory |
 | Eco Certifications | FSC or none | FSC + EN 13432 + ASTM D6400 + ASTM D6868 |
 | Printing | Standard offset | KBA 1050 + Heidelberg 7+1 UV — soy ink optimized |
@@ -140,7 +140,7 @@ A: MOQ is 500 units per configuration (size + cavity layout). You can mix config
 
 ## Manufacturing Excellence at Bincai
 
-Every eco-box is produced in our **18,000 sqm ISO 9001 & FSC-certified facility** with **22 years** of sustainable packaging expertise:
+Every eco-box is produced in our **18,000 sqm ISO 9001 & FSC-certified facility** with **23 years** of sustainable packaging expertise:
 
 - **KBA Rapida 105 4-color offset** — adapted for soy-based ink rheology, 15,000 sheets/hour, ±0.1mm registration
 - **Heidelberg Speedmaster CD 102 7+1 UV** — premium specialty coatings, inline UV for spot effects
@@ -151,7 +151,7 @@ Every eco-box is produced in our **18,000 sqm ISO 9001 & FSC-certified facility*
 - **X-Rite eXact Spectrophotometer** — color measurement on kraft substrate, ΔE ≤ 2.0 standard
 - **Daily output: 1.7M boxes** — ensuring eco-brands can scale from startup to enterprise without switching suppliers
 
-**Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 (soy ink) + Heidelberg CD 102 7+1 UV | ISO 9001:2015, FSC CoC, EN 13432, ASTM D6400 | Foshan, Guangdong, China
+**Factory Facts:** Founded 2003 | 23 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 (soy ink) + Heidelberg CD 102 7+1 UV | ISO 9001:2015, FSC CoC, EN 13432, ASTM D6400 | Foshan, Guangdong, China
 
 **Shipping & Logistics:** Eco boxes ship flat with separate tray inserts to maximize container utilization (70%+ volume reduction). Standard sea freight 18–25 days to US/EU ports (FOB Yantian/Shenzhen). Air freight 5–7 days for urgent orders. All packaging materials are plastic-free — cartons use paper tape and kraft void fill. MOQ 500 units; lead time 12–16 days new tooling, 8–10 days repeat.
 
@@ -159,6 +159,6 @@ Every eco-box is produced in our **18,000 sqm ISO 9001 & FSC-certified facility*
 
 ## Get Your Compostable Sample + Full Certification Package — Free
 
-**Send us your bottle specs — receive a fully compostable sample with your logo and complete certification documentation (FSC, EN 13432, ASTM D6400, ASTM D6868) in 7 working days.** With 22 years of sustainable packaging expertise and our integrated bamboo fiber thermoforming line, every eco-box is laboratory-verified to ASTM D5338 for ≥90% biodegradation in 180 days. No greenwashing — just verified compostability that clean beauty and wellness brands can trust.
+**Send us your bottle specs — receive a fully compostable sample with your logo and complete certification documentation (FSC, EN 13432, ASTM D6400, ASTM D6868) in 7 working days.** With 23 years of sustainable packaging expertise and our integrated bamboo fiber thermoforming line, every eco-box is laboratory-verified to ASTM D5338 for ≥90% biodegradation in 180 days. No greenwashing — just verified compostability that clean beauty and wellness brands can trust.
 
 **[→ Contact us](/contact/)  |  📧 qo82@icloud.com  |  📱 +86-18934352881**

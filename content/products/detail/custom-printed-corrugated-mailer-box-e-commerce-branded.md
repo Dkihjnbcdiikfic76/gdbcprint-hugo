@@ -2,7 +2,7 @@
 title: "Custom Printed Corrugated Mailer Box E-Commerce Branded"
 date: 2026-06-10
 draft: false
-description: "Custom printed corrugated mailer box for e-commerce and DTC branding with self-locking crash-lock bottom and integrated tear strip. Manufactured by Bincai: KBA 1050 4-color offset + Heidelberg 7+1 UV + flexo, B/C/E/BC-flute options, white top kraft liner for superior print, 10,000+8,000sqm dual factory, 22 years experience, ISO 9001:2015 & FSC certified, 1.7M daily output. ECT/Mullen burst tested, soy-based ink available, knocked-down flat shipping, 5-7 day sample turnaround. MOQ 500."
+description: "Custom printed corrugated mailer box for e-commerce and DTC branding with self-locking crash-lock bottom and integrated tear strip. Manufactured by Bincai: KBA 1050 4-color offset + Heidelberg 7+1 UV + flexo, B/C/E/BC-flute options, white top kraft liner for superior print, 10,000+8,000sqm dual factory, 23 years experience, ISO 9001:2015 & FSC certified, 1.7M daily output. ECT/Mullen burst tested, soy-based ink available, knocked-down flat shipping, 5-7 day sample turnaround. MOQ 500."
 keywords: "corrugated mailer box, e-commerce shipping box, custom printed mailer, subscription box packaging, branded corrugated box, tear strip mailer, crash lock bottom box, white top kraft mailer, B-flute corrugated box, DTC shipping box, corrugated box manufacturer China, ISO 9001 FSC corrugated, soy ink mailer, Bincai, Guangdong corrugated factory"
 categories: ["corrugated-mailers"]
 params:
@@ -14,7 +14,7 @@ params:
 
 ![Bincai Corrugated Mailers](/images/corrugated-mailers.jpg)
 
-Custom printed corrugated mailer box for e-commerce branding — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). 18,000 sqm factory (10,000+8,000 smart factory) with KBA 1050 4-color and Heidelberg 7+1 UV presses. Daily output 1.7 million boxes.
+Custom printed corrugated mailer box for e-commerce branding — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 23 years of experience (founded 2003). 18,000 sqm factory (10,000+8,000 smart factory) with KBA 1050 4-color and Heidelberg 7+1 UV presses. Daily output 1.7 million boxes.
 
 ## Applications
 - E-commerce and DTC brand shipping
@@ -53,7 +53,7 @@ Custom printed corrugated mailer box for e-commerce branding — manufactured by
 - Free pre-production samples with 5–7 working day turnaround
 
 ## Factory
-- 22 years of corrugated packaging manufacturing since 2003
+- 23 years of corrugated packaging manufacturing since 2003
 - 18,000 sqm factory (10,000+8,000 smart factory, expanded 2025)
 - 80+ employees across design, corrugating, printing, and converting
 - KBA Heidelberg offset + flexo capability for any volume tier

@@ -2,7 +2,7 @@
 title: "Two-Piece Rigid Gift Box with Ribbon Closure Luxury Apparel Packaging"
 date: 2026-06-16
 draft: false
-description: "Two-Piece Rigid Gift Box with Ribbon Closure for Luxury Apparel Packaging — custom manufactured by Bincai Printing, 22-year ISO 9001 & FSC certified paper box factory. Premium two-piece telescoping rigid box with grosgrain ribbon tie closure, ideal for luxury apparel, scarves, ties, lingerie, and fashion accessories. Produced on KBA 1050 4-color and Heidelberg 7+1 UV presses across our 18,000 sqm factory. ISO 9001:2015 and FSC certified. Daily output 1.7 million color boxes plus 220,000+ gift boxes. MOQ 500 units with free pre-production samples."
+description: "Two-Piece Rigid Gift Box with Ribbon Closure for Luxury Apparel Packaging — custom manufactured by Bincai Printing, 23-year ISO 9001 & FSC certified paper box factory. Premium two-piece telescoping rigid box with grosgrain ribbon tie closure, ideal for luxury apparel, scarves, ties, lingerie, and fashion accessories. Produced on KBA 1050 4-color and Heidelberg 7+1 UV presses across our 18,000 sqm factory. ISO 9001:2015 and FSC certified. Daily output 1.7 million color boxes plus 220,000+ gift boxes. MOQ 500 units with free pre-production samples."
 keywords: "rigid gift box, two-piece box, ribbon closure box, luxury apparel packaging, fashion gift box, custom rigid box China, ISO 9001 FSC apparel box, Bincai Guangdong, telescoping lid box, grosgrain ribbon box, clothing gift packaging, scarf gift box, tie box, lingerie packaging, wholesale rigid box, OEM apparel packaging, MOQ 500 gift box, luxury fashion box, Guangdong rigid box manufacturer, premium gift packaging, ribbon tie box, rigid presentation box"
 categories: ["rigid-gift-boxes"]
 params:
@@ -20,7 +20,7 @@ tags:
 
 ![Bincai Rigid Ribbon Apparel Box](/images/rigid-gift-boxes.jpg)
 
-Two-Piece Rigid Gift Box with grosgrain ribbon closure for luxury apparel packaging by Guangdong Bincai Color Printing Co., Ltd. — a Diamond Member on Made-in-China.com with 22 years of manufacturing excellence (founded 2003). The classic two-piece telescoping design features a separate lid and base wrapped in premium art paper, with a grosgrain ribbon tie that adds an elegant unboxing ritual. Ideal for luxury fashion brands presenting scarves, ties, shirts, lingerie, and accessories. Produced on KBA 1050 4-color and Heidelberg 7+1 UV presses across our 18,000 sqm facility. Daily output: 1.7 million color boxes + 220,000+ gift boxes.
+Two-Piece Rigid Gift Box with grosgrain ribbon closure for luxury apparel packaging by Guangdong Bincai Color Printing Co., Ltd. — a Diamond Member on Made-in-China.com with 23 years of manufacturing excellence (founded 2003). The classic two-piece telescoping design features a separate lid and base wrapped in premium art paper, with a grosgrain ribbon tie that adds an elegant unboxing ritual. Ideal for luxury fashion brands presenting scarves, ties, shirts, lingerie, and accessories. Produced on KBA 1050 4-color and Heidelberg 7+1 UV presses across our 18,000 sqm facility. Daily output: 1.7 million color boxes + 220,000+ gift boxes.
 
 ## Applications
 
@@ -69,7 +69,7 @@ Two-Piece Rigid Gift Box with grosgrain ribbon closure for luxury apparel packag
 
 ## Why Bincai
 
-- **22 Years**: Premium rigid box manufacturing since 2003
+- **23 Years**: Premium rigid box manufacturing since 2003
 - **Dual Press**: KBA Rapida 105 + Heidelberg CD 102 7+1 UV for luxury print quality
 - **ISO 9001:2015 + FSC CoC**: Quality and sustainability certified
 - **18,000 sqm**: Modern facility with dedicated rigid box assembly lines
@@ -85,4 +85,4 @@ Two-Piece Rigid Gift Box with grosgrain ribbon closure for luxury apparel packag
 - **Export Markets**: Italy, France, UK, USA, Japan, South Korea, UAE
 ---
 
-**Guangdong Bincai Color Printing Co., Ltd.** — KBA Rapida 105 + Heidelberg CD 102 7+1 UV + BHS 2.5m Corrugator + Bobst SP 102 BMA. ISO 9001:2015 · FSC CoC. 18,000 sqm. 1.7M daily. 22 years.
+**Guangdong Bincai Color Printing Co., Ltd.** — KBA Rapida 105 + Heidelberg CD 102 7+1 UV + BHS 2.5m Corrugator + Bobst SP 102 BMA. ISO 9001:2015 · FSC CoC. 18,000 sqm. 1.7M daily. 23 years.

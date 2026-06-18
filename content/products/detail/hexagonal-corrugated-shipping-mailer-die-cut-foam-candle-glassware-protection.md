@@ -2,8 +2,8 @@
 title: "Hexagonal Corrugated Candle Shipping Mailer with Die-Cut Foam Insert — Glassware Protection"
 date: 2026-06-14
 draft: false
-description: "Custom hexagonal corrugated shipping mailer engineered specifically for glass candle jars, diffuser bottles, and fragile glassware. Double-wall B/C flute corrugated with precision die-cut EPE foam insert for 360° impact protection. Self-locking hexagonal design eliminates tape, passes ISTA 3A drop testing from 1.2m. Manufactured by Guangdong Bincai Color Printing Co., Ltd. — ISO 9001:2015 & FSC Chain-of-Custody certified, 22 years paper packaging expertise, 10,000 sqm Foshan facility with Heidelberg Speedmaster XL 7+1 UV and KBA Rapida 105 4-color offset press lines, 1.5M boxes daily output. Full CMYK flexo or offset litho-laminate printing. Serving 60+ countries. MOQ 500. Ideal for DTC candle brands, subscription boxes, and e-commerce glassware shipping."
-keywords: "hexagonal shipping box, candle shipping mailer, glassware shipping box, corrugated candle box, hexagonal mailer, candle ecommerce packaging, glass candle shipping, die-cut foam insert box, corrugated mailer hexagon, DTC candle packaging, subscription box mailer, fragile glass shipping, hexagonal corrugated box, ISTA 3A mailer, double-wall corrugated box, Bincai corrugated mailer, FSC certified shipping box, ISO 9001 corrugated, Heidelberg 7+1 UV mailer, KBA 1050 offset corrugated, 10,000 sqm corrugated factory, 1.5M boxes daily, 22 years manufacturing, Guangdong corrugated factory, OEM shipping mailer China, candle subscription box, glass jar shipper, diffuser shipping box, hexagonal gift mailer, wholesale candle mailer, custom DTC shipping box, ISTA drop tested mailer, ecommerce packaging manufacturer, Foshan corrugated factory, B-flute C-flute mailer, 6-sided impact protection, self-locking corrugated box, hexagonal foam insert, candle glass protection box, litho-laminate corrugated mailer, branded ecommerce shipper"
+description: "Custom hexagonal corrugated shipping mailer engineered specifically for glass candle jars, diffuser bottles, and fragile glassware. Double-wall B/C flute corrugated with precision die-cut EPE foam insert for 360° impact protection. Self-locking hexagonal design eliminates tape, passes ISTA 3A drop testing from 1.2m. Manufactured by Guangdong Bincai Color Printing Co., Ltd. — ISO 9001:2015 & FSC Chain-of-Custody certified, 23 years paper packaging expertise, 10,000 sqm Foshan facility with Heidelberg Speedmaster XL 7+1 UV and KBA Rapida 105 4-color offset press lines, 1.5M boxes daily output. Full CMYK flexo or offset litho-laminate printing. Serving 60+ countries. MOQ 500. Ideal for DTC candle brands, subscription boxes, and e-commerce glassware shipping."
+keywords: "hexagonal shipping box, candle shipping mailer, glassware shipping box, corrugated candle box, hexagonal mailer, candle ecommerce packaging, glass candle shipping, die-cut foam insert box, corrugated mailer hexagon, DTC candle packaging, subscription box mailer, fragile glass shipping, hexagonal corrugated box, ISTA 3A mailer, double-wall corrugated box, Bincai corrugated mailer, FSC certified shipping box, ISO 9001 corrugated, Heidelberg 7+1 UV mailer, KBA 1050 offset corrugated, 10,000 sqm corrugated factory, 1.5M boxes daily, 23 years manufacturing, Guangdong corrugated factory, OEM shipping mailer China, candle subscription box, glass jar shipper, diffuser shipping box, hexagonal gift mailer, wholesale candle mailer, custom DTC shipping box, ISTA drop tested mailer, ecommerce packaging manufacturer, Foshan corrugated factory, B-flute C-flute mailer, 6-sided impact protection, self-locking corrugated box, hexagonal foam insert, candle glass protection box, litho-laminate corrugated mailer, branded ecommerce shipper"
 categories: ["corrugated-mailers"]
 params:
   moq: "500-1000"
@@ -16,7 +16,7 @@ params:
 
 ## Product Overview
 
-Glass candle jars are among the most challenging products to ship. A single drop from sorting-conveyor height can shatter a $35 artisanal candle into unusable fragments — and the brand pays for it twice: once in product loss and again in customer disappointment. The **Hexagonal Corrugated Candle Shipping Mailer** is engineered from the ground up to solve this problem, and manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — 22 years of paper packaging expertise, 10,000 sqm ISO 9001:2015 & FSC certified dual-factory operation, with **1.5 million boxes daily output** capacity on Heidelberg Speedmaster XL 7+1 UV and KBA Rapida 105 offset press lines.
+Glass candle jars are among the most challenging products to ship. A single drop from sorting-conveyor height can shatter a $35 artisanal candle into unusable fragments — and the brand pays for it twice: once in product loss and again in customer disappointment. The **Hexagonal Corrugated Candle Shipping Mailer** is engineered from the ground up to solve this problem, and manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — 23 years of paper packaging expertise, 10,000 sqm ISO 9001:2015 & FSC certified dual-factory operation, with **1.5 million boxes daily output** capacity on Heidelberg Speedmaster XL 7+1 UV and KBA Rapida 105 offset press lines.
 
 The hexagonal geometry is not a decorative choice — it's structural. A hexagon distributes impact forces across 6 faces instead of 4, meaning a corner drop onto a conveyor belt or doorstep concrete spreads the shock vector through a 120° internal angle rather than a 90° right-angle corner that concentrates stress. Combined with a precision die-cut EPE (expanded polyethylene) foam insert that cradles the candle jar in a 360° nest, this mailer consistently passes ISTA 3A drop testing from 1.2m — the standard for single-parcel e-commerce shipping.
 
@@ -55,7 +55,7 @@ The double-wall B/C flute construction provides two layers of fluting — B-flut
 | **Factory** | 10,000 sqm Foshan, Guangdong — ISO 9001:2015 & FSC certified |
 | **Press Lines** | Heidelberg Speedmaster XL 7+1 UV / KBA Rapida 105 4-color offset |
 | **Daily Output** | 1.5M+ boxes across dual-factory operation |
-| **Experience** | 22 years paper packaging manufacturing expertise |
+| **Experience** | 23 years paper packaging manufacturing expertise |
 | **Flute** | Double-Wall B/C (standard), E-Flute (premium litho-laminate) |
 | **Board** | 200# test minimum (upgradeable to 350#) |
 | **Adhesive** | Moisture-resistant starch (FDA 21 CFR 175.105 compliant) |
@@ -92,7 +92,7 @@ Every production batch goes through our 6-stage QC protocol:
 
 The unboxing experience for a candle brand begins the moment the shipping box enters the customer's hands. A crushed, taped-up brown box undermines the premium candle inside. A crisp hexagonal mailer with full-color brand graphics tells the customer they've purchased something special before they've even opened it.
 
-- **22 years** of corrugated packaging manufacturing — established 2004
+- **23 years** of corrugated packaging manufacturing — established 2004
 - **10,000 sqm** dual-factory — ISO 9001:2015 + FSC® Chain-of-Custody certified
 - **Heidelberg & KBA presses** — Speedmaster XL 7+1 UV + Rapida 105 4-color offset
 - **1.5M boxes** daily output across all production lines

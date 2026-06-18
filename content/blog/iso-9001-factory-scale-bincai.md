@@ -3,7 +3,7 @@ title: "ISO 9001 Certified, 18,000 sqm Factory: Scale & Quality at Bincai"
 date: 2026-06-10
 draft: false
 image: "/images/hero-factory.webp"
-description: "Bincai's 18,000 sqm ISO 9001 factory (10,000+8,000 smart factory) produces 1.7M boxes daily with KBA 1050 + Heidelberg 7+1 UV presses. 22 years of paper box manufacturing."
+description: "Bincai's 18,000 sqm ISO 9001 factory (10,000+8,000 smart factory) produces 1.7M boxes daily with KBA 1050 + Heidelberg 7+1 UV presses. 23 years of paper box manufacturing."
 
 ---
 
@@ -15,7 +15,7 @@ When you source custom paper boxes from Guangdong Bincai Color Printing, you're 
 
 - **18,000 sqm factory (10,000+8,000 smart factory) floor** — purpose-built for high-volume paper box production with dedicated zones for printing, die-cutting, gluing, and quality inspection
 - **1.7 million boxes daily output** — powered by our KBA 1050 4-color press and Heidelberg Speedmaster 7+1 UV press running in tandem
-- **22 years of continuous operation** — since 2003, we've served brands across North America, Europe, Middle East, and Asia-Pacific
+- **23 years of continuous operation** — since 2003, we've served brands across North America, Europe, Middle East, and Asia-Pacific
 
 ## ISO 9001: The Quality Backbone
 

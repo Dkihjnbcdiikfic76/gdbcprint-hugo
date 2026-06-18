@@ -2,8 +2,8 @@
 title: "Kraft Paper Tube Cylinder Box with Metal Lid Eco-Friendly Cosmetic Packaging"
 date: 2026-06-14
 draft: false
-description: "Sustainable kraft paper tube cylinder box with metal lid for eco-conscious cosmetic, skincare, and personal care brands. 100% recyclable kraft paperboard construction with optional PLA inner lining. Custom CMYK printing with water-based inks on KBA 1050 press. Bincai 22-year manufacturer, 18,000 sqm ISO 9001 & FSC certified factory, 1.7M daily output. MOQ 500."
-keywords: "kraft paper tube box, cylinder cosmetic packaging, eco-friendly tube box, metal lid paper tube, sustainable skincare packaging, round kraft box, recycled paperboard tube, PLA lined tube, water-based ink packaging, Bincai kraft tube, KBA 1050 kraft printing, FSC certified tube box, ISO 9001 cosmetics, 18,000 sqm factory, 22 years paper tube, MOQ 500 tube, OEM cosmetic packaging, Guangdong eco packaging, recyclable cylinder box, biodegradable tube, zero waste packaging, natural cosmetic box, organic skincare packaging, kraft cylinder with lid"
+description: "Sustainable kraft paper tube cylinder box with metal lid for eco-conscious cosmetic, skincare, and personal care brands. 100% recyclable kraft paperboard construction with optional PLA inner lining. Custom CMYK printing with water-based inks on KBA 1050 press. Bincai 23-year manufacturer, 18,000 sqm ISO 9001 & FSC certified factory, 1.7M daily output. MOQ 500."
+keywords: "kraft paper tube box, cylinder cosmetic packaging, eco-friendly tube box, metal lid paper tube, sustainable skincare packaging, round kraft box, recycled paperboard tube, PLA lined tube, water-based ink packaging, Bincai kraft tube, KBA 1050 kraft printing, FSC certified tube box, ISO 9001 cosmetics, 18,000 sqm factory, 23 years paper tube, MOQ 500 tube, OEM cosmetic packaging, Guangdong eco packaging, recyclable cylinder box, biodegradable tube, zero waste packaging, natural cosmetic box, organic skincare packaging, kraft cylinder with lid"
 categories: ["kraft-eco-boxes"]
 params:
   moq: "500-1000"
@@ -74,6 +74,6 @@ Bincai's kraft tube cylinder box supports your brand's sustainability story:
 | **Daily Output** | 1.7 million boxes total across all product categories |
 | **Quality** | AQL 2.5 sampling, burst strength testing, moisture resistance, fit-tolerance check |
 | **Certifications** | ISO 9001:2015, FSC Chain of Custody, Sedex SMETA |
-| **Experience** | 22 years — established 2003, serving 60+ countries |
+| **Experience** | 23 years — established 2003, serving 60+ countries |
 | **MOQ** | 500 units per design |
 | **Lead Time** | 15–20 days for custom tube orders |

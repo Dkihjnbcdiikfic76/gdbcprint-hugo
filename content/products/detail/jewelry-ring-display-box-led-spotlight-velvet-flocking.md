@@ -2,7 +2,7 @@
 title: "Jewelry Ring Display Box LED Spotlight Velvet Flocking Interior"
 date: 2026-06-11
 draft: false
-description: "Premium jewelry ring display box with integrated LED spotlight and deep velvet flocking interior. Warm white 3000K LED activates on lid opening, N52 neodymium magnetic closure, 12+ velvet colors, 200+ hour battery life. KBA 1050 + Heidelberg 7+1 UV presses, Bobst foil stamping, 18,000 sqm factory, ISO 9001 & FSC certified. 22 years manufacturing, daily output 220,000+ rigid boxes. MOQ 300-500, free samples 5-7 days."
+description: "Premium jewelry ring display box with integrated LED spotlight and deep velvet flocking interior. Warm white 3000K LED activates on lid opening, N52 neodymium magnetic closure, 12+ velvet colors, 200+ hour battery life. KBA 1050 + Heidelberg 7+1 UV presses, Bobst foil stamping, 18,000 sqm factory, ISO 9001 & FSC certified. 23 years manufacturing, daily output 220,000+ rigid boxes. MOQ 300-500, free samples 5-7 days."
 keywords: "jewelry ring display box, LED spotlight ring box, velvet flocking jewelry box, custom ring packaging, luxury ring display box, magnetic closure ring box, engagement ring box, wedding ring presentation box, Bincai jewelry box, ISO 9001 FSC ring packaging, China luxury jewelry box factory, ring box with light, velvet ring box wholesale, LED jewelry box manufacturer, diamond ring display packaging"
 categories: ["jewelry-boxes"]
 params:

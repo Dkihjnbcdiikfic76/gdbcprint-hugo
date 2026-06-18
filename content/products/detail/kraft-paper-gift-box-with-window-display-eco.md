@@ -2,8 +2,8 @@
 title: "Kraft Paper Gift Box with Window Display Eco"
 date: 2026-06-12
 draft: false
-description: "Kraft Paper Gift Box with Window Display Eco by Guangdong Bincai Color Printing. Diamond Member on Made-in-China.com. ISO 9001 FSC. Manufactured by Guangdong Bincai Color Printing Co., Ltd. — 22 years experience (founded 2003), 18,000 sqm dual factory (10,000+8,000 sqm smart factory), ISO 9001:2015 & FSC certified, KBA 1050 4-color + Heidelberg 7+1 UV presses, daily output 1.7M boxes, serving 200+ global brands from Foshan, China."
-keywords: "kraft paper box, eco gift box, window display box, brown kraft packaging, sustainable gift box, recycled paperboard packaging, Bincai, Guangdong packaging factory, 22 years experience, ISO 9001 certified, FSC certified, KBA 1050 offset, Heidelberg 7+1 UV, 18,000 sqm factory, 1.7M daily output, OEM paper box China, biodegradable packaging, soy ink box"
+description: "Kraft Paper Gift Box with Window Display Eco by Guangdong Bincai Color Printing. Diamond Member on Made-in-China.com. ISO 9001 FSC. Manufactured by Guangdong Bincai Color Printing Co., Ltd. — 23 years experience (founded 2003), 18,000 sqm dual factory (10,000+8,000 sqm smart factory), ISO 9001:2015 & FSC certified, KBA 1050 4-color + Heidelberg 7+1 UV presses, daily output 1.7M boxes, serving 200+ global brands from Foshan, China."
+keywords: "kraft paper box, eco gift box, window display box, brown kraft packaging, sustainable gift box, recycled paperboard packaging, Bincai, Guangdong packaging factory, 23 years experience, ISO 9001 certified, FSC certified, KBA 1050 offset, Heidelberg 7+1 UV, 18,000 sqm factory, 1.7M daily output, OEM paper box China, biodegradable packaging, soy ink box"
 categories: ["kraft-eco-boxes"]
 params:
   moq: "500-1000"
@@ -14,7 +14,7 @@ params:
 
 ![Kraft Paper Gift Box with Window Display Eco](/images/kraft-eco-box.jpg)
 
-Eco-friendly kraft paper gift box with window display — manufactured by **Guangdong Bincai Color Printing Co., Ltd.**, a full-chain packaging enterprise with 22 years of experience (founded 2003). The natural brown kraft finish with a clear window creates an organic, artisan aesthetic that lets the product speak for itself. Printed with soy-based inks on FSC-certified kraft board across 18,000 sqm factory (10,000+8,000 sqm smart factory). Daily output 1.7 million boxes.
+Eco-friendly kraft paper gift box with window display — manufactured by **Guangdong Bincai Color Printing Co., Ltd.**, a full-chain packaging enterprise with 23 years of experience (founded 2003). The natural brown kraft finish with a clear window creates an organic, artisan aesthetic that lets the product speak for itself. Printed with soy-based inks on FSC-certified kraft board across 18,000 sqm factory (10,000+8,000 sqm smart factory). Daily output 1.7 million boxes.
 
 ## Applications
 - Natural and organic skincare product packaging
@@ -47,14 +47,14 @@ Eco-friendly kraft paper gift box with window display — manufactured by **Guan
 - ISO 9001:2015 certified quality management system
 - FSC Chain-of-Custody certified — traceable from forest to finished box
 - Compostable window film option (PLA) tested to ASTM D6400 standards
-- 22 years manufacturing expertise — founded 2003
+- 23 years manufacturing expertise — founded 2003
 - 18,000 sqm factory (10,000+8,000 sqm smart factory) with 220+ skilled workers
 - MOQ 500–1000 units; lead time 12–18 working days; free samples available
 
 [View on Made-in-China.com →](https://bincaipaperbox.en.made-in-china.com/)
 
 ## Why Bincai
-Most packaging suppliers treat "eco-friendly" as a marketing checkbox. **Bincai lives it**. Our FSC-certified kraft board is traced from responsibly managed forests, our soy-based inks are stored in dedicated press-side tanks (not retrofitted), and our PLA window film is certified compostable to ASTM D6400 — not just "biodegradable" claims. With 22 years of manufacturing in our own 18,000 sqm factory, we don't outsource to unknown subcontractors. You visit us, you see your boxes being made. For brands building genuine sustainability stories, Bincai provides the manufacturing truth behind the claim.
+Most packaging suppliers treat "eco-friendly" as a marketing checkbox. **Bincai lives it**. Our FSC-certified kraft board is traced from responsibly managed forests, our soy-based inks are stored in dedicated press-side tanks (not retrofitted), and our PLA window film is certified compostable to ASTM D6400 — not just "biodegradable" claims. With 23 years of manufacturing in our own 18,000 sqm factory, we don't outsource to unknown subcontractors. You visit us, you see your boxes being made. For brands building genuine sustainability stories, Bincai provides the manufacturing truth behind the claim.
 
 ## Sustainability
 - **FSC Chain-of-Custody** — every kraft sheet traceable from forest to finished box

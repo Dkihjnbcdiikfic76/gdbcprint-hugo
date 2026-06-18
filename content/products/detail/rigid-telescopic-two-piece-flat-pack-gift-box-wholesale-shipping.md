@@ -2,7 +2,7 @@
 title: "Rigid Telescopic Two-Piece Flat-Pack Gift Box — Wholesale Bulk Shipping Optimized"
 date: 2026-06-14
 draft: false
-description: "Rigid telescopic two-piece flat-pack gift box with lid-and-base design — wholesale bulk shipping optimized, ships flat and assembles in seconds. Manufactured by Guangdong Bincai Color Printing Co., Ltd. — 22 years experience, 18,000 sqm factory, ISO 9001 & FSC certified, KBA 1050 4-color + Heidelberg 7+1 UV presses, daily output 1.7M boxes. Ideal for ecommerce brands, subscription boxes, corporate gifts, and bulk retail packaging where shipping cost-efficiency is critical."
+description: "Rigid telescopic two-piece flat-pack gift box with lid-and-base design — wholesale bulk shipping optimized, ships flat and assembles in seconds. Manufactured by Guangdong Bincai Color Printing Co., Ltd. — 23 years experience, 18,000 sqm factory, ISO 9001 & FSC certified, KBA 1050 4-color + Heidelberg 7+1 UV presses, daily output 1.7M boxes. Ideal for ecommerce brands, subscription boxes, corporate gifts, and bulk retail packaging where shipping cost-efficiency is critical."
 keywords: "flat pack gift box, telescopic rigid box, two-piece gift box, bulk shipping gift box, flat pack rigid box, wholesale gift box China, Bincai rigid box manufacturer, Guangdong packaging factory, ISO 9001 FSC, KBA 1050 offset, Heidelberg 7+1 UV, 18,000 sqm, 1.7M daily output, ecommerce gift box, subscription box packaging, corporate gift box bulk, flat shipping box OEM"
 categories: ["rigid-gift-boxes"]
 params:
@@ -66,7 +66,7 @@ Rigid telescopic two-piece flat-pack gift box engineered for wholesale bulk ship
 - MOQ 1000–2000 units; lower MOQ for trial orders accepted
 
 ## Factory
-- 22 years of manufacturing excellence since 2003
+- 23 years of manufacturing excellence since 2003
 - Dual factories: 10,000 sqm main + 8,000 sqm smart factory in Foshan, Pearl River Delta
 - 500+ skilled workers across 3 shifts
 - ISO 9001:2015 certified quality management system

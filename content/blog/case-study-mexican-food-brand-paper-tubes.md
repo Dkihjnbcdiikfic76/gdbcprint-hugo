@@ -38,7 +38,7 @@ Bincai proposed a migration from metal tins to **food-grade aluminum-foil-lined 
 
 **Manufacturing advantages Bincai brought:**
 
-- **22 years of paper packaging manufacturing** across an 18,000 sqm facility with KBA 1050 + Heidelberg 7+1 UV presses — print quality indistinguishable from metal tin decoration but at 40% lower cost
+- **23 years of paper packaging manufacturing** across an 18,000 sqm facility with KBA 1050 + Heidelberg 7+1 UV presses — print quality indistinguishable from metal tin decoration but at 40% lower cost
 - **Aluminum foil lining** applied in-line during tube forming — creates a moisture barrier that passes 85% RH / 38°C accelerated aging (equivalent to 12-month shelf life in tropical storage)
 - **Air-tight peel-off membrane lid** with resealable plastic overcap — customers can open, use partial contents, and reseal without transferring to a secondary container
 - **Sample-to-production in 10 days** — digital proofs in 48 hours, physical samples in 7 days, first production run in 25 days

@@ -3,11 +3,11 @@ title: "How Bincai's Batch Traceability System Documents Every Production Run �
 date: 2026-06-16
 draft: false
 image: "/images/hero-factory.webp"
-description: "When international buyers audit a factory, one question reveals everything: 'Show me the batch records.' Guangdong Bincai Color Printing maintains full batch traceability — every paper roll, ink batch, adhesive lot, production shift, QC checkpoint, and pallet shipment is documented and traceable under ISO 9001:2015. 22 years, 18,000 sqm, 1.7M boxes daily. Full documentation packages for every order."
+description: "When international buyers audit a factory, one question reveals everything: 'Show me the batch records.' Guangdong Bincai Color Printing maintains full batch traceability — every paper roll, ink batch, adhesive lot, production shift, QC checkpoint, and pallet shipment is documented and traceable under ISO 9001:2015. 23 years, 18,000 sqm, 1.7M boxes daily. Full documentation packages for every order."
 author: "Bincai Quality Systems Team"
 categories: ["Quality Assurance", "Supply Chain Management", "B2B Packaging"]
-tags: ["batch traceability", "production documentation", "ISO 9001", "quality records", "lot tracking", "paper box manufacturer", "Bincai", "Guangdong", "Foshan", "18,000 sqm", "1.7M daily", "22 years", "KBA Rapida 105", "Heidelberg CD 102", "BHS 2.5m corrugator", "Bobst SP 102 BMA", "FSC Chain-of-Custody", "export documentation", "manufacturing audit", "compliance", "packaging", "OEM", "custom"]
-keywords: "batch traceability, production documentation, quality records, lot tracking, batch records, paper box traceability, ISO 9001 quality records, Bincai Color Printing, Guangdong packaging manufacturer, manufacturing documentation, factory audit, FSC Chain-of-Custody, export batch tracking, custom box traceability, KBA Rapida 105, Heidelberg CD 102, BHS 2.5m corrugator, Bobst SP 102 BMA, 18,000 sqm, 1.7M daily, 22 years, Foshan, packaging compliance"
+tags: ["batch traceability", "production documentation", "ISO 9001", "quality records", "lot tracking", "paper box manufacturer", "Bincai", "Guangdong", "Foshan", "18,000 sqm", "1.7M daily", "23 years", "KBA Rapida 105", "Heidelberg CD 102", "BHS 2.5m corrugator", "Bobst SP 102 BMA", "FSC Chain-of-Custody", "export documentation", "manufacturing audit", "compliance", "packaging", "OEM", "custom"]
+keywords: "batch traceability, production documentation, quality records, lot tracking, batch records, paper box traceability, ISO 9001 quality records, Bincai Color Printing, Guangdong packaging manufacturer, manufacturing documentation, factory audit, FSC Chain-of-Custody, export batch tracking, custom box traceability, KBA Rapida 105, Heidelberg CD 102, BHS 2.5m corrugator, Bobst SP 102 BMA, 18,000 sqm, 1.7M daily, 23 years, Foshan, packaging compliance"
 ---
 
 ![Bincai Batch Traceability — Full Production Documentation from Raw Material to Finished Pallet](/images/hero-banner-wide.webp)
@@ -227,4 +227,4 @@ Every box that leaves our 18,000 sqm factory carries a traceable production hist
 
 ---
 
-*Guangdong Bincai Color Printing Co., Ltd. — 22 years of paper box manufacturing excellence. KBA Rapida 1050 4-color + Heidelberg Speedmaster CD 102 7+1 UV offset presses, BHS 2.5-meter corrugator, Bobst SP 102 BMA automatic die-cutter. ISO 9001:2015 & FSC Chain-of-Custody certified. 18,000 sqm factory. 1.7 million boxes daily output. Exporting to 60+ countries. Full batch traceability and documentation packages with every order.*
+*Guangdong Bincai Color Printing Co., Ltd. — 23 years of paper box manufacturing excellence. KBA Rapida 1050 4-color + Heidelberg Speedmaster CD 102 7+1 UV offset presses, BHS 2.5-meter corrugator, Bobst SP 102 BMA automatic die-cutter. ISO 9001:2015 & FSC Chain-of-Custody certified. 18,000 sqm factory. 1.7 million boxes daily output. Exporting to 60+ countries. Full batch traceability and documentation packages with every order.*

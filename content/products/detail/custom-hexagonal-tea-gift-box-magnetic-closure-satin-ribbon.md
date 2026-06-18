@@ -2,7 +2,7 @@
 title: "Custom Hexagonal Tea Gift Box with Magnetic Closure and Satin Ribbon"
 date: 2026-06-16
 draft: false
-description: "Custom hexagonal tea gift box with magnetic closure and satin ribbon — manufactured by Bincai Printing, 22-year ISO 9001 & FSC certified paper box factory. Premium hexagonal rigid tea presentation box with concealed magnetic closure and satin ribbon pull by Guangdong Bincai Color Printing Co., Ltd. — 22 years of manufacturing excellence since 2003. Produced on KBA 1050 4-color and Heidelberg 7+1 UV presses across our 18,000 sqm factory (10,000+8,000 sqm smart factory, 2025 expansion). ISO 9001:2015 and FSC certified. Daily output of 1.7 million color boxes plus 220,000+ gift boxes. MOQ 500 units with free pre-production samples. The hexagonal shape with magnetic closure and satin ribbon creates a distinctive unboxing experience for premium loose-leaf tea, tea bag collections, and gourmet tea gift sets. Custom compartments, gold foil stamping, and embossed logos available. Heidelberg 7+1 UV offset printing, 10,000 sqm facility, daily output 1.5M boxes."
+description: "Custom hexagonal tea gift box with magnetic closure and satin ribbon — manufactured by Bincai Printing, 23-year ISO 9001 & FSC certified paper box factory. Premium hexagonal rigid tea presentation box with concealed magnetic closure and satin ribbon pull by Guangdong Bincai Color Printing Co., Ltd. — 23 years of manufacturing excellence since 2003. Produced on KBA 1050 4-color and Heidelberg 7+1 UV presses across our 18,000 sqm factory (10,000+8,000 sqm smart factory, 2025 expansion). ISO 9001:2015 and FSC certified. Daily output of 1.7 million color boxes plus 220,000+ gift boxes. MOQ 500 units with free pre-production samples. The hexagonal shape with magnetic closure and satin ribbon creates a distinctive unboxing experience for premium loose-leaf tea, tea bag collections, and gourmet tea gift sets. Custom compartments, gold foil stamping, and embossed logos available. Heidelberg 7+1 UV offset printing, 10,000 sqm facility, daily output 1.5M boxes."
 keywords: "hexagonal tea gift box, magnetic closure tea box, satin ribbon tea box, custom tea packaging, premium tea box, rigid tea gift box, hexagonal gift box, tea presentation box, luxury tea packaging, Bincai tea box, ISO 9001 tea packaging, FSC certified tea box, magnetic tea box, custom tea gift packaging, gold foil tea box, wholesale tea box, OEM tea packaging, Chinese tea box manufacturer, Guangdong tea box factory, MOQ 500 tea box, hexagonal shaped box, tea collection box, loose leaf tea packaging, tea bag gift box, satin ribbon gift box"
 categories: ["rigid-gift-boxes"]
 params:
@@ -20,7 +20,7 @@ tags:
 
 ![Bincai Rigid Gift Box](/images/rigid-gift-boxes.jpg)
 
-Custom hexagonal tea gift box with magnetic closure and satin ribbon pull by Guangdong Bincai Color Printing Co., Ltd. — a Diamond Member on Made-in-China.com with 22 years of manufacturing excellence (founded 2003). This distinctive hexagonal rigid box combines the elegance of traditional tea ceremony aesthetics with modern luxury packaging engineering. The six-sided design stands out on retail shelves, while the concealed magnetic closure and satin ribbon pull create a refined opening experience. Inside, custom die-cut compartments cradle tea bags, loose-leaf pouches, or tea accessories. Produced on KBA 1050 4-color and Heidelberg 7+1 UV presses across our 18,000 sqm facility (10,000+8,000 smart factory) (2025 expansion). Daily output: 1.7 million color boxes + 220,000+ gift boxes.
+Custom hexagonal tea gift box with magnetic closure and satin ribbon pull by Guangdong Bincai Color Printing Co., Ltd. — a Diamond Member on Made-in-China.com with 23 years of manufacturing excellence (founded 2003). This distinctive hexagonal rigid box combines the elegance of traditional tea ceremony aesthetics with modern luxury packaging engineering. The six-sided design stands out on retail shelves, while the concealed magnetic closure and satin ribbon pull create a refined opening experience. Inside, custom die-cut compartments cradle tea bags, loose-leaf pouches, or tea accessories. Produced on KBA 1050 4-color and Heidelberg 7+1 UV presses across our 18,000 sqm facility (10,000+8,000 smart factory) (2025 expansion). Daily output: 1.7 million color boxes + 220,000+ gift boxes.
 
 ## Applications
 - Premium loose-leaf tea and tea bag gift sets
@@ -64,7 +64,7 @@ Custom hexagonal tea gift box with magnetic closure and satin ribbon pull by Gua
 - Flat-shipping design — boxes ship knocked down, reducing freight cost by 60–75%
 
 ## Factory
-- 22 years of manufacturing excellence since 2003
+- 23 years of manufacturing excellence since 2003
 - 18,000 sqm factory (10,000+8,000 smart factory)
 - 80+ skilled employees across design, prepress, printing, and finishing
 - KBA Rapida 105 4-color + Heidelberg Speedmaster XL 7+1 UV presses
@@ -110,7 +110,7 @@ A: Hexagonal boxes add 2–3 days to the production schedule due to the speciali
 
 ## Manufacturing Excellence at Bincai
 
-Every box is produced in our **10,000 sqm ISO 9001 & FSC-certified facility** with **22 years** of packaging mastery. Our production line features:
+Every box is produced in our **10,000 sqm ISO 9001 & FSC-certified facility** with **23 years** of packaging mastery. Our production line features:
 
 - **Heidelberg Speedmaster XL 7+1 UV** — 7-color offset with inline UV coating, 18,000 sheets/hour
 - **KBA Rapida 105 4-color** — high-speed offset for medium-to-long runs

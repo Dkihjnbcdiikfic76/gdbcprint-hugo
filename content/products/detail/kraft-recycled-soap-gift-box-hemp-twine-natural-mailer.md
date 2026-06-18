@@ -2,7 +2,7 @@
 title: "Recycled Kraft Soap Gift Box — Hemp Twine Tie Closure with Natural Brown Mailer"
 date: 2026-06-15
 draft: false
-description: "Eco-friendly recycled Kraft soap gift box manufactured by Guangdong Bincai Color Printing Co., Ltd. (22 years, 18,000 sqm Foshan factory). 100% recycled Kraft board with hemp twine tie closure, compostable soy-based ink printing, and natural brown mailer-ready construction. FSC Chain-of-Custody and ISO 9001:2015 certified. KBA 1050 4-color + Heidelberg 7+1 UV presses, daily output 1.7M boxes. Perfect for artisanal soap brands, sustainable skincare, and zero-waste subscription boxes."
+description: "Eco-friendly recycled Kraft soap gift box manufactured by Guangdong Bincai Color Printing Co., Ltd. (23 years, 18,000 sqm Foshan factory). 100% recycled Kraft board with hemp twine tie closure, compostable soy-based ink printing, and natural brown mailer-ready construction. FSC Chain-of-Custody and ISO 9001:2015 certified. KBA 1050 4-color + Heidelberg 7+1 UV presses, daily output 1.7M boxes. Perfect for artisanal soap brands, sustainable skincare, and zero-waste subscription boxes."
 keywords: "recycled kraft box, soap gift box, eco-friendly packaging, hemp twine closure, sustainable soap packaging, bincai, guangdong, iso 9001, fsc, kba 1050, heidelberg 7+1 uv, 18000 sqm, 1.7m daily output, soy ink, compostable, zero waste, OEM"
 categories: ["kraft-eco-boxes"]
 params:
@@ -14,7 +14,7 @@ params:
 
 ![Bincai Recycled Kraft Soap Box](/images/kraft-eco-box.jpg)
 
-Guangdong Bincai Color Printing Co., Ltd. (founded 2003, 22 years of sustainable packaging expertise) presents this fully compostable recycled Kraft soap gift box — designed for artisanal soap makers, natural skincare brands, and zero-waste subscription services. Manufactured in our 18,000 sqm Foshan facility under ISO 9001:2015 and FSC Chain-of-Custody certification, every box uses 100% post-consumer recycled Kraft board printed with soy-based inks and closed with a natural hemp twine tie — no plastic, no laminates, no synthetic adhesives.
+Guangdong Bincai Color Printing Co., Ltd. (founded 2003, 23 years of sustainable packaging expertise) presents this fully compostable recycled Kraft soap gift box — designed for artisanal soap makers, natural skincare brands, and zero-waste subscription services. Manufactured in our 18,000 sqm Foshan facility under ISO 9001:2015 and FSC Chain-of-Custody certification, every box uses 100% post-consumer recycled Kraft board printed with soy-based inks and closed with a natural hemp twine tie — no plastic, no laminates, no synthetic adhesives.
 
 The natural brown Kraft finish communicates sustainability at first glance, while the hemp twine closure adds a handcrafted, artisanal feel that buyers associate with premium natural products. The mailer-ready design — a tuck-top with locking tab — eliminates the need for additional outer packaging, reducing total material use and shipping weight. Soy-based inks print crisp brand logos and product details while maintaining full compostability.
 
@@ -70,7 +70,7 @@ The natural brown Kraft finish communicates sustainability at first glance, whil
 
 Bincai's recycled Kraft boxes are produced on the same industrial presses (KBA 1050, Heidelberg 7+1 UV) as our premium rigid boxes — meaning eco-friendly doesn't mean low-quality print. The soy-based inks deliver crisp, vibrant branding on uncoated Kraft without the heavy-metal pigments found in conventional inks. And because we control the entire process from board sourcing to twine attachment within our 18,000 sqm facility, we can provide complete compostability documentation for brands that need to substantiate their sustainability claims to retailers and consumers.
 
-**Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
+**Factory Facts:** Founded 2003 | 23 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
 
 **Shipping:** Flat-packed — 2,000-3,000 units per master carton. Twine pre-threaded or loose per customer preference. Lead time 10-14 days. Free pre-production samples 5-7 days.
 

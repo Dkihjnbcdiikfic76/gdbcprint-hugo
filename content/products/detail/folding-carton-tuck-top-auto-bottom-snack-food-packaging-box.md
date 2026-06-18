@@ -2,8 +2,8 @@
 title: "Folding Carton Tuck Top Auto-Bottom for Snack Food Packaging"
 date: 2026-06-11
 draft: false
-description: "Custom printed folding carton with tuck-top closure and auto-lock bottom for snack foods, dried fruits, nuts, tea, and confectionery. Food-grade CMYK inks on KBA 1050 4-color + Heidelberg 7+1 UV presses. PE/PET inner liner option for grease resistance. Matte/gloss lamination, spot UV, foil stamping. 18,000 sqm (10,000+8,000 smart factory) ISO 9001 & FSC certified factory. 22 years experience, 1.7M+ color boxes + 220K+ gift boxes daily. MOQ 1000."
-keywords: "folding carton snack box, tuck top box, auto-lock bottom carton, food packaging box, snack food carton, custom printed food box, food-grade carton, folding carton manufacturer, Bincai folding carton, ISO 9001 FSC carton, KBA offset carton, snack packaging China, dried fruit box, nut packaging, tea carton box, confectionery box, grease-resistant carton, PE lined box, 18,000 sqm factory (10,000+8,000 smart factory), 22 years manufacturing, 1.7M daily output, OEM carton China, Guangdong packaging factory"
+description: "Custom printed folding carton with tuck-top closure and auto-lock bottom for snack foods, dried fruits, nuts, tea, and confectionery. Food-grade CMYK inks on KBA 1050 4-color + Heidelberg 7+1 UV presses. PE/PET inner liner option for grease resistance. Matte/gloss lamination, spot UV, foil stamping. 18,000 sqm (10,000+8,000 smart factory) ISO 9001 & FSC certified factory. 23 years experience, 1.7M+ color boxes + 220K+ gift boxes daily. MOQ 1000."
+keywords: "folding carton snack box, tuck top box, auto-lock bottom carton, food packaging box, snack food carton, custom printed food box, food-grade carton, folding carton manufacturer, Bincai folding carton, ISO 9001 FSC carton, KBA offset carton, snack packaging China, dried fruit box, nut packaging, tea carton box, confectionery box, grease-resistant carton, PE lined box, 18,000 sqm factory (10,000+8,000 smart factory), 23 years manufacturing, 1.7M daily output, OEM carton China, Guangdong packaging factory"
 categories: ["folding-cartons"]
 params:
   moq: "1000-3000"
@@ -14,7 +14,7 @@ params:
 
 ![Folding Carton Tuck Top](/images/cat-fold-cosmetic.jpg)
 
-Folding carton with tuck-top closure and auto-lock bottom for snack food packaging — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). 18,000 sqm factory (10,000+8,000 smart factory) with KBA and Heidelberg presses. Daily output 1.7 million boxes.
+Folding carton with tuck-top closure and auto-lock bottom for snack food packaging — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 23 years of experience (founded 2003). 18,000 sqm factory (10,000+8,000 smart factory) with KBA and Heidelberg presses. Daily output 1.7 million boxes.
 
 ## Applications
 Tuck-top auto-bottom folding cartons combine simple assembly with secure closure, making them the industry standard for food packaging. Ideal for:
@@ -54,7 +54,7 @@ Tuck-top auto-bottom folding cartons combine simple assembly with secure closure
 - **Free pre-production sample** (freight collect)
 
 ## Factory
-- 22 years of manufacturing excellence
+- 23 years of manufacturing excellence
 - 18,000 sqm production facility (10,000+8,000 smart factory) in Foshan, Guangdong, China
 - KBA 1050 4-color + Heidelberg 7+1 UV presses
 - High-speed folder-gluer lines with auto-bottom capability

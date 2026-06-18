@@ -2,7 +2,7 @@
 title: "Tuck-Top Auto-Bottom Cosmetic Cream Folding Carton — Gold Hot Foil, Spot UV"
 date: 2026-06-15
 draft: false
-description: "Tuck-top auto-bottom folding carton for cosmetic cream jars manufactured by Guangdong Bincai Color Printing Co., Ltd. Gold hot foil stamped branding, spot UV highlight, and auto-lock base for high-speed filling lines. 22 years experience, 18,000 sqm Foshan factory, KBA 1050 + Heidelberg 7+1 UV presses, ISO 9001 & FSC certified, 1.7M boxes/day. OEM for cosmetic brands worldwide."
+description: "Tuck-top auto-bottom folding carton for cosmetic cream jars manufactured by Guangdong Bincai Color Printing Co., Ltd. Gold hot foil stamped branding, spot UV highlight, and auto-lock base for high-speed filling lines. 23 years experience, 18,000 sqm Foshan factory, KBA 1050 + Heidelberg 7+1 UV presses, ISO 9001 & FSC certified, 1.7M boxes/day. OEM for cosmetic brands worldwide."
 keywords: "cosmetic cream folding carton, tuck top auto bottom box, gold hot foil stamping, spot UV carton, cosmetic packaging, folding carton, bincai, guangdong, iso 9001, fsc, kba 1050, heidelberg 7+1 uv, 18000 sqm, 1.7m daily output, OEM, wholesale cosmetic packaging, auto-lock bottom box"
 categories: ["folding-cartons"]
 params:
@@ -54,7 +54,7 @@ Guangdong Bincai Color Printing Co., Ltd. produces this tuck-top auto-bottom fol
 | Lead Time | 10-14 days (custom print); 5-7 days (repeat) |
 | Sample Turnaround | 5-7 days, free pre-production samples |
 | Certifications | ISO 9001:2015, FSC Chain-of-Custody, Sedex SMETA |
-| Experience | 22 years (founded 2003), 350+ workers |
+| Experience | 23 years (founded 2003), 350+ workers |
 
 ## Quality Assurance
 
@@ -72,8 +72,8 @@ Guangdong Bincai Color Printing Co., Ltd. produces this tuck-top auto-bottom fol
 
 ## Why Bincai?
 
-Bincai's folding carton expertise comes from 22 years of supplying high-speed cosmetic filling lines across Asia, Europe, and North America. Our auto-bottom cartons are die-cut on Bobst Novacut 106-E flatbed die-cutters with ±0.3mm precision — critical for filling-line compatibility where a 1mm deviation causes jams. The integrated KBA-to-Heidelberg-to-Bobst production line means your carton moves from printing to die-cutting to finished product in one continuous flow, reducing lead time by 3-5 days versus multi-vendor production. For cosmetic brands, this means faster time-to-market with cartons that run flawlessly on automated filling equipment.
+Bincai's folding carton expertise comes from 23 years of supplying high-speed cosmetic filling lines across Asia, Europe, and North America. Our auto-bottom cartons are die-cut on Bobst Novacut 106-E flatbed die-cutters with ±0.3mm precision — critical for filling-line compatibility where a 1mm deviation causes jams. The integrated KBA-to-Heidelberg-to-Bobst production line means your carton moves from printing to die-cutting to finished product in one continuous flow, reducing lead time by 3-5 days versus multi-vendor production. For cosmetic brands, this means faster time-to-market with cartons that run flawlessly on automated filling equipment.
 
-**Factory Facts:** Founded 2003 | 22 years | 18,000 sqm | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV + Bobst Novacut 106-E | ISO 9001 & FSC | Foshan, Guangdong, China
+**Factory Facts:** Founded 2003 | 23 years | 18,000 sqm | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV + Bobst Novacut 106-E | ISO 9001 & FSC | Foshan, Guangdong, China
 
 **Shipping:** Flat-packed in corrugated master cartons — 2,000-5,000 cartons per case. Production lead time: 10-14 days. Sea freight: 12-16 days to US West Coast.

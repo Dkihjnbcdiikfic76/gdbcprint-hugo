@@ -2,7 +2,7 @@
 title: "Double-Wall Corrugated E-Commerce Shipper with Perforated Tear Strip ISTA 3A"
 date: 2026-06-16
 draft: false
-description: "Double-wall BC-flute corrugated e-commerce shipper with perforated tear strip, ISTA 3A certified by Bincai. BHS 2.5m corrugator, KBA/Heidelberg print, FBA-ready. 22-year ISO 9001 & FSC factory."
+description: "Double-wall BC-flute corrugated e-commerce shipper with perforated tear strip, ISTA 3A certified by Bincai. BHS 2.5m corrugator, KBA/Heidelberg print, FBA-ready. 23-year ISO 9001 & FSC factory."
 keywords: "double-wall corrugated box, e-commerce shipper, perforated tear strip box, ISTA 3A certified box, BC-flute shipping box, FBA compliant box, custom corrugated mailer, Bincai"
 categories: ["corrugated-mailers"]
 params:
@@ -77,7 +77,7 @@ The double-wall BC-flute corrugated e-commerce shipper with perforated tear stri
 
 | Differentiator | Detail |
 |---|---|
-| **22-Year Legacy** | Since 2003 — 500+ global brands served |
+| **23-Year Legacy** | Since 2003 — 500+ global brands served |
 | **18,000 sqm Total** | 10,000 sqm + 8,000 sqm smart factory |
 | **BHS 2.5m Corrugator** | German precision, in-house |
 | **ISTA 3A Certified** | Tested and documented |

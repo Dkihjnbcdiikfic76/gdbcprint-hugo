@@ -2,7 +2,7 @@
 title: "Custom Double-Wall Corrugated Candle Shipping Mailer with Die-Cut Foam Insert"
 date: 2026-06-16
 draft: false
-description: "Custom double-wall corrugated candle shipping mailer with die-cut foam insert — manufactured by Bincai Printing, 22-year ISO 9001 & FSC certified paper box factory. Heavy-duty corrugated candle shipping box with die-cut PE foam insert and tear strip by Guangdong Bincai Color Printing Co., Ltd. — 22 years of manufacturing excellence since 2003. Produced on our in-house BHS 2.5m corrugator and KBA 1050 4-color press across our 18,000 sqm factory (10,000+8,000 sqm smart factory, 2025 expansion). ISO 9001:2015 and FSC certified. Daily output of 1.7 million color boxes plus 450,000+ corrugated boxes. MOQ 500 units with free pre-production samples. Double-wall BC-flute construction with die-cut PE foam cradle secures candles during e-commerce shipping. Custom sizes for single candles, 3-wick jars, and candle gift sets. Heidelberg 7+1 UV offset printing, 10,000 sqm facility, daily output 1.5M boxes."
+description: "Custom double-wall corrugated candle shipping mailer with die-cut foam insert — manufactured by Bincai Printing, 23-year ISO 9001 & FSC certified paper box factory. Heavy-duty corrugated candle shipping box with die-cut PE foam insert and tear strip by Guangdong Bincai Color Printing Co., Ltd. — 23 years of manufacturing excellence since 2003. Produced on our in-house BHS 2.5m corrugator and KBA 1050 4-color press across our 18,000 sqm factory (10,000+8,000 sqm smart factory, 2025 expansion). ISO 9001:2015 and FSC certified. Daily output of 1.7 million color boxes plus 450,000+ corrugated boxes. MOQ 500 units with free pre-production samples. Double-wall BC-flute construction with die-cut PE foam cradle secures candles during e-commerce shipping. Custom sizes for single candles, 3-wick jars, and candle gift sets. Heidelberg 7+1 UV offset printing, 10,000 sqm facility, daily output 1.5M boxes."
 keywords: "corrugated candle mailer, candle shipping box, double-wall corrugated, foam insert candle box, e-commerce candle packaging, candle shipping mailer, custom candle box, Bincai corrugated box, ISO 9001 candle packaging, FSC certified corrugated, die-cut foam insert, tear strip mailer, scented candle box, candle jar shipping, wholesale candle box, OEM candle packaging, Chinese corrugated factory, BC flute box, MOQ 500 candle box, Guangdong corrugated factory, ECT-44 corrugated, fragrance shipping box, candle gift set box, luxury candle mailer"
 categories: ["corrugated-mailers"]
 params:
@@ -20,7 +20,7 @@ tags:
 
 ![Bincai Corrugated Mailer](/images/corrugated-mailers.jpg)
 
-Custom double-wall corrugated candle shipping mailer with die-cut PE foam insert by Guangdong Bincai Color Printing Co., Ltd. — a Diamond Member on Made-in-China.com with 22 years of manufacturing excellence (founded 2003). Engineered specifically for the e-commerce candle industry, this mailer combines BC-flute double-wall corrugated strength with a precision die-cut foam cradle that immobilizes candles during transit. The self-locking bottom and tear-strip opening create a frustration-free unboxing experience. Corrugated board is produced in-house on our BHS 2.5m corrugator, ensuring consistent quality and shorter lead times. Produced across our 18,000 sqm facility (10,000+8,000 smart factory) (2025 expansion). Daily output: 1.7 million color boxes + 450,000+ corrugated boxes.
+Custom double-wall corrugated candle shipping mailer with die-cut PE foam insert by Guangdong Bincai Color Printing Co., Ltd. — a Diamond Member on Made-in-China.com with 23 years of manufacturing excellence (founded 2003). Engineered specifically for the e-commerce candle industry, this mailer combines BC-flute double-wall corrugated strength with a precision die-cut foam cradle that immobilizes candles during transit. The self-locking bottom and tear-strip opening create a frustration-free unboxing experience. Corrugated board is produced in-house on our BHS 2.5m corrugator, ensuring consistent quality and shorter lead times. Produced across our 18,000 sqm facility (10,000+8,000 smart factory) (2025 expansion). Daily output: 1.7 million color boxes + 450,000+ corrugated boxes.
 
 ## Applications
 - Single jar candle e-commerce shipping and subscription box delivery
@@ -64,7 +64,7 @@ Custom double-wall corrugated candle shipping mailer with die-cut PE foam insert
 - Flat-shipping design — mailers ship flat, reducing freight cost by 80–85%
 
 ## Factory
-- 22 years of manufacturing excellence since 2003
+- 23 years of manufacturing excellence since 2003
 - 18,000 sqm factory (10,000+8,000 smart factory)
 - 80+ skilled employees across design, prepress, printing, and finishing
 - BHS 2.5m corrugator + KBA Rapida 105 4-color + Heidelberg Speedmaster XL 7+1 UV
@@ -88,7 +88,7 @@ A: Yes. Standard configuration is a single perimeter tear strip around the middl
 
 ## Manufacturing Excellence at Bincai
 
-Every box is produced in our **10,000 sqm ISO 9001 & FSC-certified facility** with **22 years** of packaging mastery. Our production line features:
+Every box is produced in our **10,000 sqm ISO 9001 & FSC-certified facility** with **23 years** of packaging mastery. Our production line features:
 
 - **BHS 2.5m Corrugator** — in-house double-wall BC-flute production, 250 m/min, 5 stations (single-facer, bridge, double-backer, slitter-scorer, stacker)
 - **Heidelberg Speedmaster XL 7+1 UV** — 7-color offset with inline UV coating, 18,000 sheets/hour

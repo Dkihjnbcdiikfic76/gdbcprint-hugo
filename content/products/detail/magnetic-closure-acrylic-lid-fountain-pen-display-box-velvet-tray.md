@@ -2,8 +2,8 @@
 title: "Magnetic Closure Acrylic-Lid Fountain Pen Display Gift Box — Velvet Tray, Custom Embossing"
 date: 2026-06-14
 draft: false
-description: "Premium magnetic closure fountain pen display box with clear acrylic lid for instant visual merchandising. Velvet-flocked interior tray with precision die-cut pen cradle. 2.5mm rigid greyboard construction with 157gsm art paper wrap, CMYK offset printing on Heidelberg Speedmaster XL 7+1 UV press. ISO 9001 & FSC certified, 22 years manufacturing in 18,000 sqm facility. Ideal for luxury writing instruments, executive gifts, corporate awards, and collector-grade pen presentation. MOQ 500."
-keywords: "fountain pen display box, pen gift box, magnetic closure pen box, acrylic lid pen box, luxury pen packaging, velvet pen tray, custom pen box, fountain pen collector box, corporate pen gift box, executive pen box, Bincai pen box, FSC certified pen box, ISO 9001 pen box, Heidelberg 7+1 UV pen box, 18,000 sqm factory, 22 years manufacturing, Guangdong pen box factory, OEM pen box China, gold foil pen box, embossed pen box, velvet flocking box, acrylic window box, writing instrument packaging, stationery gift box, luxury stationery packaging, pen display case, wooden-look pen box, magnetic lid pen box"
+description: "Premium magnetic closure fountain pen display box with clear acrylic lid for instant visual merchandising. Velvet-flocked interior tray with precision die-cut pen cradle. 2.5mm rigid greyboard construction with 157gsm art paper wrap, CMYK offset printing on Heidelberg Speedmaster XL 7+1 UV press. ISO 9001 & FSC certified, 23 years manufacturing in 18,000 sqm facility. Ideal for luxury writing instruments, executive gifts, corporate awards, and collector-grade pen presentation. MOQ 500."
+keywords: "fountain pen display box, pen gift box, magnetic closure pen box, acrylic lid pen box, luxury pen packaging, velvet pen tray, custom pen box, fountain pen collector box, corporate pen gift box, executive pen box, Bincai pen box, FSC certified pen box, ISO 9001 pen box, Heidelberg 7+1 UV pen box, 18,000 sqm factory, 23 years manufacturing, Guangdong pen box factory, OEM pen box China, gold foil pen box, embossed pen box, velvet flocking box, acrylic window box, writing instrument packaging, stationery gift box, luxury stationery packaging, pen display case, wooden-look pen box, magnetic lid pen box"
 categories: ["magnetic-closure-boxes"]
 params:
   moq: "500-1000"
@@ -18,7 +18,7 @@ params:
 
 A luxury fountain pen demands packaging that does more than protect — it must showcase. The **Magnetic Closure Acrylic-Lid Pen Display Gift Box** achieves both with a transparent 2mm cast acrylic lid that transforms the box into an instant display case. When the customer opens the outer shipping carton, the pen is already visible, presented on a velvet-flocked tray in a museum-quality arrangement. No unwrapping, no unboxing puzzle — just an immediate emotional connection between the recipient and the writing instrument.
 
-Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** in our 18,000 sqm ISO 9001 & FSC certified facility with 22 years of paper box expertise, the box body is built from 2.5mm rigid greyboard wrapped in 157gsm art paper, printed on the **Heidelberg Speedmaster XL 7+1 UV** for photographic color fidelity with inline UV curing. The acrylic lid is laser-cut to precision with flame-polished edges for optical clarity, and the base tray is CNC die-cut to cradle your specific pen model — whether a compact pocket pen or an oversized collector's edition — with ±0.5mm tolerance.
+Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** in our 18,000 sqm ISO 9001 & FSC certified facility with 23 years of paper box expertise, the box body is built from 2.5mm rigid greyboard wrapped in 157gsm art paper, printed on the **Heidelberg Speedmaster XL 7+1 UV** for photographic color fidelity with inline UV curing. The acrylic lid is laser-cut to precision with flame-polished edges for optical clarity, and the base tray is CNC die-cut to cradle your specific pen model — whether a compact pocket pen or an oversized collector's edition — with ±0.5mm tolerance.
 
 **Key Specs at a Glance:** ISO 9001:2015 & FSC® certified | Heidelberg 7+1 UV offset | 1.7M boxes daily output | Transparent acrylic lid | Velvet-flocked pen tray | Magnetic closure | MOQ 500 | 12–16 day lead time
 
@@ -84,7 +84,7 @@ Every production batch undergoes:
 
 A fountain pen is an heirloom object — it carries a story, a brand heritage, and often a significant price point. The packaging must honor that heritage while communicating the brand's values from the first moment of visual contact. Guangdong Bincai understands this deeply.
 
-- **22 years** of premium rigid box manufacturing
+- **23 years** of premium rigid box manufacturing
 - **18,000 sqm** facility — ISO 9001:2015 + FSC® certified
 - **Heidelberg Speedmaster XL 7+1 UV** for unmatched print quality
 - **In-house acrylic fabrication** — no outsourced lid supply chain delays

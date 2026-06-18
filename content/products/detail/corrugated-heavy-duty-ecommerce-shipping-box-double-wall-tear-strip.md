@@ -58,7 +58,7 @@ The BC-flute double-wall construction provides exceptional crush resistance — 
 | Factory | 18,000 sqm (10,000 + 8,000 smart factory), Foshan, Guangdong, China |
 | Certifications | ISO 9001:2015, FSC Chain-of-Custody, Sedex SMETA |
 | Daily Output | 1.7M boxes (1.3M+ corrugated boxes/day) |
-| Experience | 22 years (founded 2003), 350+ skilled workers |
+| Experience | 23 years (founded 2003), 350+ skilled workers |
 | MOQ | 1,000 units per design |
 | Sample Lead Time | 5–7 days (free pre-production samples) |
 | Production Lead Time | 10–12 days after sample approval |
@@ -106,9 +106,9 @@ The BC-flute double-wall construction provides exceptional crush resistance — 
 
 Bincai's BHS 2.5m Corrugator is one of the most advanced in southern China's Pearl River Delta, producing B, C, E, and N flute on demand with inline ECT monitoring. Combined with Bobst SP 102 BMA die-cutting (7,500 sheets/hour) and Emmeci MC2004 automated box making, our corrugated line delivers industrial-grade consistency at 1.3M+ boxes per day.
 
-With 22 years of corrugated manufacturing experience and an 18,000 sqm integrated facility, Bincai gives D2C brands and fulfillment centers a single-source partner for branded shipping boxes — from board production to printing to die-cutting to finished product. FOB Shenzhen/Guangzhou/Hong Kong ports with 10–12 day production lead time.
+With 23 years of corrugated manufacturing experience and an 18,000 sqm integrated facility, Bincai gives D2C brands and fulfillment centers a single-source partner for branded shipping boxes — from board production to printing to die-cutting to finished product. FOB Shenzhen/Guangzhou/Hong Kong ports with 10–12 day production lead time.
 
-**Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | BHS 2.5m Corrugator + Bobst SP 102 BMA + Emmeci MC2004 | KBA Rapida 105 + Heidelberg Speedmaster CD 102 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
+**Factory Facts:** Founded 2003 | 23 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | BHS 2.5m Corrugator + Bobst SP 102 BMA + Emmeci MC2004 | KBA Rapida 105 + Heidelberg Speedmaster CD 102 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
 
 **Shipping:** Flat-packed, nested. Palletized: 200–500 units per pallet depending on size. FOB Shenzhen/Guangzhou/Hong Kong. Production 10–12 days + 20–30 days sea freight (corrugated ships in higher volume, slightly longer transit).
 

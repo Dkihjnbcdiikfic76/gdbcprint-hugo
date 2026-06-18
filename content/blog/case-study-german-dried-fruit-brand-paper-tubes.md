@@ -3,7 +3,7 @@ title: "How a German Dried Fruit & Nuts Brand Built a 2.5-Year Paper Tube Packag
 date: 2026-06-17
 draft: false
 image: "/images/hero-factory.webp"
-description: "A German dried fruit and freeze-dried snacks brand consolidated packaging for nuts, dried fruit, and trail mixes into Bincai's aluminum-lined kraft paper tubes. 5 orders over 2.5 years, 64,000+ units, airtight moisture barrier for EU shelf-life requirements. 22 years, 18,000 sqm, KBA 1050 + Heidelberg 7+1 UV, ISO 9001:2015 & FSC-C147399, 1.7M daily output."
+description: "A German dried fruit and freeze-dried snacks brand consolidated packaging for nuts, dried fruit, and trail mixes into Bincai's aluminum-lined kraft paper tubes. 5 orders over 2.5 years, 64,000+ units, airtight moisture barrier for EU shelf-life requirements. 23 years, 18,000 sqm, KBA 1050 + Heidelberg 7+1 UV, ISO 9001:2015 & FSC-C147399, 1.7M daily output."
 keywords: "case study, Germany, dried fruit packaging, nut packaging, paper tubes, aluminum foil tubes, freeze-dried food packaging, food-grade kraft, EU food contact, moisture barrier, Guangdong Bincai, ISO 9001, FSC, KBA 1050, Heidelberg 7+1 UV, 18000 sqm, Foshan, paper box, packaging manufacturer, China, OEM, custom, food-grade, aluminum-lined"
 ---
 
@@ -66,6 +66,6 @@ The brand now runs recurring orders with predictable 15–25 day lead times, uni
 
 ---
 
-**Ready to package your food products for European retail?** Send us your product specifications for a free compliance documentation package and pre-production sample in 5–7 working days. 22 years, 18,000 sqm dual factory, ISO 9001:2015 & FSC-C147399 certified, 1.7M units daily capacity — one partner, every SKU.
+**Ready to package your food products for European retail?** Send us your product specifications for a free compliance documentation package and pre-production sample in 5–7 working days. 23 years, 18,000 sqm dual factory, ISO 9001:2015 & FSC-C147399 certified, 1.7M units daily capacity — one partner, every SKU.
 
 [→ Request your sample](/contact/)  |  📧 qo82@icloud.com  |  📱 +86-18934352881

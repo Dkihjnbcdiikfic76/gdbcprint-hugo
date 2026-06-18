@@ -2,7 +2,7 @@
 title: "Magnetic Closure Art Print Portfolio Box Acid-Free Lining A3 Size"
 date: 2026-06-15
 draft: false
-description: "Magnetic closure art print portfolio box with acid-free archival lining for A3, A4, and custom art print storage. Manufactured by Bincai: KBA 1050 4-color offset + Heidelberg 7+1 UV press, 1,600gsm heavy greyboard, acid-free uncoated paper lining (pH 7.5–8.5), neodymium magnetic closure, custom title label, 10,000+8,000sqm dual factory, 22 years experience, ISO 9001:2015 & FSC certified, 1.7M daily output. MOQ 300. Free pre-production samples 5-7 days."
+description: "Magnetic closure art print portfolio box with acid-free archival lining for A3, A4, and custom art print storage. Manufactured by Bincai: KBA 1050 4-color offset + Heidelberg 7+1 UV press, 1,600gsm heavy greyboard, acid-free uncoated paper lining (pH 7.5–8.5), neodymium magnetic closure, custom title label, 10,000+8,000sqm dual factory, 23 years experience, ISO 9001:2015 & FSC certified, 1.7M daily output. MOQ 300. Free pre-production samples 5-7 days."
 keywords: "art print portfolio box, archival storage box, acid-free art box, A3 print box, magnetic closure portfolio, artist portfolio packaging, museum-grade storage box, custom print box, Bincai, Guangdong packaging factory, ISO 9001 FSC box, art gallery packaging, limited edition print box, photo print storage box"
 categories: ["magnetic-closure-boxes"]
 params:
@@ -14,7 +14,7 @@ params:
 
 ![Bincai Magnetic Closure Boxes](/images/magnetic-closure-boxes.jpg)
 
-Magnetic closure art print portfolio box with acid-free archival lining — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). Designed for artists, galleries, museums, and limited-edition print publishers, this rigid portfolio box features acid-free lining that protects prints, photographs, and fine art papers from yellowing and degradation. The magnetic closure provides secure storage while the flat-lay lid design allows the box to double as a presentation platform. KBA 1050 4-color and Heidelberg 7+1 UV presses deliver precision printing across 18,000 sqm factory (10,000+8,000 smart factory). Daily output 1.7 million boxes.
+Magnetic closure art print portfolio box with acid-free archival lining — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 23 years of experience (founded 2003). Designed for artists, galleries, museums, and limited-edition print publishers, this rigid portfolio box features acid-free lining that protects prints, photographs, and fine art papers from yellowing and degradation. The magnetic closure provides secure storage while the flat-lay lid design allows the box to double as a presentation platform. KBA 1050 4-color and Heidelberg 7+1 UV presses deliver precision printing across 18,000 sqm factory (10,000+8,000 smart factory). Daily output 1.7 million boxes.
 
 ## Applications
 - Limited-edition art print and photography portfolio packaging
@@ -53,7 +53,7 @@ Magnetic closure art print portfolio box with acid-free archival lining — manu
 - MOQ 300–500 units, trial orders and OEM/ODM accepted
 
 ## Factory
-- 22 years of manufacturing excellence since 2003
+- 23 years of manufacturing excellence since 2003
 - 18,000 sqm factory (10,000+8,000 smart factory)
 - 80+ skilled employees across design, prepress, printing, and finishing
 - KBA 1050 4-color + Heidelberg 7+1 UV presses
@@ -76,7 +76,7 @@ A: Yes. The 1,600gsm greyboard construction with reinforced corners and magnetic
 
 When you partner with Bincai, you're choosing a packaging manufacturer with the scale, certification, and technical capability to deliver consistent quality at competitive pricing:
 
-- **22 Years of Manufacturing Excellence** — Founded in 2003, Bincai has spent over two decades refining premium rigid box production. Our experience spans art, photography, publishing, and luxury retail packaging, giving us deep cross-industry knowledge that benefits every project.
+- **23 Years of Manufacturing Excellence** — Founded in 2003, Bincai has spent over two decades refining premium rigid box production. Our experience spans art, photography, publishing, and luxury retail packaging, giving us deep cross-industry knowledge that benefits every project.
 
 - **18,000 sqm Dual Factory** — Our campus includes a 10,000 sqm primary production facility plus an 8,000 sqm smart factory. This dual-site layout provides production redundancy, parallel order processing, and the capacity to handle rush orders without disrupting ongoing production.
 

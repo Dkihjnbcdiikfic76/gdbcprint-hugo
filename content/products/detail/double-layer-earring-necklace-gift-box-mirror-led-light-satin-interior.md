@@ -2,7 +2,7 @@
 title: "Double-Layer Earring & Necklace Gift Box — Mirror with LED Light, Satin Interior"
 date: 2026-06-15
 draft: false
-description: "Double-layer jewelry gift box with built-in LED-lit mirror and satin interior, manufactured by Guangdong Bincai Color Printing Co., Ltd. Designed for earring and necklace sets. 22 years experience, 18,000 sqm Foshan factory, KBA 1050 + Heidelberg 7+1 UV presses, ISO 9001 & FSC certified, 1.7M boxes/day. OEM for luxury jewelry brands globally."
+description: "Double-layer jewelry gift box with built-in LED-lit mirror and satin interior, manufactured by Guangdong Bincai Color Printing Co., Ltd. Designed for earring and necklace sets. 23 years experience, 18,000 sqm Foshan factory, KBA 1050 + Heidelberg 7+1 UV presses, ISO 9001 & FSC certified, 1.7M boxes/day. OEM for luxury jewelry brands globally."
 keywords: "double layer jewelry box, earring necklace gift box, LED mirror jewelry box, satin interior gift box, jewelry packaging, bincai, guangdong, iso 9001, fsc, kba 1050, heidelberg 7+1 uv, 18000 sqm, 1.7m daily output, OEM, custom jewelry packaging, luxury gift box, magnetic closure"
 categories: ["jewelry-boxes"]
 params:
@@ -57,7 +57,7 @@ Guangdong Bincai Color Printing Co., Ltd. manufactures this double-layer earring
 | Sample Turnaround | 5-7 days, free pre-production samples |
 | Factory | 18,000 sqm, Foshan, Pearl River Delta, China |
 | Certifications | ISO 9001:2015, FSC Chain-of-Custody, Sedex SMETA |
-| Experience | 22 years (founded 2003), 350+ workers |
+| Experience | 23 years (founded 2003), 350+ workers |
 
 ## Quality Assurance
 
@@ -75,8 +75,8 @@ Guangdong Bincai Color Printing Co., Ltd. manufactures this double-layer earring
 
 ## Why Bincai?
 
-Bincai's jewelry packaging expertise is built on 22 years of manufacturing premium rigid boxes for fine jewelry brands. Our in-house LED module assembly line eliminates the need for third-party electronics sourcing — we integrate the mirror, LED array, battery box, and switch directly into the box during assembly. The dual-layer design is die-cut and assembled in one continuous production flow, reducing per-unit cost by 15-20% versus multi-vendor assembly. For jewelry brands, this means a single supplier delivers the complete presentation package — box, insert, LED module, and custom branding — with consistent quality across every unit.
+Bincai's jewelry packaging expertise is built on 23 years of manufacturing premium rigid boxes for fine jewelry brands. Our in-house LED module assembly line eliminates the need for third-party electronics sourcing — we integrate the mirror, LED array, battery box, and switch directly into the box during assembly. The dual-layer design is die-cut and assembled in one continuous production flow, reducing per-unit cost by 15-20% versus multi-vendor assembly. For jewelry brands, this means a single supplier delivers the complete presentation package — box, insert, LED module, and custom branding — with consistent quality across every unit.
 
-**Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
+**Factory Facts:** Founded 2003 | 23 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
 
 **Shipping:** Flat-packed unassembled with LED module pre-installed in lid — saves 60% freight volume. Production lead time: 12-15 days. Sea freight: 12-16 days to US West Coast, 25-30 days to Europe.

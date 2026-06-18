@@ -2,7 +2,7 @@
 title: "Kraft Mushroom Mycelium Packaging Box — 100% Home-Compostable Custom Print"
 date: 2026-06-11
 draft: false
-description: "Revolutionary mushroom mycelium-based packaging box — 100% home-compostable, grown-to-shape in 7 days. FSC-certified kraft outer wrap with soy-ink custom printing on KBA 1050 4-color press. Carbon-negative production: mycelium sequesters CO₂ during growth. Manufactured by Guangdong Bincai Color Printing — 22 years experience, ISO 9001:2015 & FSC certified, 18,000 sqm factory, Heidelberg 7+1 UV press, 1.7M boxes daily output, MOQ 500."
+description: "Revolutionary mushroom mycelium-based packaging box — 100% home-compostable, grown-to-shape in 7 days. FSC-certified kraft outer wrap with soy-ink custom printing on KBA 1050 4-color press. Carbon-negative production: mycelium sequesters CO₂ during growth. Manufactured by Guangdong Bincai Color Printing — 23 years experience, ISO 9001:2015 & FSC certified, 18,000 sqm factory, Heidelberg 7+1 UV press, 1.7M boxes daily output, MOQ 500."
 keywords: "mushroom packaging box, mycelium packaging, compostable packaging box, sustainable packaging, mushroom-based packaging, home compostable box, carbon-negative packaging, eco-friendly packaging, biodegradable mushroom box, mycelium gift box, sustainable packaging manufacturer, Bincai Color Printing, FSC certified mushroom box, wholesale eco packaging, zero-waste packaging solution"
 categories: ["kraft-eco-boxes"]
 params:
@@ -14,7 +14,7 @@ params:
 
 ![Bincai Kraft Eco Boxes](/images/kraft-eco-box.jpg)
 
-Revolutionary mushroom mycelium-based packaging box — grown-to-shape in 7 days using agricultural hemp hurd substrate inoculated with mycelium spores. 100% home-compostable, breaks down in garden soil within 45 days. FSC-certified kraft outer wrap with soy-ink custom printing. Manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). 18,000 sqm factory with KBA 1050 4-color and Heidelberg 7+1 UV presses. Daily output 1.7 million boxes.
+Revolutionary mushroom mycelium-based packaging box — grown-to-shape in 7 days using agricultural hemp hurd substrate inoculated with mycelium spores. 100% home-compostable, breaks down in garden soil within 45 days. FSC-certified kraft outer wrap with soy-ink custom printing. Manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 23 years of experience (founded 2003). 18,000 sqm factory with KBA 1050 4-color and Heidelberg 7+1 UV presses. Daily output 1.7 million boxes.
 
 ## Applications
 

@@ -3,7 +3,7 @@ title: "Luxury Brooch Pin Display Box with Velvet Lining & Satin Pillow — Magn
 date: 2026-06-14
 draft: false
 description: "Luxury brooch pin display box with velvet lining and satin pillow insert by Guangdong Bincai Color Printing. Magnetic flap closure, custom gold foil logo, 2.0mm rigid greyboard construction. Ideal for vintage brooches, lapel pins, cameo pins, and collectible jewelry. ISO 9001 certified, FSC certified materials. 18,000 sqm factory, KBA 1050 + Heidelberg 7+1 UV presses, 1.7M daily output, MOQ 500."
-keywords: "brooch display box, pin display box, velvet jewelry box, satin pillow box, magnetic flap box, luxury brooch packaging, lapel pin gift box, cameo display box, Bincai Color Printing, custom jewelry packaging, 22 years experience, ISO 9001, FSC certified, Guangdong packaging factory, OEM jewelry box China"
+keywords: "brooch display box, pin display box, velvet jewelry box, satin pillow box, magnetic flap box, luxury brooch packaging, lapel pin gift box, cameo display box, Bincai Color Printing, custom jewelry packaging, 23 years experience, ISO 9001, FSC certified, Guangdong packaging factory, OEM jewelry box China"
 categories: ["jewelry-boxes"]
 params:
   moq: "500"
@@ -25,7 +25,7 @@ Elegant brooch and lapel pin display box with plush velvet-lined interior and re
 - Optional debossing or blind embossing for understated luxury branding
 - KBA 1050 4-color offset + Heidelberg 7+1 UV for spot coatings and varnish
 - ISO 9001:2015 certified quality management, FSC certified sustainable materials
-- 22 years experience, 18,000 sqm factory, daily output 1.7 million boxes
+- 23 years experience, 18,000 sqm factory, daily output 1.7 million boxes
 
 ## Applications
 

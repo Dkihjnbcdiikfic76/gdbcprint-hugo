@@ -1,6 +1,6 @@
 ---
 title: "Contact Bincai Color Printing"
-description: "Contact Guangdong Bincai Color Printing for custom paper box quotes. 22 years ISO 9001 FSC certified. Free samples. Factory visits welcome. Foshan, China."
+description: "Contact Guangdong Bincai Color Printing for custom paper box quotes. 23 years ISO 9001 FSC certified. Free samples. Factory visits welcome. Foshan, China."
 ---
 
 ![Bincai Factory](/images/factory.jpg)
@@ -18,7 +18,7 @@ For custom paper box inquiries, samples, or factory visits:
 
 ## Why Work With Bincai
 
-- **22 Years** of manufacturing excellence since 2003
+- **23 Years** of manufacturing excellence since 2003
 - **ISO 9001 & FSC** certified quality and sustainability
 - **10,000 m²** factory with KBA & Heidelberg presses
 - **1.7 Million + 220K+ Gift Boxes** daily production capacity

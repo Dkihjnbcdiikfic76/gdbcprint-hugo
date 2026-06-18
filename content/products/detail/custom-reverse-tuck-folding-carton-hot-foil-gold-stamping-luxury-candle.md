@@ -2,8 +2,8 @@
 title: "Custom Reverse-Tuck Folding Carton Hot Foil Gold Stamping Luxury Candle Packaging"
 date: 2026-06-15
 draft: false
-description: "Custom Reverse-Tuck End Folding Carton with Hot Foil Gold Stamping for Luxury Candle Packaging by Guangdong Bincai Color Printing — 22 years folding carton manufacturing since 2003. Reverse-tuck end (RTE) construction in 350gsm CCNB/white back board with 18pt thickness. Hot foil gold stamping on lid panel with deep debossing for tactile brand elevation. Soft-touch matte lamination for velvet-like feel. Printed on Heidelberg 7+1 UV offset press. ISO 9001:2015 and FSC Chain-of-Custody certified. 18,000 sqm factory, 1.7M daily output. MOQ 500, free samples 3-5 days. Ideal for scented candles, soy candles, artisan candle brands, luxury home fragrance, and premium gift candle collections."
-keywords: "reverse tuck end carton, folding carton candle box, hot foil stamping box, gold foil candle packaging, luxury candle box, RTE folding carton, candle gift box, scented candle packaging, soy candle box, artisan candle packaging, home fragrance box, candle brand packaging, custom folding carton, hot foil gold stamping, matte lamination candle box, soft-touch carton, ISO 9001 FSC carton, KBA 1050 folding carton, Heidelberg UV carton, 22 years folding carton manufacturer, Guangdong Bincai, Guangzhou folding carton factory, OEM candle box, MOQ 500 folding carton, wholesale candle packaging, custom candle box China, luxury home fragrance packaging, Bincai Color Printing"
+description: "Custom Reverse-Tuck End Folding Carton with Hot Foil Gold Stamping for Luxury Candle Packaging by Guangdong Bincai Color Printing — 23 years folding carton manufacturing since 2003. Reverse-tuck end (RTE) construction in 350gsm CCNB/white back board with 18pt thickness. Hot foil gold stamping on lid panel with deep debossing for tactile brand elevation. Soft-touch matte lamination for velvet-like feel. Printed on Heidelberg 7+1 UV offset press. ISO 9001:2015 and FSC Chain-of-Custody certified. 18,000 sqm factory, 1.7M daily output. MOQ 500, free samples 3-5 days. Ideal for scented candles, soy candles, artisan candle brands, luxury home fragrance, and premium gift candle collections."
+keywords: "reverse tuck end carton, folding carton candle box, hot foil stamping box, gold foil candle packaging, luxury candle box, RTE folding carton, candle gift box, scented candle packaging, soy candle box, artisan candle packaging, home fragrance box, candle brand packaging, custom folding carton, hot foil gold stamping, matte lamination candle box, soft-touch carton, ISO 9001 FSC carton, KBA 1050 folding carton, Heidelberg UV carton, 23 years folding carton manufacturer, Guangdong Bincai, Guangzhou folding carton factory, OEM candle box, MOQ 500 folding carton, wholesale candle packaging, custom candle box China, luxury home fragrance packaging, Bincai Color Printing"
 categories: ["folding-cartons"]
 params:
   moq: "500-1000"
@@ -16,7 +16,7 @@ params:
 
 ## Product Overview
 
-Our custom reverse-tuck end (RTE) folding carton delivers shelf-dominating presence for luxury candle brands through the interplay of hot foil gold stamping against deep matte black board. The RTE construction — with top tuck flap and reverse-bottom tuck — provides secure closure while enabling easy access to the candle inside. Constructed from 350gsm CCNB with an 18pt caliper, the carton offers substantial rigidity and premium feel. Hot foil gold stamping with deep debossing on the facing panel creates a dimensional brand mark that consumers instinctively touch — driving sensory engagement at retail. Manufactured on our Heidelberg 7+1 UV offset press with precision Bobst die-cutting at Bincai's 18,000 sqm integrated factory. Every carton passes 7-stage QC verification from board caliper measurement (ISO 534) to final AQL sampling. With 22 years of folding carton expertise and 1.7M daily output capacity, we are the trusted partner for premium candle and home fragrance brands.
+Our custom reverse-tuck end (RTE) folding carton delivers shelf-dominating presence for luxury candle brands through the interplay of hot foil gold stamping against deep matte black board. The RTE construction — with top tuck flap and reverse-bottom tuck — provides secure closure while enabling easy access to the candle inside. Constructed from 350gsm CCNB with an 18pt caliper, the carton offers substantial rigidity and premium feel. Hot foil gold stamping with deep debossing on the facing panel creates a dimensional brand mark that consumers instinctively touch — driving sensory engagement at retail. Manufactured on our Heidelberg 7+1 UV offset press with precision Bobst die-cutting at Bincai's 18,000 sqm integrated factory. Every carton passes 7-stage QC verification from board caliper measurement (ISO 534) to final AQL sampling. With 23 years of folding carton expertise and 1.7M daily output capacity, we are the trusted partner for premium candle and home fragrance brands.
 
 ## Design Features
 
@@ -82,7 +82,7 @@ We default to hot foil because candle brands benefit from the **consumer touch t
 | **Die-Cutting** | Bobst Autoplaten Speedwave, ±0.15mm registration |
 | **Daily Output** | 1.7M folding cartons daily |
 | **Factory Size** | 18,000 sqm (10,000 + 8,000 smart factory 2025) |
-| **Experience** | 22 Years Paper Box Manufacturing (Founded 2003) |
+| **Experience** | 23 Years Paper Box Manufacturing (Founded 2003) |
 | **Certifications** | ISO 9001:2015, FSC® Chain-of-Custody |
 | **Lead Time** | 7–12 days standard, 5–7 days expedited |
 | **Sample Time** | 3–5 days free pre-production sample |
@@ -121,7 +121,7 @@ We default to hot foil because candle brands benefit from the **consumer touch t
 
 ## Why Choose Bincai
 
-- **22 Years Carton Expertise**: Manufacturing folding cartons since 2003 — 3+ billion cartons produced for global brands
+- **23 Years Carton Expertise**: Manufacturing folding cartons since 2003 — 3+ billion cartons produced for global brands
 - **18,000 sqm Integrated Factory**: In-house prepress, printing, die-cutting, foil stamping, and gluing under one roof
 - **1.7M Daily Output**: Industrial-scale capacity without compromising on premium finish quality
 - **Dual Press Capability**: KBA 1050 for volume runs + Heidelberg 7+1 UV for premium foil/laminated finishes

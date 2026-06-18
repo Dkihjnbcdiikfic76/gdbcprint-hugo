@@ -2,7 +2,7 @@
 title: "Velvet Three-Tier Jewelry Trainer Display Box — LED Mirror, Lock & Key, Travel Case"
 date: 2026-06-15
 draft: false
-description: "Professional three-tier velvet jewelry display and storage box manufactured by Guangdong Bincai Color Printing Co., Ltd. (22 years, founded 2003). Features LED-lit mirror lid, lock-and-key security, and three spacious drawers for rings, earrings, bracelets, necklaces, and watches. Produced on KBA Rapida 1050 4-color and Heidelberg CD 102 7+1 UV presses in our 18,000 sqm Foshan facility. ISO 9001:2015 and FSC Chain-of-Custody certified. 220,000+ rigid boxes daily output. Ideal for jewelry retailers, trade shows, traveling sales reps, and premium consumer gifting."
+description: "Professional three-tier velvet jewelry display and storage box manufactured by Guangdong Bincai Color Printing Co., Ltd. (23 years, founded 2003). Features LED-lit mirror lid, lock-and-key security, and three spacious drawers for rings, earrings, bracelets, necklaces, and watches. Produced on KBA Rapida 1050 4-color and Heidelberg CD 102 7+1 UV presses in our 18,000 sqm Foshan facility. ISO 9001:2015 and FSC Chain-of-Custody certified. 220,000+ rigid boxes daily output. Ideal for jewelry retailers, trade shows, traveling sales reps, and premium consumer gifting."
 keywords: "velvet jewelry display box, three-tier jewelry box, LED mirror jewelry case, lock and key jewelry box, jewelry trainer display, traveling jewelry case, velvet jewelry organizer, bincai, guangdong, iso 9001, fsc certified, kba 1050, heidelberg 7+1 uv, 18000 sqm, 1.7m daily output, OEM, Foshan China"
 categories: ["jewelry-boxes"]
 params:
@@ -14,7 +14,7 @@ params:
 
 ![Bincai Jewelry Boxes — Velvet Three-Tier LED Display Case](/images/cat-rigid-jewelry.jpg)
 
-The **Velvet Three-Tier Jewelry Trainer Display Box** is a comprehensive jewelry presentation and storage solution designed for professionals who need to showcase, transport, and secure valuable collections. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** (founded 2003, 22 years experience) at our 18,000 sqm dual-factory facility in Foshan, this display case combines the elegance of a luxury consumer jewelry box with the functionality of a professional trade-show trainer. Produced on our **KBA Rapida 1050 4-color offset** and **Heidelberg Speedmaster CD 102 7+1 UV** presses with 220,000+ rigid boxes daily output, we deliver consistent quality at any volume.
+The **Velvet Three-Tier Jewelry Trainer Display Box** is a comprehensive jewelry presentation and storage solution designed for professionals who need to showcase, transport, and secure valuable collections. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** (founded 2003, 23 years experience) at our 18,000 sqm dual-factory facility in Foshan, this display case combines the elegance of a luxury consumer jewelry box with the functionality of a professional trade-show trainer. Produced on our **KBA Rapida 1050 4-color offset** and **Heidelberg Speedmaster CD 102 7+1 UV** presses with 220,000+ rigid boxes daily output, we deliver consistent quality at any volume.
 
 The top lid opens to reveal an **LED-lit mirror** — activated by a magnetic reed switch when the lid is raised — providing optimal lighting for customers to try on pieces and see their reflection. Three spacious pull-out drawers, each lined in premium velvet flocking with die-cut grooves and compartments, organize rings, earrings, bracelets, necklaces, and watches in dedicated sections. A **solid brass lock and key** secures all three drawers simultaneously, making this box equally suited for retail counter display, trade-show floor use, and secure overnight storage. The MDF-reinforced frame provides the structural rigidity needed for transport, while the soft velvet exterior and gold-plated hardware deliver the luxury aesthetic expected in fine jewelry retail.
 
@@ -47,7 +47,7 @@ The top lid opens to reveal an **LED-lit mirror** — activated by a magnetic re
 | Specification | Detail |
 |---|---|
 | Manufacturer | Guangdong Bincai Color Printing Co., Ltd. — Foshan, Guangdong, China |
-| Experience | 22 years (founded 2003) |
+| Experience | 23 years (founded 2003) |
 | Factory Size | 18,000 sqm dual-factory (10,000 sqm main + 8,000 sqm smart factory) |
 | Printing Presses | KBA Rapida 1050 4-color offset + Heidelberg Speedmaster CD 102 7+1 UV |
 | Frame | MDF (Medium Density Fiberboard) — E1 grade, formaldehyde emission ≤ 0.5 mg/L; 9–12mm thickness |
@@ -123,7 +123,7 @@ The three-tier format isn't just "more storage" — it transforms how jewelry is
 
 Jewelry display boxes are Bincai's specialty — we've manufactured over 5 million velvet-lined cases for jewelry brands, retailers, and wholesalers across 40+ countries. The three-tier trainer box represents the intersection of our rigid box expertise, flocking technology, and multi-component assembly capability. Every step — MDF frame construction, velvet electrostatic flocking, LED integration, drawer assembly, and lock fitting — happens in our 18,000 sqm Foshan facility under a single quality management system. This vertical integration means faster turnaround, consistent quality, and direct accountability. Whether you need 500 units for a boutique jewelry chain's store rollout or 20,000 for a global brand's holiday gift-with-purchase program, our 220,000+ daily rigid box capacity is ready to deliver.
 
-**Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA Rapida 1050 + Heidelberg CD 102 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
+**Factory Facts:** Founded 2003 | 23 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA Rapida 1050 + Heidelberg CD 102 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
 
 **Shipping:** Ships assembled with protective foam corners and polybag wrap. Per-unit weight: 2.5–4.5 kg depending on size. Standard production lead time 14–18 business days. Air freight and sea freight options available.
 

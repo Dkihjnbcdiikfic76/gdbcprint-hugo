@@ -2,7 +2,7 @@
 title: "Kraft Paper Soap Sleeve Box with Die-Cut Window and Soy-Based Ink"
 date: 2026-06-14
 draft: false
-description: "100% recyclable kraft paper soap sleeve box with custom die-cut display window, printed with eco-friendly soy-based CMYK offset inks. FSC-certified 350gsm kraft board, water-based biodegradable adhesive, zero plastic. Manufactured by Guangdong Bincai Color Printing — 22 years experience, ISO 9001:2015 & FSC certified, 18,000 sqm factory (10,000+8,000 smart factory), KBA 1050 4-color & Heidelberg 7+1 UV presses, 1.7M boxes daily output. MOQ 500. Serving 60+ countries worldwide."
+description: "100% recyclable kraft paper soap sleeve box with custom die-cut display window, printed with eco-friendly soy-based CMYK offset inks. FSC-certified 350gsm kraft board, water-based biodegradable adhesive, zero plastic. Manufactured by Guangdong Bincai Color Printing — 23 years experience, ISO 9001:2015 & FSC certified, 18,000 sqm factory (10,000+8,000 smart factory), KBA 1050 4-color & Heidelberg 7+1 UV presses, 1.7M boxes daily output. MOQ 500. Serving 60+ countries worldwide."
 keywords: "kraft paper soap box, sleeve packaging box, die-cut window box, soy-based ink printing, eco-friendly soap packaging, sustainable bath product box, biodegradable soap box, Bincai Color Printing, Guangdong paper box manufacturer, FSC certified kraft box, plastic-free packaging, artisanal soap packaging, bath bomb packaging box, solid shampoo box, zero-waste skincare packaging, custom sleeve box, wholesale eco soap box, ISO 9001 kraft packaging, compostable soap box, natural product packaging, Foshan eco packaging manufacturer, recyclable paper sleeve, organic skincare box, farmers market packaging"
 categories: ["kraft-eco-boxes"]
 params:
@@ -60,7 +60,7 @@ Our kraft paper soap sleeve box combines minimalist eco-design with product visi
 || **Surface Finish** | Natural uncoated or aqueous matte coating (biodegradable) |
 || **Press Lines** | Heidelberg Speedmaster XL 7+1 UV × 2 / KBA Rapida 105 4-color × 3 |
 || **Factory** | 18,000 sqm (10,000 + 8,000 smart factory) in Foshan, Guangdong |
-|| **Experience** | 22 years (founded 2003) — serving 60+ countries worldwide |
+|| **Experience** | 23 years (founded 2003) — serving 60+ countries worldwide |
 || **Daily Output** | 1.7M+ boxes across dual factories |
 || **Certifications** | ISO 9001:2015, FSC® Chain-of-Custody |
 
@@ -114,4 +114,4 @@ While generic tuck-end soap boxes are the commodity default, Bincai's kraft slee
 
 ---
 
-*Guangdong Bincai Color Printing Co., Ltd. — 22 years of packaging excellence. ISO 9001:2015 & FSC certified. 18,000 sqm Foshan facility (10,000+8,000 smart factory). Daily output: 1.7M+ boxes. KBA 1050 4-color & Heidelberg 7+1 UV presses. Serving 60+ countries worldwide.*
+*Guangdong Bincai Color Printing Co., Ltd. — 23 years of packaging excellence. ISO 9001:2015 & FSC certified. 18,000 sqm Foshan facility (10,000+8,000 smart factory). Daily output: 1.7M+ boxes. KBA 1050 4-color & Heidelberg 7+1 UV presses. Serving 60+ countries worldwide.*

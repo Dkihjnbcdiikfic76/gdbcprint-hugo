@@ -2,8 +2,8 @@
 title: "Double-Wall Corrugated Heavy-Duty E-Commerce Shipping Mailer"
 date: 2026-06-16
 draft: false
-description: "Double-wall BC-flute corrugated heavy-duty e-commerce shipping mailer for direct-to-consumer brands requiring maximum transit protection. Manufactured by Guangdong Bincai Color Printing Co., Ltd. with 22 years of corrugated packaging expertise. BC-flute double-wall construction (7mm combined thickness) with 125gsm Kraft/110gsm Medium/125gsm Kraft/110gsm Medium/125gsm Kraft 5-ply structure, delivering 2.5× the burst strength of single-wall B-flute. Self-locking crash-lock bottom, tear-strip opening, crush-resistant edge crush test (ECT) 44 lb/in. BHS 2.5m corrugator line with inline flexo printing (4-color), rotary die-cutting. Bincai's 18,000 sqm Foshan facility, ISO 9001:2015 & FSC certified. 1.7M boxes daily. MOQ 1,000."
-keywords: "double wall corrugated mailer, heavy duty shipping box, e-commerce mailer box, BC flute corrugated, crash lock bottom mailer, tear strip mailer, shipping box, heavy duty corrugated box, direct to consumer packaging, DTC shipping box, corrugated mailer manufacturer, Bincai, BHS corrugator, ISO 9001 FSC, ECT 44 corrugated, 22 years experience, 18,000 sqm, 1.7M daily output, Guangdong corrugated box factory, OEM shipping box China, Diamond Supplier MIC"
+description: "Double-wall BC-flute corrugated heavy-duty e-commerce shipping mailer for direct-to-consumer brands requiring maximum transit protection. Manufactured by Guangdong Bincai Color Printing Co., Ltd. with 23 years of corrugated packaging expertise. BC-flute double-wall construction (7mm combined thickness) with 125gsm Kraft/110gsm Medium/125gsm Kraft/110gsm Medium/125gsm Kraft 5-ply structure, delivering 2.5× the burst strength of single-wall B-flute. Self-locking crash-lock bottom, tear-strip opening, crush-resistant edge crush test (ECT) 44 lb/in. BHS 2.5m corrugator line with inline flexo printing (4-color), rotary die-cutting. Bincai's 18,000 sqm Foshan facility, ISO 9001:2015 & FSC certified. 1.7M boxes daily. MOQ 1,000."
+keywords: "double wall corrugated mailer, heavy duty shipping box, e-commerce mailer box, BC flute corrugated, crash lock bottom mailer, tear strip mailer, shipping box, heavy duty corrugated box, direct to consumer packaging, DTC shipping box, corrugated mailer manufacturer, Bincai, BHS corrugator, ISO 9001 FSC, ECT 44 corrugated, 23 years experience, 18,000 sqm, 1.7M daily output, Guangdong corrugated box factory, OEM shipping box China, Diamond Supplier MIC"
 categories: ["corrugated-mailers"]
 params:
   moq: "1000-3000"
@@ -82,7 +82,7 @@ Bincai's corrugated mailers are among the most recycled packaging products globa
 | Line Speed | 300 m/min | 120–180 m/min |
 | ECT Rating | 44 lb/in (BC-flute) | 32–36 lb/in |
 | Factory Size | 18,000 sqm | 3,000–8,000 sqm |
-| Experience | 22 years | 5–10 years |
+| Experience | 23 years | 5–10 years |
 | Daily Output | 1.7M boxes | 150K–300K boxes |
 | Certifications | ISO 9001 + FSC CoC | ISO 9001 only |
 | Minimum Order | 1,000 units | 5,000–10,000 units |

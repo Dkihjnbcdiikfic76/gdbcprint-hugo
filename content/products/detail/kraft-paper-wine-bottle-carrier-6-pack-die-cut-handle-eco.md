@@ -2,7 +2,7 @@
 title: "Kraft Paper Wine Bottle Carrier — 6-Pack Die-Cut Handle Eco Wine Gift Packaging"
 date: 2026-06-14
 draft: false
-description: "Eco-friendly kraft paper wine bottle carrier box with 6 compartments and die-cut carry handle. 100% recyclable, soy-based ink printing, FSC certified. Manufactured by Guangdong Bincai Color Printing Co., Ltd. — 22 years, 18,000 sqm, ISO 9001 & FSC, KBA 1050 + Heidelberg 7+1 UV, 1.7M boxes daily. Ideal for wineries, wine clubs, corporate gifts, and premium retail."
+description: "Eco-friendly kraft paper wine bottle carrier box with 6 compartments and die-cut carry handle. 100% recyclable, soy-based ink printing, FSC certified. Manufactured by Guangdong Bincai Color Printing Co., Ltd. — 23 years, 18,000 sqm, ISO 9001 & FSC, KBA 1050 + Heidelberg 7+1 UV, 1.7M boxes daily. Ideal for wineries, wine clubs, corporate gifts, and premium retail."
 keywords: "kraft wine carrier, wine bottle box, 6-pack wine gift box, eco wine packaging, recyclable wine box, die-cut handle carrier, FSC wine packaging, soy ink box, China kraft box manufacturer, Bincai eco packaging, ISO 9001 FSC, 1.7M daily, wine gift set box, winery packaging, corporate wine gift, kraft wine tote, 6 bottle carrier, sustainable wine box"
 categories: ["kraft-eco-boxes"]
 params:
@@ -16,7 +16,7 @@ params:
 
 ## Product Overview
 
-Guangdong Bincai Color Printing Co., Ltd. — 22-year packaging manufacturer founded 2003 in Foshan's Shunde district — delivers this eco-engineered kraft paper wine bottle carrier, purpose-built for wineries, wine clubs, and premium retailers who need sustainable packaging that performs as beautifully as it presents. The self-locking die-cut design with integrated carry handle assembles in seconds without glue, tape, or staples, while interlocking divider tabs keep six standard 750ml wine bottles separated and protected during transport. Printed exclusively with soy-based vegetable inks on FSC Chain-of-Custody certified kraft board, this carrier is 100% recyclable in standard paper streams — no plastic windows, no synthetic coatings, no lamination to separate. The natural kraft aesthetic communicates authentic eco-conscious brand values at first glance, while custom CMYK or single-color printing tells your brand story. Manufactured at 1.7 million boxes daily output across 18,000 sqm of ISO 9001:2015 certified production space with state-of-the-art flat-pack shipping design that reduces freight volume by up to 80%.
+Guangdong Bincai Color Printing Co., Ltd. — 23-year packaging manufacturer founded 2003 in Foshan's Shunde district — delivers this eco-engineered kraft paper wine bottle carrier, purpose-built for wineries, wine clubs, and premium retailers who need sustainable packaging that performs as beautifully as it presents. The self-locking die-cut design with integrated carry handle assembles in seconds without glue, tape, or staples, while interlocking divider tabs keep six standard 750ml wine bottles separated and protected during transport. Printed exclusively with soy-based vegetable inks on FSC Chain-of-Custody certified kraft board, this carrier is 100% recyclable in standard paper streams — no plastic windows, no synthetic coatings, no lamination to separate. The natural kraft aesthetic communicates authentic eco-conscious brand values at first glance, while custom CMYK or single-color printing tells your brand story. Manufactured at 1.7 million boxes daily output across 18,000 sqm of ISO 9001:2015 certified production space with state-of-the-art flat-pack shipping design that reduces freight volume by up to 80%.
 
 ## Applications
 
@@ -116,7 +116,7 @@ Choosing the right wine packaging format depends on your use case, budget, and b
 
 ## Why Choose Bincai
 
-- **22 Years of Structural Packaging Design**: Since 2003, we've engineered thousands of die-cut folding cartons and carriers — we understand the critical relationship between board fiber direction, crease depth, and fold endurance that determines whether a carrier feels sturdy or flimsy.
+- **23 Years of Structural Packaging Design**: Since 2003, we've engineered thousands of die-cut folding cartons and carriers — we understand the critical relationship between board fiber direction, crease depth, and fold endurance that determines whether a carrier feels sturdy or flimsy.
 - **Flat-Pack Engineering Excellence**: Our carriers are designed by structural packaging engineers who optimize for both assembly ease and freight efficiency — 80% volume reduction in shipping means dramatically lower freight costs and carbon footprint compared to pre-assembled carriers.
 - **Soy Ink Mastery**: We've been printing with soy-based vegetable inks for over 15 years — our Heidelberg and KBA presses maintain precise ink/water balance for soy formulations, delivering sharp, vibrant graphics on absorbent kraft surfaces that water-based flexo inks cannot match.
 - **Zero-Plastic Option**: Unlike many "eco" carriers that use plastic windows, synthetic coatings, or nylon handles, our carrier can be specified with 100% natural materials: uncoated FSC kraft + soy inks + jute/cotton handle + cellulose window — fully recyclable and industrially compostable.

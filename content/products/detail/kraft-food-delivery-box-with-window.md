@@ -2,8 +2,8 @@
 title: "Kraft Food Delivery Box with Window"
 date: 2026-06-11
 draft: false
-description: "Eco-friendly kraft food delivery box with PET/PLA window — manufactured by Guangdong Bincai Color Printing on KBA 1050 4-color & Heidelberg 7+1 UV presses in an 18,000 sqm (10,000+8,000 smart factory) ISO 9001:2015 & FSC certified facility with 22 years experience and 1.7M boxes daily output. FSC recycled kraft (300-400gsm), soy-based inks, FDA/EU food-safe certified. Custom sizes, vented steam-release holes, flat-ship design, tuck-top or auto-lock closure. MOQ 1,000. Ideal for bakeries, meal-prep services, salad bars, sustainable food brands, and restaurant takeaway."
-keywords: "kraft food box, eco food packaging, biodegradable takeaway box, kraft window box, sustainable food delivery, recycled paper box, FSC food packaging, Bincai eco box, compostable takeaway, wholesale kraft packaging, PLA window box, bakery packaging, restaurant takeaway box, Guangdong Bincai Color Printing, KBA 1050 offset printing, Heidelberg 7+1 UV, ISO 9001 food packaging, FSC certified kraft box, soy-based ink packaging, FDA food contact safe, EU 1935/2004 compliant, meal prep container, salad bar takeaway, vented food box, flat-ship kraft box, custom bakery box, eco-friendly restaurant packaging, food-safe corrugated alternative, Foshan paper box factory, 22 years packaging manufacturer, 1.7M daily output food packaging"
+description: "Eco-friendly kraft food delivery box with PET/PLA window — manufactured by Guangdong Bincai Color Printing on KBA 1050 4-color & Heidelberg 7+1 UV presses in an 18,000 sqm (10,000+8,000 smart factory) ISO 9001:2015 & FSC certified facility with 23 years experience and 1.7M boxes daily output. FSC recycled kraft (300-400gsm), soy-based inks, FDA/EU food-safe certified. Custom sizes, vented steam-release holes, flat-ship design, tuck-top or auto-lock closure. MOQ 1,000. Ideal for bakeries, meal-prep services, salad bars, sustainable food brands, and restaurant takeaway."
+keywords: "kraft food box, eco food packaging, biodegradable takeaway box, kraft window box, sustainable food delivery, recycled paper box, FSC food packaging, Bincai eco box, compostable takeaway, wholesale kraft packaging, PLA window box, bakery packaging, restaurant takeaway box, Guangdong Bincai Color Printing, KBA 1050 offset printing, Heidelberg 7+1 UV, ISO 9001 food packaging, FSC certified kraft box, soy-based ink packaging, FDA food contact safe, EU 1935/2004 compliant, meal prep container, salad bar takeaway, vented food box, flat-ship kraft box, custom bakery box, eco-friendly restaurant packaging, food-safe corrugated alternative, Foshan paper box factory, 23 years packaging manufacturer, 1.7M daily output food packaging"
 categories: ["kraft-eco-boxes"]
 params:
   moq: "1000-2000"
@@ -82,7 +82,7 @@ The Bincai Kraft Food Delivery Box with Window combines environmental responsibi
 | Printing | Soy-based inks (CMYK), water-based flexo (1–2 colors) |
 | Factory | 18,000 sqm, Foshan Guangdong, ISO 9001:2015, FSC-C147399 |
 | Daily Output | 1.7 million boxes total (1.48M+ folding/corrugated/kraft) |
-| Experience | 22 years (founded 2003), 350+ skilled workforce |
+| Experience | 23 years (founded 2003), 350+ skilled workforce |
 | MOQ | 1,000 units (standard), 2,000 (custom window shapes) |
 
 ## Sustainability & Environmental Impact
@@ -131,7 +131,7 @@ A: Standard kraft with aqueous coating handles dry/semi-dry foods well but will 
 
 Sustainability in food packaging is not just about materials — it's about manufacturing integrity. Bincai's kraft food boxes are produced in an integrated facility where every process from board sourcing to finished packaging is certified, audited, and optimized for environmental performance. Unlike brokers who source from multiple factories with inconsistent standards, Bincai's single-factory model guarantees traceable, certified, and consistent quality from prototype to production run #100,000.
 
-- **22 years** (founded 2003) manufacturing paper packaging in Foshan, Guangdong, serving food brands in 40+ countries
+- **23 years** (founded 2003) manufacturing paper packaging in Foshan, Guangdong, serving food brands in 40+ countries
 - **18,000 sqm** integrated facility with dedicated kraft and eco-packaging production lines
 - **FSC-C147399** chain-of-custody certification — full traceability from forest to finished box
 - **ISO 9001:2015** quality management with 8-stage QC process including food-contact safety testing
@@ -149,7 +149,7 @@ Sustainability in food packaging is not just about materials — it's about manu
 
 | Comparison | Bincai | Industry Standard |
 |-----------|--------|-------------------|
-| **Experience** | 22 years (since 2003) | 5–10 years |
+| **Experience** | 23 years (since 2003) | 5–10 years |
 | **FSC Certification** | FSC-C147399 (full chain-of-custody) | Often uncertified |
 | **Food Contact Compliance** | FDA 21 CFR + EU 1935/2004 + MOSH/MOAH-free | Basic only, MOSH/MOAH untested |
 | **PLA Compostable Option** | EN 13432 certified | Rarely available |

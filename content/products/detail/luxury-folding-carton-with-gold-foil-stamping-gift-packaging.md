@@ -2,7 +2,7 @@
 title: "Luxury Folding Carton with Gold Foil Stamping Gift Packaging"
 date: 2026-06-10
 draft: false
-description: "Guangdong Bincai luxury folding carton with precision gold foil hot stamping for premium gift and retail packaging. Manufactured on KBA 1050 4-color and Heidelberg 7+1 UV presses with Bobst SP 102 BMA foil stamping (±0.15mm registration) in ISO 9001:2015 and FSC Chain-of-Custody certified 18,000 sqm facility. 22 years experience since 2003, daily output 1.7 million boxes + 220,000+ gift boxes. Available in gold, silver, rose gold, copper, holographic, and matte gold foil. Reverse tuck end, straight tuck end, auto-lock bottom, crash-lock, double-wall tuck, and sleeve-and-tray structures. Matte/gloss lamination, soft-touch velvet, spot UV, embossing/debossing, and raised textures. Ideal for luxury cosmetics, premium confectionery, high-end fashion accessories, corporate gifts, and jewelry outer cartons. MOQ 500, free pre-production samples 5-7 days. Foshan, Guangdong, China."
+description: "Guangdong Bincai luxury folding carton with precision gold foil hot stamping for premium gift and retail packaging. Manufactured on KBA 1050 4-color and Heidelberg 7+1 UV presses with Bobst SP 102 BMA foil stamping (±0.15mm registration) in ISO 9001:2015 and FSC Chain-of-Custody certified 18,000 sqm facility. 23 years experience since 2003, daily output 1.7 million boxes + 220,000+ gift boxes. Available in gold, silver, rose gold, copper, holographic, and matte gold foil. Reverse tuck end, straight tuck end, auto-lock bottom, crash-lock, double-wall tuck, and sleeve-and-tray structures. Matte/gloss lamination, soft-touch velvet, spot UV, embossing/debossing, and raised textures. Ideal for luxury cosmetics, premium confectionery, high-end fashion accessories, corporate gifts, and jewelry outer cartons. MOQ 500, free pre-production samples 5-7 days. Foshan, Guangdong, China."
 keywords: "luxury folding carton, gold foil stamping gift box, gold hot stamping carton box, premium retail packaging box, cosmetics folding carton, confectionery gift packaging, fashion accessory box, Bobst foil stamping carton, KBA offset printed carton, soft-touch velvet carton, spot UV gift box, embossed folding carton, Bincai luxury carton manufacturer, Guangdong gift box factory, ISO 9001 FSC folding carton, corporate gift box"
 categories: ["folding-cartons"]
 params:
@@ -14,7 +14,7 @@ params:
 
 ![Bincai Folding Cartons](/images/folding-cartons.jpg)
 
-Luxury folding carton with gold foil hot stamping for high-end gift and retail packaging — manufactured by Guangdong Bincai Color Printing Co., Ltd. With 22 years of experience, ISO 9001 & FSC certifications, and an 18,000 sqm factory (10,000+8,000 smart factory) producing 1.7 million boxes daily, we craft folding cartons that elevate brand perception at retail and unboxing moments.
+Luxury folding carton with gold foil hot stamping for high-end gift and retail packaging — manufactured by Guangdong Bincai Color Printing Co., Ltd. With 23 years of experience, ISO 9001 & FSC certifications, and an 18,000 sqm factory (10,000+8,000 smart factory) producing 1.7 million boxes daily, we craft folding cartons that elevate brand perception at retail and unboxing moments.
 
 ## Applications
 Gold foil stamped folding cartons deliver premium tactile and visual impact for luxury brand positioning. Ideal for:
@@ -56,7 +56,7 @@ Gold foil stamped folding cartons deliver premium tactile and visual impact for 
 - **Free pre-production sample** for structural and decorative approval — 5–7 day turnaround
 
 ## Factory
-- 22 years of manufacturing excellence (founded 2003)
+- 23 years of manufacturing excellence (founded 2003)
 - 18,000 sqm factory (10,000+8,000 smart factory)
 - 80+ skilled employees across design, prepress, printing, finishing, and QC
 - KBA 1050 4-color + Heidelberg 7+1 UV + Bobst foil stamping and die-cutting

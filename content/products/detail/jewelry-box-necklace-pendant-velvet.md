@@ -2,8 +2,8 @@
 title: "Jewelry Box for Necklace & Pendant — Velvet Interior Display Packaging"
 date: 2026-06-11
 draft: false
-description: "Custom velvet jewelry box for necklace and pendant display with plush velvet interior, removable satin display cushion, and gold/silver foil logo. Hinged lid opens to full 180° display angle, magnetic catch closure. KBA 1050 4-color offset printing, precision die-cutting, hand-applied velvet flocking. Made by Guangdong Bincai Color Printing — 22 years experience (founded 2003), 18,000 sqm dual factory (10,000+8,000 smart factory), ISO 9001:2015 & FSC certified, Heidelberg 7+1 UV, 1.7M daily output. MOQ 500, free samples 5-7 days."
-keywords: "jewelry box necklace, pendant display box, velvet jewelry packaging, custom jewelry box manufacturer, satin cushion box, necklace gift box China, FSC jewelry packaging, retail display jewelry box, hinged lid jewelry box, gold foil jewelry packaging, velvet flocking box, Bincai jewelry box, ISO 9001 jewelry packaging, wholesale necklace box, custom pendant packaging, jewelry counter display, 22 year packaging factory, Guangdong jewelry box, luxury necklace presentation, hinged velvet box"
+description: "Custom velvet jewelry box for necklace and pendant display with plush velvet interior, removable satin display cushion, and gold/silver foil logo. Hinged lid opens to full 180° display angle, magnetic catch closure. KBA 1050 4-color offset printing, precision die-cutting, hand-applied velvet flocking. Made by Guangdong Bincai Color Printing — 23 years experience (founded 2003), 18,000 sqm dual factory (10,000+8,000 smart factory), ISO 9001:2015 & FSC certified, Heidelberg 7+1 UV, 1.7M daily output. MOQ 500, free samples 5-7 days."
+keywords: "jewelry box necklace, pendant display box, velvet jewelry packaging, custom jewelry box manufacturer, satin cushion box, necklace gift box China, FSC jewelry packaging, retail display jewelry box, hinged lid jewelry box, gold foil jewelry packaging, velvet flocking box, Bincai jewelry box, ISO 9001 jewelry packaging, wholesale necklace box, custom pendant packaging, jewelry counter display, 23 year packaging factory, Guangdong jewelry box, luxury necklace presentation, hinged velvet box"
 categories: ["jewelry-boxes"]
 params:
   moq: "500-1000"
@@ -18,7 +18,7 @@ params:
 
 Bincai's premium necklace and pendant jewelry box is purpose-built for jewelry retailers, e-commerce brands, and boutique artisans who demand retail-ready presentation at wholesale economics. The hinged lid opens to a full 180° display angle — the box transforms from protective packaging into a countertop showcase in one motion. A plush velvet interior (2mm flocking, 0.8mm pile) cradles the necklace chain in anti-tangle channels, while the removable satin display cushion elevates the pendant for maximum visual impact.
 
-Manufactured in our 18,000 sqm ISO 9001:2015 and FSC-certified facility in Foshan, Guangdong, every box passes through KBA 1050 4-color offset printing, Bobst automatic die-cutting, and hand-applied velvet flocking assembly. The 0.5mm greyboard tolerance ensures consistent lid-to-base alignment across full production runs. 22 years of luxury packaging expertise — since 2003, Bincai has manufactured over 500 million jewelry boxes for brands in 40+ countries.
+Manufactured in our 18,000 sqm ISO 9001:2015 and FSC-certified facility in Foshan, Guangdong, every box passes through KBA 1050 4-color offset printing, Bobst automatic die-cutting, and hand-applied velvet flocking assembly. The 0.5mm greyboard tolerance ensures consistent lid-to-base alignment across full production runs. 23 years of luxury packaging expertise — since 2003, Bincai has manufactured over 500 million jewelry boxes for brands in 40+ countries.
 
 ## Manufacturing Specifications
 
@@ -81,15 +81,15 @@ Manufactured in our 18,000 sqm ISO 9001:2015 and FSC-certified facility in Fosha
 
 ## Why Bincai?
 
-With **22 years** of jewelry packaging specialization and **1.7 million boxes daily output** across 18,000 sqm, Bincai delivers retail-grade jewelry display solutions that elevate your brand at wholesale economics. Our in-house flocking line applies velvet to exacting standards — no outsourcing means faster turnaround (5-7 day samples, 10-14 day production) and consistent quality across every batch.
+With **23 years** of jewelry packaging specialization and **1.7 million boxes daily output** across 18,000 sqm, Bincai delivers retail-grade jewelry display solutions that elevate your brand at wholesale economics. Our in-house flocking line applies velvet to exacting standards — no outsourcing means faster turnaround (5-7 day samples, 10-14 day production) and consistent quality across every batch.
 
 **The Bincai Difference:**
 - **One Roof, No Handoffs**: Printing (KBA 1050 + Heidelberg 7+1 UV) → die-cutting (Bobst) → flocking → assembly → QC — all in our Foshan facility. Zero subcontractor delays, full quality traceability.
-- **22 Years of Necklace Box Iteration**: We've refined the anti-tangle chain guide, cushion retention mechanism, and lid hinge design across millions of units. Your box benefits from two decades of incremental improvements.
+- **23 Years of Necklace Box Iteration**: We've refined the anti-tangle chain guide, cushion retention mechanism, and lid hinge design across millions of units. Your box benefits from two decades of incremental improvements.
 - **ISO 9001 + FSC Certified**: Documented QC at every production stage. Full batch genealogy retrievable within 4 hours. FSC Mix Credit available for brands with sustainability commitments.
 - **200+ Global Brands Served**: From boutique Etsy sellers to multi-location jewelry chains — our MOQ 500 makes premium packaging accessible at any scale.
 
-**Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
+**Factory Facts:** Founded 2003 | 23 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
 
 ## FAQ
 

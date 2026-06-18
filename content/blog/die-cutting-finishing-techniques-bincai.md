@@ -90,9 +90,9 @@ Every finishing process has its own checkpoint:
 
 ## Why This Matters for Your Packaging
 
-A beautifully printed sheet is just the beginning. The die-cutting accuracy, the foil's reflectivity, the lamination's tactile quality — these are what a customer feels when they pick up your product. At Bincai, 22 years of finishing expertise means your box looks as good in hand as it does on screen.
+A beautifully printed sheet is just the beginning. The die-cutting accuracy, the foil's reflectivity, the lamination's tactile quality — these are what a customer feels when they pick up your product. At Bincai, 23 years of finishing expertise means your box looks as good in hand as it does on screen.
 
-**22 years. ISO 9001 & FSC certified. 18,000 sqm total factory. 1.7M boxes daily. Every finish inspected.**
+**23 years. ISO 9001 & FSC certified. 18,000 sqm total factory. 1.7M boxes daily. Every finish inspected.**
 
 ---
 

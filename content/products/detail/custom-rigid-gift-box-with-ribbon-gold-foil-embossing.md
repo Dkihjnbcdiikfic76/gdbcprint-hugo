@@ -2,8 +2,8 @@
 title: "Custom Rigid Gift Box with Ribbon Gold Foil Embossing"
 date: 2026-06-10
 draft: false
-description: "Custom rigid gift box with satin ribbon and gold foil embossing — luxury packaging by Guangdong Bincai, ISO 9001 & FSC certified with 22 years experience. Heidelberg 7+1 UV press, handcrafted rigid box production line, 200K+ daily output. MOQ 500 units."
-keywords: "rigid gift box, luxury packaging, gold foil embossing, satin ribbon box, custom gift packaging, premium paper box, rigid box manufacturer China, Guangdong rigid box factory, Bincai Color Printing, Foshan packaging, wholesale luxury gift boxes, ribbon closure gift box, custom logo rigid box, 2.5mm greyboard box, handcrafted gift packaging, Heidelberg UV press, KBA 1050 offset, ISO 9001:2015 certified, FSC Chain-of-Custody, 18,000 sqm factory, 22 years experience, 220,000 daily rigid boxes, magnetic closure box, velvet lined gift box, corporate gift packaging, wedding favor boxes, perfume gift box, jewelry presentation box, luxury chocolate box, premium cosmetics packaging, wine gift box packaging, blind embossed box, soft-touch lamination box, die-cut foam insert box, custom shape rigid box, gold stamped gift box, embossed logo box, OEM paper box, rigid set-up box"
+description: "Custom rigid gift box with satin ribbon and gold foil embossing — luxury packaging by Guangdong Bincai, ISO 9001 & FSC certified with 23 years experience. Heidelberg 7+1 UV press, handcrafted rigid box production line, 200K+ daily output. MOQ 500 units."
+keywords: "rigid gift box, luxury packaging, gold foil embossing, satin ribbon box, custom gift packaging, premium paper box, rigid box manufacturer China, Guangdong rigid box factory, Bincai Color Printing, Foshan packaging, wholesale luxury gift boxes, ribbon closure gift box, custom logo rigid box, 2.5mm greyboard box, handcrafted gift packaging, Heidelberg UV press, KBA 1050 offset, ISO 9001:2015 certified, FSC Chain-of-Custody, 18,000 sqm factory, 23 years experience, 220,000 daily rigid boxes, magnetic closure box, velvet lined gift box, corporate gift packaging, wedding favor boxes, perfume gift box, jewelry presentation box, luxury chocolate box, premium cosmetics packaging, wine gift box packaging, blind embossed box, soft-touch lamination box, die-cut foam insert box, custom shape rigid box, gold stamped gift box, embossed logo box, OEM paper box, rigid set-up box"
 categories: ["rigid-gift-boxes"]
 params:
   moq: "500-1000"
@@ -94,7 +94,7 @@ Every rigid box passes through 15 quality control checkpoints across our dedicat
 
 Guangdong Bincai Color Printing has been the trusted rigid box partner for premium brands worldwide since 2003. Our dedicated rigid box production line is one of the largest in Southern China — combining old-world handcraft techniques (hand-wrapped ribbon, hand-placed magnets, hand-lined velvet interiors) with German precision machinery (Heidelberg 7+1 UV press, KBA 1050 4-color press). Every rigid box passes through 15 quality control checkpoints before leaving our Foshan facility. Whether you need 500 boxes for a brand launch or 200,000 for a global holiday campaign, Bincai delivers the same exacting quality at every scale.
 
-- **22 Years**: Rigid box handcraft expertise since 2003 — Foshan, Guangdong
+- **23 Years**: Rigid box handcraft expertise since 2003 — Foshan, Guangdong
 - **18,000 sqm**: Dual-factory (10,000+8,000 smart factory, 2025) with dedicated rigid box line
 - **KBA 1050 + Heidelberg 7+1 UV**: German-engineered precision at 8,500 sheets/hour
 - **220,000+ Daily Rigid Boxes**: Massive capacity without sacrificing hand-finished quality
@@ -102,4 +102,4 @@ Guangdong Bincai Color Printing has been the trusted rigid box partner for premi
 - **Free Sampling**: 3D die-line in 24h, premium sample with actual foil + embossing in 5–7 days
 - **Foshan Factory**: FOB Shenzhen/Guangzhou — 90 minutes to port; factory visits welcome
 
-*Guangdong Bincai Color Printing Co., Ltd. — 22 years of packaging excellence. ISO 9001:2015 & FSC certified. 18,000 sqm Foshan facility (10,000+8,000 smart factory). Daily output: 220,000+ rigid gift boxes. KBA 1050 4-color & Heidelberg 7+1 UV presses. Serving 60+ countries worldwide.*
+*Guangdong Bincai Color Printing Co., Ltd. — 23 years of packaging excellence. ISO 9001:2015 & FSC certified. 18,000 sqm Foshan facility (10,000+8,000 smart factory). Daily output: 220,000+ rigid gift boxes. KBA 1050 4-color & Heidelberg 7+1 UV presses. Serving 60+ countries worldwide.*

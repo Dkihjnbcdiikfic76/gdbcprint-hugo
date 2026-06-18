@@ -2,8 +2,8 @@
 title: "Custom Printed Tea Paper Packaging Box"
 date: 2026-06-11
 draft: false
-description: "Custom Printed Tea Paper Packaging Box by Guangdong Bincai Color Printing — Diamond Member on Made-in-China.com. ISO 9001 FSC certified. Manufactured by Guangdong Bincai Color Printing Co., Ltd. — 22 years experience (founded 2003), 18,000 sqm dual factory (10,000+8,000 sqm smart factory), ISO 9001:2015 & FSC certified, KBA 1050 4-color + Heidelberg 7+1 UV presses, daily output 1.7M boxes, serving 200+ global brands from Foshan, China."
-keywords: "tea packaging box, custom printed tea box, tea paper packaging, loose leaf tea box, tea bag packaging box, tea gift set box, kraft tea box, folding carton tea box, window cutout tea box, gold foil tea box, food-grade tea packaging, tea packaging manufacturer China, Guangdong tea box factory, KBA offset tea box, ISO 9001 FSC tea packaging, custom tea packaging, tea carton box, airtight tea box, Chinese tea packaging, 18,000 sqm factory, 22 years experience, Bincai Color Printing, eco-friendly tea box, compostable tea packaging box"
+description: "Custom Printed Tea Paper Packaging Box by Guangdong Bincai Color Printing — Diamond Member on Made-in-China.com. ISO 9001 FSC certified. Manufactured by Guangdong Bincai Color Printing Co., Ltd. — 23 years experience (founded 2003), 18,000 sqm dual factory (10,000+8,000 sqm smart factory), ISO 9001:2015 & FSC certified, KBA 1050 4-color + Heidelberg 7+1 UV presses, daily output 1.7M boxes, serving 200+ global brands from Foshan, China."
+keywords: "tea packaging box, custom printed tea box, tea paper packaging, loose leaf tea box, tea bag packaging box, tea gift set box, kraft tea box, folding carton tea box, window cutout tea box, gold foil tea box, food-grade tea packaging, tea packaging manufacturer China, Guangdong tea box factory, KBA offset tea box, ISO 9001 FSC tea packaging, custom tea packaging, tea carton box, airtight tea box, Chinese tea packaging, 18,000 sqm factory, 23 years experience, Bincai Color Printing, eco-friendly tea box, compostable tea packaging box"
 categories: ["folding-cartons"]
 params:
   moq: "500-1000"
@@ -13,7 +13,7 @@ params:
 ---
 ![Custom Printed Tea Paper Packaging Box](/images/cat-fold-cosmetic.jpg)
 
-Aromatic-preserving folding carton for premium tea packaging — manufactured by **Guangdong Bincai Color Printing Co., Ltd.**, a 22-year packaging enterprise (founded 2003) serving tea brands across China and internationally. Available with optional aluminum foil inner lining for moisture and aroma barrier, this tea box protects delicate tea leaves from oxidation, UV degradation, and flavor loss. The straight-tuck or auto-lock bottom folding carton ships flat for economical freight and assembles in seconds. Full-color CMYK offset printing on KBA 1050 4-color press with Heidelberg 7+1 UV for metallic inks and spot coatings. Hot foil stamping in gold, silver, or copper creates the elevated aesthetic tea packaging demands. Produced across Bincai's 18,000 sqm dual factory (10,000+8,000 sqm smart factory) in Foshan, Guangdong. ISO 9001:2015 and FSC certified. Daily output 1.7 million boxes. MOQ 500 units.
+Aromatic-preserving folding carton for premium tea packaging — manufactured by **Guangdong Bincai Color Printing Co., Ltd.**, a 23-year packaging enterprise (founded 2003) serving tea brands across China and internationally. Available with optional aluminum foil inner lining for moisture and aroma barrier, this tea box protects delicate tea leaves from oxidation, UV degradation, and flavor loss. The straight-tuck or auto-lock bottom folding carton ships flat for economical freight and assembles in seconds. Full-color CMYK offset printing on KBA 1050 4-color press with Heidelberg 7+1 UV for metallic inks and spot coatings. Hot foil stamping in gold, silver, or copper creates the elevated aesthetic tea packaging demands. Produced across Bincai's 18,000 sqm dual factory (10,000+8,000 sqm smart factory) in Foshan, Guangdong. ISO 9001:2015 and FSC certified. Daily output 1.7 million boxes. MOQ 500 units.
 
 ## Applications
 - Loose-leaf tea pouches (50g, 100g, 250g) — green tea, oolong, pu-erh, black tea, white tea
@@ -56,15 +56,15 @@ Aromatic-preserving folding carton for premium tea packaging — manufactured by
 - 100% foil registration check on first-off and periodic sampling
 - Color consistency: ΔE ≤2.0 under D65 lighting per ISO 3664
 - Food-grade certification available: FDA 21 CFR 176.170/176.180, EU 1935/2004, GB 9685 compliance
-- 22 years manufacturing expertise — founded 2003, 220+ skilled workers
+- 23 years manufacturing expertise — founded 2003, 220+ skilled workers
 - 18,000 sqm dual factory; dedicated food-grade packaging production zone available
 - MOQ 500–1000 units; free pre-production samples in 5–7 working days
 
 ## Why Bincai for Tea Packaging
 
-Tea packaging sits at the intersection of food safety, aroma preservation, and luxury brand storytelling. Guangdong Bincai Color Printing understands all three. Our 22 years of manufacturing experience spans every tea packaging format — from simple tuck-end sachet cartons for daily-use tea bags to multi-layer magnetic rigid boxes for $200+/kg ceremonial teas. Key reasons tea brands worldwide partner with Bincai:
+Tea packaging sits at the intersection of food safety, aroma preservation, and luxury brand storytelling. Guangdong Bincai Color Printing understands all three. Our 23 years of manufacturing experience spans every tea packaging format — from simple tuck-end sachet cartons for daily-use tea bags to multi-layer magnetic rigid boxes for $200+/kg ceremonial teas. Key reasons tea brands worldwide partner with Bincai:
 
-- **22 years** manufacturing (since 2003) — we've produced over 800 million tea boxes and cartons
+- **23 years** manufacturing (since 2003) — we've produced over 800 million tea boxes and cartons
 - **18,000 sqm** ISO 9001:2015 + FSC® certified facility with dedicated food-grade packaging zone
 - **Aroma barrier expertise**: Aluminum foil laminate linings tested to preserve tea fragrance 12+ months at ambient storage — critical for premium oolong, jasmine, and pu-erh
 - **Food-contact regulatory documentation** for every order: FDA 21 CFR 176.170/176.180, EU 1935/2004, GB 9685

@@ -2,7 +2,7 @@
 title: "Folding Carton Auto-Bottom Premium Tea Sachet Box with Compostable Window and Gold Foil"
 date: 2026-06-15
 draft: false
-description: "Folding carton auto-bottom tea sachet box with compostable PLA window and gold foil stamping for premium loose leaf tea and herbal infusion brands. Manufactured by Bincai: KBA 1050 4-color offset + Heidelberg 7+1 UV press, 350-450gsm CCNB/SBS board, compostable PLA window film, hot foil stamping, embossing, matte/gloss lamination, 10,000+8,000sqm dual factory, 22 years experience, ISO 9001:2015 & FSC certified, 1.7M daily output, 80+ workers. MOQ 1,000. Free pre-production samples 5-7 days."
+description: "Folding carton auto-bottom tea sachet box with compostable PLA window and gold foil stamping for premium loose leaf tea and herbal infusion brands. Manufactured by Bincai: KBA 1050 4-color offset + Heidelberg 7+1 UV press, 350-450gsm CCNB/SBS board, compostable PLA window film, hot foil stamping, embossing, matte/gloss lamination, 10,000+8,000sqm dual factory, 23 years experience, ISO 9001:2015 & FSC certified, 1.7M daily output, 80+ workers. MOQ 1,000. Free pre-production samples 5-7 days."
 keywords: "folding carton tea box, auto-bottom tea sachet box, premium tea packaging, compostable window tea box, gold foil tea box, custom folding carton, tea sachet display box, folding carton manufacturer China, Bincai, KBA Heidelberg tea box, ISO 9001 FSC folding carton, Guangdong folding carton factory, sustainable tea packaging"
 categories: ["folding-cartons"]
 params:
@@ -14,7 +14,7 @@ params:
 
 ![Bincai Folding Cartons](/images/folding-cartons.jpg)
 
-Folding carton auto-bottom tea sachet box with compostable PLA window and gold foil stamping — engineered for premium loose leaf tea, herbal infusion, and specialty tea brands that demand sustainability without sacrificing luxury aesthetics. The auto-lock bottom crates instantly for rapid filling, while the die-cut PLA window (certified compostable per EN 13432) showcases the product inside. Gold foil stamping on the front panel communicates premium positioning. Manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). KBA 1050 4-color and Heidelberg 7+1 UV presses deliver gallery-quality print across 18,000 sqm factory. Daily output 1.7 million boxes.
+Folding carton auto-bottom tea sachet box with compostable PLA window and gold foil stamping — engineered for premium loose leaf tea, herbal infusion, and specialty tea brands that demand sustainability without sacrificing luxury aesthetics. The auto-lock bottom crates instantly for rapid filling, while the die-cut PLA window (certified compostable per EN 13432) showcases the product inside. Gold foil stamping on the front panel communicates premium positioning. Manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 23 years of experience (founded 2003). KBA 1050 4-color and Heidelberg 7+1 UV presses deliver gallery-quality print across 18,000 sqm factory. Daily output 1.7 million boxes.
 
 ## Applications
 - Premium loose leaf tea and herbal infusion retail packaging
@@ -54,7 +54,7 @@ Folding carton auto-bottom tea sachet box with compostable PLA window and gold f
 - Color consistency monitored with inline spectrophotometer on both presses
 
 ## Why Choose Bincai for Folding Cartons
-- 22 years of folding carton manufacturing with continuous investment in BOBST die-cutting
+- 23 years of folding carton manufacturing with continuous investment in BOBST die-cutting
 - Dual-factory campus (10,000 + 8,000 sqm) with dedicated folding carton production lines
 - KBA 1050 + Heidelberg 7+1 UV combination for unmatched print quality and speed
 - 1.7 million daily output ensuring scalability for growing tea brands
@@ -97,4 +97,4 @@ Folding carton auto-bottom tea sachet box with compostable PLA window and gold f
 
 [→ Get your free compostable carton sample](/contact/)  or  📧 qo82@icloud.com | 📱 +86-18934352881
 
-**Bincai: 22 years, ISO 9001:2015 & FSC certified, 18,000 sqm factory, Diamond Member on Made-in-China.com — 987 products, verified on-site audit.**
+**Bincai: 23 years, ISO 9001:2015 & FSC certified, 18,000 sqm factory, Diamond Member on Made-in-China.com — 987 products, verified on-site audit.**

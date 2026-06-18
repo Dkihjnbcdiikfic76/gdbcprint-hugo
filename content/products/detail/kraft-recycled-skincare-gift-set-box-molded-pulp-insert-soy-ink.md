@@ -57,7 +57,7 @@ The box is constructed from 350gsm FSC-certified recycled kraft board with a nat
 | Factory | 18,000 sqm (10,000 + 8,000 smart factory), Foshan, Guangdong, China |
 | Certifications | ISO 9001:2015, FSC Chain-of-Custody, Sedex SMETA |
 | Daily Output | 1.7M boxes (220,000+ rigid boxes/day) |
-| Experience | 22 years (founded 2003), 350+ skilled workers |
+| Experience | 23 years (founded 2003), 350+ skilled workers |
 | MOQ | 500 units per design |
 | Sample Lead Time | 5–7 days (free pre-production samples) |
 | Production Lead Time | 12–15 days after sample approval |
@@ -106,9 +106,9 @@ The box is constructed from 350gsm FSC-certified recycled kraft board with a nat
 
 Bincai's eco-packaging line offers clean beauty brands a genuinely sustainable rigid box solution — from FSC-certified 100% recycled kraft board and soy-based inks to molded pulp inserts made from our own factory trim waste. Our integrated production in Foshan's 18,000 sqm facility eliminates the carbon footprint of shipping components between multiple vendors.
 
-With 22 years of packaging manufacturing expertise, Bincai provides the quality consistency that eco-conscious brands need while maintaining the environmental credentials their customers demand. ISO 9001:2015 and FSC Chain-of-Custody certification provide third-party verification for brand ESG claims.
+With 23 years of packaging manufacturing expertise, Bincai provides the quality consistency that eco-conscious brands need while maintaining the environmental credentials their customers demand. ISO 9001:2015 and FSC Chain-of-Custody certification provide third-party verification for brand ESG claims.
 
-**Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA Rapida 105 + Heidelberg Speedmaster CD 102 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
+**Factory Facts:** Founded 2003 | 23 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA Rapida 105 + Heidelberg Speedmaster CD 102 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
 
 **Shipping:** Flat-packed unassembled (55% freight savings). 36 units per export carton. FOB Shenzhen/Guangzhou/Hong Kong. Production 12–15 days + 18–25 days sea freight.
 

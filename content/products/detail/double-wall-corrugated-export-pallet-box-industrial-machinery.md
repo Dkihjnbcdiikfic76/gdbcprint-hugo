@@ -2,7 +2,7 @@
 title: "Double-Wall Corrugated Export Pallet Box for Industrial Machinery Parts"
 date: 2026-06-14
 draft: false
-description: "Double-wall corrugated export pallet box designed for heavy industrial machinery parts — BC/BE flute, 7-ply construction, 1500kg stacking strength. Manufactured by Guangdong Bincai Color Printing Co., Ltd. — 22 years experience, 18,000 sqm factory, ISO 9001 & FSC certified, KBA 1050 4-color + Heidelberg 7+1 UV presses, daily output 1.7M boxes. Ideal for machinery components, automotive parts, and heavy equipment export packaging with ISTA 3E compliance."
+description: "Double-wall corrugated export pallet box designed for heavy industrial machinery parts — BC/BE flute, 7-ply construction, 1500kg stacking strength. Manufactured by Guangdong Bincai Color Printing Co., Ltd. — 23 years experience, 18,000 sqm factory, ISO 9001 & FSC certified, KBA 1050 4-color + Heidelberg 7+1 UV presses, daily output 1.7M boxes. Ideal for machinery components, automotive parts, and heavy equipment export packaging with ISTA 3E compliance."
 keywords: "export pallet box, double wall corrugated box, industrial machinery packaging, heavy duty shipping box, BC flute corrugated, ISTA 3E certified, pallet box manufacturer China, Bincai export packaging, Guangdong corrugated factory, ISO 9001 FSC, KBA 1050 offset, Heidelberg 7+1 UV, 18,000 sqm, 1.7M daily output, industrial parts shipping, automotive parts box, machinery export crate, corrugated pallet box OEM"
 categories: ["corrugated-mailers"]
 params:
@@ -65,7 +65,7 @@ Double-wall corrugated export pallet box engineered for heavy industrial machine
 - MOQ 100–500 units; lower MOQ for trial orders accepted
 
 ## Factory
-- 22 years of manufacturing excellence since 2003
+- 23 years of manufacturing excellence since 2003
 - Dual factories: 10,000 sqm main + 8,000 sqm smart factory in Foshan, Pearl River Delta
 - 500+ skilled workers across 3 shifts
 - ISO 9001:2015 certified quality management system

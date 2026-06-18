@@ -2,7 +2,7 @@
 title: "Kraft Paper Eco-Friendly Soap Packaging Box with Window Soy-Based Ink"
 date: 2026-06-16
 draft: false
-description: "Kraft Paper Eco-Friendly Soap Packaging Box with Window and Soy-Based Ink — manufactured by Bincai Printing, 22-year ISO 9001 & FSC certified factory. Sustainable kraft paper folding box for handmade soap, organic skincare bars, and natural cosmetics. Window die-cut for product visibility with soy-based ink printing. Recyclable and compostable. FSC certified paper sourced from responsibly managed forests. MOQ 1000 units. 18,000 sqm factory with daily output 1.7 million boxes."
+description: "Kraft Paper Eco-Friendly Soap Packaging Box with Window and Soy-Based Ink — manufactured by Bincai Printing, 23-year ISO 9001 & FSC certified factory. Sustainable kraft paper folding box for handmade soap, organic skincare bars, and natural cosmetics. Window die-cut for product visibility with soy-based ink printing. Recyclable and compostable. FSC certified paper sourced from responsibly managed forests. MOQ 1000 units. 18,000 sqm factory with daily output 1.7 million boxes."
 keywords: "kraft paper box, eco-friendly packaging, soap packaging, sustainable box, recyclable packaging, soy ink printing, FSC certified box, window box, natural cosmetic packaging, handmade soap box, organic skincare packaging, custom kraft box China, ISO 9001 FSC packaging, Bincai Guangdong, eco packaging box, biodegradable packaging, green packaging, wholesale soap box, OEM soap packaging, MOQ 1000 packaging, kraft folding carton, sustainable brand packaging, Guangdong packaging factory, compostable box, recycled paper packaging, earth-friendly packaging, custom soap box, organic product packaging, Bincai printing, eco-conscious packaging"
 categories: ["kraft-eco-boxes"]
 params:
@@ -48,7 +48,7 @@ Kraft paper eco-friendly soap packaging box with die-cut window and soy-based in
 - FSC Chain of Custody certification (FSC-CXXXXXX)
 - 18,000 sqm manufacturing facility (10,000+8,000 sqm, 2025 expansion)
 - ISO 9001:2015 certified quality management
-- 22 years of paper packaging manufacturing experience
+- 23 years of paper packaging manufacturing experience
 - Daily output capacity: 1.7 million boxes
 
 ## Quality Assurance
@@ -93,9 +93,9 @@ Guangdong Bincai Color Printing Co., Ltd. has specialized in eco-conscious kraft
 - **FSC Chain-of-Custody certified since 2019** — unbroken traceability from certified forest to your finished packaging
 - **Dual-factory vertical integration** — 18,000 sqm total capacity (10,000 sqm main + 8,000 sqm smart factory) ensures every process from printing to window patching is controlled in-house
 - **PLA window inline patching** — compostable PLA film applied at high speed on automated window-patching lines, eliminating manual adhesive application and ensuring bubble-free clarity
-- **Soy ink expertise** — 22 years of vegetable-ink printing experience on kraft substrates; we calibrate ink absorption profiles for every kraft grammage from 250 to 400 gsm
+- **Soy ink expertise** — 23 years of vegetable-ink printing experience on kraft substrates; we calibrate ink absorption profiles for every kraft grammage from 250 to 400 gsm
 
-**Factory Facts:** Founded 2003 | 22 years of packaging expertise | 18,000 sqm dual-factory (10,000 + 8,000 sqm smart factory) | 1.7M boxes/day capacity | KBA Rapida 105 4-color + Heidelberg Speedmaster CD 102 7+1 UV | BHS 2.5m Corrugator | Bobst SP 102 BMA die-cutter | Emmeci MC2004 | ISO 9001:2015 & FSC Chain-of-Custody certified | Sedex SMETA audited | 350+ workers | Foshan, Guangdong, China (Pearl River Delta).
+**Factory Facts:** Founded 2003 | 23 years of packaging expertise | 18,000 sqm dual-factory (10,000 + 8,000 sqm smart factory) | 1.7M boxes/day capacity | KBA Rapida 105 4-color + Heidelberg Speedmaster CD 102 7+1 UV | BHS 2.5m Corrugator | Bobst SP 102 BMA die-cutter | Emmeci MC2004 | ISO 9001:2015 & FSC Chain-of-Custody certified | Sedex SMETA audited | 350+ workers | Foshan, Guangdong, China (Pearl River Delta).
 
 **Shipping:** Boxes ship flat-packed for minimal freight volume. Free pre-production samples delivered in 5–7 days. Standard production lead time: 10–14 days from artwork approval.
 

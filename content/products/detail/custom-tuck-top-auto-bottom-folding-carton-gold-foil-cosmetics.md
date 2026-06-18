@@ -2,7 +2,7 @@
 title: "Custom Tuck-Top Auto-Bottom Folding Carton with Gold Foil for Luxury Cosmetics"
 date: 2026-06-16
 draft: false
-description: "Custom Tuck-Top Auto-Bottom Folding Carton with Gold Foil for Luxury Cosmetics — manufactured by Bincai Printing, 22-year ISO 9001 & FSC certified. KBA 1050 4-color + Heidelberg 7+1 UV, 18,000 sqm factory, 1.7M daily output. Auto-lock bottom for fast assembly, gold hot foil, soft-touch lamination, custom die-cut window. MOQ 1000. Ideal for skincare, perfume, and premium cosmetic packaging."
+description: "Custom Tuck-Top Auto-Bottom Folding Carton with Gold Foil for Luxury Cosmetics — manufactured by Bincai Printing, 23-year ISO 9001 & FSC certified. KBA 1050 4-color + Heidelberg 7+1 UV, 18,000 sqm factory, 1.7M daily output. Auto-lock bottom for fast assembly, gold hot foil, soft-touch lamination, custom die-cut window. MOQ 1000. Ideal for skincare, perfume, and premium cosmetic packaging."
 keywords: "folding carton, auto bottom box, cosmetics packaging, gold foil carton, tuck top box, luxury skincare packaging, perfume box, custom folding carton, ISO 9001 FSC, Bincai Guangdong, cosmetic box manufacturer, auto-lock bottom, soft-touch lamination, die cut window, wholesale cosmetic packaging, OEM folding carton China, KBA 1050, Heidelberg 7+1, MOQ 1000, premium paper box"
 categories: ["folding-cartons"]
 params:
@@ -20,7 +20,7 @@ tags:
 
 ![Bincai Folding Carton for Cosmetics](/images/folding-cartons.jpg)
 
-Custom tuck-top auto-bottom folding carton with gold hot foil stamping designed for luxury cosmetics, skincare, and fragrance packaging — manufactured by **Guangdong Bincai Color Printing Co., Ltd.**, ISO 9001:2015 and FSC Chain-of-Custody certified. The auto-lock bottom allows rapid manual assembly (under 3 seconds per box) without adhesive, making it ideal for high-volume cosmetic filling lines. Full-color Heidelberg 7+1 UV offset printing delivers photographic-quality brand imagery, while the soft-touch lamination creates the velvety tactile feel that premium cosmetic brands demand. Optional die-cut PET window showcases the product within. 22 years of manufacturing experience since 2003. Daily output of 1.7 million boxes.
+Custom tuck-top auto-bottom folding carton with gold hot foil stamping designed for luxury cosmetics, skincare, and fragrance packaging — manufactured by **Guangdong Bincai Color Printing Co., Ltd.**, ISO 9001:2015 and FSC Chain-of-Custody certified. The auto-lock bottom allows rapid manual assembly (under 3 seconds per box) without adhesive, making it ideal for high-volume cosmetic filling lines. Full-color Heidelberg 7+1 UV offset printing delivers photographic-quality brand imagery, while the soft-touch lamination creates the velvety tactile feel that premium cosmetic brands demand. Optional die-cut PET window showcases the product within. 23 years of manufacturing experience since 2003. Daily output of 1.7 million boxes.
 
 ## Applications
 - Luxury skincare product packaging: serums, creams, masks, and oils
@@ -47,7 +47,7 @@ Custom tuck-top auto-bottom folding carton with gold hot foil stamping designed 
 - Daily output: 1.7 million color boxes
 - Factory: 18,000 sqm (10,000+8,000 sqm smart factory), Foshan, Guangdong
 - Certifications: ISO 9001:2015, FSC Chain-of-Custody, SGS
-- Experience: 22 years, 200+ global brand clients
+- Experience: 23 years, 200+ global brand clients
 - MOQ: 1,000 units with free pre-production samples
 - Lead time: 12-20 days
 
@@ -123,6 +123,6 @@ For two decades, Bincai has been the folding carton partner behind some of the w
 - **Global Compliance Ready** — Every shipment includes FSC certification and ISO 9001 batch traceability — required by EU retailers and Amazon Premium Beauty.
 - **Cost-Effective Quality** — KBA 1050 + Heidelberg 7+1 UV print quality at Foshan manufacturing costs. Direct factory pricing, no agent markup.
 
-**Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China.
+**Factory Facts:** Founded 2003 | 23 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China.
 
 **Shipping:** Flat-packed folding cartons maximize container efficiency — typical 40HQ container holds 200,000–500,000 cartons. Lead time 12-20 days from order confirmation to FOB Shenzhen/Guangzhou.

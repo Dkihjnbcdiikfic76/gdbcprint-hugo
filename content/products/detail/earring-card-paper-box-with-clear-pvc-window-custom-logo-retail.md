@@ -2,8 +2,8 @@
 title: "Earring Card Paper Box with Clear PVC Window Custom Logo Retail"
 date: 2026-06-11
 draft: false
-description: "Custom earring card paper box with clear PVC window and logo printing for jewelry retail display. KBA 1050 4-color + Heidelberg 7+1 UV offset printing in 18,000 sqm ISO 9001 & FSC certified factory. Die-cut window, hot foil stamping, matte/gloss lamination. 22 years experience, 1.7M daily output. MOQ 500."
-keywords: "earring card box, jewelry display box, PVC window box, custom jewelry packaging, retail earring box, earring card packaging, wholesale jewelry box, hanging display box, jewelry box manufacturer, Bincai jewelry box, ISO 9001 FSC packaging, die-cut window box, earring gift packaging, OEM jewelry box China, Guangdong jewelry box factory, tuck-top jewelry box, foil stamped jewelry box, velvet card box, KBA offset printing, Heidelberg UV press, 18,000 sqm factory, 22 years experience, custom logo jewelry box, retail display packaging, paper card box with window, FSC certified box, 1.7M daily output, wholesale earring packaging, earring backing card, carded jewelry packaging"
+description: "Custom earring card paper box with clear PVC window and logo printing for jewelry retail display. KBA 1050 4-color + Heidelberg 7+1 UV offset printing in 18,000 sqm ISO 9001 & FSC certified factory. Die-cut window, hot foil stamping, matte/gloss lamination. 23 years experience, 1.7M daily output. MOQ 500."
+keywords: "earring card box, jewelry display box, PVC window box, custom jewelry packaging, retail earring box, earring card packaging, wholesale jewelry box, hanging display box, jewelry box manufacturer, Bincai jewelry box, ISO 9001 FSC packaging, die-cut window box, earring gift packaging, OEM jewelry box China, Guangdong jewelry box factory, tuck-top jewelry box, foil stamped jewelry box, velvet card box, KBA offset printing, Heidelberg UV press, 18,000 sqm factory, 23 years experience, custom logo jewelry box, retail display packaging, paper card box with window, FSC certified box, 1.7M daily output, wholesale earring packaging, earring backing card, carded jewelry packaging"
 categories: ["jewelry-boxes"]
 params:
   moq: "500-1000"
@@ -14,7 +14,7 @@ params:
 
 ![Earring Card Box](/images/cat-rigid-jewelry.jpg)
 
-Premium earring card paper box with clear PVC window and custom logo printing — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). Our 18,000 sqm production facility (10,000 sqm primary plant + 8,000 sqm auxiliary workshop) houses KBA 1050 4-color offset and Heidelberg Speedmaster 7+1 UV presses, delivering a daily output of 1.7 million boxes. ISO 9001:2015 and FSC Chain of Custody certified, we produce card-style earring packaging that combines product visibility with brand presentation — the clear PVC window showcases earrings while the printed card surface communicates your brand identity at retail point of sale.
+Premium earring card paper box with clear PVC window and custom logo printing — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 23 years of experience (founded 2003). Our 18,000 sqm production facility (10,000 sqm primary plant + 8,000 sqm auxiliary workshop) houses KBA 1050 4-color offset and Heidelberg Speedmaster 7+1 UV presses, delivering a daily output of 1.7 million boxes. ISO 9001:2015 and FSC Chain of Custody certified, we produce card-style earring packaging that combines product visibility with brand presentation — the clear PVC window showcases earrings while the printed card surface communicates your brand identity at retail point of sale.
 
 ## Applications
 Earring card paper boxes are the go-to packaging format for retail jewelry displays, combining a rigid or semi-rigid card backing with a die-cut transparent window. Ideal for:
@@ -72,7 +72,7 @@ When retailers choose earring packaging, they face a hidden trade-off: the indus
 **The Jewelry Counter Reality**: A paper earring card with a clear window does what no blister card can — it lets the product speak while the brand tells the story. Jewelry buyers spend 7 seconds at a retail display; if the first thing they see is plastic, they assume plastic-level quality. If the first thing they see is a thoughtfully designed card with the actual earring visible, they reach for it. That 7-second decision is worth the ¥0.08 per-unit premium.
 
 ## Factory
-- 22 years of manufacturing excellence (founded 2003)
+- 23 years of manufacturing excellence (founded 2003)
 - 18,000 sqm total production campus: 10,000 sqm primary plant + 8,000 sqm auxiliary workshop in Foshan, Guangdong, China
 - KBA 1050 4-color offset press + Heidelberg Speedmaster 7+1 UV press
 - Automatic die-cutting, window patching, and folder-gluer lines under one roof

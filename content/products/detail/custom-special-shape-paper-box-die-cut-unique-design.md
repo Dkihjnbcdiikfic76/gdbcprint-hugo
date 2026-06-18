@@ -2,8 +2,8 @@
 title: "Custom Special Shape Paper Box Die-Cut Unique Design"
 date: 2026-06-11
 draft: false
-description: "Custom special shape paper box with die-cut unique design — hexagons, rounds, hearts, trapezoids. Manufactured by Bincai Color Printing, Foshan Guangdong. 22 years experience, 18,000 sqm factory with KBA 1050 & Heidelberg 7+1 UV presses. ISO 9001 & FSC certified. Daily output 1.7M boxes. Custom sizes, finishes, foil stamping. MOQ 500-1000 pcs."
-keywords: "special shape paper box, die-cut paper box, custom rigid gift box, unique design packaging, luxury gift box, Bincai Color Printing, ISO 9001, FSC certified, Foshan Guangdong, 22 years, KBA Heidelberg, custom packaging, wholesale paper boxes, hexagon gift box, rigid paper box"
+description: "Custom special shape paper box with die-cut unique design — hexagons, rounds, hearts, trapezoids. Manufactured by Bincai Color Printing, Foshan Guangdong. 23 years experience, 18,000 sqm factory with KBA 1050 & Heidelberg 7+1 UV presses. ISO 9001 & FSC certified. Daily output 1.7M boxes. Custom sizes, finishes, foil stamping. MOQ 500-1000 pcs."
+keywords: "special shape paper box, die-cut paper box, custom rigid gift box, unique design packaging, luxury gift box, Bincai Color Printing, ISO 9001, FSC certified, Foshan Guangdong, 23 years, KBA Heidelberg, custom packaging, wholesale paper boxes, hexagon gift box, rigid paper box"
 categories: ["rigid-gift-boxes"]
 params:
   moq: "500-1000"
@@ -14,7 +14,7 @@ params:
 
 ![Bincai Rigid Gift Boxes](/images/rigid-gift-boxes.jpg)
 
-Custom special shape paper box with die-cut unique design — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain rigid box and folding carton enterprise with 22 years of experience (founded 2003). 18,000 sqm factory (10,000+8,000 smart factory) with KBA 1050 4-color and Heidelberg 7+1 UV presses, backed by ISO 9001:2015 and FSC certifications. Daily output: 1.7 million color boxes + 220,000+ gift boxes.
+Custom special shape paper box with die-cut unique design — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain rigid box and folding carton enterprise with 23 years of experience (founded 2003). 18,000 sqm factory (10,000+8,000 smart factory) with KBA 1050 4-color and Heidelberg 7+1 UV presses, backed by ISO 9001:2015 and FSC certifications. Daily output: 1.7 million color boxes + 220,000+ gift boxes.
 
 ## Applications
 - Luxury gift packaging with distinctive silhouettes — hexagons, rounds, hearts, trapezoids
@@ -55,7 +55,7 @@ Custom special shape paper box with die-cut unique design — manufactured by Gu
 - Edge crush and drop testing for shipping durability on request
 
 ## Factory
-- 22 years of paper box manufacturing since 2003
+- 23 years of paper box manufacturing since 2003
 - 18,000 sqm factory (10,000+8,000 smart factory, expanded 2025)
 - 80+ employees across design, printing, die-cutting, and assembly
 - KBA 1050 4-color + Heidelberg 7+1 UV + fully automatic rigid box lines

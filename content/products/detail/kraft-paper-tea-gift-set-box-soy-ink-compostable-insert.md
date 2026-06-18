@@ -2,8 +2,8 @@
 title: "Kraft Paper Tea Gift Set Box — Soy Ink Printed, Compostable Insert Tray"
 date: 2026-06-15
 draft: false
-description: "100% recyclable kraft paper tea gift set box with compostable molded pulp insert tray — manufactured by Guangdong Bincai Color Printing Co., Ltd., a 22-year sustainable packaging specialist since 2003. Zero plastic construction: FSC-certified 350gsm kraft board wrapped over 2.0mm greyboard, soy-based ink printing for toxin-free branding, and a compostable molded pulp insert tray that cradles tea bags, loose-leaf pouches, or tea tins. KBA Rapida 1050 4-color offset press prints vibrant eco-branding with Pantone matching, while Heidelberg 7+1 UV adds water-based spot coating for scuff resistance. Bobst SP 102 BMA die-cutter shapes the rigid box panels with ±0.1mm precision. Emmeci MC2004 box former assembles with water-based PVA adhesive — no solvent VOCs. ISO 9001:2015 quality management and FSC Chain-of-Custody certified across our 18,000 sqm factory (10,000+8,000 smart factory). Daily output 1.7M boxes. Meets EU 1935/2004 food-contact material standards. MOQ 500 units."
-keywords: "kraft tea gift box, eco tea packaging, compostable tea box, soy ink printed box, plastic-free packaging, kraft rigid box, Bincai, Guangdong, ISO 9001, FSC, KBA Rapida 1050, Heidelberg 7+1 UV, Bobst SP 102 BMA, Emmeci MC2004, 18,000 sqm factory, 1.7M daily output, OEM, sustainable tea packaging, FSC certified kraft, molded pulp insert, compostable packaging, zero plastic box, tea gift set, organic tea box, biodegradable box, recyclable packaging, water-based adhesive, EU 1935/2004 compliant, food-grade packaging, soy-based ink, FSC Chain-of-Custody, kraft paper gift box, eco-friendly gift, sustainable luxury, China eco box factory, Foshan manufacturer, Bincai Color Printing, 22 years experience, tea brand packaging, loose leaf tea box, tea bag gift set, green packaging"
+description: "100% recyclable kraft paper tea gift set box with compostable molded pulp insert tray — manufactured by Guangdong Bincai Color Printing Co., Ltd., a 23-year sustainable packaging specialist since 2003. Zero plastic construction: FSC-certified 350gsm kraft board wrapped over 2.0mm greyboard, soy-based ink printing for toxin-free branding, and a compostable molded pulp insert tray that cradles tea bags, loose-leaf pouches, or tea tins. KBA Rapida 1050 4-color offset press prints vibrant eco-branding with Pantone matching, while Heidelberg 7+1 UV adds water-based spot coating for scuff resistance. Bobst SP 102 BMA die-cutter shapes the rigid box panels with ±0.1mm precision. Emmeci MC2004 box former assembles with water-based PVA adhesive — no solvent VOCs. ISO 9001:2015 quality management and FSC Chain-of-Custody certified across our 18,000 sqm factory (10,000+8,000 smart factory). Daily output 1.7M boxes. Meets EU 1935/2004 food-contact material standards. MOQ 500 units."
+keywords: "kraft tea gift box, eco tea packaging, compostable tea box, soy ink printed box, plastic-free packaging, kraft rigid box, Bincai, Guangdong, ISO 9001, FSC, KBA Rapida 1050, Heidelberg 7+1 UV, Bobst SP 102 BMA, Emmeci MC2004, 18,000 sqm factory, 1.7M daily output, OEM, sustainable tea packaging, FSC certified kraft, molded pulp insert, compostable packaging, zero plastic box, tea gift set, organic tea box, biodegradable box, recyclable packaging, water-based adhesive, EU 1935/2004 compliant, food-grade packaging, soy-based ink, FSC Chain-of-Custody, kraft paper gift box, eco-friendly gift, sustainable luxury, China eco box factory, Foshan manufacturer, Bincai Color Printing, 23 years experience, tea brand packaging, loose leaf tea box, tea bag gift set, green packaging"
 categories: ["kraft-eco-boxes"]
 params:
   moq: "500"
@@ -53,7 +53,7 @@ Guangdong Bincai Color Printing Co., Ltd. manufactures this 100% recyclable kraf
 | Sample Turnaround | 5-7 days, free pre-production samples |
 | Factory | 18,000 sqm, Foshan, Pearl River Delta, China |
 | Certifications | ISO 9001:2015, FSC Chain-of-Custody, Sedex SMETA |
-| Experience | 22 years (founded 2003), 350+ workers |
+| Experience | 23 years (founded 2003), 350+ workers |
 
 ## Quality Assurance
 
@@ -72,6 +72,6 @@ Guangdong Bincai Color Printing Co., Ltd. manufactures this 100% recyclable kraf
 
 Bincai's eco-packaging expertise is driven by in-house molded pulp production — we manufacture the compostable insert trays in our own facility rather than sourcing from third-party pulp molders. This integration eliminates the 5-7 day outsourced lead time and ensures insert-fit precision (±0.5mm) because our die-cut team and pulp-molding team work from the same CAD file. For tea brands, our FSC Chain-of-Custody certification means every kraft board shipment comes with traceable certification documentation — critical for brands marketing their eco-credentials in EU and North American markets. The soy-based ink printing on natural kraft produces a distinctive, authentic aesthetic that synthetic-coated boards cannot replicate.
 
-**Factory Facts:** Founded 2003 | 22 years | 18,000 sqm | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
+**Factory Facts:** Founded 2003 | 23 years | 18,000 sqm | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
 
 **Shipping:** Flat-packed unassembled — 60% freight volume savings vs. pre-assembled rigid boxes. Production lead time: 12-15 days. Sea freight: 12-16 days to US West Coast, 25-30 days to Europe.

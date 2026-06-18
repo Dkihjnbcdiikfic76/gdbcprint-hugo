@@ -2,7 +2,7 @@
 title: "Straight Tuck End Folding Carton with Soft-Touch Lamination and Gold Foil Accent for Premium Skincare"
 date: 2026-06-11
 draft: false
-description: "Straight tuck end (STE) folding carton with velvet soft-touch lamination, gold foil border, and custom die-cut inner platform. 350gsm CCNB + 157gsm art paper. For luxury serum, cream jar, and face oil packaging. ISO 9001 & FSC certified, 22 years experience."
+description: "Straight tuck end (STE) folding carton with velvet soft-touch lamination, gold foil border, and custom die-cut inner platform. 350gsm CCNB + 157gsm art paper. For luxury serum, cream jar, and face oil packaging. ISO 9001 & FSC certified, 23 years experience."
 keywords: "straight tuck end box, STE folding carton, skincare packaging box, soft-touch lamination carton, gold foil carton, luxury cosmetic box, serum packaging, cream jar box, Bincai folding carton, Foshan cosmetic box manufacturer, CCNB carton, sustainable skincare packaging, ISO 9001 cosmetic packaging, premium carton box, custom cosmetic packaging"
 categories: ["folding-cartons"]
 params:
@@ -16,7 +16,7 @@ params:
 
 ## Product Overview
 
-The Bincai Straight Tuck End (STE) Folding Carton with Soft-Touch Lamination delivers the tactile luxury that premium skincare brands demand — the **velvet-soft matte surface** begs to be touched, creating an instant sensory connection that elevates perceived product value by 30-40% in consumer studies. A **gold foil border accent** frames the front panel with a crisp, luminous edge that catches retail display lighting and signals premium positioning on crowded beauty shelves. The **die-cut inner platform** locks the serum bottle or cream jar securely in place, preventing rotation during transit while showcasing the product through the open-top presentation. Manufactured on **Heidelberg Speedmaster XL 7+1 UV** and **KBA Rapida 105 4-color** press lines at Guangdong Bincai Color Printing's dual-factory complex, every carton benefits from 22 years of folding carton specialization and rigorous quality control across 220,000+ daily box output.
+The Bincai Straight Tuck End (STE) Folding Carton with Soft-Touch Lamination delivers the tactile luxury that premium skincare brands demand — the **velvet-soft matte surface** begs to be touched, creating an instant sensory connection that elevates perceived product value by 30-40% in consumer studies. A **gold foil border accent** frames the front panel with a crisp, luminous edge that catches retail display lighting and signals premium positioning on crowded beauty shelves. The **die-cut inner platform** locks the serum bottle or cream jar securely in place, preventing rotation during transit while showcasing the product through the open-top presentation. Manufactured on **Heidelberg Speedmaster XL 7+1 UV** and **KBA Rapida 105 4-color** press lines at Guangdong Bincai Color Printing's dual-factory complex, every carton benefits from 23 years of folding carton specialization and rigorous quality control across 220,000+ daily box output.
 
 ## Applications
 
@@ -72,7 +72,7 @@ The Bincai Straight Tuck End (STE) Folding Carton with Soft-Touch Lamination del
 
 ---
 
-*Guangdong Bincai Color Printing Co., Ltd. — 22 years of packaging excellence. ISO 9001:2015 & FSC certified. 18,000 sqm Foshan facility (10,000+8,000 smart factory). Daily output: 1.7M+ boxes. Serving 60+ countries worldwide.*
+*Guangdong Bincai Color Printing Co., Ltd. — 23 years of packaging excellence. ISO 9001:2015 & FSC certified. 18,000 sqm Foshan facility (10,000+8,000 smart factory). Daily output: 1.7M+ boxes. Serving 60+ countries worldwide.*
 
 ## FAQ
 

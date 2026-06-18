@@ -2,8 +2,8 @@
 title: "Leather-Finish Rigid Jewelry Box with Magnetic Clasp — Rings & Earrings"
 date: 2026-06-12
 draft: false
-description: "Leather-finish rigid jewelry box with magnetic clasp closure for rings, earrings, bracelets, and fine jewelry. PU leatherette exterior, velvet flocked interior with die-cut ring slots. Bobst foil stamping, 2.5mm greyboard construction. Manufactured at Bincai's 18,000 sqm ISO 9001:2015 & FSC certified factory. 22 years Guangdong manufacturing since 2003. 220,000+ rigid boxes daily. MOQ 500."
-keywords: "leather jewelry box, rigid jewelry box, ring box, earring box, magnetic clasp box, PU leatherette box, velvet interior box, jewelry packaging, jewelry box manufacturer China, Bincai, Bobst foil stamping, ISO 9001 FSC, 18,000 sqm factory, 22 years factory, 220K daily output, Guangdong jewelry box, leatherette gift box, KBA 1050 4-color press, Heidelberg 7+1 UV, sustainable packaging, 1.7M daily output, custom jewelry box wholesale, luxury ring box OEM, engagement ring packaging, artisan jewelry box, jewelry display packaging, wholesale jewelry boxes China, fine jewelry packaging, magnetic flip box, leatherette gift box manufacturer, rigid set-up box"
+description: "Leather-finish rigid jewelry box with magnetic clasp closure for rings, earrings, bracelets, and fine jewelry. PU leatherette exterior, velvet flocked interior with die-cut ring slots. Bobst foil stamping, 2.5mm greyboard construction. Manufactured at Bincai's 18,000 sqm ISO 9001:2015 & FSC certified factory. 23 years Guangdong manufacturing since 2003. 220,000+ rigid boxes daily. MOQ 500."
+keywords: "leather jewelry box, rigid jewelry box, ring box, earring box, magnetic clasp box, PU leatherette box, velvet interior box, jewelry packaging, jewelry box manufacturer China, Bincai, Bobst foil stamping, ISO 9001 FSC, 18,000 sqm factory, 23 years factory, 220K daily output, Guangdong jewelry box, leatherette gift box, KBA 1050 4-color press, Heidelberg 7+1 UV, sustainable packaging, 1.7M daily output, custom jewelry box wholesale, luxury ring box OEM, engagement ring packaging, artisan jewelry box, jewelry display packaging, wholesale jewelry boxes China, fine jewelry packaging, magnetic flip box, leatherette gift box manufacturer, rigid set-up box"
 categories: ["jewelry-boxes"]
 params:
   moq: "500"
@@ -14,7 +14,7 @@ params:
 
 ![Bincai Jewelry Boxes](/images/cat-rigid-jewelry.jpg)
 
-Leather-finish rigid jewelry box with magnetic clasp for rings and earrings — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). Designed for fine jewelry brands, artisan jewelers, and luxury accessories requiring an elegant presentation that matches the quality of the piece inside. The exterior features premium PU leatherette in a range of textures — smooth, pebbled, or crocodile-embossed — with a discreet magnetic clasp closure for secure, satisfying opening. The interior is fully lined with plush velvet flocking and precision die-cut slots for rings, earrings, or bracelet presentation. Bobst SP 102 BMA foil stamping provides crisp metallic brand logos. Constructed with 2.5mm greyboard walls and wrapped corners for long-lasting durability. Our 18,000 sqm Foshan facility delivers 220,000+ rigid boxes daily under ISO 9001:2015 and FSC Chain-of-Custody certification.
+Leather-finish rigid jewelry box with magnetic clasp for rings and earrings — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 23 years of experience (founded 2003). Designed for fine jewelry brands, artisan jewelers, and luxury accessories requiring an elegant presentation that matches the quality of the piece inside. The exterior features premium PU leatherette in a range of textures — smooth, pebbled, or crocodile-embossed — with a discreet magnetic clasp closure for secure, satisfying opening. The interior is fully lined with plush velvet flocking and precision die-cut slots for rings, earrings, or bracelet presentation. Bobst SP 102 BMA foil stamping provides crisp metallic brand logos. Constructed with 2.5mm greyboard walls and wrapped corners for long-lasting durability. Our 18,000 sqm Foshan facility delivers 220,000+ rigid boxes daily under ISO 9001:2015 and FSC Chain-of-Custody certification.
 
 ## Applications
 - Engagement ring and wedding band presentation boxes
@@ -53,7 +53,7 @@ Leather-finish rigid jewelry box with magnetic clasp for rings and earrings — 
 - MOQ 500 units, trial orders and OEM/ODM accepted
 
 ## Factory
-- 22 years of manufacturing excellence since 2003
+- 23 years of manufacturing excellence since 2003
 - 18,000 sqm factory (10,000+8,000 smart factory)
 - 80+ skilled employees across design, prepress, printing, and finishing
 - KBA 1050 4-color + Heidelberg 7+1 UV presses
@@ -90,7 +90,7 @@ Bincai's jewelry boxes pass through 7 quality checkpoints before shipment:
 
 | Advantage | What It Means for You |
 |-----------|----------------------|
-| **22 Years of Rigid Box Expertise** | Since 2003 — we've manufactured 500M+ rigid boxes; your design benefits from decades of refinement |
+| **23 Years of Rigid Box Expertise** | Since 2003 — we've manufactured 500M+ rigid boxes; your design benefits from decades of refinement |
 | **Full In-House Production** | Prepress → KBA 1050 / Heidelberg 7+1 UV → Bobst die-cutting/folding/foil stamping → assembly — no outsourcing, full quality control |
 | **18,000 sqm Dual Factory** | 10,000 sqm core facility + 8,000 sqm smart factory (2025 expansion) ensures capacity even during peak seasons |
 | **220K+ Rigid Boxes Daily** | 1.7M total daily output means your orders ship on schedule, from MOQ 500 to 500,000+ |

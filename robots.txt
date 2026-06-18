@@ -1,6 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /admin/
-Sitemap: https://gdbcprint.com/sitemap.xml
-
-# Crawl-delay: 2

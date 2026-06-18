@@ -2,8 +2,8 @@
 title: "Velvet Cufflink Display Box with Suede Tray & Magnetic Closure — Custom Embossing"
 date: 2026-06-14
 draft: false
-description: "Luxury velvet cufflink display box with suede tray and magnetic closure by Guangdong Bincai Color Printing — Diamond Member on Made-in-China.com. Custom embossed logo, soft-touch velvet flocking interior, 2/4/6/8-pair capacity options. ISO 9001:2015 & FSC certified. 22 years experience, 18,000 sqm factory, KBA 1050 4-color + Heidelberg 7+1 UV presses, daily output 1.7M boxes. MOQ 500."
-keywords: "cufflink display box, velvet jewelry box, suede tray box, magnetic closure gift box, custom embossing, luxury cufflink packaging, Bincai Color Printing, Guangdong packaging factory, 22 years experience, ISO 9001 certified, FSC certified, KBA 1050 offset, Heidelberg 7+1 UV, 18,000 sqm factory, OEM jewelry box China"
+description: "Luxury velvet cufflink display box with suede tray and magnetic closure by Guangdong Bincai Color Printing — Diamond Member on Made-in-China.com. Custom embossed logo, soft-touch velvet flocking interior, 2/4/6/8-pair capacity options. ISO 9001:2015 & FSC certified. 23 years experience, 18,000 sqm factory, KBA 1050 4-color + Heidelberg 7+1 UV presses, daily output 1.7M boxes. MOQ 500."
+keywords: "cufflink display box, velvet jewelry box, suede tray box, magnetic closure gift box, custom embossing, luxury cufflink packaging, Bincai Color Printing, Guangdong packaging factory, 23 years experience, ISO 9001 certified, FSC certified, KBA 1050 offset, Heidelberg 7+1 UV, 18,000 sqm factory, OEM jewelry box China"
 categories: ["jewelry-boxes"]
 params:
   moq: "500"
@@ -14,7 +14,7 @@ params:
 
 ![Bincai Jewelry Boxes](/images/cat-rigid-jewelry.jpg)
 
-Premium velvet cufflink display box with precision die-cut suede tray and magnetic closure, manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — a Diamond Member on Made-in-China.com, Audited Supplier with 22 years of experience. Rigid 2.0mm greyboard construction with soft-touch velvet flocking interior and custom-logo embossing on the lid. Available in 2-pair, 4-pair, 6-pair, and 8-pair configurations.
+Premium velvet cufflink display box with precision die-cut suede tray and magnetic closure, manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — a Diamond Member on Made-in-China.com, Audited Supplier with 23 years of experience. Rigid 2.0mm greyboard construction with soft-touch velvet flocking interior and custom-logo embossing on the lid. Available in 2-pair, 4-pair, 6-pair, and 8-pair configurations.
 
 ## Features
 - Rigid 2.0mm greyboard construction wrapped in 157gsm art paper with matte lamination
@@ -25,7 +25,7 @@ Premium velvet cufflink display box with precision die-cut suede tray and magnet
 - Optional satin ribbon hinge for a refined open-flat presentation
 - CMYK offset printing on KBA 1050 4-color press + Heidelberg 7+1 UV for spot coatings
 - ISO 9001:2015 certified quality management, FSC certified sustainable materials
-- 22 years experience, 18,000 sqm dual factory, daily output 1.7 million boxes
+- 23 years experience, 18,000 sqm dual factory, daily output 1.7 million boxes
 
 ## Applications
 

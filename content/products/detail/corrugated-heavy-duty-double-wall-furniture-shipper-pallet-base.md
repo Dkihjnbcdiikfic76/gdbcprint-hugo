@@ -2,7 +2,7 @@
 title: "Double-Wall Corrugated Furniture Box — Heavy-Duty Pallet Shipper for International Export"
 date: 2026-06-15
 draft: false
-description: "Double-wall BC/EB-flute corrugated furniture shipping box manufactured by Guangdong Bincai Color Printing Co., Ltd. (founded 2003, 22 years). Produced in our 18,000 sqm Foshan facility with BHS 2.5m corrugator, ISO 9001:2015 & FSC certified. Engineered for international furniture export with reinforced pallet base, heavy-duty edge crush resistance (ECT 44+), and moisture-resistant Kraft liners. Daily output 1.7M boxes."
+description: "Double-wall BC/EB-flute corrugated furniture shipping box manufactured by Guangdong Bincai Color Printing Co., Ltd. (founded 2003, 23 years). Produced in our 18,000 sqm Foshan facility with BHS 2.5m corrugator, ISO 9001:2015 & FSC certified. Engineered for international furniture export with reinforced pallet base, heavy-duty edge crush resistance (ECT 44+), and moisture-resistant Kraft liners. Daily output 1.7M boxes."
 keywords: "double-wall corrugated box, furniture shipping box, heavy-duty export carton, BC flute corrugated, EB flute, pallet base shipper, bincai, guangdong, iso 9001, fsc, bhs 2.5m corrugator, 18000 sqm, 1.7m daily output, die-cut reinforcement, ECT 44, ISTA 3E, furniture export packaging, OEM"
 categories: ["corrugated-mailers"]
 params:
@@ -72,6 +72,6 @@ Every furniture shipper passes through Bincai's seven-stage QC gate:
 
 When shipping furniture internationally, box failure means product damage claims, chargebacks, and lost customer trust. Bincai's double-wall corrugated shippers are produced on a BHS 2.5m corrugator — the gold standard in the industry — with inline ECT/BCT testing at every production run. Our integrated operation in Foshan means the corrugated board, printing, die-cutting, and assembly all happen under one roof, eliminating the quality gaps common in multi-vendor supply chains.
 
-**Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV + BHS 2.5m Corrugator | ISO 9001 & FSC | Foshan, Guangdong, China
+**Factory Facts:** Founded 2003 | 23 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV + BHS 2.5m Corrugator | ISO 9001 & FSC | Foshan, Guangdong, China
 
 **Shipping:** Flat-packed and palletized — 500-1,000 units per standard pallet. Container loading: 20' GP fits ~18 pallets, 40' HC fits ~40 pallets. Lead time 10-14 days production. Free pre-production samples with 5-7 day turnaround.

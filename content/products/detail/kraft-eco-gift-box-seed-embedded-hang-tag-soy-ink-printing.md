@@ -2,7 +2,7 @@
 title: "Kraft Paper Eco Gift Box with Seed-Embedded Hang Tag and Soy-Based Ink Printing"
 date: 2026-06-14
 draft: false
-description: "Fully sustainable kraft paper gift box manufactured by Guangdong Bincai Color Printing (22 years, ISO 9001 & FSC certified, 18,000 sqm). The hang tag is embedded with wildflower seeds — plant it and flowers grow. Soy-based ink printing on 100% recycled kraft board with water-based adhesive assembly. Cotton twine closure, unbleached kraft exterior with natural brown aesthetic. Customizable with brand message on plantable tag, internal print, and size variations. MOQ 500. Daily output 1.7M boxes on Heidelberg 7+1 UV and KBA 1050 4-color presses using eco-certified consumables."
+description: "Fully sustainable kraft paper gift box manufactured by Guangdong Bincai Color Printing (23 years, ISO 9001 & FSC certified, 18,000 sqm). The hang tag is embedded with wildflower seeds — plant it and flowers grow. Soy-based ink printing on 100% recycled kraft board with water-based adhesive assembly. Cotton twine closure, unbleached kraft exterior with natural brown aesthetic. Customizable with brand message on plantable tag, internal print, and size variations. MOQ 500. Daily output 1.7M boxes on Heidelberg 7+1 UV and KBA 1050 4-color presses using eco-certified consumables."
 keywords: "seed embedded hang tag gift box, plantable tag packaging, soy ink printed box, eco-friendly gift box, kraft paper gift box, sustainable packaging China, recycled kraft box, plantable packaging, zero-waste gift box, FSC certified kraft box, Bincai eco packaging, ISO 9001 sustainable box, 18,000 sqm factory, Guangdong kraft box manufacturer, Heidelberg 7+1 UV soy ink, water-based adhesive box, cotton twine closure box"
 categories: ["kraft-eco-boxes"]
 params:
@@ -18,7 +18,7 @@ params:
 
 Packaging that outlives its purpose — quite literally. The **Kraft Paper Eco Gift Box with Seed-Embedded Hang Tag** is designed for brands that understand sustainability is not a checkbox but a brand statement. The box is made from 100% recycled kraft board, printed with soy-based inks, assembled with water-based adhesives, and closed with natural cotton twine. But the defining feature is the hang tag: embedded with a mix of wildflower seeds, it transforms from packaging into a garden when planted.
 
-Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — 22 years, ISO 9001:2015 & FSC® certified, 18,000 sqm facility, 1.7M boxes/day — this box embodies the circular economy principle: nothing is waste, everything is a resource.
+Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** — 23 years, ISO 9001:2015 & FSC® certified, 18,000 sqm facility, 1.7M boxes/day — this box embodies the circular economy principle: nothing is waste, everything is a resource.
 
 ## Key Specifications
 
@@ -89,7 +89,7 @@ The seed-embedded tag is made from post-consumer recycled paper pulp mixed with 
 
 ## Why Bincai
 
-- **22 years** of packaging manufacturing with a dedicated eco-packaging division
+- **23 years** of packaging manufacturing with a dedicated eco-packaging division
 - **18,000 sqm** ISO 9001:2015 + FSC® certified facility in Guangdong, China
 - **FSC Chain-of-Custody** — full traceability from certified forests through manufacturing
 - **Soy ink** printing capability on Heidelberg 7+1 UV and KBA 1050 4-color presses

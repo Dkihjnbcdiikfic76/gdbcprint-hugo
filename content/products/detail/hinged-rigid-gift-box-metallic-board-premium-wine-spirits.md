@@ -2,8 +2,8 @@
 title: "Hinged Rigid Gift Box with Metallic Board — Premium Wine & Spirits Packaging"
 date: 2026-06-12
 draft: false
-description: "Hinged rigid gift box with luminous metallic pearl board for premium wine, spirits, champagne, and luxury beverage packaging. 2.5mm greyboard construction with magnetic closure and satin-lined interior featuring precision die-cut bottle cradle. Manufactured by Guangdong Bincai Color Printing Co., Ltd. (founded 2003) — 22 years Guangdong packaging expertise, 18,000 sqm ISO 9001:2015 & FSC certified dual factory (10,000+8,000 sqm smart factory), KBA Rapida 105 4-color + Heidelberg Speedmaster CD 102 7+1 UV presses with inter-deck UV curing, Bobst SP 102 BMA foil stamping at ±0.15mm registration. Daily output 220,000+ rigid gift boxes. Serving 200+ global brands in 60+ countries. Fits standard 750ml, magnum 1.5L, and specialty bottle formats. Ideal for wineries, distilleries, champagne houses, corporate gifting, duty-free retail, and limited-edition collector releases. MOQ 500 with free pre-production samples."
-keywords: "hinged rigid box, wine gift box, spirits packaging, champagne box, luxury beverage packaging, metallic board box, magnetic closure gift box, bottle packaging box, pearl metallic board box, whiskey presentation box, cognac gift box, distillery packaging, wine collector box, limited edition spirits box, corporate wine gift packaging, duty free spirits box, vintage wine box, magnum champagne box, rigid box manufacturer China, Bincai Color Printing, Heidelberg 7+1 UV, Bobst foil stamping, ISO 9001 FSC certified, 18,000 sqm factory, 22 years factory, 220K daily output, Guangdong rigid box, satin interior box, die-cut bottle cradle, metallic pearl board, KBA 1050 offset, luxury unboxing box, branded spirits box, OEM wine box China, Foshan rigid box factory, wine gift packaging wholesale, premium beverage packaging, bottle presentation box, book-style wine box"
+description: "Hinged rigid gift box with luminous metallic pearl board for premium wine, spirits, champagne, and luxury beverage packaging. 2.5mm greyboard construction with magnetic closure and satin-lined interior featuring precision die-cut bottle cradle. Manufactured by Guangdong Bincai Color Printing Co., Ltd. (founded 2003) — 23 years Guangdong packaging expertise, 18,000 sqm ISO 9001:2015 & FSC certified dual factory (10,000+8,000 sqm smart factory), KBA Rapida 105 4-color + Heidelberg Speedmaster CD 102 7+1 UV presses with inter-deck UV curing, Bobst SP 102 BMA foil stamping at ±0.15mm registration. Daily output 220,000+ rigid gift boxes. Serving 200+ global brands in 60+ countries. Fits standard 750ml, magnum 1.5L, and specialty bottle formats. Ideal for wineries, distilleries, champagne houses, corporate gifting, duty-free retail, and limited-edition collector releases. MOQ 500 with free pre-production samples."
+keywords: "hinged rigid box, wine gift box, spirits packaging, champagne box, luxury beverage packaging, metallic board box, magnetic closure gift box, bottle packaging box, pearl metallic board box, whiskey presentation box, cognac gift box, distillery packaging, wine collector box, limited edition spirits box, corporate wine gift packaging, duty free spirits box, vintage wine box, magnum champagne box, rigid box manufacturer China, Bincai Color Printing, Heidelberg 7+1 UV, Bobst foil stamping, ISO 9001 FSC certified, 18,000 sqm factory, 23 years factory, 220K daily output, Guangdong rigid box, satin interior box, die-cut bottle cradle, metallic pearl board, KBA 1050 offset, luxury unboxing box, branded spirits box, OEM wine box China, Foshan rigid box factory, wine gift packaging wholesale, premium beverage packaging, bottle presentation box, book-style wine box"
 categories: ["rigid-gift-boxes"]
 params:
   moq: "500"
@@ -16,11 +16,11 @@ params:
 
 ## Product Overview
 
-Hinged rigid gift box with luminous metallic pearl board for premium wine and spirits packaging — manufactured by **Guangdong Bincai Color Printing Co., Ltd.**, a full-chain packaging enterprise with 22 years of experience (founded 2003). Engineered for luxury wine, champagne, whiskey, cognac, and premium spirits brands requiring a prestigious unboxing experience that matches the quality of the liquid inside.
+Hinged rigid gift box with luminous metallic pearl board for premium wine and spirits packaging — manufactured by **Guangdong Bincai Color Printing Co., Ltd.**, a full-chain packaging enterprise with 23 years of experience (founded 2003). Engineered for luxury wine, champagne, whiskey, cognac, and premium spirits brands requiring a prestigious unboxing experience that matches the quality of the liquid inside.
 
 The book-style hinged lid opens to reveal a satin-lined interior with a precision die-cut bottle cradle that securely holds standard 750ml bottles, magnum 1.5L formats, and custom specialty bottle shapes. The exterior features luminous metallic pearl board (128–200gsm specialty substrate) with optional hot foil stamping for brand logos, vintage details, and crest designs. Constructed with 2.5mm greyboard walls for exceptional structural rigidity — the box feels substantial in hand, protects the bottle during gifting and transport, and presents beautifully on retail shelves and tasting room displays.
 
-Produced on Heidelberg Speedmaster CD 102 7+1 UV press with inter-deck UV curing for flawless metallic rendering, and Bobst SP 102 BMA foil stamping at ±0.15mm registration. Our 18,000 sqm Foshan dual-factory complex (10,000+8,000 sqm smart factory) delivers 220,000+ rigid gift boxes daily under ISO 9001:2015 and FSC Chain-of-Custody certification. 22 years of Guangdong manufacturing, serving wineries, distilleries, and luxury beverage brands in 60+ countries.
+Produced on Heidelberg Speedmaster CD 102 7+1 UV press with inter-deck UV curing for flawless metallic rendering, and Bobst SP 102 BMA foil stamping at ±0.15mm registration. Our 18,000 sqm Foshan dual-factory complex (10,000+8,000 sqm smart factory) delivers 220,000+ rigid gift boxes daily under ISO 9001:2015 and FSC Chain-of-Custody certification. 23 years of Guangdong manufacturing, serving wineries, distilleries, and luxury beverage brands in 60+ countries.
 
 ## Applications
 
@@ -83,7 +83,7 @@ Produced on Heidelberg Speedmaster CD 102 7+1 UV press with inter-deck UV curing
 
 | Advantage | Bincai Difference |
 |---|---|
-| **22 Years Luxury Packaging** | Founded 2003 — deep expertise in rigid box manufacturing for premium beverage brands; trusted by distilleries and wineries in 60+ countries |
+| **23 Years Luxury Packaging** | Founded 2003 — deep expertise in rigid box manufacturing for premium beverage brands; trusted by distilleries and wineries in 60+ countries |
 | **Heidelberg 7+1 UV Press** | Inter-deck UV curing for flawless metallic board printing — no post-print lamination needed, preserving the luminous pearl effect |
 | **Bobst Foil Stamping** | ±0.15mm precision for brand crests, vintage details, and metallic accents — gold, silver, rose gold, holographic, custom foil colors |
 | **In-House Rigid Box Line** | Fully automatic CNC corner-wrapped rigid box production — consistent quality from sample to mass production |
@@ -117,7 +117,7 @@ A: Yes. We offer sequential numbering via hot foil stamping or digital print —
 
 ## Factory
 
-- 22 years of manufacturing excellence since 2003
+- 23 years of manufacturing excellence since 2003
 - 18,000 sqm factory: 10,000 sqm main + 8,000 sqm smart factory (completed 2025)
 - 80+ skilled employees across design, prepress, printing, finishing, and rigid box assembly
 - KBA Rapida 105 4-color offset + Heidelberg Speedmaster CD 102 7+1 UV presses

@@ -77,7 +77,7 @@ The last line of defense before global dispatch:
 
 When your product sits on a retail shelf, the box is the first thing customers touch. A misaligned print, a weak magnetic closure, or a cracked hinge signals "cheap" — no matter how good the product inside. Our 6-stage QC chain catches those issues before they catch your customer's eye.
 
-**22 years. ISO 9001 & FSC certified. 18,000 sqm factory (10,000+8,000 smart factory). 1.7 million boxes a day. Every one inspected.**
+**23 years. ISO 9001 & FSC certified. 18,000 sqm factory (10,000+8,000 smart factory). 1.7 million boxes a day. Every one inspected.**
 
 ---
 

@@ -167,7 +167,7 @@ Running this equipment requires significant investment — in facilities, mainte
 
 - **18,000 sqm factory** (10,000 sqm primary + 8,000 sqm smart factory expansion) across two facilities in Foshan
 - **Annual maintenance contracts** with OEM-certified technicians for Heidelberg and Bobst equipment
-- **22 years of accumulated operator expertise** — our senior press operators have 15+ years on these specific machine models
+- **23 years of accumulated operator expertise** — our senior press operators have 15+ years on these specific machine models
 - **Climate-controlled pressroom** maintained at 23°C ±2°C and 50% ±5% RH for optimal paper stability and ink performance
 
 For B2B buyers, this translates to:
@@ -178,7 +178,7 @@ For B2B buyers, this translates to:
 
 ## Conclusion
 
-Bincai's equipment fleet represents a deliberate strategy: invest in best-in-class machinery, maintain it to OEM standards, and staff it with experienced operators who understand both the machines and the packaging they produce. From the KBA 1050's relentless throughput to the Heidelberg 7+1's premium finishing to the Bobst die-cutter's Swiss precision, every machine plays a specific role in delivering **1.7 million boxes daily** across 422+ product configurations — all backed by ISO 9001 quality systems and FSC chain-of-custody certification earned over 22 years of continuous operation.
+Bincai's equipment fleet represents a deliberate strategy: invest in best-in-class machinery, maintain it to OEM standards, and staff it with experienced operators who understand both the machines and the packaging they produce. From the KBA 1050's relentless throughput to the Heidelberg 7+1's premium finishing to the Bobst die-cutter's Swiss precision, every machine plays a specific role in delivering **1.7 million boxes daily** across 422+ product configurations — all backed by ISO 9001 quality systems and FSC chain-of-custody certification earned over 23 years of continuous operation.
 
 [Request samples](/contact/) to experience the quality difference that this equipment fleet delivers.
 

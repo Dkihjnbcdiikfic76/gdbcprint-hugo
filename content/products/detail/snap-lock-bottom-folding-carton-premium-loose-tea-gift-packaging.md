@@ -2,8 +2,8 @@
 title: "Snap-Lock Bottom Folding Carton for Premium Loose Tea Gift Packaging — Custom CMYK"
 date: 2026-06-14
 draft: false
-description: "Automatic snap-lock bottom folding carton designed for premium loose tea, herbal infusions, and specialty coffee packaging. Heavy 350gsm C1S SBS board with CMYK offset printing on KBA Rapida 105 4-color press, hot foil stamping, and optional soft-touch lamination. ISO 9001 & FSC certified manufacturing in 18,000 sqm facility with 22 years expertise. Food-safe soy-based inks, airtight inner pouch compatible, MOQ 1,000."
-keywords: "tea packaging box, loose tea carton, snap-lock bottom box, auto-lock folding carton, premium tea gift box, custom tea packaging, folding carton tea, C1S SBS tea box, food-safe tea box, soy ink tea carton, Bincai tea packaging, FSC certified tea box, ISO 9001 tea box, KBA 1050 tea carton, Heidelberg tea packaging, 18,000 sqm factory, 22 years manufacturing, Guangdong tea box factory, OEM tea carton China, hot foil tea box, soft-touch tea box, herbal infusion packaging, specialty coffee box, tea gift set packaging, tea retail box, custom printed tea box, luxury tea carton, biodegradable tea packaging"
+description: "Automatic snap-lock bottom folding carton designed for premium loose tea, herbal infusions, and specialty coffee packaging. Heavy 350gsm C1S SBS board with CMYK offset printing on KBA Rapida 105 4-color press, hot foil stamping, and optional soft-touch lamination. ISO 9001 & FSC certified manufacturing in 18,000 sqm facility with 23 years expertise. Food-safe soy-based inks, airtight inner pouch compatible, MOQ 1,000."
+keywords: "tea packaging box, loose tea carton, snap-lock bottom box, auto-lock folding carton, premium tea gift box, custom tea packaging, folding carton tea, C1S SBS tea box, food-safe tea box, soy ink tea carton, Bincai tea packaging, FSC certified tea box, ISO 9001 tea box, KBA 1050 tea carton, Heidelberg tea packaging, 18,000 sqm factory, 23 years manufacturing, Guangdong tea box factory, OEM tea carton China, hot foil tea box, soft-touch tea box, herbal infusion packaging, specialty coffee box, tea gift set packaging, tea retail box, custom printed tea box, luxury tea carton, biodegradable tea packaging"
 categories: ["folding-cartons"]
 params:
   moq: "1000-3000"
@@ -16,7 +16,7 @@ params:
 
 ## Product Overview
 
-The **Snap-Lock Bottom Folding Carton for Premium Loose Tea Packaging** has become the default format for specialty tea brands worldwide — and for good reason. The automatic snap-lock base deploys instantly with a single push, forming a rigid-bottom container capable of holding 100g to 500g of loose leaf tea, herbal infusions, or specialty coffee without the bottom collapsing under product weight once filled. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** in our 18,000 sqm ISO 9001 & FSC certified facility, this carton brings 22 years of paper packaging expertise to the booming global specialty tea market.
+The **Snap-Lock Bottom Folding Carton for Premium Loose Tea Packaging** has become the default format for specialty tea brands worldwide — and for good reason. The automatic snap-lock base deploys instantly with a single push, forming a rigid-bottom container capable of holding 100g to 500g of loose leaf tea, herbal infusions, or specialty coffee without the bottom collapsing under product weight once filled. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** in our 18,000 sqm ISO 9001 & FSC certified facility, this carton brings 23 years of paper packaging expertise to the booming global specialty tea market.
 
 The carton body uses heavy 350gsm C1S (coated one side) SBS (solid bleached sulfate) board, giving it a weight and tactile quality that communicates premium value at shelf level. The coated side receives full CMYK offset printing on our **KBA Rapida 105 4-color press** or **Heidelberg Speedmaster XL 7+1 UV** for jobs requiring inline spot UV — achieving food-safe, vibrant graphics that bring your tea brand's story to life. The uncoated interior naturally resists grease migration and is compatible with all standard airtight inner pouches (stand-up zipper, flat heat-seal, or tin-tie kraft).
 
@@ -77,7 +77,7 @@ Our 8-stage QC process covers every carton:
 
 The global tea market is projected to exceed $100B by 2028, and packaging is the silent salesperson on every retail shelf. Guangdong Bincai Color Printing is uniquely positioned to serve tea brands of all sizes:
 
-- **22 years** of folding carton manufacturing — we've printed over 2 billion cartons
+- **23 years** of folding carton manufacturing — we've printed over 2 billion cartons
 - **18,000 sqm** facility with dedicated food-grade production zones
 - **ISO 9001:2015** quality management + **FSC®** chain of custody certification
 - **Food-safe soy inks** with migration compliance documentation provided

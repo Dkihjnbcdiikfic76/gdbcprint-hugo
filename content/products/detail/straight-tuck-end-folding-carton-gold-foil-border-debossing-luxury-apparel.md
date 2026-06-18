@@ -2,7 +2,7 @@
 title: "Straight Tuck End Folding Carton with Gold Foil Border and Debossing for Luxury Apparel"
 date: 2026-06-14
 draft: false
-description: "Straight tuck end folding carton with gold foil border and custom debossed logo for luxury apparel, fashion, and premium clothing packaging. 18pt SBS C1S board, soft-touch matte lamination, precision gold hot foil stamping, 1.5mm blind debossing. Manufactured by Guangdong Bincai Color Printing — 22 years experience, ISO 9001:2015 & FSC certified, 18,000 sqm factory (10,000+8,000 smart factory), KBA 1050 4-color & Heidelberg 7+1 UV presses, 1.7M boxes daily output. Bobst folder-gluer with inline quality inspection. MOQ 1000. Serving 60+ countries worldwide."
+description: "Straight tuck end folding carton with gold foil border and custom debossed logo for luxury apparel, fashion, and premium clothing packaging. 18pt SBS C1S board, soft-touch matte lamination, precision gold hot foil stamping, 1.5mm blind debossing. Manufactured by Guangdong Bincai Color Printing — 23 years experience, ISO 9001:2015 & FSC certified, 18,000 sqm factory (10,000+8,000 smart factory), KBA 1050 4-color & Heidelberg 7+1 UV presses, 1.7M boxes daily output. Bobst folder-gluer with inline quality inspection. MOQ 1000. Serving 60+ countries worldwide."
 keywords: "straight tuck end box, folding carton, luxury apparel packaging, gold foil box, debossed logo box, fashion packaging, custom clothing box, soft-touch carton, Bincai Color Printing, Guangdong folding carton manufacturer, premium apparel box, gold hot stamping carton, blind debossing packaging, luxury fashion box, designer brand packaging, boutique retail box, FSC certified fashion box, ISO 9001 folding carton, Heidelberg printed carton, SBS C1S carton, wholesale clothing packaging, Foshan custom carton, e-commerce apparel box, premium merchandise packaging, straight tuck box"
 categories: ["folding-cartons"]
 params:
@@ -63,7 +63,7 @@ Our straight tuck end folding carton elevates luxury apparel packaging with gold
 || **Die-Cutting** | Bobst Autoplaten with steel-rule die + creasing matrix |
 || **Folding/Gluing** | Bobst Expertfold folder-gluer with inline camera quality inspection |
 || **Factory** | 18,000 sqm (10,000 + 8,000 smart factory) in Foshan, Guangdong |
-|| **Experience** | 22 years (founded 2003) — serving 60+ countries worldwide |
+|| **Experience** | 23 years (founded 2003) — serving 60+ countries worldwide |
 || **Daily Output** | 1.7M+ boxes across dual factories |
 || **Certifications** | ISO 9001:2015, FSC® Chain-of-Custody |
 
@@ -84,4 +84,4 @@ Our straight tuck end folding carton elevates luxury apparel packaging with gold
 
 ---
 
-*Guangdong Bincai Color Printing Co., Ltd. — 22 years of packaging excellence. ISO 9001:2015 & FSC certified. 18,000 sqm Foshan facility (10,000+8,000 smart factory). Daily output: 1.7M+ boxes. KBA 1050 4-color & Heidelberg 7+1 UV presses. Bobst Expertfold gluing with inline inspection. Serving 60+ countries worldwide.*
+*Guangdong Bincai Color Printing Co., Ltd. — 23 years of packaging excellence. ISO 9001:2015 & FSC certified. 18,000 sqm Foshan facility (10,000+8,000 smart factory). Daily output: 1.7M+ boxes. KBA 1050 4-color & Heidelberg 7+1 UV presses. Bobst Expertfold gluing with inline inspection. Serving 60+ countries worldwide.*

@@ -2,7 +2,7 @@
 title: "Pharmaceutical Folding Carton with Child-Resistant CR Lock — Tamper-Evident Tablet Packaging"
 date: 2026-06-14
 draft: false
-description: "Child-resistant (CR) folding carton for pharmaceutical tablets and capsules with tamper-evident seal, push-and-turn CR lock mechanism, and Braille embossing. Manufactured by Guangdong Bincai Color Printing Co., Ltd. — 22 years experience, 18,000 sqm factory, ISO 9001 & FSC certified, KBA 1050 4-color + Heidelberg 7+1 UV presses, daily output 1.7M boxes. Compliant with ISO 8317 child-resistant packaging standards, FDA 21 CFR, and EU Falsified Medicines Directive requirements."
+description: "Child-resistant (CR) folding carton for pharmaceutical tablets and capsules with tamper-evident seal, push-and-turn CR lock mechanism, and Braille embossing. Manufactured by Guangdong Bincai Color Printing Co., Ltd. — 23 years experience, 18,000 sqm factory, ISO 9001 & FSC certified, KBA 1050 4-color + Heidelberg 7+1 UV presses, daily output 1.7M boxes. Compliant with ISO 8317 child-resistant packaging standards, FDA 21 CFR, and EU Falsified Medicines Directive requirements."
 keywords: "child resistant packaging, CR carton, pharmaceutical folding carton, tamper evident box, Braille embossing carton, tablet packaging box, medicine carton, ISO 8317 packaging, FDA compliant carton, China pharma packaging manufacturer, Bincai folding carton, Guangdong pharmaceutical box, ISO 9001 FSC, Heidelberg UV press, 1.7M daily output, child-safe packaging"
 categories: ["folding-cartons"]
 params:
@@ -64,7 +64,7 @@ Child-resistant (CR) pharmaceutical folding carton engineered for tablet, capsul
 - MOQ 2,000–5,000 units for CR cartons; standard folding cartons from 500 units
 
 ## Factory
-- 22 years of manufacturing excellence since 2003
+- 23 years of manufacturing excellence since 2003
 - Dual factories: 10,000 sqm main + 8,000 sqm smart factory in Foshan, Pearl River Delta
 - 500+ skilled workers across 3 shifts
 - ISO 9001:2015 certified quality management system

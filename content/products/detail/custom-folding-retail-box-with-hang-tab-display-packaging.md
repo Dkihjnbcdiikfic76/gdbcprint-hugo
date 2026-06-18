@@ -2,8 +2,8 @@
 title: "Custom Folding Retail Box with Hang Tab Display Packaging"
 date: 2026-06-10
 draft: false
-description: "Custom folding retail box with hang tab for pegboard and Euro slot hook display — full-color CMYK offset printing on KBA Rapida 1050 4-color + Heidelberg Speedmaster CD 102 7+1 UV presses, Bobst SP 102 BMA die-cutting. Manufactured by Guangdong Bincai Color Printing (22 years, founded 2003) in 18,000 sqm Foshan factory (10,000+8,000 smart factory). ISO 9001:2015 & FSC Chain-of-Custody certified. 1.7M boxes daily output, 350+ workers. Straight tuck end, reverse tuck end, auto-lock bottom, hang tab with Euro hole. 200-400gsm art paper/greyboard, matte/gloss/soft-touch lamination, aqueous/UV coating, hot foil stamping, spot UV, embossing, window patching. MOQ 500, free samples 5-7 days, 10-15 day production. OEM/ODM for retail brands, electronics accessories, cosmetics, stationery, toys."
-keywords: "folding retail box with hang tab, pegboard display packaging, hang tab carton manufacturer, retail folding box China, Euro slot packaging, custom retail display box, Bincai folding carton, hang hole display box, CMYK offset retail packaging, ISO 9001 FSC carton, Guangdong paper box factory, KBA Rapida 1050 hang tab box, Heidelberg 7+1 UV folding carton, Bobst SP 102 BMA die-cut box, retail pegboard box wholesale, Euro hole folding carton, straight tuck end hang tab, reverse tuck end retail box, auto-lock bottom display box, custom printed retail packaging, window patch hang tab box, cosmetics retail box, electronics accessories packaging, stationery display carton, toy packaging with hang tab, 18,000 sqm folding carton factory, OEM retail box China, small MOQ retail packaging, 10-15 day lead time folding box, hot foil stamping retail box, spot UV display packaging, soft-touch retail carton, 22 year packaging manufacturer, Foshan folding carton factory, wholesale retail display box"
+description: "Custom folding retail box with hang tab for pegboard and Euro slot hook display — full-color CMYK offset printing on KBA Rapida 1050 4-color + Heidelberg Speedmaster CD 102 7+1 UV presses, Bobst SP 102 BMA die-cutting. Manufactured by Guangdong Bincai Color Printing (23 years, founded 2003) in 18,000 sqm Foshan factory (10,000+8,000 smart factory). ISO 9001:2015 & FSC Chain-of-Custody certified. 1.7M boxes daily output, 350+ workers. Straight tuck end, reverse tuck end, auto-lock bottom, hang tab with Euro hole. 200-400gsm art paper/greyboard, matte/gloss/soft-touch lamination, aqueous/UV coating, hot foil stamping, spot UV, embossing, window patching. MOQ 500, free samples 5-7 days, 10-15 day production. OEM/ODM for retail brands, electronics accessories, cosmetics, stationery, toys."
+keywords: "folding retail box with hang tab, pegboard display packaging, hang tab carton manufacturer, retail folding box China, Euro slot packaging, custom retail display box, Bincai folding carton, hang hole display box, CMYK offset retail packaging, ISO 9001 FSC carton, Guangdong paper box factory, KBA Rapida 1050 hang tab box, Heidelberg 7+1 UV folding carton, Bobst SP 102 BMA die-cut box, retail pegboard box wholesale, Euro hole folding carton, straight tuck end hang tab, reverse tuck end retail box, auto-lock bottom display box, custom printed retail packaging, window patch hang tab box, cosmetics retail box, electronics accessories packaging, stationery display carton, toy packaging with hang tab, 18,000 sqm folding carton factory, OEM retail box China, small MOQ retail packaging, 10-15 day lead time folding box, hot foil stamping retail box, spot UV display packaging, soft-touch retail carton, 23 year packaging manufacturer, Foshan folding carton factory, wholesale retail display box"
 categories: ["folding-cartons"]
 params:
   moq: "500-1000"
@@ -14,7 +14,7 @@ params:
 
 ![Bincai Folding Cartons](/images/folding-cartons.jpg)
 
-Custom folding retail box with hang tab for pegboard and hook display — the workhorse of retail packaging, engineered for shelf efficiency and brand visibility. Manufactured by Guangdong Bincai Color Printing Co., Ltd. on KBA 1050 4-color and Heidelberg 7+1 UV presses in our 18,000 sqm (10,000+8,000 smart factory) ISO 9001:2015 & FSC certified factory. With 22 years of experience (founded 2003) and a daily output of 1.7 million boxes, we supply hang-tab retail cartons to brands and retailers across 40+ countries.
+Custom folding retail box with hang tab for pegboard and hook display — the workhorse of retail packaging, engineered for shelf efficiency and brand visibility. Manufactured by Guangdong Bincai Color Printing Co., Ltd. on KBA 1050 4-color and Heidelberg 7+1 UV presses in our 18,000 sqm (10,000+8,000 smart factory) ISO 9001:2015 & FSC certified factory. With 23 years of experience (founded 2003) and a daily output of 1.7 million boxes, we supply hang-tab retail cartons to brands and retailers across 40+ countries.
 
 ## Applications
 
@@ -66,7 +66,7 @@ Hang-tab folding cartons maximize retail space utilization while keeping your br
 
 ## Factory
 
-- 22 years of manufacturing excellence (founded 2003)
+- 23 years of manufacturing excellence (founded 2003)
 - 18,000 sqm integrated facility (10,000+8,000 smart factory) (commissioned 2025)
 - 80+ skilled employees across design, prepress, printing, finishing, and quality control
 - KBA 1050 4-color + Heidelberg 7+1 UV + Bobst die-cutting and folder-gluer lines

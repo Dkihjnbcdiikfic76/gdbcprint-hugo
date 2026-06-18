@@ -2,7 +2,7 @@
 title: "Straight-Tuck End Folding Carton with Soft-Touch Lamination — Luxury Cosmetics Packaging, Gold Foil Logo"
 date: 2026-06-15
 draft: false
-description: "Premium straight-tuck end folding carton manufactured by Guangdong Bincai Color Printing (founded 2003, 22 years). 18,000 sqm Foshan factory with KBA 1050 4-color + Heidelberg 7+1 UV presses, ISO 9001:2015 & FSC certified, 1.7M daily box output. Features soft-touch matte lamination, gold foil logo stamping, and auto-lock bottom. Designed for luxury cosmetics, skincare, and fragrance packaging."
+description: "Premium straight-tuck end folding carton manufactured by Guangdong Bincai Color Printing (founded 2003, 23 years). 18,000 sqm Foshan factory with KBA 1050 4-color + Heidelberg 7+1 UV presses, ISO 9001:2015 & FSC certified, 1.7M daily box output. Features soft-touch matte lamination, gold foil logo stamping, and auto-lock bottom. Designed for luxury cosmetics, skincare, and fragrance packaging."
 keywords: "folding carton, straight tuck end, soft touch lamination, gold foil, cosmetics packaging, skincare box, fragrance box, bincai, guangdong, iso 9001, fsc, kba 1050, heidelberg 7+1 uv, 18000 sqm, 1.7m daily output, luxury packaging, custom folding carton, OEM"
 categories: ["folding-cartons"]
 params:
@@ -56,7 +56,7 @@ The Straight-Tuck End Folding Carton with Soft-Touch Lamination is engineered fo
 | MOQ | 1,000-3,000 units per design |
 | Lead Time | 10-14 days production + shipping |
 | Certifications | ISO 9001:2015, FSC Chain-of-Custody, Sedex SMETA |
-| Experience | 22 years (founded 2003) |
+| Experience | 23 years (founded 2003) |
 
 ## Quality Assurance
 
@@ -117,8 +117,8 @@ A: Yes. We offer die-cut PET/PVC windows in any shape, full-panel acetate window
 
 ## Why Bincai?
 
-Cosmetics packaging is where print quality meets tactile emotion. Bincai's soft-touch lamination achieves a consistent 3-5 GU (gloss units) matte finish across millions of cartons — the velvety feel that premium beauty brands depend on. With Heidelberg 7+1 UV presses delivering instant-cure inks at 15,000 sheets per hour and Bobst SP 102-E die-cutters maintaining ±0.15mm foil-to-print registration, we produce cosmetics cartons that match the precision of the products inside. Our 22-year track record serving global beauty brands means we understand the importance of batch-to-batch consistency, color matching across seasonal collections, and on-time delivery for product launches.
+Cosmetics packaging is where print quality meets tactile emotion. Bincai's soft-touch lamination achieves a consistent 3-5 GU (gloss units) matte finish across millions of cartons — the velvety feel that premium beauty brands depend on. With Heidelberg 7+1 UV presses delivering instant-cure inks at 15,000 sheets per hour and Bobst SP 102-E die-cutters maintaining ±0.15mm foil-to-print registration, we produce cosmetics cartons that match the precision of the products inside. Our 23-year track record serving global beauty brands means we understand the importance of batch-to-batch consistency, color matching across seasonal collections, and on-time delivery for product launches.
 
-**Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
+**Factory Facts:** Founded 2003 | 23 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
 
 **Shipping:** Flat-packed for 70%+ freight volume savings. Standard 15-25 day sea freight from Foshan ports. Air freight available for rush orders.

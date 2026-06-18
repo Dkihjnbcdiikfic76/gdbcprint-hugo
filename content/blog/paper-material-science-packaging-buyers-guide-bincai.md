@@ -3,7 +3,7 @@ title: "Paper Material Science for Packaging Buyers — SBS, FBB, CCNB, Kraft, D
 date: 2026-06-15
 draft: false
 image: "/images/hero-factory.webp"
-description: "Complete guide to paperboard materials for custom packaging: SBS vs FBB vs CCNB vs Kraft vs Duplex Board vs Art Paper vs Corrugated. Bincai Color Printing (22 years, 18,000 sqm, KBA 1050 + Heidelberg 7+1 UV, ISO 9001 & FSC, 1.7M daily output) explains how to choose the right paperboard for rigid boxes, folding cartons, kraft eco boxes, and corrugated mailers. Includes thickness guide, print quality comparison, sustainability ratings, cost tier matrix, and material selection decision flowchart."
+description: "Complete guide to paperboard materials for custom packaging: SBS vs FBB vs CCNB vs Kraft vs Duplex Board vs Art Paper vs Corrugated. Bincai Color Printing (23 years, 18,000 sqm, KBA 1050 + Heidelberg 7+1 UV, ISO 9001 & FSC, 1.7M daily output) explains how to choose the right paperboard for rigid boxes, folding cartons, kraft eco boxes, and corrugated mailers. Includes thickness guide, print quality comparison, sustainability ratings, cost tier matrix, and material selection decision flowchart."
 keywords: "paperboard materials, SBS paperboard, FBB folding box board, CCNB clay coated news back, kraft paperboard, duplex board, art paper packaging, corrugated board, paper material selection, rigid box materials, folding carton materials, paperboard thickness guide, Bincai, Guangdong, ISO 9001, FSC, KBA 1050, Heidelberg 7+1 UV, 18000 sqm, 1.7M daily, Foshan, paper box, packaging, manufacturer, China, OEM, custom, SBS vs FBB, sustainable packaging, corrugated flute types, gsm thickness chart"
 ---
 
@@ -15,7 +15,7 @@ Ask any packaging engineer what separates a premium unboxing experience from a d
 
 Yet most buyers default to "thick paper" or "sturdy cardboard" without understanding the seven distinct families of paperboard — each with different fiber compositions, coating surfaces, bending resistance, and price points. Choosing the wrong one means paying for performance you don't need, or worse, shipping a box that collapses in transit.
 
-This guide draws on **Guangdong Bincai Color Printing Co., Ltd.'s** 22 years of paper box manufacturing experience. Founded in 2003, Bincai operates 18,000 square meters of production floor (10,000 sqm main facility + 8,000 sqm smart factory expansion, 2025) in Foshan in the Pearl River Delta — China's premier printing and packaging cluster. Our pressroom houses a **KBA Rapida 1050 4-color offset press** and a **Heidelberg Speedmaster CD 102 7+1 UV press** with inline aqueous/UV coating, supported by a **Bobst Novacut 106-E autoplaten die-cutter**, achieving ±0.1 mm registration across 1.7 million color boxes and 220,000+ gift boxes daily. We are **ISO 9001:2015 certified** for quality management and **FSC Chain-of-Custody certified** for responsible fiber sourcing.
+This guide draws on **Guangdong Bincai Color Printing Co., Ltd.'s** 23 years of paper box manufacturing experience. Founded in 2003, Bincai operates 18,000 square meters of production floor (10,000 sqm main facility + 8,000 sqm smart factory expansion, 2025) in Foshan in the Pearl River Delta — China's premier printing and packaging cluster. Our pressroom houses a **KBA Rapida 1050 4-color offset press** and a **Heidelberg Speedmaster CD 102 7+1 UV press** with inline aqueous/UV coating, supported by a **Bobst Novacut 106-E autoplaten die-cutter**, achieving ±0.1 mm registration across 1.7 million color boxes and 220,000+ gift boxes daily. We are **ISO 9001:2015 certified** for quality management and **FSC Chain-of-Custody certified** for responsible fiber sourcing.
 
 Here is everything a packaging buyer needs to know about paperboard materials — from the chemistry of the fiber to the final box.
 
@@ -258,7 +258,7 @@ Paperboard thickness is quoted three ways — know the difference:
 
 ---
 
-## The Bincai Advantage: 22 Years of Material Expertise
+## The Bincai Advantage: 23 Years of Material Expertise
 
 | Capability | Bincai Specification | Industry Standard |
 |---|---|---|
@@ -292,6 +292,6 @@ A: It depends on your quality threshold. For premium packaging: **FSC-certified 
 
 ---
 
-**Ready to select the right paperboard for your packaging?** Contact Guangdong Bincai Color Printing Co., Ltd. for a free consultation and material samples. Our team will recommend the optimal substrate for your product, budget, and sustainability goals — backed by 22 years of manufacturing experience, 18,000 square meters of production floor in Foshan, China, and a daily capacity of 1.7 million boxes. Send us your specifications for a quotation within 24 hours.
+**Ready to select the right paperboard for your packaging?** Contact Guangdong Bincai Color Printing Co., Ltd. for a free consultation and material samples. Our team will recommend the optimal substrate for your product, budget, and sustainability goals — backed by 23 years of manufacturing experience, 18,000 square meters of production floor in Foshan, China, and a daily capacity of 1.7 million boxes. Send us your specifications for a quotation within 24 hours.
 
 *Guangdong Bincai Color Printing Co., Ltd. — KBA Rapida 1050 + Heidelberg Speedmaster CD 102 7+1 UV + Bobst Novacut 106-E + BHS 2.5m Corrugator. ISO 9001:2015 & FSC Chain-of-Custody Certified. 60+ countries served since 2003.*

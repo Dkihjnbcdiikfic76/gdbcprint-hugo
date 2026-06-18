@@ -81,9 +81,9 @@ Bincai's kraft eco-box category covers a full range of applications built from u
 
 All kraft boxes ship with recyclable paper tape and water-activated gummed tape — no plastic packing tape, no poly bags.
 
-## 22 Years of Sustainable Evolution
+## 23 Years of Sustainable Evolution
 
-Bincai didn't pivot to sustainability overnight. Over 22 years in paper box manufacturing, the shift has been gradual and production-proven:
+Bincai didn't pivot to sustainability overnight. Over 23 years in paper box manufacturing, the shift has been gradual and production-proven:
 
 - **2010:** First FSC certification
 - **2015:** Transitioned to soy-based inks across all presses
@@ -99,7 +99,7 @@ When you source eco-friendly packaging from Bincai, you get:
 1. **Verifiable certifications** — FSC CoC, ISO 9001, with audit-trail documentation
 2. **Industrial scale** — 1.7M daily box capacity means eco doesn't mean boutique pricing
 3. **Full customization** — your sustainable box, your design, your dimensions, your finishes
-4. **22 years of manufacturing reliability** — sustainability backed by production experience, not marketing claims
+4. **23 years of manufacturing reliability** — sustainability backed by production experience, not marketing claims
 
 **Contact us at qo82@icloud.com or call +86-18934352881 (Mr. Zhou) to discuss your eco-friendly packaging project. Free digital proofs within 3-5 days.**
 

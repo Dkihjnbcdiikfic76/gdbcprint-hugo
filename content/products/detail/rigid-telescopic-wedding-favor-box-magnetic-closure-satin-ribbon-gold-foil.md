@@ -2,7 +2,7 @@
 title: "Rigid Two-Piece Telescopic Wedding Favor Box — Magnetic Closure with Satin Ribbon & Gold Foil"
 date: 2026-06-15
 draft: false
-description: "Elegant rigid two-piece telescopic wedding favor box manufactured by Guangdong Bincai Color Printing Co., Ltd. (22 years, ISO 9001 & FSC certified, 18,000 sqm dual-factory). 2mm rigid greyboard construction with full-color CMYK offset printing, precision magnetic closure, satin ribbon pull, and gold hot foil detailing. Compact favor-sized format (80×80×40mm) ideal for wedding favors, bridal shower gifts, anniversary keepsakes, and luxury event souvenirs. Optional custom die-cut foam insert for chocolates, jewelry, or small gifts. Daily output 1.7M boxes from KBA 1050 + Heidelberg 7+1 UV in Foshan, China."
+description: "Elegant rigid two-piece telescopic wedding favor box manufactured by Guangdong Bincai Color Printing Co., Ltd. (23 years, ISO 9001 & FSC certified, 18,000 sqm dual-factory). 2mm rigid greyboard construction with full-color CMYK offset printing, precision magnetic closure, satin ribbon pull, and gold hot foil detailing. Compact favor-sized format (80×80×40mm) ideal for wedding favors, bridal shower gifts, anniversary keepsakes, and luxury event souvenirs. Optional custom die-cut foam insert for chocolates, jewelry, or small gifts. Daily output 1.7M boxes from KBA 1050 + Heidelberg 7+1 UV in Foshan, China."
 keywords: "wedding favor box, rigid gift box, bridal shower packaging, event favor box, magnetic closure favor box, gold foil wedding box, telescopic lid box, luxury party favor, bincai, guangdong, iso 9001, fsc, kba 1050, heidelberg 7+1 uv, 18000 sqm, 1.7m daily output, wedding packaging, custom favor box"
 categories: ["rigid-gift-boxes"]
 params:
@@ -14,7 +14,7 @@ params:
 
 ![Bincai Rigid Two-Piece Telescopic Wedding Favor Box](/images/rigid-gift-boxes.jpg)
 
-The rigid two-piece telescopic wedding favor box transforms guest gifting from an afterthought into a statement of elegance. Manufactured by Guangdong Bincai Color Printing Co., Ltd. — a 22-year Foshan paper box specialist with 18,000 sqm of dual-factory production space — this compact favor box combines the premium feel of 2mm rigid greyboard with full-color CMYK offset printing, precision magnetic closure, and luxurious gold hot foil detailing. The satin ribbon pull adds a tactile finishing touch, making every guest feel honored.
+The rigid two-piece telescopic wedding favor box transforms guest gifting from an afterthought into a statement of elegance. Manufactured by Guangdong Bincai Color Printing Co., Ltd. — a 23-year Foshan paper box specialist with 18,000 sqm of dual-factory production space — this compact favor box combines the premium feel of 2mm rigid greyboard with full-color CMYK offset printing, precision magnetic closure, and luxurious gold hot foil detailing. The satin ribbon pull adds a tactile finishing touch, making every guest feel honored.
 
 Bincai runs KBA Rapida 105 4-color offset presses at 18,000 sheets per hour and Heidelberg Speedmaster CD 102 7+1 UV for premium coating effects. Bobst SP 102-E die-cutters ensure every box meets exact dimensional specifications. ISO 9001:2015 and FSC Chain-of-Custody certified.
 
@@ -72,7 +72,7 @@ Bincai runs KBA Rapida 105 4-color offset presses at 18,000 sheets per hour and 
 
 ## Why Choose Bincai
 
-- **22 Years of Expertise:** Manufacturing premium rigid packaging since 2004, with specialized event and wedding packaging experience
+- **23 Years of Expertise:** Manufacturing premium rigid packaging since 2004, with specialized event and wedding packaging experience
 - **Dual-Factory Capacity:** 18,000 sqm across two facilities in Foshan's Pearl River Delta manufacturing hub
 - **World-Class Equipment:** KBA Rapida 105 (4-color, 18,000 sph) + Heidelberg Speedmaster CD 102 7+1 UV + Bobst SP 102-E + automated rigid box turn-in lines
 - **Favor Expertise:** Dedicated small-format rigid box production cell optimized for high-quantity favor runs with consistent quality

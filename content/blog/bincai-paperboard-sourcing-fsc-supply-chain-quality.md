@@ -3,8 +3,8 @@ title: "Behind Every Bincai Box: How Our Premium Paperboard Sourcing, FSC Chain-
 date: 2026-06-14
 draft: false
 image: "/images/hero-factory.webp"
-description: "Paperboard is the DNA of every box. Guangdong Bincai Color Printing — 22 years, 18,000 sqm, ISO 9001 & FSC certified, 1.7M boxes daily — reveals its raw material sourcing strategy: how we select SBS (solid bleached sulfate), CCNB (clay-coated newsback), kraft, FBB (folding boxboard), and duplex greyboard from qualified mills, maintain FSC chain-of-custody across 944 product lines, test every incoming batch against 45-point supplier criteria, and ensure your custom paper box performs flawlessly from our Foshan factory to your customer's hands. For brands that care about what's inside their packaging — literally."
-keywords: "paperboard sourcing China, FSC chain-of-custody paper box, premium paperboard supplier, SBS CCNB kraft greyboard, custom paper box materials, Bincai material traceability, ISO 9001 FSC certified factory, sustainable paper packaging materials, paper box raw material quality, Foshan paper box manufacturer, custom packaging material sourcing, B2B paper box supply chain, 22 years paper box factory, recycled paperboard packaging, virgin fiber paperboard, paper box material testing standards"
+description: "Paperboard is the DNA of every box. Guangdong Bincai Color Printing — 23 years, 18,000 sqm, ISO 9001 & FSC certified, 1.7M boxes daily — reveals its raw material sourcing strategy: how we select SBS (solid bleached sulfate), CCNB (clay-coated newsback), kraft, FBB (folding boxboard), and duplex greyboard from qualified mills, maintain FSC chain-of-custody across 944 product lines, test every incoming batch against 45-point supplier criteria, and ensure your custom paper box performs flawlessly from our Foshan factory to your customer's hands. For brands that care about what's inside their packaging — literally."
+keywords: "paperboard sourcing China, FSC chain-of-custody paper box, premium paperboard supplier, SBS CCNB kraft greyboard, custom paper box materials, Bincai material traceability, ISO 9001 FSC certified factory, sustainable paper packaging materials, paper box raw material quality, Foshan paper box manufacturer, custom packaging material sourcing, B2B paper box supply chain, 23 years paper box factory, recycled paperboard packaging, virgin fiber paperboard, paper box material testing standards"
 
 ---
 
@@ -177,7 +177,7 @@ Many packaging factories maintain single-supplier relationships for each paperbo
 
 When Typhoon Yagi disrupted southern China logistics in September 2024, one of our greyboard suppliers was unable to ship for 9 days. Our backup suppliers filled the gap within 24 hours. Production didn't miss a single shift. Your order deadline didn't move.
 
-**This is what 22 years of supply chain relationships buys you**: not just good prices, but resilience.
+**This is what 23 years of supply chain relationships buys you**: not just good prices, but resilience.
 
 ---
 
@@ -203,13 +203,13 @@ For FSC-certified orders, you receive the complete chain-of-custody documentatio
 
 In custom paper box manufacturing, you can't inspect quality into a box at the end of the production line. Quality is **built in** — starting with the paperboard that arrives on our loading dock in Foshan.
 
-Over 22 years, Bincai has invested millions of yuan in supplier qualification systems, climate-controlled warehousing, FSC chain-of-custody infrastructure, and dual-supplier redundancy. That investment doesn't appear on your quotation line item — but it appears in every box you receive.
+Over 23 years, Bincai has invested millions of yuan in supplier qualification systems, climate-controlled warehousing, FSC chain-of-custody infrastructure, and dual-supplier redundancy. That investment doesn't appear on your quotation line item — but it appears in every box you receive.
 
 **No surprises. No material substitutions. No quality drift between orders.** Just paperboard that performs exactly as specified, box after box, year after year.
 
 ---
 
-*Guangdong Bincai Color Printing Co., Ltd. — 22 years. 18,000 sqm. KBA 1050 + Heidelberg 7+1 UV. ISO 9001:2015 & FSC certified. 1.7 million boxes daily. One specification, every time.*
+*Guangdong Bincai Color Printing Co., Ltd. — 23 years. 18,000 sqm. KBA 1050 + Heidelberg 7+1 UV. ISO 9001:2015 & FSC certified. 1.7 million boxes daily. One specification, every time.*
 
 ---
 

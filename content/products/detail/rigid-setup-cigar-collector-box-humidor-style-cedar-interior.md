@@ -2,7 +2,7 @@
 title: "Rigid Cigar Collector Box — Spanish Cedar Interior with Humidor-Style Hinged Lid"
 date: 2026-06-15
 draft: false
-description: "Premium rigid setup cigar collector box manufactured by Guangdong Bincai Color Printing Co., Ltd. (22 years, 18,000 sqm Foshan facility). Features Spanish cedar wood interior lining, humidor-style hinged lid with brass hardware, and N52 magnetic closure. Wrapped in premium bookcloth or leatherette with gold foil stamping. ISO 9001:2015 & FSC certified. KBA 1050 4-color + Heidelberg 7+1 UV presses, daily output 1.7M boxes. Ideal for premium cigar brands, corporate gifts, and collectors' editions."
+description: "Premium rigid setup cigar collector box manufactured by Guangdong Bincai Color Printing Co., Ltd. (23 years, 18,000 sqm Foshan facility). Features Spanish cedar wood interior lining, humidor-style hinged lid with brass hardware, and N52 magnetic closure. Wrapped in premium bookcloth or leatherette with gold foil stamping. ISO 9001:2015 & FSC certified. KBA 1050 4-color + Heidelberg 7+1 UV presses, daily output 1.7M boxes. Ideal for premium cigar brands, corporate gifts, and collectors' editions."
 keywords: "cigar collector box, humidor style box, spanish cedar interior, rigid cigar box, luxury cigar packaging, bincai, guangdong, iso 9001, fsc, kba 1050, heidelberg 7+1 uv, 18000 sqm, 1.7m daily output, n52 magnet, gold foil stamping, bookcloth wrap, OEM"
 categories: ["rigid-gift-boxes"]
 params:
@@ -70,6 +70,6 @@ The humidor-style construction pairs a 3.0mm greyboard rigid body with a bookclo
 
 The Spanish cedar interior is what separates a true cigar collector box from an ordinary rigid box. Bincai sources FSC-certified Cedrela odorata veneer directly from managed forests, kiln-dries it to the optimal 10-12% moisture content in-house, and precision-cuts cigar grooves with CNC routing. This integrated process — from cedar conditioning to final assembly — happens entirely within our 18,000 sqm facility, ensuring no moisture variance or contamination from multi-vendor handling. The result is a box that not only presents cigars beautifully but actively contributes to their preservation.
 
-**Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
+**Factory Facts:** Founded 2003 | 23 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
 
 **Shipping:** Flat-packed with cedar tray shipped assembled — 500 units per master carton. Container optimization: assembled cedar trays nest efficiently. Lead time 12-16 days (cedar conditioning adds 2 days). Free pre-production samples 5-7 days.

@@ -169,10 +169,10 @@ Before you place your next packaging order, send us your brand's color specifica
 3. Provide a color feasibility report for your chosen substrates and finishes
 4. Ship a physical contract proof for your final approval
 
-**Contact Bincai today** and experience the confidence of G7 Master color management for your global packaging needs. ISO 9001:2015 certified. FSC-C147399 chain of custody. 22 years of printing excellence.
+**Contact Bincai today** and experience the confidence of G7 Master color management for your global packaging needs. ISO 9001:2015 certified. FSC-C147399 chain of custody. 23 years of printing excellence.
 
 ---
 
 **About Guangdong Bincai Color Printing Co., Ltd.**
 
-Located in Foshan City, Guangdong Province — the heart of China's Pearl River Delta manufacturing hub — Bincai operates a 18,000-square-meter climate-controlled production facility equipped with Heidelberg CD 102 7+1 UV, KBA Rapida 105 4-color, Bobst SP 102 BMA/E die-cutters, Visioncut 106 LER laser die-cutter, Bobst Expertfold 110 A2 and Expertfold 145 folder-gluers, and BHS corrugator. Daily output exceeds 1.7 million boxes. Certified ISO 9001:2015, FSC-C147399, G7 Master, Sedex SMETA, and BSCI. Diamond Member on Made-in-China.com with 22 years of export experience.
+Located in Foshan City, Guangdong Province — the heart of China's Pearl River Delta manufacturing hub — Bincai operates a 18,000-square-meter climate-controlled production facility equipped with Heidelberg CD 102 7+1 UV, KBA Rapida 105 4-color, Bobst SP 102 BMA/E die-cutters, Visioncut 106 LER laser die-cutter, Bobst Expertfold 110 A2 and Expertfold 145 folder-gluers, and BHS corrugator. Daily output exceeds 1.7 million boxes. Certified ISO 9001:2015, FSC-C147399, G7 Master, Sedex SMETA, and BSCI. Diamond Member on Made-in-China.com with 23 years of export experience.

@@ -174,7 +174,7 @@ Here's how all six layers come together in one of Bincai's most popular rigid bo
 
 ## Why Choose Bincai for Rigid Box Manufacturing?
 
-- **22 years of specialization** — we don't make textiles, plastics, or electronics. We make paper boxes. That focus drives expertise.
+- **23 years of specialization** — we don't make textiles, plastics, or electronics. We make paper boxes. That focus drives expertise.
 - **End-to-end in-house production** — printing, die-cutting, foil stamping, embossing, gluing, and assembly all happen under one roof. No subcontractors, no delays, no finger-pointing.
 - **ISO 9001:2015 certified** with documented quality management systems at every production stage
 - **FSC® certified** — full chain of custody for sustainable paper sourcing

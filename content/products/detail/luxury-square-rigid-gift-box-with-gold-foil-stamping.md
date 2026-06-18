@@ -2,8 +2,8 @@
 title: "Luxury Square Rigid Gift Box with Gold Foil Stamping"
 date: 2026-06-11
 draft: false
-description: "Luxury Square Rigid Gift Box with Gold Foil Stamping by Guangdong Bincai Color Printing — Diamond Member on Made-in-China.com. ISO 9001 FSC certified. Manufactured by Guangdong Bincai Color Printing Co., Ltd. — 22 years experience (founded 2003), 18,000 sqm dual factory (10,000+8,000 sqm smart factory), ISO 9001:2015 & FSC certified, KBA 1050 4-color + Heidelberg 7+1 UV presses, daily output 1.7M boxes, serving 200+ global brands from Foshan, China."
-keywords: "luxury square rigid gift box, gold foil stamped rigid box, square gift box with gold foil, premium rigid paper box, custom rigid box gold foil, embossed rigid gift box, luxury gift packaging, magnetic closure square box, two-piece rigid gift box, corporate gift box gold foil, wedding favor box, premium packaging China, Guangdong rigid box manufacturer, KBA offset rigid box, Heidelberg UV rigid box, ISO 9001 FSC rigid gift box, Bobst hot foil stamping box, 18,000 sqm factory, 22 years experience, Bincai Color Printing"
+description: "Luxury Square Rigid Gift Box with Gold Foil Stamping by Guangdong Bincai Color Printing — Diamond Member on Made-in-China.com. ISO 9001 FSC certified. Manufactured by Guangdong Bincai Color Printing Co., Ltd. — 23 years experience (founded 2003), 18,000 sqm dual factory (10,000+8,000 sqm smart factory), ISO 9001:2015 & FSC certified, KBA 1050 4-color + Heidelberg 7+1 UV presses, daily output 1.7M boxes, serving 200+ global brands from Foshan, China."
+keywords: "luxury square rigid gift box, gold foil stamped rigid box, square gift box with gold foil, premium rigid paper box, custom rigid box gold foil, embossed rigid gift box, luxury gift packaging, magnetic closure square box, two-piece rigid gift box, corporate gift box gold foil, wedding favor box, premium packaging China, Guangdong rigid box manufacturer, KBA offset rigid box, Heidelberg UV rigid box, ISO 9001 FSC rigid gift box, Bobst hot foil stamping box, 18,000 sqm factory, 23 years experience, Bincai Color Printing"
 categories: ["rigid-gift-boxes"]
 params:
   moq: "500-1000"
@@ -13,7 +13,7 @@ params:
 ---
 ![Luxury Square Rigid Gift Box with Gold Foil Stamping](/images/rigid-gift-boxes.jpg)
 
-Timeless luxury square rigid gift box with gold foil stamping — manufactured by **Guangdong Bincai Color Printing Co., Ltd.**, a full-chain packaging enterprise with 22 years of manufacturing expertise (founded 2003). The classic square silhouette wrapped in premium art paper or leatherette with precision gold foil accents defines understated elegance for luxury brands. Built with 2.5mm FSC-certified greyboard for a substantial hand-feel, the magnetic or two-piece lid-and-base construction creates a ceremonial unboxing experience. Multi-pass gold foil stamping on Bobst SP 102 BMA delivers crisp, reflective branding that never fades. Produced on KBA 1050 4-color offset and Heidelberg 7+1 UV presses across Bincai's 18,000 sqm dual factory (10,000+8,000 sqm smart factory) in Foshan, Guangdong. ISO 9001:2015 and FSC certified. Daily output 1.7 million boxes. MOQ 500 with free pre-production samples.
+Timeless luxury square rigid gift box with gold foil stamping — manufactured by **Guangdong Bincai Color Printing Co., Ltd.**, a full-chain packaging enterprise with 23 years of manufacturing expertise (founded 2003). The classic square silhouette wrapped in premium art paper or leatherette with precision gold foil accents defines understated elegance for luxury brands. Built with 2.5mm FSC-certified greyboard for a substantial hand-feel, the magnetic or two-piece lid-and-base construction creates a ceremonial unboxing experience. Multi-pass gold foil stamping on Bobst SP 102 BMA delivers crisp, reflective branding that never fades. Produced on KBA 1050 4-color offset and Heidelberg 7+1 UV presses across Bincai's 18,000 sqm dual factory (10,000+8,000 sqm smart factory) in Foshan, Guangdong. ISO 9001:2015 and FSC certified. Daily output 1.7 million boxes. MOQ 500 with free pre-production samples.
 
 ## Applications
 - Luxury jewelry and fine watch presentation boxes
@@ -57,7 +57,7 @@ Timeless luxury square rigid gift box with gold foil stamping — manufactured b
 - Mitered corner inspection: all four corners flush, no gap >0.3mm
 - Color consistency: ΔE ≤2.0 under D65 lighting per ISO 3664
 - Interior fit: 100% verification that insert cavity matches product dimensions
-- 22 years manufacturing expertise — founded 2003, 220+ skilled craftspeople
+- 23 years manufacturing expertise — founded 2003, 220+ skilled craftspeople
 - 18,000 sqm dual factory with dedicated rigid box production lines
 - MOQ 500–1000 units; free pre-production samples in 5–7 working days
 
@@ -140,7 +140,7 @@ Bincai has earned the trust of global luxury brands, premium retailers, and corp
 - **Scalable Production** — 220,000+ rigid boxes daily output handles both boutique 500-unit runs for limited editions and 100,000+ unit brand rollouts with equal attention to quality.
 - **Fast Sampling** — 5–7 day pre-production samples let you evaluate color, foil quality, and structural feel before production. We've helped 200+ brands launch premium packaging since 2003.
 
-**Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day + 220K+ gift boxes | KBA Rapida 1050 + Heidelberg Speedmaster XL 7+1 UV | Bobst SP 102 BMA | ISO 9001:2015 & FSC Chain-of-Custody | Foshan, Guangdong, China.
+**Factory Facts:** Founded 2003 | 23 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day + 220K+ gift boxes | KBA Rapida 1050 + Heidelberg Speedmaster XL 7+1 UV | Bobst SP 102 BMA | ISO 9001:2015 & FSC Chain-of-Custody | Foshan, Guangdong, China.
 
 **Shipping:** Flat-packed option reduces freight volume 60–70%. Typical 40HQ container holds 30,000–80,000 rigid boxes. Lead time 12–18 days FOB Shenzhen/Guangzhou.
 

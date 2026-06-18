@@ -2,7 +2,7 @@
 title: "Corrugated E-Commerce Subscription Box — Tear Strip, Custom Full-Color Print"
 date: 2026-06-15
 draft: false
-description: "Custom printed corrugated e-commerce subscription box with integrated tear strip for tool-free consumer unboxing, manufactured by Guangdong Bincai Color Printing Co., Ltd. B-flute single-wall construction (125gsm/112gsm/125gsm kraft or white top liner), full-color flexo or litho-laminate printing via KBA Rapida 105 4-color offset and Heidelberg Speedmaster CD 102 7+1 UV press. 22 years experience (founded 2003), 18,000 sqm Foshan factory in Pearl River Delta, BHS 2.5m corrugator running at 250m/min, ISO 9001:2015 & FSC Chain-of-Custody & Sedex SMETA certified, 350+ workers, 1.7M boxes/day capacity. MOQ from 500 units, 10-14 day lead time. OEM/ODM for DTC subscription brands — beauty boxes, snack boxes, pet subscription packaging. Seven-stage QC, 100% recyclable corrugated board, sea freight 12-16 days to US West Coast."
+description: "Custom printed corrugated e-commerce subscription box with integrated tear strip for tool-free consumer unboxing, manufactured by Guangdong Bincai Color Printing Co., Ltd. B-flute single-wall construction (125gsm/112gsm/125gsm kraft or white top liner), full-color flexo or litho-laminate printing via KBA Rapida 105 4-color offset and Heidelberg Speedmaster CD 102 7+1 UV press. 23 years experience (founded 2003), 18,000 sqm Foshan factory in Pearl River Delta, BHS 2.5m corrugator running at 250m/min, ISO 9001:2015 & FSC Chain-of-Custody & Sedex SMETA certified, 350+ workers, 1.7M boxes/day capacity. MOQ from 500 units, 10-14 day lead time. OEM/ODM for DTC subscription brands — beauty boxes, snack boxes, pet subscription packaging. Seven-stage QC, 100% recyclable corrugated board, sea freight 12-16 days to US West Coast."
 keywords: "corrugated subscription box, e-commerce shipping box, tear strip mailer, custom printed corrugated box, B-flute box, subscription box packaging, bincai, guangdong, iso 9001, fsc, bhs 2.5m corrugator, 18000 sqm, 1.7M daily output, OEM, wholesale corrugated packaging, direct-to-consumer packaging, subscription box manufacturer, DTC packaging China, custom tear strip mailer, corrugated mailer box, monthly subscription box, beauty subscription box packaging, snack box packaging, pet subscription box, e-commerce mailer, custom mailer box, printed shipping box, corrugated box manufacturer China, Foshan packaging factory, litho-laminate corrugated box, flexo printed corrugated box, tear strip box, zip-open mailer, unboxing experience packaging, branded shipping box, subscription box supplier, custom corrugated packaging, B-flute mailer, pearl river delta packaging, ODM packaging China, eco-friendly subscription box, FSC certified corrugated box, recyclable mailer box, subscription box printing, e-commerce shipper, branded mailer box, tear-open mailer, ISTA 1A certified box, subscription box printing China, ECT 32 corrugated box, custom printed mailer, corrugated e-commerce packaging, BHS corrugator box, single-wall mailer, tool-free opening box, perforated tear strip box, plastic-free mailer, D2C packaging, direct-to-consumer mailer, subscription fulfillment packaging, custom size mailer box, wholesale mailer box supplier, branded e-commerce packaging, cosmetic subscription packaging, food subscription box, book subscription mailer, litho-laminated mailer, offset printed corrugated box, full-color corrugated mailer, Sedex SMETA certified packaging, subscription box packaging factory, China corrugated box OEM, bulk mailer boxes"
 categories: ["corrugated-mailers"]
 params:
@@ -58,7 +58,7 @@ Board is produced in-house on the BHS 2.5m-width corrugator running at 250 m/min
 | Sample Turnaround | 5-7 days, free pre-production samples |
 | Factory | 18,000 sqm, Foshan, Pearl River Delta, China |
 | Certifications | ISO 9001:2015, FSC Chain-of-Custody, Sedex SMETA |
-| Experience | 22 years (founded 2003), 350+ workers |
+| Experience | 23 years (founded 2003), 350+ workers |
 
 ## Quality Assurance
 
@@ -91,7 +91,7 @@ Every corrugated subscription box passes through seven mandatory quality control
 
 Bincai's BHS 2.5m corrugator — the widest in the Pearl River Delta — produces corrugated board in-house rather than sourcing from third-party sheet feeders. This vertical integration cuts board cost by 10-15% and lead time by 3-5 days versus competitors who buy sheets. For subscription box brands, this means consistent board quality across every production run (no lot-to-lot variation from outsourced sheets), faster prototyping (5-7 day sample turnaround), and the ability to scale from 500-unit test runs to 500,000-unit seasonal peaks without switching suppliers. The tear strip is perforated inline during converting — no secondary operation, no added cost.
 
-**Factory Facts:** Founded 2003 | 22 years | 18,000 sqm | 1.7M boxes/day | BHS 2.5m Corrugator + KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
+**Factory Facts:** Founded 2003 | 23 years | 18,000 sqm | 1.7M boxes/day | BHS 2.5m Corrugator + KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
 
 **Shipping:** Flat-packed, nested — 25-50 boxes per bundle. Production lead time: 10-14 days. Sea freight: 12-16 days to US West Coast.
 

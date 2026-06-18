@@ -3,7 +3,7 @@ title: "Inside Bincai's Quality Lab: How We Test 1.7 Million Boxes Daily"
 date: 2026-06-11
 draft: false
 image: "/images/hero-factory.webp"
-description: "A deep dive into Guangdong Bincai's in-house quality testing laboratory — ISO 9001 protocols, FSC chain-of-custody, AQL sampling, 15 testing instruments, and the QC culture behind 22 years of zero-critical-defect shipping."
+description: "A deep dive into Guangdong Bincai's in-house quality testing laboratory — ISO 9001 protocols, FSC chain-of-custody, AQL sampling, 15 testing instruments, and the QC culture behind 23 years of zero-critical-defect shipping."
 
 ---
 
@@ -13,7 +13,7 @@ When you order 50,000 custom rigid boxes for a luxury perfume launch, how do you
 
 ## The QC Philosophy: Prevention, Not Detection
 
-With 22 years of manufacturing experience and 1.7 million boxes produced daily, we've learned that catching defects at the end of the line is too late. Bincai follows a three-tier quality model:
+With 23 years of manufacturing experience and 1.7 million boxes produced daily, we've learned that catching defects at the end of the line is too late. Bincai follows a three-tier quality model:
 
 | Tier | Stage | What We Check |
 |---|---|---|
@@ -94,11 +94,11 @@ Some manufacturers outsource quality testing to third-party labs — which means
 
 This real-time feedback loop is how we maintain quality at 1.7 million boxes per day across both our KBA Rapida 1050 (15,000 sheets/hour) and Heidelberg Speedmaster 7+1 UV (12,000 sheets/hour).
 
-## The Human Element: 22 Years of QC Culture
+## The Human Element: 23 Years of QC Culture
 
 Instruments are essential, but experience is irreplaceable. Our senior QC supervisors average 15+ years at Bincai. They can spot a 0.3mm registration shift by eye, feel a magnet that's 10% below spec by touch, and hear a die that's dulling before the operator notices.
 
-This combination of ISO-certified systems, laboratory instrumentation, statistical sampling, and seasoned expertise is what 22 years in paper box manufacturing builds — and what your brand receives with every order.
+This combination of ISO-certified systems, laboratory instrumentation, statistical sampling, and seasoned expertise is what 23 years in paper box manufacturing builds — and what your brand receives with every order.
 
 ---
 

@@ -2,8 +2,8 @@
 title: "Custom Kraft Paper Pyramid Gift Box with Cotton Drawstring — Reusable Eco-Luxury Packaging"
 date: 2026-06-14
 draft: false
-description: "Distinctive pyramid-shaped kraft paper gift box with natural cotton drawstring closure and reinforced base. Made from 350gsm unbleached kraft board with soy-based CMYK offset printing on Heidelberg/KBA presses. FSC certified, ISO 9001 factory — 22 years manufacturing, 18,000 sqm facility, 1.7M boxes daily output. Fully curbside recyclable and home compostable with removable cotton drawstring. Ideal for organic skincare, artisanal chocolate, handmade soap, wellness products, jewelry, and sustainable fashion accessories. MOQ 500."
-keywords: "pyramid gift box, kraft pyramid box, triangle gift box, eco gift box, sustainable packaging, kraft paper box, cotton drawstring box, reusable gift box, organic packaging, artisanal packaging, handmade soap box, chocolate pyramid box, Bincai kraft box, FSC certified gift box, ISO 9001 kraft box, soy ink gift box, recyclable gift box, compostable packaging, 18,000 sqm factory, 22 years manufacturing, Heidelberg kraft printing, Guangdong eco packaging, OEM kraft box China, zero waste packaging, pyramid shaped box, natural packaging, wellness product box, sustainable fashion packaging, triangle box drawstring"
+description: "Distinctive pyramid-shaped kraft paper gift box with natural cotton drawstring closure and reinforced base. Made from 350gsm unbleached kraft board with soy-based CMYK offset printing on Heidelberg/KBA presses. FSC certified, ISO 9001 factory — 23 years manufacturing, 18,000 sqm facility, 1.7M boxes daily output. Fully curbside recyclable and home compostable with removable cotton drawstring. Ideal for organic skincare, artisanal chocolate, handmade soap, wellness products, jewelry, and sustainable fashion accessories. MOQ 500."
+keywords: "pyramid gift box, kraft pyramid box, triangle gift box, eco gift box, sustainable packaging, kraft paper box, cotton drawstring box, reusable gift box, organic packaging, artisanal packaging, handmade soap box, chocolate pyramid box, Bincai kraft box, FSC certified gift box, ISO 9001 kraft box, soy ink gift box, recyclable gift box, compostable packaging, 18,000 sqm factory, 23 years manufacturing, Heidelberg kraft printing, Guangdong eco packaging, OEM kraft box China, zero waste packaging, pyramid shaped box, natural packaging, wellness product box, sustainable fashion packaging, triangle box drawstring"
 categories: ["kraft-eco-boxes"]
 params:
   moq: "500-1000"
@@ -18,7 +18,7 @@ params:
 
 The **Kraft Paper Pyramid Gift Box with Cotton Drawstring Closure** is a packaging object that consumers keep. Its architectural silhouette — a four-sided pyramid with a soft cotton drawstring emerging from the apex — transforms product packaging from disposable wrapper to reusable keepsake. Unlike conventional boxes that are discarded seconds after unboxing, this pyramid box becomes a jewelry holder, a desk organizer, a bathroom cotton-ball container, or simply a decorative object on a shelf — extending the brand's presence in the consumer's life for months or years.
 
-Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** in our 18,000 sqm ISO 9001 & FSC certified facility with 22 years of paper packaging expertise and 1.7M boxes daily output capacity, the pyramid box is die-cut from 350gsm unbleached kraft board in a single piece with integrated fold lines. The drawstring is 100% natural cotton cord with a laser-cut kraft toggle, and both are fully removable — making the box itself 100% curbside recyclable and home compostable (EN 13432 certified materials).
+Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** in our 18,000 sqm ISO 9001 & FSC certified facility with 23 years of paper packaging expertise and 1.7M boxes daily output capacity, the pyramid box is die-cut from 350gsm unbleached kraft board in a single piece with integrated fold lines. The drawstring is 100% natural cotton cord with a laser-cut kraft toggle, and both are fully removable — making the box itself 100% curbside recyclable and home compostable (EN 13432 certified materials).
 
 **Key Specs at a Glance:** FSC® certified kraft board | Soy-based inks | Removable cotton drawstring | 100% recyclable & compostable | ISO 9001:2015 | KBA 1050 offset / Heidelberg 7+1 UV | 1.7M boxes daily | MOQ 500 | 10–14 day lead time | Single-piece die-cut construction
 
@@ -84,9 +84,9 @@ This product is designed for brands for whom sustainability is a core value, not
 
 ## Why Bincai
 
-The sustainable packaging market is growing at 7.5% CAGR (2024–2030), and brand owners increasingly demand packaging that tells a sustainability story without sacrificing aesthetics. Guangdong Bincai Color Printing has been manufacturing paper packaging for 22 years — long enough to have seen every sustainability trend, and to know which ones deliver genuine environmental benefit versus which are greenwashing.
+The sustainable packaging market is growing at 7.5% CAGR (2024–2030), and brand owners increasingly demand packaging that tells a sustainability story without sacrificing aesthetics. Guangdong Bincai Color Printing has been manufacturing paper packaging for 23 years — long enough to have seen every sustainability trend, and to know which ones deliver genuine environmental benefit versus which are greenwashing.
 
-- **22 years** of paper box manufacturing — we've produced over 2.5 billion boxes
+- **23 years** of paper box manufacturing — we've produced over 2.5 billion boxes
 - **18,000 sqm** ISO 9001:2015 + FSC® certified facility
 - **In-house composting partner** for EN 13432 validation testing
 - **Soy ink exclusively** on all kraft and eco product lines — no petroleum-based inks

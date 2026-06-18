@@ -2,7 +2,7 @@
 title: "Kraft Paper Bento Lunch Box with Bamboo Cutlery Compartment — Biodegradable Food Packaging"
 date: 2026-06-14
 draft: false
-description: "Eco-friendly kraft paper bento lunch box with integrated bamboo cutlery compartment by Guangdong Bincai Color Printing. Biodegradable kraft board with PLA moisture barrier, soy-based ink printing, compostable in 90 days. 3-compartment or 4-compartment tray design. FSC certified, ISO 9001. 22 years experience, 18,000 sqm factory, daily output 1.7M boxes. MOQ 1000."
+description: "Eco-friendly kraft paper bento lunch box with integrated bamboo cutlery compartment by Guangdong Bincai Color Printing. Biodegradable kraft board with PLA moisture barrier, soy-based ink printing, compostable in 90 days. 3-compartment or 4-compartment tray design. FSC certified, ISO 9001. 23 years experience, 18,000 sqm factory, daily output 1.7M boxes. MOQ 1000."
 keywords: "kraft bento box, eco-friendly lunch box, biodegradable food packaging, bamboo cutlery box, compostable packaging, sustainable food container, kraft paper food box, Bincai Color Printing, FSC certified, ISO 9001, soy ink, PLA barrier, Guangdong packaging factory, OEM eco packaging China"
 categories: ["kraft-eco-boxes"]
 params:
@@ -26,7 +26,7 @@ Sustainable kraft paper bento lunch box with integrated bamboo cutlery compartme
 - Optional clear PLA window for product visibility without plastic
 - Microwave-safe (up to 100°C) and refrigerator/freezer safe
 - ISO 9001:2015 quality management, EN 13432 compostable certified, EU 1935/2004 food-safe
-- 22 years experience, 18,000 sqm factory, 1.7M boxes daily output
+- 23 years experience, 18,000 sqm factory, 1.7M boxes daily output
 
 ## Applications
 

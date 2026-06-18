@@ -59,7 +59,7 @@ The box features a tightly fitted lid with dual N52 neodymium magnetic closures 
 | Factory | 18,000 sqm (10,000 + 8,000 smart factory), Foshan, Guangdong, China |
 | Certifications | ISO 9001:2015, FSC Chain-of-Custody, Sedex SMETA |
 | Daily Output | 1.7M boxes (220,000+ rigid boxes/day) |
-| Experience | 22 years (founded 2003), 350+ skilled workers |
+| Experience | 23 years (founded 2003), 350+ skilled workers |
 | MOQ | 500 units per design |
 | Sample Lead Time | 5–7 days (free pre-production samples) |
 | Production Lead Time | 12–15 days after sample approval |
@@ -125,9 +125,9 @@ The box features a tightly fitted lid with dual N52 neodymium magnetic closures 
 
 Bincai's watch packaging line integrates rigid box construction, carbon fiber texturing, magnetic closure engineering, and precision drawer assembly under one roof. Our 18,000 sqm dual-factory in Foshan's Pearl River Delta gives watch brands direct access to Shenzhen and Hong Kong export ports with 18–25 day sea freight to major EU/US markets.
 
-With 22 years of rigid box expertise and a 220,000+ daily rigid box capacity, Bincai handles everything from 500-unit boutique orders to 100,000+ unit global retail rollouts. Our ISO 9001:2015 quality system ensures every watch box meets the exacting standards luxury timepiece brands expect — from carbon fiber pattern consistency to magnetic closure tactile feedback.
+With 23 years of rigid box expertise and a 220,000+ daily rigid box capacity, Bincai handles everything from 500-unit boutique orders to 100,000+ unit global retail rollouts. Our ISO 9001:2015 quality system ensures every watch box meets the exacting standards luxury timepiece brands expect — from carbon fiber pattern consistency to magnetic closure tactile feedback.
 
-**Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA Rapida 105 + Heidelberg Speedmaster CD 102 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
+**Factory Facts:** Founded 2003 | 23 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA Rapida 105 + Heidelberg Speedmaster CD 102 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
 
 **Shipping:** Flat-packed unassembled (55% freight volume savings). 24 units per master carton. FOB Shenzhen/Guangzhou/Hong Kong. Production lead time 12–15 days + 18–25 days sea freight.
 

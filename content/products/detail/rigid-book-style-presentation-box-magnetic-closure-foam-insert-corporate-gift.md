@@ -2,7 +2,7 @@
 title: "Rigid Book-Style Magnetic Presentation Box with Custom Foam Insert for Corporate Gifts"
 date: 2026-06-15
 draft: false
-description: "Rigid book-style magnetic closure presentation box with custom die-cut foam insert for corporate gifts, executive kits, and premium brand packaging. Manufactured by Bincai: KBA 1050 4-color offset + Heidelberg 7+1 UV press, 1200-1600gsm greyboard wrapped in 157gsm art paper or specialty stock, hot foil stamping, embossing, matte/gloss lamination, custom-fit foam or satin insert, 10,000+8,000sqm dual factory, 22 years experience, ISO 9001:2015 & FSC certified, 1.7M daily output, 80+ workers. MOQ 300. Free pre-production samples 5-7 days."
+description: "Rigid book-style magnetic closure presentation box with custom die-cut foam insert for corporate gifts, executive kits, and premium brand packaging. Manufactured by Bincai: KBA 1050 4-color offset + Heidelberg 7+1 UV press, 1200-1600gsm greyboard wrapped in 157gsm art paper or specialty stock, hot foil stamping, embossing, matte/gloss lamination, custom-fit foam or satin insert, 10,000+8,000sqm dual factory, 23 years experience, ISO 9001:2015 & FSC certified, 1.7M daily output, 80+ workers. MOQ 300. Free pre-production samples 5-7 days."
 keywords: "rigid book style presentation box, corporate gift box, magnetic closure presentation box, foam insert gift box, custom rigid box, executive gift packaging, premium brand packaging, rigid box manufacturer China, KBA Heidelberg rigid box, ISO 9001 FSC gift box, book style magnetic box, corporate kit packaging, Bincai, Guangdong rigid box factory"
 categories: ["rigid-gift-boxes"]
 params:
@@ -14,7 +14,7 @@ params:
 
 ![Bincai Rigid Gift Boxes](/images/cat-rigid-others.jpg)
 
-Rigid book-style magnetic closure presentation box with custom die-cut foam insert — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). The book-style hinged lid opens like a hardcover book, revealing a precision die-cut foam or satin-lined interior that securely cradles each item. Ideal for corporate gift kits, executive onboarding packages, premium electronics unboxing, and luxury brand presentations. KBA 1050 4-color and Heidelberg 7+1 UV presses deliver precision printing across 18,000 sqm factory (10,000+8,000 smart factory). Daily output 1.7 million boxes.
+Rigid book-style magnetic closure presentation box with custom die-cut foam insert — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 23 years of experience (founded 2003). The book-style hinged lid opens like a hardcover book, revealing a precision die-cut foam or satin-lined interior that securely cradles each item. Ideal for corporate gift kits, executive onboarding packages, premium electronics unboxing, and luxury brand presentations. KBA 1050 4-color and Heidelberg 7+1 UV presses deliver precision printing across 18,000 sqm factory (10,000+8,000 smart factory). Daily output 1.7 million boxes.
 
 ## Applications
 - Corporate gift kits and executive welcome packages
@@ -54,7 +54,7 @@ Rigid book-style magnetic closure presentation box with custom die-cut foam inse
 - MOQ 300–500 units, trial orders and OEM/ODM accepted
 
 ## Factory
-- 22 years of manufacturing excellence since 2003
+- 23 years of manufacturing excellence since 2003
 - 18,000 sqm factory (10,000+8,000 smart factory)
 - 80+ skilled employees across design, prepress, printing, and finishing
 - KBA 1050 4-color + Heidelberg 7+1 UV presses
@@ -83,7 +83,7 @@ A: Our rigid box corner construction uses a proprietary three-step process: (1) 
 
 When you partner with Bincai for rigid book-style presentation boxes, you're choosing a manufacturer with the precision, certification, and capacity to deliver luxury-quality packaging at competitive Chinese manufacturing pricing:
 
-- **22 Years of Manufacturing Excellence** — Founded in 2003, Bincai has produced rigid gift boxes for global brands across North America, Europe, Australia, and the Middle East. Our experience spans luxury goods, cosmetics, electronics, spirits, and corporate gifting sectors.
+- **23 Years of Manufacturing Excellence** — Founded in 2003, Bincai has produced rigid gift boxes for global brands across North America, Europe, Australia, and the Middle East. Our experience spans luxury goods, cosmetics, electronics, spirits, and corporate gifting sectors.
 
 - **18,000 sqm Dual Factory** — Our campus includes a 10,000 sqm primary production facility plus an 8,000 sqm smart factory. Dual-site layout provides production redundancy and the capacity to handle multi-container orders with consistent quality across all production lines.
 

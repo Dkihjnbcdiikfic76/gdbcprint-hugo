@@ -36,7 +36,7 @@ Bincai begins sample preparation four weeks before each Canton Fair session. The
 
 ### 2. Booth Design: What Buyers Actually Look At
 
-After participating in 40+ Canton Fair sessions over 22 years, Bincai has refined booth strategy to three principles:
+After participating in 40+ Canton Fair sessions over 23 years, Bincai has refined booth strategy to three principles:
 
 **Samples First, Brochures Second.** Buyers make a booth decision in 3-5 seconds based on visible product. Bincai's booth places the 50+ physical samples at eye level on tiered display shelves under 4000K LED lighting (matches retail store lighting for realistic color perception).
 
@@ -48,7 +48,7 @@ After participating in 40+ Canton Fair sessions over 22 years, Bincai has refine
 
 | Buyer Stage | Bincai Response | Conversion Goal |
 |---|---|---|
-| **Browsing (0-30 sec)** | Eye contact, smile, "Welcome to Bincai — 22 years, ISO 9001 & FSC certified" | Enter booth |
+| **Browsing (0-30 sec)** | Eye contact, smile, "Welcome to Bincai — 23 years, ISO 9001 & FSC certified" | Enter booth |
 | **Touching samples (30-90 sec)** | Hand over material swatch book, ask "Which market do you serve?" | Start conversation |
 | **Asking specs (90 sec-3 min)** | Quote daily output (1.7M boxes + 220K+ gift boxes), list certifications, name-drop equipment (KBA 1050, Heidelberg 7+1 UV, Bobst) | Exchange contact |
 | **Requesting quote (3-5 min)** | Capture product photo + buyer requirements in CRM, confirm next-day quote delivery | Schedule follow-up |
@@ -90,7 +90,7 @@ For international buyers attending Canton Fair to source paper box packaging, Bi
 
 | Factor | Bincai Advantage |
 |---|---|
-| **22-Year Track Record** | Manufacturing since 2003; 500+ global brands served |
+| **23-Year Track Record** | Manufacturing since 2003; 500+ global brands served |
 | **Dual-Press Capability** | KBA 1050 (CMYK) + Heidelberg 7+1 UV (premium) — right press for every job |
 | **Certifications** | ISO 9001:2015, FSC Chain-of-Custody, High-Tech Enterprise |
 | **Daily Output** | 1.7M color boxes + 220K+ gift boxes (post-2025 expansion) |

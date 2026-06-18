@@ -2,8 +2,8 @@
 title: "Kraft Paper Artisan Chocolate Gift Box — Compostable Tray with Soy-Based Ink"
 date: 2026-06-15
 draft: false
-description: "Kraft Paper Artisan Chocolate Gift Box — Compostable Tray with Soy-Based Ink by Guangdong Bincai Color Printing — Diamond Member on Made-in-China.com. ISO 9001 FSC certified, 22 years experience, KBA 1050 4-color + Heidelberg 7+1 UV presses, 18,000 sqm factory, 1.7M daily output. Folding box with compostable molded fiber tray, PLA compostable window, soy-based ink printing, natural jute twine closure."
-keywords: "kraft chocolate box, artisan chocolate packaging, compostable chocolate box, eco chocolate gift box, biodegradable chocolate packaging, soy ink box, FSC kraft box, sustainable chocolate packaging, Bincai, Guangdong packaging factory, 22 years experience, ISO 9001 certified, FSC certified, 18,000 sqm factory, OEM paper box China, Diamond Member MIC"
+description: "Kraft Paper Artisan Chocolate Gift Box — Compostable Tray with Soy-Based Ink by Guangdong Bincai Color Printing — Diamond Member on Made-in-China.com. ISO 9001 FSC certified, 23 years experience, KBA 1050 4-color + Heidelberg 7+1 UV presses, 18,000 sqm factory, 1.7M daily output. Folding box with compostable molded fiber tray, PLA compostable window, soy-based ink printing, natural jute twine closure."
+keywords: "kraft chocolate box, artisan chocolate packaging, compostable chocolate box, eco chocolate gift box, biodegradable chocolate packaging, soy ink box, FSC kraft box, sustainable chocolate packaging, Bincai, Guangdong packaging factory, 23 years experience, ISO 9001 certified, FSC certified, 18,000 sqm factory, OEM paper box China, Diamond Member MIC"
 categories: ["kraft-eco-boxes"]
 params:
   moq: "500-1000"
@@ -49,7 +49,7 @@ Eco-friendly kraft paper artisan chocolate gift box with compostable molded fibe
 - EN 13432 certified — industrially compostable materials
 - OK Compost HOME certified — suitable for home composting
 - Made-in-China.com Diamond Member — mandatory on-site audit verified
-- 22 years manufacturing experience (founded 2003)
+- 23 years manufacturing experience (founded 2003)
 - Food-safe production environment with dedicated clean zone
 
 ## Quality Assurance
@@ -72,7 +72,7 @@ Eco-friendly kraft paper artisan chocolate gift box with compostable molded fibe
 
 When you partner with Bincai for your artisan chocolate packaging, you gain a manufacturer with unmatched eco-packaging expertise and production capability:
 
-- **22 Years of Manufacturing Excellence** — Founded in 2003, Bincai has spent over two decades mastering paper packaging. From corrugated shippers to luxury rigid boxes to compostable food packaging, our cross-category experience means we understand both structural integrity and aesthetic presentation.
+- **23 Years of Manufacturing Excellence** — Founded in 2003, Bincai has spent over two decades mastering paper packaging. From corrugated shippers to luxury rigid boxes to compostable food packaging, our cross-category experience means we understand both structural integrity and aesthetic presentation.
 
 - **18,000 sqm Dual Factory** — Our Foshan campus includes a 10,000 sqm primary production facility plus an 8,000 sqm smart factory. This dual-site layout provides production redundancy and the capacity to handle seasonal chocolate rush orders (Christmas, Valentine's, Easter) without disrupting ongoing production.
 
@@ -86,7 +86,7 @@ When you partner with Bincai for your artisan chocolate packaging, you gain a ma
 
 - **Free Pre-Production Samples** — We provide physical samples with your custom tray layout, soy-ink print, and jute closure in 5–7 working days so you can test chocolate fit, compostability claims, and unboxing experience before production.
 
-**Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
+**Factory Facts:** Founded 2003 | 23 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
 
 ## Sustainability
 

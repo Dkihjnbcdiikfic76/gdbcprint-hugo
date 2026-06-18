@@ -2,7 +2,7 @@
 title: "Window Die-Cut Folding Carton for Tea Sachet Display Retail"
 date: 2026-06-15
 draft: false
-description: "Window Die-Cut Folding Carton for Tea Sachet Display Retail — custom manufactured by Bincai Printing, 22-year ISO 9001 & FSC certified paper box factory. Die-cut window folding carton with clear PET film for tea sachet retail display packaging by Guangdong Bincai Color Printing Co., Ltd. — 22 years of manufacturing excellence since 2003. Produced on KBA 1050 4-color and Heidelberg 7+1 UV presses across our 18,000 sqm factory (10,000+8,000 sqm smart factory, 2025 expansion). ISO 9001:2015 and FSC certified. Daily output of 1.7 million color boxes plus 220,000+ gift boxes. MOQ 1,000 units with free pre-production samples. Available in tuck-top, auto-bottom, or crash-lock bottom designs. Die-cut window shapes: rectangle, oval, teardrop, heart, or custom. PET film window with anti-fog coating for refrigerated display. Full-color CMYK offset printing on food-grade SBS board for tea, herbal infusion, and gourmet food retail packaging. Heidelberg 7+1 UV offset printing, 10,000 sqm facility, daily output 1.5M boxes."
+description: "Window Die-Cut Folding Carton for Tea Sachet Display Retail — custom manufactured by Bincai Printing, 23-year ISO 9001 & FSC certified paper box factory. Die-cut window folding carton with clear PET film for tea sachet retail display packaging by Guangdong Bincai Color Printing Co., Ltd. — 23 years of manufacturing excellence since 2003. Produced on KBA 1050 4-color and Heidelberg 7+1 UV presses across our 18,000 sqm factory (10,000+8,000 sqm smart factory, 2025 expansion). ISO 9001:2015 and FSC certified. Daily output of 1.7 million color boxes plus 220,000+ gift boxes. MOQ 1,000 units with free pre-production samples. Available in tuck-top, auto-bottom, or crash-lock bottom designs. Die-cut window shapes: rectangle, oval, teardrop, heart, or custom. PET film window with anti-fog coating for refrigerated display. Full-color CMYK offset printing on food-grade SBS board for tea, herbal infusion, and gourmet food retail packaging. Heidelberg 7+1 UV offset printing, 10,000 sqm facility, daily output 1.5M boxes."
 keywords: "tea carton, tea sachet box, window folding carton, tea packaging, food carton, custom tea box China, ISO 9001 FSC packaging, Bincai Guangdong, tea display box, die-cut window box, retail tea packaging, OEM tea carton, MOQ 1000 tea box, folding carton window, PET window box, Guangdong packaging factory, custom food packaging, tea sachet display, herbal tea box, gourmet food carton, tea retail packaging, window die-cut box, food-grade packaging, SBS carton"
 categories: ["folding-cartons"]
 params:
@@ -20,7 +20,7 @@ tags:
 
 ![Bincai Folding Carton](/images/folding-cartons.jpg)
 
-Die-cut window folding carton with clear PET film for tea sachet display at retail by Guangdong Bincai Color Printing Co., Ltd. — a Diamond Member on Made-in-China.com with 22 years of manufacturing excellence (founded 2003). The precision die-cut window with optically clear PET film allows customers to see the tea sachets inside, building trust and conveying product quality at the point of sale. The food-grade SBS board and adhesive meet FDA and EU food contact standards. Produced on KBA 1050 4-color and Heidelberg 7+1 UV presses across our 18,000 sqm facility (10,000+8,000 smart factory) (2025 expansion). Daily output: 1.7 million color boxes + 220,000+ gift boxes.
+Die-cut window folding carton with clear PET film for tea sachet display at retail by Guangdong Bincai Color Printing Co., Ltd. — a Diamond Member on Made-in-China.com with 23 years of manufacturing excellence (founded 2003). The precision die-cut window with optically clear PET film allows customers to see the tea sachets inside, building trust and conveying product quality at the point of sale. The food-grade SBS board and adhesive meet FDA and EU food contact standards. Produced on KBA 1050 4-color and Heidelberg 7+1 UV presses across our 18,000 sqm facility (10,000+8,000 smart factory) (2025 expansion). Daily output: 1.7 million color boxes + 220,000+ gift boxes.
 
 ## Applications
 - Premium loose-leaf tea and tea sachet retail packaging
@@ -85,7 +85,7 @@ Tea sachets in opaque foil pouches sell on brand trust alone. A die-cut window c
 **Business impact**: A specialty tea brand launching 6 seasonal blends found window cartons generated 28% higher first-month sales than identical blends in foil pouches — attributed entirely to the visual "try me" appeal of the window. For a 1,000-unit run at ¥3.50/carton vs ¥1.80/pouch, the ¥1.70 premium per unit is recovered on the first 2 additional units sold per SKU. The carton is return-friendly for subscription boxes.
 
 ## Factory
-- 22 years of manufacturing excellence since 2003
+- 23 years of manufacturing excellence since 2003
 - 18,000 sqm factory (10,000+8,000 smart factory)
 - 80+ skilled employees across design, prepress, printing, and finishing
 - KBA 1050 4-color + Heidelberg 7+1 UV presses

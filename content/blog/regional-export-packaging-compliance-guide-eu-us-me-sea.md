@@ -1,7 +1,7 @@
 ---
 title: "Export Packaging Compliance by Region: EU, US, Middle East & Southeast Asia — A Complete Buyer's Guide"
 date: 2026-06-16
-description: "Navigate international packaging regulations with confidence. This comprehensive guide covers EU (REACH, 1935/2004, EN 71), US (FDA, Prop 65, CONEG), Middle East (GSO, SASO, ESMA), and Southeast Asia (FDA Thailand, BPOM, SIRIM) requirements for paper box packaging. Bincai — 22 years, ISO 9001:2015 and FSC Chain-of-Custody certified, 18,000 sqm factory, KBA 1050 + Heidelberg 7+1 UV, 1.7M daily — ensures compliant packaging for 60+ export markets."
+description: "Navigate international packaging regulations with confidence. This comprehensive guide covers EU (REACH, 1935/2004, EN 71), US (FDA, Prop 65, CONEG), Middle East (GSO, SASO, ESMA), and Southeast Asia (FDA Thailand, BPOM, SIRIM) requirements for paper box packaging. Bincai — 23 years, ISO 9001:2015 and FSC Chain-of-Custody certified, 18,000 sqm factory, KBA 1050 + Heidelberg 7+1 UV, 1.7M daily — ensures compliant packaging for 60+ export markets."
 author: "Bincai Compliance Team"
 tags:
   - export-compliance
@@ -253,7 +253,7 @@ ASEAN is working toward a **harmonized food-contact materials framework** throug
 | **Gluing** | Bobst Mistral 110 + Ambition 106 automated folder-gluers |
 | **Factory Size** | 18,000 sqm (10,000 sqm production + 8,000 sqm smart factory, 2025) |
 | **Daily Output** | 1.7 million color boxes + 220,000+ gift boxes |
-| **Experience** | 22 years (founded 2003) |
+| **Experience** | 23 years (founded 2003) |
 | **Certifications** | ISO 9001:2015, FSC Chain-of-Custody (C178611), High-Tech Enterprise |
 | **Lab Partners** | SGS, Intertek, Bureau Veritas — ISO/IEC 17025 accredited |
 | **Employees** | 80+ skilled staff |
@@ -287,13 +287,13 @@ A: FSC is not a legal requirement in any region, but it has become a *de facto* 
 
 ---
 
-## The Compliance Advantage: Why 22 Years of Export Experience Matters
+## The Compliance Advantage: Why 23 Years of Export Experience Matters
 
 Every Bincai shipment to 60+ countries has taught us something about documentation, testing, and the real-world friction points of customs clearance. We've seen shipments held at Jebel Ali because the Arabic importer label used the wrong font size. We've seen EU retailers reject pallets because the test report was 13 months old, not 12. We've learned these lessons so our buyers don't have to.
 
 When you source packaging from Bincai, you get more than 1.7 million boxes daily from KBA and Heidelberg presses. You get a compliance partner who maintains current test reports, tracks regulatory changes across four continents, and knows what documentation each market requires before the container ships.
 
-**Shipping to a new market?** Contact Guangdong Bincai Color Printing Co., Ltd. for a free export compliance checklist specific to your target region. 22 years, 60+ countries, one standard: packaging that clears customs and performs on shelf.
+**Shipping to a new market?** Contact Guangdong Bincai Color Printing Co., Ltd. for a free export compliance checklist specific to your target region. 23 years, 60+ countries, one standard: packaging that clears customs and performs on shelf.
 
 ---
 *Guangdong Bincai Color Printing Co., Ltd. — ISO 9001:2015 certified (SGS), FSC Chain-of-Custody (C178611). KBA Rapida 1050 + Heidelberg Speedmaster 7+1 UV + Bobst SP 102 BMA. 18,000 sqm, 1,700,000 boxes daily. Foshan, Guangdong, China.*

@@ -2,7 +2,7 @@
 title: "Premium Shoulder-Neck Rigid Gift Box with Magnetic Closure for Luxury Spirits Packaging"
 date: 2026-06-11
 draft: false
-description: "Premium Shoulder-Neck Rigid Gift Box with Magnetic Closure for Luxury Spirits Packaging — custom manufactured by Bincai Printing, 22-year ISO 9001 & FSC certified paper box factory. Shoulder-neck rigid box with magnetic snap closure, 2000gsm greyboard, and velvet flocking interior. Custom insert for 700ml/750ml spirits bottle + 2 glassware. Gold hot foil stamping, matte lamination, and satin ribbon pull. ISO 9001 & FSC certified, 22 years experience, 220K+ gift boxes daily. Heidelberg 7+1 UV offset printing, 10,000 sqm facility, daily output 1.5M boxes."
+description: "Premium Shoulder-Neck Rigid Gift Box with Magnetic Closure for Luxury Spirits Packaging — custom manufactured by Bincai Printing, 23-year ISO 9001 & FSC certified paper box factory. Shoulder-neck rigid box with magnetic snap closure, 2000gsm greyboard, and velvet flocking interior. Custom insert for 700ml/750ml spirits bottle + 2 glassware. Gold hot foil stamping, matte lamination, and satin ribbon pull. ISO 9001 & FSC certified, 23 years experience, 220K+ gift boxes daily. Heidelberg 7+1 UV offset printing, 10,000 sqm facility, daily output 1.5M boxes."
 keywords: "spirits gift box, whiskey packaging box, wine bottle rigid box, shoulder-neck box, luxury spirits packaging, magnetic closure liquor box, premium whiskey box, Bincai gift box wholesale, Foshan rigid box manufacturer, velvet lined spirits box, gold foil liquor box, ISO 9001 spirits packaging, FSC certified gift box, custom bottle box, premium beverage packaging"
 categories: ["rigid-gift-boxes"]
 params:
@@ -22,7 +22,7 @@ tags:
 
 ## Product Overview
 
-The Bincai Premium Shoulder-Neck Rigid Gift Box redefines luxury spirits gifting with a **sculpted architectural silhouette** — the recessed shoulder-neck construction creates a striking two-tier profile that cradles premium whiskey, cognac, or baijiu bottles with museum-grade presentation. The **magnetic snap closure** (4× NdFeB N35 magnets) delivers a satisfying, authoritative close that signals quality to the recipient before the box is even opened. Inside, a **velvet-flocked cavity** precisely die-cut to the bottle's base diameter with a 2-glassware side compartment transforms retail liquor packaging into a complete gift experience. At **Guangdong Bincai Color Printing Co., Ltd.** — ISO 9001:2015 and FSC certified with 22 years of packaging leadership — every shoulder-neck box is produced on Heidelberg 7+1 UV or KBA Rapida 105 presses, delivering 220,000+ gift boxes daily across our dual-factory 18,000 sqm production campus.
+The Bincai Premium Shoulder-Neck Rigid Gift Box redefines luxury spirits gifting with a **sculpted architectural silhouette** — the recessed shoulder-neck construction creates a striking two-tier profile that cradles premium whiskey, cognac, or baijiu bottles with museum-grade presentation. The **magnetic snap closure** (4× NdFeB N35 magnets) delivers a satisfying, authoritative close that signals quality to the recipient before the box is even opened. Inside, a **velvet-flocked cavity** precisely die-cut to the bottle's base diameter with a 2-glassware side compartment transforms retail liquor packaging into a complete gift experience. At **Guangdong Bincai Color Printing Co., Ltd.** — ISO 9001:2015 and FSC certified with 23 years of packaging leadership — every shoulder-neck box is produced on Heidelberg 7+1 UV or KBA Rapida 105 presses, delivering 220,000+ gift boxes daily across our dual-factory 18,000 sqm production campus.
 
 ## Applications
 
@@ -82,12 +82,12 @@ The Bincai Premium Shoulder-Neck Rigid Gift Box redefines luxury spirits gifting
 
 ---
 
-*Guangdong Bincai Color Printing Co., Ltd. — 22 years of packaging excellence. ISO 9001:2015 & FSC certified. 18,000 sqm Foshan facility (10,000+8,000 smart factory). Daily output: 1.7M+ boxes. Serving 60+ countries worldwide.*
+*Guangdong Bincai Color Printing Co., Ltd. — 23 years of packaging excellence. ISO 9001:2015 & FSC certified. 18,000 sqm Foshan facility (10,000+8,000 smart factory). Daily output: 1.7M+ boxes. Serving 60+ countries worldwide.*
 
 
 ## Manufacturing Excellence at Bincai
 
-Every box is produced in our **10,000 sqm ISO 9001 & FSC-certified facility** with **22 years** of packaging mastery. Our production line features:
+Every box is produced in our **10,000 sqm ISO 9001 & FSC-certified facility** with **23 years** of packaging mastery. Our production line features:
 
 - **Heidelberg Speedmaster XL 7+1 UV** — 7-color offset with inline UV coating, 18,000 sheets/hour
 - **KBA Rapida 105 4-color** — high-speed offset for medium-to-long runs
@@ -103,6 +103,6 @@ We source SBS (solid bleached sulfate), CCNB (clay-coated newsback), kraft, and 
 
 **Send your 700ml/750ml spirits bottle to our Foshan factory for a free reverse-engineered EVA foam cradle and fully assembled shoulder-neck rigid box sample in 7 working days.** We'll precision-CNC route a 25mm EVA foam insert (45kg/m³ density) to your exact bottle profile, add N35 NdFeB magnets for snap closure, and finish with your choice of gold foil, matte lamination, and satin ribbon color. Your sample includes material swatches, print proofs, and a structural box ready for photography. Custom tooling costs (die, foil plate, embossing die) are credited against your first production order.
 
-**Bincai: 22 years, ISO 9001:2015 & FSC certified, 18,000 sqm factory, Diamond Member on Made-in-China.com — 987 products, verified on-site audit.**
+**Bincai: 23 years, ISO 9001:2015 & FSC certified, 18,000 sqm factory, Diamond Member on Made-in-China.com — 987 products, verified on-site audit.**
 
 [→ Ship us your bottle for a free sample](/contact/)  |  📧 qo82@icloud.com | 📱 +86-18934352881

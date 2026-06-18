@@ -76,9 +76,9 @@ The PRD has China's most mature export infrastructure:
 
 *Rates as of mid-2026. Actual rates vary by season and fuel surcharges. Contact Bincai for current freight quotations.*
 
-## The Bincai Difference: 22 Years of Export Excellence
+## The Bincai Difference: 23 Years of Export Excellence
 
-Location alone isn't enough — it takes operational expertise to turn geographic advantages into buyer value. Bincai's 22-year track record (founded 2003) means:
+Location alone isn't enough — it takes operational expertise to turn geographic advantages into buyer value. Bincai's 23-year track record (founded 2003) means:
 
 1. **Proven export compliance**: Products shipped to 30+ countries across 5 continents — we navigate phytosanitary requirements (ISPM 15 heat-treated pallets), REACH/SVHC compliance for EU markets, and California Proposition 65 for US buyers.
 
@@ -99,7 +99,7 @@ Location alone isn't enough — it takes operational expertise to turn geographi
 | **Innovation speed** | ★★★★★ Rapid prototyping & tooling | ★★★★ Competitive | ★★☆☆ Slower |
 | **Cost competitiveness** | ★★★★ Excellent value | ★★★☆ Premium pricing | ★★★★ Lower labor, higher materials |
 
-The PRD's paper box manufacturing dominance isn't accidental — it's the result of 30+ years of clustered development, continuous investment, and relentless focus on export-quality packaging. Bincai, with its 22-year history, dual-factory capacity (18,000 sqm total), ISO 9001 & FSC certifications, and German-engineered Heidelberg/KBA press line, represents the best of what this region can deliver.
+The PRD's paper box manufacturing dominance isn't accidental — it's the result of 30+ years of clustered development, continuous investment, and relentless focus on export-quality packaging. Bincai, with its 23-year history, dual-factory capacity (18,000 sqm total), ISO 9001 & FSC certifications, and German-engineered Heidelberg/KBA press line, represents the best of what this region can deliver.
 
 > **Ready to source from the world's best packaging hub?** Contact Bincai for samples and quotations: **+86-18934352881** (Mr. Zhou) or **qo82@icloud.com**. Free pre-production samples within 3-5 days. MOQ from 500 units.
 

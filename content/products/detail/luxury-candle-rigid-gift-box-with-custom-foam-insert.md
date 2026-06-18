@@ -2,8 +2,8 @@
 title: "Luxury Candle Rigid Gift Box with Custom Foam Insert"
 date: 2026-06-10
 draft: false
-description: "Custom luxury candle rigid gift box with precision-cut EVA/PU foam insert manufactured by Guangdong Bincai Color Printing on KBA 1050 4-color & Heidelberg 7+1 UV presses in an 18,000 sqm (10,000+8,000 smart factory) ISO 9001:2015 & FSC certified facility with 22 years experience and 1.7M boxes daily output. 800-1600gsm greyboard construction wrapped in art paper or velvet flocking; gold/silver/rose gold hot foil stamping; embossing/debossing; magnetic closure option; PET die-cut window. MOQ 500-1000. Free 3D digital proofs and pre-production samples. Ideal for luxury candle brands, artisan candle makers, home fragrance, spa and wellness packaging."
-keywords: "rigid gift box manufacturer, luxury rigid boxes, custom foam insert packaging, candle gift box wholesale, rigid paper box factory, magnetic closure gift box, custom rigid box printing, premium gift packaging, greyboard rigid box, two-piece gift box, luxury candle packaging, EVA foam insert box, hot foil stamping box, embossed gift box, Bincai Color Printing, Guangdong rigid box factory, KBA 1050 offset printing, Heidelberg 7+1 UV coating, ISO 9001 rigid boxes, FSC certified gift box, die-cut window box, velvet flocking box, artisan candle packaging, home fragrance box, spa gift box, 22 years packaging manufacturer, 1.7M daily output, Foshan paper box factory, custom luxury box China, wholesale rigid boxes, candle display box"
+description: "Custom luxury candle rigid gift box with precision-cut EVA/PU foam insert manufactured by Guangdong Bincai Color Printing on KBA 1050 4-color & Heidelberg 7+1 UV presses in an 18,000 sqm (10,000+8,000 smart factory) ISO 9001:2015 & FSC certified facility with 23 years experience and 1.7M boxes daily output. 800-1600gsm greyboard construction wrapped in art paper or velvet flocking; gold/silver/rose gold hot foil stamping; embossing/debossing; magnetic closure option; PET die-cut window. MOQ 500-1000. Free 3D digital proofs and pre-production samples. Ideal for luxury candle brands, artisan candle makers, home fragrance, spa and wellness packaging."
+keywords: "rigid gift box manufacturer, luxury rigid boxes, custom foam insert packaging, candle gift box wholesale, rigid paper box factory, magnetic closure gift box, custom rigid box printing, premium gift packaging, greyboard rigid box, two-piece gift box, luxury candle packaging, EVA foam insert box, hot foil stamping box, embossed gift box, Bincai Color Printing, Guangdong rigid box factory, KBA 1050 offset printing, Heidelberg 7+1 UV coating, ISO 9001 rigid boxes, FSC certified gift box, die-cut window box, velvet flocking box, artisan candle packaging, home fragrance box, spa gift box, 23 years packaging manufacturer, 1.7M daily output, Foshan paper box factory, custom luxury box China, wholesale rigid boxes, candle display box"
 categories: ["rigid-gift-boxes"]
 params:
   moq: "500-1000"
@@ -16,7 +16,7 @@ params:
 
 ## Description
 
-Our luxury candle rigid gift box with custom foam insert delivers premium protection and presentation for high-end candle products. Each box is manufactured in our 18,000 sqm Foshan facility (10,000+8,000 smart factory) — a fully integrated rigid box production line backed by 22 years of packaging expertise. The rigid construction uses dense greyboard (800–1600 gsm) wrapped in art paper or specialty stock, while the custom-cut foam insert cradles candles securely during transit and retail display.
+Our luxury candle rigid gift box with custom foam insert delivers premium protection and presentation for high-end candle products. Each box is manufactured in our 18,000 sqm Foshan facility (10,000+8,000 smart factory) — a fully integrated rigid box production line backed by 23 years of packaging expertise. The rigid construction uses dense greyboard (800–1600 gsm) wrapped in art paper or specialty stock, while the custom-cut foam insert cradles candles securely during transit and retail display.
 
 We run KBA 1050 4-color offset presses for vibrant CMYK printing and a Heidelberg 7+1 UV press for specialty coatings, soft-touch finishes, and high-gloss spot UV effects. With an ISO 9001 quality management system and FSC chain-of-custody certification, every order meets international standards for quality and sustainability. Our daily output of 1.7 million boxes ensures even large-volume orders ship on time.
 
@@ -42,7 +42,7 @@ Guangdong Bincai Color Printing Co., Ltd. operates one of South China's largest 
 | Specification | Detail |
 |---|---|
 | Factory Size | 18,000 sqm (10,000+8,000 smart factory) |
-| Years in Business | 22 years |
+| Years in Business | 23 years |
 | Daily Output | 1.7 million boxes |
 | Primary Presses | KBA 1050 4-color, Heidelberg 7+1 UV |
 | Certifications | ISO 9001:2015, FSC Chain of Custody |
@@ -138,7 +138,7 @@ A: Yes. All greyboard and art paper are FSC Chain-of-Custody certified. Soy-base
 
 ## Why Choose Bincai for Candle Packaging
 
-Luxury candle packaging demands more than just a box — it must protect fragile glass jars through global logistics while delivering a sensory brand experience worthy of premium fragrance products. Guangdong Bincai Color Printing Co., Ltd. has manufactured rigid gift boxes since 2003, and our 18,000 sqm integrated facility in Foshan is purpose-built for precision: from the German-engineered KBA and Heidelberg presses that deliver color-accurate brand artwork, to the CNC die-cutting that produces foam inserts matching your candle jar to within half a millimeter. With 22 years of experience, ISO 9001 and FSC certifications, and daily output exceeding 220,000 gift boxes, Bincai scales from boutique artisan runs to multinational brand rollouts without compromising quality.
+Luxury candle packaging demands more than just a box — it must protect fragile glass jars through global logistics while delivering a sensory brand experience worthy of premium fragrance products. Guangdong Bincai Color Printing Co., Ltd. has manufactured rigid gift boxes since 2003, and our 18,000 sqm integrated facility in Foshan is purpose-built for precision: from the German-engineered KBA and Heidelberg presses that deliver color-accurate brand artwork, to the CNC die-cutting that produces foam inserts matching your candle jar to within half a millimeter. With 23 years of experience, ISO 9001 and FSC certifications, and daily output exceeding 220,000 gift boxes, Bincai scales from boutique artisan runs to multinational brand rollouts without compromising quality.
 
 **The Bincai Difference:**
 - **Single-Roof Integration** — printing, foil stamping, die-cutting, foam fabrication, and assembly happen in one facility — no multi-vendor delays or quality gaps
@@ -146,7 +146,7 @@ Luxury candle packaging demands more than just a box — it must protect fragile
 - **Fragrance-Friendly Materials** — low-odor adhesives and inks that won't compete with your candle's scent profile
 - **Window Expertise** — die-cut PET/PLA windows with optical clarity ≥90% let customers see (and anticipate) the candle inside
 
-**Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | 220,000+ gift boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
+**Factory Facts:** Founded 2003 | 23 years | 18,000 sqm (10,000 + 8,000 smart factory) | 220,000+ gift boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
 
 ## Why This Rigid Candle Box — USP + Format Selector
 

@@ -2,8 +2,8 @@
 title: "100% PCR Kraft Telescopic-Lid Eco Candle & Home Fragrance Box"
 date: 2026-06-16
 draft: false
-description: "100% post-consumer recycled (PCR) kraft paper telescopic-lid box for eco-conscious candle and home fragrance brands — soy candles, reed diffusers, wax melts, room sprays. Manufactured by Guangdong Bincai Color Printing Co., Ltd. with 22 years of sustainable packaging expertise. Two-piece telescopic construction (separate lid + base) in 100% PCR kraft paperboard (300–400gsm), printed with low-VOC soy-based inks, assembled with water-based adhesives. FSC Recycled certified, OK Compost INDUSTRIAL certified (EN 13432). Custom die-cut windows, foil stamping (FSC-compatible metallic foil), and embossing available. KBA Rapida 105 + Heidelberg CD 102 7+1 UV. 18,000 sqm dual-factory, ISO 9001:2015 certified. 1.7M boxes daily. MOQ 1,000."
-keywords: "PCR kraft box, recycled candle box, eco candle packaging, sustainable home fragrance box, post-consumer recycled box, 100% PCR packaging, telescopic lid box, soy candle packaging, reed diffuser box, wax melt box, FSC Recycled certified, OK Compost certified, eco-friendly packaging, zero waste candle box, sustainable brand packaging, Bincai, Guangdong eco packaging factory, ISO 9001 certified, soy ink printing, 22 years experience, 18,000 sqm, 1.7M daily output, KBA 1050 offset, Heidelberg 7+1 UV, OEM eco box China, Diamond Supplier MIC"
+description: "100% post-consumer recycled (PCR) kraft paper telescopic-lid box for eco-conscious candle and home fragrance brands — soy candles, reed diffusers, wax melts, room sprays. Manufactured by Guangdong Bincai Color Printing Co., Ltd. with 23 years of sustainable packaging expertise. Two-piece telescopic construction (separate lid + base) in 100% PCR kraft paperboard (300–400gsm), printed with low-VOC soy-based inks, assembled with water-based adhesives. FSC Recycled certified, OK Compost INDUSTRIAL certified (EN 13432). Custom die-cut windows, foil stamping (FSC-compatible metallic foil), and embossing available. KBA Rapida 105 + Heidelberg CD 102 7+1 UV. 18,000 sqm dual-factory, ISO 9001:2015 certified. 1.7M boxes daily. MOQ 1,000."
+keywords: "PCR kraft box, recycled candle box, eco candle packaging, sustainable home fragrance box, post-consumer recycled box, 100% PCR packaging, telescopic lid box, soy candle packaging, reed diffuser box, wax melt box, FSC Recycled certified, OK Compost certified, eco-friendly packaging, zero waste candle box, sustainable brand packaging, Bincai, Guangdong eco packaging factory, ISO 9001 certified, soy ink printing, 23 years experience, 18,000 sqm, 1.7M daily output, KBA 1050 offset, Heidelberg 7+1 UV, OEM eco box China, Diamond Supplier MIC"
 categories: ["kraft-eco-boxes"]
 params:
   moq: "1000-3000"
@@ -14,7 +14,7 @@ params:
 
 ![100% PCR Kraft Telescopic-Lid Eco Candle Box](/images/kraft-eco-box.jpg)
 
-100% PCR kraft telescopic-lid eco candle and home fragrance box — the ultimate circular-economy packaging for conscious consumer brands, from Guangdong Bincai Color Printing Co., Ltd., a 22-year packaging manufacturing leader. This two-piece telescopic box (separate lid + base) is constructed entirely from 100% post-consumer recycled (PCR) kraft paperboard, delivering authentic eco-credentials without compromising on structural integrity or print quality. The natural kraft aesthetic with visible recycled fiber flecks communicates genuine sustainability — not greenwashed marketing. Suitable for soy candles (8oz, 12oz, 16oz), reed diffusers, wax melts, room sprays, essential oil sets, and incense gift collections. Customization includes die-cut display windows (with compostable PLA film option), soy-based ink printing, FSC-compatible metallic foil stamping, and embossing. Produced on KBA Rapida 105 4-color and Heidelberg CD 102 7+1 UV offset presses with water-based adhesive assembly. Our 18,000 sqm facility delivers 1.7M boxes daily under ISO 9001:2015 and FSC Recycled certification. OK Compost INDUSTRIAL certified (EN 13432 compliant).
+100% PCR kraft telescopic-lid eco candle and home fragrance box — the ultimate circular-economy packaging for conscious consumer brands, from Guangdong Bincai Color Printing Co., Ltd., a 23-year packaging manufacturing leader. This two-piece telescopic box (separate lid + base) is constructed entirely from 100% post-consumer recycled (PCR) kraft paperboard, delivering authentic eco-credentials without compromising on structural integrity or print quality. The natural kraft aesthetic with visible recycled fiber flecks communicates genuine sustainability — not greenwashed marketing. Suitable for soy candles (8oz, 12oz, 16oz), reed diffusers, wax melts, room sprays, essential oil sets, and incense gift collections. Customization includes die-cut display windows (with compostable PLA film option), soy-based ink printing, FSC-compatible metallic foil stamping, and embossing. Produced on KBA Rapida 105 4-color and Heidelberg CD 102 7+1 UV offset presses with water-based adhesive assembly. Our 18,000 sqm facility delivers 1.7M boxes daily under ISO 9001:2015 and FSC Recycled certification. OK Compost INDUSTRIAL certified (EN 13432 compliant).
 
 ## Applications
 
@@ -81,7 +81,7 @@ This box embodies Bincai's commitment to circular-economy packaging. Every compo
 | PCR Content | 100% verified | 30–50% claimed |
 | Certifications | FSC Recycled + OK Compost | FSC Mix or none |
 | Factory Size | 18,000 sqm | 3,000–5,000 sqm |
-| Experience | 22 years | 5–10 years |
+| Experience | 23 years | 5–10 years |
 | Daily Output | 1.7M boxes | 50K–100K boxes |
 | Ink Type | Soy-based, low-VOC | Conventional petroleum |
 | Minimum Order | 1,000 units | 3,000–5,000 units |

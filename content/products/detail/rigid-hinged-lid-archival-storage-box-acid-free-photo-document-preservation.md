@@ -3,7 +3,7 @@ title: "Rigid Hinged-Lid Photo Archive Storage Box — Acid-Free Archival Docume
 date: 2026-06-15
 draft: false
 description: "Rigid hinged-lid archival storage box for museum-quality photograph, document, and memorabilia preservation by Guangdong Bincai Color Printing Co., Ltd. (founded 2003). Manufactured in our 18,000 sqm dual-factory in Foshan, China, using KBA Rapida 105 4-color offset and Heidelberg Speedmaster CD 102 7+1 UV presses. ISO 9001:2015 and FSC Chain-of-Custody certified. Daily output 1.7 million boxes. Acid-free, lignin-free, pH-neutral (pH 8.0-9.5) grey board construction with archival-quality covering materials. Passed PAT (Photographic Activity Test) per ISO 18916. Ideal for museums, archives, professional photographers, genealogists, and collectors. Hinged lid with metal-reinforced corners. MOQ 500. Free pre-production samples in 5-7 working days."
-keywords: "archival storage box, photo archive box, acid-free box, museum quality box, document preservation box, photograph storage box, archival hinged lid box, PAT passed box, ISO 18916 box, pH neutral box, lignin-free box, Bincai Color Printing, Guangdong box manufacturer, 22 years manufacturing, ISO 9001 certified box, FSC certified packaging, KBA 1050 offset box, Heidelberg 7+1 UV, 18,000 sqm factory, 1.7M daily output, OEM rigid box China, Foshan Guangdong packaging, archival preservation packaging, museum archive box, Diamond Supplier MIC"
+keywords: "archival storage box, photo archive box, acid-free box, museum quality box, document preservation box, photograph storage box, archival hinged lid box, PAT passed box, ISO 18916 box, pH neutral box, lignin-free box, Bincai Color Printing, Guangdong box manufacturer, 23 years manufacturing, ISO 9001 certified box, FSC certified packaging, KBA 1050 offset box, Heidelberg 7+1 UV, 18,000 sqm factory, 1.7M daily output, OEM rigid box China, Foshan Guangdong packaging, archival preservation packaging, museum archive box, Diamond Supplier MIC"
 categories: ["rigid-gift-boxes"]
 params:
   moq: "500-1000"
@@ -96,7 +96,7 @@ Manufactured in our 18,000 sqm dual-factory in Foshan, Guangdong, the box featur
 
 ## Why Choose Bincai for Archival Storage Solutions
 
-- **22 years of precision packaging expertise** — established 2003, trusted by museums and archives across 60+ countries
+- **23 years of precision packaging expertise** — established 2003, trusted by museums and archives across 60+ countries
 - **18,000 sqm integrated facility** — dedicated archival production cell with climate-controlled assembly area (22°C ±2°C, 45% RH)
 - **ISO 18916 PAT certification** — our adhesive system has been independently laboratory tested and passed the Photographic Activity Test
 - **pH-controlled manufacturing** — every lot of grey board is pH tested before production; alkaline reserve verified via TAPPI T 553
@@ -106,7 +106,7 @@ Manufactured in our 18,000 sqm dual-factory in Foshan, Guangdong, the box featur
 - **1.7 million boxes daily capacity** — small dedicated cell for archival-grade, but scalable for large institutional orders
 - **MOQ 500** — accessible minimums with free pre-production samples in 7–10 working days (extended for archival material verification)
 
-**Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
+**Factory Facts:** Founded 2003 | 23 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
 
 ## FAQ
 

@@ -2,8 +2,8 @@
 title: "Straight-Tuck Folding Carton with Holographic Cold Foil for Luxury Cosmetics"
 date: 2026-06-14
 draft: false
-description: "Premium straight-tuck end folding carton featuring holographic cold foil transfer effect for luxury cosmetics, skincare, and beauty packaging. Iridescent rainbow shimmer with matte/gloss contrast — manufactured on Heidelberg Speedmaster CD 102 7+1 UV with in-line cold foil module. 350-400gsm CCNB or SBS board with full CMYK + Pantone printing. Bincai 18,000 sqm ISO 9001:2015 & FSC certified factory. 22 years Guangdong manufacturing since 2003. 1.7 million boxes daily. MOQ 1000."
-keywords: "holographic folding carton, cold foil cosmetic box, straight-tuck end box, luxury skincare packaging, iridescent paper box, Heidelberg 7+1 UV cold foil, folding carton manufacturer China, Bincai, ISO 9001 FSC, KBA 1050, 18,000 sqm factory, 22 years factory, 1.7M daily output, Guangdong, CMYK offset printing"
+description: "Premium straight-tuck end folding carton featuring holographic cold foil transfer effect for luxury cosmetics, skincare, and beauty packaging. Iridescent rainbow shimmer with matte/gloss contrast — manufactured on Heidelberg Speedmaster CD 102 7+1 UV with in-line cold foil module. 350-400gsm CCNB or SBS board with full CMYK + Pantone printing. Bincai 18,000 sqm ISO 9001:2015 & FSC certified factory. 23 years Guangdong manufacturing since 2003. 1.7 million boxes daily. MOQ 1000."
+keywords: "holographic folding carton, cold foil cosmetic box, straight-tuck end box, luxury skincare packaging, iridescent paper box, Heidelberg 7+1 UV cold foil, folding carton manufacturer China, Bincai, ISO 9001 FSC, KBA 1050, 18,000 sqm factory, 23 years factory, 1.7M daily output, Guangdong, CMYK offset printing"
 categories: ["folding-cartons"]
 params:
   moq: "1000-3000"
@@ -22,7 +22,7 @@ The holographic cold foil effect is achieved in-line on our Heidelberg Speedmast
 
 The straight-tuck end (STE) construction provides clean, secure closure with friction-fit dust flaps that present a finished, premium look on opening. All production runs through our Bobst Visioncut 106 LER die-cutter (±0.1mm accuracy) and Bobst Expertfold 110 A2 folder-gluer, ensuring precise folds, clean glue lines, and consistent assembly across production runs of 50,000+ units. Board stock is 350–400gsm CCNB (FSC-certified recycled) or SBS (virgin fiber, 90+ brightness) printed with full CMYK + Pantone spot colors.
 
-22 years of folding carton manufacturing in Foshan, Guangdong. 1.7 million boxes daily. ISO 9001:2015, FSC-C147399, and Sedex SMETA certified. MOQ 1,000 units with 5–10 day sample turnaround. Whether you're launching a prestige serum, a holiday beauty collection, or a niche fragrance discovery set, this carton makes your packaging the first thing customers reach for.
+23 years of folding carton manufacturing in Foshan, Guangdong. 1.7 million boxes daily. ISO 9001:2015, FSC-C147399, and Sedex SMETA certified. MOQ 1,000 units with 5–10 day sample turnaround. Whether you're launching a prestige serum, a holiday beauty collection, or a niche fragrance discovery set, this carton makes your packaging the first thing customers reach for.
 
 ## Applications
 
@@ -65,7 +65,7 @@ Each holographic cold foil folding carton is tailored to your brand:
 | Folding/Gluing | Bobst Expertfold 110 A2 folder-gluer with in-line quality sensors |
 | Factory | 18,000 sqm, Foshan Guangdong, ISO 9001:2015, FSC-C147399, Sedex SMETA |
 | Daily Output | 1.7 million boxes total (220K rigid + 1.48M folding/corrugated/kraft) |
-| Experience | 22 years (founded 2003), 350+ skilled workforce |
+| Experience | 23 years (founded 2003), 350+ skilled workforce |
 | MOQ | 1,000 pieces, 5-10 day sample turnaround |
 
 ## Quality Assurance
@@ -111,9 +111,9 @@ A: Bincai holds ISO 9001:2015 (quality management), FSC-C147399 (forest stewards
 
 ## Why Choose Bincai for Holographic Cold Foil Cartons
 
-With 22 years of folding carton manufacturing in Guangdong, Bincai operates one of the most advanced cold foil production lines in Southern China. The Heidelberg Speedmaster CD 102 7+1 UV with in-line cold foil module eliminates the separate offline foil stamping step — reducing cost 25–40% versus traditional hot foil while achieving comparable visual impact. Our integrated operation (printing + foil + die-cutting + gluing all under one roof) means faster turnaround, lower logistics cost, and single-source accountability for quality.
+With 23 years of folding carton manufacturing in Guangdong, Bincai operates one of the most advanced cold foil production lines in Southern China. The Heidelberg Speedmaster CD 102 7+1 UV with in-line cold foil module eliminates the separate offline foil stamping step — reducing cost 25–40% versus traditional hot foil while achieving comparable visual impact. Our integrated operation (printing + foil + die-cutting + gluing all under one roof) means faster turnaround, lower logistics cost, and single-source accountability for quality.
 
-- **22 years** (founded 2003) of folding carton expertise serving beauty and cosmetics brands in 40+ countries
+- **23 years** (founded 2003) of folding carton expertise serving beauty and cosmetics brands in 40+ countries
 - **18,000 sqm** integrated facility in Foshan, Guangdong, with dedicated folding carton production lines
 - **Heidelberg CD 102 7+1 UV** with in-line cold foil module — holographic effects at 25–40% less cost than offline hot foil
 - **KBA Rapida 105** 4-color offset press (15,000 sheets/hr) for high-volume CMYK production
@@ -132,7 +132,7 @@ With 22 years of folding carton manufacturing in Guangdong, Bincai operates one 
 |-----------|--------|-------------------|
 | **Cold Foil Registration** | ±0.15mm (Heidelberg 7+1 in-line) | ±0.3–0.5mm (offline) |
 | **Cost vs. Hot Foil** | 25–40% lower (in-line process) | N/A (offline process) |
-| **Experience** | 22 years folding cartons | 5–10 years |
+| **Experience** | 23 years folding cartons | 5–10 years |
 | **Facility** | 18,000 sqm integrated | 3,000–8,000 sqm |
 | **Certifications** | ISO 9001, FSC-C147399, Sedex SMETA, BSCI, SGS | ISO 9001 only |
 | **Cosmetic Compliance** | EU 1223/2009, FDA 21 CFR, Prop 65, REACH | Basic only |

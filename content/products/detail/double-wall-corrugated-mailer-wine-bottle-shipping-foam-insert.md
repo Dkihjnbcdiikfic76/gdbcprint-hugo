@@ -2,7 +2,7 @@
 title: "Double-Wall Corrugated Mailer for Wine Bottle Shipping — Custom Foam Insert"
 date: 2026-06-11
 draft: false
-description: "Double-wall corrugated wine bottle shipping mailer with die-cut EPE foam insert, self-locking crash-lock bottom, and full-length tear-strip opening. BC-flute (6.0mm) double-wall construction provides 44+ lb/in ECT and 1,800+ kPa burst strength. 1/2/3/6 bottle configurations with Bordeaux, Burgundy, Champagne, and Magnum sizing. ISTA 3A certified for parcel shipping — 10-drop sequence + 60-min vibration profile. ISO 9001:2015 & FSC Chain-of-Custody certified. Manufactured by Guangdong Bincai Color Printing — 22 years experience since 2003, 18,000 sqm dual factory (10,000+8,000 smart factory), KBA 1050 4-color offset + Heidelberg 7+1 UV, Bobst SP 102 BMA, 1.7M daily box output. Free pre-production samples, MOQ 500. Foshan, Guangdong, China."
+description: "Double-wall corrugated wine bottle shipping mailer with die-cut EPE foam insert, self-locking crash-lock bottom, and full-length tear-strip opening. BC-flute (6.0mm) double-wall construction provides 44+ lb/in ECT and 1,800+ kPa burst strength. 1/2/3/6 bottle configurations with Bordeaux, Burgundy, Champagne, and Magnum sizing. ISTA 3A certified for parcel shipping — 10-drop sequence + 60-min vibration profile. ISO 9001:2015 & FSC Chain-of-Custody certified. Manufactured by Guangdong Bincai Color Printing — 23 years experience since 2003, 18,000 sqm dual factory (10,000+8,000 smart factory), KBA 1050 4-color offset + Heidelberg 7+1 UV, Bobst SP 102 BMA, 1.7M daily box output. Free pre-production samples, MOQ 500. Foshan, Guangdong, China."
 keywords: "wine bottle shipping box, double-wall corrugated mailer, wine bottle foam insert, self-locking wine box, tear strip wine shipper, ISTA 3A wine packaging, China corrugated wine box manufacturer, FSC wine shipping, e-commerce wine packaging, bottle shipper box, BC-flute mailer, wine club subscription box, DTC winery packaging, wine gift box with insert, cross-border wine shipping, EPE foam wine insert, crash-lock bottom box, ISTA certified wine shipper, wholesale wine mailer, corrugated wine box China, Bincai Color Printing, Guangdong packaging factory, 18,000 sqm factory, ISO 9001 corrugated box, FSC certified shipping box, Heidelberg UV packaging, KBA 1050 offset box, wine fulfillment packaging, alcohol ecommerce packaging, moulded pulp wine insert, retail-ready wine box, 6-bottle wine shipper, Bordeaux shipping box, Burgundy cargo box, double-wall kraft mailer, Bobst die-cut packaging, certified protective packaging, wine subscription delivery box, Foshan Guangdong manufacturer, premium bottle shipper"
 categories: ["corrugated-mailers"]
 params:
@@ -16,7 +16,7 @@ params:
 
 ## Product Overview
 
-Bincai's double-wall corrugated wine bottle mailer is purpose-built for DTC wineries and e-commerce alcohol fulfillment. The BC-flute construction provides superior stacking strength and puncture resistance, while the die-cut EPE foam insert cradles each bottle individually. Self-locking bottom eliminates tape, and the integrated tear strip delivers instant unboxing. Tested to ISTA 3A for parcel shipping. 22 years of protective packaging manufacturing.
+Bincai's double-wall corrugated wine bottle mailer is purpose-built for DTC wineries and e-commerce alcohol fulfillment. The BC-flute construction provides superior stacking strength and puncture resistance, while the die-cut EPE foam insert cradles each bottle individually. Self-locking bottom eliminates tape, and the integrated tear strip delivers instant unboxing. Tested to ISTA 3A for parcel shipping. 23 years of protective packaging manufacturing.
 
 ## Manufacturing Specifications
 
@@ -61,7 +61,7 @@ Bincai's double-wall corrugated wine bottle mailer is purpose-built for DTC wine
 
 | Feature | Detail |
 |---|---|
-| 🏭 Experience | 22 years since 2003 |
+| 🏭 Experience | 23 years since 2003 |
 | 📐 Factory | 18,000 sqm dual factory (10,000+8,000 smart factory) — KBA 1050, Heidelberg 7+1 UV, Bobst SP 102 BMA |
 | ✅ Quality | ISO 9001:2015 certified — full batch traceability |
 | 🌿 Eco | FSC Chain-of-Custody certified, water-based inks, recyclable kraft liners |

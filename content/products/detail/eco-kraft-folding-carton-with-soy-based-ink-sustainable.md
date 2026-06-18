@@ -2,8 +2,8 @@
 title: "Eco Kraft Folding Carton with Soy-Based Ink Sustainable"
 date: 2026-06-16
 draft: false
-description: "Eco kraft folding carton printed with soy-based ink for sustainable retail packaging. KBA 1050 + Heidelberg 7+1 UV, ISO 9001 & FSC certified. 18,000 sqm factory (10,000+8,000 smart factory), 22 years experience, daily output 1.7M boxes. Biodegradable, recyclable, MOQ 500."
-keywords: "eco kraft folding carton, soy-based ink packaging, sustainable folding carton, biodegradable retail box, eco-friendly paper box, kraft folding box China, FSC certified carton, green packaging manufacturer, Bincai eco box, recyclable folding carton, KBA Rapida 1050 eco box, Heidelberg 7+1 UV sustainable, ISO 9001 FSC kraft box, 18,000 sqm eco factory, 22 years green packaging, water-based coating carton, compostable packaging factory, organic product packaging, natural skincare box, artisan soap carton, zero-waste packaging, Guangdong eco carton factory, Bincai Color Printing, 1.7M daily eco boxes, renewable soy ink packaging, MOQ 500 eco box, sustainable retail packaging, FSC chain of custody carton, uncoated kraft box, food-safe packaging, biodegradable adhesive carton, Bincai Guangdong"
+description: "Eco kraft folding carton printed with soy-based ink for sustainable retail packaging. KBA 1050 + Heidelberg 7+1 UV, ISO 9001 & FSC certified. 18,000 sqm factory (10,000+8,000 smart factory), 23 years experience, daily output 1.7M boxes. Biodegradable, recyclable, MOQ 500."
+keywords: "eco kraft folding carton, soy-based ink packaging, sustainable folding carton, biodegradable retail box, eco-friendly paper box, kraft folding box China, FSC certified carton, green packaging manufacturer, Bincai eco box, recyclable folding carton, KBA Rapida 1050 eco box, Heidelberg 7+1 UV sustainable, ISO 9001 FSC kraft box, 18,000 sqm eco factory, 23 years green packaging, water-based coating carton, compostable packaging factory, organic product packaging, natural skincare box, artisan soap carton, zero-waste packaging, Guangdong eco carton factory, Bincai Color Printing, 1.7M daily eco boxes, renewable soy ink packaging, MOQ 500 eco box, sustainable retail packaging, FSC chain of custody carton, uncoated kraft box, food-safe packaging, biodegradable adhesive carton, Bincai Guangdong"
 categories: ["folding-cartons"]
 params:
   moq: "500-1000"
@@ -14,7 +14,7 @@ params:
 
 ![Bincai Folding Cartons](/images/folding-cartons.jpg)
 
-Eco kraft folding carton with soy-based ink — a fully sustainable retail packaging solution manufactured by **Guangdong Bincai Color Printing Co., Ltd.** With 22 years of folding carton expertise, ISO 9001 & FSC certifications, and soy-based ink printing on KBA 1050 4-color and Heidelberg 7+1 UV presses, we produce 1.7 million eco-friendly boxes daily from our 18,000 sqm factory (10,000+8,000 smart factory) in Foshan. Every carton is biodegradable, recyclable, and printed with renewable soy inks — the responsible choice for brands committed to sustainability.
+Eco kraft folding carton with soy-based ink — a fully sustainable retail packaging solution manufactured by **Guangdong Bincai Color Printing Co., Ltd.** With 23 years of folding carton expertise, ISO 9001 & FSC certifications, and soy-based ink printing on KBA 1050 4-color and Heidelberg 7+1 UV presses, we produce 1.7 million eco-friendly boxes daily from our 18,000 sqm factory (10,000+8,000 smart factory) in Foshan. Every carton is biodegradable, recyclable, and printed with renewable soy inks — the responsible choice for brands committed to sustainability.
 
 ## Applications
 - Organic and natural skincare / cosmetic packaging
@@ -66,7 +66,7 @@ Eco kraft folding carton with soy-based ink — a fully sustainable retail packa
 - Energy-efficient LED lighting and optimized press scheduling to reduce carbon footprint
 
 ## Factory
-- 22 years of manufacturing excellence (founded 2003) in Foshan, Guangdong
+- 23 years of manufacturing excellence (founded 2003) in Foshan, Guangdong
 - 18,000 sqm integrated facility (10,000+8,000 smart factory, commissioned 2025)
 - 80+ skilled employees, full prepress-to-finishing under one roof
 - KBA 1050 4-color + Heidelberg 7+1 UV + dedicated eco-ink printing station

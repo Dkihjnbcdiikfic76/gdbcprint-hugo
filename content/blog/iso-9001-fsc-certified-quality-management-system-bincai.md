@@ -105,9 +105,9 @@ For B2B buyers, specifying FSC-certified packaging delivers concrete benefits:
 - **Retailer requirements**: Major retailers (Amazon Climate Pledge Friendly, Walmart Sustainability Index, Target Sustainable Packaging Goals) increasingly require or preference FSC-certified packaging.
 - **Consumer trust**: 56% of global consumers are willing to pay a premium for sustainable packaging (McKinsey 2023), and the FSC logo is the most recognized forest certification mark worldwide (GlobeScan 2023).
 
-## The Real-World Impact: 22 Years of Certified Production
+## The Real-World Impact: 23 Years of Certified Production
 
-Numbers tell the story. Across Bincai's 22 years of certified manufacturing:
+Numbers tell the story. Across Bincai's 23 years of certified manufacturing:
 
 | Metric | Performance |
 |---|---|

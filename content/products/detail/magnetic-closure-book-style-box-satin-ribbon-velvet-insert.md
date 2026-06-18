@@ -2,7 +2,7 @@
 title: "Magnetic Closure Book-Style Box with Satin Ribbon and Velvet Insert"
 date: 2026-06-11
 draft: false
-description: "Magnetic closure book-style gift box with satin ribbon tie, spine hinge, and velvet-flocked insert tray for premium corporate gifts. 2.0-3.0mm rigid greyboard, N42 neodymium magnets, 157gsm art paper wrap, gold foil stamping on cover and spine. ISO 9001:2015 & FSC certified, 22 years manufacturing, 18,000 sqm factory (10,000+8,000 smart factory), Heidelberg 7+1 UV press, daily output 220,000+ gift boxes. MOQ 500, free samples."
+description: "Magnetic closure book-style gift box with satin ribbon tie, spine hinge, and velvet-flocked insert tray for premium corporate gifts. 2.0-3.0mm rigid greyboard, N42 neodymium magnets, 157gsm art paper wrap, gold foil stamping on cover and spine. ISO 9001:2015 & FSC certified, 23 years manufacturing, 18,000 sqm factory (10,000+8,000 smart factory), Heidelberg 7+1 UV press, daily output 220,000+ gift boxes. MOQ 500, free samples."
 keywords: "magnetic closure book box, satin ribbon gift box, velvet insert box, book-style packaging, corporate gift box, luxury magnetic box, custom logo gift box, Bincai magnetic box, ISO 9001 gift packaging, FSC certified box, Foshan gift box manufacturer, premium presentation box, hardcover book gift box, magnetic spine box, velvet tray box, gold foil book box, embossed logo gift box, luxury corporate gift packaging, Guangdong book box factory, N42 magnet closure box, KBA 1050 gift box, Heidelberg UV press, Bobst foil stamping, neodymium magnet box, CNC die-cut velvet, 220K daily output, 18,000 sqm factory, book hinge box, leatherette gift box, magnetic flip box"
 categories: ["magnetic-closure-boxes"]
 params:

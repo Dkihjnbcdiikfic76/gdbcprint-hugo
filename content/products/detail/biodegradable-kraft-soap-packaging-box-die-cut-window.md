@@ -3,7 +3,7 @@ title: "Biodegradable Kraft Soap Packaging Box with Die-Cut Window — Eco-Frien
 date: 2026-06-15
 draft: false
 description: "Biodegradable kraft soap packaging box with die-cut window, PLA compostable film, and soy-based ink printing by Guangdong Bincai Color Printing Co., Ltd. (founded 2003). Manufactured in our 18,000 sqm dual-factory in Foshan, China, using KBA Rapida 105 4-color offset and Heidelberg Speedmaster CD 102 7+1 UV presses with water-based PVA adhesive. ISO 9001:2015 and FSC Chain-of-Custody certified. Daily output 1.7 million boxes. 100% plastic-free construction with PLA compostable window film (EN 13432 and ASTM D6400 certified), FSC-certified kraft paperboard, and soy-based ink. Ideal for artisan soap makers, organic skincare brands, zero-waste personal care products, and eco-conscious retail packaging. MOQ 500. Free pre-production samples in 5-7 working days."
-keywords: "biodegradable soap box, kraft soap packaging, die-cut window soap box, eco-friendly soap packaging, PLA compostable window box, plastic-free soap box, FSC kraft box, soy ink printed box, sustainable soap packaging, zero waste packaging, Bincai Color Printing, Guangdong box manufacturer, 22 years manufacturing, ISO 9001 certified box, FSC certified packaging, KBA 1050 offset box, Heidelberg 7+1 UV, 18,000 sqm factory, 1.7M daily output, OEM kraft box China, Foshan Guangdong packaging, wholesale soap packaging, organic skincare packaging, artisan soap box, EN 13432 compostable, ASTM D6400, plastic-free packaging, biodegradable packaging, compostable box, made in China eco box, Diamond Supplier MIC"
+keywords: "biodegradable soap box, kraft soap packaging, die-cut window soap box, eco-friendly soap packaging, PLA compostable window box, plastic-free soap box, FSC kraft box, soy ink printed box, sustainable soap packaging, zero waste packaging, Bincai Color Printing, Guangdong box manufacturer, 23 years manufacturing, ISO 9001 certified box, FSC certified packaging, KBA 1050 offset box, Heidelberg 7+1 UV, 18,000 sqm factory, 1.7M daily output, OEM kraft box China, Foshan Guangdong packaging, wholesale soap packaging, organic skincare packaging, artisan soap box, EN 13432 compostable, ASTM D6400, plastic-free packaging, biodegradable packaging, compostable box, made in China eco box, Diamond Supplier MIC"
 categories: ["kraft-eco-boxes"]
 params:
   moq: "500-1000"
@@ -101,7 +101,7 @@ Manufactured in our 18,000 sqm dual-factory in Foshan, Guangdong, the box body u
 
 ## Why Choose Bincai for Eco-Friendly Packaging
 
-- **22 years of sustainable packaging expertise** — established 2003, trusted by eco-conscious brands across 60+ countries
+- **23 years of sustainable packaging expertise** — established 2003, trusted by eco-conscious brands across 60+ countries
 - **18,000 sqm integrated facility** — 10,000 sqm main plant + 8,000 sqm smart factory (2025 expansion) with dedicated eco-packaging production lines
 - **KBA 1050 4-color offset optimized for soy-based inks** — vibrant full-color printing with zero petroleum-based ink residues
 - **In-house automatic window patcher** — PLA compostable film application with ±0.5mm precision for professional window presentation
@@ -111,7 +111,7 @@ Manufactured in our 18,000 sqm dual-factory in Foshan, Guangdong, the box body u
 - **1.7 million boxes daily capacity** — scalable production for growing eco-brands
 - **MOQ 500** — startup-friendly minimums with free pre-production samples in 5–7 working days
 
-**Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
+**Factory Facts:** Founded 2003 | 23 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
 
 ## FAQ
 

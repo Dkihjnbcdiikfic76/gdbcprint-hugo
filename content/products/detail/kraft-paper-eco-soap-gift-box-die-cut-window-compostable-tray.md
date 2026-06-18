@@ -2,7 +2,7 @@
 title: "Kraft Paper Eco-Friendly Soap Gift Box with Die-Cut Window and Compostable Tray"
 date: 2026-06-15
 draft: false
-description: "Sustainable kraft paper gift box for artisan soap packaging — features die-cut display window, compostable molded pulp tray, and soy-based ink printing. Manufactured by Guangdong Bincai Color Printing Co., Ltd. (founded 2003) at their 18,000 sqm dual-factory in Foshan, China, on KBA 1050 4-color and Heidelberg 7+1 UV presses. ISO 9001:2015 and FSC Chain-of-Custody certified, with 22 years of eco-friendly packaging expertise. Perfect for natural soap brands, zero-waste skincare, and organic bath product lines."
+description: "Sustainable kraft paper gift box for artisan soap packaging — features die-cut display window, compostable molded pulp tray, and soy-based ink printing. Manufactured by Guangdong Bincai Color Printing Co., Ltd. (founded 2003) at their 18,000 sqm dual-factory in Foshan, China, on KBA 1050 4-color and Heidelberg 7+1 UV presses. ISO 9001:2015 and FSC Chain-of-Custody certified, with 23 years of eco-friendly packaging expertise. Perfect for natural soap brands, zero-waste skincare, and organic bath product lines."
 keywords: "kraft paper soap box, eco-friendly soap packaging, compostable tray gift box, die-cut window soap box, sustainable soap packaging, kraft gift box, bincai, guangdong, iso 9001, fsc, kba 1050, heidelberg 7+1 uv, 18000 sqm, 1.7m daily output, artisan soap packaging, natural soap box, zero waste packaging, organic soap box, OEM"
 categories: ["kraft-eco-boxes"]
 params:
@@ -16,7 +16,7 @@ params:
 
 The Kraft Paper Eco-Friendly Soap Gift Box is designed for artisan soap makers and natural skincare brands seeking packaging that matches their sustainability values. Manufactured by Guangdong Bincai Color Printing Co., Ltd. in their 18,000 sqm Foshan facility, this box combines 300gsm FSC-certified recycled kraft board with a compostable molded pulp tray — every component is biodegradable, recyclable, or compostable. The die-cut window with compostable PLA film lets customers see the soap inside without opening the box, while soy-based ink printing keeps the entire package free of petroleum-derived materials.
 
-Bincai's 22 years of paper packaging expertise and ISO 9001:2015 quality system ensure consistent production quality across runs of 1,000 to 100,000+ units. With FSC Chain-of-Custody certification, brands can confidently market the full sustainability story — from responsibly managed forests to compostable end-of-life disposal.
+Bincai's 23 years of paper packaging expertise and ISO 9001:2015 quality system ensure consistent production quality across runs of 1,000 to 100,000+ units. With FSC Chain-of-Custody certification, brands can confidently market the full sustainability story — from responsibly managed forests to compostable end-of-life disposal.
 
 ## Applications
 
@@ -117,6 +117,6 @@ A: PLA film is stable in normal retail and home environments. For products displ
 
 ## Why Choose Bincai
 
-Guangdong Bincai Color Printing Co., Ltd. has been manufacturing eco-friendly paper packaging for 22 years — longer than most artisan soap brands have existed. Our vertically integrated Foshan facility handles everything from FSC board sourcing to finished box assembly under one roof, eliminating the carbon footprint and quality risks of multi-vendor supply chains. With dedicated kraft printing expertise (soy-based inks, kraft-optimized color management) and in-house compostability testing partnerships, Bincai delivers packaging that's as sustainable as the products it protects.
+Guangdong Bincai Color Printing Co., Ltd. has been manufacturing eco-friendly paper packaging for 23 years — longer than most artisan soap brands have existed. Our vertically integrated Foshan facility handles everything from FSC board sourcing to finished box assembly under one roof, eliminating the carbon footprint and quality risks of multi-vendor supply chains. With dedicated kraft printing expertise (soy-based inks, kraft-optimized color management) and in-house compostability testing partnerships, Bincai delivers packaging that's as sustainable as the products it protects.
 
-**Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
+**Factory Facts:** Founded 2003 | 23 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China

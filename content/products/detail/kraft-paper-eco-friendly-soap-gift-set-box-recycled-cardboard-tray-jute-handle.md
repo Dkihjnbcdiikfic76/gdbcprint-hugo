@@ -2,7 +2,7 @@
 title: "Kraft Paper Eco-Friendly Soap Gift Set Box with Recycled Cardboard Tray and Jute Handle"
 date: 2026-06-15
 draft: false
-description: "Kraft paper eco-friendly soap gift set box with recycled cardboard tray and natural jute twine handle. Manufactured by Bincai: KBA 1050 4-color offset + Heidelberg 7+1 UV press, 300-450gsm kraft board, soy-based inks, water-based adhesive, recycled cardboard interior tray, jute or cotton handle, 10,000+8,000sqm dual factory, 22 years experience, ISO 9001:2015 & FSC certified, 1.7M daily output. MOQ 500. Free pre-production samples 5-7 days."
+description: "Kraft paper eco-friendly soap gift set box with recycled cardboard tray and natural jute twine handle. Manufactured by Bincai: KBA 1050 4-color offset + Heidelberg 7+1 UV press, 300-450gsm kraft board, soy-based inks, water-based adhesive, recycled cardboard interior tray, jute or cotton handle, 10,000+8,000sqm dual factory, 23 years experience, ISO 9001:2015 & FSC certified, 1.7M daily output. MOQ 500. Free pre-production samples 5-7 days."
 keywords: "kraft paper soap box, eco-friendly gift box, soap gift set packaging, recycled cardboard tray box, kraft eco gift box, sustainable soap packaging, jute handle gift box, eco-friendly packaging manufacturer China, KBA Heidelberg kraft box, ISO 9001 FSC eco packaging, kraft paper gift box, Bincai, Guangdong kraft box factory"
 categories: ["kraft-eco-boxes"]
 params:
@@ -14,7 +14,7 @@ params:
 
 ![Bincai Kraft Eco Boxes](/images/kraft-eco-box.jpg)
 
-Kraft paper eco-friendly soap gift set box with recycled cardboard tray and natural jute twine handle — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). Designed for artisan soap makers, natural skincare brands, and eco-conscious gift companies, this box combines the warm, earthy aesthetic of unbleached kraft paper with a functional recycled cardboard tray that holds 2-6 soap bars or bath products securely. The jute twine handle adds a rustic, handmade touch that resonates with consumers seeking plastic-free, sustainable packaging. KBA 1050 4-color and Heidelberg 7+1 UV presses deliver natural-tone printing across 18,000 sqm factory. Daily output 1.7 million boxes.
+Kraft paper eco-friendly soap gift set box with recycled cardboard tray and natural jute twine handle — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 23 years of experience (founded 2003). Designed for artisan soap makers, natural skincare brands, and eco-conscious gift companies, this box combines the warm, earthy aesthetic of unbleached kraft paper with a functional recycled cardboard tray that holds 2-6 soap bars or bath products securely. The jute twine handle adds a rustic, handmade touch that resonates with consumers seeking plastic-free, sustainable packaging. KBA 1050 4-color and Heidelberg 7+1 UV presses deliver natural-tone printing across 18,000 sqm factory. Daily output 1.7 million boxes.
 
 ## Applications
 - Artisan handmade soap and bath bomb gift sets
@@ -54,7 +54,7 @@ Kraft paper eco-friendly soap gift set box with recycled cardboard tray and natu
 - MOQ 500–1000 units; trial orders and OEM/ODM accepted
 
 ## Factory
-- 22 years of manufacturing excellence since 2003
+- 23 years of manufacturing excellence since 2003
 - 18,000 sqm factory (10,000+8,000 smart factory)
 - 80+ skilled employees across design, prepress, printing, and finishing
 - KBA 1050 4-color + Heidelberg 7+1 UV presses
@@ -71,7 +71,7 @@ A: Yes. Our jute twine handles are 3-ply twisted natural jute with a tensile str
 A: The box body, recycled cardboard tray, and paper components are 100% recyclable in standard municipal paper waste streams. The jute twine handle is made from natural plant fiber and is biodegradable — it can be composted or recycled with the paper. We use water-based adhesives and soy-based inks that do not interfere with the recycling or composting process. The only component to separate is the optional PLA window film — PLA is industrially compostable where facilities exist (EN 13432 certified), but not accepted in most curbside recycling. We can provide a fully plastic-free version with no window for 100% curbside recyclability.
 
 **Q: Will soy-based ink print well on unbleached kraft board — won't the colors look dull?**
-A: Soy-based inks on kraft require specific formulation and press settings that differ from printing on white-coated board — and our press operators have mastered this over 22 years. We use higher pigment-load soy inks and adjust impression pressure to achieve vibrant, saturated colors on the kraft surface. Whites and light colors are printed as a base layer (like an undercoat) before the main color, and we use Heidelberg UV curing for crisp, sharp results. The result is a rich, organic color aesthetic that actually looks more premium on kraft than on white board — it conveys authenticity and craftsmanship that resonates with eco-conscious consumers.
+A: Soy-based inks on kraft require specific formulation and press settings that differ from printing on white-coated board — and our press operators have mastered this over 23 years. We use higher pigment-load soy inks and adjust impression pressure to achieve vibrant, saturated colors on the kraft surface. Whites and light colors are printed as a base layer (like an undercoat) before the main color, and we use Heidelberg UV curing for crisp, sharp results. The result is a rich, organic color aesthetic that actually looks more premium on kraft than on white board — it conveys authenticity and craftsmanship that resonates with eco-conscious consumers.
 
 **Q: What is the minimum order quantity for a custom kraft soap box?**
 A: Standard MOQ is 500-1000 units depending on complexity. For artisan soap makers and small brands, we can produce as few as 300 units with a small production surcharge. Setup costs include: printing plate ($80-120), cutting die for tray ($60-100), and foiling die if hot stamping ($80-120). Lead time is 18-25 working days from artwork approval with free pre-production sample in 5-7 days.
@@ -83,7 +83,7 @@ A: Yes. Once your kraft and print design language is established, we can produce
 
 When you choose Bincai for eco-friendly kraft packaging, you're partnering with a manufacturer that understands both sustainability and premium presentation:
 
-- **22 Years of Packaging Experience** — We've produced kraft eco packaging for natural skincare, organic food, and sustainable gift brands shipping worldwide. Our team understands the unique requirements of eco-conscious brands: authentic materials, minimal processing, and verifiable sustainability claims.
+- **23 Years of Packaging Experience** — We've produced kraft eco packaging for natural skincare, organic food, and sustainable gift brands shipping worldwide. Our team understands the unique requirements of eco-conscious brands: authentic materials, minimal processing, and verifiable sustainability claims.
 
 - **18,000 sqm Dual Factory** — Production capacity to handle seasonal spikes (Christmas, Mother's Day, Valentine's Day) that are typical for gift set packaging. Dual-site layout provides redundancy.
 

@@ -2,7 +2,7 @@
 title: "Kraft Paper Cake Box with Window — Eco-Friendly Bakery Packaging"
 date: 2026-06-11
 draft: false
-description: "Kraft paper cake box with PET window and soy-based ink printing. FSC certified kraft board, auto-lock bottom for quick assembly. Designed for bakeries, patisseries, and home bakers. Compostable window film option available. 22-year Bincai factory, ISO 9001 and FSC certified, 220K+ daily carton output."
+description: "Kraft paper cake box with PET window and soy-based ink printing. FSC certified kraft board, auto-lock bottom for quick assembly. Designed for bakeries, patisseries, and home bakers. Compostable window film option available. 23-year Bincai factory, ISO 9001 and FSC certified, 220K+ daily carton output."
 keywords: "kraft cake box, bakery box with window, eco-friendly cake packaging, FSC kraft box, soy ink cake box, patisserie box, China kraft box manufacturer, compostable window box, auto-lock bottom box, sustainable bakery packaging, Bincai kraft box, PLA window bakery box, ASTM D6400 compostable, food-safe soy ink, bakery display packaging, eco bakery box, cake window box, 18,000 sqm kraft factory, ISO 9001 kraft box, FSC chain-of-custody, custom bakery packaging"
 categories: ["kraft-eco-boxes"]
 params:
@@ -16,7 +16,7 @@ params:
 
 ## Product Overview
 
-Bincai's kraft paper cake box combines eco-credentials with bakery-grade functionality. The FSC certified kraft board provides natural rustic charm, while the die-cut PET window showcases your creations — cakes, cupcakes, pastries, or cookies. The auto-lock bottom assembles in under 3 seconds with no tape or glue. Printed with soy-based inks for full compostability. An optional compostable PLA window film makes the entire box biodegradable. MOQ starts at 1,000 units, produced in our 18,000 sqm Foshan facility. 22 years of sustainable packaging expertise.
+Bincai's kraft paper cake box combines eco-credentials with bakery-grade functionality. The FSC certified kraft board provides natural rustic charm, while the die-cut PET window showcases your creations — cakes, cupcakes, pastries, or cookies. The auto-lock bottom assembles in under 3 seconds with no tape or glue. Printed with soy-based inks for full compostability. An optional compostable PLA window film makes the entire box biodegradable. MOQ starts at 1,000 units, produced in our 18,000 sqm Foshan facility. 23 years of sustainable packaging expertise.
 
 ## Manufacturing Specifications
 
@@ -68,8 +68,8 @@ Bincai's kraft paper cake box combines eco-credentials with bakery-grade functio
 
 ## Why Bincai?
 
-Bincai's integrated kraft packaging line — from FSC certified board sourcing through in-house die-cutting, window patching, and soy-ink printing — eliminates multi-vendor food-safety risk. With **22 years** of eco-packaging expertise, our 18,000 sqm facility produces over 220,000 cartons daily while maintaining ISO 9001:2015 quality systems. The optional PLA compostable window (ASTM D6400 / EN 13432 certified) makes the entire box industrially compostable — differentiating your bakery brand in sustainability-conscious markets.
+Bincai's integrated kraft packaging line — from FSC certified board sourcing through in-house die-cutting, window patching, and soy-ink printing — eliminates multi-vendor food-safety risk. With **23 years** of eco-packaging expertise, our 18,000 sqm facility produces over 220,000 cartons daily while maintaining ISO 9001:2015 quality systems. The optional PLA compostable window (ASTM D6400 / EN 13432 certified) makes the entire box industrially compostable — differentiating your bakery brand in sustainability-conscious markets.
 
-**Factory Facts:** Founded 2003 | 22 years experience | 18,000 sqm (10,000 + 8,000 smart factory) | 220K+ cartons/day | KBA 1050 offset | ISO 9001 & FSC certified | Soy ink certified | Foshan, Guangdong, China
+**Factory Facts:** Founded 2003 | 23 years experience | 18,000 sqm (10,000 + 8,000 smart factory) | 220K+ cartons/day | KBA 1050 offset | ISO 9001 & FSC certified | Soy ink certified | Foshan, Guangdong, China
 
 **Lead Time:** 8–12 days standard; 5–7 days rush. Flat-packed for efficient container loading — 40-50% freight savings vs assembled boxes.

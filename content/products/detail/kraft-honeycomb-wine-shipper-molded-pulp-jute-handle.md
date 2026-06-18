@@ -2,7 +2,7 @@
 title: "Kraft Paper Honeycomb Wine Shipper — Biodegradable Molded Pulp Interior with Jute Handle"
 date: 2026-06-15
 draft: false
-description: "Sustainable kraft paper honeycomb wine shipper manufactured by Guangdong Bincai Color Printing Co., Ltd. (22 years, ISO 9001 & FSC certified, 18,000 sqm dual-factory). FSC-certified kraft outer box with hexagonal honeycomb structural core for exceptional crush resistance. Interior features 100% biodegradable molded pulp inserts for 1, 2, 3, or 6 bottle configurations. Jute rope carry handle and soy-based ink printing. Fully home-compostable. Engineered for organic, biodynamic, and natural wine producers shipping direct-to-consumer. Daily output 1.7M boxes from KBA 1050 + Heidelberg 7+1 UV in Foshan, China."
+description: "Sustainable kraft paper honeycomb wine shipper manufactured by Guangdong Bincai Color Printing Co., Ltd. (23 years, ISO 9001 & FSC certified, 18,000 sqm dual-factory). FSC-certified kraft outer box with hexagonal honeycomb structural core for exceptional crush resistance. Interior features 100% biodegradable molded pulp inserts for 1, 2, 3, or 6 bottle configurations. Jute rope carry handle and soy-based ink printing. Fully home-compostable. Engineered for organic, biodynamic, and natural wine producers shipping direct-to-consumer. Daily output 1.7M boxes from KBA 1050 + Heidelberg 7+1 UV in Foshan, China."
 keywords: "kraft honeycomb wine shipper, biodegradable wine box, sustainable wine packaging, FSC wine shipper, molded pulp wine insert, eco-friendly wine shipping, home compostable packaging, bincai, guangdong, iso 9001, fsc, kba 1050, heidelberg 7+1 uv, 18000 sqm, 1.7m daily output, organic wine packaging, DTC wine shipper"
 categories: ["kraft-eco-boxes"]
 params:
@@ -14,7 +14,7 @@ params:
 
 ![Bincai Kraft Paper Honeycomb Wine Shipper](/images/kraft-eco-box.jpg)
 
-The kraft paper honeycomb wine shipper represents a breakthrough in sustainable wine logistics — combining FSC-certified kraft outer construction with a hexagonal honeycomb structural core that delivers crush resistance rivaling double-wall corrugated at 40% less material weight. Manufactured by Guangdong Bincai Color Printing Co., Ltd. — a 22-year Foshan packaging specialist with 18,000 sqm of dual-factory production — this shipper uses 100% biodegradable molded pulp bottle cradles and jute rope carry handles for a fully home-compostable packaging system.
+The kraft paper honeycomb wine shipper represents a breakthrough in sustainable wine logistics — combining FSC-certified kraft outer construction with a hexagonal honeycomb structural core that delivers crush resistance rivaling double-wall corrugated at 40% less material weight. Manufactured by Guangdong Bincai Color Printing Co., Ltd. — a 23-year Foshan packaging specialist with 18,000 sqm of dual-factory production — this shipper uses 100% biodegradable molded pulp bottle cradles and jute rope carry handles for a fully home-compostable packaging system.
 
 Bincai operates KBA Rapida 105 4-color offset and Heidelberg Speedmaster CD 102 7+1 UV presses for winery logo reproduction using soy-based inks. The honeycomb core is produced in-house using water-based PVA adhesive, and molded pulp inserts are manufactured from post-industrial recycled paper pulp. ISO 9001:2015, FSC Chain-of-Custody, and OK Compost HOME (EN 13432) certified.
 
@@ -100,7 +100,7 @@ The molded pulp interior cradles each bottle at 7 contact points — engineered 
 
 ## Why Choose Bincai
 
-- **22 Years of Expertise:** Manufacturing paper packaging since 2004 with deep sustainability commitment
+- **23 Years of Expertise:** Manufacturing paper packaging since 2004 with deep sustainability commitment
 - **Dual-Factory Capacity:** 18,000 sqm across two facilities in Foshan's Pearl River Delta manufacturing hub
 - **World-Class Equipment:** KBA Rapida 105 + Heidelberg Speedmaster CD 102 7+1 UV + Bobst SP 102-E + in-house molded pulp production + honeycomb core fabrication
 - **Sustainability Leadership:** FSC, OK Compost HOME, and ISO 9001 triple-certified. Dedicated eco-production cell for sustainable packaging
@@ -111,6 +111,6 @@ The molded pulp interior cradles each bottle at 7 contact points — engineered 
 
 ## Ship Us Your Bottle — Free Custom Honeycomb Sample in 7 Days
 
-**Send us a sample bottle for a free custom honeycomb wine shipper prototype with precision molded-pulp insert and jute handle, delivered in 7 working days.** Our in-house structural team engineers the honeycomb cell geometry and pulp cradle to your exact bottle profile — Bordeaux, Burgundy, Alsace flute, or custom shape. Includes free OK Compost HOME (EN 13432) certification documentation to support your DTC sustainability story. 22 years of packaging expertise from our FSC-certified Foshan factory.
+**Send us a sample bottle for a free custom honeycomb wine shipper prototype with precision molded-pulp insert and jute handle, delivered in 7 working days.** Our in-house structural team engineers the honeycomb cell geometry and pulp cradle to your exact bottle profile — Bordeaux, Burgundy, Alsace flute, or custom shape. Includes free OK Compost HOME (EN 13432) certification documentation to support your DTC sustainability story. 23 years of packaging expertise from our FSC-certified Foshan factory.
 
 **[→ Send your bottle for a free prototype](/contact/)  or  📧 qo82@icloud.com | 📱 +86-18934352881**

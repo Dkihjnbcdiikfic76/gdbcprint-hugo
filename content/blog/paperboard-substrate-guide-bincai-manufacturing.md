@@ -3,7 +3,7 @@ title: "Paperboard Selection Guide for Custom Packaging: SBS, CCNB, Kraft, and D
 date: 2026-06-11
 draft: false
 image: "/images/hero-factory.webp"
-description: "Comprehensive guide to paperboard substrates for custom packaging — SBS, CCNB, Kraft, and Duplex board properties, applications, and how Guangdong Bincai's 22 years of material engineering ensures the right choice for rigid boxes, folding cartons, corrugated mailers, and luxury packaging."
+description: "Comprehensive guide to paperboard substrates for custom packaging — SBS, CCNB, Kraft, and Duplex board properties, applications, and how Guangdong Bincai's 23 years of material engineering ensures the right choice for rigid boxes, folding cartons, corrugated mailers, and luxury packaging."
 
 ---
 
@@ -115,7 +115,7 @@ The right paperboard:
 - **Supports sustainability claims** with verifiable FSC documentation
 - **Reduces lead time** by using stock we maintain in our 3,000 sqm material warehouse
 
-At Bincai, we don't just print on paperboard — we engineer it. Our project managers will recommend the right substrate for your product, your budget, and your supply chain. That's what **22 years of paper box manufacturing** brings to the table.
+At Bincai, we don't just print on paperboard — we engineer it. Our project managers will recommend the right substrate for your product, your budget, and your supply chain. That's what **23 years of paper box manufacturing** brings to the table.
 
 ---
 

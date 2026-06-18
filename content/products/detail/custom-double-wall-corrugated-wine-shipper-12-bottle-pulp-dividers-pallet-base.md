@@ -2,8 +2,8 @@
 title: "Custom Double-Wall Corrugated Wine Shipper 12-Bottle with Die-Cut Pulp Dividers and Pallet Base"
 date: 2026-06-16
 draft: false
-description: "Custom double-wall corrugated wine shipper 12-bottle with die-cut pulp dividers and pallet base — manufactured by Bincai Printing, 22-year ISO 9001:2015 & FSC-C147399 certified paper box factory. Heavy-duty BC-flute double-wall corrugated wine shipping box with molded pulp dividers and integrated pallet base. Produced on BHS 2.5m Corrugator, KBA Rapida 105 4-color, Heidelberg Speedmaster CD 102 7+1 UV, Bobst Visioncut 106 LER, and Bobst Expertfold 145 folder-gluer across our 18,000 sqm factory (10,000+8,000 sqm smart factory, 2025 expansion). ISTA 3A tested for international transit. ECT 44+, 500kg+ top load. MOQ 500 with free pre-production samples."
-keywords: "corrugated wine shipper, double-wall wine box, 12-bottle wine shipper, pulp divider wine box, pallet base wine box, export wine packaging, wine shipping box, corrugated wine mailer, ISTA 3A wine box, Bincai wine shipper, ISO 9001 wine packaging, FSC-C147399 wine box, heavy duty wine box, wholesale wine shipper, OEM wine packaging, Chinese corrugated manufacturer, Guangdong wine box factory, MOQ 500 wine box, BC flute wine box, die-cut divider box, wine logistics box, molded pulp insert, export wine crate, BHS corrugator, Bobst Visioncut 106 LER, Bobst Expertfold 145, 22 years factory, 18,000 sqm, 1.7M daily boxes, Sedex SMETA, BSCI"
+description: "Custom double-wall corrugated wine shipper 12-bottle with die-cut pulp dividers and pallet base — manufactured by Bincai Printing, 23-year ISO 9001:2015 & FSC-C147399 certified paper box factory. Heavy-duty BC-flute double-wall corrugated wine shipping box with molded pulp dividers and integrated pallet base. Produced on BHS 2.5m Corrugator, KBA Rapida 105 4-color, Heidelberg Speedmaster CD 102 7+1 UV, Bobst Visioncut 106 LER, and Bobst Expertfold 145 folder-gluer across our 18,000 sqm factory (10,000+8,000 sqm smart factory, 2025 expansion). ISTA 3A tested for international transit. ECT 44+, 500kg+ top load. MOQ 500 with free pre-production samples."
+keywords: "corrugated wine shipper, double-wall wine box, 12-bottle wine shipper, pulp divider wine box, pallet base wine box, export wine packaging, wine shipping box, corrugated wine mailer, ISTA 3A wine box, Bincai wine shipper, ISO 9001 wine packaging, FSC-C147399 wine box, heavy duty wine box, wholesale wine shipper, OEM wine packaging, Chinese corrugated manufacturer, Guangdong wine box factory, MOQ 500 wine box, BC flute wine box, die-cut divider box, wine logistics box, molded pulp insert, export wine crate, BHS corrugator, Bobst Visioncut 106 LER, Bobst Expertfold 145, 23 years factory, 18,000 sqm, 1.7M daily boxes, Sedex SMETA, BSCI"
 categories: ["corrugated-mailers"]
 params:
   moq: "500-2000"
@@ -22,7 +22,7 @@ tags:
 
 ## Product Description
 
-Custom double-wall corrugated wine shipper 12-bottle with die-cut pulp dividers and pallet base by Guangdong Bincai Color Printing Co., Ltd. — a Diamond Member on Made-in-China.com with 22 years of manufacturing excellence (founded 2003). This heavy-duty wine shipping solution is engineered for international export logistics — protecting 12 standard 750ml wine bottles through ocean freight, air cargo, and last-mile delivery. The double-wall BC-flute construction provides exceptional stacking strength (ECT 44+), while the molded pulp dividers cradle each bottle individually with shock-absorbing protection. An integrated pallet base enables forklift handling without secondary palletization.
+Custom double-wall corrugated wine shipper 12-bottle with die-cut pulp dividers and pallet base by Guangdong Bincai Color Printing Co., Ltd. — a Diamond Member on Made-in-China.com with 23 years of manufacturing excellence (founded 2003). This heavy-duty wine shipping solution is engineered for international export logistics — protecting 12 standard 750ml wine bottles through ocean freight, air cargo, and last-mile delivery. The double-wall BC-flute construction provides exceptional stacking strength (ECT 44+), while the molded pulp dividers cradle each bottle individually with shock-absorbing protection. An integrated pallet base enables forklift handling without secondary palletization.
 
 Produced on our BHS 2.5m Corrugator for board production, KBA Rapida 105 4-color for litho-laminate branding, Heidelberg Speedmaster CD 102 7+1 UV for specialty finishes, Bobst Visioncut 106 LER for precision die-cutting, and Bobst Expertfold 145 for heavy-duty folder-gluer assembly — all under one roof across our 18,000 sqm facility (10,000+8,000 sqm smart factory, 2025 expansion). Daily output: 1.7 million color boxes + 220,000+ gift boxes. ISO 9001:2015, FSC-C147399, Sedex SMETA, and BSCI certified.
 
@@ -66,7 +66,7 @@ Produced on our BHS 2.5m Corrugator for board production, KBA Rapida 105 4-color
 | **Certifications** | ISO 9001:2015, FSC-C147399, Sedex SMETA, BSCI |
 | **Daily Output** | 1.7M color boxes + 220,000+ gift boxes |
 | **Workforce** | 350+ skilled employees, 3-shift production capability |
-| **Experience** | 22 years since 2003 |
+| **Experience** | 23 years since 2003 |
 | **MOQ** | 500–2000 units; free pre-production samples 7–10 days |
 
 ## Quality & Transit Testing
@@ -85,4 +85,4 @@ Produced on our BHS 2.5m Corrugator for board production, KBA Rapida 105 4-color
 
 ## Why Choose Bincai
 
-Bincai's corrugated wine shippers protect millions of bottles annually for wineries across 30+ export markets. With the BHS 2.5m Corrugator, Bobst Visioncut 106 LER die-cutter, and Bobst Expertfold 145 folder-gluer under one roof, we control every stage from paper roll to finished shipper — no subcontracting, no quality gaps. Our ISTA 3A certified lab validates every new design before production, and our ISO 9001:2015 QMS ensures the 10,000th shipper performs identically to the first. Whether you ship 500 bottles to a new market or 50,000 bottles monthly to established distributors, Bincai delivers export-grade protection backed by 22 years of Guangdong manufacturing excellence.
+Bincai's corrugated wine shippers protect millions of bottles annually for wineries across 30+ export markets. With the BHS 2.5m Corrugator, Bobst Visioncut 106 LER die-cutter, and Bobst Expertfold 145 folder-gluer under one roof, we control every stage from paper roll to finished shipper — no subcontracting, no quality gaps. Our ISTA 3A certified lab validates every new design before production, and our ISO 9001:2015 QMS ensures the 10,000th shipper performs identically to the first. Whether you ship 500 bottles to a new market or 50,000 bottles monthly to established distributors, Bincai delivers export-grade protection backed by 23 years of Guangdong manufacturing excellence.

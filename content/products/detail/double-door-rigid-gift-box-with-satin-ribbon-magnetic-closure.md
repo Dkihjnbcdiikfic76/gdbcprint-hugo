@@ -3,7 +3,7 @@ title: "Double Door Rigid Gift Box with Satin Ribbon Magnetic Closure — Bincai
 date: 2026-06-10
 draft: false
 description: "Premium double-door rigid gift box with satin ribbon tie and hidden neodymium magnetic closure by Guangdong Bincai Color Printing (founded 2003). French-door opening for dramatic product reveal — ideal for luxury jewelry sets, corporate gifts, premium cosmetics, collector's editions, and VIP presentations. Rigid 800–1600gsm greyboard construction, KBA 1050 4-color offset + Heidelberg 7+1 UV, hot foil stamping (gold/silver/rose gold/copper/holographic), embossing/debossing, soft-touch/gloss/matte lamination. ISO 9001:2015 & FSC certified 18,000 sqm factory (10,000+8,000 smart factory), 1.7M daily output. MOQ 500. Free 3D mockup and pre-production sample."
-keywords: "double door rigid gift box, satin ribbon magnetic closure box, luxury rigid gift box manufacturer, premium unboxing packaging, two-door gift box, rigid paper box factory China, custom rigid box hot stamping, corporate gift box ISO FSC, jewelry presentation box, Bincai Guangdong, French door gift box, rigid box wholesale, two-door luxury packaging, satin ribbon box manufacturer, magnetic closure rigid box, custom gift box OEM, premium corporate gift packaging, gold foil gift box, embossed rigid box, KBA 1050 gift box factory, Heidelberg UV rigid box, 18 000 sqm packaging factory, 22 years gift box manufacturer, neodymium magnet gift box, luxury rigid paper box, double door presentation box, China rigid box supplier, Foshan rigid box factory, 1.7M daily output, ISO 9001 gift box, FSC certified rigid box, wedding gift box manufacturer, jewelry set packaging box, cosmetics gift box wholesale, rigid greyboard box, corporate executive gift box, collector edition packaging, luxury unboxing box, high-end presentation box OEM, satin ribbon rigid box"
+keywords: "double door rigid gift box, satin ribbon magnetic closure box, luxury rigid gift box manufacturer, premium unboxing packaging, two-door gift box, rigid paper box factory China, custom rigid box hot stamping, corporate gift box ISO FSC, jewelry presentation box, Bincai Guangdong, French door gift box, rigid box wholesale, two-door luxury packaging, satin ribbon box manufacturer, magnetic closure rigid box, custom gift box OEM, premium corporate gift packaging, gold foil gift box, embossed rigid box, KBA 1050 gift box factory, Heidelberg UV rigid box, 18 000 sqm packaging factory, 23 years gift box manufacturer, neodymium magnet gift box, luxury rigid paper box, double door presentation box, China rigid box supplier, Foshan rigid box factory, 1.7M daily output, ISO 9001 gift box, FSC certified rigid box, wedding gift box manufacturer, jewelry set packaging box, cosmetics gift box wholesale, rigid greyboard box, corporate executive gift box, collector edition packaging, luxury unboxing box, high-end presentation box OEM, satin ribbon rigid box"
 categories: ["rigid-gift-boxes"]
 params:
   moq: "500-1000"
@@ -16,7 +16,7 @@ params:
 
 ## Description
 
-The double-door rigid gift box with satin ribbon magnetic closure delivers an unforgettable unboxing experience — two side panels open like French doors to reveal the product nestled inside, secured by a luxurious satin ribbon tie with hidden neodymium magnetic closure. Manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003) on our 18,000 sqm factory (10,000+8,000 smart factory) floor in Foshan, running KBA 1050 4-color offset presses and Heidelberg 7+1 UV press with inline coating. ISO 9001:2015 & FSC certified. Daily output 1.7 million boxes.
+The double-door rigid gift box with satin ribbon magnetic closure delivers an unforgettable unboxing experience — two side panels open like French doors to reveal the product nestled inside, secured by a luxurious satin ribbon tie with hidden neodymium magnetic closure. Manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 23 years of experience (founded 2003) on our 18,000 sqm factory (10,000+8,000 smart factory) floor in Foshan, running KBA 1050 4-color offset presses and Heidelberg 7+1 UV press with inline coating. ISO 9001:2015 & FSC certified. Daily output 1.7 million boxes.
 
 The double-door design creates a dramatic reveal that elevates brand perception — ideal for luxury jewelry sets, premium corporate gifts, high-end cosmetics, collector's edition products, and VIP client presentations. The rigid 2mm greyboard construction provides structural integrity and a substantial hand-feel, while the satin ribbon closure adds tactile elegance. Hidden magnets in the door edges ensure a clean, seamless exterior profile when closed.
 
@@ -69,7 +69,7 @@ The double-door design creates a dramatic reveal that elevates brand perception 
 | Specification | Detail |
 |---|---|
 | Factory Size | 18,000 sqm (10,000+8,000 smart factory) (2025 expansion) |
-| Years in Business | 22 years (founded 2003) |
+| Years in Business | 23 years (founded 2003) |
 | Daily Output | 1.7 million boxes |
 | Primary Presses | KBA 1050 4-color, Heidelberg 7+1 UV |
 | Certifications | ISO 9001:2015, FSC Chain of Custody |
@@ -115,11 +115,11 @@ The double-door format isn't just a box — it's a theatrical product reveal. Bu
 
 ## Why Bincai
 
-The double-door rigid box demands precision engineering — misaligned door panels, weak magnets, or uneven ribbon tension can ruin the unboxing experience. At Guangdong Bincai Color Printing, **22 years** of rigid box manufacturing (founded 2003) means we've mastered these details. Our **18,000 sqm dual-factory complex** in Foshan houses the full production chain under one roof: structural design → prepress → KBA 1050 4-color offset → Heidelberg 7+1 UV coating → Bobst foil stamping/die-cutting → automated case-making → assembly and QA.
+The double-door rigid box demands precision engineering — misaligned door panels, weak magnets, or uneven ribbon tension can ruin the unboxing experience. At Guangdong Bincai Color Printing, **23 years** of rigid box manufacturing (founded 2003) means we've mastered these details. Our **18,000 sqm dual-factory complex** in Foshan houses the full production chain under one roof: structural design → prepress → KBA 1050 4-color offset → Heidelberg 7+1 UV coating → Bobst foil stamping/die-cutting → automated case-making → assembly and QA.
 
 No subcontracting. No finger-pointing. Just consistent quality backed by **ISO 9001:2015** quality management and **FSC Chain-of-Custody** certification, delivered at a scale of **1.7 million boxes daily**. The double-door design, with its twin side panels and concealable magnetic closure, is one of our signature products — we've produced it for jewelry brands, cosmetics houses, corporate gifting programs, and luxury confectionery clients worldwide.
 
-- **22 Years**: Rigid box expertise since 2003
+- **23 Years**: Rigid box expertise since 2003
 - **18,000 sqm**: 10,000+8,000 smart factory — all processes in-house
 - **KBA 1050 + Heidelberg 7+1 UV + Bobst**: German engineering, Chinese manufacturing efficiency
 - **1.7M Daily Output**: Volume capacity for global brand rollouts

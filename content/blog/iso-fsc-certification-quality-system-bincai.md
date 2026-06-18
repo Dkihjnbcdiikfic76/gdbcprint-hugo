@@ -99,4 +99,4 @@ Certifications are not a cost center — they are a supply chain insurance polic
 *Guangdong Bincai Color Printing Co., Ltd. — ISO 9001:2015 | FSC C186713 | ISO 15378:2017*
 *18,000 sqm | Shunde, Foshan, Guangdong, China*
 *KBA Rapida 105 4-Color | Heidelberg CD 102 7+1 UV | Bobst Novacut 106-E | BHS 2.5m Corrugator*
-*1.7M boxes/day | 22 years experience | global export to 40+ countries*
+*1.7M boxes/day | 23 years experience | global export to 40+ countries*

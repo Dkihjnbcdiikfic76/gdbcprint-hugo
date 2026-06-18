@@ -3,7 +3,7 @@ title: "Folding Carton Sleeve & Tray Combo for Candle & Soap Gift Sets"
 date: 2026-06-14
 draft: false
 description: "Elegant folding carton sleeve-and-tray combo with die-cut window for premium candle and artisan soap gift sets. Manufactured in an 18,000 sqm ISO 9001 & FSC certified factory with KBA 1050 4-color offset printing and Heidelberg 7+1 UV. Soft-touch lamination, gold foil stamping, and custom die-cut inserts available. MOQ 500."
-keywords: "folding carton sleeve tray, candle gift box, soap gift box, sleeve and tray packaging, die-cut window box, luxury candle packaging, artisan soap packaging, folding carton combo, Bincai folding carton, ISO 9001 carton, FSC certified carton, 18,000 sqm factory, 22 years manufacturing, 1.7M daily output, KBA 1050 offset, Heidelberg 7+1 UV, soft-touch lamination carton, gold foil stamping carton, cosmetic packaging box, Guangdong packaging factory, OEM folding carton China, gift set box, candle box, soap box, scented candle packaging, handmade soap packaging, boutique gift packaging, straight tuck end, reverse tuck end, auto-lock bottom"
+keywords: "folding carton sleeve tray, candle gift box, soap gift box, sleeve and tray packaging, die-cut window box, luxury candle packaging, artisan soap packaging, folding carton combo, Bincai folding carton, ISO 9001 carton, FSC certified carton, 18,000 sqm factory, 23 years manufacturing, 1.7M daily output, KBA 1050 offset, Heidelberg 7+1 UV, soft-touch lamination carton, gold foil stamping carton, cosmetic packaging box, Guangdong packaging factory, OEM folding carton China, gift set box, candle box, soap box, scented candle packaging, handmade soap packaging, boutique gift packaging, straight tuck end, reverse tuck end, auto-lock bottom"
 categories: ["folding-cartons"]
 params:
   moq: "500-1000"
@@ -16,7 +16,7 @@ params:
 
 ## Product Overview
 
-The Folding Carton Sleeve & Tray Combo is purpose-built for the booming premium candle and artisan soap market — a packaging format that combines retail shelf impact with practical product protection. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** (22 years of paper box expertise, 18,000 sqm ISO 9001 & FSC certified facility), this two-piece system pairs a rigid-feel printed sleeve with a precisely scored fold-up tray that cradles candles, soap bars, bath bombs, or skincare sets without additional inserts.
+The Folding Carton Sleeve & Tray Combo is purpose-built for the booming premium candle and artisan soap market — a packaging format that combines retail shelf impact with practical product protection. Manufactured by **Guangdong Bincai Color Printing Co., Ltd.** (23 years of paper box expertise, 18,000 sqm ISO 9001 & FSC certified facility), this two-piece system pairs a rigid-feel printed sleeve with a precisely scored fold-up tray that cradles candles, soap bars, bath bombs, or skincare sets without additional inserts.
 
 The outer sleeve is printed on our **KBA Rapida 105 4-color offset press** with optional **Heidelberg Speedmaster XL 7+1 UV** for premium finishes, then die-cut with an elegant window — round, oval, arched, or custom shape — that reveals the product within. A transparent PET or compostable PLA window film is bonded behind the aperture. The inner tray features scored fold lines, auto-lock corner tabs, and optional partition walls to separate multiple items without shifting during transit.
 
@@ -104,4 +104,4 @@ Bincai's integrated production chain — from prepress design through die-cuttin
 - **Sustainability Ready**: PLA compostable window film option (EN 13432 certified) for brands with plastic-free commitments; FSC-certified board with full chain of custody
 - **Export Infrastructure**: FOB Yantian/Nansha/Shekou; palletized flat-pack for maximum container utilization; typical 40HQ loads 150,000–200,000 units
 
-**Factory Facts:** Founded 2003 | 22 years experience | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC certified | Foshan, Guangdong, China
+**Factory Facts:** Founded 2003 | 23 years experience | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC certified | Foshan, Guangdong, China

@@ -2,7 +2,7 @@
 title: "Reverse-Tuck Folding Carton with Matte Lamination & Gold Hot Foil — Cosmetics Packaging"
 date: 2026-06-14
 draft: false
-description: "Reverse-tuck folding carton with matte lamination and gold hot foil stamping by Guangdong Bincai Color Printing Co., Ltd. (22 years, ISO 9001 & FSC certified). Manufactured at our 18,000 sqm Foshan facility on KBA 1050 4-color + Heidelberg 7+1 UV presses, daily output 1.7M boxes. Precision die-cut with ±0.3mm tolerance, soft-touch matte finish, and registered gold foil accents. Ideal for cosmetics, skincare, fragrances, and premium personal care products."
+description: "Reverse-tuck folding carton with matte lamination and gold hot foil stamping by Guangdong Bincai Color Printing Co., Ltd. (23 years, ISO 9001 & FSC certified). Manufactured at our 18,000 sqm Foshan facility on KBA 1050 4-color + Heidelberg 7+1 UV presses, daily output 1.7M boxes. Precision die-cut with ±0.3mm tolerance, soft-touch matte finish, and registered gold foil accents. Ideal for cosmetics, skincare, fragrances, and premium personal care products."
 keywords: "reverse-tuck folding carton, matte lamination, gold hot foil stamping, cosmetics packaging, skincare box, perfume box, folding carton manufacturer, Guangdong Bincai, ISO 9001, FSC certified, KBA 1050, Heidelberg 7+1 UV, 18000 sqm factory, 1.7M daily output, OEM folding cartons, custom cosmetic boxes, SBS paperboard"
 categories: ["folding-cartons"]
 params:
@@ -58,7 +58,7 @@ The matte lamination creates a velvety, non-reflective surface that resists fing
 | Factory | 18,000 sqm dual-factory (10,000 + 8,000 sqm smart factory) |
 | Daily Output | 1.7M boxes |
 | Certifications | ISO 9001:2015, FSC Chain-of-Custody, Sedex SMETA |
-| Experience | 22 years (founded 2003) |
+| Experience | 23 years (founded 2003) |
 | MOQ | 1,000 units |
 | Lead Time | 10–14 days after sample approval |
 
@@ -78,7 +78,7 @@ Cosmetics folding cartons sit at the intersection of high-speed production and u
 
 **The Bincai Difference:** Complete in-house production chain — printing → lamination → foil stamping → die-cutting → gluing — eliminates the hand-off delays and quality gaps of multi-vendor supply chains. **Cosmetics expertise** — we understand the specific requirements: moisture-barrier laminates for bathroom environments, scuff-resistant surfaces for retail shelf handling, and FDA-compliant adhesives for products near skin contact. **Sample program** — free pre-production samples in 5–7 days with both visual (D65 booth photo) and physical (courier shipped) verification.
 
-**Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
+**Factory Facts:** Founded 2003 | 23 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
 
 **Shipping:** Cartons ship flat-packed on pallets; 50,000–80,000 cartons per standard pallet depending on size. Standard sea freight 18–25 days to US/EU ports. Air freight available for rush orders. MOQ 1,000 with 10–14 day production lead time.
 
@@ -109,6 +109,6 @@ The reverse-tuck commands a marginal cost premium ($0.01–$0.05/unit) but deliv
 
 ## Send Us Your Cosmetics Packaging Specs — Free Digital Proof in 24 Hours
 
-**Share your cosmetics carton dimensions and artwork — receive a same-day digital proof, then a free matte-laminated + gold foil sample in 5-7 days.** Every sample is produced on the same KBA 1050 press with Heidelberg 7+1 UV inline coating that runs your full order — what you approve is exactly what ships. ISO 9001:2015 and FSC certified, 22 years of cosmetics packaging manufacturing from Foshan.
+**Share your cosmetics carton dimensions and artwork — receive a same-day digital proof, then a free matte-laminated + gold foil sample in 5-7 days.** Every sample is produced on the same KBA 1050 press with Heidelberg 7+1 UV inline coating that runs your full order — what you approve is exactly what ships. ISO 9001:2015 and FSC certified, 23 years of cosmetics packaging manufacturing from Foshan.
 
 **[Get Your Free Sample + Proof →](/contact/)  or  📧 qo82@icloud.com | 📱 +86-18934352881**

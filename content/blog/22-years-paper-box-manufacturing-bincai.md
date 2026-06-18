@@ -1,9 +1,9 @@
 ---
-title: "22 Years of Paper Box Manufacturing — The Bincai Story"
+title: "23 Years of Paper Box Manufacturing — The Bincai Story"
 date: 2026-05-20
 draft: false
 image: "/images/hero-factory.webp"
-description: "22 Years of Paper Box Manufacturing — The Bincai Story. Guangdong Bincai Color Printing: from a small Foshan print shop in 2003 to an 18,000 sqm ISO 9001:2015 & FSC Chain-of-Custody certified full-chain packaging enterprise. KBA Rapida 1050 4-color offset + Heidelberg Speedmaster 7+1 UV presses, BHS 2.5m corrugator, Bobst SP 102 BMA die-cutter. 1.7M boxes daily + 220K rigid gift boxes. 80+ skilled workers, 3 shifts, export to 50+ countries. Free samples, MOQ 500."
+description: "23 Years of Paper Box Manufacturing — The Bincai Story. Guangdong Bincai Color Printing: from a small Foshan print shop in 2003 to an 18,000 sqm ISO 9001:2015 & FSC Chain-of-Custody certified full-chain packaging enterprise. KBA Rapida 1050 4-color offset + Heidelberg Speedmaster 7+1 UV presses, BHS 2.5m corrugator, Bobst SP 102 BMA die-cutter. 1.7M boxes daily + 220K rigid gift boxes. 80+ skilled workers, 3 shifts, export to 50+ countries. Free samples, MOQ 500."
 
 ---
 

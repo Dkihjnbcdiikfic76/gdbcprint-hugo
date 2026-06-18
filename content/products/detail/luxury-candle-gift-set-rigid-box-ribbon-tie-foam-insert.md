@@ -2,7 +2,7 @@
 title: "Luxury Candle Gift Set Rigid Box with Ribbon Tie and Foam Insert"
 date: 2026-06-11
 draft: false
-description: "Luxury candle gift set rigid box with satin ribbon tie closure and custom die-cut EVA foam insert. Manufactured by Bincai: KBA 1050 4-color offset + Heidelberg 7+1 UV press, hot gold/silver foil stamping, embossing, 18,000 sqm (10,000+8,000 smart factory), 22 years experience, ISO 9001:2015 & FSC certified, 1.7M daily output. PU leather or velvet exterior, magnetic side flap, ΔE≤2.0 color accuracy, magnet pull-force 3.5–5.0N. MOQ 500. Free 3D mockup. 7-15 day sample turnaround."
+description: "Luxury candle gift set rigid box with satin ribbon tie closure and custom die-cut EVA foam insert. Manufactured by Bincai: KBA 1050 4-color offset + Heidelberg 7+1 UV press, hot gold/silver foil stamping, embossing, 18,000 sqm (10,000+8,000 smart factory), 23 years experience, ISO 9001:2015 & FSC certified, 1.7M daily output. PU leather or velvet exterior, magnetic side flap, ΔE≤2.0 color accuracy, magnet pull-force 3.5–5.0N. MOQ 500. Free 3D mockup. 7-15 day sample turnaround."
 keywords: "candle gift box, rigid box with ribbon, luxury candle packaging, foam insert gift box, custom rigid box manufacturer, candle set box China, hot stamping gift box, satin ribbon box, die cut foam insert, home fragrance packaging, velvet rigid box, PU leather gift box, magnetic closure candle box, Bincai, Guangdong packaging factory"
 categories: ["rigid-gift-boxes"]
 params:
@@ -14,7 +14,7 @@ params:
 
 ![Bincai Rigid Gift Boxes](/images/rigid-gift-boxes.jpg)
 
-Luxury candle gift set rigid box with ribbon tie closure and custom foam insert — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 22 years of experience (founded 2003). 18,000 sqm factory (10,000+8,000 smart factory) with KBA 1050 4-color and Heidelberg 7+1 UV presses. Daily output 1.7 million boxes.
+Luxury candle gift set rigid box with ribbon tie closure and custom foam insert — manufactured by Guangdong Bincai Color Printing Co., Ltd., a full-chain packaging enterprise with 23 years of experience (founded 2003). 18,000 sqm factory (10,000+8,000 smart factory) with KBA 1050 4-color and Heidelberg 7+1 UV presses. Daily output 1.7 million boxes.
 
 ## Applications
 - Luxury scented candle gift sets (2-4 candle configurations)
@@ -64,9 +64,9 @@ Luxury candle gift set rigid box with ribbon tie closure and custom foam insert 
 
 ## Why Choose Bincai for Luxury Candle Packaging
 
-The home fragrance market demands packaging that communicates warmth, craftsmanship, and sophistication — before the customer even lights the candle. Bincai's rigid box division brings 22 years of luxury packaging expertise to every candle gift set. Our Heidelberg 7+1 UV press creates luminous foil and spot UV effects that catch candlelight, while our in-house foam die-cutting ensures every candle sits securely in transit — no rattling, no breakage, no returns. For candle brands selling in department stores, boutiques, and direct-to-consumer channels, Bincai delivers the complete package: structural protection, sensory unboxing, and sustainability credibility.
+The home fragrance market demands packaging that communicates warmth, craftsmanship, and sophistication — before the customer even lights the candle. Bincai's rigid box division brings 23 years of luxury packaging expertise to every candle gift set. Our Heidelberg 7+1 UV press creates luminous foil and spot UV effects that catch candlelight, while our in-house foam die-cutting ensures every candle sits securely in transit — no rattling, no breakage, no returns. For candle brands selling in department stores, boutiques, and direct-to-consumer channels, Bincai delivers the complete package: structural protection, sensory unboxing, and sustainability credibility.
 
-- **22 years** of luxury packaging manufacturing in Foshan, Guangdong (founded 2003)
+- **23 years** of luxury packaging manufacturing in Foshan, Guangdong (founded 2003)
 - **18,000 sqm** dual-facility campus (10,000 + 8,000 sqm smart factory, commissioned 2025)
 - **Heidelberg 7+1 UV press**: Instant-cure UV for high-gloss spot effects, metallic inks, and holographic foil simulation
 - **KBA 1050 4-color offset**: Running at 15,000 sheets/hour for high-volume rigid box production

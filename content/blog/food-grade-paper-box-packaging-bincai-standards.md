@@ -3,7 +3,7 @@ title: "Food-Grade Paper Box Packaging: Standards, Materials & Manufacturing at 
 date: 2026-06-14
 draft: false
 image: "/images/hero-factory.webp"
-description: "Bincai manufactures food-grade paper boxes compliant with FDA 21 CFR, EU 1935/2004, and GB 9685 standards. From bakery boxes to tea chests and confectionery cartons — direct food contact, grease-resistant coatings, and odor-free inks. KBA 1050 + Heidelberg 7+1 UV, ISO 9001 & FSC certified, 22 years manufacturing experience."
+description: "Bincai manufactures food-grade paper boxes compliant with FDA 21 CFR, EU 1935/2004, and GB 9685 standards. From bakery boxes to tea chests and confectionery cartons — direct food contact, grease-resistant coatings, and odor-free inks. KBA 1050 + Heidelberg 7+1 UV, ISO 9001 & FSC certified, 23 years manufacturing experience."
 
 ---
 
@@ -146,4 +146,4 @@ Bincai's pre-sales team will match your requirements to the appropriate material
 
 ---
 
-*Guangdong Bincai Color Printing Co., Ltd. — ISO 9001 & FSC certified manufacturer of custom rigid boxes, folding cartons, corrugated mailers, magnetic closure boxes, and eco-friendly kraft packaging. 18,000 sqm factory in Foshan, Shunde. KBA Rapida 1050 4-color press + Heidelberg Speedmaster 7+1 UV press. 22 years of experience. 1.7 million boxes daily output. Exports to 60+ countries. Food-grade packaging line with FDA 21 CFR, EU 1935/2004, and GB 9685 compliance.*
+*Guangdong Bincai Color Printing Co., Ltd. — ISO 9001 & FSC certified manufacturer of custom rigid boxes, folding cartons, corrugated mailers, magnetic closure boxes, and eco-friendly kraft packaging. 18,000 sqm factory in Foshan, Shunde. KBA Rapida 1050 4-color press + Heidelberg Speedmaster 7+1 UV press. 23 years of experience. 1.7 million boxes daily output. Exports to 60+ countries. Food-grade packaging line with FDA 21 CFR, EU 1935/2004, and GB 9685 compliance.*

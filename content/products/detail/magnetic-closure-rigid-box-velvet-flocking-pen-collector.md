@@ -2,8 +2,8 @@
 title: "Magnetic Closure Rigid Box Velvet Flocking Pen Collector Edition"
 date: 2026-06-11
 draft: false
-description: "Premium magnetic closure rigid box with soft velvet flocking interior for luxury pen sets and collector writing instruments. KBA 1050 + Heidelberg 7+1 UV presses, 18,000 sqm factory (10,000+8,000 smart factory), ISO 9001 & FSC certified. 22 years manufacturing since 2003, daily output 1.7M boxes. MOQ 500–1000 units, free samples."
-keywords: "magnetic closure pen box, velvet flocking rigid box, luxury pen collector box, custom pen packaging, rigid gift box for pens, premium magnetic box manufacturer, Bincai rigid box, ISO 9001 FSC pen box, China luxury packaging, 18,000 sqm factory, 22 years manufacturing, 1.7M daily output, N52 neodymium magnets, electrostatic flocking, Bobst foil stamping, KBA 1050 offset, Heidelberg 7+1 UV, corporate pen set box, fountain pen gift box, writing instrument packaging, velvet interior gift box, multi-pen collector case, OEM pen box China, Guangdong packaging factory, FSC chain of custody, soft-touch lamination, gold foil pen box"
+description: "Premium magnetic closure rigid box with soft velvet flocking interior for luxury pen sets and collector writing instruments. KBA 1050 + Heidelberg 7+1 UV presses, 18,000 sqm factory (10,000+8,000 smart factory), ISO 9001 & FSC certified. 23 years manufacturing since 2003, daily output 1.7M boxes. MOQ 500–1000 units, free samples."
+keywords: "magnetic closure pen box, velvet flocking rigid box, luxury pen collector box, custom pen packaging, rigid gift box for pens, premium magnetic box manufacturer, Bincai rigid box, ISO 9001 FSC pen box, China luxury packaging, 18,000 sqm factory, 23 years manufacturing, 1.7M daily output, N52 neodymium magnets, electrostatic flocking, Bobst foil stamping, KBA 1050 offset, Heidelberg 7+1 UV, corporate pen set box, fountain pen gift box, writing instrument packaging, velvet interior gift box, multi-pen collector case, OEM pen box China, Guangdong packaging factory, FSC chain of custody, soft-touch lamination, gold foil pen box"
 categories: ["magnetic-closure-boxes"]
 params:
   moq: "500-1000"
@@ -54,7 +54,7 @@ Elegant magnetic closure rigid box with sumptuous velvet flocking interior — p
 - Free pre-production samples in 5–7 working days
 
 ## Factory
-- 22 years of manufacturing since 2003 in Foshan, Guangdong, China
+- 23 years of manufacturing since 2003 in Foshan, Guangdong, China
 - 18,000 sqm factory (10,000+8,000 smart factory) (commissioned 2025)
 - 80+ skilled employees across design, prepress, printing, and finishing
 - KBA 1050 4-color + Heidelberg 7+1 UV + Bobst foil stamping + automatic rigid box line

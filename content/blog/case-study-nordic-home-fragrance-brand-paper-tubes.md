@@ -4,7 +4,7 @@ date: 2026-06-17
 draft: false
 categories: ["case-studies"]
 description: "A Scandinavian premium candle brand replaced fragile glass jars with Bincai's custom kraft paper cylinder tubes with matte black finish. Results: 22% unit cost reduction, 60% freight volume savings through flat-ship design, zero transit breakage, and FSC-certified packaging that aligned with their Nordic sustainability ethos."
-keywords: "candle packaging case study, home fragrance box, paper cylinder tube, Bincai paper box, Guangdong manufacturer, FSC certified candle box, Nordic home fragrance brand, sustainable candle packaging, ISO 9001, OEM candle box China, kraft paper tube, metal lid cylinder, Bincai Color Printing, 22 years, 18000 sqm, Heidelberg 7+1 UV, KBA 1050, paper box manufacturer Foshan, scented candle packaging, flat-ship packaging"
+keywords: "candle packaging case study, home fragrance box, paper cylinder tube, Bincai paper box, Guangdong manufacturer, FSC certified candle box, Nordic home fragrance brand, sustainable candle packaging, ISO 9001, OEM candle box China, kraft paper tube, metal lid cylinder, Bincai Color Printing, 23 years, 18000 sqm, Heidelberg 7+1 UV, KBA 1050, paper box manufacturer Foshan, scented candle packaging, flat-ship packaging"
 ---
 
 ## The Challenge

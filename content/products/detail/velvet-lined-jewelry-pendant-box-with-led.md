@@ -2,7 +2,7 @@
 title: "Velvet Lined Jewelry Pendant Box with LED"
 date: 2026-06-11
 draft: false
-description: "Premium velvet-lined jewelry pendant box with built-in LED light by Bincai. Magnetic reed switch auto-illumination, KBA 1050 4-color press, Heidelberg 7+1 UV, 18,000 sqm factory (10,000+8,000 smart factory), 22 years experience. ISO 9001 & FSC certified. Daily output 1.7M boxes. Free samples."
+description: "Premium velvet-lined jewelry pendant box with built-in LED light by Bincai. Magnetic reed switch auto-illumination, KBA 1050 4-color press, Heidelberg 7+1 UV, 18,000 sqm factory (10,000+8,000 smart factory), 23 years experience. ISO 9001 & FSC certified. Daily output 1.7M boxes. Free samples."
 keywords: "jewelry pendant box, LED jewelry box, velvet lined box, necklace display box, custom jewelry packaging, rigid jewelry box, Bincai jewelry box, lighted display box, wholesale jewelry packaging, branded jewelry case, LED pendant box, magnetic closure jewelry box, foil stamped box, luxury necklace box, illuminated gift box, ISO certified jewelry packaging, FSC jewelry box, Guangdong jewelry box factory"
 categories: ["jewelry-boxes"]
 params:
@@ -130,7 +130,7 @@ The difference between "a necklace in a box" and "a jewelry experience" is engin
 
 Guangdong Bincai Color Printing Co., Ltd. has been manufacturing premium packaging in Foshan, Guangdong since 2003. Our 18,000 sqm dual-factory campus (10,000 sqm main facility + 8,000 sqm smart factory in Gaobu) houses KBA Rapida 105 4-color offset and Heidelberg Speedmaster CD 102 7+1 UV presses, delivering precision color at 15,000 sheets per hour. With in-house die-cutting, velvet flocking, foil stamping, and LED electronics integration all under one roof, we eliminate the multi-vendor coordination delays that slow down competing factories. Our dedicated electronics assembly line tests every LED box before packaging — reed switch activation angle, battery contact integrity, and 50-hour runtime are verified on 100% of units. ISO 9001:2015 and FSC Chain-of-Custody certified, we produce 1.7 million boxes daily and serve 500+ global brands.
 
-**Factory Facts:** Founded 2003 | 22 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
+**Factory Facts:** Founded 2003 | 23 years | 18,000 sqm (10,000 + 8,000 smart factory) | 1.7M boxes/day | KBA 1050 + Heidelberg 7+1 UV | ISO 9001 & FSC | Foshan, Guangdong, China
 
 ## FAQ
 
